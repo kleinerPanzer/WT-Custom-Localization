@@ -1,1 +1,462 @@
 <ID|readonly|noverify>;<NewLanguage>
+shop/group/sw_pvkv_ikv_group;Pvkv m/43 (1946) / Ikv 103
+shop/group/sw_udes_pbv_group;UDES 33 / Pbv 302A
+shop/group/sw_cv_90105_ikv_91_group;CV90105 TML 105 /Ikv 91-105
+shop/group/sw_strv_101_103a_group;Strv 101 / Strv 103A
+shop/group/sw_strv_104_103c_group;Strv 104 / Strv 103C
+shop/group/sw_strv_122_group;Strv 122A / Strv 122B PLSS
+shop/group/sw_lvkv_asrad_group;Lvkv 90 / ♛ M113A2 (ASRAD-R)
+uk_centurion_mk_3_ss11_shop;▄ Strv 81A (Rb 52)
+uk_centurion_mk_3_ss11_0;▄ Stridsvagn 81A (Robot 52)
+uk_centurion_mk_3_ss11_1;▄ Strv 81A (Rb 52)
+uk_centurion_mk_3_ss11_2;Strv 81
+p-51b_7_sweden_shop;J 26 (F 16)
+p-51b_7_sweden_0;Jakt 26 (Upplands flygflottilj (F 16))
+p-51b_7_sweden_1;J 26
+p-51b_7_sweden_2;J 26
+gladiator_j8a_shop;J 8A
+gladiator_j8a_0;Jakt 8A
+gladiator_j8a_1;J 8A
+gladiator_j8a_2;J 8
+ahs_shop;♛ AH-64A
+ahs_0;♛ Attackhelikoptersystem Studie 1995, AH-64A
+ahs_1;♛ AH-64A
+ahs_2;AH-64
+shop/group/saab_ja37d_group;JA 37D / JA 37DI
+saab_ja37_shop;JA 37C
+saab_ja37_0;Jakt-Attack 37C
+saab_ja37_1;JA 37C
+saab_ja37_2;JA 37
+saab_ja37d_shop;JA 37D
+saab_ja37d_0;Jakt-Attack 37D
+saab_ja37d_1;JA 37D
+saab_ja37d_2;JA 37
+saab_ja37di_shop;JA 37DI
+saab_ja37di_0;Jakt-Attack 37DI
+saab_ja37di_1;JA 37DI
+saab_ja37di_2;JA 37
+saab_ja37di_f21_shop;JA 37DI (F 21)
+saab_ja37di_f21_0;Jakt-Attack 37DI (Norrbottens flygflottilj (F 21))
+saab_ja37di_f21_1;JA 37DI
+saab_ja37di_f21_2;JA 37
+saab_jas39a_shop;JAS 39A
+saab_jas39a_0;JAS 39A
+saab_jas39a_1;JAS 39A
+saab_jas39a_2;JAS 39
+saab_jas39c_shop;JAS 39C
+saab_jas39c_0;JAS 39C
+saab_jas39c_1;JAS 39C
+saab_jas39c_2;JAS 39
+saab_aj37_shop;AJ 37
+saab_aj37_0;Attack-Jakt 37
+saab_aj37_1;AJ 37
+saab_aj37_2;AJ 37
+saab_ajs37_shop;AJS 37
+saab_ajs37_0;Attack-Jakt-Spaning 37
+saab_ajs37_1;AJS 37
+saab_ajs37_2;AJS 37
+saab_j35a_shop;J 35A (k) (F 13)
+saab_j35a_0;Jakt 35A (kort) (Bråvalla flygflottilj (F 13))
+saab_j35a_1;J 35A
+saab_j35a_2;J 35
+shop/group/saab_b17a_group;B 17B / B 17A
+shop/group/saab_t18b_group;T 18B / T 18B (Akan m/45)
+shop/group/saab_j21a_group;J 21A-1 / J 21A-2
+shop/group/vampire_fb_group;J 28B / ☩ Vampire FB.52a
+j9_early_shop;S 9C
+j9_early_0;Spanig 9C
+j9_early_1;S 9C
+j9_early_2;S 9
+hunter_f50_sweden_shop;J 34
+hunter_f50_sweden_0;Jakt 34
+hunter_f50_sweden_1;J 34
+hunter_f50_sweden_2;J 34
+hkp2_shop;Hkp 2
+hkp2_0;Helikopter 2
+hkp2_1;Hkp 2
+hkp2_2;Hkp 2
+hkp3c_shop;Hkp 3A
+hkp3c_0;Helikopter 3A
+hkp3c_1;Hkp 3A
+hkp3c_2;Hkp 3
+hkp9a_cb2_shop;♛ BO 105 CB-2 (HeliTOW)
+hkp9a_cb2_0;♛ BO 105 CB-2 försökspansarvärnshelikopter med pansarvärnrobotsystemet HeliTOW
+hkp9a_cb2_1;♛ BO 105 CB-2
+hkp9a_cb2_2;BO 105
+hkp9a_cb3_fc_shop;Hkp 9A
+hkp9a_cb3_fc_0;Helikopter 9A
+hkp9a_cb3_fc_1;Hkp 9A
+hkp9a_cb3_fc_2;Hkp 9
+mi_28a_sweden_shop;♛ Mi-28A
+mi_28a_sweden_0;♛ Attackhelikoptersystem Studie 1995, Mi-28A
+mi_28a_sweden_1;♛ Mi-28A
+mi_28a_sweden_2;Mi-28
+saab_j29d_shop;J 29D
+saab_j29d_0;Jakt 29D alt 2
+saab_j29d_1;J 29D
+saab_j29d_2;J 29
+saab_j29f_shop;J 29F
+saab_j29f_0;Jakt 29F
+saab_j29f_1;J 29F
+saab_j29f_2;J 29
+saab_j29a_shop;J 29A
+saab_j29a_0;Jakt 29A
+saab_j29a_1;J 29A
+saab_j29a_2;J 29
+saab_j29b_shop;J 29B
+saab_j29b_0;Jakt 29B
+saab_j29b_1;J 29B
+saab_j29b_2;J 29
+saab_sk60b_shop;SK 60B
+saab_sk60b_0;Skol 60B
+saab_sk60b_1;SK 60B
+saab_sk60b_2;SK 60
+saab_105g_shop;Saab 105G
+saab_105g_0;Saab 105G
+saab_105g_1;Saab 105G
+saab_105g_2;Saab 105
+ffvs_j22_b_shop;J 22B
+ffvs_j22_b_0;Jakt 22B
+ffvs_j22_b_1;J 22B
+ffvs_j22_b_2;J 22
+saab_j21a_1_shop;J 21A-1
+saab_j21a_1_0;Jakt 21A-1
+saab_j21a_1_1;J 21A
+saab_j21a_1_2;J 21
+saab_j21a_2_shop;J 21A-2
+saab_j21a_2_0;Jakt 21A-2
+saab_j21a_2_1;J 21A
+saab_j21a_2_2;J 21
+saab_a21a_3_shop;A 21A-3
+saab_a21a_3_0;Attack 21A-3 (1952)
+saab_a21a_3_1;A 21A
+saab_a21a_3_2;A 21
+saab_a21rb_shop;A 21RB
+saab_a21rb_0;Attack 21RB
+saab_a21rb_1;A 21R
+saab_a21rb_2;A 21
+saab_j21ra_shop;A 21RA
+saab_j21ra_0;Attack 21RA (1951)
+saab_j21ra_1;A 21R
+saab_j21ra_2;A 21
+gladiator_j8a_iacobi_shop;J 8A (F 19)
+gladiator_j8a_iacobi_0;Jakt 8A (Ian Iacobi, Flygflottilj 19)
+gladiator_j8a_iacobi_1;J 8A
+gladiator_j8a_iacobi_2;J 8
+shop/group/gladiator_j8a_group;J 8A / J 6B
+saab_b3c_shop;B 3C-2
+saab_b3c_0;Bomb 3C-2
+saab_b3c_1;B 3C
+saab_b3c_2;B 3
+he_115a_2_sweden_shop;T 2
+he_115a_2_sweden_0;T 2
+he_115a_2_sweden_1;T 2
+he_115a_2_sweden_2;T 2
+j6b_shop;J 6B
+j6b_0;Jakt 6B
+j6b_1;J 6B
+j6b_2;J 6
+fiat_cr42_j11_shop;J 11
+fiat_cr42_j11_0;Jakt 11
+fiat_cr42_j11_1;J 11
+fiat_cr42_j11_2;J 11
+ffvs_j22_a_shop;J 22A
+ffvs_j22_a_0;Jakt 22A
+ffvs_j22_a_1;J 22A
+ffvs_j22_a_2;J 22
+re_2000_j20_shop;J 20
+re_2000_j20_0;Jakt 20
+re_2000_j20_1;J 20
+re_2000_j20_2;J 20
+p-51d-20-na_j26_shop;J 26
+p-51d-20-na_j26_0;Jakt 26
+p-51d-20-na_j26_1;J 26
+p-51d-20-na_j26_2;J 26
+vampire_fb5_j28b_shop;J 28B
+vampire_fb5_j28b_0;Jakt 28B (1953)
+vampire_fb5_j28b_1;J 28B
+vampire_fb5_j28b_2;J 28
+saab_b17a_shop;B 17A
+saab_b17a_0;Bomb 17A
+saab_b17a_1;B 17A
+saab_b17a_2;B 17
+saab_b17b_shop;B 17B
+saab_b17b_0;Bomb 17B
+saab_b17b_1;B 17B
+saab_b17b_2;B 17
+saab_b17bs_shop;S 17BS
+saab_b17bs_0;Spaning 17BS
+saab_b17bs_1;S 17BS
+saab_b17bs_2;S 17
+saab_b18a_shop;B 18A
+saab_b18a_0;Bomb 18A
+saab_b18a_1;B 18A
+saab_b18a_2;B 18
+saab_b18b_shop;B 18B
+saab_b18b_0;Bomb 18B
+saab_b18b_1;B 18B
+saab_b18b_2;B 18
+saab_t18b_1_shop;T 18B
+saab_t18b_1_0;Torped 18B
+saab_t18b_1_1;T 18B
+saab_t18b_1_2;T 18
+saab_t18b_2_shop;T 18B (Akan m/45)
+saab_t18b_2_0;Torped 18B (Automatkanon m/45)
+saab_t18b_2_1;T 18B
+saab_t18b_2_2;T 18
+saab_j35d_shop;J 35D
+saab_j35d_0;Jakt 35D
+saab_j35d_1;J 35D
+saab_j35d_2;J 35
+saab_j32b_shop;J 32B
+saab_j32b_0;Jakt 32B
+saab_j32b_1;J 32B
+saab_j32b_2;J 32
+saab_a32a_shop;A 32A
+saab_a32a_0;Attack 32A
+saab_a32a_1;A 32A
+saab_a32a_2;A 32
+saab_a32a_red_adam_shop;A 32A (F 17)
+saab_a32a_red_adam_0;Attack 32A (Blekinge flygflottilj (F 17))
+saab_a32a_red_adam_1;A 32A
+saab_a32a_red_adam_2;A 32
+sw_pbil_m40_shop;Pbil m/40
+sw_pbil_m40_0;Pansarbil m/40
+sw_pbil_m40_1;Pbil m/40
+sw_pbil_m40_2;Pbil m/40
+sw_bkan_1c_shop;Bkan 1C
+sw_bkan_1c_0;Bandkanon 1C
+sw_bkan_1c_1;Bkan 1C
+sw_bkan_1c_2;Bkan 1
+sw_strv_m31_shop;Strv m/31
+sw_strv_m31_0;Stridsvagn m/31
+sw_strv_m31_1;Strv m/31
+sw_strv_m31_2;Strv m/31
+sw_sav_m43_1944_shop;Sav m/43 (1944)
+sw_sav_m43_1944_0;Stormartillerivagn m/43 (1944)
+sw_sav_m43_1944_1;Sav m/43
+sw_sav_m43_1944_2;Sav m/43
+sw_sav_m43_1946_shop;Sav m/43 (1946)
+sw_sav_m43_1946_0;Stormartillerivagn m/43 (1946)
+sw_sav_m43_1946_1;Sav m/43
+sw_sav_m43_1946_2;Sav m/43
+sw_strv_105_shop;Strv 105
+sw_strv_105_0;Stridsvagn 105
+sw_strv_105_1;Strv 105
+sw_strv_105_2;Strv 105
+sw_strv_104_shop;Strv 104
+sw_strv_104_0;Stridsvagn 104
+sw_strv_104_1;Strv 104
+sw_strv_104_2;Strv 104
+sw_strv_101_shop;Strv 101
+sw_strv_101_0;Stridsvagn 101
+sw_strv_101_1;Strv 101
+sw_strv_101_2;Strv 101
+sw_strv_74_shop;Strv 74
+sw_strv_74_0;Stridsvagn 74
+sw_strv_74_1;Strv 74
+sw_strv_74_2;Strv 74
+sw_pvkv_m43_1963_shop;Pvkv m/43 (1963)
+sw_pvkv_m43_1963_0;Pansarvärnskanonvagn m/43 (1963)
+sw_pvkv_m43_1963_1;Pvkv m/43
+sw_pvkv_m43_1963_2;Pvkv m/43
+sw_lvkv_90c_shop;Lvkv 90
+sw_lvkv_90c_0;Luftvärnskanonvagn 90
+sw_lvkv_90c_1;Lvkv 90
+sw_lvkv_90c_2;Lvkv 90
+sw_strv_103a_shop;Strv 103A
+sw_strv_103a_0;Stridsvagn 103A
+sw_strv_103a_1;Strv 103A
+sw_strv_103a_2;Strv 103
+sw_strv_103c_shop;Strv 103С
+sw_strv_103c_0;Stridsvagn 103С
+sw_strv_103c_1;Strv 103С
+sw_strv_103c_2;Strv 103
+sw_landsverk_ush_405_shop;Unimog SH (Typ 3Z 8DLa)
+sw_landsverk_ush_405_0;Unimog SH Typ 405.110 (Oerlikon Typ 3Z 8DLa)
+sw_landsverk_ush_405_1;Unimog SH (Typ 3Z 8DLa)
+sw_landsverk_ush_405_2;Unimog SH
+sw_strv121b_christian2_shop;Strv 121B
+sw_strv121b_christian2_0;Stridsvagn 121B
+sw_strv121b_christian2_1;Strv 121B
+sw_strv121b_christian2_2;Strv 121
+sw_strv_121_shop;Strv 121A
+sw_strv_121_0;Stridsvagn 121A
+sw_strv_121_1;Strv 121A
+sw_strv_121_2;Strv 121
+sw_cv_90_mk4_shop;CV90 MkIV (E30)
+sw_cv_90_mk4_0;Combat Vehicle 90 MkIV (E30)
+sw_cv_90_mk4_1;CV90 MkIV
+sw_cv_90_mk4_2;CV90
+sw_cv_90120_shop;CV90120
+sw_cv_90120_0;Combat Vehicle 90120
+sw_cv_90120_1;CV90120
+sw_cv_90120_2;CV90
+sw_strv_122b_plus_shop;Strv 122B+
+sw_strv_122b_plus_0;Stridsvagn 122B+ Evolution
+sw_strv_122b_plus_1;Strv 122B
+sw_strv_122b_plus_2;Strv 122
+sw_strv_122b_plss_shop;Strv 122B PLSS
+sw_strv_122b_plss_0;Stridsvagn 122B Panoramic Low-Signature Sight
+sw_strv_122b_plss_1;Strv 122B
+sw_strv_122b_plss_2;Strv 122
+sw_strv_122_shop;Strv 122A
+sw_strv_122_0;Stridsvagn 122A
+sw_strv_122_1;Strv 122A
+sw_strv_122_2;Strv 122
+sw_t_80u_shop;♛ Strv T 80 U
+sw_t_80u_0;♛ Stridsvagn T 80 U
+sw_t_80u_1;♛ Strv T 80 U
+sw_t_80u_2;Strv T 80
+sw_cv_90105_tml_shop;CV90105 XC-8 105HP
+sw_cv_90105_tml_0;Combat Vehicle 90105 XC-8 105HP
+sw_cv_90105_tml_1;CV90105 XC-8
+sw_cv_90105_tml_2;CV90
+sw_cv_90105_shop;CV90105 TML 105
+sw_cv_90105_0;Combat Vehicle 90105 TML 105
+sw_cv_90105_1;CV90105 TML 105
+sw_cv_90105_2;CV90
+sw_strf_9056_shop;Strf 9040A BILL
+sw_strf_9056_0;Stridsfordon 9040A BILL
+sw_strf_9056_1;Strf 9040A BILL
+sw_strf_9056_2;Strf 90
+sw_strf_90b_shop;Strf 9040B
+sw_strf_90b_0;Stridsfordon 9040B
+sw_strf_90b_1;Strf 9040B
+sw_strf_90b_2;Strf 90
+sw_strf_90c_shop;Strf 9040C
+sw_strf_90c_0;Stridsfordon 9040C
+sw_strf_90c_1;Strf 9040C
+sw_strf_90c_2;Strf 90
+sw_strv_81_rb52_shop;Strv 81A (Rb 52)
+sw_strv_81_rb52_0;Stridsvagn 81A (Robot 52)
+sw_strv_81_rb52_1;Strv 81A (Rb 52)
+sw_strv_81_rb52_2;Strv 81
+sw_strv_81_shop;Strv 81A
+sw_strv_81_0;Stridsvagn 81A
+sw_strv_81_1;Strv 81A
+sw_strv_81_2;Strv 81
+sw_strv_m38_shop;Strv m/38
+sw_strv_m38_0;Stridsvagn m/38
+sw_strv_m38_1;Strv m/38
+sw_strv_m38_2;Strv m/38
+sw_strv_m39_td_shop;Strv m/39 (TD)
+sw_strv_m39_td_0;Stridsvagn m/39 (Twitch Drop)
+sw_strv_m39_td_1;Strv m/39 TD
+sw_strv_m39_td_2;Strv m/39
+sw_strv_m39_shop;Strv m/39
+sw_strv_m39_0;Stridsvagn m/39
+sw_strv_m39_1;Strv m/39
+sw_strv_m39_2;Strv m/39
+sw_strv_m40l_shop;Strv m/40L
+sw_strv_m40l_0;Stridsvagn m/40 Landsverk
+sw_strv_m40l_1;Strv m/40L
+sw_strv_m40l_2;Strv m/40
+sw_strv_m41_s1_shop;Strv m/41 S-I
+sw_strv_m41_s1_0;Stridsvagn m/41 S-I
+sw_strv_m41_s1_1;Strv m/41 S-I
+sw_strv_m41_s1_2;Strv m/41
+sw_strv_m41_s2_shop;Strv m/41 S-II
+sw_strv_m41_s2_0;Stridsvagn m/41 S-II
+sw_strv_m41_s2_1;Strv m/41 S-II
+sw_strv_m41_s2_2;Strv m/41
+sw_lago_1_shop;Lago I
+sw_lago_1_0;Lago I
+sw_lago_1_1;Lago I
+sw_lago_1_2;Lago
+sw_pvrbv_551_shop;Pvrbv 551
+sw_pvrbv_551_0;Pansarvärnsrobotbandvagn 551
+sw_pvrbv_551_1;Pvrbv 551
+sw_pvrbv_551_2;Pvrbv 551
+sw_asrad_r_shop;♛ M113A2 (ASRAD-R)
+sw_asrad_r_0;♛ M113A2 (Advanced Short Range Air Defence System - RBS)
+sw_asrad_r_1;♛ M113A2 (ASRAD-R)
+sw_asrad_r_2;M113
+sw_lvrbv_701_shop;Lvrbv 701
+sw_lvrbv_701_0;Luftvärnsrobotbandvagn 701
+sw_lvrbv_701_1;Lvrbv 701
+sw_lvrbv_701_2;Lvrbv 701
+sw_ikv_73_shop;Ikv 73
+sw_ikv_73_0;Infanterikanonvagn 73
+sw_ikv_73_1;Ikv 73
+sw_ikv_73_2;Ikv 73
+sw_ikv_72_shop;Ikv 72
+sw_ikv_72_0;Infanterikanonvagn 72
+sw_ikv_72_1;Ikv 72
+sw_ikv_72_2;Ikv 72
+sw_l_62_anti_II_shop;ItPsv 41
+sw_l_62_anti_II_0;Ilmatorjuntapanssarivaunu 41
+sw_l_62_anti_II_1;ItPsv 41
+sw_l_62_anti_II_2;ItPsv 41
+sw_lvkv_42_shop;Lvkv 42
+sw_lvkv_42_0;Luftvärnskanonvagn 42
+sw_lvkv_42_1;Lvkv 42
+sw_lvkv_42_2;Lvkv 42
+sw_veak_40_shop;VEAK 40
+sw_veak_40_0;Vagn Eldledning AutomatKanon 40
+sw_veak_40_1;VEAK 40
+sw_veak_40_2;VEAK 40
+sw_pvlvv_fm42_shop;L-120 (Lvakan m/40B)
+sw_pvlvv_fm42_0;Landsverk L-120 (Lvakan m/40B)
+sw_pvlvv_fm42_1;L-120 (Lvakan m/40B)
+sw_pvlvv_fm42_2;L-120
+sw_tgdgb_m40_lv_shop;Tdgb m/40 LV
+sw_tgdgb_m40_lv_0;Terrängdragbil m/40 Luftvärn
+sw_tgdgb_m40_lv_1;Tdgb m/40 LV
+sw_tgdgb_m40_lv_2;Tdgb m/40
+sw_udes_33_shop;UDES 33
+sw_udes_33_0;Underlagsgrupp Direkt Eld Stridsfordon 33
+sw_udes_33_1;UDES 33
+sw_udes_33_2;UDES 33
+sw_ikv_103_shop;Ikv 103
+sw_ikv_103_0;Infanterikanonvagn 103
+sw_ikv_103_1;Ikv 103
+sw_ikv_103_2;Ikv 103
+sw_sherman_3_4_shop;♛ Sherman III
+sw_sherman_3_4_0;♛ Stridsvagn Sherman III (dieselmotor)
+sw_sherman_3_4_1;♛ Sherman III
+sw_sherman_3_4_2;Sherman
+sw_sav_fm48_shop;Sav fm/48
+sw_sav_fm48_0;Stormartillerivagn försöksmodell/48
+sw_sav_fm48_1;Sav fm/48
+sw_sav_fm48_2;Sav fm/48
+sw_stormpjas_fm43_44_shop;Stormpjäs fm/43-44
+sw_stormpjas_fm43_44_0;Stormpjäs försöksmodell/43-44
+sw_stormpjas_fm43_44_1;Stormpjäs fm/43-44
+sw_stormpjas_fm43_44_2;Stormpjäs fm/43-44
+sw_pvkv_iv_shop;Pvkv IVA
+sw_pvkv_iv_0;Pansarvärnskanonvagn IVA
+sw_pvkv_iv_1;Pvkv IVA
+sw_pvkv_iv_2;Pvkv IV
+sw_pvkv_III_shop;Pvkv III
+sw_pvkv_III_0;Pansarvärnskanonvagn III
+sw_pvkv_III_1;Pvkv III
+sw_pvkv_III_2;Pvkv III
+sw_pvkv_II_shop;Pvkv II
+sw_pvkv_II_0;Pansarvärnskanonvagn II
+sw_pvkv_II_1;Pvkv II
+sw_pvkv_II_2;Pvkv II
+sw_ikv_91_105_shop;Ikv 91-105
+sw_ikv_91_105_0;Infanterikanonvagn 91-105
+sw_ikv_91_105_1;Ikv 91-105
+sw_ikv_91_105_2;Ikv 91
+sw_ikv_91_shop;Ikv 91
+sw_ikv_91_0;Infanterikanonvagn 91
+sw_ikv_91_1;Ikv 91
+sw_ikv_91_2;Ikv 91
+sw_strv_m42_eh_shop;Strv m/42 EH
+sw_strv_m42_eh_0;Stridsvagn m/42 En Hydraulisk
+sw_strv_m42_eh_1;Strv m/42 EH
+sw_strv_m42_eh_2;Strv m/42
+sw_strv_m42_delat_torn_shop;Strv m/42 DT
+sw_strv_m42_delat_torn_0;Stridsvagn m/42 Delat Torn
+sw_strv_m42_delat_torn_1;Strv m/42 DT
+sw_strv_m42_delat_torn_2;Strv m/42
+sw_pvkv_m43_1946_shop;Pvkv m/43 (1946)
+sw_pvkv_m43_1946_0;Pansarvärnskanonvagn m/43 (1946)
+sw_pvkv_m43_1946_1;Pvkv m/43
+sw_pvkv_m43_1946_2;Pvkv m/43
+sw_strv_103_0_shop;Strv 103-0
+sw_strv_103_0_0;Stridsvagn 103-0
+sw_strv_103_0_1;Strv 103-0
+sw_strv_103_0_2;Strv 103

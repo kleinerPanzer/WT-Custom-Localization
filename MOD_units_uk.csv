@@ -1,1 +1,1195 @@
 <ID|readonly|noverify>;<NewLanguage>
+uk_fv4005_shop;Centaur
+uk_fv4005_0;FV4005 Tank, Heavy Gun, Stage II, Centaur
+uk_fv4005_1;Centaur
+uk_fv4005_2;Centaur
+uk_centurion_mk_1_shop;Centurion Mk. I*
+uk_centurion_mk_1_0;Tank, Cruiser, A.41, Centurion Mk. I*
+uk_centurion_mk_1_1;Centurion Mk. I
+uk_centurion_mk_1_2;Centurion
+uk_m44_shop;▄ M44
+uk_m44_0;▄ Howitzer, Medium, Self-Propelled: Full-Tracked, 155-mm, M44
+uk_m44_1;▄ M44
+uk_m44_2;M44
+uk_m109a1_shop;▄ M109A1
+uk_m109a1_0;▄ Howitzer, Medium, Self-Propelled: 155-mm, M109A1
+uk_m109a1_1;▄ M109A1
+uk_m109a1_2;M109
+uk_a_43_black_prince_shop;Black Prince
+uk_a_43_black_prince_0;Tank, Infantry, A.43, Black Prince
+uk_a_43_black_prince_1;Black Prince
+uk_a_43_black_prince_2;Black Prince
+us_mk1_grant_shop;▃ Grant Mk. I
+us_mk1_grant_0;▃ Tank, Medium, Grant Mk. I (January 1942)
+us_mk1_grant_1;▃ Grant Mk. I
+us_mk1_grant_2;Grant
+us_m4a5_ram_2_0;▃ Tank, Cruiser, Ram Mk. II (No. CT-39831-CT40131)
+us_m4a5_ram_2_1;▃ Ram Mk. II
+us_m4a5_ram_2_2;Ram
+us_m4a5_ram_2_shop;▃ Ram Mk. II
+uk_m4a5_ram_2_shop;Ram Mk. II
+uk_m4a5_ram_2_0;Tank, Cruiser, Ram Mk. II (No. CT-39831-CT40131)
+uk_m4a5_ram_2_1;Ram Mk. II
+uk_m4a5_ram_2_2;Ram
+uk_cruiser_ram_1_shop;Ram Mk. I
+uk_cruiser_ram_1_0;Tank, Cruiser, Ram Mk. I
+uk_cruiser_ram_1_1;Ram Mk. I
+uk_cruiser_ram_1_2;Ram
+uk_mk1_grant_shop;Grant Mk. I
+uk_mk1_grant_0;Tank, Medium, Grant Mk. I (January 1942)
+uk_mk1_grant_1;Grant Mk. I
+uk_mk1_grant_2;Grant
+shop/group/uk_sky_sabre_fcs_group;Sky Sabre
+shop/group/uk_challenger_comet_group;Challenger Mk. I / Comet Mk. IA
+shop/group/uk_caernarvon_conqueror_group;Caernarvon Mk. 2 / Conqueror Mk. 2
+shop/group/uk_challenger_group;Challenger 1 Mk. 2 / Challenger 1 Mk. 3
+shop/group/uk_challenger_2_group;Challenger 2 (2E) / Challenger 2 (2F) / Challenger 2 (TES)
+shop/group/uk_challenger_bn_e_group;Challenger 2 BN / Challenger 2E
+shop/group/uk_churchill_group;Churchill Mk. III / Churchill Mk. IV, N.A.75
+shop/group/uk_tortoise_conway_group;Tortoise / Conway
+shop/group/uk_fv510_zt3_group;Warrior ISV / Ratel ZT3 Mk. 3
+shop/group/uk_marksman_za_group;Chieftain Marksman / Rooikat ZA-35
+shop/group/uk_kit_3rank_group;Echoes of Overlord
+shop/group/uk_scimitar_fox_group;Scimitar / Fox
+shop/group/uk_stormer_group;Stormer Air Defence / FV4333
+shop/group/uk_crusader_group;Crusader Mk. II / Crusader Mk. III
+shop/group/uk_cromwell_group;Cromwell Mk. VC / Cromwell Mk. IC
+shop/group/uk_valentine_group;Valentine Mk. I / Valentine Mk. XI / Valetnine Mk. IX
+shop/group/uk_chieftain_mk_3_5_group;Chieftain Mk. 3 / Chieftain Mk. 5
+uk_mark_v_event_shop;Mk. V (M)
+uk_mark_v_event_0;Tank, Mk. V (Male);
+uk_mark_v_event_1;Mk. V
+uk_mark_v_event_2;Mk. V
+uk_mark_v_shop;Mk. V (M)
+uk_mark_v_0;Tank, Mk.  V (Male);
+uk_mark_v_1;Mk. V
+uk_mark_v_2;Mk. V
+uk_3_inch_gun_carrier_shop;Churchill Gun Carrier
+uk_3_inch_gun_carrier_0;Carrier, Churchill, 3-in Gun, Mk. I
+uk_3_inch_gun_carrier_1;Churchill Gun Carrier
+uk_3_inch_gun_carrier_2;Churchill GC
+uk_a_12_mk_2_matilda_2_shop;Matilda Mk. III
+uk_a_12_mk_2_matilda_2_0;Tank, Infantry, Mk. IIA*, A.12, Matilda Mk. III
+uk_a_12_mk_2_matilda_2_1;Matilda Mk. III
+uk_a_12_mk_2_matilda_2_2;Matilda
+uk_churchill_avre_shop;Churchill Mk. III, A.V.R.E.
+uk_churchill_avre_0;Tank, Infantry, Mk. IV, A.22, Churchill Mk. III, Armoured Vehicle Royal Engineers
+uk_churchill_avre_1;Churchill Mk. III, A.V.R.E.
+uk_churchill_avre_2;Churchill
+uk_churchill_na75_shop;Churchill Mk. IV, N.A.75
+uk_churchill_na75_0;Tank, Infantry, Mk. IV, A.22, Churchill Mk. IV, North American 75
+uk_churchill_na75_1;Churchill Mk. IV, N.A. 75
+uk_churchill_na75_2;Churchill
+uk_a_22f_mk_7_churchill_crocodile_shop;Churchill Mk. VII Crocodile
+uk_a_22f_mk_7_churchill_crocodile_0;Tank, Infantry, Mk. IV, A.22F, Churchill Mk. VII Crocodile
+uk_a_22f_mk_7_churchill_crocodile_1;Churchill Mk. VII
+uk_a_22f_mk_7_churchill_crocodile_2;Churchill
+uk_a_22f_mk_7_churchill_1944_shop;Churchill Mk. VII
+uk_a_22f_mk_7_churchill_1944_0;Tank, Infantry, Mk. IV, A.22F, Churchill Mk. VII
+uk_a_22f_mk_7_churchill_1944_1;Churchill Mk. VII
+uk_a_22f_mk_7_churchill_1944_2;Churchill
+uk_a27m_cromwell_5_shop;Cromwell Mk. VC
+uk_a27m_cromwell_5_0;Tank, Cruiser, Mk. VIII, A.27M, Cromwell Mk. VC
+uk_a27m_cromwell_5_1;Cromwell Mk. V
+uk_a27m_cromwell_5_2;Cromwell
+uk_a27m_cromwell_5_rp3_shop;Cromwell Mk. VC Tulip
+uk_a27m_cromwell_5_rp3_0;Tank, Cruiser, Mk. VIII, A.27M, Cromwell Mk. VC, Tulip
+uk_a27m_cromwell_5_rp3_1;Cromwell Mk. V Tulip
+uk_a27m_cromwell_5_rp3_2;Cromwell
+uk_centurion_mk_10_shop;Centurion Mk. 10
+uk_centurion_mk_10_0;FV4017 Tank, Combat, 105 mm Gun, Centurion Mk. 10
+uk_centurion_mk_10_1;Centurion Mk. 10
+uk_centurion_mk_10_2;Centurion
+uk_charioteer_mk_7_shop;Charioteer Mk. 7F
+uk_charioteer_mk_7_0;FV4101 Tank, Medium Gun, Charioteer Mk. 7F
+uk_charioteer_mk_7_1;Charioteer Mk. 7F
+uk_charioteer_mk_7_2;Charioteer
+uk_crusader_mk_2_the_saint_shop;Crusader Mk. II (10th R.Huss.)
+uk_crusader_mk_2_the_saint_0;Tank, Cruiser, Mk. VIA, A.15, Crusader Mk. II (10th Royal Hussars (Prince of Wales's Own))
+uk_crusader_mk_2_the_saint_1;Crusader Mk. II
+uk_crusader_mk_2_the_saint_2;Crusader
+uk_crusader_mk_2_shop;Crusader Mk. II
+uk_crusader_mk_2_0;Tank, Cruiser, Mk. VIA, A.15, Crusader Mk. II
+uk_crusader_mk_2_1;Crusader Mk. II
+uk_crusader_mk_2_2;Crusader
+uk_crusader_mk_3_shop;Crusader Mk. III
+uk_crusader_mk_3_0;Tank, Cruiser, Mk. VIB, A.15, Crusader Mk. III
+uk_crusader_mk_3_1;Crusader Mk. III
+uk_crusader_mk_3_2;Crusader
+uk_alecto_mk_1_shop;Alecto Mk. I
+uk_alecto_mk_1_0;95 mm, S.P.3, A.25E2, Alecto Mk. I
+uk_alecto_mk_1_1;Alecto Mk. I
+uk_alecto_mk_1_2;Alecto
+uk_sp_17_pdr_valentine_shop;Archer
+uk_sp_17_pdr_valentine_0;17-pr, S.P.1, Valentine, Mk. I, Archer
+uk_sp_17_pdr_valentine_1;Archer
+uk_sp_17_pdr_valentine_2;Archer
+uk_t17e2_shop;Staghound, A.A.
+uk_t17e2_0;Car, Armoured, Staghound, Anti-Aircraft
+uk_t17e2_1;Staghound, A.A.
+uk_t17e2_2;Staghound
+uk_vickers_mk_11_shop;Vickers Mk. 11 LRPV
+uk_vickers_mk_11_0;Vickers Mk. 11 Long Range Patrol Vehicle
+uk_vickers_mk_11_1;Vickers Mk. 11 LRPV
+uk_vickers_mk_11_2;Vickers Mk. 11
+uk_vickers_mk7_shop;Vickers Mk. 7 MBT
+uk_vickers_mk7_0;Vickers Mk. 7 Main Battle Tank
+uk_vickers_mk7_1;Vickers Mk. 7 MBT
+uk_vickers_mk7_2;Vickers Mk. 7
+uk_vickers_mbt_mk_1_shop;Vickers Mk. 1 MBT
+uk_vickers_mbt_mk_1_0;Vickers Mk. 1 Main Battle Tank
+uk_vickers_mbt_mk_1_1;Vickers Mk. 1 MBT
+uk_vickers_mbt_mk_1_2;Vickers Mk. 1
+uk_valentine_mk_1_shop;Valentine Mk. I
+uk_valentine_mk_1_0;Tank, Infantry, Mk. III, Valentine Mk. I
+uk_valentine_mk_1_1;Valentine Mk. I
+uk_valentine_mk_1_2;Valentine
+uk_valentine_mk_9_shop;Valentine Mk. IX
+uk_valentine_mk_9_0;Tank, Infantry, Mk. III, Valentine Mk. IX
+uk_valentine_mk_9_1;Valentine Mk. IX
+uk_valentine_mk_9_2;Valentine
+uk_valentine_mk_11_shop;Valentine Mk. XI
+uk_valentine_mk_11_0;Tank, Infantry, Mk. III, Valentine Mk. XI
+uk_valentine_mk_11_1;Valentine Mk. XI
+uk_valentine_mk_11_2;Valentine
+uk_a_13_mk2_1939_shop;Cruiser Mk. IVA
+uk_a_13_mk2_1939_0;Tank, Cruiser, Mk. IVA, A.13 Mk. II
+uk_a_13_mk2_1939_1;Cruiser Mk. IVA
+uk_a_13_mk2_1939_2;Cruiser
+uk_m3a1_stuart_shop;Stuart Mk. III
+uk_m3a1_stuart_0;Tank, Light, Stuart Mk. III
+uk_m3a1_stuart_1;Stuart Mk. III
+uk_m3a1_stuart_2;Stuart
+uk_m3_stuart_shop;Stuart Mk. I
+uk_m3_stuart_0;Tank, Light, Stuart Mk. I (D37812)
+uk_m3_stuart_1;Stuart Mk. I
+uk_m3_stuart_2;Stuart
+uk_sherman_II_shop;Sherman Mk. II
+uk_sherman_II_0;Tank, Medium, Sherman Mk. II (August 1942) (PSC)
+uk_sherman_II_1;Sherman Mk. II
+uk_sherman_II_2;Sherman
+uk_17_pdr_m10_achilles_norfolk_yeomanry_shop;Achilles Mk. IC (65th A.T.Reg.)
+uk_17_pdr_m10_achilles_norfolk_yeomanry_0;17-pr, S.P., M10, Achilles Mk. IC (65th Anti-Tank Regiment “Norfolk Yeomanry”)
+uk_17_pdr_m10_achilles_norfolk_yeomanry_1;Achilles Mk. IC
+uk_17_pdr_m10_achilles_norfolk_yeomanry_2;Achilles
+uk_17_pdr_m10_achilles_shop;Achilles Mk. IC
+uk_17_pdr_m10_achilles_0;17-pr, S.P., M10, Achilles Mk. IC
+uk_17_pdr_m10_achilles_1;Achilles Mk. IC
+uk_17_pdr_m10_achilles_2;Achilles
+uk_a_13_mk2_shop;Cruiser Mk. IV
+uk_a_13_mk2_0;Tank, Cruiser, Mk. IV, A.13 Mk. II
+uk_a_13_mk2_1;Cruiser Mk. IV
+uk_a_13_mk2_2;Cruiser
+uk_a_13_mk1_3rd_rtr_shop;Cruiser Mk. III (3rd R.T.Reg.)
+uk_a_13_mk1_3rd_rtr_0;Tank, Cruiser, Mk. III, A.13 Mk. I (3rd Royal Tank Regiment)
+uk_a_13_mk1_3rd_rtr_1;Cruiser Mk. III
+uk_a_13_mk1_3rd_rtr_2;Cruiser
+uk_a_13_mk1_shop;Cruiser Mk. III
+uk_a_13_mk1_0;Tank, Cruiser, Mk. III, A.13 Mk. I
+uk_a_13_mk1_1;Cruiser Mk. III
+uk_a_13_mk1_2;Cruiser
+uk_a27m_cromwell_1_shop;Cromwell Mk. IC
+uk_a27m_cromwell_1_0;Tank, Cruiser, Mk. VIII, A.27M, Cromwell Mk. IC
+uk_a27m_cromwell_1_1;Cromwell Mk. IC
+uk_a27m_cromwell_1_2;Cromwell
+uk_sherman_vc_firefly_shop;Sherman Mk. VC
+uk_sherman_vc_firefly_0;Tank, Medium, Sherman Mk. VC (May 1943) (Chrysler)
+uk_sherman_vc_firefly_1;Sherman Mk. VC
+uk_sherman_vc_firefly_2;Sherman
+uk_sherman_vc_firefly_kit_3rank_shop;Sherman Mk. VC
+uk_sherman_vc_firefly_kit_3rank_0;Tank, Medium, Sherman Mk. VC (May 1943) (Chrysler)
+uk_sherman_vc_firefly_kit_3rank_1;Sherman Mk. VC
+uk_sherman_vc_firefly_kit_3rank_2;Sherman
+uk_a_34_comet_iron_duke_shop;Comet Mk. IA (7th Arm.Div.)
+uk_a_34_comet_iron_duke_0;Tank, Cruiser, Mk. VIII, A.34, Comet Mk. IA (7th Armoured Division) «Iron Duke IV»
+uk_a_34_comet_iron_duke_1;Comet Mk. I
+uk_a_34_comet_iron_duke_2;Comet
+uk_a_34_comet_shop;Comet Mk. IA
+uk_a_34_comet_0;Tank, Cruiser, Mk. VIII, A.34, Comet Mk. IA
+uk_a_34_comet_1;Comet Mk. I
+uk_a_34_comet_2;Comet
+uk_centurion_mk_3_shop;Centurion Mk. 3
+uk_centurion_mk_3_0;FV4007 Tank, Combat, 20-lb Gun, Centurion Mk. 3
+uk_centurion_mk_3_1;Centurion Mk. 3
+uk_centurion_mk_3_2;Centurion
+uk_chieftain_mk_3_shop;Chieftain Mk. 3
+uk_chieftain_mk_3_0;FV4201 Tank, Combat, 120 mm Gun, Chieftain Mk. 3
+uk_chieftain_mk_3_1;Chieftain Mk. 3
+uk_chieftain_mk_3_2;Chieftain
+uk_chieftain_mk_5_shop;Chieftain Mk. 5
+uk_chieftain_mk_5_0;FV4201 Tank, Combat, 120 mm Gun, Chieftain Mk. 5
+uk_chieftain_mk_5_1;Chieftain Mk. 5
+uk_chieftain_mk_5_2;Chieftain
+uk_chieftain_mk_10_shop;Chieftain Mk. 10
+uk_chieftain_mk_10_0;FV4201 Tank, Combat, 120 mm Gun, Chieftain Mk. 10
+uk_chieftain_mk_10_1;Chieftain Mk. 10
+uk_chieftain_mk_10_2;Chieftain
+uk_fv4202_shop;FV4202
+uk_fv4202_0;FV4202 Tank, Combat, 20-lb Gun, Centurion, 40-ton
+uk_fv4202_1;FV4202
+uk_fv4202_2;FV4202
+uk_challenger_2_bn_shop;Challenger 2 BN
+uk_challenger_2_bn_0;FV4034 Tank, Combat, 120 mm Gun, Challenger 2 Black Night
+uk_challenger_2_bn_1;Challenger 2
+uk_challenger_2_bn_2;Challenger 2
+uk_challenger_2_dorchester_shop;Challenger 2 (2F)
+uk_challenger_2_dorchester_0;FV4034 Tank, Combat, 120 mm Gun, Challenger 2 (Dorchester Level 2F)
+uk_challenger_2_dorchester_1;Challenger 2
+uk_challenger_2_dorchester_2;Challenger 2
+uk_challenger_1_shop;Challenger 1 Mk. 2
+uk_challenger_1_0;FV4030/4 Tank, Combat, 120 mm Gun, Challenger 1 Mk. 2
+uk_challenger_1_1;Challenger 1 Mk. 2
+uk_challenger_1_2;Challenger 1
+uk_shir_2_shop;FV4030/3
+uk_shir_2_0;FV4030/3
+uk_shir_2_1;FV4030/3
+uk_shir_2_2;FV4030
+uk_a_22b_mk_3_churchill_1942_shop;Churchill Mk. III
+uk_a_22b_mk_3_churchill_1942_0;Tank, Infantry, Mk. IV, A.22B, Churchill Mk. III
+uk_a_22b_mk_3_churchill_1942_1;Churchill Mk. III
+uk_a_22b_mk_3_churchill_1942_2;Churchill
+uk_a_22_mk_1_churchill_1941_shop;Churchill Mk. I
+uk_a_22_mk_1_churchill_1941_0;Tank, Infantry, Mk. IV, A.22A, Churchill Mk. I
+uk_a_22_mk_1_churchill_1941_1;Churchill Mk. I
+uk_a_22_mk_1_churchill_1941_2;Churchill
+uk_fv221_caernarvon_shop;Caernarvon Mk. 2
+uk_fv221_caernarvon_0;FV221 Tank, Medium, 20-lb Gun, Caernarvon Mk. 2
+uk_fv221_caernarvon_1;Caernarvon Mk. 2
+uk_fv221_caernarvon_2;Caernarvon
+uk_conqueror_mk_2_shop;Conqueror Mk. 2
+uk_conqueror_mk_2_0;FV214 Tank, Heavy No. 1, 120 mm Gun, Conqueror Mk. 2
+uk_conqueror_mk_2_1;Conqueror Mk. 2
+uk_conqueror_mk_2_2;Conqueror
+uk_a17_mk_1_tetrarch_shop;Tetrarch Mk. I
+uk_a17_mk_1_tetrarch_0;Tank, Light, Mk. VII, A.17, Tetrarch Mk. I
+uk_a17_mk_1_tetrarch_1;Tetrarch Mk. I
+uk_a17_mk_1_tetrarch_2;Tetrarch
+uk_a17_mk_1_tetrarch_race_shop;Tetrarch Mk. I
+uk_a17_mk_1_tetrarch_race_0;Tank, Light, Mk. VII, A.17, Tetrarch Mk. I
+uk_a17_mk_1_tetrarch_race_1;Tetrarch Mk. I
+uk_a17_mk_1_tetrarch_race_2;Tetrarch
+uk_a25_mk_8_shop;Harry Hopkins Mk. I
+uk_a25_mk_8_0;Tank, Light, Mk. VIII, A.25, Harry Hopkins Mk. I
+uk_a25_mk_8_1;Harry Hopkins Mk. I;
+uk_a25_mk_8_2;Harry Hopkins
+uk_tog_2_shop;TOG 2*
+uk_tog_2_0;TOG 2* Heavily Armoured Assault Tank
+uk_tog_2_1;TOG 2*
+uk_tog_2_2;TOG 2
+uk_a1e1_independent_shop;Independent
+uk_a1e1_independent_0;Tank, Heavy, A.1 E1, Independent
+uk_a1e1_independent_1;Independent
+uk_a1e1_independent_2;Independent
+uk_ac1_sentinel_shop;Australian Cruiser Mk. I
+uk_ac1_sentinel_0;Tank, Cruiser, Australian, Mk. I
+uk_ac1_sentinel_1;Australian Cruiser Mk. I
+uk_ac1_sentinel_2;Australian Cruiser
+uk_ac4_thunderbolt_shop;Australian Cruiser Mk. IV
+uk_ac4_thunderbolt_0;Tank, Cruiser, Australian, Mk. IV
+uk_ac4_thunderbolt_1;Australian Cruiser Mk. IV
+uk_ac4_thunderbolt_2;Australian Cruiser
+uk_armored_car_aec_mk_2_shop;A.E.C. A.C. Mk. II
+uk_armored_car_aec_mk_2_0;Car, Armoured, A.E.C., Mk. II
+uk_armored_car_aec_mk_2_1;A.E.C. A.C. Mk. II
+uk_armored_car_aec_mk_2_2;A.E.C. A.C.
+uk_falcon_shop;Falcon
+uk_falcon_0;FV433 Tank, Anti-Aircraft, Falcon
+uk_falcon_1;Falcon
+uk_falcon_2;Falcon
+blenheim_mkiv_shop;Blenheim Mk. IV
+blenheim_mkiv_0;Blenheim Mk. IV
+blenheim_mkiv_1;Blenheim Mk. IV
+blenheim_mkiv_2;Blenheim
+hurricanemkii_shop;Hurricane Mk. IIb (Trop)
+hurricanemkii_0;Hurricane Mk. IIb (Tropical)
+hurricanemkii_1;Hurricane Mk. II
+hurricanemkii_2;Hurricane
+thunderbolt_mk1_shop;Thunderbolt Mk. 1 (No. 73 OTU)
+thunderbolt_mk1_0;Thunderbolt Mk. 1 (No. 73 Operational Training Unit)
+thunderbolt_mk1_1;Thunderbolt Mk. 1
+thunderbolt_mk1_2;Thunderbolt
+p-51b_shop;Mustang Mk. Ia
+p-51b_0;Mustang Mk. Ia
+p-51b_1;Mustang Mk. I
+p-51b_2;Mustang
+spitfiremkiia_shop;Spitfire Mk. IIa
+spitfiremkiia_0;Spitfire Mk. IIa
+spitfiremkiia_1;Spitfire Mk. II
+spitfiremkiia_2;Spitfire
+spitfiremkiia_ep_shop;Spitfire Mk. IIa (No. 411 Sq.)
+spitfiremkiia_ep_0;Spitfire Mk. IIa (No. 411 Squadron RCAF)
+spitfiremkiia_ep_1;Spitfire Mk. II
+spitfiremkiia_ep_2;Spitfire
+spitfiremkii_shop;Spitfire Mk. IIb
+spitfiremkii_0;Spitfire Mk. IIb
+spitfiremkii_1;Spitfire Mk. II
+spitfiremkii_2;Spitfire
+spitfire_ix_early_shop;Spitfire F. Mk. IX
+spitfire_ix_early_0;Spitfire F. Mk. IX (August 1942)
+spitfire_ix_early_1;Spitfire Mk. IX
+spitfire_ix_early_2;Spitfire
+spitfire_mk9c_4cannons_shop;Spitfire F. Mk. IX (AB196)
+spitfire_mk9c_4cannons_0;Spitfire F. Mk. IX (June 1942) (AB196)
+spitfire_mk9c_4cannons_1;Spitfire Mk. IX
+spitfire_mk9c_4cannons_2;Spitfire
+spitfire_ix_shop;Spitfire LF. Mk. IX (e)
+spitfire_ix_0;Spitfire LF. Mk. IX (e) (1944)
+spitfire_ix_1;Spitfire Mk. IX
+spitfire_ix_2;Spitfire
+spitfire_ix_tutorial_shop;Spitfire LF. Mk. IX (e)
+spitfire_ix_tutorial_0;Spitfire LF. Mk. IX (e) (1944)
+spitfire_ix_tutorial_1;Spitfire Mk. IX
+spitfire_ix_tutorial_2;Spitfire
+spitfire_xvi_shop;Spitfire F. Mk. XVI (e) (CW)
+spitfire_xvi_0;Spitfire F. Mk. XVI (e) (Clipped Wing)
+spitfire_xvi_1;Spitfire Mk. XVI
+spitfire_xvi_2;Spitfire
+beaufighter_mk1_40mm_shop;Beaufighter (R2055)
+beaufighter_mk1_40mm_0;Beaufighter (R2055)
+beaufighter_mk1_40mm_1;Beaufighter (R2055)
+beaufighter_mk1_40mm_2;Beaufighter
+beaufighter_mk6c_shop;Beaufighter Mk. VIc
+beaufighter_mk6c_0;Beaufighter Mk. VIc
+beaufighter_mk6c_1;Beaufighter Mk. VI
+beaufighter_mk6c_2;Beaufighter
+beaufighter_mkx_shop;Beaufighter TF. Mk. X
+beaufighter_mkx_0;Beaufighter TF. Mk. X
+beaufighter_mkx_1;Beaufighter Mk. X
+beaufighter_mkx_2;Beaufighter
+f4f-4_martlet_mk4_shop;Martlet Mk. IV
+f4f-4_martlet_mk4_0;Martlet Mk. IV
+f4f-4_martlet_mk4_1;Martlet Mk. IV
+f4f-4_martlet_mk4_2;Martlet
+gladiator_mk2_shop;Gladiator Mk. II
+gladiator_mk2_0;Gladiator Mk. II
+gladiator_mk2_1;Gladiator Mk. II
+gladiator_mk2_2;Gladiator
+hurricane_mk1_shop;Hurricane Mk. I
+hurricane_mk1_0;Hurricane Mk. I (1940)
+hurricane_mk1_1;Hurricane Mk. I
+hurricane_mk1_2;Hurricane
+hurricane_mk1_late_shop;Hurricane Mk. I
+hurricane_mk1_late_0;Hurricane Mk. I (1940)
+hurricane_mk1_late_1;Hurricane Mk. I
+hurricane_mk1_late_2;Hurricane
+hurricane_mk1_late_ep_shop;Hurricane Mk. I (No. 800 NAS)
+hurricane_mk1_late_ep_0;Hurricane Mk. I (1940) (Fleet Air Arm No. 800 Naval Air Squadron)
+hurricane_mk1_late_ep_1;Hurricane Mk. I
+hurricane_mk1_late_ep_2;Hurricane
+shop/group/hampden_group;Hampden Mk. I / Hampden TB. Mk. I
+lancaster_mk3_shop;Lancaster Mk. III
+lancaster_mk3_0;Lancaster Mk. III
+lancaster_mk3_1;Lancaster Mk. III
+lancaster_mk3_2;Lancaster
+shop/group/mosquito_group;Mosquito FB. Mk. 6 / Mosquito FB. Mk. 18 / Mosquito F. Mk. II / Sea Mosquito TR. Mk. 33
+mosquito_nf_mk2_shop;Mosquito F. Mk. II
+mosquito_nf_mk2_0;Mosquito F. Mk. II (A.I. Mk. IV) (Merlin 25 + 6519A-12)
+mosquito_nf_mk2_1;Mosquito Mk. II
+mosquito_nf_mk2_2;Mosquito
+mosquito_fb_mk6_shop;Mosquito FB. Mk. 6
+mosquito_fb_mk6_0;Mosquito FB. Mk. 6, Series 2
+mosquito_fb_mk6_1;Mosquito Mk. 6
+mosquito_fb_mk6_2;Mosquito
+mosquito_fb_mk18_shop;Mosquito FB. Mk. 18
+mosquito_fb_mk18_0;Mosquito FB. Mk. 18
+mosquito_fb_mk18_1;Mosquito Mk. 18
+mosquito_fb_mk18_2;Mosquito
+hornet_mk1_shop;Hornet F. Mk. 1
+hornet_mk1_0;Hornet F. Mk. 1
+hornet_mk1_1;Hornet Mk. 1
+hornet_mk1_2;Hornet
+hornet_mk3_shop;Hornet F. Mk. 3
+hornet_mk3_0;Hornet F. Mk. 3
+hornet_mk3_1;Hornet Mk. 3
+hornet_mk3_2;Hornet
+spitfire_mk1_shop;Spitfire Mk. Ia
+spitfire_mk1_0;Spitfire Mk. Ia
+spitfire_mk1_1;Spitfire Mk. I
+spitfire_mk1_2;Spitfire
+swordfish_mk1_shop;Swordfish Mk. I
+swordfish_mk1_0;Swordfish Mk. I
+swordfish_mk1_1;Swordfish Mk. I
+swordfish_mk1_2;Swordfish
+swordfish_mk2_shop;Swordfish Mk. II
+swordfish_mk2_0;Swordfish Mk. II
+swordfish_mk2_1;Swordfish Mk. II
+swordfish_mk2_2;Swordfish
+tempest_mk2_shop;Tempest FB.2
+tempest_mk2_0;Tempest FB. Mk. 2
+tempest_mk2_1;Tempest Mk. 2
+tempest_mk2_2;Tempest
+tempest_mkv_shop;Tempest FB.5
+tempest_mkv_0;Tempest FB. Mk. 5 (Series 2)
+tempest_mkv_1;Tempest Mk. 5
+tempest_mkv_2;Tempest
+tempest_mkv_vikkers_shop;Tempest FB.5 (SN354)
+tempest_mkv_vikkers_0;Tempest FB. Mk. 5 (Series 2) (SN354)
+tempest_mkv_vikkers_1;Tempest Mk. 5
+tempest_mkv_vikkers_2;Tempest
+spitfire_mk5b_shop;Spitfire F. Mk. Vb (Trop)
+spitfire_mk5b_0;Spitfire F. Mk. Vb (Tropical)
+spitfire_mk5b_1;Spitfire Mk. V
+spitfire_mk5b_2;Spitfire
+spitfire_mk5b_notrop_shop;Spitfire F. Mk. Vb
+spitfire_mk5b_notrop_0;Spitfire F. Mk. Vb
+spitfire_mk5b_notrop_1;Spitfire Mk. V
+spitfire_mk5b_notrop_2;Spitfire
+spitfire_mk5c_notrop_shop;Spitfire F. Mk. Vc
+spitfire_mk5c_notrop_0;Spitfire F. Mk. Vc
+spitfire_mk5c_notrop_1;Spitfire Mk. V
+spitfire_mk5c_notrop_2;Spitfire
+spitfire_mk5c_shop;Spitfire F. Mk. Vc (Trop)
+spitfire_mk5c_0;Spitfire F. Mk. Vc (Tropical)
+spitfire_mk5c_1;Spitfire Mk. V
+spitfire_mk5c_2;Spitfire
+shop/group/spitfire_mk5_group;Spitfire F. Mk. Vc / Spitfire F. Mk. Vc (Trop)
+osprey_mk4_shop;Osprey Mk. IV
+osprey_mk4_0;Osprey Mk. IV
+osprey_mk4_1;Osprey Mk. IV
+osprey_mk4_2;Osprey
+walrus_mk1_shop;Walrus Mk. I
+walrus_mk1_0;Walrus Mk. I
+walrus_mk1_1;Walrus Mk. I
+walrus_mk1_2;Walrus
+fairey_3f_mk3b_shop;Fairey IIIF Mk. IIIb
+fairey_3f_mk3b_0;Fairey IIIF Mk. IIIb
+fairey_3f_mk3b_1;Fairey IIIF
+fairey_3f_mk3b_2;Fairey III
+typhoon_mk1a_shop;Typhoon Mk. Ia
+typhoon_mk1a_0;Typhoon Mk. Ia (October 1942 Production)
+typhoon_mk1a_1;Typhoon Mk. I
+typhoon_mk1a_2;Typhoon
+typhoon_mk1b_shop;Typhoon FB. Mk. Ib (1943)
+typhoon_mk1b_0;Typhoon FB. Mk. Ib (April 1943 Fit)
+typhoon_mk1b_1;Typhoon Mk. I
+typhoon_mk1b_2;Typhoon
+typhoon_mk1b_late_shop;Typhoon FB. Mk. Ib (1944)
+typhoon_mk1b_late_0;Typhoon FB. Mk. Ib (April 1944 Fit)
+typhoon_mk1b_late_1;Typhoon Mk. I
+typhoon_mk1b_late_2;Typhoon
+wellington_mk1c_shop;Wellington Mk. Ic
+wellington_mk1c_0;Wellington Mk. Ic
+wellington_mk1c_1;Wellington Mk. I
+wellington_mk1c_2;Wellington
+shackleton_mr_mk_2_shop;Shackleton MR.2
+shackleton_mr_mk_2_0;Shackleton MR. Mk. 2
+shackleton_mr_mk_2_1;Shackleton Mk. 2
+shackleton_mr_mk_2_2;Shackleton
+shop/group/meteor3_group;Meteor F.3 / Meteor F.3/4 (EE337)
+shop/group/meteor4_group;Meteor F.3/4 (EE360) / Meteor F.4 / Meteor F.8
+meteor_fmk3_shop;Meteor F.3
+meteor_fmk3_0;Meteor F. Mk. 3
+meteor_fmk3_1;Meteor Mk. 3
+meteor_fmk3_2;Meteor
+meteor_fmk3_navy_shop;Meteor F.3/4 (EE337)
+meteor_fmk3_navy_0;Meteor F. Mk. 3 conversion to Mk. 4 (EE337) (Derwent Mk. 5)
+meteor_fmk3_navy_1;Meteor Mk. 3/4
+meteor_fmk3_navy_2;Meteor
+meteor_fmk4_lw_shop;Meteor F.3/4 (EE360)
+meteor_fmk4_lw_0;Meteor F. Mk. 3 conversion to Mk. 4 (EE360) (Derwent Mk. 5)
+meteor_fmk4_lw_1;Meteor Mk. 3/4
+meteor_fmk4_lw_2;Meteor
+meteor_fmk4_sw_shop;Meteor F.4
+meteor_fmk4_sw_0;Gloster Meteor F. Mk. 4
+meteor_fmk4_sw_1;Meteor Mk. 4
+meteor_fmk4_sw_2;Meteor
+hellcat_fmk1_shop;Hellcat F. Mk. II
+hellcat_fmk1_0;Hellcat F. Mk. II
+hellcat_fmk1_1;Hellcat Mk. II
+hellcat_fmk1_2;Hellcat
+intruder_mk_1_shop;Havoc Mk. I (Intruder)
+intruder_mk_1_0;Havoc Mk. I (Intruder)
+intruder_mk_1_1;Havoc Mk. I
+intruder_mk_1_2;Havoc
+boston_mk_1_shop;Boston Mk. I
+boston_mk_1_0;Boston Mk. I
+boston_mk_1_1;Boston Mk. I
+boston_mk_1_2;Boston
+wellington_mk1c_late_shop;Wellington Mk. Ic (l)
+wellington_mk1c_late_0;Wellington Mk. Ic (late)
+wellington_mk1c_late_1;Wellington Mk. I
+wellington_mk1c_late_2;Wellington
+wellington_mk3_shop;Wellington Mk. III
+wellington_mk3_0;Wellington Mk. III
+wellington_mk3_1;Wellington Mk. III
+wellington_mk3_2;Wellington
+wellington_mk10_shop;Wellington Mk. X
+wellington_mk10_0;Wellington Mk. X
+wellington_mk10_1;Wellington Mk. X
+wellington_mk10_2;Wellington
+gladiator_mk2_silver_shop;Gladiator Mk. II
+gladiator_mk2_silver_0;Gladiator Mk. II
+gladiator_mk2_silver_1;Gladiator Mk. II
+gladiator_mk2_silver_2;Gladiator
+gladiator_mk2_france_shop;Gladiator Mk. II
+gladiator_mk2_france_0;Gladiator Mk. II
+gladiator_mk2_france_1;Gladiator Mk. II
+gladiator_mk2_france_2;Gladiator
+shop/group/gladiator_mk2_group;Gladiator Mk. II / Gladiator Mk. II / Gladiator Mk. II
+fury_mk1_shop;Fury Mk. I
+fury_mk1_0;Fury Mk. I
+fury_mk1_1;Fury Mk. I
+fury_mk1_2;Fury
+fury_mk2_shop;Fury Mk. II
+fury_mk2_0;Fury Mk. II
+fury_mk2_1;Fury Mk. II
+fury_mk2_2;Fury
+shop/group/fury_group;Fury Mk. I / Fury Mk. II
+meteor_fmk8_shop;Meteor F.8
+meteor_fmk8_0;Meteor F. Mk. 8
+meteor_fmk8_1;Meteor Mk. 8
+meteor_fmk8_2;Meteor
+meteor_fmk8_reaper_shop;GAF
+meteor_fmk8_reaper_0;Ground Attack Fighter
+meteor_fmk8_reaper_1;GAF
+meteor_fmk8_reaper_2;GAF
+nimrod_mk1_shop;Nimrod Mk. I
+nimrod_mk1_0;Nimrod Mk. I
+nimrod_mk1_1;Nimrod Mk. I
+nimrod_mk1_2;Nimrod
+nimrod_mk2_shop;Nimrod Mk. II
+nimrod_mk2_0;Nimrod Mk. II
+nimrod_mk2_1;Nimrod Mk. II
+nimrod_mk2_2;Nimrod
+shop/group/nimrod_group;Nimrod Mk. I / Nimrod Mk. II
+gladiator_mk2_tuck_shop;Gladiator Mk. II (No. 65 Sq.)
+gladiator_mk2_tuck_0;Gladiator Mk. II (Robert Tuck, No. 65 Squadron RAF)
+gladiator_mk2_tuck_1;Gladiator Mk. II
+gladiator_mk2_tuck_2;Gladiator
+h-75a-4_raf_shop;▄ Mohawk Mk. IV
+h-75a-4_raf_0;▄ Mohawk Mk. IV
+h-75a-4_raf_1;▄ Mohawk Mk. IV
+h-75a-4_raf_2;Mohawk
+vampire_fb5_shop;Vampire FB.5
+vampire_fb5_0;Vampire FB. Mk. 5
+vampire_fb5_1;Vampire Mk. 5
+vampire_fb5_2;Vampire
+shop/group/spitfiremkii_group;Spitfire Mk. IIa / Spitfire Mk. IIb
+shop/group/blenheim_group;Blenheim Mk. IV / Beaufort Mk. VIII
+shop/group/spitfire_mk1_group;Spitfire Mk. Ia / Spitfire Mk. IIa
+shop/group/sunderland_group;Sunderland Mk. IIIa / Sunderland Mk. V
+shop/group/beaufighter_group;Beaufighter Mk. VIc / Beaufighter TF. Mk. X / Beaufighter Mk. 21
+shop/group/spitfire_mk5b_group;Spitfire F. Mk. Vb (Trop) / Spitfire F. Mk. Vb
+shop/group/wellington_late_group;Wellington Mk. III / Wellington Mk. X
+shop/group/spitfire_mk5c_group;Spitfire F. Mk. Vc (Trop) / Spitfire F. Mk. Vc
+shop/group/brigand_group;Brigade B.1 / Whirlwind Mk. I
+shop/group/stirling_group;Stirling B. Mk. I / Stirling B. Mk. III
+shop/group/spitfire_mk9e_group;Spitfire F. Mk. XIV (e) / Spitfire F. Mk. XVIII (e) / Spitfire LF. Mk. IX (e)
+shop/group/lincoln_group;Lincoln B.2 / Shackleton MR.2
+shop/group/canberra_group;Canberra B.2 / Canberra B.(I.)6
+shop/group/sea_hawk_group;Sea Hawk FGA.6 / Sea Venom FAW.20
+shop/group/tempest_mkv_group;Tempest FB.5 / Tempest FB.2
+shop/group/spitfire_griffon_group;Spitfire F.22 / Spitfire F.24
+shop/group/mosquito_group;Mosquito FB. Mk. 6 / Mosquito FB. Mk. 18
+spitfire_mk14e_shop;Spitfire F. Mk. XIV (e)
+spitfire_mk14e_0;Spitfire F. Mk. XIV (e)
+spitfire_mk14e_1;Spitfire Mk. XIV
+spitfire_mk14e_2;Spitfire
+spitfire_mk14c_shop;Spitfire F. Mk. XIV
+spitfire_mk14c_0;Spitfire F. Mk. XIV
+spitfire_mk14c_1;Spitfire Mk. XIV
+spitfire_mk14c_2;Spitfire
+spitfire_mk18e_shop;Spitfire F. Mk. XVIII (e)
+spitfire_mk18e_0;Spitfire F. Mk. XVIII (e)
+spitfire_mk18e_1;Spitfire Mk. XVIII
+spitfire_mk18e_2;Spitfire
+spitfire_f22_shop;Spitfire F.22
+spitfire_f22_0;Spitfire F. Mk. 22
+spitfire_f22_1;Spitfire Mk. 22
+spitfire_f22_2;Spitfire
+spitfire_f24_shop;Spitfire F.24
+spitfire_f24_0;Spitfire F. Mk. 24
+spitfire_f24_1;Spitfire Mk. 24
+spitfire_f24_2;Spitfire
+avenger_mk1_shop;Avenger TR.2
+avenger_mk1_0;Avenger TR. Mk. 2
+avenger_mk1_1;Avenger Mk. 2
+avenger_mk1_2;Avenger
+buccaneer_s1_shop;Buccaneer S.1 (No. 736 NAS)
+buccaneer_s1_0;Buccaneer S. Mk. 1 (Fleet Air Arm No. 736 Naval Air Squadron)
+buccaneer_s1_1;Buccaneer Mk. 1
+buccaneer_s1_2;Buccaneer
+buccaneer_s2_shop;Buccaneer S.2A
+buccaneer_s2_0;Buccaneer S. Mk. 2A
+buccaneer_s2_1;Buccaneer Mk. 2
+buccaneer_s2_2;Buccaneer
+buccaneer_s2b_shop;Buccaneer S.2B
+buccaneer_s2b_0;Buccaneer S. Mk. 2B
+buccaneer_s2b_1;Buccaneer Mk. 2
+buccaneer_s2b_2;Buccaneer
+canberra_bmk2_shop;Canberra B.2
+canberra_bmk2_0;Canberra B. Mk. 2
+canberra_bmk2_1;Canberra Mk. 2
+canberra_bmk2_2;Canberra
+pby-5a_raf_shop;Catalina Mk. IIIa
+pby-5a_raf_0;Catalina Mk. IIIa
+pby-5a_raf_1;Catalina Mk. III
+pby-5a_raf_2;Catalina
+venom_fb4_shop;Venom FB.4
+venom_fb4_0;Venom FB. Mk. 4
+venom_fb4_1;Venom Mk. 4
+venom_fb4_2;Venom
+lancaster_mk1_shop;Lancaster Mk. I
+lancaster_mk1_0;Lancaster Mk. I
+lancaster_mk1_1;Lancaster Mk. I
+lancaster_mk1_2;Lancaster
+shop/group/lancaster_group;Lancaster Mk. I / Lancaster Mk. III
+canberra_bimk6_shop;Canberra B.(I.)6
+canberra_bimk6_0;Canberra B.(I.) Mk. 6
+canberra_bimk6_1;Canberra Mk. 6
+canberra_bimk6_2;Canberra
+firefly_mk1_shop;Firefly F.1
+firefly_mk1_0;Firefly F. Mk. 1
+firefly_mk1_1;Firefly Mk. 1
+firefly_mk1_2;Firefly
+seafire_fr47_shop;Seafire FR.47
+seafire_fr47_0;Seafire FR. Mk. 47
+seafire_fr47_1;Seafire Mk. 47
+seafire_fr47_2;Seafire
+seafire_mk17_shop;Seafire F. Mk. XVII
+seafire_mk17_0;Seafire F. Mk. XVII
+seafire_mk17_1;Seafire Mk. XVII
+seafire_mk17_2;Seafire
+seafire_mk3_shop;Seafire LF. Mk. III
+seafire_mk3_0;Seafire LF. Mk. III
+seafire_mk3_1;Seafire Mk. III
+seafire_mk3_2;Seafire
+attaker_fb1_shop;Attacker FB.1
+attaker_fb1_0;Attacker FB. Mk. 1
+attaker_fb1_1;Attacker Mk. 1
+attaker_fb1_2;Attacker
+attaker_fb2_shop;Attacker FB.2 (No. 1831 NAS)
+attaker_fb2_0;Attacker FB. Mk. 2 (Fleet Air Arm No. 1831 Naval Air Squadron)
+attaker_fb2_1;Attacker Mk. 2
+attaker_fb2_2;Attacker
+sea_fury_fb11_shop;Sea Fury FB.11
+sea_fury_fb11_0;Sea Fury FB. Mk. 11
+sea_fury_fb11_1;Sea Fury Mk. 11
+sea_fury_fb11_2;Sea Fury
+firefly_mk5_shop;Firefly FR.5
+firefly_mk5_0;Firefly FR. Mk. 5
+firefly_mk5_1;Firefly Mk. 5
+firefly_mk5_2;Firefly
+hurricane_mk1b_shop;Sea Hurricane F. Mk. Ib
+hurricane_mk1b_0;Sea Hurricane F. Mk. Ib
+hurricane_mk1b_1;Sea Hurricane Mk. I
+hurricane_mk1b_2;Hurricane
+hurricane_mk1c_shop;Sea Hurricane F. Mk. Ic
+hurricane_mk1c_0;Sea Hurricane F. Mk. Ic
+hurricane_mk1c_1;Sea Hurricane Mk. I
+hurricane_mk1c_2;Hurricane
+gladiator_mk2_navy_shop;Sea Gladiator
+gladiator_mk2_navy_0;Sea Gladiator (Interim)
+gladiator_mk2_navy_1;Sea Gladiator
+gladiator_mk2_navy_2;Gladiator
+spitfire_ix_plagis_shop;Spitfire LF. IX (No. 126 Sq.)
+spitfire_ix_plagis_0;Spitfire LF. Mk. IX (John Plagis, No. 126 Squadron RAF)
+spitfire_ix_plagis_1;Spitfire Mk. IX
+spitfire_ix_plagis_2;Spitfire
+hurricane_mk4_shop;Hurricane FB. Mk. IV
+hurricane_mk4_0;Hurricane FB. Mk. IV
+hurricane_mk4_1;Hurricane Mk. IV
+hurricane_mk4_2;Hurricane
+shop/group/hurricane_group;Hurricane Mk. IIb (Trop) / Hurricane Mk. I
+shop/group/firefly_group;Firefly F.1 / Firefly FR.5
+shop/group/seafire_group;Seafire F. Mk. XVII / Seafire FR.47
+firebrand_tf4_shop;Firebrand TF. Mk. IV
+firebrand_tf4_0;Firebrand TF. Mk. IV
+firebrand_tf4_1;Firebrand Mk. IV
+firebrand_tf4_2;Firebrand
+hunter_f1_shop;Hunter F.1
+hunter_f1_0;Hunter F. Mk. 1
+hunter_f1_1;Hunter Mk. 1
+hunter_f1_2;Hunter
+hunter_f6_shop;Hunter F.6
+hunter_f6_0;Hunter F. Mk. 6
+hunter_f6_1;Hunter Mk. 6
+hunter_f6_2;Hunter
+stirling_mk1_shop;Stirling B. Mk. I
+stirling_mk1_0;Stirling B. Mk. I
+stirling_mk1_1;Stirling Mk. I
+stirling_mk1_2;Stirling
+stirling_mk3_shop;Stirling B. Mk. III
+stirling_mk3_0;Stirling B. Mk. III
+stirling_mk3_1;Stirling Mk. III
+stirling_mk3_2;Stirling
+shop/group/wellington_group;Wellington Mk. Ic / Wellington Mk. Ic (l)
+sea_venom_faw20_shop;Sea Venom FAW.20
+sea_venom_faw20_0;Sea Venom FAW. Mk. 20
+sea_venom_faw20_1;Sea Venom Mk. 20
+sea_venom_faw20_2;Venom
+scimitar_f1_shop;Scimitar F.1
+scimitar_f1_0;Scimitar F. Mk. 1
+scimitar_f1_1;Scimitar Mk. 1
+scimitar_f1_2;Scimitar
+sunderland_mk3a_shop;Sunderland Mk. IIIa
+sunderland_mk3a_0;Sunderland Mk. IIIa
+sunderland_mk3a_1;Sunderland Mk. III
+sunderland_mk3a_2;Sunderland
+halifax_mk3_shop;Halifax B. Mk. IIIa
+halifax_mk3_0;Halifax B. Mk. IIIa
+halifax_mk3_1;Halifax Mk. III
+halifax_mk3_2;Halifax
+wyvern_s4_shop;Wyvern S.4
+wyvern_s4_0;Wyvern S. Mk. 4
+wyvern_s4_1;Wyvern Mk. 4
+wyvern_s4_2;Wyvern
+spitfire_mk9b_shop;Spitfire LF. Mk. IX
+spitfire_mk9b_0;Spitfire LF. Mk. IX
+spitfire_mk9b_1;Spitfire Mk. IX
+spitfire_mk9b_2;Spitfire
+shop/group/spitfire_mk9_group;Spitfire F. Mk. IX / Spitfire F. Mk. XVI (e) (CW)
+hudson_mk_v_shop;Hudson Mk. V
+hudson_mk_v_0;Hudson Mk. V
+hudson_mk_v_1;Hudson Mk. V
+hudson_mk_v_2;Hudson
+brigand_b1_shop;Brigand B.1
+brigand_b1_0;Brigand B. Mk. 1
+brigand_b1_1;Brigand Mk. 1
+brigand_b1_2;Brigand
+sunderland_mk5_shop;Sunderland Mk. V
+sunderland_mk5_0;Sunderland Mk. V
+sunderland_mk5_1;Sunderland Mk. V
+sunderland_mk5_2;Sunderland
+hp52_hampden_mk1_late_shop;Hampden Mk. I
+hp52_hampden_mk1_late_0;Hampden Mk. I
+hp52_hampden_mk1_late_1;Hampden Mk. I
+hp52_hampden_mk1_late_2;Hampden
+hp52_hampden_tbmk1_shop;Hampden TB. Mk. I
+hp52_hampden_tbmk1_0;Hampden TB. Mk. I
+hp52_hampden_tbmk1_1;Hampden Mk. I
+hp52_hampden_tbmk1_2;Hampden
+lincoln_b2_shop;Lincoln B.2
+lincoln_b2_0;Lincoln B. Mk. 2
+lincoln_b2_1;Lincoln Mk. 2
+lincoln_b2_2;Lincoln
+corsair_fmk2_shop;Corsair F. Mk. II
+corsair_fmk2_0;Corsair F. Mk. II
+corsair_fmk2_1;Corsair Mk. II
+corsair_fmk2_2;Corsair
+uk_daimler_mk_2_shop;Daimler AC Mk. II
+uk_daimler_mk_2_0;Car, Armoured, Daimler, Mk. II
+uk_daimler_mk_2_1;Daimler AC Mk. II
+uk_daimler_mk_2_2;Daimler AC
+v_156_b1_shop;Chesapeake Mk. I
+v_156_b1_0;Chesapeake Mk. I
+v_156_b1_1;Chesapeake Mk. I
+v_156_b1_2;Chesapeake
+whirlwind_mk1_shop;Whirlwind Mk. I
+whirlwind_mk1_0;Whirlwind Mk. I
+whirlwind_mk1_1;Whirlwind Mk. I
+whirlwind_mk1_2;Whirlwind
+whirlwind_p9_shop;P.9
+whirlwind_p9_0;P.9 (L6844)
+whirlwind_p9_1;P.9
+whirlwind_p9_2;P.9
+hp_12_shop;O/400
+hp_12_0;O/400
+hp_12_1;O/400
+hp_12_2;O/400
+mb_5_shop;MB.5
+mb_5_0;MB.5
+mb_5_1;MB.5
+mb_5_2;MB.5
+uk_centurion_action_x_shop;Centurion Mk. 7 (CMT)
+uk_centurion_action_x_0;FV4021, Tank, Combat, 105 mm Gun, Centurion Mk. 7 (Centurion Mantletless Turret)
+uk_centurion_action_x_1;Centurion Mk. 7 (CMT)
+uk_centurion_action_x_2;Centurion
+uk_centurion_mk_5_avre_era_shop;Centurion Mk. 5 AVRE
+uk_centurion_mk_5_avre_era_0;FV4003 Tank, Assault Vehicle, Royal Engineers, Centurion Mk. 5
+uk_centurion_mk_5_avre_era_1;Centurion Mk.5 AVRE
+uk_centurion_mk_5_avre_era_2;Centurion
+uk_chieftain_marksman_shop;Chieftain Marksman
+uk_chieftain_marksman_0;Marconi Electronic Systems Chieftain Marksman
+uk_chieftain_marksman_1;Chieftain Marksman
+uk_chieftain_marksman_2;Chieftain Marksman
+uk_vickers_mk_6_aa_mk_1_shop;Mk. VIA, AA Mk. I
+uk_vickers_mk_6_aa_mk_1_0;Tank, Light, Vickers, A.5, Mk. VIA, Anti-Aircraft Mk. I
+uk_vickers_mk_6_aa_mk_1_1;Mk. VI, AA Mk. I
+uk_vickers_mk_6_aa_mk_1_2;Mk. VI, AA
+uk_fv510_isv_shop;Warrior ISV
+uk_fv510_isv_0;FV510 Combat Vehicle, Personnel, Tracked, 30 mm Gun, Warrior Infantry Section Vehicle
+uk_fv510_isv_1;Warrior ISV
+uk_fv510_isv_2;Warrior
+uk_challenger_2e_shop;Challenger 2E
+uk_challenger_2e_0;Challenger 2E
+uk_challenger_2e_1;Challenger 2E
+uk_challenger_2e_2;Challenger 2
+uk_challenger_1_mk_3_gulf_shop;Challenger 1 Mk. 3 (RSDG)
+uk_challenger_1_mk_3_gulf_0;FV4030/4 Tank, Combat, 120 mm Gun, Challenger 1 Mk. 3 (Royal Scots Dragoon Guards)
+uk_challenger_1_mk_3_gulf_1;Challenger 1 Mk. 3
+uk_challenger_1_mk_3_gulf_2;Challenger 1
+uk_challenger_mk_3_shop;Challenger 1 Mk. 3
+uk_challenger_mk_3_0;FV4030/4 Tank, Combat, 120 mm Gun, Challenger 1 Mk. 3
+uk_challenger_mk_3_1;Challenger 1 Mk. 3
+uk_challenger_mk_3_2;Challenger 1
+javelin_fmk9_shop;Javelin F.(AW.)9
+javelin_fmk9_0;Javelin F.(AW.) Mk. 9
+javelin_fmk9_1;Javelin Mk. 9
+javelin_fmk9_2;Javelin
+lightning_f6_shop;Lightning F.6
+lightning_f6_0;Lightning F. Mk. 6
+lightning_f6_1;Lightning Mk. 6
+lightning_f6_2;Lightning
+jaguar_gr1_shop;Jaguar GR.1
+jaguar_gr1_0;Jaguar GR. Mk. 1
+jaguar_gr1_1;Jaguar Mk. 1
+jaguar_gr1_2;Jaguar
+jaguar_gr1a_shop;Jaguar GR.1B
+jaguar_gr1a_0;Jaguar GR. Mk. 1B
+jaguar_gr1a_1;Jaguar Mk. 1
+jaguar_gr1a_2;Jaguar
+sea_hawk_fga6_shop;Sea Hawk FGA.6
+sea_hawk_fga6_0;Sea Hawk FGA. Mk. 6
+sea_hawk_fga6_1;Sea Hawk Mk. 6
+sea_hawk_fga6_2;Sea Hawk
+b_48_firecrest_shop;Firecrest
+b_48_firecrest_0;B.48 Firecrest (RT651)
+b_48_firecrest_1;Firecrest
+b_48_firecrest_2;Firecrest
+uk_destroyer_clemson_montgomery_g95_shop;Montgomery (G 95)
+uk_destroyer_clemson_montgomery_g95_0;Town-Class Destroyer Type B, HMS Montgomery (G 95)
+uk_destroyer_clemson_montgomery_g95_1;Montgomery
+uk_destroyer_clemson_montgomery_g95_2;Town-Class
+uk_stormer_air_defence_shop;Stormer Air Defence
+uk_stormer_air_defence_0;Stormer Air Defence
+uk_stormer_air_defence_1;Stormer Air Defence
+uk_stormer_air_defence_2;Stormer
+uk_tracked_rapier_shop;Tracked Rapier
+uk_tracked_rapier_0;Tracked Rapier Launch Vehicle RCM 748
+uk_tracked_rapier_1;Tracked Rapier
+uk_tracked_rapier_2;Tracked Rapier
+uk_stormer_hvm_shop;FV4333
+uk_stormer_hvm_0;FV4333 Combat Vehicle, Carrier, Full Tracked, High Velocity Missile (HVM)
+uk_stormer_hvm_1;FV4333
+uk_stormer_hvm_2;FV4333
+uk_challenger_2_lep_shop;Challenger 2 ATD
+uk_challenger_2_lep_0;Challenger 2 Advanced Technology Demonstrator
+uk_challenger_2_lep_1;Challenger 2 ATD
+uk_challenger_2_lep_2;Challenger 2
+uk_challenger_2_megatron_shop;Challenger 2 (TES 2012)
+uk_challenger_2_megatron_0;FV4034 Tank, Combat, 120 mm Gun, Challenger 2 (Theatre Entry Standard 2012)
+uk_challenger_2_megatron_1;Challenger 2 (TES)
+uk_challenger_2_megatron_2;Challenger 2
+uk_challenger_2_tes_shop;Challenger 2 (TES 2008)
+uk_challenger_2_tes_0;FV4034 Tank, Combat, 120 mm Gun, Challenger 2 (Theatre Entry Standard 2008)
+uk_challenger_2_tes_1;Challenger 2 (TES)
+uk_challenger_2_tes_2;Challenger 2
+uk_challenger_II_shop;Challenger 2 (2E)
+uk_challenger_II_0;FV4034 Tank, Combat, 120 mm Gun, Challenger 2 (Dorchester Level 2E)
+uk_challenger_II_1;Challenger 2
+uk_challenger_II_2;Challenger 2
+uk_challenger_II_yt_cup_2019_shop;Challenger 2 (YTC)
+uk_challenger_II_yt_cup_2019_0;FV4034 Tank, Combat, 120 mm Gun, Challenger 2 (YouTube Cup)
+uk_challenger_II_yt_cup_2019_1;Challenger 2
+uk_challenger_II_yt_cup_2019_2;Challenger 2
+f-4m_fgr2_shop;Phantom FGR.2
+f-4m_fgr2_0;Phantom FGR. Mk. 2
+f-4m_fgr2_1;Phantom Mk. 2
+f-4m_fgr2_2;Phantom
+f-4k_shop;Phantom FG.1
+f-4k_0;Phantom FG. Mk. 1
+f-4k_1;Phantom Mk. 1
+f-4k_2;Phantom
+f-4jk_shop;Phantom F.3 (No. 74 Sq.)
+f-4jk_0;Phantom F. Mk. 3 (No. 74 Squadron RAF "Tiger Squadron")
+f-4jk_1;Phantom Mk. 3
+f-4jk_2;Phantom
+g_lynx_shop;Lynx Demonstrator
+g_lynx_0;Westland Lynx Demonstrator
+g_lynx_1;Lynx Demonstrator
+g_lynx_2;Lynx
+lynx_ah_mk1_shop;Lynx AH.1
+lynx_ah_mk1_0;Lynx AH. Mk. 1
+lynx_ah_mk1_1;Lynx Mk. 1
+lynx_ah_mk1_2;Lynx
+wessex_mk5_shop;Wessex HU.5
+wessex_mk5_0;Wessex HU. Mk. 5
+wessex_mk5_1;Wessex Mk. 5
+wessex_mk5_2;Wessex
+scout_ah_mk1_shop;Scout AH.1
+scout_ah_mk1_0;Scout AH. Mk. 1
+scout_ah_mk1_1;Scout Mk. 1
+scout_ah_mk1_2;Scout
+wasp_has_mk1_shop;Wasp HAS.1
+wasp_has_mk1_0;Wasp HAS. Mk. 1
+wasp_has_mk1_1;Wasp Mk. 1
+wasp_has_mk1_2;Wasp
+swift_f1_shop;Swift F.1
+swift_f1_0;Swift F. Mk. 1
+swift_f1_1;Swift Mk. 1
+swift_f1_2;Swift
+swift_f7_shop;Swift F.7
+swift_f7_0;Swift F. Mk. 7
+swift_f7_1;Swift Mk. 7
+swift_f7_2;Swift
+tornado_gr1_shop;Tornado GR.1
+tornado_gr1_0;Tornado GR. Mk. 1 (Batch 1) (1991)
+tornado_gr1_1;Tornado Mk. 1
+tornado_gr1_2;Tornado
+tornado_gr4_shop;Tornado GR.4
+tornado_gr4_0;Tornado GR. Mk. 4 (Batch 4) (2009)
+tornado_gr4_1;Tornado Mk. 4
+tornado_gr4_2;Tornado
+tornado_f3_shop;Tornado F.3
+tornado_f3_0;Tornado F. Mk. 3 (Stage 2)
+tornado_f3_1;Tornado Mk. 3
+tornado_f3_2;Tornado
+tornado_f3_late_shop;Tornado F.3 (AOP)
+tornado_f3_late_0;Tornado F. Mk. 3 (AMRAAM Optimisation Programme)
+tornado_f3_late_1;Tornado Mk. 3
+tornado_f3_late_2;Tornado
+ef_2000_fgr4_shop;Typhoon FGR.4
+ef_2000_fgr4_0;Typhoon FGR. Mk. 4 (Tranche 2 Block 10) (P1A)
+ef_2000_fgr4_1;Typhoon Mk. 4
+ef_2000_fgr4_2;Typhoon
+harrier_gr1_shop;Harrier GR.1
+harrier_gr1_0;Harrier GR. Mk. 1
+harrier_gr1_1;Harrier Mk. 1
+harrier_gr1_2;Harrier
+harrier_gr3_shop;Harrier GR.3
+harrier_gr3_0;Harrier GR. Mk. 3
+harrier_gr3_1;Harrier Mk. 3
+harrier_gr3_2;Harrier
+harrier_gr7_shop;Harrier GR.7
+harrier_gr7_0;Harrier GR. Mk. 7
+harrier_gr7_1;Harrier Mk. 7
+harrier_gr7_2;Harrier
+harrier_frs1_early_shop;Sea Harrier FRS.1
+harrier_frs1_early_0;Sea Harrier FRS. Mk. 1
+harrier_frs1_early_1;Sea Harrier Mk. 1
+harrier_frs1_early_2;Harrier
+harrier_frs1_shop;Sea Harrier FRS.1 (Phase 1) (No. 899 NAS)
+harrier_frs1_0;Sea Harrier FRS. Mk. 1 (Phase 1) (Fleet Air Arm No. 899 Naval Air Squadron)
+harrier_frs1_1;Sea Harrier Mk. 1
+harrier_frs1_2;Harrier
+sea_harrier_fa2_shop;Sea Harrier FA.2
+sea_harrier_fa2_0;Sea Harrier FA. Mk. 2
+sea_harrier_fa2_1;Sea Harrier Mk. 2
+sea_harrier_fa2_2;Harrier
+harrier_t10_shop;Harrier T.10
+harrier_t10_0;Harrier T. Mk. 10
+harrier_t10_1;Harrier Mk. 10
+harrier_t10_2;Harrier
+ah_mk1_shop;Apache AH.1
+ah_mk1_0;Apache AH. Mk. 1
+ah_mk1_1;Apache Mk.1
+ah_mk1_2;Apache
+uk_vfm_5_shop;Vickers Mk. 5 BT
+uk_vfm_5_0;Vickers/FMC Mk. 5 Battle Tank
+uk_vfm_5_1;Vickers Mk. 5 BT
+uk_vfm_5_2;Vickers Mk. 5
+uk_a_33_excelsior_shop;Commodore Mk. II
+uk_a_33_excelsior_0;Tank, Assault, Mk. VIII, A.33B, Commodore Mk. II
+uk_a_33_excelsior_1;Commodore Mk. II
+uk_a_33_excelsior_2;Commodore
+uk_fv102_striker_shop;Striker
+uk_fv102_striker_0;FV102 Anti-Armour Guided Weapon Carrier, Striker
+uk_fv102_striker_1;Striker
+uk_fv102_striker_2;Striker
+uk_cargo_ship_liberty_shop;▃ Assistance (F 173)
+uk_cargo_ship_liberty_0;▃ Liberty-Class Cargo Ship, HMS Assistance (F 173)
+uk_cargo_ship_liberty_1;▃ Assistance
+uk_cargo_ship_liberty_2;Liberty-Class
+uk_cargo_ship_liberty_EC_0;▃ Assistance (F 173)
+uk_cargo_ship_liberty_EC_1;▃ Assistance
+uk_cargo_ship_liberty_EC_2;Liberty-Class
+uk_cruiser_enterprise_d52_shop;Enterprise (D 52)
+uk_cruiser_enterprise_d52_0;Emerald-Class Light Cruiser, HMS Enterprise (D 52) (1944)
+uk_cruiser_enterprise_d52_1;Enterprise
+uk_cruiser_enterprise_d52_2;Emerald-Class
+uk_cruiser_enterprise_d52_EC_0;Enterprise (D 52)
+uk_cruiser_enterprise_d52_EC_1;Enterprise
+uk_cruiser_enterprise_d52_EC_2;Emerald-Class
+uk_truck_us6_studebaker_tent_0;US6
+uk_truck_us6_studebaker_tent_1;US6
+uk_truck_us6_studebaker_tent_2;US6
+uk_truck_us6_studebaker_board_0;US6
+uk_truck_us6_studebaker_board_1;US6
+uk_truck_us6_studebaker_board_2;US6
+uk_at_gun_qf6pounder_0;6-pr Mk. V
+uk_at_gun_qf6pounder_1;6-pr Mk. V
+uk_at_gun_qf6pounder_2;6-pr
+uk_at_gun_qf17pounder_0;17-pr Mk. I
+uk_at_gun_qf17pounder_1;17-pr Mk. I
+uk_at_gun_qf17pounder_2;17-pr
+uk_machinegun_hotchkiss_mle_1914_0;Machine Gun, Hotchkiss Mk. I
+uk_machinegun_hotchkiss_mle_1914_1;Hotchkiss Mk. I
+uk_machinegun_hotchkiss_mle_1914_2;Hotchkiss Mk. I
+uk_70ft_mgb_shop;MGB 61
+uk_70ft_mgb_0;Motor Gun Boat, BPB 70’, HMS MGB 61 (1941)
+uk_70ft_mgb_1;MGB 61
+uk_70ft_mgb_2;BPB 70’
+uk_mtb_1series_shop;MTB 1
+uk_mtb_1series_0;Motor Torpedo Boat, BPB 60’, HMS MTB 1
+uk_mtb_1series_1;MTB 1
+uk_mtb_1series_2;BPB 60’
+uk_mtb_vosper_1series_shop;MTB 396
+uk_mtb_vosper_1series_0;Motor Torpedo Boat, 73’ Vosper Type I, HMS MTB 396
+uk_mtb_vosper_1series_1;MTB 396
+uk_mtb_vosper_1series_2;73’ Vosper
+uk_mtb_vosper_2series_shop;MTB 379
+uk_mtb_vosper_2series_0;Motor Torpedo Boat, 73’ Vosper Type II, HMS MTB 379
+uk_mtb_vosper_2series_1;MTB 379
+uk_mtb_vosper_2series_2;73’ Vosper
+uk_sgb_304_shop;Grey Fox (SGB 4)
+uk_sgb_304_0;Steam Gun Boat, HMS Grey Fox (SGB 4)
+uk_sgb_304_1;Grey Fox
+uk_sgb_304_2;SGB
+uk_sgb_309_shop;Grey Goose (SGB 9)
+uk_sgb_309_0;Steam Gun Boat, HMS Grey Goose (SGB 9)
+uk_sgb_309_1;Grey Goose
+uk_sgb_309_2;SGB
+uk_brave_borderer_shop;Brave Borderer (P 1011)
+uk_brave_borderer_0;Brave-Class, HMS Brave Borderer (P 1011)
+uk_brave_borderer_1;Brave Borderer
+uk_brave_borderer_2;Brave-Class
+uk_dark_class_shop;Dark Adventurer (P 1101)
+uk_dark_class_0;Dark-Class, HMS Dark Adventurer (P 1101)
+uk_dark_class_1;Dark Adventurer
+uk_dark_class_2;Dark-Class
+uk_dark_class_mtb_shop;Dark Aggressor (P 1102)
+uk_dark_class_mtb_0;Dark-Class, HMS Dark Aggressor (P 1102)
+uk_dark_class_mtb_1;Dark Aggressor
+uk_dark_class_mtb_2;Dark-Class
+uk_isles_class_trawler_shop;Liscomb (T 285)
+uk_isles_class_trawler_0;Isles-Class, HMT Liscomb (T 285)
+uk_isles_class_trawler_1;Liscomb
+uk_isles_class_trawler_2;Isles-CLass
+uk_fairmile_a_ml100_shop;ML 100
+uk_fairmile_a_ml100_0;Motor Launch Boat, Fairmile Type A, HMS ML 100
+uk_fairmile_a_ml100_1;ML 100
+uk_fairmile_a_ml100_2;Fairmile A
+uk_fairmile_b_ml345_shop;ML 345
+uk_fairmile_b_ml345_0;Motor Launch Boat, Fairmile Type B, HMS ML 345
+uk_fairmile_b_ml345_1;ML 345
+uk_fairmile_b_ml345_2;Fairmile B
+uk_destroyer_g_grafton_shop;Grafton (H 89)
+uk_destroyer_g_grafton_0;G-Class Destroyer, HMS Grafton (H 89)
+uk_destroyer_g_grafton_1;Grafton
+uk_destroyer_g_grafton_2;G-Class
+uk_destroyer_g_grafton_EC_0;Grafton (H 89)
+uk_destroyer_g_grafton_EC_1;Grafton
+uk_destroyer_g_grafton_EC_2;G-Class
+uk_destroyer_tribal_shop;Eskimo (F 75)
+uk_destroyer_tribal_0;Tribal-Class Destroyer, HMS Eskimo (F 75)
+uk_destroyer_tribal_1;Eskimo
+uk_destroyer_tribal_2;Tribal-Class
+uk_destroyer_tribal_EC_0;Eskimo (F 75)
+uk_destroyer_tribal_EC_1;Eskimo
+uk_destroyer_tribal_EC_2;Tribal-Class
+uk_fairmile_c_332_shop;MGB 332
+uk_fairmile_c_332_0;Motor Gun Boat, Fairmile Type C, HMS MGB 332
+uk_fairmile_c_332_1;MGB 332
+uk_fairmile_c_332_2;Fairmile C
+uk_fairmile_d_697_800_shop;MTB 697
+uk_fairmile_d_697_800_0;Motor Torpedo Boat, Fairmile Type D, HMS MTB 697
+uk_fairmile_d_697_800_1;MTB 697
+uk_fairmile_d_697_800_2;Fairmile D
+uk_fairmile_c_shop;MGB 312
+uk_fairmile_c_0;Motor Gun Boat, Fairmile Type C, HMS MGB 312
+uk_fairmile_c_1;MGB 312
+uk_fairmile_c_2;Fairmile C
+uk_fairmile_d_617_632_shop;MTB 617
+uk_fairmile_d_617_632_0;Motor Torpedo Boat, Fairmile Type D, HMS MTB 617
+uk_fairmile_d_617_632_1;MTB 617
+uk_fairmile_d_617_632_2;Fairmile D
+uk_fairmile_d_601_616_shop;MGB 601
+uk_fairmile_d_601_616_0;Motor Gun Boat, Fairmile Type D, HMS MGB 601
+uk_fairmile_d_601_616_1;MGB 601
+uk_fairmile_d_601_616_2;Fairmile D
+uk_destroyer_clemson_churchill_shop;Churchill (I 45)
+uk_destroyer_clemson_churchill_0;Town-Class Destroyer Type A, HMS Churchill (I 45)
+uk_destroyer_clemson_churchill_1;Churchill
+uk_destroyer_clemson_churchill_2;Town-Class
+uk_destroyer_clemson_churchill_EC_0;Churchill (I 45)
+uk_destroyer_clemson_churchill_EC_1;Churchill
+uk_destroyer_clemson_churchill_EC_2;Town-Class
+uk_destroyer_battle_2series_shop;Matapan (I 43)
+uk_destroyer_battle_2series_0;Battle-Class Destroyer Type II, HMS Matapan (I 43)
+uk_destroyer_battle_2series_1;Matapan
+uk_destroyer_battle_2series_2;Battle-Class
+uk_destroyer_j_class_shop;Jervis (G 00)
+uk_destroyer_j_class_0;J-Class Destroyer, HMS Jervis (G 00) (1944)
+uk_destroyer_j_class_1;Jervis
+uk_destroyer_j_class_2;J-Class
+uk_destroyer_k_class_shop;Kelvin (F 37)
+uk_destroyer_k_class_0;K-Class Destroyer, HMS Kelvin (F 37) (1939)
+uk_destroyer_k_class_1;Kelvin
+uk_destroyer_k_class_2;K-Class
+uk_destroyer_n_class_shop;Nepal (G 25)
+uk_destroyer_n_class_0;N-Class Destroyer, HMAS Nepal (G 25) (1942)
+uk_destroyer_n_class_1;Nepal
+uk_destroyer_n_class_2;N-Class
+uk_destroyer_n_class_EC_0;Nepal (G 25)
+uk_destroyer_n_class_EC_1;Nepal
+uk_destroyer_n_class_EC_2;N-Class
+uk_destroyer_hunt_2series_shop;Calpe (L 71)
+uk_destroyer_hunt_2series_0;Hunt-Class Destroyer Type II, HMS Calpe (L 71)
+uk_destroyer_hunt_2series_1;Calpe
+uk_destroyer_hunt_2series_2;Hunt-Class
+uk_destroyer_hunt_4series_shop;Brissenden (L 79)
+uk_destroyer_hunt_4series_0;Hunt-Class Destroyer Type IV, HMS Brissenden (L 79)
+uk_destroyer_hunt_4series_1;Brissenden
+uk_destroyer_hunt_4series_2;Hunt-Class
+uk_frigate_river_shop;Spey (K 246)
+uk_frigate_river_0;River-Class Frigate, HMS Spey (K 246)
+uk_frigate_river_1;Spey
+uk_frigate_river_2;River-Class
+uk_fairmile_d_5001_5029_shop;MTB 5001
+uk_fairmile_d_5001_5029_0;Motor Torpedo Boat, Fairmile Type D, HMS MTB 5001
+uk_fairmile_d_5001_5029_1;MTB 5001
+uk_fairmile_d_5001_5029_2;Fairmile D
+uk_mtb_2series_shop;MTB 2
+uk_mtb_2series_0;Motor Torpedo Boat, BPB 60’, HMS MTB 2
+uk_mtb_2series_1;MTB 2
+uk_mtb_2series_2;BPB 60’
+uk_cruiser_dido_shop;Dido (C 37)
+uk_cruiser_dido_0;Dido-Class Light Cruiser, HMS Dido (37) (1941)
+uk_cruiser_dido_1;Dido
+uk_cruiser_dido_2;Dido-Class
+uk_cruiser_dido_EC_0;Dido (C 37)
+uk_cruiser_dido_EC_1;Dido
+uk_cruiser_dido_EC_2;Dido-Class
+uk_cruiser_leander_shop;Leander (75)
+uk_cruiser_leander_0;Leander-Class Light Cruiser, HMNZS Leander (75) (1942)
+uk_cruiser_leander_1;Leander
+uk_cruiser_leander_2;Leander-Class
+uk_cruiser_leander_EC_0;Leander (75)
+uk_cruiser_leander_EC_1;Leander
+uk_cruiser_leander_EC_2;Leander-Class
+uk_cruiser_tiger_shop;Tiger (C 20)
+uk_cruiser_tiger_0;Tiger-Class Light Cruiser, HMS Tiger (C 20) (1960)
+uk_cruiser_tiger_1;Tiger
+uk_cruiser_tiger_2;Tiger-Class
+uk_cruiser_southampton_shop;Southampton (C 83)
+uk_cruiser_southampton_0;Town-Class Light Cruiser, HMS Southampton (C 83) (1940)
+uk_cruiser_southampton_1;Southampton
+uk_cruiser_southampton_2;Town-Class
+uk_cruiser_arethusa_shop;Arethusa (26)
+uk_cruiser_arethusa_0;Arethusa-Class Light Cruiser, HMS Arethusa (26)
+uk_cruiser_arethusa_1;Arethusa
+uk_cruiser_arethusa_2;Arethusa-Class
+uk_cruiser_arethusa_EC_0;Arethusa (26)
+uk_cruiser_arethusa_EC_1;Arethusa
+uk_cruiser_arethusa_EC_2;Arethusa-Class
+uk_71ft_mgb_shop;MGB 75
+uk_71ft_mgb_0;Motor Gun Boat, BPB 72’, HMS MGB 75
+uk_71ft_mgb_1;MGB 75
+uk_71ft_mgb_2;BPB 72’
+uk_cruiser_belfast_shop;Belfast (C 35)
+uk_cruiser_belfast_0;Town-Class Light Cruiser, HMS Belfast (C 35) (1959)
+uk_cruiser_belfast_1;Belfast
+uk_cruiser_belfast_2;Town-Class
+uk_cruiser_hawkins_shop;Hawkins (D 86)
+uk_cruiser_hawkins_0;Hawkins-Class Heavy Cruiser, HMS Hawkins (D 86)
+uk_cruiser_hawkins_1;Hawkins
+uk_cruiser_hawkins_2;Hawkins-Class
+uk_cruiser_kent_shop;Kent (54)
+uk_cruiser_kent_0;County-Class Heavy Cruiser, HMS Kent (54) (1934)
+uk_cruiser_kent_1;Kent
+uk_cruiser_kent_2;County-Class
+uk_cruiser_london_shop;London (69)
+uk_cruiser_london_0;County-Class Heavy Cruiser, HMS London (69) (1945)
+uk_cruiser_london_1;London
+uk_cruiser_london_2;County-Class

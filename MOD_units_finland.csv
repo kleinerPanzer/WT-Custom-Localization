@@ -1,1 +1,189 @@
 <ID|readonly|noverify>;<NewLanguage>
+shop/group/sw_t_34_pz_4_group;☩ T-34 / ☩ PzKw IVJ
+shop/group/sw_pt_76_comet_group;☩ PT-76B / ☩ Comet Mk. IA
+shop/group/sw_cv_90_ifv_group;☩ CV9030 FIN / Strv 9040B
+germ_kv_1B_finland_shop;▀ KV-IB
+germ_kv_1B_finland_0;▀ Panssarivaunu KV-IB
+germ_kv_1B_finland_1;▀ KV-IB
+germ_kv_1B_finland_2;KV-I
+fr_crotale_ng_shop;⚜ XA-181 (ItO 90M)
+fr_crotale_ng_0;⚜ XA-181 (Ilmatorjuntaohjus 90M)
+fr_crotale_ng_1;⚜ XA-181 (ItO 90M)
+fr_crotale_ng_2;XA-181
+arado-196a-5_shop;☩ Ar 196 A-5
+arado-196a-5_0;☩ Ar 196 A-5
+arado-196a-5_1;☩ Ar 196 A
+arado-196a-5_2;Ar 196
+bf-109g-6_finland_shop;☩ Bf 109 G-6 (Trop) (2/HLeLv 31)
+bf-109g-6_finland_0;☩ Bf 109 G-6 (Tropisch) (Börje Hielm, 2/Hävittäjälentolaivue 31)
+bf-109g-6_finland_1;☩ Bf 109 G
+bf-109g-6_finland_2;Bf 109
+h-75a-1_finland_shop;▀ Hawk 75A-1
+h-75a-1_finland_0;▀ Hawk 75A-1
+h-75a-1_finland_1;▀ Hawk 75A
+h-75a-1_finland_2;▀ Hawk 75
+h-75a-2_finland_shop;▀ Hawk 75A-2
+h-75a-2_finland_0;▀ Hawk 75A-2
+h-75a-2_finland_1;▀ Hawk 75A
+h-75a-2_finland_2;▀ Hawk 75
+h-75a-3_finland_shop;▀ Hawk 75A-3
+h-75a-3_finland_0;▀ Hawk 75A-3
+h-75a-3_finland_1;▀ Hawk 75A
+h-75a-3_finland_2;▀ Hawk 75
+h-75a-4_finland_shop;▀ Hawk 75A-4
+h-75a-4_finland_0;▀ Hawk 75A-4
+h-75a-4_finland_1;▀ Hawk 75A
+h-75a-4_finland_2;▀ Hawk 75
+h-75a-6_shop;Hawk 75A-6
+h-75a-6_0;Hawk 75A-6
+h-75a-6_1;Hawk 75A
+h-75a-6_2;Hawk 75
+shop/group/bf_109g_sweden_group;☩ Bf 109 G-2 / ☩ Bf 109 G-6
+vl_myrsky_2_late_shop;Myrsky II
+vl_myrsky_2_late_0;Myrsky II
+vl_myrsky_2_late_1;Myrsky II
+vl_myrsky_2_late_2;Myrsky II
+morko_morane_shop;Mörkö-Morane
+morko_morane_0;Mörkö-Morane
+morko_morane_1;Mörkö-Morane
+morko_morane_2;Mörkö-Morane
+fokker_d21_mod20_shop;☩ D.XXI-3 (FF)
+fokker_d21_mod20_0;☩ D.XII-3 (Oerlikon FF)
+fokker_d21_mod20_1;☩ D.XXI-3
+fokker_d21_mod20_2;D.XXI
+fokker_d21_serie3_finland_shop;☩ D.XII-3
+fokker_d21_serie3_finland_0;☩ D.XII-3
+fokker_d21_serie3_finland_1;☩ D.XII-3
+fokker_d21_serie3_finland_2;D.XII
+b_239_finland_shop;☩ B-239E
+b_239_finland_0;☩ B-239E
+b_239_finland_1;☩ B-239E
+b_239_finland_2;B-239
+hurricane_mk1_late_finland_shop;☩ Hurricane Mk. I
+hurricane_mk1_late_finland_0;☩ Hurricane Mk. I (1940)
+hurricane_mk1_late_finland_1;☩ Hurricane Mk. I
+hurricane_mk1_late_finland_2;Hurricane
+bf-109g-2_finland_shop;☩ Bf 109 G-2
+bf-109g-2_finland_0;☩ Bf 109 G-2
+bf-109g-2_finland_1;☩ Bf 109 G
+bf-109g-2_finland_2;Bf 109
+bf-109g-6_erla_finland_shop;☩ Bf 109 G-6
+bf-109g-6_erla_finland_0;☩ Bf 109 G-6 mit „Erla Haube“ (W.Sr.Nr. 167000)
+bf-109g-6_erla_finland_1;☩ Bf 109 G
+bf-109g-6_erla_finland_2;Bf 109
+vampire_fb52_finland_shop;☩ Vampire FB.52a
+vampire_fb52_finland_0;☩ Vampire FB. Mk. 52a
+vampire_fb52_finland_1;☩ Vampire Mk. 52
+vampire_fb52_finland_2;Vampire
+ju-88a-4_finland_shop;☩ Ju 88 A-4
+ju-88a-4_finland_0;☩ Ju 88 A-4
+ju-88a-4_finland_1;☩ Ju 88 A
+ju-88a-4_finland_2;Ju 88
+mig_21_bis_finland_shop;☩ MiG-21 bis
+mig_21_bis_finland_0;☩ MiG-21 bis
+mig_21_bis_finland_1;☩ MiG-21 bis
+mig_21_bis_finland_2;MiG-21
+fa_18c_finland_shop;F-18C
+fa_18c_finland_0;F-18C
+fa_18c_finland_1;F-18C
+fa_18c_finland_2;F-18
+fa_18c_mlu_2_finland_shop;F/A-18C MLU2
+fa_18c_mlu_2_finland_0;F/A-18C MLU2
+fa_18c_mlu_2_finland_1;F/A-18C MLU
+fa_18c_mlu_2_finland_2;F/A-18
+pyorremyrsky_shop;Pyörremyrsky
+pyorremyrsky_0;Pyörremyrsky
+pyorremyrsky_1;Pyörremyrsky
+pyorremyrsky_2;Pyörremyrsky
+saab_j35xs_shop;Saab 35 S (HävLLv 11)
+saab_j35xs_0;Saab 35 S Draken (Hävittäjälentolaivue 11)
+saab_j35xs_1;Saab 35 S
+saab_j35xs_2;Saab 35
+sw_bt_42_shop;BT-42
+sw_bt_42_0;Panssarivaunu BT-42
+sw_bt_42_1;BT-42
+sw_bt_42_2;BT-42
+sw_vickers_mk_e_45_shop;☩ T-26E
+sw_vickers_mk_e_45_0;Panssarivaunu T-26E
+sw_vickers_mk_e_45_1;☩ T-26E
+sw_vickers_mk_e_45_2;T-26
+sw_vickers_mk_e_37_shop;☩ Vickers Mk. E (PsvK/36)
+sw_vickers_mk_e_37_0;☩ Panssarivaunu Vickers Mk. E Type B (Panssarivaunukanuuna 36)
+sw_vickers_mk_e_37_1;☩ Vickers Mk. E (PsvK/36)
+sw_vickers_mk_e_37_2;☩ Vickers Mk. E
+sw_bmp_2md_shop;☩ BMP-2MD
+sw_bmp_2md_0;☩ Panssarivaunu BMP-2MD
+sw_bmp_2md_1;☩ BMP-2MD
+sw_bmp_2md_2;BMP-2
+sw_cv_9030_fin_shop;☩ CV9030 FIN
+sw_cv_9030_fin_0;☩ Panssarivaunu CV9030 FIN
+sw_cv_9030_fin_1;☩ CV9030
+sw_cv_9030_fin_2;CV90
+sw_a_34_comet_shop;☩ Comet Mk. IA
+sw_a_34_comet_0;Panssarivaunu Comet Mk. IA
+sw_a_34_comet_1;☩ Comet Mk. I
+sw_a_34_comet_2;Comet
+sw_charioteer_mk_7_shop;☩ Charioteer Mk. 7A
+sw_charioteer_mk_7_0;☩ Panssarivaunu Charioteer Mk. 7A
+sw_charioteer_mk_7_1;☩ Charioteer Mk. 7
+sw_charioteer_mk_7_2;Charioteer
+sw_pzkpfw_IV_ausf_J_shop;☩ PzKw IVJ
+sw_pzkpfw_IV_ausf_J_0;☩ Panssarivaunu PzKw IVJ
+sw_pzkpfw_IV_ausf_J_1;☩ PzKw IVJ
+sw_pzkpfw_IV_ausf_J_2;PzKw IV
+sw_t_28_shop;☩ T-28
+sw_t_28_0;☩ Panssarivaunu T-28
+sw_t_28_1;☩ T-28
+sw_t_28_2;T-28
+sw_t_34_1941_shop;☩ T-34
+sw_t_34_1941_0;☩ Panssarivaunu T-34
+sw_t_34_1941_1;☩ T-34
+sw_t_34_1941_2;T-34
+sw_kv_1_1942_fin_shop;☩ KV-1A
+sw_kv_1_1942_fin_0;☩ Panssarivaunu KV-1A
+sw_kv_1_1942_fin_1;☩ KV-1A
+sw_kv_1_1942_fin_2;KV-1
+sw_t_34_85_zis_53_shop;☩ T-34/85
+sw_t_34_85_zis_53_0;☩ Panssarivaunu T-34/85
+sw_t_34_85_zis_53_1;☩ T-34/85
+sw_t_34_85_zis_53_2;T-34
+sw_leopard_2a6nl_shop;☩ Leopard 2 A6
+sw_leopard_2a6nl_0;☩ Panssarivaunu Leopard 2 A6
+sw_leopard_2a6nl_1;☩ Leopard 2 A6
+sw_leopard_2a6nl_2;Leopard 2
+sw_leopard_2a4_fin_shop;☩ Leopard 2 A4
+sw_leopard_2a4_fin_0;Panssarivaunu Leopard 2 A4
+sw_leopard_2a4_fin_1;☩ Leopard 2 A4
+sw_leopard_2a4_fin_2;Leopard 2
+sw_t_72m1_shop;☩ T-72M1
+sw_t_72m1_0;☩ Panssarivaunu T-72M1
+sw_t_72m1_1;☩ T-72M1
+sw_t_72m1_2;T-72
+sw_t_54_1951_shop;☩ T-54
+sw_t_54_1951_0;☩ Panssarivaunu T-54
+sw_t_54_1951_1;☩ T-54
+sw_t_54_1951_2;T-54
+sw_t_55m_shop;☩ T-55M
+sw_t_55m_0;Panssarivaunu T-55M
+sw_t_55m_1;☩ T-55M
+sw_t_55m_2;T-55
+sw_pt_76b_shop;☩ PT-76B
+sw_pt_76b_0;☩ Panssarivaunu PT-76B
+sw_pt_76b_1;☩ PT-76B
+sw_pt_76b_2;PT-76
+sw_patria_amv_ctcv_105_shop;AMV HWP (CT-CV)
+sw_patria_amv_ctcv_105_0;Advanced Modular Vehicle Heavy Weapons Platform (Cockerill CT-CV 105HP)
+sw_patria_amv_ctcv_105_1;AMV HWP (CT-CV)
+sw_patria_amv_ctcv_105_2;AMV
+sw_crotale_ng_shop;XA-181 (ItO 90M)
+sw_crotale_ng_0;XA-181 (Ilmatorjuntaohjus 90M)
+sw_crotale_ng_1;XA-181 (ItO 90M)
+sw_crotale_ng_2;XA-181
+sw_zsu_57_2_shop;☩ SU-57-2
+sw_zsu_57_2_0;Ilmatorjuntapanssarivaunu SU-57-2
+sw_zsu_57_2_1;☩ SU-57-2
+sw_zsu_57_2_2;SU-57
+sw_itpsv_90_shop;ItPsv 90
+sw_itpsv_90_0;Ilmatorjuntapanssarivaunu 90
+sw_itpsv_90_1;ItPsv 90
+sw_itpsv_90_2;ItPsv 90

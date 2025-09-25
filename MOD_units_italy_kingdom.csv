@@ -1,1 +1,483 @@
 <ID|readonly|noverify>;<NewLanguage>
+shop/group/it_m15_pz_3_group;M 42 / ⛨ Pz.Kpfw. III N
+shop/group/it_semovente_stug_group;Semovente 90/53 M 41M / ⛨ Sturmgeschütz G
+shop/group/it_semovente_m41_group;Semovente 75/18 M 41 / Semovente 75/32 M 41 / Semovente 75/34 M 42
+shop/group/it_semovente_m43_105_75_group;Semovente 105/25 M 43 / Semovente 75/34 M 43
+shop/group/it_m13_40_group;M 40 I / M 40 III
+ju-87d-3_italy_shop;⛨ Ju 87 D-3
+ju-87d-3_italy_0;⛨ Ju 87 D-3
+ju-87d-3_italy_1;⛨ Ju 87 D
+ju-87d-3_italy_2;Ju 87
+ju-87r-2_italy_shop;⛨ Ju 87 R-2
+ju-87r-2_italy_0;⛨ Ju 87 R-2
+ju-87r-2_italy_1;⛨ Ju 87 R
+ju-87r-2_italy_2;Ju 87
+mc-202_shop;▀ C.202 VII
+mc-202_0;▀ C.202 serie VII
+mc-202_1;▀ C.202
+mc-202_2;▀ C.202
+fiat_cr42_shop;▀ CR.42 bis
+fiat_cr42_0;▀ CR.42 bis
+fiat_cr42_1;▀ CR.42 bis
+fiat_cr42_2;▀ CR.42
+fiat_g50_seria2_shop;▀ G.50 II
+fiat_g50_seria2_0;▀ G.50 serie II
+fiat_g50_seria2_1;▀ G.50
+fiat_g50_seria2_2;▀ G.50
+fiat_g50_seria7as_shop;▀ G.50 VII AS
+fiat_g50_seria7as_0;▀ G.50 AS serie VII
+fiat_g50_seria7as_1;▀ G.50
+fiat_g50_seria7as_2;▀ G.50
+mc200_serie3_shop;▀ C.200 III
+mc200_serie3_0;▀ C.200 serie III
+mc200_serie3_1;▀ C.200
+mc200_serie3_2;▀ C.200
+mc200_serie7_shop;▀ C.200 VII
+mc200_serie7_0;▀ C.200 serie VII
+mc200_serie7_1;▀ C.200
+mc200_serie7_2;▀ C.200
+ro_43_shop;Ro.43
+ro_43_0;Ro.43
+ro_43_1;Ro.43
+ro_43_2;Ro.43
+sm_79_1936_shop;▀ SM.79 I
+sm_79_1936_0;▀ SM.79 serie I (1936)
+sm_79_1936_1;▀ SM.79
+sm_79_1936_2;▀ SM.79
+sm_79_1937_shop;▀ SM.79 IV
+sm_79_1937_0;▀ SM.79 serie IV (1937)
+sm_79_1937_1;▀ SM.79
+sm_79_1937_2;▀ SM.79
+sm_79_1939_shop;▀ SM.79 VIII
+sm_79_1939_0;▀ SM.79 serie VIII (1939)
+sm_79_1939_1;▀ SM.79
+sm_79_1939_2;▀ SM.79
+sm_79_1941_shop;▀ SM.79 AS
+sm_79_1941_0;▀ SM.79 AS (1941)
+sm_79_1941_1;▀ SM.79
+sm_79_1941_2;▀ SM.79
+sm_79_1942_shop;▀S M.79 bis N
+sm_79_1942_0;▀ SM.79 bis N (1942)
+sm_79_1942_1;▀ SM.79
+sm_79_1942_2;▀ SM.79
+sm_79_1943_shop;▀ SM.79 bis TM
+sm_79_1943_0;▀ SM.79 bis TM (1943)
+sm_79_1943_1;▀ SM.79
+sm_79_1943_2;▀ SM.79
+shop/group/sm_79_group;▀ SM.79 I / ▀ SM.79 VIII / ▀ SM.79 AS / ▀ SM.79 bis TM / ▀ S-79B / ▀ SM.79 IV / ▀ SM.79 bis N
+fiat_cr42_marcolin_shop;▀ CR.42 CN (377ª Sq.Aut.)
+fiat_cr42_marcolin_0;▀ CR.42 CN (Luciano Marcolin, 377ª Squadriglia Autonoma)
+fiat_cr42_marcolin_1;▀ CR.42 CN
+fiat_cr42_marcolin_2;▀ CR.42
+shop/group/fiat_group;▀ CR.42 bis / ▀ G.50 II / ▀ G.50 VII AS
+shop/group/mc200_group;▀ C.200 III / ▀ C.200 VII / ▀ C.202 VII
+shop/group/ba_65_group;Ba.65 (K-14) (L) / ⛨ Ju 87 R-2
+shop/group/breda_group;Ba.88 (P.XI) / P.108A II
+shop/group/br_20_dr_group;BR.20 (DR) / BR.20 M
+shop/group/mc_202_italy_group;C.202 VII / C.205 I
+shop/group/z_1007_group;Z.1007 bis III / Z.1007 bis V
+shop/group/p_108_group;P.108B I / P.108B II
+shop/group/g_55_serie_group;G.55 I / Re.2005
+br_20_dr_shop;BR.20 (DR)
+br_20_dr_0;BR.20 (DR)
+br_20_dr_1;BR.20 (DR)
+br_20_dr_2;BR.20
+br_20m_m1_shop;BR.20 M
+br_20m_m1_0;BR.20 M
+br_20m_m1_1;BR.20 M
+br_20m_m1_2;BR.20
+sm_79_1936_italy_shop;SM.79 I
+sm_79_1936_italy_0;SM.79 serie I (1936)
+sm_79_1936_italy_1;SM.79
+sm_79_1936_italy_2;SM.79
+sm_79_1937_italy_shop;SM.79 IV
+sm_79_1937_italy_0;SM.79 serie IV (1937)
+sm_79_1937_italy_1;SM.79
+sm_79_1937_italy_2;SM.79
+sm_79_1939_italy_shop;SM.79 VIII
+sm_79_1939_italy_0;SM.79 serie VIII (1939)
+sm_79_1939_italy_1;SM.79
+sm_79_1939_italy_2;SM.79
+sm_79_1941_italy_shop;SM.79 AS
+sm_79_1941_italy_0;SM.79 AS (1941)
+sm_79_1941_italy_1;SM.79
+sm_79_1941_italy_2;SM.79
+sm_79_1942_italy_shop;SM.79 bis N
+sm_79_1942_italy_0;SM.79 bis N (1942)
+sm_79_1942_italy_1;SM.79
+sm_79_1942_italy_2;SM.79
+sm_79_1943_italy_shop;SM.79 bis TM
+sm_79_1943_italy_0;SM.79 bis TM (1943)
+sm_79_1943_italy_1;SM.79
+sm_79_1943_italy_2;SM.79
+shop/group/sm_79_1941_group;SM.79 AS / SM.79 bis TM / ⛨ S-79B
+mc-202_italy_shop;C.202 VII
+mc-202_italy_0;C.202 serie VII
+mc-202_italy_1;C.202
+mc-202_italy_2;C.202
+mc-202_ec_shop;C.202 III EC
+mc-202_ec_0;C.202 serie III EC
+mc-202_ec_1;C.202 EC
+mc-202_ec_2;C.202
+mc-202_d_shop;C.202 D
+mc-202_d_0;C.202 D
+mc-202_d_1;C.202 D
+mc-202_d_2;C.202
+s_81_ar125_shop;SM.81 (AR 125)
+s_81_ar125_0;SM.81 (Alfa-Romeo 125)
+s_81_ar125_1;SM.81
+s_81_ar125_2;SM.81
+mc200_serie3_italy_shop;C.200 III
+mc200_serie3_italy_0;C.200 serie III
+mc200_serie3_italy_1;C.200
+mc200_serie3_italy_2;C.200
+mc200_serie7_italy_shop;C.200 VII
+mc200_serie7_italy_0;C.200 serie VII
+mc200_serie7_italy_1;C.200
+mc200_serie7_italy_2;C.200
+fiat_cr42_italy_shop;CR.42 bis
+fiat_cr42_italy_0;CR.42 bis
+fiat_cr42_italy_1;CR.42 bis
+fiat_cr42_italy_2;CR.42
+fiat_g50_seria2_italy_shop;G.50 II
+fiat_g50_seria2_italy_0;G.50 serie II
+fiat_g50_seria2_italy_1;G.50
+fiat_g50_seria2_italy_2;G.50
+fiat_g50_seria7as_italy_shop;G.50 VII AS
+fiat_g50_seria7as_italy_0;G.50 serie VII AS
+fiat_g50_seria7as_italy_1;G.50 AS
+fiat_g50_seria7as_italy_2;G.50
+fiat_cr42_marcolin_italy_shop;CR.42 CN (377ª Sq.Aut.)
+fiat_cr42_marcolin_italy_0;CR.42 CN (Luciano Marcolin, 377ª Squadriglia Autonoma)
+fiat_cr42_marcolin_italy_1;CR.42 CN
+fiat_cr42_marcolin_italy_2;CR.42
+cr_32_shop;CR.32
+cr_32_0;CR.32
+cr_32_1;CR.32
+cr_32_2;CR.32
+cr_32_bis_shop;CR.32 bis (4º St.)
+cr_32_bis_0;CR.32 bis (4º Stormo)
+cr_32_bis_1;CR.32 bis
+cr_32_bis_2;CR.32
+cr_32_quater_shop;CR.32 quater
+cr_32_quater_0;CR.32 quater
+cr_32_quater_1;CR.32 quater
+cr_32_quater_2;CR.32
+ro_44_shop;Ro. 44
+ro_44_0;Ro. 44
+ro_44_1;Ro. 44
+ro_44_2;Ro. 44
+g_55_serie1_shop;G.55 I
+g_55_serie1_0;G.55 serie I
+g_55_serie1_1;G.55
+g_55_serie1_2;G.55
+g_55_serie1_ss0_shop;G.55 0
+g_55_serie1_ss0_0;Fiat G.55 serie 0
+g_55_serie1_ss0_1;G.55
+g_55_serie1_ss0_2;G.55
+g_55s_shop;G.55 I S
+g_55s_0;G.55 serie I S
+g_55s_1;G.55 S
+g_55s_2;G.55
+breda_88_shop;Ba.88 (P.XI)
+breda_88_0;Ba.88 (P.XI)
+breda_88_1;Ba.88
+breda_88_2;Ba.88
+fc_20_bis_shop;F.C.20 bis
+fc_20_bis_0;F.C.20 bis
+fc_20_bis_1;F.C.20 bis
+fc_20_bis_2;F.C.20
+ro_57_quadriarma_shop;Ro.57
+ro_57_quadriarma_0;Ro.57
+ro_57_quadriarma_1;Ro.57
+ro_57_quadriarma_2;Ro.57
+z_1007_bis_serie5_shop;Z.1007 bis V
+z_1007_bis_serie5_0;Z.1007 bis serie V
+z_1007_bis_serie5_1;Z.1007 bis
+z_1007_bis_serie5_2;Z.1007
+z_1007_bis_serie3_shop;Z.1007 bis III
+z_1007_bis_serie3_0;Z.1007 bis serie III
+z_1007_bis_serie3_1;Z.1007 bis
+z_1007_bis_serie3_2;Z.1007
+shop/group/re_2000_group;Re.2000 I / Re.2000 III GA
+shop/group/re_2001_group;Re.2001 I / Re.2000 I CB
+re_2000_int_shop;Re.2000 I
+re_2000_int_0;Re.2000 serie I
+re_2000_int_1;Re.2000
+re_2000_int_2;Re.2000
+re_2000_ga_shop;Re.2000 III GA
+re_2000_ga_0;Re.2000 serie III GA
+re_2000_ga_1;Re.2000 GA
+re_2000_ga_2;Re.2000
+re_2000_ga_ep_shop;Re.2000 III GA (377ª Sq.)
+re_2000_ga_ep_0;Re.2000 serie III GA (377ª Squadriglia Autonoma Caccia Terrestre)
+re_2000_ga_ep_1;Re.2000 GA
+re_2000_ga_ep_2;Re.2000
+re_2001_serie1_shop;Re.2001 I
+re_2001_serie1_0;Re.2001 serie I
+re_2001_serie1_1;Re.2001
+re_2001_serie1_2;Re.2001
+re_2001_serie1_ep_shop;Re.2001 I (22º Gr.Aut.)
+re_2001_serie1_ep_0;Re.2001 serie I (22º Gruppo Autonomo Caccia Terrestre)
+re_2001_serie1_ep_1;Re.2001
+re_2001_serie1_ep_2;Re.2001
+re_2001_cb_shop;Re.2001 I CB
+re_2001_cb_0;Re.2001 serie I CB
+re_2001_cb_1;Re.2001 CB
+re_2001_cb_2;Re.2001
+re_2001_cn_shop;Re.2001 III CN
+re_2001_cn_0;Re.2001 serie III CN
+re_2001_cn_1;Re.2001 CN
+re_2001_cn_2;Re.2001
+re_2002_early_shop;Re.2002
+re_2002_early_0;Re.2002
+re_2002_early_1;Re.2002
+re_2002_early_2;Re.2002
+re_2005_serie0_shop;Re.2005 0
+re_2005_serie0_0;Re.2005 serie 0
+re_2005_serie0_1;Re.2005
+re_2005_serie0_2;Re.2005
+sm_91_shop;SM.91
+sm_91_0;SM.91
+sm_91_1;SM.91
+sm_91_2;SM.91
+sm_92_shop;SM.92
+sm_92_0;SM.92
+sm_92_1;SM.92
+sm_92_2;SM.92
+shop/group/cr_32_group;CR.32 / CR.32 quater
+shop/group/fiat_g50_italy_group;G.50 II / G.50 VII AS
+shop/group/mc_200_italy_group;C.200 III / C.200 VII
+shop/group/sm_79_italy_group;SM.79 I / SM.79 VIII
+p_108a_serie2_shop;P.108A II
+p_108a_serie2_0;P.108A serie II
+p_108a_serie2_1;P.108A
+p_108a_serie2_2;P.108
+p_108b_serie1_shop;P.108B I
+p_108b_serie1_0;P.108B serie I
+p_108b_serie1_1;P.108B
+p_108b_serie1_2;P.108
+p_108b_serie2_shop;P.108B II
+p_108b_serie2_0;P.108B serie II
+p_108b_serie2_1;P.108B
+p_108b_serie2_2;P.108
+g_56_shop;G.56
+g_56_0;G.56
+g_56_1;G.56
+g_56_2;G.56
+ba_65_k14_l_shop;Ba.65 (K-14) (L)
+ba_65_k14_l_0;Ba.65 (K-14) (L)
+ba_65_k14_l_1;Ba.65
+ba_65_k14_l_2;Ba.65
+mc-205_serie3_shop;C.205 III
+mc-205_serie3_0;C.205 serie III
+mc-205_serie3_1;C.205
+mc-205_serie3_2;C.205
+mc-205_serie1_shop;C.205 I
+mc-205_serie1_0;C.205 serie I
+mc-205_serie1_1;C.205
+mc-205_serie1_2;C.205
+mc-205_n2_shop;C.205 N2
+mc-205_n2_0;C.205 N2
+mc-205_n2_1;C.205 N
+mc-205_n2_2;C.205
+shop/group/mc_205_group;C.205 I / C.205 III
+bf-109g-14as_shop;⛨ Bf 109 G-14/AS
+bf-109g-14as_0;⛨ Bf 109 G-14/AS
+bf-109g-14as_1;⛨ Bf 109 G
+bf-109g-14as_2;Bf 109
+it_as_42_47_shop;AS 42 (47/32)
+it_as_42_47_0;Camionetta AS 42 tipo II (47/32 Mod. 39)
+it_as_42_47_1;AS 42 (47/32)
+it_as_42_47_2;AS 42
+it_as_42_metropolitana_shop;AS 42 (Mod. 35)
+it_as_42_metropolitana_0;Camionetta AS 42 tipo II (Breda Mod. 35)
+it_as_42_metropolitana_1;AS 42 (Mod. 35)
+it_as_42_metropolitana_2;AS 42
+it_semovente_m43_75_46_shop;Semovente 75/46 M 43
+it_semovente_m43_75_46_0;Semovente da 75/46 M 43
+it_semovente_m43_75_46_1;Semovente 75/46 M 43
+it_semovente_m43_75_46_2;Semovente 75/46
+it_semovente_m41_75_32_shop;Semovente 75/32 M 41
+it_semovente_m41_75_32_0;Semovente da 75/32 M 41
+it_semovente_m41_75_32_1;Semovente 75/32 M 41
+it_semovente_m41_75_32_2;Semovente 75/32
+it_semovente_m41_75_18_shop;Semovente 75/18 M 41
+it_semovente_m41_75_18_0;Semovente da 75/18 M 41
+it_semovente_m41_75_18_1;Semovente 75/18 M 41
+it_semovente_m41_75_18_2;Semovente 75/18
+it_semovente_m43_75_bersaglieri_shop;Semovente 75/34 M 43 (III Rgt.Bers.)
+it_semovente_m43_75_bersaglieri_0;Semovente da 75/34 M 43 (III Reggimenti Bersaglieri di Alessandria)
+it_semovente_m43_75_bersaglieri_1;Semovente 75/34 M 43
+it_semovente_m43_75_bersaglieri_2;Semovente 75/34
+it_semovente_m42_75_34_shop;Semovente 75/34 M 42
+it_semovente_m42_75_34_0;Semovente da 75/34 M 42
+it_semovente_m42_75_34_1;Semovente 75/34 M 42
+it_semovente_m42_75_34_2;Semovente 75/34
+it_semovente_m43_75_34_shop;Semovente 75/34 M 43
+it_semovente_m43_75_34_0;Semovente da 75/34 M 43
+it_semovente_m43_75_34_1;Semovente 75/34 M 43
+it_semovente_m43_75_34_2;Semovente 75/34
+it_l6_leone_shop;L 40 (31º Rgt.Car.)
+it_l6_leone_0;Carro armato leggero 40 (31º Reggimento carri)
+it_l6_leone_1;L 40
+it_l6_leone_2;L 40
+it_l6_shop;L 40
+it_l6_0;Carro armato leggero 40
+it_l6_1;L 40
+it_l6_2;L 40
+it_semovente_m43_105_leoncello_shop;Semovente 105/25 M 43 (Gr.Cor.Leon.)
+it_semovente_m43_105_leoncello_0;Semovente da 105/25 M 43 (Gruppo corazzato “Leoncello”)
+it_semovente_m43_105_leoncello_1;Semovente 105/25 M 43
+it_semovente_m43_105_leoncello_2;Semovente 105/25
+it_semovente_m43_105_shop;Semovente 105/25 M 43
+it_semovente_m43_105_0;Semovente da 105/25 M 43
+it_semovente_m43_105_1;Semovente 105/25 M 43
+it_semovente_m43_105_2;Semovente 105/25
+it_semovente_m41m_90_shop;Semovente 90/53 M 41M
+it_semovente_m41m_90_0;Semovente da 90/53 M 41M
+it_semovente_m41m_90_1;Semovente 90/53 M 41M
+it_semovente_m41m_90_2;Semovente 90/53
+it_m13_40_serie_1_shop;M 40 I
+it_m13_40_serie_1_0;Carro armato medio 40 I serie
+it_m13_40_serie_1_1;M 40
+it_m13_40_serie_1_2;M 40
+it_m13_40_serie_2_shop;M 40 II
+it_m13_40_serie_2_0;Carro armato medio 40 II serie
+it_m13_40_serie_2_1;M 40
+it_m13_40_serie_2_2;M 40
+it_m13_40_serie_3_shop;M 40 III
+it_m13_40_serie_3_0;Carro armato medio 40 III serie
+it_m13_40_serie_3_1;M 40 III
+it_m13_40_serie_3_2;M 40
+it_m11_39_shop;M 39
+it_m11_39_0;Carro armato medio 39
+it_m11_39_1;M 39
+it_m11_39_2;M 39
+it_m14_41_47_40_shop;M 41 (47/40)
+it_m14_41_47_40_0;Carro armato medio 41 (47/40)
+it_m14_41_47_40_1;M 41
+it_m14_41_47_40_2;M 41
+it_pzkpfw_III_ausf_N_shop;⛨ Pz.Kpfw. III N
+it_pzkpfw_III_ausf_N_0;⛨ Panzerkampfwagen III (7,5 cm Kw.K. 37 (L/24)) Ausf. N (Mai 1943 Umbau)
+it_pzkpfw_III_ausf_N_1;⛨ Pz.Kpfw. III N
+it_pzkpfw_III_ausf_N_2;Pz.Kpfw. III
+it_pzkpfw_IV_ausf_G_shop;⛨ Pz.Kpfw. IV G
+it_pzkpfw_IV_ausf_G_0;⛨ Panzerkampfwagen IV (7,5 cm Kw.K. 40 (L/48)) Ausf. G (April 1943 Umbau)
+it_pzkpfw_IV_ausf_G_1;⛨ Pz.Kpfw. IV G
+it_pzkpfw_IV_ausf_G_2;Pz.kpfw. IV
+it_pzkpfw_VI_ausf_e_tiger_shop;⛨ Tiger I
+it_pzkpfw_VI_ausf_e_tiger_0;⛨ Panzerkampfwagen Tiger (8,8 cm) Ausf. E (April 1944 Produktion)
+it_pzkpfw_VI_ausf_e_tiger_1;⛨ Tiger I
+it_pzkpfw_VI_ausf_e_tiger_2;Tiger I
+it_stug_III_ausf_G_shop;⛨ Sturmgeschütz G
+it_stug_III_ausf_G_0;⛨ Sturmgeschütz III für 7,5 cm Stu.K. 40 L/48 Ausf. G (April 1943 Produktion)
+it_stug_III_ausf_G_1;⛨ Sturmgeschütz G
+it_stug_III_ausf_G_2;Sturmgeschütz G
+it_m14_41_shop;M 41
+it_m14_41_0;Carro armato medio 41
+it_m14_41_1;M 41
+it_m14_41_2;M 41
+it_m15_42_contraereo_shop;Semovente 20/70 M 42
+it_m15_42_contraereo_0;Semovente da 20/70 M 42
+it_m15_42_contraereo_1;Semovente 20/70 M 42
+it_m15_42_contraereo_2;Semovente 20/70
+it_sahariano_shop;Celere Sahariano
+it_sahariano_0;Carro armato medio Celere Sahariano
+it_sahariano_1;Celere Sahariano
+it_sahariano_2;Celere Sahariano
+it_m15_42_shop;M 42
+it_m15_42_0;Carro armato medio 42
+it_m15_42_1;M 42
+it_m15_42_2;M 42
+it_breda_52_autocannone_shop;Breda 52 90/53
+it_breda_52_autocannone_0;Semovente ruotato da 90/53 Breda 52
+it_breda_52_autocannone_1;Breda 52 90/53
+it_breda_52_autocannone_2;Breda 52
+it_semovente_breda_501_shop;Breda 501 90/53
+it_semovente_breda_501_0;Semovente ruotato da 90/53 Breda 501
+it_semovente_breda_501_1;Breda 501 90/53
+it_semovente_breda_501_2;Breda 501
+it_l3_cc_shop;L 33 CC
+it_l3_cc_0;Carro armato leggero 33 controcarro
+it_l3_cc_1;L 33 CC
+it_l3_cc_2;L 33
+it_lancia3ro_100_shop;3Ro (100/17)
+it_lancia3ro_100_0;100/17 su Lancia 3Ro
+it_lancia3ro_100_1;3Ro (100/17)
+it_lancia3ro_100_2;3Ro
+it_ab_41_shop;AB 41
+it_ab_41_0;Autoblinda 41
+it_ab_41_1;AB 41
+it_ab_41_2;AB 41
+it_ab_43_shop;AB 43
+it_ab_43_0;Autoblinda 43
+it_ab_43_1;AB 43
+it_ab_43_2;AB 43
+it_semovente_l40_shop;Semovente 47/32 L 40
+it_semovente_l40_0;Semovente da 47/32 L 40
+it_semovente_l40_1;Semovente 47/32 L 40
+it_semovente_l40_2;Semovente 47/32
+it_p_26_40_shop;P 40 (Gr.Cor.Leon.)
+it_p_26_40_0;Carro armato pesante 40 (Gruppo corazzato “Leoncello”)
+it_p_26_40_1;P 40
+it_p_26_40_2;P 40
+it_p_40_shop;P 40
+it_p_40_0;Carro armato pesante 40
+it_p_40_1;P 40
+it_p_40_2;P 40
+it_ms74_2a_shop;MS 74
+it_ms74_2a_0;Motosilurante classe MS 51, C.R.D.A. 60t 2° serie, MS 74
+it_ms74_2a_1;MS 74
+it_ms74_2a_2;Classe MS 51
+it_ms15_1a_shop;MS 15
+it_ms15_1a_0;Motosilurante classe MS 11, C.R.D.A. 60t 1° serie, MS 15
+it_ms15_1a_1;MS 15
+it_ms15_1a_2;Classe MS 11
+it_ms53_2a_shop;MS 53
+it_ms53_2a_0;Motosilurante classe MS 51, C.R.D.A. 60t 2° serie, MS 53
+it_ms53_2a_1;MS 53
+it_ms53_2a_2;Classe MS 51
+it_mas_stefano_turr_shop;Stefano Türr
+it_mas_stefano_turr_0;Mototorpediniera Stefano Türr
+it_mas_stefano_turr_1;Stefano Türr
+it_mas_stefano_turr_2;Stefano Türr
+it_ms473_2a_shop;MS 472
+it_ms473_2a_0;Motosilurante classe MS 472, C.R.D.A 60t 1° & 2° serie, MS 472
+it_ms473_2a_1;MS 472
+it_ms473_2a_2;Classe MS 472
+it_ms473_2a_art_shop;MS 473
+it_ms473_2a_art_0;Motosilurante classe MS 472, C.R.D.A. 60t 1° & 2° serie, MS 473
+it_ms473_2a_art_1;MS 473
+it_ms473_2a_art_2;Classe MS 472
+it_vas_baglietto_68t_1serie_shop;VAS 201
+it_vas_baglietto_68t_1serie_0;Vedetta antisommergibili classe VAS 201, Baglietto 68t 1° serie, VAS 201
+it_vas_baglietto_68t_1serie_1;VAS 201
+it_vas_baglietto_68t_1serie_2;Classe VAS 201
+it_destroyer_soldati_serie1_camicianera_shop;Camicia Nera (CN)
+it_destroyer_soldati_serie1_camicianera_0;Cacciatorpediniere classe Soldati prima serie, Camicia Nera (CN) (1942)
+it_destroyer_soldati_serie1_camicianera_1;Camicia Nera
+it_destroyer_soldati_serie1_camicianera_2;Classe Soldati
+it_destroyer_turbine_shop;Turbine (TB)
+it_destroyer_turbine_0;Cacciatorpediniere classe Turbine, Turbine (TB)
+it_destroyer_turbine_1;Turbine
+it_destroyer_turbine_2;Classe Turbine
+it_destroyer_dardo_shop;Dardo (DR)
+it_destroyer_dardo_0;Cacciatorpediniere classe Dardo prima serie, Dardo (DR)
+it_destroyer_dardo_1;Dardo
+it_destroyer_dardo_2;Classe Dardo
+it_destroyer_soldati_serie1_shop;Aviere (AV)
+it_destroyer_soldati_serie1_0;Cacciatorpedinere classe Soldati prima serie, Aviere (AV) (1942)
+it_destroyer_soldati_serie1_1;Aviere
+it_destroyer_soldati_serie1_2;Classe Soldati
+it_cruiser_bartolomeocolleoni_1940_shop;Bartolomeo Colleoni
+it_cruiser_bartolomeocolleoni_1940_0;Incrociatore leggero classe Alberto di Guissano, Bartolomeo Colleoni (1940)
+it_cruiser_bartolomeocolleoni_1940_1;Bartolomeo Colleoni
+it_cruiser_bartolomeocolleoni_1940_2;Classe Alberto di Guissano
+it_cruiser_trento_shop;Trento
+it_cruiser_trento_0;Incrociatore pesante classe Trento, Trento
+it_cruiser_trento_1;Trento
+it_cruiser_trento_2;Classe Trento
+it_cruiser_trento_EC_0;Trento
+it_cruiser_trento_EC_1;Trento
+it_cruiser_trento_EC_2;Classe Trento

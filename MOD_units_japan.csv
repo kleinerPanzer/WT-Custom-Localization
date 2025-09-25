@@ -1,1 +1,288 @@
 <ID|readonly|noverify>;<NewLanguage>
+jp_halftrack_m16_shop;▅ M16 AAG
+jp_halftrack_m16_0;▅ M16式自走高射機関砲
+jp_halftrack_m16_1;▅ M16 AAG
+jp_halftrack_m16_2;M16
+jp_m19_shop;▅ M19A1 AAG
+jp_m19_0;▅ M19A1式自走高射機関砲
+jp_m19_1;▅ M19A1 AAG
+jp_m19_2;M19
+jp_type_99_shop;99HSP
+jp_type_99_0;99式自走155mmりゅう弾砲 「ロングノーズ」
+jp_type_99_1;99HSP
+jp_type_99_2;99式
+jp_m44_shop;▅ M44A1
+jp_m44_0;▅ M44A1 155mm自走りゅう弾砲
+jp_m44_1;▅ M44A1
+jp_m44_2;M44
+jp_type_75_shop;75HSP
+jp_type_75_0;75式自走155mmりゅう弾砲
+jp_type_75_1;75HSP
+jp_type_75_2;75式
+jp_type_89_shop;89FV
+jp_type_89_0;89式装甲戦闘車 「ライトタイガー」
+jp_type_89_1;89FV
+jp_type_89_2;89式
+jp_type_81_tansam_shop;SAM-1C発射装置
+jp_type_81_tansam_0;81式短距離地対空誘導弾(C)発射装置 「ショートアロー」
+jp_type_81_tansam_1;SAM-1C発射装置
+jp_type_81_tansam_2;SAM-1
+jp_type_81_tansam_fcs_shop;SAM-1C射撃統制装置
+jp_type_81_tansam_fcs_0;81式短距離地対空誘導弾(C)撃統制装置 「ショートアロー」
+jp_type_81_tansam_fcs_1;SAM-1C射撃統制装置
+jp_type_81_tansam_fcs_2;SAM-1
+jp_type_81_tansam_launcher_shop;SAM-1C発射装置
+jp_type_81_tansam_launcher_0;81式短距離地対空誘導弾(C)発射装置 「ショートアロー」
+jp_type_81_tansam_launcher_1;SAM-1C発射装置
+jp_type_81_tansam_launcher_2;SAM-1
+jp_type_93_shop;SAM-3
+jp_type_93_0;93式近距離地対空誘導弾発射装置 「クローズドアロー」
+jp_type_93_1;SAM-3
+jp_type_93_2;SAM-3
+jp_type_87_shop;87AW
+jp_type_87_0;87式自走高射機関砲 「スカイシューター」
+jp_type_87_1;87AW
+jp_type_87_2;87式
+shop/group/jp_type_60_group;60SP(C) / 60式 (64MAT)
+shop/group/jp_type_87_89_group;87RCV / 89FV
+shop/group/jp_type_61_sta_group;61TK(C) / STA-3
+shop/group/jp_type_74_stb_group;STB-2 / 74TK(C)
+shop/group/jp_type_74_group;74TK(E) / 74TK(F)
+shop/group/jp_type_90_group;90TK / 90TK(B)
+shop/group/jp_type_10_group;10TK / 新TK (3号車)
+shop/group/jp_type_81_tansam_fcs_group;SAM-1C
+shop/group/st_a_group;STA-1 / STA-2
+shop/group/f-86_japan_group;▅ F-86F-30 / ▅ F-86F-40
+f-86f-30_japan_shop;▅ F-86F-30
+f-86f-30_japan_0;▅ F-86F-30 NA
+f-86f-30_japan_1;▅ F-86F
+f-86f-30_japan_2;F-86
+f-86f-40_japan_shop;▅ F-86F-40
+f-86f-40_japan_0;▅ F-86F-40 NA
+f-86f-40_japan_1;▅ F-86F
+f-86f-40_japan_2;F-86
+f-86f-40_japan_blue_impulse_shop;▅ F-86F-40 (第6飛行隊)
+f-86f-40_japan_blue_impulse_0;▅ F-86F-40 NA (第6飛行隊)
+f-86f-40_japan_blue_impulse_1;▅ F-86F
+f-86f-40_japan_blue_impulse_2;F-86
+t2_early_shop;XT-2改 (ADTW)
+t2_early_0;XT-2改 (飛行開発実験団)
+t2_early_1;XT-2
+t2_early_2;T-2
+t2_shop;T-2後期型
+t2_0;T-2後期型
+t2_1;T-2
+t2_2;T-2
+f1_shop;F-1
+f1_0;F-1
+f1_1;F-1
+f1_2;F-1
+f-104j_shop;▅ F-104J
+f-104j_0;▅ F-104J
+f-104j_1;▅ F-104J
+f-104j_2;F-104
+jp_type_10_prototype_shop;新TK (3号車)
+jp_type_10_prototype_0;新戦車 (戦車3号車)
+jp_type_10_prototype_1;新TK (3号車)
+jp_type_10_prototype_2;新TK
+jp_tkx_prot_shop;新TK (3号車)
+jp_tkx_prot_0;新戦車 (戦車3号車)
+jp_tkx_prot_1;新TK (3号車)
+jp_tkx_prot_2;新TK
+jp_type_10_shop;10TK
+jp_type_10_0;10式戦車 「ひとまる」
+jp_type_10_1;10TK
+jp_type_10_2;10式
+jp_type_90b_camo_shop;90TK(B) (機甲教導連隊)
+jp_type_90b_camo_0;90式戦車B型 「キュウマル」 (機甲教導連隊)
+jp_type_90b_camo_1;90TK(B)
+jp_type_90b_camo_2;90式
+jp_type_90b_shop;90TK(B)
+jp_type_90b_0;90式戦車B型 「キュウマル」
+jp_type_90b_1;90TK(B)
+jp_type_90b_2;90式
+jp_type_90_shop;90TK
+jp_type_90_0;90式戦車 「キュウマル」
+jp_type_90_1;90TK
+jp_type_90_2;90式
+uh_1b_japan_shop;▅ UH-1B
+uh_1b_japan_0;▅ UH-1B
+uh_1b_japan_1;▅ UH-1B
+uh_1b_japan_2;UH-1
+jp_type_74_mod_g_kai_shop;74TK(G)
+jp_type_74_mod_g_kai_0;74式戦車G型 「ナナヨン」
+jp_type_74_mod_g_kai_1;74TK(G)
+jp_type_74_mod_g_kai_2;74式
+jp_type_87_rcv_prot_shop;RCV (1号車)
+jp_type_87_rcv_prot_0;偵察警戒車 (戦車1号車)
+jp_type_87_rcv_prot_1;RCV
+jp_type_87_rcv_prot_2;RCV
+jp_type_87_rcv_shop;87RCV
+jp_type_87_rcv_0;87式偵察警戒車 「ブラックアイ」
+jp_type_87_rcv_1;87RCV
+jp_type_87_rcv_2;87式
+jp_icv_ifv_prototype_shop;24ICV
+jp_icv_ifv_prototype_0;24式装輪装甲戦闘車
+jp_icv_ifv_prototype_1;24ICV
+jp_icv_ifv_prototype_2;24式
+jp_icv_prototype_shop;25RCV
+jp_icv_prototype_0;25式装輪偵察戦闘型
+jp_icv_prototype_1;25RCV
+jp_icv_prototype_2;25RCV
+jp_type_16_mod_shop;16MCV (15RDR)
+jp_type_16_mod_0;16式機動戦闘車 (第15即応機動連隊)
+jp_type_16_mod_1;16MCV
+jp_type_16_mod_2;16式
+jp_type_16_mcv_prot_shop;MCV (3号車)
+jp_type_16_mcv_prot_0;機動戦闘車 (戦車3号車)
+jp_type_16_mcv_prot_1;MCV
+jp_type_16_mcv_prot_2;MCV
+jp_type_16_shop;16MCV
+jp_type_16_0;16式機動戦闘車
+jp_type_16_1;16MCV
+jp_type_16_2;16式
+ah_1s_shop;▅ AH-1S (MC) (CN) (第4対戦車ヘリコプター隊)
+ah_1s_0;▅ AH-1S (MC) (Cobra-Nite)対戦車ヘリコプター 「コブラ」 (第4対戦車ヘリコプター隊)
+ah_1s_1;▅ AH-1S
+ah_1s_2;AH-1
+ah_1s_early_shop;▅ AH-1S (ECAS)
+ah_1s_early_0;▅ AH-1S (ECAS)対戦車ヘリコプター 「コブラ」
+ah_1s_early_1;▅ AH-1S
+ah_1s_early_2;AH-1
+ah_1s_late_shop;▅ AH-1S (MC) (CN)
+ah_1s_late_0;▅ AH-1S (MC) (Cobra-Nite)対戦車ヘリコプター 「コブラ」
+ah_1s_late_1;▅ AH-1S
+ah_1s_late_2;AH-1
+f-4ej_shop;▅ F-4EJ
+f-4ej_0;▅ F-4EJ ファントムII
+f-4ej_1;▅ F-4EJ
+f-4ej_2;F-4
+f-4ej_adtw_shop;▅ F-4EJ (ADTW)
+f-4ej_adtw_0;▅ F-4EJ ファントムII (飛行開発実験団)
+f-4ej_adtw_1;▅ F-4EJ
+f-4ej_adtw_2;F-4
+f-4ej_kai_shop;▅ F-4EJ(改)
+f-4ej_kai_0;▅ F-4EJ(改) ファントムII
+f-4ej_kai_1;▅ F-4EJ(改)
+f-4ej_kai_2;F-4
+f_15j_shop;▅ F-15J
+f_15j_0;▅ F-15J 「イーグル」 (1984)
+f_15j_1;▅ F-15J
+f_15j_2;F-15
+f_15j_kai_shop;▅ F-15J(改)
+f_15j_kai_0;▅ F-15J 「イーグル」 (2003)
+f_15j_kai_1;▅ F-15J(改)
+f_15j_kai_2;F-15
+f_16aj_shop;▅ F-16AJ
+f_16aj_0;▅ F-16AJ
+f_16aj_1;▅ F-16AJ
+f_16aj_2;F-16
+f_2a_shop;F-2A
+f_2a_0;F-2A
+f_2a_1;F-2A
+f_2a_2;F-2
+f_2a_adtw_shop;XF-2A (飛行開発実験団)
+f_2a_adtw_0;XF-2A (飛行開発実験団)
+f_2a_adtw_1;XF-2A
+f_2a_adtw_2;F-2
+ah_64d_japan_shop;▅ AH-64D
+ah_64d_japan_0;▅ AH-64D戦闘ヘリコプター 「アパッチ・ロングボウ」
+ah_64d_japan_1;▅ AH-64D
+ah_64d_japan_2;AH-64
+jp_m4a3e8_76w_sherman_shop;▅ M4A3 (76) W HVSS
+jp_m4a3e8_76w_sherman_0;▅ M4A3 (76) W HVSS式中戦車 (クライスラー) 「シャーマン」
+jp_m4a3e8_76w_sherman_1;▅ M4A3 (76) W
+jp_m4a3e8_76w_sherman_2;M4
+jp_m41_walker_bulldog_shop;▅ M41A1
+jp_m41_walker_bulldog_0;▅ M41A1式軽戦車 「ウォーカー・ブルドッグ」
+jp_m41_walker_bulldog_1;▅ M41A1
+jp_m41_walker_bulldog_2;M41
+jp_m36b2_jgsdf_shop;▅ M36
+jp_m36b2_jgsdf_0;▅ M36自走砲
+jp_m36b2_jgsdf_1;▅ M36
+jp_m36b2_jgsdf_2;M36
+jp_m24_chaffee_shop;▅ M24
+jp_m24_chaffee_0;▅ M24式軽戦車 「チャーフィー」
+jp_m24_chaffee_1;▅ M24
+jp_m24_chaffee_2;M24
+jp_st_b1_shop;STB-2
+jp_st_b1_0;新型特車B-2型
+jp_st_b1_1;STB-2
+jp_st_b1_2;STB
+jp_m47_patton_II_shop;▅ M47
+jp_m47_patton_II_0;▅ M47式中戦車 「パットン」
+jp_m47_patton_II_1;▅ M47
+jp_m47_patton_II_2;M47
+jp_type_61_shop;61TK(C)
+jp_type_61_0;61式戦車C型
+jp_type_61_1;61TK(C)
+jp_type_61_2;61式
+jp_type_60_atm_shop;60式 (ATM-1)
+jp_type_60_atm_0;60式装甲車 (64式対戦車誘導弾)
+jp_type_60_atm_1;60式 (ATM-1)
+jp_type_60_atm_2;60式
+jp_type_75_mlrs_shop;75MSSR
+jp_type_75_mlrs_0;75式自走多連装130mmロケット弾発射機
+jp_type_75_mlrs_1;75MSSR
+jp_type_75_mlrs_2;75式
+jp_type_74_f_shop;74TK(F)
+jp_type_74_f_0;74式戦車F型 「ナナヨン」
+jp_type_74_f_1;74TK(F)
+jp_type_74_f_2;74式
+jp_type_74_c_shop;74TK(C)
+jp_type_74_c_0;74式戦車C型 「ナナヨン」
+jp_type_74_c_1;74TK(C)
+jp_type_74_c_2;74式
+jp_type_74_red_star_shop;74TK(C) (部隊訓練評価隊)
+jp_type_74_red_star_0;74式戦車C型 「ナナヨン」 (部隊訓練評価隊)
+jp_type_74_red_star_1;74TK(C)
+jp_type_74_red_star_2;74式
+jp_type_74_shop;74TK(E)
+jp_type_74_0;74式戦車E型 「ナナヨン」
+jp_type_74_1;74TK(E)
+jp_type_74_2;74式
+shop/group/jp_st_group;STA-1 / STA-2
+jp_st_a3_shop;STA-3
+jp_st_a3_0;新型特車A-3型
+jp_st_a3_1;STA-3
+jp_st_a3_2;STA
+jp_st_a1_shop;STA-1
+jp_st_a1_0;新型特車A-1型
+jp_st_a1_1;STA 1
+jp_st_a1_2;STA
+jp_st_a2_shop;STA-2
+jp_st_a2_0;新型特車A-2型
+jp_st_a2_1;STA-2
+jp_st_a2_2;STA
+jp_m42_duster_shop;▅ M42 AAG
+jp_m42_duster_0;▅ M42式40mm自走高射機関砲
+jp_m42_duster_1;▅ M42 AAG
+jp_m42_duster_2;M42
+jp_sub_i_ii_20mm_shop;SUB-I-II
+jp_sub_i_ii_20mm_0;新型装甲車B-I型 II
+jp_sub_i_ii_20mm_1;SUB-I-II
+jp_sub_i_ii_20mm_2;SUB-I
+jp_type_60_sprg_shop;60SP(C)
+jp_type_60_sprg_0;60式自走106mm無反動砲C型
+jp_type_60_sprg_1;60SP(C)
+jp_type_60_sprg_2;60式
+jp_type_11_pt_15_shop;15号 (PT-815)
+jp_type_11_pt_15_0;11号型魚雷艇、魚雷艇15号 (PT-815) (1975)
+jp_type_11_pt_15_1;15号
+jp_type_11_pt_15_2;11号型
+jp_pg02_shop;2号 (PG-822)
+jp_pg02_0;1号型ミサイル艇、ミサイル艇2号 (PG-822) (1991)
+jp_pg02_1;2号
+jp_pg02_2;1号型
+jp_escort_chikugo_class_shop;とかち (DE-218)
+jp_escort_chikugo_class_0;ちくご型護衛艦 とかち (DE-218)
+jp_escort_chikugo_class_1;とかち
+jp_escort_chikugo_class_2;ちくご型
+jp_destroyer_isuzu_shop;いすず (DE-211)
+jp_destroyer_isuzu_0;いすず型護衛艦 いすず (DE-211)
+jp_destroyer_isuzu_1;いすず
+jp_destroyer_isuzu_2;いすず型
+jp_escort_ikazuchi_class_shop;いかづち (DE-202)
+jp_escort_ikazuchi_class_0;いかづち型護衛艦 いかづち (DE-202) (1958)
+jp_escort_ikazuchi_class_1;いかづち
+jp_escort_ikazuchi_class_2;いかづち型

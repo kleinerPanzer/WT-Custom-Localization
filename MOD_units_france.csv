@@ -1,1 +1,858 @@
 <ID|readonly|noverify>;<NewLanguage>
+shop/group/fr_samp_t_fcs_group;Mamba SAMP/T
+shop/group/fr_mars_hot_group;MARS 15 (TS 90) / AMX 13 (HOT)
+shop/group/fr_amx_sk_group;AMX 10 RC / ⚜ Jpz. Kürassier A2
+shop/group/fr_lorraine_bat_group;Char 40t / Char 25t
+shop/group/fr_amx_30_group;AMX 30 B2 / AMX 30 B2 Brennus
+shop/group/fr_leclerc_group;Leclerc S1 T3 / Leclerc S2 T9
+shop/group/fr_b1_2c_group;B1 bis / 2C
+shop/group/fr_arl_jumbo_group;ARL 44 / ⚜ M4A3E2 (75) W
+shop/group/fr_aml_amx_group;AML 90 / AMX 13-90 mle 52
+shop/group/fr_auf_acra_group;CN 155 Au F1 / AMX 10 M
+shop/group/fr_amx_32_group;AMX 32 P1 / AMX 32 P2
+shop/group/fr_lorraine_elc_group;CA 100 / ELC bis
+shop/group/fr_hotchkiss_fcm_group;AMC 34 (APX 1) / H 35 / FCM 36
+us_amx_13_75_shop;▃ AMX 13-75 mle 51
+us_amx_13_75_0;▃ Char de 13t-75 modèle 51
+us_amx_13_75_1;▃ AMX 13-75
+us_amx_13_75_2;AMX 13
+us_amx_13_90_shop;▃ AMX 13-90 mle 52
+us_amx_13_90_0;▃ Char de 13t-90 modèle 52
+us_amx_13_90_1;▃ AMX 13-90
+us_amx_13_90_2;AMX 13
+uk_saint_chamond_event_shop;Saint Chamond
+uk_saint_chamond_event_0;Char d'assaut Saint Chamond mle 1917
+uk_saint_chamond_event_1;Saint Chamond
+uk_saint_chamond_event_2;Saint Chamond
+fr_saint_chamond_shop;Saint Chamond
+fr_saint_chamond_0;Char d'assaut Saint Chamond mle 1917
+fr_saint_chamond_1;Saint Chamond
+fr_saint_chamond_2;Saint Chamond
+uk_saint_chamond_shop;Saint Chamond
+uk_saint_chamond_0;Char d'assaut Saint Chamond mle 1917
+uk_saint_chamond_1;Saint Chamond
+uk_saint_chamond_2;Saint Chamond
+fr_m4a3_105_sherman_shop;⚜ M4A3 (105) HVSS
+fr_m4a3_105_sherman_0;⚜ Char moyen M4A3 (105) HVSS
+fr_m4a3_105_sherman_1;⚜ M4A3 (105)
+fr_m4a3_105_sherman_2;M4
+fr_m3a3_stuart_shop;⚜ M3A3
+fr_m3a3_stuart_0;⚜ Char léger M3A3 (Janviér 1943)
+fr_m3a3_stuart_1;⚜ M3A3
+fr_m3a3_stuart_2;M3
+fr_m26_pershing_shop;⚜ M26
+fr_m26_pershing_0;⚜ Char moyen M26
+fr_m26_pershing_1;⚜ M26
+fr_m26_pershing_2;M26
+fr_m46_patton_shop;⚜ M46
+fr_m46_patton_0;⚜ Char moyen M46
+fr_m46_patton_1;⚜ M46
+fr_m46_patton_2;M46
+fr_tpk_641_vpc_shop;TPK 6.41 VPC
+fr_tpk_641_vpc_0;TPK 6.41 Véhicule protection de convoi
+fr_tpk_641_vpc_1;TPK 6.41 VPC
+fr_tpk_641_vpc_2;TPK 6.41
+fr_amx_10p_shop;AMX 10P
+fr_amx_10p_0;Véhicule de combat d'infanterie AMX 10P
+fr_amx_10p_1;AMX 10P
+fr_amx_10p_2;AMX 10
+fr_vextra_105_shop;Vextra (TML 105)
+fr_vextra_105_0;Vextra (TML 105)
+fr_vextra_105_1;Vextra (TML 105)
+fr_vextra_105_2;Vextra
+fr_m4a4_sherman_shop;⚜ M4A4 (75)
+fr_m4a4_sherman_0;⚜ Char moyen M4A4 (75) (Mai 1943) (Chrysler)
+fr_m4a4_sherman_1;⚜ M4A4 (75)
+fr_m4a4_sherman_2;M4
+fr_m4a1_sherman_shop;⚜ M4A1 (75)
+fr_m4a1_sherman_0;⚜ Char moyen M4A1 (75) (Août 1942) (PSC)
+fr_m4a1_sherman_1;⚜ M4A1 (75)
+fr_m4a1_sherman_2;M4
+fr_crusader_mk_2_shop;⚜ Crusader Mk. II
+fr_crusader_mk_2_0;⚜ Char léger Crusader Mk. II
+fr_crusader_mk_2_1;⚜ Crusader Mk. II
+fr_crusader_mk_2_2;Crusader
+fr_m4a1_sherman_fl_10_shop;⚜ M4A1 (FL-10)
+fr_m4a1_sherman_fl_10_0;⚜ Char moyen M4A1 (PSC) de 75 v 1000° (tourelle FL-10)
+fr_m4a1_sherman_fl_10_1;⚜ M4A1 (FL-10)
+fr_m4a1_sherman_fl_10_2;M4
+fr_fcm_36_shop;FCM 36
+fr_fcm_36_0;Char léger modèle 1936 FCM
+fr_fcm_36_1;FCM 36
+fr_fcm_36_2;FCM 36
+fr_vbci2_mct30_shop;VBCI MK2 (MCT-30)
+fr_vbci2_mct30_0;VBCI MK2 (MCT-30)
+fr_vbci2_mct30_1;VBCI MK2 (MCT-30)
+fr_vbci2_mct30_2;VBCI MK2
+fr_vbci_shop;VBCI VCI
+fr_vbci_0;Véhicule blindé de combat d'infanterie, Version véhicule de combat de l'infanterie
+fr_vbci_1;VBCI VCI
+fr_vbci_2;VBCI
+fr_lvt_bofors_shop;⚜ LVT(4) (Bofors)
+fr_lvt_bofors_0;⚜ LVT(4) avec canon de 40 Bofors
+fr_lvt_bofors_1;⚜ LVT(4) (Bofors)
+fr_lvt_bofors_2;LVT
+fr_panhard_ebr_1951_shop;EBR 75 mle 51
+fr_panhard_ebr_1951_0;Engin blindé de reconnaissance modèle 1951
+fr_panhard_ebr_1951_1;EBR 75
+fr_panhard_ebr_1951_2;EBR
+fr_panhard_ebr_1963_shop;EBR 90 mle 63
+fr_panhard_ebr_1963_0;Engin blindé de reconnaissance modèle 1963
+fr_panhard_ebr_1963_1;EBR 90
+fr_panhard_ebr_1963_2;EBR
+fr_panhard_ebr_1954_shop;EBR 75 mle 54
+fr_panhard_ebr_1954_0;Engin blindé de reconnaissance modèle 1954
+fr_panhard_ebr_1954_1;EBR 75
+fr_panhard_ebr_1954_2;EBR
+fr_amx_10rc_shop;AMX 10RC
+fr_amx_10rc_0;Engin blindé de reconnaissance-feu AMX 10RC
+fr_amx_10rc_1;AMX 10RC
+fr_amx_10rc_2;AMX 10
+fr_vab_santal_shop;VDAA SANTAL
+fr_vab_santal_0;Véhicule de défense anti-aérienne, Systeme anti-aerien autonome leger
+fr_vab_santal_1;VDAA SANTAL
+fr_vab_santal_2;VDAA SANTAL
+fr_vcac_mephisto_shop;VCAC MEPHISTO
+fr_vcac_mephisto_0;Véhicule de combat anti-char, Module élévateur panoramique HOT installé sur tourelle orientable
+fr_vcac_mephisto_1;VCAC MEPHISTO
+fr_vcac_mephisto_2;VCAC MEPHISTO
+fr_mars_15_shop;MARS 15 (TS 90)
+fr_mars_15_0;MARS 15 avec tourelle TS 90
+fr_mars_15_1;MARS 15 (TS 90)
+fr_mars_15_2;MARS 15
+fr_amx_30_auf_1_shop;CN 155 Au F1
+fr_amx_30_auf_1_0;Canon de 155 mm automoteur modèle F1
+fr_amx_30_auf_1_1;CN 155 Au F1
+fr_amx_30_auf_1_2;CN 155
+fr_amx_10m_acra_shop;AMX 10M
+fr_amx_10m_acra_0;Anti-char rapide autopropulsé AMX 10M
+fr_amx_10m_acra_1;AMX 10M
+fr_amx_10m_acra_2;AMX 10
+fr_amx_30_ACRA_shop;AMX 30 (ACRA)
+fr_amx_30_ACRA_0;Char moyen de combat AMX 30 (arme Anti-char rapide autopropulsé, montée sur tourelle prototype T 142)
+fr_amx_30_ACRA_1;AMX 30 (ACRA)
+fr_amx_30_ACRA_2;AMX 30
+fr_amx_30_super_shop;Super AMX 30
+fr_amx_30_super_0;Char moyen de combat Super AMX 30
+fr_amx_30_super_1;Super AMX 30
+fr_amx_30_super_2;AMX 30
+fr_amx_30_roland_shop;AMX 30 Roland
+fr_amx_30_roland_0;Engin principal de antiaérien AMX 30 Roland
+fr_amx_30_roland_1;AMX 30 Roland
+fr_amx_30_roland_2;AMX 30
+fr_leclerc_azur_shop;Leclerc S2 T9 AZUR P1
+fr_leclerc_azur_0;Char Leclerc série 2 tranche 9 Action en Zone Urbaine Prototype 1
+fr_leclerc_azur_1;Leclerc S2 AZUR
+fr_leclerc_azur_2;Leclerc
+fr_leclerc_sxxi_shop;Leclerc S21 T11
+fr_leclerc_sxxi_0;Char Leclerc série 21 tranche 11
+fr_leclerc_sxxi_1;Leclerc S21
+fr_leclerc_sxxi_2;Leclerc
+fr_leclerc_s2_shop;Leclerc S2 T9
+fr_leclerc_s2_0;Char Leclerc série 2 tranche 9
+fr_leclerc_s2_1;Leclerc S2
+fr_leclerc_s2_2;Leclerc
+fr_leclerc_s1_shop;Leclerc S1 RT5
+fr_leclerc_s1_0;Char Leclerc série 1 reconversion tranche 5
+fr_leclerc_s1_1;Leclerc S1
+fr_leclerc_s1_2;Leclerc
+fr_msc_shop;MSC
+fr_msc_0;Mulet Systéme Complet
+fr_msc_1;MSC
+fr_msc_2;MSC
+fr_amx_30_shop;AMX 30A
+fr_amx_30_0;Char moyen de combat AMX 30A
+fr_amx_30_1;AMX 30A
+fr_amx_30_2;AMX 30
+fr_amx_30_1972_shop;AMX 30B
+fr_amx_30_1972_0;Char moyen de combat AMX 30B
+fr_amx_30_1972_1;AMX 30B
+fr_amx_30_1972_2;AMX 30
+fr_amx_30_dca_shop;AMX 30S DCA
+fr_amx_30_dca_0;AMX 30S Défense contre avions
+fr_amx_30_dca_1;AMX 30S DCA
+fr_amx_30_dca_2;AMX 30 DCA
+fr_amx_13_dca_40_shop;AMX 13 DCA 40
+fr_amx_13_dca_40_0;Char de 13t défense contre avions avec canon de 40
+fr_amx_13_dca_40_1;AMX 13 DCA 40
+fr_amx_13_dca_40_2;AMX 13 DCA
+fr_amx_30_b2_shop;AMX 30B2
+fr_amx_30_b2_0;Char moyen de combat AMX 30B2
+fr_amx_30_b2_1;AMX 30B2
+fr_amx_30_b2_2;AMX 30
+fr_amx_30_b2_brenus_shop;AMX 30B2 Brennus
+fr_amx_30_b2_brenus_0;Char moyen de combat AMX 30B2 Brennus
+fr_amx_30_b2_brenus_1;AMX 30B2 Brennus
+fr_amx_30_b2_brenus_2;AMX 30
+fr_amx_50_1950_shop;Char 50t (TO 90/930)
+fr_amx_50_1950_0;Char de 50 tonnes AMX avec TO 90/930
+fr_amx_50_1950_1;Char 50t (TO 90/930)
+fr_amx_50_1950_2;Char 50t
+fr_somua_sm_shop;SOMUA SM
+fr_somua_sm_0;Char lourd SOMUA SM
+fr_somua_sm_1;SOMUA SM
+fr_somua_sm_2;SOMUA SM
+fr_amx_50_shop;Char 50t (TOA 100)
+fr_amx_50_0;Char de 50 tonnes AMX avec TOA 100
+fr_amx_50_1;Char 50t (TOA 100)
+fr_amx_50_2;Char 50t
+fr_amx_m4_shop;Char M4
+fr_amx_m4_0;Char M4
+fr_amx_m4_1;Char M4
+fr_amx_m4_2;Char M4
+fr_amx_50_surblinde_shop;Char moyen surblindé
+fr_amx_50_surblinde_0;Char moyen surblindé
+fr_amx_50_surblinde_1;Char moyen surblindé
+fr_amx_50_surblinde_2;Char moyen
+fr_amx_50_surbaisse_shop;Char moyen surbaissé
+fr_amx_50_surbaisse_0;Char moyen surbaissé
+fr_amx_50_surbaisse_1;Char moyen surbaissé
+fr_amx_50_surbaisse_2;Char moyen
+fr_amx_50_foch_shop;Auto-canon de 120
+fr_amx_50_foch_0;Auto-canon de 120
+fr_amx_50_foch_1;Auto-canon de 120
+fr_amx_50_foch_2;Auto-canon de 120
+fr_pzkpfw_V_panther_dauphine_shop;«Panther» (EAC Besnier)
+fr_pzkpfw_V_panther_dauphine_0;Char «Panther» (l'Escadron autonome de chars Besnier)
+fr_pzkpfw_V_panther_dauphine_1;«Panther»
+fr_pzkpfw_V_panther_dauphine_2;«Panther»
+fr_lorraine_155_shop;CA 155 mle 50
+fr_lorraine_155_0;Canon automoteur Lorraine de 155 mm modèle 1950
+fr_lorraine_155_1;CA 155 mle 50
+fr_lorraine_155_2;CA 155
+fr_lorraine_100_shop;CA 100
+fr_lorraine_100_0;Canon d'assaut Lorraine de 100 mm
+fr_lorraine_100_1;CA 100
+fr_lorraine_100_2;CA 100
+fr_lorraine_40t_shop;Char 40t
+fr_lorraine_40t_0;Char de bataille Lorraine de 40 tonnes
+fr_lorraine_40t_1;Char 40t
+fr_lorraine_40t_2;Char 40t
+fr_citroen_kegresse_p4t_shop;P.7.T. AA
+fr_citroen_kegresse_p4t_0;P.7.T. avec mitrailleuse Hotchkiss de 13,2 mm modèle 1929
+fr_citroen_kegresse_p4t_1;P.7.T. AA
+fr_citroen_kegresse_p4t_2;P.7.T.
+fr_amx_vtt_dca_shop;AMX VCI (M45)
+fr_amx_vtt_dca_0;AMX véhicule de combat d'infanterie avec tourelle M45
+fr_amx_vtt_dca_1;AMX VCI (M45)
+fr_amx_vtt_dca_2;AMX VCI
+fr_cckw_353_bofors_shop;⚜ CCKW-353 (M1)
+fr_cckw_353_bofors_0;⚜ Camion de 2,5 tonnes 6 x 6 GMC, CCKW-353 (Canon automatique de 40 mm M1)
+fr_cckw_353_bofors_1;⚜ CCKW-353 (M1)
+fr_cckw_353_bofors_2;CCKW 353
+fr_somua_s35_shop;S 35
+fr_somua_s35_0;Char de cavalerie modèle 1935 S
+fr_somua_s35_1;S 35
+fr_somua_s35_2;S 35
+fr_hotchkiss_h35_shop;H 35
+fr_hotchkiss_h35_0;Char léger modèle 1935 H
+fr_hotchkiss_h35_1;H 35
+fr_hotchkiss_h35_2;H 35
+fr_hotchkiss_h39_cambronne_shop;H 35 modifié 39 (14ème Bat.Ch.Com.)
+fr_hotchkiss_h39_cambronne_0;Char léger modèle 193 H5 modifié 39 (14ème Bataillon de chars de combat)
+fr_hotchkiss_h39_cambronne_1;H 35 modifié 39
+fr_hotchkiss_h39_cambronne_2;H 35
+fr_hotchkiss_h39_shop;H 35 modifié 39
+fr_hotchkiss_h39_0;Char léger modèle 1935 H modifié 39
+fr_hotchkiss_h39_1;H 35 modifié 39
+fr_hotchkiss_h39_2;H 35
+fr_somua_sau40_shop;SAu 40
+fr_somua_sau40_0;Canon automoteur de 75 mm SOMUA modèle 1940
+fr_somua_sau40_1;SAu 40
+fr_somua_sau40_2;SAu 40
+fr_m36b2_cefeo_shop;⚜ M36B2
+fr_m36b2_cefeo_0;⚜ Affût automteur M36B2 pour canon de 90 mm
+fr_m36b2_cefeo_1;⚜ M36B2
+fr_m36b2_cefeo_2;M36
+fr_m10_shop;⚜ M10
+fr_m10_0;⚜ Affût automteur M36B2 pour canon de 3 pouces
+fr_m10_1;⚜ M10
+fr_m10_2;M10
+fr_m4a3e2_sherman_jumbo_shop;⚜ M4A3E2 (75) W
+fr_m4a3e2_sherman_jumbo_0;⚜ Char d'assaut M4A3E2 (75) W (Mai 1944) (Fisher)
+fr_m4a3e2_sherman_jumbo_1;⚜ M4A3E2 (75) W
+fr_m4a3e2_sherman_jumbo_2;M4
+fr_amd_35_shop;AMD 35
+fr_amd_35_0;Automitrailleuse de découverte modèle 1935 Panhard
+fr_amd_35_1;AMD 35
+fr_amd_35_2;AMD 35
+fr_amd_35_kwk39_shop;AMD 35 (5 cm Pa.K. 39)
+fr_amd_35_kwk39_0;Automitrailleuse de découverte modèle 1935 Panhard (5 cm-Panzerabwehrkanone 39 (L/60))
+fr_amd_35_kwk39_1;AMD 35 (5 cm Pa.K. 39)
+fr_amd_35_kwk39_2;AMD 35
+fr_amc_34_shop;AMC 34 (APX 1)
+fr_amc_34_0;Automitrailleuse de combat modèle 1934 R avec tourelle APX 1
+fr_amc_34_1;AMC 34 (APX 1)
+fr_amc_34_2;AMC 34
+fr_arl_44_acl1_shop;ARL 44 (ACL 1)
+fr_arl_44_acl1_0;Char ARL 44 avec tourelle ACL 1
+fr_arl_44_acl1_1;ARL 44 (ACL 1)
+fr_arl_44_acl1_2;ARl 44
+fr_arl_44_shop;ARL 44
+fr_arl_44_0;Char ARL 44
+fr_arl_44_1;ARL 44
+fr_arl_44_2;ARL 44
+fr_lorraine_37l_shop;CC Lorraine
+fr_lorraine_37l_0;Chasseur de chars Lorraine
+fr_lorraine_37l_1;CC Lorraine
+fr_lorraine_37l_2;CC Lorraine
+fr_amr_35_zt3_shop;AMR 35 ZT 3
+fr_amr_35_zt3_0;Automitrailleuse de reconnaissance modèle 1935 R type ZT 3
+fr_amr_35_zt3_1;AMR 35 ZT 3
+fr_amr_35_zt3_2;AMR 35
+fr_renault_r39_shop;R 35 modifié 39
+fr_renault_r39_0;Char léger d'Accompagnement 1935 R modifié 39
+fr_renault_r39_1;R 35 modifié 39
+fr_renault_r39_2;R 35
+fr_renault_d2_shop;D2
+fr_renault_d2_0;Char moyen D2
+fr_renault_d2_1;D2
+fr_renault_d2_2;D2
+fr_m4a4_cn_75_50_shop;⚜ M4A4T (CN 75-50)
+fr_m4a4_cn_75_50_0;⚜ Char moyen M4A4 Transformé avec canon de 75 V ° 1000
+fr_m4a4_cn_75_50_1;⚜ M4A4T (CN 75-50)
+fr_m4a4_cn_75_50_2;M4
+fr_amx_elc_bis_shop;ELC bis
+fr_amx_elc_bis_0;Engin léger de combat bis avec tourelle-casemate de 90
+fr_amx_elc_bis_1;ELC bis
+fr_amx_elc_bis_2;ELC
+fr_amx_13_chaffee_shop;AMX US
+fr_amx_13_chaffee_0;Char de 13t-75 modèle 1951 (tourelle M24) 1ère série
+fr_amx_13_chaffee_1;AMX US
+fr_amx_13_chaffee_2;AMX 13
+fr_amx_13_fl_11_shop;AMX 13-75 (FL-11)
+fr_amx_13_fl_11_0;Char de 13t-75 modèle 1951 (tourelle FL-11) 1ère série
+fr_amx_13_fl_11_1;AMX 13 (FL-11)
+fr_amx_13_fl_11_2;AMX 13
+fr_amx_13_90_shop;AMX 13-90 mle 52
+fr_amx_13_90_0;Char de 13t-90 modèle 1952
+fr_amx_13_90_1;AMX 13-90
+fr_amx_13_90_2;AMX 13
+fr_amx_13_75_shop;AMX 13-75 mle 51
+fr_amx_13_75_0;Char de 13t-75 modèle 1951
+fr_amx_13_75_1;AMX 13-75
+fr_amx_13_75_2;AMX 13
+fr_amx_13_75_ss11_shop;AMX 13-75 mle 51 (SS.11)
+fr_amx_13_75_ss11_0;Char de 13t-75 modèle 1951 avec missiles SS.11
+fr_amx_13_75_ss11_1;AMX 13-75 (SS.11)
+fr_amx_13_75_ss11_2;AMX 13
+fr_amx_13_hot_shop;AMX 13-75 mle 51 (HOT)
+fr_amx_13_hot_0;Char de 13t-75 modèle 1951 (HOT)
+fr_amx_13_hot_1;AMX 13-75 (HOT)
+fr_amx_13_hot_2;AMX 13
+fr_amc_35_shop;AMC 35
+fr_amc_35_0;Automitrailleuse de combat modèle 1935 R
+fr_amc_35_1;AMC 35
+fr_amc_35_2;AMC 35
+fr_char_2c_shop;2C
+fr_char_2c_0;Char FCM 2C
+fr_char_2c_1;2C
+fr_char_2c_2;2C
+fr_char_2c_bis_shop;2C bis
+fr_char_2c_bis_0;Char FCM 2C bis
+fr_char_2c_bis_1;2C bis
+fr_char_2c_bis_2;2C
+fr_b1_ter_shop;B1 ter
+fr_b1_ter_0;Char de bataille Renault B1 ter
+fr_b1_ter_1;B1 ter
+fr_b1_ter_2;B1
+fr_b1_bis_shop;B1 bis
+fr_b1_bis_0;Char de bataille Renault B1 bis
+fr_b1_bis_1;B1 bis
+fr_b1_bis_2;B1
+fw-190a-8_france_shop;NC.900 A8
+fw-190a-8_france_0;NC.900 Type A8
+fw-190a-8_france_1;NC.900 A
+fw-190a-8_france_2;NC.900
+p-51c-10_france_shop;⚜ F-6C-10 (GR II/33)
+p-51c-10_france_0;⚜ F-6C-10 NT (Groupe de Reconnaissance II/33 "Savoie")
+p-51c-10_france_1;⚜ F-6C
+p-51c-10_france_2;F-6
+yak-9t_france_shop;⚜ Yak-9T (RC 2/30)
+yak-9t_france_0;⚜ Yak-9T (René Challe, Régiment de Chasse 2/30 "Normandie-Niémen")
+yak-9t_france_1;⚜ Yak-9T
+yak-9t_france_2;Yak-9
+shop/group/f6f_france_group;⚜ F6F-5 / ⚜ F6F-5N
+lancaster_mr7_france_shop;⚜ Lancaster Mk. VII WU
+lancaster_mr7_france_0;⚜ Lancaster Mk. VII Western Union (1957)
+lancaster_mr7_france_1;⚜ Lancaster Mk. VII
+lancaster_mr7_france_2;Lancaster
+p-39q_25_france_shop;⚜ P-39Q-25
+p-39q_25_france_0;⚜ P-39Q-25 BE
+p-39q_25_france_1;⚜ P-39Q
+p-39q_25_france_2;P-39
+pby-5a_late_france_shop;⚜ PBY-5A (t)
+pby-5a_late_france_0;⚜ PBY-5A (tard)
+pby-5a_late_france_1;⚜ PBY-5
+pby-5a_late_france_2;PBY
+d_520_shop;▄ D.520
+d_520_0;▄ D.520
+d_520_1;▄ D.520
+d_520_2;D.520
+d_521_shop;▄ D.521
+d_521_0;▄ D.521
+d_521_1;▄ D.521
+d_521_2;D.521
+gl_832_shop;GL-832 HY
+gl_832_0;GL-832 HY
+gl_832_1;GL-832 HY
+gl_832_2;GL-832
+loire_130_shop;Loire 130 C
+loire_130_0;Loire 130 C
+loire_130_1;Loire 130 C
+loire_130_2;Loire 130
+b_26c_france_shop;⚜ B-26C-20
+b_26c_france_0;⚜ B-26C-20 MA
+b_26c_france_1;⚜ B-26C
+b_26c_france_2;B-26
+f-8e_fn_shop;⚜ F-8E(FN)
+f-8e_fn_0;⚜ F-8E(French Navy)
+f-8e_fn_1;⚜ F-8E(FN)
+f-8e_fn_2;F-8
+db_7_shop;▄ DB-7 B-3
+db_7_0;▄ DB-7 B-3 (tôt)
+db_7_1;▄ DB-7 B
+db_7_2;DB-7
+b_25j_30_france_shop;B-25J-30
+b_25j_30_france_0;B-25J-30
+b_25j_30_france_1;B-25J
+b_25j_30_france_2;B-25
+p-47d_22_re_france_shop;⚜ P-47D-22 (GC II/3)
+p-47d_22_re_france_0;⚜ P-47D-22 RE (Groupe de Chasse II/3 "Dauphiné")
+p-47d_22_re_france_1;⚜ P-47D
+p-47d_22_re_france_2;P-47
+f-84g_france_shop;⚜ F-84G-26
+f-84g_france_0;⚜ F-84G-26 RE
+f-84g_france_1;⚜ F-84G
+f-84g_france_2;F-84
+f-84f_france_shop;⚜ F-84F-51
+f-84f_france_0;⚜ F-84F-51 GK
+f-84f_france_1;⚜ F-84F
+f-84f_france_2;F-84
+p-40f-5_france_ep_shop;⚜ P-40F-5 (GC II/5)
+p-40f-5_france_ep_0;⚜ P-40F-5 CU (Constantin Rozanoff, Groupe de Chasse II/5 "Lafayette")
+p-40f-5_france_ep_1;⚜ P-40F
+p-40f-5_france_ep_2;P-40
+shop/group/leo_451_group;LeO 451 / LeO 451 (AAV)
+f4u-7_shop;⚜ F4U-7
+f4u-7_0;⚜ F4U-7
+f4u-7_1;⚜ F4U-7
+f4u-7_2;F4U
+h-75a-1_france39_shop;H75-C1 (1ère)
+h-75a-1_france39_0;H75-C1 (1ère série)
+h-75a-1_france39_1;H75-C
+h-75a-1_france39_2;H75
+h-75a-1_france40_shop;H75-C1 (1ère)
+h-75a-1_france40_0;H75-C1 (1ère série)
+h-75a-1_france40_1;H75-C
+h-75a-1_france40_2;H75
+h-75a-2_france_shop;H75-C1 (2ème)
+h-75a-2_france_0;H75-C1 (2ème série)
+h-75a-2_france_1;H75-C
+h-75a-2_france_2;H75
+h-75a-3_france_shop;H75-C1 (3ème)
+h-75a-3_france_0;H75-C1 (3ème série)
+h-75a-3_france_1;H75-C
+h-75a-3_france_2;H75
+shop/group/potez_group;Potez 630.01 / Potez 631.01
+shop/group/md_454_group;Mystère IVA / Super Mystère B2
+shop/group/so_4050_vautour_group;Vautour IIB / Vautour IIA
+shop/group/mirage_3_group;Mirage IIIC / Mirage IIIE
+seafire_mk3_france_shop;⚜ Seafire LF. Mk. III
+seafire_mk3_france_0;⚜ Seafire LF. Mk. III
+seafire_mk3_france_1;⚜ Seafire Mk. III
+seafire_mk3_france_2;Seafire
+a-35b_shop;⚜ A-35B
+a-35b_0;⚜ A-35B
+a-35b_1;⚜ A-35B
+a-35b_2;A-35
+so_4050_vautour_2a_shop;Vautour IIA
+so_4050_vautour_2a_0;S.O.4050 Vautour IIA
+so_4050_vautour_2a_1;Vautour IIA
+so_4050_vautour_2a_2;Vautour II
+so_4050_vautour_2n_shop;Vautour IIN (C)
+so_4050_vautour_2n_0;S.O.4050 Vautour IIN (C)
+so_4050_vautour_2n_1;Vautour IIN
+so_4050_vautour_2n_2;Vautour
+so_4050_vautour_2n_late_shop;Vautour IIN (M)
+so_4050_vautour_2n_late_0;S.O.4050 Vautour IIN (M)
+so_4050_vautour_2n_late_1;Vautour IIN
+so_4050_vautour_2n_late_2;Vautour
+f-84f_iaf_shop;⚜ F-84F-51 (EC 1/1)
+f-84f_iaf_0;⚜ F-84F-51 GK (Escadron de Chasse 1/1 "Corse")
+f-84f_iaf_1;⚜ F-84F
+f-84f_iaf_2;F-84
+f-84f_israel_iaf_shop; F-84F-51 (EC 1/1)
+f-84f_israel_iaf_0; F-84F-51 GK (Escadron de Chasse 1/1 "Corse")
+f-84f_israel_iaf_1; F-84F
+f-84f_israel_iaf_2;F-84
+so_4050_vautour_2b_shop;Vautour IIB
+so_4050_vautour_2b_0;S.O.4050 Vautour IIB
+so_4050_vautour_2b_1;Vautour IIB
+so_4050_vautour_2b_2;Vautour II
+d_520_france_shop;D.520
+d_520_france_0;D.520
+d_520_france_1;D.520
+d_520_france_2;D.520
+p-63c-5_france_shop;⚜ P-63C-5
+p-63c-5_france_0;⚜ P-63C-5
+p-63c-5_france_1;⚜ P-63C
+p-63c-5_france_2;P-63
+douglas_ad_4_france_shop;⚜ AD-4NA
+douglas_ad_4_france_0;⚜ AD-4NA
+douglas_ad_4_france_1;⚜ AD-4NA
+douglas_ad_4_france_2;AD
+douglas_ad_4na_france_shop;⚜ AD-4NA (EC 1/20)
+douglas_ad_4na_france_0;⚜ AD-4NA (Escadron de Chasse 1/20 Aurès Nementcha)
+douglas_ad_4na_france_1;⚜ AD-4NA
+douglas_ad_4na_france_2;AD
+f8f1b_france_shop;⚜ F8F-1B
+f8f1b_france_0;⚜ F8F-1B
+f8f1b_france_1;⚜ F8F-1
+f8f1b_france_2;F8F
+so_8000_narval_shop;Narval
+so_8000_narval_0;S.O.8000 Narval
+so_8000_narval_1;Narval
+so_8000_narval_2;Narval
+shop/group/d_371_group;D.371 / D.373
+pb4y-2_france_shop;⚜ PB4Y-2
+pb4y-2_france_0;⚜ PB4Y-2
+pb4y-2_france_1;⚜ PB4Y-2
+pb4y-2_france_2;PB4Y
+sbd-5_france_shop;⚜ SBD-5
+sbd-5_france_0;⚜ SBD-5
+sbd-5_france_1;⚜ SBD-5
+sbd-5_france_2;SBD
+sb2c_5_france_shop;⚜ SB2C-5
+sb2c_5_france_0;⚜ SB2C-5
+sb2c_5_france_1;⚜ SB2C-5
+sb2c_5_france_2;SB2C
+f6f-5_france_shop;⚜ F6F-5
+f6f-5_france_0;⚜ F6F-5
+f6f-5_france_1;⚜ F6F-5
+f6f-5_france_2;F6F
+f6f-5n_france_shop;⚜ F6F-5N
+f6f-5n_france_0;⚜ F6F-5N
+f6f-5n_france_1;⚜ F6F-5
+f6f-5n_france_2;F6F
+d_371_shop;D.371
+d_371_0;D.371
+d_371_1;D.371
+d_371_2;D.371
+shop/group/d_500_group;D.500 / D.501
+d_500_shop;D.500
+d_500_0;D.500
+d_500_1;D.500
+d_500_2;D.500
+d_501_shop;D.501
+d_501_0;D.501
+d_501_1;D.501
+d_501_2;D.501
+d_510_shop;D.510 (GC I/1)
+d_510_0;D.510 (Gabriel Pallier, Groupe de Chasse I/1)
+d_510_1;D.510
+d_510_2;D.510
+mb_162_shop;MB.162.01
+mb_162_0;MB.162.01
+mb_162_1;MB.162.01
+mb_162_2;MB.162
+mb_174_a3_shop;MB.174A-3
+mb_174_a3_0;MB.174A-3
+mb_174_a3_1;MB.174A
+mb_174_a3_2;MB.174
+d_373_shop;D.373
+d_373_0;D.373
+d_373_1;D.373
+d_373_2;D.373
+d_371_hs9_shop;D.371 (HS.9)
+d_371_hs9_0;D.371 (Hispano-Suiza HS.9)
+d_371_hs9_1;D.371 (HS.9)
+d_371_hs9_2;D.371
+leo_451_early_shop;LeO 451
+leo_451_early_0;LeO 451
+leo_451_early_1;LeO 451
+leo_451_early_2;LeO 451
+shop/group/f_222_group;F.222.2 / NC.223.3
+f_222_2_shop;F.222.2
+f_222_2_0;F.222.2
+f_222_2_1;F.222.2
+f_222_2_2;F.222
+potez_630_shop;Potez 630.01
+potez_630_0;Potez 630.01
+potez_630_1;Potez 630.01
+potez_630_2;Potez 630
+potez_631_shop;Potez 631.01
+potez_631_0;Potez 631.01
+potez_631_1;Potez 631.01
+potez_631_2;Potez 631
+potez_633_shop;Potez 633.01
+potez_633_0;Potez 633.01
+potez_633_1;Potez 633.01
+potez_633_2;Potez 633
+br_693_ab2_shop;Br.693AB2
+br_693_ab2_0;Br.693AB2
+br_693_ab2_1;Br.693AB
+br_693_ab2_2;Br.693
+mb_157_shop;MB.157-C1
+mb_157_0;MB.157-C1
+mb_157_1;MB.157-C
+mb_157_2;MB.157
+ms_410c1_shop;MS.410C1
+ms_410c1_0;MS.410C1
+ms_410c1_1;MS.410C
+ms_410c1_2;MS.410
+vb_10_02_shop;VB 10-02
+vb_10_02_0;VB 10-02
+vb_10_02_1;VB 10-02
+vb_10_02_2;VB 10
+vb_10c1_shop;VB 10.C1
+vb_10c1_0;VB 10.C1
+vb_10c1_1;VB 10.C
+vb_10c1_2;VB 10
+vg_33_shop;VG 33.C1
+vg_33_0;VG 33.C1
+vg_33_1;VG 33.C
+vg_33_2;VG 33
+nc_223_3_shop;NC.223.3
+nc_223_3_0;NC.223.3
+nc_223_3_1;NC.223.3
+nc_223_3_2;NC.223
+md_452_mystere_2a_shop;Mystère IIA
+md_452_mystere_2a_0;M.D.452 Mystère IIA
+md_452_mystere_2a_1;Mystère IIA
+md_452_mystere_2a_2;Mystère
+shop/group/md_452_group;Mystère IIA / Mystère IIC
+etndard_4m_shop;Étendard IVM
+etndard_4m_0;Étendard IVM
+etndard_4m_1;Étendard IVM
+etndard_4m_2;Étendard IV
+super_etendard_97_shop;Super Étendard
+super_etendard_97_0;Super Étendard (SEM 4)
+super_etendard_97_1;Super Étendard
+super_etendard_97_2;Super Étendard
+md_460_shop;Super Mystère B2
+md_460_0;M.D.460 Super Mystère B2
+md_460_1;Super Mystère B
+md_460_2;Super Mystère
+md_460_yt_cup_2019_shop;Super Mystère B2 (YTC)
+md_460_yt_cup_2019_0;M.D.460 Super Mystère B2 (YouTube Cup)
+md_460_yt_cup_2019_1;Super Mystère B
+md_460_yt_cup_2019_2;Super Mystère
+md_460_usa_shop;Super Mystère B2
+md_460_usa_0;M.D.460 Super Mystère B2
+md_460_usa_1;Super Mystère B
+md_460_usa_2;Super Mystère
+mirage_milan_shop;Milan S 01
+mirage_milan_0;Milan S 01
+mirage_milan_1;Milan S 01
+mirage_milan_2;Milan
+mirage_3c_shop;Mirage IIIC
+mirage_3c_0;Mirage IIIC
+mirage_3c_1;Mirage IIIC
+mirage_3c_2;Mirage III
+mirage_3e_shop;Mirage IIIE
+mirage_3e_0;Mirage IIIE
+mirage_3e_1;Mirage IIIE
+mirage_3e_2;Mirage III
+mirage_5f_shop;Mirage 5F
+mirage_5f_0;Mirage 5F
+mirage_5f_1;Mirage 5F
+mirage_5f_2;Mirage 5
+mirage_f1c_200_shop;Mirage F1 C-200 (EC 4/30)
+mirage_f1c_200_0;Mirage F1 C-200 (Escadron de Chasse 4/30 Vexin)
+mirage_f1c_200_1;Mirage F1
+mirage_f1c_200_2;Mirage F1
+mirage_f1c_shop;Mirage F1 C
+mirage_f1c_0;Mirage F1 C
+mirage_f1c_1;Mirage F1
+mirage_f1c_2;Mirage F1
+mirage_f1ct_shop;Mirage F1 CT
+mirage_f1ct_0;Mirage F1 CT
+mirage_f1ct_1;Mirage F1
+mirage_f1ct_2;Mirage F1
+mirage_2000c_s4_shop;Mirage 2000C S4
+mirage_2000c_s4_0;Mirage 2000C S4
+mirage_2000c_s4_1;Mirage 2000C
+mirage_2000c_s4_2;Mirage 2000
+mirage_2000c_s5_shop;Mirage 2000C S5
+mirage_2000c_s5_0;Mirage 2000C S5
+mirage_2000c_s5_1;Mirage 2000C
+mirage_2000c_s5_2;Mirage 2000
+mirage_2000_5f_shop;Mirage 2000-5F
+mirage_2000_5f_0;Mirage 2000-5F
+mirage_2000_5f_1;Mirage 2000-5
+mirage_2000_5f_2;Mirage 2000
+mirage_2000d_r1_shop;Mirage 2000D R1
+mirage_2000d_r1_0;Mirage 2000D R1 (ECLAIR-M)
+mirage_2000d_r1_1;Mirage 2000D
+mirage_2000d_r1_2;Mirage 2000
+mirage_2000d_rmv_shop;Mirage 2000D RMV
+mirage_2000d_rmv_0;Mirage 2000D RMV
+mirage_2000d_rmv_1;Mirage 2000D
+mirage_2000d_rmv_2;Mirage 2000
+mirage_4000_shop;Mirage 4000
+mirage_4000_0;Mirage 4000 (1986)
+mirage_4000_1;Mirage 4000
+mirage_4000_2;Mirage 4000
+rafale_c_f3_shop;Rafale C F4.1
+rafale_c_f3_0;Rafale C standard F4.1
+rafale_c_f3_1;Rafale C
+rafale_c_f3_2;Rafale
+caudron_cr714_shop;CR.714-C1
+caudron_cr714_0;CR.714-C1
+caudron_cr714_1;CR.714-C
+caudron_cr714_2;CR.714
+md_450b_barougan_shop;Barougan
+md_450b_barougan_0;M.D.450 Barougan
+md_450b_barougan_1;Barougan
+md_450b_barougan_2;Barougan
+md_450b_ouragan_shop;Ouragan
+md_450b_ouragan_0;M.D.450 Ouragan
+md_450b_ouragan_1;Ouragan
+md_450b_ouragan_2;Ouragan
+shop/group/md_450b_group;Ouragan / Barougan
+v_156_f_shop;⚜ V-156-F
+v_156_f_0;⚜ V-156-F
+v_156_f_1;⚜ V-156-F
+v_156_f_2;V-156
+h-75a-1_france_shop;H75C-1 (1ère)
+h-75a-1_france_0;H75-C1 (1ère série)
+h-75a-1_france_1;H75-C
+h-75a-1_france_2;H75
+h-75a-4_france_shop;H75-C1 (4ème)
+h-75a-4_france_0;H75-C1 (4ème série)
+h-75a-4_france_1;H75-C
+h-75a-4_france_2;H75
+ms_405c1_shop;MS.405C1
+ms_405c1_0;MS.405C1
+ms_405c1_1;MS.405C
+ms_405c1_2;MS.405
+ms_406c1_shop;MS.406C1
+ms_406c1_0;MS.406C1
+ms_406c1_1;MS.406C
+ms_406c1_2;MS.406
+shop/group/ms_405_406_group;MS.405C1 / MS.406C1
+spad_13_shop;SPA XIII
+spad_13_0;SPA XIII
+spad_13_1;SPA XIII
+spad_13_2;SPA XIII
+shop/group/h-75_france_group;H75-C1 (1ère) / H75-C1 (4ème)
+maryland_mk1_france_shop;Martin 167-A3
+maryland_mk1_france_0;Martin 167-A3
+maryland_mk1_france_1;Martin 167-A
+maryland_mk1_france_2;Martin 167
+yak-3_france_shop;⚜ Yak-3 (RC 2/30)
+yak-3_france_0;⚜ Yak-3 (Régiment de Chasse 2/30 "Normandie-Niémen")
+yak-3_france_1;⚜ Yak-3
+yak-3_france_2;Yak-3
+md_452_mystere_2c_preproduction_shop;Mystère IIC
+md_452_mystere_2c_preproduction_0;M.D.452 Mystère IIC
+md_452_mystere_2c_preproduction_1;Mystère IIC
+md_452_mystere_2c_preproduction_2;Mystère
+md_454_mystere_4a_shop;Mystère IVA
+md_454_mystere_4a_0;M.D.454 Mystère IVA
+md_454_mystere_4a_1;Mystère IVA
+md_454_mystere_4a_2;Mystère
+fr_amx_32_shop;AMX 32 P2
+fr_amx_32_0;Engin principal de combat AMX 32 P2
+fr_amx_32_1;AMX 32 P2
+fr_amx_32_2;AMX 32
+fr_amx_32_105_shop;AMX 32 P1
+fr_amx_32_105_0;Engin principal de combat AMX 32 P1
+fr_amx_32_105_1;AMX 32 P1
+fr_amx_32_105_2;AMX 32
+fr_amx_40_shop;AMX 40 P4
+fr_amx_40_0;Engin principal de combat AMX 40 P4
+fr_amx_40_1;AMX 40 P4
+fr_amx_40_2;AMX 40
+fr_bat_chat_25t_shop;Char 25t
+fr_bat_chat_25t_0;Char Batignolles-Châtillon de 25 tonnes
+fr_bat_chat_25t_1;Char 25t
+fr_bat_chat_25t_2;Char 25t
+mb_175t_shop;MB.175T
+mb_175t_0;MB.175T
+mb_175t_1;MB.175T
+mb_175t_2;MB.175
+f-100d_france_shop;⚜ F-100D-10
+f-100d_france_0;⚜ F-100D-10 NA
+f-100d_france_1;⚜ F-100D
+f-100d_france_2;F-100
+mb_152c1_shop;MB.152-C1
+mb_152c1_0;MB.152-C1
+mb_152c1_1;MB.152-C
+mb_152c1_2;MB.152
+mb_151c1_shop;MB.151-C1
+mb_151c1_0;MB.151-C1
+mb_151c1_1;MB.151-C
+mb_151c1_2;MB.151
+late_298d_shop;Latécoère 298D
+late_298d_0;Latécoère 298D
+late_298d_1;Latécoère 298D
+late_298d_2;Latécoère 298
+jaguar_e_shop;Jaguar E (EC 2/7)
+jaguar_e_0;Jaguar Type E (Escadron de Chasse 2/7 Argonne)
+jaguar_e_1;Jaguar E
+jaguar_e_2;Jaguar
+jaguar_a_shop;Jaguar A
+jaguar_a_0;Jaguar Type A
+jaguar_a_1;Jaguar A
+jaguar_a_2;Jaguar
+alpha_jet_e_shop;Alpha Jet E
+alpha_jet_e_0;Alpha Jet E
+alpha_jet_e_1;Alpha Jet E
+alpha_jet_e_2;Alpha Jet
+sa_313b_france_shop;Alouette IIB
+sa_313b_france_0;SE 313 Alouette IIB
+sa_313b_france_1;Alouette IIB
+sa_313b_france_2;Alouette II
+sa_316b_shop;Alouette IIIB
+sa_316b_0;SA 316 Alouette IIIB
+sa_316b_1;Alouette IIIB
+sa_316b_2;Alouette III
+sa_341f_shop;SA 341F
+sa_341f_0;SA 341F Gazelle
+sa_341f_1;SA 341F
+sa_341f_2;Gazelle
+sa_342m_shop;SA 342M
+sa_342m_0;SA 342M Gazelle
+sa_342m_1;SA 342
+sa_342m_2;Gazelle
+h_34_france_shop;⚜ H-34A
+h_34_france_0;⚜ H-34A
+h_34_france_1;⚜ H-34A
+h_34_france_2;H-34
+f-86k_late_shop;⚜ F-86K
+f-86k_late_0;⚜ F-86K (1962)
+f-86k_late_1;⚜ F-86K
+f-86k_late_2;F-86
+tiger_hap_france_shop;Tigre HAP
+tiger_hap_france_0;Tigre Hélicoptère d'Appui Protection
+tiger_hap_france_1;Tigre HAP
+tiger_hap_france_2;Tigre
+tiger_had_france_shop;Tigre HAD/F B1
+tiger_had_france_0;Tigre Hélicoptère d'Appui Destruction (Block 1)
+tiger_had_france_1;Tigre HAD
+tiger_had_france_2;Tigre
+tiger_had_block2_france_shop;Tigre HAD/E B2
+tiger_had_block2_france_0;Tigre Hélicoptère d'Appui Destruction (Block 2)
+tiger_had_block2_france_1;Tigre HAD
+tiger_had_block2_france_2;Tigre
+shop/group/tiger_group;Tigre HAD / Tigre HAC
+tiger_hac_france_shop;Tigre HAC
+tiger_hac_france_0;Tigre Hélicoptère Antichar
+tiger_hac_france_1;Tiger HAC
+tiger_hac_france_2;Tigre
+shop/group/vg_33_group;VG 33.C1 / D.520
+shop/group/maryland_group;Martin 167-A3 / MB.174A-3
+fr_aml_90_shop;AML 90
+fr_aml_90_0;Automitrailleuse légère AML 90
+fr_aml_90_1;AML 90
+fr_aml_90_2;AML
+fr_marder_clovis_shop;Clovis
+fr_marder_clovis_0;Clovis
+fr_marder_clovis_1;Clovis
+fr_marder_clovis_2;Clovis
+fr_marder_df_105_shop;DF 105
+fr_marder_df_105_0;Combat Tank DF 105
+fr_marder_df_105_1;DF 105
+fr_marder_df_105_2;DF 105

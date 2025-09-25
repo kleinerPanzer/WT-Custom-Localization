@@ -1,0 +1,252 @@
+<ID|readonly|noverify>;<NewLanguage>
+us_m18_hellcat_black_cat_race_shop;Hellcat
+us_m18_hellcat_black_cat_race_0;Hellcat
+us_m18_hellcat_black_cat_race_1;Hellcat
+us_m18_hellcat_black_cat_race_2;Hellcat
+uk_t17e2_race_0;Tank, Racing, Mk. I
+uk_t17e2_race_1;RT Mk. I
+uk_t17e2_race_2;RT
+uav_quadcopter_shop;Hawkeye
+uav_quadcopter_0;Hawkeye UAV
+uav_quadcopter_1;Hawkeye
+uav_quadcopter_2;Hawkeye
+ucav_recon_micro_shop;ZALA 421-16EM
+ucav_recon_micro_0;ZALA 421-16EM
+ucav_recon_micro_1;ZALA 421-16
+ucav_recon_micro_2;ZALA 421
+ucav_recon_micro_flir_shop;ZALA 421-16EM (Z-16IK35)
+ucav_recon_micro_flir_0;ZALA 421-16EM (Z-16IK35)
+ucav_recon_micro_flir_1;ZALA 421-16
+ucav_recon_micro_flir_2;ZALA 421
+ucav_mq_1_predator_shop;MQ-1A
+ucav_mq_1_predator_0;MQ-1A Predator
+ucav_mq_1_predator_1;MQ-1A
+ucav_mq_1_predator_2;MQ-1
+ucav_mq_1_predator_france_killstreak_shop;MQ-1A
+ucav_mq_1_predator_france_killstreak_0;MQ-1A Predator
+ucav_mq_1_predator_france_killstreak_1;MQ-1A
+ucav_mq_1_predator_france_killstreak_2;MQ-1
+ucav_mq_1_predator_germany_killstreak_shop;MQ-1A
+ucav_mq_1_predator_germany_killstreak_0;MQ-1A Predator
+ucav_mq_1_predator_germany_killstreak_1;MQ-1A
+ucav_mq_1_predator_germany_killstreak_2;MQ-1
+ucav_mq_1_predator_iaf_killstreak_shop;MQ-1A
+ucav_mq_1_predator_iaf_killstreak_0;MQ-1A Predator
+ucav_mq_1_predator_iaf_killstreak_1;MQ-1A
+ucav_mq_1_predator_iaf_killstreak_2;MQ-1
+ucav_mq_1_predator_italy_killstreak_shop;MQ-1A
+ucav_mq_1_predator_italy_killstreak_0;MQ-1A Predator
+ucav_mq_1_predator_italy_killstreak_1;MQ-1A
+ucav_mq_1_predator_italy_killstreak_2;MQ-1
+ucav_mq_1_predator_japan_killstreak_shop;MQ-1A
+ucav_mq_1_predator_japan_killstreak_0;MQ-1A Predator
+ucav_mq_1_predator_japan_killstreak_1;MQ-1A
+ucav_mq_1_predator_japan_killstreak_2;MQ-1
+ucav_mq_1_predator_sweden_killstreak_shop;MQ-1A
+ucav_mq_1_predator_sweden_killstreak_0;MQ-1A Predator
+ucav_mq_1_predator_sweden_killstreak_1;MQ-1A
+ucav_mq_1_predator_sweden_killstreak_2;MQ-1
+ucav_mq_1_predator_uk_killstreak_shop;MQ-1A
+ucav_mq_1_predator_uk_killstreak_0;MQ-1A Predator
+ucav_mq_1_predator_uk_killstreak_1;MQ-1A
+ucav_mq_1_predator_uk_killstreak_2;MQ-1
+ucav_mq_1_predator_usa_killstreak_shop;MQ-1A
+ucav_mq_1_predator_usa_killstreak_0;MQ-1A Predator
+ucav_mq_1_predator_usa_killstreak_1;MQ-1A
+ucav_mq_1_predator_usa_killstreak_2;MQ-1
+ucav_orion_killstreak_shop;Орион
+ucav_orion_killstreak_0;Орион
+ucav_orion_killstreak_1;Орион
+ucav_orion_killstreak_2;Орион
+ucav_wing_loong_i_killstreak_shop;翼龙-1
+ucav_wing_loong_i_killstreak_0;翼龙-1
+ucav_wing_loong_i_killstreak_1;翼龙-1
+ucav_wing_loong_i_killstreak_2;翼龙
+ucav_orion_shop;Орион
+ucav_orion_0;Орион
+ucav_orion_1;Орион
+ucav_orion_2;Орион
+ucav_wing_loong_i_shop;翼龙-1
+ucav_wing_loong_i_0;翼龙-1
+ucav_wing_loong_i_1;翼龙-1
+ucav_wing_loong_i_2;翼龙
+il_28_killstreak_shop;Ил-28А
+il_28_killstreak_0;Ил-28А
+il_28_killstreak_1;Ил-28А
+il_28_killstreak_2;Ил-28
+il_28_china_killstreak_shop;Ил-28А
+il_28_china_killstreak_0;Ил-28А
+il_28_china_killstreak_1;Ил-28А
+il_28_china_killstreak_2;Ил-28
+il_28_german_killstreak_shop;Ил-28А
+il_28_german_killstreak_0;Ил-28А
+il_28_german_killstreak_1;Ил-28А
+il_28_german_killstreak_2;Ил-28
+po_2op_event_shop;2OP Po-2
+po_2op_event_0;2OP Po-2
+po_2op_event_1;2OP Po-2
+po_2op_event_2;2OP Po-2
+b-29_killstreak_shop;B-29A-20
+b-29_killstreak_0;B-29A-20 BN Superfortress
+b-29_killstreak_1;B-29A
+b-29_killstreak_2;B-29
+b-29_france_killstreak_shop;B-29A-20
+b-29_france_killstreak_0;B-29A-20 BN Superfortress
+b-29_france_killstreak_1;B-29A
+b-29_france_killstreak_2;B-29
+b-29_japan_killstreak_shop;B-29A-20
+b-29_japan_killstreak_0;B-29A-20 BN Superfortress
+b-29_japan_killstreak_1;B-29A
+b-29_japan_killstreak_2;B-29
+b-29_sweden_killstreak_shop;B-29A-20
+b-29_sweden_killstreak_0;B-29A-20 BN Superfortress
+b-29_sweden_killstreak_1;B-29A
+b-29_sweden_killstreak_2;B-29
+b-29_uk_killstreak_shop;B-29A-20
+b-29_uk_killstreak_0;B-29A-20 BN Superfortress
+b-29_uk_killstreak_1;B-29A
+b-29_uk_killstreak_2;B-29
+b-29_italy_killstreak_shop;B-29A-20
+b-29_italy_killstreak_0;B-29A-20 BN Superfortress
+b-29_italy_killstreak_1;B-29A
+b-29_italy_killstreak_2;B-29
+b-29_germany_killstreak_shop;B-29A-20
+b-29_germany_killstreak_0;B-29A-20 BN Superfortress
+b-29_germany_killstreak_1;B-29A
+b-29_germany_killstreak_2;B-29
+b-29_iaf_killstreak_shop;B-29A-20
+b-29_iaf_killstreak_0;B-29A-20 BN Superfortress
+b-29_iaf_killstreak_1;B-29A
+b-29_iaf_killstreak_2;B-29
+su-7bkl_killstreak_shop;Су-7БКЛ
+su-7bkl_killstreak_0;Су-7БКЛ
+su-7bkl_killstreak_1;Су-7БКЛ
+su-7bkl_killstreak_2;Су-7
+su-7bkl_china_killstreak_shop;Су-7БКЛ
+su-7bkl_china_killstreak_0;Су-7БКЛ
+su-7bkl_china_killstreak_1;Су-7БКЛ
+su-7bkl_china_killstreak_2;Су-7
+su_24m_killstreak_shop;Су-24М2
+su_24m_killstreak_0;Су-24М2
+su_24m_killstreak_1;Су-24М
+su_24m_killstreak_2;Су-24
+su_24m_china_killstreak_shop;Су-24М2
+su_24m_china_killstreak_0;Су-24М2
+su_24m_china_killstreak_1;Су-24М
+su_24m_china_killstreak_2;Су-24
+f_111f_killstreak_shop;F-111F
+f_111f_killstreak_0;F-111F
+f_111f_killstreak_1;F-111F
+f_111f_killstreak_2;F-111
+f_111f_iaf_killstreak_shop;F-111F
+f_111f_iaf_killstreak_0;F-111F
+f_111f_iaf_killstreak_1;F-111F
+f_111f_iaf_killstreak_2;F-111
+f_111f_japan_killstreak_shop;F-111F
+f_111f_japan_killstreak_0;F-111F
+f_111f_japan_killstreak_1;F-111F
+f_111f_japan_killstreak_2;F-111
+canberra_bimk6_killstreak_shop;Canberra B.(I.)6
+canberra_bimk6_killstreak_0;Canberra B.(I.) Mk. 6
+canberra_bimk6_killstreak_1;Canberra Mk. 6
+canberra_bimk6_killstreak_2;Canberra
+canberra_bimk6_france_killstreak_shop;Canberra B.(I.)6
+canberra_bimk6_france_killstreak_0;Canberra B.(I.) Mk. 6
+canberra_bimk6_france_killstreak_1;Canberra Mk. 6
+canberra_bimk6_france_killstreak_2;Canberra
+canberra_bimk6_germany_killstreak_shop;Canberra B.(I.)6
+canberra_bimk6_germany_killstreak_0;Canberra B.(I.) Mk. 6
+canberra_bimk6_germany_killstreak_1;Canberra Mk. 6
+canberra_bimk6_germany_killstreak_2;Canberra
+canberra_bimk6_italy_killstreak_shop;Canberra B.(I.)6
+canberra_bimk6_italy_killstreak_0;Canberra B.(I.) Mk. 6
+canberra_bimk6_italy_killstreak_1;Canberra Mk. 6
+canberra_bimk6_italy_killstreak_2;Canberra
+canberra_bimk6_japan_killstreak_shop;Canberra B.(I.)6
+canberra_bimk6_japan_killstreak_0;Canberra B.(I.) Mk. 6
+canberra_bimk6_japan_killstreak_1;Canberra Mk. 6
+canberra_bimk6_japan_killstreak_2;Canberra
+canberra_bimk6_sweden_killstreak_shop;Canberra B.(I.)6
+canberra_bimk6_sweden_killstreak_0;Canberra B.(I.) Mk. 6
+canberra_bimk6_sweden_killstreak_1;Canberra Mk. 6
+canberra_bimk6_sweden_killstreak_2;Canberra
+canberra_bimk6_usa_killstreak_shop;Canberra B.(I.)6
+canberra_bimk6_usa_killstreak_0;Canberra B.(I.) Mk. 6
+canberra_bimk6_usa_killstreak_1;Canberra Mk. 6
+canberra_bimk6_usa_killstreak_2;Canberra
+canberra_bimk6_iaf_killstreak_shop;Canberra B.(I.)6
+canberra_bimk6_iaf_killstreak_0;Canberra B.(I.) Mk. 6
+canberra_bimk6_iaf_killstreak_1;Canberra Mk. 6
+canberra_bimk6_iaf_killstreak_2;Canberra
+po-2_nw_shop;По-2
+po-2_nw_0;По-2 Night Witch
+po-2_nw_1;По-2
+po-2_nw_2;По-2
+tu_4_killstreak_shop;Ту-4
+tu_4_killstreak_0;Ту-4
+tu_4_killstreak_1;Ту-4
+tu_4_killstreak_2;Ту-4
+tu_4_china_killstreak_shop;杜4
+tu_4_china_killstreak_0;杜4型飞机
+tu_4_china_killstreak_1;杜4
+tu_4_china_killstreak_2;杜4
+jaguar_a_killstreak_shop;Jaguar A
+jaguar_a_killstreak_0;Jaguar Type A
+jaguar_a_killstreak_1;Jaguar A
+jaguar_a_killstreak_2;Jaguar
+jaguar_a_germany_killstreak_shop;Jaguar A
+jaguar_a_germany_killstreak_0;Jaguar Type A
+jaguar_a_germany_killstreak_1;Jaguar A
+jaguar_a_germany_killstreak_2;Jaguar
+jaguar_a_italy_killstreak_shop;Jaguar A
+jaguar_a_italy_killstreak_0;Jaguar Type A
+jaguar_a_italy_killstreak_1;Jaguar A
+jaguar_a_italy_killstreak_2;Jaguar
+jaguar_a_japan_killstreak_shop;Jaguar A
+jaguar_a_japan_killstreak_0;Jaguar Type A
+jaguar_a_japan_killstreak_1;Jaguar A
+jaguar_a_japan_killstreak_2;Jaguar
+jaguar_a_sweden_killstreak_shop;Jaguar A
+jaguar_a_sweden_killstreak_0;Jaguar Type A
+jaguar_a_sweden_killstreak_1;Jaguar A
+jaguar_a_sweden_killstreak_2;Jaguar
+jaguar_a_uk_killstreak_shop;Jaguar A
+jaguar_a_uk_killstreak_0;Jaguar Type A
+jaguar_a_uk_killstreak_1;Jaguar A
+jaguar_a_uk_killstreak_2;Jaguar
+jaguar_a_usa_killstreak_shop;Jaguar A
+jaguar_a_usa_killstreak_0;Jaguar Type A
+jaguar_a_usa_killstreak_1;Jaguar A
+jaguar_a_usa_killstreak_2;Jaguar
+jaguar_a_iaf_killstreak_shop;Jaguar A
+jaguar_a_iaf_killstreak_0;Jaguar Type A
+jaguar_a_iaf_killstreak_1;Jaguar A
+jaguar_a_iaf_killstreak_2;Jaguar
+tornado_ids_de_assta1_killstreak_shop;IDS-Tornado
+tornado_ids_de_assta1_killstreak_0;Mehrzweckkampfflugzeug IDS-Tornado (Batch 2) (ASSTA 1)
+tornado_ids_de_assta1_killstreak_1;IDS-Tornado
+tornado_ids_de_assta1_killstreak_2;Tornado
+tornado_ids_de_assta1_sweden_killstreak_shop;IDS-Tornado
+tornado_ids_de_assta1_sweden_killstreak_0;Mehrzweckkampfflugzeug IDS-Tornado (Batch 2) (ASSTA 1)
+tornado_ids_de_assta1_sweden_killstreak_1;IDS-Tornado
+tornado_ids_de_assta1_sweden_killstreak_2;Tornado
+tornado_ids_de_assta1_france_killstreak_shop;IDS-Tornado
+tornado_ids_de_assta1_france_killstreak_0;Mehrzweckkampfflugzeug IDS-Tornado (Batch 2) (ASSTA 1)
+tornado_ids_de_assta1_france_killstreak_1;IDS-Tornado
+tornado_ids_de_assta1_france_killstreak_2;Tornado
+tornado_ids_de_assta1_italy_killstreak_shop;IDS-Tornado
+tornado_ids_de_assta1_italy_killstreak_0;Mehrzweckkampfflugzeug IDS-Tornado (Batch 2) (ASSTA 1)
+tornado_ids_de_assta1_italy_killstreak_1;IDS-Tornado
+tornado_ids_de_assta1_italy_killstreak_2;Tornado
+tornado_ids_de_assta1_britain_killstreak_shop;IDS-Tornado
+tornado_ids_de_assta1_britain_killstreak_0;Mehrzweckkampfflugzeug IDS-Tornado (Batch 2) (ASSTA 1)
+tornado_ids_de_assta1_britain_killstreak_1;IDS-Tornado
+tornado_ids_de_assta1_britain_killstreak_2;Tornado
+ussr_m551_football_shop;
+ussr_m551_football_0;
+ussr_m551_football_1;
+ussr_m551_football_2;
+us_m551_football_shop;
+us_m551_football_0;
+us_m551_football_1;
+us_m551_football_2;

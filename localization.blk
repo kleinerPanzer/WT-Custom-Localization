@@ -69,6 +69,8 @@ locTable{
 
   // mod units
   file:t="%lang/MOD_units_ai.csv"
+  file:t="%lang/MOD_units_other.csv"
+
   file:t="%lang/MOD_units_usa.csv"
   file:t="%lang/MOD_units_ussr.csv"
   file:t="%lang/MOD_units_uk.csv"
@@ -138,6 +140,7 @@ locTable{
   file:t="%lang/MOD_units_portugal.csv"
   file:t="%lang/MOD_units_vietnam_republic.csv"
   file:t="%lang/MOD_units_slovakia.csv"
+  file:t="%lang/MOD_units_rhodesia.csv"
 
   file:t="%lang/MOD_weapons.csv"
 
