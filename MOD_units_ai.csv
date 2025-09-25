@@ -1080,3 +1080,25 @@ ussr_locomotive_e_1298_2;Э
 structures/germ_380mm_skc34_0;38 cm-Schnellladekanone C/34
 structures/germ_380mm_skc34_1;SK C/34
 structures/germ_380mm_skc34_2;SK C/34
+structures/ship_target_mine_char_0;Target Mine
+structures/ship_target_mine_char_1;Target Mine
+structures/ship_target_mine_char_2;Target Mine
+structures/ship_target_1_char_0;Target No. 1
+structures/ship_target_1_char_1;Target No. 1
+structures/ship_target_1_char_2;Target No. 1
+structures/ship_target_2_char_0;Target No. 2
+structures/ship_target_2_char_1;Target No. 2
+structures/ship_target_2_char_2;Target No. 2
+germ_3x280mm_sk_c34_for_land_battles_0;Pillbox
+germ_3x280mm_sk_c34_for_land_battles_1;Pillbox
+germ_3x280mm_sk_c34_for_land_battles_2;Pillbox
+swe_120mm_for_land_battles_0;Pillbox
+swe_120mm_for_land_battles_1;Pillbox
+swe_120mm_for_land_battles_2;Pillbox
+swe_152mm_for_land_battles_0;Pillbox
+swe_152mm_for_land_battles_1;Pillbox
+swe_152mm_for_land_battles_2;Pillbox
+us_152mm_for_land_battles_0;Pillbox
+us_152mm_for_land_battles_1;Pillbox
+us_152mm_for_land_battles_2;Pillbox
+soldier;Soldier
