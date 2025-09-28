@@ -1,0 +1,24 @@
+<ID|readonly|noverify>;<NewLanguage>
+sensors/bl_carapace;Carapace;
+
+sensors/ir_tracker_360;TV Tracker;
+sensors/ir_tracker_tgp;TV Tracker;
+sensors/ir_tracker;TV Tracker;
+sensors/laserbeamridingsensor;LWS;
+sensors/laserdesignatorsensor;LWS;
+sensors/laserwarningsensor;LWS;
+sensors/naval_nav_radar;Navigation Radar;
+sensors/naval_search_radar;Search Radar;
+sensors/sam_tv_ir_track_rc;TV Tracker/IRST;
+sensors/sam_tv_ir_track;TV Tracker/IRST;
+sensors/ship_optical_sight;Optical Sight;
+sensors/slaved_radar_fsm;
+sensors/tv_tracker_tgp;TV Tracker;
+sensors/tv_tracker;TV Tracker;
+
+sensors/rooikat_aa_eot_track;TV Tracker;
+sensors/sa_d_36;D-36;
+
+counterMeasures/varta_left;Варта
+counterMeasures/varta_right;Варта
+counterMeasures/varta;Варта

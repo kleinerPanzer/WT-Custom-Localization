@@ -1,0 +1,19 @@
+<ID|readonly|noverify>;<NewLanguage>
+sensors/sw_app_f9_5;App F9/5;
+sensors/sw_asrad_search;Search Radar;
+sensors/sw_giraffe_1x;Giraffe 1X;
+sensors/sw_giraffe_amb;Giraffe AMB
+sensors/sw_ps_05a;PS-05A;
+sensors/sw_ps-011a_71h_ir;PS-01/011 (71H);
+sensors/sw_ps-03;PS-03;
+sensors/sw_ps-371a;PS-371A;
+sensors/sw_ps-37a;PS-37A;
+sensors/sw_ps-42_search;PS-42;
+sensors/sw_ps-42_track;PS-42;
+sensors/sw_ps-46a;PS-46A;
+sensors/sw_triad_search;PS-95;
+sensors/sw_utaas_track;UTAAS;
+sensors/swd_app_27;App 27;
+sensors/swd_app_73;App 73;
+sensors/swd_ar830;AR 830;
+sensors/swd_bow_21;BOW-21

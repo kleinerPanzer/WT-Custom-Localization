@@ -1,0 +1,36 @@
+<ID|readonly|noverify>;<NewLanguage>
+
+counterMeasures/eirel;EIREL
+sensors/fr_aida_2;Aïda II;
+sensors/fr_anemone;Anemone;
+sensors/fr_antilope_5_hmd;Antilope 5
+sensors/fr_antilope_5;Antilope 5
+sensors/fr_arabel;Arabel
+sensors/fr_crotale_search;Search Radar;
+sensors/fr_crotale_track;Tracking Radar;
+sensors/fr_cyrano_ii;Cyrano II;
+sensors/fr_cyrano_iv;Cyrano IV;
+sensors/fr_cyrano_ivmr;Cyrano IV-MR;
+sensors/fr_cyrano;Cyrano I;
+sensors/fr_ddm2000;Détecteur de Départ Missile;
+sensors/fr_dr_vc_1a;DRVC 1A;
+sensors/fr_draa_3d;DRAA 3D;
+sensors/fr_drac_25;DRAC 25;
+sensors/fr_drac_32a;DRAC 32A;
+sensors/fr_drbv11;DRBV 11;
+sensors/fr_drbv20a;DRBV 20A;
+sensors/fr_leclerc_auto_target_tracker;TV Tracker;
+sensors/fr_me140_mr126;ME 140 / MR 126;
+sensors/fr_mirage_3e_detecteur;Détecteur
+sensors/fr_ralm01;RALM-01;
+sensors/fr_rodeo_2;Rodeo 2;
+sensors/fr_serval_rwr;SERVAL;
+sensors/fr_sherloc;SHERLOC;
+sensors/fr_spectra_lws;SPECTRA
+sensors/fr_spectra_mlws;SPECTRA
+sensors/fr_spectra_rwr;SPECTRA
+sensors/fr_taran_18;TARAN 18
+sensors/fr_thales_rbe2;RBE2
+sensors/fr_thales_rdy;RDY;
+sensors/fr_thomson-csf_rdi;RDI;
+sensors/fr_thomson-csf_rdm;RDM;

@@ -1,0 +1,27 @@
+<ID|readonly|noverify>;<NewLanguage>
+aps/amap_ads;AMAP-ADS
+aps/muss;MUSS;
+counterMeasures/muss;MUSS;
+
+
+sensors/de_flarakrad_fr;Tracking Radar;
+sensors/de_fug_200;Fu.G. 200;
+sensors/de_fug_202;Fu.G. 202;
+sensors/de_fug_220;Fu.G. 220;
+sensors/de_fumo_21;Fu.M.O. 21;
+sensors/de_fumo_22;Fu.M.O. 22;
+sensors/de_fumo_24_25;Fu.M.O. 24 / Fu.M.O. 25;
+sensors/de_fumo_26;Fu.M.O. 26;
+sensors/de_fumo_27;Fu.M.O. 27;
+sensors/de_fumo_33;Fu.M.O. 33;
+sensors/de_fumo_61;Fu.M.O. 61;
+sensors/de_fumo_63;Fu.M.O. 63;
+sensors/de_gepard_fr;Tracking Radar;
+sensors/de_gepard_sr;Search Radar;
+sensors/de_hensoldt_trml_4b;TRML 4B;
+sensors/de_roland_fr;Tracking Radar;
+sensors/de_roland_sr;Search Radar;
+sensors/de_sgr_103_02;SGR 103/02;
+sensors/de_sgr_108;SGR 108;
+sensors/de_wm_27_search;WM 27;
+sensors/de_wm_27_track;WM 27;

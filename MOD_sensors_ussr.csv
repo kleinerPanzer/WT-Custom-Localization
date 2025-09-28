@@ -1,0 +1,104 @@
+<ID|readonly|noverify>;<NewLanguage>
+aps/arena_m;Арена-М
+aps/drozd;Дрозд;
+counterMeasures/shtora1;ТШУ-1-11
+
+counterMeasures/l_166;СОЭП Л-166 «Липа»
+counterMeasures/l_166_c1;СОЭП Л-166 «Липа»
+counterMeasures/l_370;БКО Л-370-5 «Витебск»
+counterMeasures/l_370v28_5l;БКО Л-370В28-5Л
+counterMeasures/lsz_8vn;КО ЛСЗ-8ВН;
+
+sensors/su_1rl144_search;РЛС 1РЛ144М1;
+sensors/su_1rl144_track;РЛС 1РЛ144М1;
+sensors/su_1rl33;РЛС 1РЛ133;
+sensors/su_1rl33rt;РЛС 1РЛ33;
+sensors/su_1rl34;РЛС 1РЛ34;
+sensors/su_1rs1;РЛС 1РС1;
+sensors/su_1rs2;РЛС 1РС2;
+sensors/su_4r_90_yatagan;РЛС 4Р90 «Ятаган»;
+sensors/su_9k_330_search;Search Radar;
+sensors/su_9k_330_track;Tracking Radar;
+sensors/su_9k_33m3_search;Search Radar;
+sensors/su_9k_33m3_track;Tracking Radar;
+sensors/su_9s18m3;Search Radar;
+sensors/su_9s86;АОЗ 9С86;
+sensors/su_bmp_auto_target_tracker;TV Tracker;
+sensors/su_cd-30;РЛС ЦД-30;
+sensors/su_foot_b;РЛС «Фут-Б»;
+sensors/su_foot_n_search;РЛС «Фут-Н»;
+sensors/su_foot_n;РЛС «Фут-Н»;
+sensors/su_gneys_5s;РЛС «Гнейс-5С»
+sensors/su_guys_1b;РЛС «Гюйс-1Б»;
+sensors/su_guys_1m;РЛС «Гюйс-1М»;
+sensors/su_guys_2;РЛС «Гюйс-2»;
+sensors/su_khrizantema;РЛС 1Л32-1;
+sensors/su_kopio_25;РЛС «Копьё-25»;
+sensors/su_kopio;РЛС «Копьё»;
+sensors/su_l_370_2;БКО Л-370-2 «Витебск»;
+sensors/su_l-082;Теплопеленгатор Л-082 «Мак-УЛ»;
+sensors/su_l-140;СПЛО Л-140 «Отклик»;
+sensors/su_mr_102_baklan;РЛС МР-102 «Баклан»;
+sensors/su_mr_103_bars;РЛС МР-103 «Барс»;
+sensors/su_mr_104_rys;РЛС МР-104 «Рысь»;
+sensors/su_mr_105;МР-105 «Турель»;
+sensors/su_mr_123_176;РЛС МР-123/176 «Вымпел-А»;
+sensors/su_mr_220_reyd;РЛС МР-220 «Рейд»;
+sensors/su_mr_302_rubka;РЛС МР-302 «Рубка»;
+sensors/su_mr_352_pozitiv;РЛС МР-352 «Позитив»;
+sensors/su_mr_510_kil_u;РЛС МР-510 «Киль-У»;
+sensors/su_n_001;РЛС Н001 «Меч»;
+sensors/su_n_001;РЛС Н001К;
+sensors/su_n_001vep;РЛС Н001ВЭП;
+sensors/su_n_010;РЛС Н001 «Жук»;
+sensors/su_n_010m;РЛС Н001М «Жук-М»;
+sensors/su_n_011m;РЛС Н011М «Барс-29»
+sensors/su_n_019;РЛС Н019;
+sensors/su_n_019eРЛС Н019Э;
+sensors/su_n_025;РЛС Н025;
+sensors/su_orion;РЛС «Орион-А»
+sensors/su_p_10_volga_a;РЛС П-10 «Волга-А»;
+sensors/su_p_12ma;РЛС П-12МА
+sensors/su_redan_2;РЛС «Редан-2»;
+sensors/su_redan;РЛС «Редан-1»;
+sensors/su_rif;РЛС «Риф»;
+sensors/su_rn_01_arbalet;РЛС РН01 «Арбалет»;
+sensors/su_rp-1_search;РЛС РП-1 «Изумруд»;
+sensors/su_rp-1_track;РЛС РП-1 «Изумруд»;
+sensors/su_rp-5_search;РЛС РП-5 «Изумруд»;
+sensors/su_rp-5_track;РЛС РП-5 «Изумруд»;
+sensors/su_sapphire_21;РЛС РП-21 «Сапфир-21»;
+sensors/su_sapphire_23;РЛС РП-23 «Сапфир-23»;
+sensors/su_sapphire_23e;РЛС РП-23Э «Сапфир-23Э»;
+sensors/su_sapphire_23ml;РЛС РП-23МЛ «Сапфир-23МЛ»;
+sensors/su_sapphire_23mla;РЛС РП-23МЛА «Сапфир-2ЗМЛА»;
+sensors/su_sapphire_23mla_2;РЛС РП-23МЛА-2 «Сапфир-2ЗМЛА-2»;
+sensors/su_satellite_m2;АРТЗ «Сателлит-М2»;
+sensors/su_snr_75;РЛС СНР-75
+sensors/su_spo-10;СПО-10 «Сирена-3»;
+sensors/su_spo-15;СПО-15 «Берёза»;
+sensors/su_spo-150-16m;СПО-150-16М;
+sensors/su_spo-150-28m;СПО-150-28М
+sensors/su_spo-150-30m1;СПО-150-30М1
+sensors/su_spo-150;СПО-150;
+sensors/su_spo-150-30sm;СПО-150-30СМ;
+sensors/su_spo-15l;СПО-15Л «Берёза-Л»;
+sensors/su_spo-15le;СПО-15ЛЭ «Берёза-ЛЭ»;
+sensors/su_spo-15lm;СПО-15ЛМ «Берёза-ЛМ»;
+sensors/su_spo-15s;СПО-15С «Берёза-С»;
+sensors/su_spo-2;СПО-2;
+sensors/su_srd-1;СРД-1;
+sensors/su_srd-5;СРД-5;
+sensors/su_tarang;РЛС «Копьё»;
+sensors/su_thorium;РЛС «Торий-А»;
+sensors/su_tshu_1_11;ТШУ-1-11;
+sensors/su_v_004;В004
+sensors/su_viking;РС 9С35М3
+sensors/su_vn_001;ВН001
+sensors/su_vympel_2;РЛС «Вымпел-2»;
+sensors/su_yakor_m;РЛС «Якорь-М»;
+counterMeasures/tshu_1;ТШУ-1-7
+counterMeasures/tshu_1_left;ТШУ-1-7
+counterMeasures/tshu_1_right;ТШУ-1-7
+sensors/tv_tracker_tgp_mercury;«Меркурий»;
+sensors/tv_tracker_tgp_platan;«Платан»;
