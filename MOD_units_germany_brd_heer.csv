@@ -1,0 +1,220 @@
+<ID|readonly|noverify>;<NewLanguage>
+
+shop/group/germ_marder_bmp_group;SPz Marder 1 A1 (–) / SPZ-1P
+shop/group/germ_marder_group;SPz Marder 1 A3 / DF 105
+shop/group/germ_radpanzer_tam_group;Rad.Kpfw. 90 / TAM 2C
+shop/group/germ_puma_group;SPz Puma S0 / SPz Puma VJTF
+shop/group/germ_kpz_super_group;KPz 70 / Super M 48
+shop/group/germ_leopard_2_group;KPz Leopard 2 A5 / KPz Leopard 2 A6
+shop/group/germ_wiesel_gepard_group;FlaRakWaTrg Ozelot / FlakPz Gepard 1 A2 (LFK Stinger)
+shop/group/germ_roland_osa_group;FlaRakPz Roland / ◊ 9A33BM2
+shop/group/germ_iris_slm_fcs_group;IRIS-T SLM
+shop/group/germ_leopard_1_late_group;KPz Leopard 1 A1 A1 / KPz Leopard 1 A5
+germ_m55_shop;◄ PzH M55
+germ_m55_0;◄ Haubitze, Panzer-, 203 mm, Vollkette, PzH M 55
+germ_m55_1;◄ PzH M55
+germ_m55_2;M55
+germ_flakpz_1a2_Gepard_shop;FlakPz 1 A2 Gepard (LFK Stinger)
+germ_flakpz_1a2_Gepard_0;Panzer, Flugabwehrkanone, 35 mm Zwilling mit Such- und Zielfolgeradar, Energie- und Feuerleitanlage, Entfernungsmesser Laser, FlakPz 1 A2 Gepard (Lenkflugkörper Fliegerfaust 2 Stinger)
+germ_flakpz_1a2_Gepard_1;FlakPz 1 A2 Gepard (LFK Stinger)
+germ_flakpz_1a2_Gepard_2;FlakPz 1
+germ_flakpz_I_Gepard_shop;FlakPz 1 Gepard B2
+germ_flakpz_I_Gepard_0;Panzer, Flugabwehrkanone, 35 mm Zwilling mit Such- und Zielfolgeradar, Energie- und Feuerleitanlage, FlakPz 1 Gepard Ansicht B2
+germ_flakpz_I_Gepard_1;FlakPz 1 Gepard
+germ_flakpz_I_Gepard_2;FlakPz 1
+germ_spz_oerlikon_raketenautomat_shop;SPz lang (Typ 3Z 8DLa)
+germ_spz_oerlikon_raketenautomat_0;Panzer, Schützen-, Vollkette, Gruppe, Kanone 20 mm, SPz lang mit 8,1 cm Raketenwerfer
+germ_spz_oerlikon_raketenautomat_1;SPz lang (Typ 3Z 8DLa)
+germ_spz_oerlikon_raketenautomat_2;SPz lang
+germ_spz_12_3_shop;SPz lang (LGS)
+germ_spz_12_3_0;Panzer, Schützen-, Vollkette Gruppe, Kanone 20 mm und Leichtgeschütz 106 mm, SPz lang
+germ_spz_12_3_1;SPz lang (LGS)
+germ_spz_12_3_2;SPz lang
+germ_raketenjagdpanzer_2_shop;RakJPz 2
+germ_raketenjagdpanzer_2_0;Panzer, Jagd-, Raketen-, Vollkette 2, RakJPz 2
+germ_raketenjagdpanzer_2_1;RakJPz 2
+germ_raketenjagdpanzer_2_2;RakJPz 2
+germ_raketenjagdpanzer_2_hot_shop;RakJPz 2 (HOT)
+germ_raketenjagdpanzer_2_hot_0;Panzer, Jagd-, Raketen-, Vollkette 2, RakJPz 2 (Lenkflugkörpersystem HOT)
+germ_raketenjagdpanzer_2_hot_1;RakJPz 2 (HOT)
+germ_raketenjagdpanzer_2_hot_2;RakJPz 2
+germ_kanonenjagdpanzer_shop;JPz 4-5
+germ_kanonenjagdpanzer_0;Panzer, Jagd-, Kanonen-, Vollkette mit Kanone 90 mm, JPz 4-5
+germ_kanonenjagdpanzer_1;JPz 4-5
+germ_kanonenjagdpanzer_2;JPz 4-5
+germ_ru251_shop;RU 251
+germ_ru251_0;Spähpanzer RU 251
+germ_ru251_1;RU 251
+germ_ru251_2;RU 251
+
+germ_leopard_I_shop;KPz Leopard 1
+germ_leopard_I_0;Panzer, Kampf-, Vollkette mit Kanone 105 mm, KPz Leopard 1
+germ_leopard_I_1;KPz Leopard 1
+germ_leopard_I_2;KPz Leopard 1
+germ_leopard_1a5_shop;KPz Leopard 1 A5
+germ_leopard_1a5_0;Panzer, Kampf-, Vollkette mit Kanone 105 mm, KPz Leopard 1A5
+germ_leopard_1a5_1;KPz Leopard 1 A5
+germ_leopard_1a5_2;KPz Leopard 1
+germ_leopard_I_a1_shop;KPz Leopard 1 A1 A1
+germ_leopard_I_a1_0;Panzer, Kampf-, Vollkette mit Kanone 105 mm, KPz Leopard 1 A1 A1
+germ_leopard_I_a1_1;KPz Leopard 1 A1
+germ_leopard_I_a1_2;KPz Leopard 1
+germ_leopard_2k_shop;KPz Leopard 2 K (PT 10/T 11)
+germ_leopard_2k_0;Panzer, Kampf-, Vollkette mit Kanone 120 mm, KPz Leopard 2 K (PT 10 mit T 11)
+germ_leopard_2k_1;KPz Leopard 2 K
+germ_leopard_2k_2;KPz Leopard 2
+germ_iris_slm_launcher_shop;LV-Sys IRIS-T SLM (LS)
+germ_iris_slm_launcher_0;Luftverteidigungssystem IRIS-T SLM (Startgerät)
+germ_iris_slm_launcher_1;LV-Sys IRIS-T SLM (LS)
+germ_iris_slm_launcher_2;LV-Sys IRIS-T SLM
+germ_iris_slm_fcs_shop;LV-Sys IRIS-T SLM (RS)
+germ_iris_slm_fcs_0;Luftverteidigungssystem IRIS-T SLM (Radargerät)
+germ_iris_slm_fcs_1;LV-Sys IRIS-T SLM (RS)
+germ_iris_slm_fcs_2;LV-Sys IRIS-T SLM
+germ_flarakrad_shop;FlaRakRad Roland
+germ_flarakrad_0;Flugabwehr-Lenkflugkörpersystem Roland Rad, FlaRakRad Roland
+germ_flarakrad_1;FlaRakRad Roland
+germ_flarakrad_2;FlaRakRad Roland
+germ_flarakpz_1_shop;FlaRakPz Roland
+germ_flarakpz_1_0;Flugabwehr-Lenkflugkörpersystem Roland Kette, FlaRakPz Roland
+germ_flarakpz_1_1;FlaRakPz Roland
+germ_flarakpz_1_2;FlaRakPz Roland
+germ_kpz_70_shop;KPz 70
+germ_kpz_70_0;Panzer, Kampf-, Vollkette mit Kanone 152 mm, KPz 70
+germ_kpz_70_1;KPz 70
+germ_kpz_70_2;KPz 70
+germ_leopard_2a4_pzbtl_123_shop;KPz Leopard 2 A4 (PzBtl 123)
+germ_leopard_2a4_pzbtl_123_0;Panzer, Kampf-, Vollkette mit Kanone 120 mm, KPz Leopard 2 A4 (Panzerbataillon 123)
+germ_leopard_2a4_pzbtl_123_1;KPz Leopard 2 A4
+germ_leopard_2a4_pzbtl_123_2;KPz Leopard 2
+germ_leopard_2a7v_shop;KPz Leopard 2 A7V
+germ_leopard_2a7v_0;Panzer, Kampf-, Vollkette mit Kanone 120 mm, KPz Leopard 2 A7V
+germ_leopard_2a7v_1;KPz Leopard 2 A7
+germ_leopard_2a7v_2;KPz Leopard 2
+germ_leopard_2a4_shop;KPz Leopard 2 A4
+germ_leopard_2a4_0;Panzer, Kampf-, Vollkette mit Kanone 120 mm, KPz Leopard 2 A4
+germ_leopard_2a4_1;KPz Leopard 2 A4
+germ_leopard_2a4_2;KPz Leopard 2
+germ_mkpz_m48a2ga2_shop;KPz M 48 A2GEA2
+germ_mkpz_m48a2ga2_0;Panzer, Kampf-, Vollkette mit Kanone 105 mm, KPz M 48 A2GEA2
+germ_mkpz_m48a2ga2_1;M 48 A2
+germ_mkpz_m48a2ga2_2;M 48
+germ_leopard_2_pt14_shop;KPz Leopard 2 K (PT 16/T 14)
+germ_leopard_2_pt14_0;Panzer, Kampf-, Vollkette mit Kanone 120 mm, KPz Leopard 2 K (PT 16 mit T 14)
+germ_leopard_2_pt14_1;KPz Leopard 2 K
+germ_leopard_2_pt14_2;KPz Leopard 2
+uh_1d_shop;◄ UH-1D
+uh_1d_0;◄ UH-1D
+uh_1d_1;◄ UH-1D
+uh_1d_2;UH-1D
+sa_313b_shop;◄ Alouette IIB
+sa_313b_0;◄ SE 313 Alouette IIB
+sa_313b_1;◄ Alouette IIB
+sa_313b_2;Alouette II
+bo_105cb2_shop;◄ BO 105 CB-2 (HeliTOW)
+bo_105cb2_0;◄ BO 105 CB-2 försökspansarvärnshelikopter med pansarvärnrobotsystemet HeliTOW
+bo_105cb2_1;◄ BO 105 CB-2
+bo_105cb2_2;BO 105
+bo_105pah1_shop;PAH 1
+bo_105pah1_0;Panzerabwehrhubschrauber 1
+bo_105pah1_1;PAH 1
+bo_105pah1_2;PAH 1
+bo_105pah1_a1_shop;PAH 1 A1
+bo_105pah1_a1_0;Panzerabwehrhubschrauber 1 A1
+bo_105pah1_a1_1;PAH 1 A1
+bo_105pah1_a1_2;PAH 1
+germ_leopard_2a6_shop;KPz Leopard 2 A6
+germ_leopard_2a6_0;Panzer, Kampf-, Vollkette mit Kanone 120 mm, KPz Leopard 2 A6
+germ_leopard_2a6_1;KPz Leopard 2 A6
+germ_leopard_2a6_2;KPz Leopard 2
+germ_leopard_2a5_shop;KPz Leopard 2 A5
+germ_leopard_2a5_0;Panzer, Kampf-, Vollkette mit Kanone 120 mm, KPz Leopard 2 A5
+germ_leopard_2a5_1;KPz Leopard 2 A5
+germ_leopard_2a5_2;KPz Leopard 2
+germ_leopard_2a5_yt_cup_2019_shop;KPz Leopard 2 A5 (YTC)
+germ_leopard_2a5_yt_cup_2019_0;Panzer, Kampf-, Vollkette mit Kanone 120 mm, KPz Leopard 2 A5 (YouTube Cup)
+germ_leopard_2a5_yt_cup_2019_1;KPz Leopard 2 A5
+germ_leopard_2a5_yt_cup_2019_2;KPz Leopard 2
+mi_24p_german_hfs80_shop;◄ Mi-24P (HFS 80)
+mi_24p_german_hfs80_0;◄ Mi-24P (Heeresfliegerstaffel 80)
+mi_24p_german_hfs80_1;◄ Mi-24P
+mi_24p_german_hfs80_2;Mi-24
+tiger_uht_shop;UH Tiger
+tiger_uht_0;Unterstützungshubschrauber Tiger
+tiger_uht_1;UH Tiger
+tiger_uht_2;Tiger
+germ_vt_1_2_shop;VT 1-2
+germ_vt_1_2_0;Versuchsträger 1-2
+germ_vt_1_2_1;VT 1-2
+germ_vt_1_2_2;VT 1
+germ_radpanzer_90_shop;Rad.Kpfw. 90
+germ_radpanzer_90_0;Experimentalfahrzeug EXF 8 x 8 Radkampfwagen 90
+germ_radpanzer_90_1;Rad.Kpfw. 90
+germ_radpanzer_90_2;Rad.Kpfw. 90
+germ_mkpz_m48a2c_shop;KPz M 48 A2 C
+germ_mkpz_m48a2c_0;Panzer, Kampf-, Vollkette mit Kanone 90 mm, KPz M 48 A2 C
+germ_mkpz_m48a2c_1;KPz M 48 A2
+germ_mkpz_m48a2c_2;KPz M 48
+germ_mkpz_m47_shop;KPz M 47 (PzBtl 114)
+germ_mkpz_m47_0;Panzer, Kampf-, Vollkette mit Kanone 90 mm, KPz M 47 (Panzerbataillon 114)
+germ_mkpz_m47_1;KPz M 47
+germ_mkpz_m47_2;KPz M 47
+germ_m44_shop;PzH M 44
+germ_m44_0;Haubitze, Panzer-, 155 mm, Vollkette, PzH M 44
+germ_m44_1;PzH M 44
+germ_m44_2;PzH M 44
+germ_m109g_shop;PzH M 109 G
+germ_m109g_0;Haubitze, Panzer-, 155 mm, Vollkette, PzH M 109 G
+germ_m109g_1;PzH M 109 G
+germ_m109g_2;PzH M 109
+germ_pzh_2000_shop;PzH 2000 A1
+germ_pzh_2000_0;Haubitze, Panzer, 155 mm, Vollkette, PzH 2000 A1
+germ_pzh_2000_1;PzH 2000 A1
+germ_pzh_2000_2;PzH 2000
+germ_le_kpz_m41_shop;KPz M 41
+germ_le_kpz_m41_0;Panzer, Kampf-, Vollkette mit Kanone 76 mm, KPz M 41
+germ_le_kpz_m41_1;KPz M 41
+germ_le_kpz_m41_2;KPz M 41
+germ_wiesel_2_adwc_shop;FlaRakWaTrg Ozelot
+germ_wiesel_2_adwc_0;Leichteflugabwehrsystem, FlaRakWaTrg Ozelot
+germ_wiesel_2_adwc_1;FlaRakWaTrg Ozelot
+germ_wiesel_2_adwc_2;FlaRakWaTrg Ozelot
+germ_wiesel_1_tow_shop;WaTrg Wiesel 1 A2 TOW
+germ_wiesel_1_tow_0;Lenkflugkörpersystem 1 A2 TOW, WaTrg Wiesel 1 A2 TOW
+germ_wiesel_1_tow_1;WaTrg Wiesel 1 A2 TOW
+germ_wiesel_1_tow_2;WaTrg Wiesel 1
+germ_wiesel_1_mk20_shop;WaTrg Wiesel 1 A4 MK
+germ_wiesel_1_mk20_0;Kanone, Maschinen-, 1 A4, WaTrg Wiesel 1 A4 MK
+germ_wiesel_1_mk20_1;WaTrg Wiesel 1 A4 MK
+germ_wiesel_1_mk20_2;WaTrg Wiesel 1
+germ_schutzenpanzer_puma_shop;SPz Puma S0
+germ_schutzenpanzer_puma_0;Panzer, Schützen, Vollkette, SPz Puma Konstruktionsstand S0
+germ_schutzenpanzer_puma_1;SPz Puma S0
+germ_schutzenpanzer_puma_2;SPz Puma
+germ_schutzenpanzer_puma_vjtf_shop;SPz Puma VJTF
+germ_schutzenpanzer_puma_vjtf_0;Panzer, Schützen, Vollkette, SPz Puma Konstruktionsstand VJTF
+germ_schutzenpanzer_puma_vjtf_1;SPz Puma VJTF
+germ_schutzenpanzer_puma_vjtf_2;SPz Puma
+germ_erprobungstrager_3_achs_turm_shop;ErprTrg (T III F)
+germ_erprobungstrager_3_achs_turm_0;Erprobungsträger mit dreiachsig stabilisierter Turm III F
+germ_erprobungstrager_3_achs_turm_1;ErprTrg (T III F)
+germ_erprobungstrager_3_achs_turm_2;ErprTrg
+germ_marder_1a1_shop;SPz Marder 1 A1 (–)
+germ_marder_1a1_0;Panzer, Schützen-, Vollkette A1, SPz Marder 1 A1 (–)
+germ_marder_1a1_1;SPz Marder 1 A1
+germ_marder_1a1_2;SPz Marder 1
+germ_apc_m113_0;MTW M 113
+germ_apc_m113_1;MTW M 113
+germ_apc_m113_2;MTW M 113
+germ_marder_1a3_shop;SPz Marder 1 A3
+germ_marder_1a3_0;Panzer, Schützen-, Vollkette A3, SPz Marder 1 A3
+germ_marder_1a3_1;SPz Marder 1 A3
+germ_marder_1a3_2;SPz Marder 1
+germ_leopard_2av_shop;KPz Leopard 2 AV (PT 19/T 19)
+germ_leopard_2av_0;Panzer, Kampf-, Vollkette mit Kanone 105 mm, KPz Leopard 2 AV (PT 19 mit T 19)
+germ_leopard_2av_1;KPz Leopard 2 AV
+germ_leopard_2av_2;KPz Leopard 2
+germ_sppz2_luchs_a2_shop;SpPz 2 A2 Luchs
+germ_sppz2_luchs_a2_0;Panzer, Späh-, Rad, Schwimm, 2 A2, SpPz 2 A2 Luchs
+germ_sppz2_luchs_a2_1;SpPz 2 A2 Luchs
+germ_sppz2_luchs_a2_2;SpPz 2

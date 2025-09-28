@@ -1,0 +1,212 @@
+<ID|readonly|noverify>;<NewLanguage>
+
+fr_destroyer_aigle_class_aigle_shop;Aigle
+fr_destroyer_aigle_class_aigle_0;Contre-torpilleur de la classe Aigle, Aigle (1942)
+fr_destroyer_aigle_class_aigle_1;Aigle
+fr_destroyer_aigle_class_aigle_2;Classe Aigle
+fr_cruiser_dugauy_class_dugauy_trouin_shop;Duguay-Trouin
+fr_cruiser_dugauy_class_dugauy_trouin_0;Croiseur léger de la classe Duguay-Trouin, Duguay-Trouin (1944)
+fr_cruiser_dugauy_class_dugauy_trouin_1;Duguay-Trouin
+fr_cruiser_dugauy_class_dugauy_trouin_2;Classe Duguay-Trouin
+
+fr_destroyer_jaguar_class_chacal_shop;Chacal
+fr_destroyer_jaguar_class_chacal_0;Contre-torpilleur de la classe Jaguar, Chacal (1938)
+fr_destroyer_jaguar_class_chacal_1;Chacal
+fr_destroyer_jaguar_class_chacal_2;Classe Jaguar
+fr_cruiser_dugauy_class_primaguet_shop;Primauguet
+fr_cruiser_dugauy_class_primaguet_0;Croiseur léger de la classe Duguay-Trouin, Primauguet
+fr_cruiser_dugauy_class_primaguet_1;Primauguet
+fr_cruiser_dugauy_class_primaguet_2;Classe Duguay-Trouin
+fr_cruiser_jeanne_darc_shop;Jeanne d'Arc
+fr_cruiser_jeanne_darc_0;Croiseur école Jeanne d'Arc (1943)
+fr_cruiser_jeanne_darc_1;Jeanne d'Arc
+fr_cruiser_jeanne_darc_2;Jeanne d'Arc
+fr_cruiser_suffren_class_colbert_shop;Colbert
+fr_cruiser_suffren_class_colbert_0;Croiseur lourd de la classe Suffren, Colbert (1942)
+fr_cruiser_suffren_class_colbert_1;Colbert
+fr_cruiser_suffren_class_colbert_2;Classe Suffren
+fr_destroyer_le_fantasque_class_le_malin_shop;Le Malin (X102)
+fr_destroyer_le_fantasque_class_le_malin_0;Contre-torpilleur de la classe Le Fantasque, Le Malin (X102) (1943)
+fr_destroyer_le_fantasque_class_le_malin_1;Le Malin
+fr_destroyer_le_fantasque_class_le_malin_2;Classe Le Fantasque
+fr_destroyer_jaguar_class_panthere_shop;Panthère
+fr_destroyer_jaguar_class_panthere_0;Contre-torpilleur de la classe Jaguar, Panthère
+fr_destroyer_jaguar_class_panthere_1;Panthère
+fr_destroyer_jaguar_class_panthere_2;Classe Jaguar
+fr_destroyer_aigle_class_vautour_shop;Vautour (X71)
+fr_destroyer_aigle_class_vautour_0;Contre-torpilleur de la classe Aigle, Vautour (X71)
+fr_destroyer_aigle_class_vautour_1;Vautour
+fr_destroyer_aigle_class_vautour_2;Classe Aigle
+fr_destroyer_bourrasque_class_bourrasque_shop;Bourrasque (T41)
+fr_destroyer_bourrasque_class_bourrasque_0;Torpilleur d'escadre de la classe Bourrasque, Bourrasque (T41)
+fr_destroyer_bourrasque_class_bourrasque_1;Bourrasque
+fr_destroyer_bourrasque_class_bourrasque_2;Classe Bourassque
+fr_destroyer_aigle_class_milan_shop;Milan (X113)
+fr_destroyer_aigle_class_milan_0;Contre-torpilleur de la classe Aigle, Milan (X113) (1942)
+fr_destroyer_aigle_class_milan_1;Milan
+fr_destroyer_aigle_class_milan_2;Classe Aigle
+fr_battleship_courbet_class_paris_shop;Paris
+fr_battleship_courbet_class_paris_0;Cuirasséde la classe Courbet, Paris (1939)
+fr_battleship_courbet_class_paris_1;Paris
+fr_battleship_courbet_class_paris_2;Classe Courbet
+fr_battleship_bretagne_class_lorraine_shop;Lorraine
+fr_battleship_bretagne_class_lorraine_0;Cuirassé de la classe Bretagne, Lorraine (1943)
+fr_battleship_bretagne_class_lorraine_1;Lorraine
+fr_battleship_bretagne_class_lorraine_2;Classe Bretagne
+fr_destroyer_jaguar_class_leopard_shop;Léopard
+fr_destroyer_jaguar_class_leopard_0;Contre-torpilleur de la classe Jaguar, Léopard (1942)
+fr_destroyer_jaguar_class_leopard_1;Léopard
+fr_destroyer_jaguar_class_leopard_2;Classe Jaguar
+fr_cruiser_emile_bertin_shop;Émile Bertin
+fr_cruiser_emile_bertin_0;Croiseur léger Émile Bertin (1942)
+fr_cruiser_emile_bertin_1;Émile Bertin
+fr_cruiser_emile_bertin_2;Émile Bertin
+fr_destroyer_marceau_class_marceau_shop;Marceau (D601)
+fr_destroyer_marceau_class_marceau_0;Contre-torpilleur Type 1936 A Mob, Marceau (D601)
+fr_destroyer_marceau_class_marceau_1;Marceau
+fr_destroyer_marceau_class_marceau_2;Contre-torpilleur Type 1936
+fr_cruiser_suffren_class_dupleix_shop;Dupleix
+fr_cruiser_suffren_class_dupleix_0;Croiseur lourd de la classe Suffren, Dupleix (1942)
+fr_cruiser_suffren_class_dupleix_1;Dupleix
+fr_cruiser_suffren_class_dupleix_2;Classe Suffren
+shop/group/fr_vtb_group;VTB 8 / VTB 11 / VTB 14
+fr_destroyer_hunt_3series_shop;La Combattante (L19)
+fr_destroyer_hunt_3series_0;Contre-torpilleur de la classe Hunt Type III, La Combattante (L19) (1944)
+fr_destroyer_hunt_3series_1;La Combattante
+fr_destroyer_hunt_3series_2;Classe Hunt
+fr_battleship_courbet_class_courbet_shop;Courbet
+fr_battleship_courbet_class_courbet_0;Cuirassé de la classe Courbet, Courbet (1920)
+fr_battleship_courbet_class_courbet_1;Courbet
+fr_battleship_courbet_class_courbet_2;Classe Courbet
+fr_destroyer_vauquelin_class_vauquelin_shop;Vauquelin
+fr_destroyer_vauquelin_class_vauquelin_0;Contre-torpilleur de la classe Vauquelin, Vauquelin (1941)
+fr_destroyer_vauquelin_class_vauquelin_1;Vauquelin
+fr_destroyer_vauquelin_class_vauquelin_2;Classe Vauquelin
+fr_destroyer_le_fantasque_class_le_triomphant_shop;Le Triomphant (X83)
+fr_destroyer_le_fantasque_class_le_triomphant_0;Contre-torpilleur de la classe Le Fantasque, Le Triomphant (X83) (1943)
+fr_destroyer_le_fantasque_class_le_triomphant_1;Le Triomphant
+fr_destroyer_le_fantasque_class_le_triomphant_2;Classe Le Fantasque
+fr_destroyer_desaix_class_kleber_shop;Kléber (D 603)
+fr_destroyer_desaix_class_kleber_0;Contre-torpilleur Type 1934 A, Kléber (D 603)
+fr_destroyer_desaix_class_kleber_1;Kléber
+fr_destroyer_desaix_class_kleber_2;Contre-torpilleur Type 1934
+fr_battleship_bretagne_class_bretagne_shop;Bretagne
+fr_battleship_bretagne_class_bretagne_0;Cuirassé de la classe Bretagne, Bretagne (1925)
+fr_battleship_bretagne_class_bretagne_1;Bretagne
+fr_battleship_bretagne_class_bretagne_2;Classe Bretagne
+fr_destroyer_bourrasque_class_tornade_shop;Tornade (T73)
+fr_destroyer_bourrasque_class_tornade_0;Torpilleur d'escadre de la classe Bourrasque, Tornade (T73) (1939)
+fr_destroyer_bourrasque_class_tornade_1;Tornade
+fr_destroyer_bourrasque_class_tornade_2;Classe Bourrasque
+fr_cruiser_chateaurenault_class_guichen_shop;Guichen (D607)
+fr_cruiser_chateaurenault_class_guichen_0;Croiseur léger de la classe Chateaurenault, Guichen (D607) (1954)
+fr_cruiser_chateaurenault_class_guichen_1;Guichen
+fr_cruiser_chateaurenault_class_guichen_2;Classe Chateaurenault
+fr_vlt2_shop;VLT 2
+fr_vlt2_0;Vedette lance torpille No. 2
+fr_vlt2_1;VLT 2
+fr_vlt2_2;Vedette lance torpille
+fr_vlt1_shop;VLT 1
+fr_vlt1_0;Vedette lance torpille No. 1 1
+fr_vlt1_1;VLT 1
+fr_vlt1_2;Vedette lance torpille
+fr_mtb96_vosper_shop;⚜ MTB 96
+fr_mtb96_vosper_0;⚜ MTB 96
+fr_mtb96_vosper_1;⚜ MTB 96
+fr_mtb96_vosper_2;72'6” Vosper
+fr_lcg_m_l9059_shop;No. 111 (L 9059)
+fr_lcg_m_l9059_0;No. 111 (L 9059)
+fr_lcg_m_l9059_1;No. 111
+fr_lcg_m_l9059_2;LCG
+fr_vtb8_shop;VTB 8
+fr_vtb8_0;Vedette rapide porte-torpilles, Vedette torpileur type B No. 8
+fr_vtb8_1;VTB 8
+fr_vtb8_2;Vedette Rapide Porte-Torpilles
+fr_vtb9_shop;VTB 9
+fr_vtb9_0;Vedette rapide porte-torpilles, Vedette torpileur type B No. 9
+fr_vtb9_1;VTB 9
+fr_vtb9_2;Vedette rapide porte-torpilles
+fr_type40k_vedette_shop;VTB 19
+fr_type40k_vedette_0;Vedette rapide de haute mer type 40K/2, Vedette torpilleur type B No. 19
+fr_type40k_vedette_1;VTB 19
+fr_type40k_vedette_2;Vedette type 40K
+fr_vtb11_shop;VTB 11
+fr_vtb11_0;Vedette rapide porte-torpilles, Vedette torpileur type B No. 11
+fr_vtb11_1;VTB 11
+fr_vtb11_2;Vedette rapide porte-torpilles
+fr_vtb13_shop;VTB 13
+fr_vtb13_0;Vedette rapide porte-torpilles, Vedette torpileur type B No. 13
+fr_vtb13_1;VTB 13
+fr_vtb13_2;Vedette rapide porte-torpilles
+fr_vtb14_shop;VTB 14
+fr_vtb14_0;Vedette rapide porte-torpilles, Vedette torpileur type B No. 14
+fr_vtb14_1;VTB 14
+fr_vtb14_2;Vedette rapide porte-torpilles
+fr_p730_combattante_shop;La Combattante (P 730)
+fr_p730_combattante_0;Patrouilleur La Combattante (P 730) (1965)
+fr_p730_combattante_1;La Combattante
+fr_p730_combattante_2;La Combattante
+fr_arras_class_arras_shop;Arras
+fr_arras_class_arras_0;Aviso de la classe Arras, Arras (1940)
+fr_arras_class_arras_1;Arras
+fr_arras_class_arras_2;Classe Arras
+fr_destroyer_mogador_class_mogador_shop;Mogador (X 61)
+fr_destroyer_mogador_class_mogador_0;Contre-torpilleur de la classe Mogador, Mogador (X 61) (1940)
+fr_destroyer_mogador_class_mogador_1;Mogador
+fr_destroyer_mogador_class_mogador_2;Classe Mogador
+fr_frigate_croix_de_lorraine_class_la_surprise_shop;La Surprise (F 08)
+fr_frigate_croix_de_lorraine_class_la_surprise_0;Frégate de la classe River, La Surprise (F 08)
+fr_frigate_croix_de_lorraine_class_la_surprise_1;La Surprise
+fr_frigate_croix_de_lorraine_class_la_surprise_2;Classe River
+fr_battleship_dunkerque_shop;Dunkerque
+fr_battleship_dunkerque_0;Cuirassé de la classe Dunkerque, Dunkerque (1939)
+fr_battleship_dunkerque_1;Dunkerque
+fr_battleship_dunkerque_2;Classe Dunkerque
+fr_cruiser_la_galissoniere_class_la_galissoniere_shop;La Galissonnière
+fr_cruiser_la_galissoniere_class_la_galissoniere_0;Croiseur léger de la classe La Galissonnière, La Galissonnière (1941)
+fr_cruiser_la_galissoniere_class_la_galissoniere_1;La Galissonnière
+fr_cruiser_la_galissoniere_class_la_galissoniere_2;Classse La Galissonnière
+fr_battleship_strasbourg_shop;Strasbourg
+fr_battleship_strasbourg_0;Cuirassé de la classe Dunkerque, Strasbourg (1942)
+fr_battleship_strasbourg_1;Strasbourg
+fr_battleship_strasbourg_2;Classe Dunkerque
+fr_marne_class_marne_shop;Marne
+fr_marne_class_marne_0;Aviso de la classe Marne, Marne (1920)
+fr_marne_class_marne_1;Marne
+fr_marne_class_marne_2;Classe Marne
+fr_flower_class_aconit_shop;Aconit (K 58)
+fr_flower_class_aconit_0;Corvette de la classe Flower, Aconit (K 58)
+fr_flower_class_aconit_1;Aconit
+fr_flower_class_aconit_2;Classe Flower
+fr_vtb12_mod_shop;VTB 12
+fr_vtb12_mod_0;Vedette rapide porte-torpilles, Vedette torpileur type B No. 12
+fr_vtb12_mod_1;VTB 12
+fr_vtb12_mod_2;Vedette rapide porte-torpilles
+fr_vtb18_shop;VTB 18
+fr_vtb18_0;Vedette rapide de haute mer type 40K/2, Vedette torpilleur type B No. 18
+fr_vtb18_1;VTB 18
+fr_vtb18_2;Vedette type 40K
+fr_arras_class_amiens_shop;Amiens
+fr_arras_class_amiens_0;Aviso de classe Arras, Amiens (1940)
+fr_arras_class_amiens_1;Amiens
+fr_arras_class_amiens_2;Classe Arras
+fr_battleship_richelieu_class_richelieu_shop;Richelieu
+fr_battleship_richelieu_class_richelieu_0;Cuirassé de classe Richeliu, Richelieu (1943)
+fr_battleship_richelieu_class_richelieu_1;Richelieu
+fr_battleship_richelieu_class_richelieu_2;Classe Richeliu
+fr_vtb10_shop;VTB 10
+fr_vtb10_0;Vedette rapide porte-torpilles, Vedette torpileur type B No. 10
+fr_vtb10_1;VTB 10
+fr_vtb10_2;Vedette rapide porte-torpilles
+fr_marne_class_aisne_shop;Aisne
+fr_marne_class_aisne_0;Aviso de la classe Marne, Aisne
+fr_marne_class_aisne_1;Aisne
+fr_marne_class_aisne_2;Classe Marne
+fr_cruiser_la_galissoniere_class_gloire_shop;Gloire
+fr_cruiser_la_galissoniere_class_gloire_0;Croiseur léger de la classe La Galissonnière, Gloire (1947)
+fr_cruiser_la_galissoniere_class_gloire_1;Gloire
+fr_cruiser_la_galissoniere_class_gloire_2;Classe La Galissonnière
+fr_adroit_class_shop;L'Intrépide
+fr_adroit_class_0;Escorteur Côtier de la classe L'Ardoit, L'Intrépide (P 630) (1965)
+fr_adroit_class_1;L'Intrépide
+fr_adroit_class_2;Classe L'Ardoit

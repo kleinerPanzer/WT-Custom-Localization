@@ -1,13 +1,23 @@
 <ID|readonly|noverify>;<NewLanguage>
+
+// Export
+
 aps/iron_fist;Iron Fist;
 aps/trophy_hv;TROPHY;
-aps/raam_segol;לוגס םער;
+sensors/il_paws_2;PAWS-2
+sensors/il_sps_20v;SPS-20V;
+
+// Air Systems
+
 sensors/il_el_m_2001b;EL/M-2001B;
 sensors/il_el_m_2032;EL/M-2032
 sensors/il_el_m_2052;EL/M-2052;
+
 sensors/il_elisra_sps_200;SPS-200;
 sensors/il_elisra_sps_3000;SPS-3000
+
+// Ground Systems
+
+aps/raam_segol;לוגס םער;
 sensors/il_machbet_optics;TV Tracker/FLIR;
-sensors/il_paws_2;PAWS-2
-sensors/il_sps_20v;SPS-20V;
 sensors/il_spyder_search;Extended Multi-Mission Hemispheric Radar;

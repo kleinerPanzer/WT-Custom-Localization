@@ -1,0 +1,146 @@
+<ID|readonly|noverify>;<NewLanguage>
+shop/group/it_m15_pz_3_group;M 42 / ⛨ Pz.Kpfw. III N
+shop/group/it_semovente_stug_group;Semovente 90/53 M 41M / ⛨ Sturmgeschütz G
+shop/group/it_semovente_m41_group;Semovente 75/18 M 41 / Semovente 75/32 M 41 / Semovente 75/34 M 42
+shop/group/it_semovente_m43_105_75_group;Semovente 105/25 M 43 / Semovente 75/34 M 43
+shop/group/it_m13_40_group;M 40 I / M 40 III
+it_as_42_47_shop;AS 42 (47/32)
+it_as_42_47_0;Camionetta AS 42 tipo II (47/32 Mod. 39)
+it_as_42_47_1;AS 42 (47/32)
+it_as_42_47_2;AS 42
+it_as_42_metropolitana_shop;AS 42 (Mod. 35)
+it_as_42_metropolitana_0;Camionetta AS 42 tipo II (Breda Mod. 35)
+it_as_42_metropolitana_1;AS 42 (Mod. 35)
+it_as_42_metropolitana_2;AS 42
+it_semovente_m43_75_46_shop;Semovente 75/46 M 43
+it_semovente_m43_75_46_0;Semovente da 75/46 M 43
+it_semovente_m43_75_46_1;Semovente 75/46 M 43
+it_semovente_m43_75_46_2;Semovente 75/46
+it_semovente_m41_75_32_shop;Semovente 75/32 M 41
+it_semovente_m41_75_32_0;Semovente da 75/32 M 41
+it_semovente_m41_75_32_1;Semovente 75/32 M 41
+it_semovente_m41_75_32_2;Semovente 75/32
+it_semovente_m41_75_18_shop;Semovente 75/18 M 41
+it_semovente_m41_75_18_0;Semovente da 75/18 M 41
+it_semovente_m41_75_18_1;Semovente 75/18 M 41
+it_semovente_m41_75_18_2;Semovente 75/18
+it_semovente_m43_75_bersaglieri_shop;Semovente 75/34 M 43 (III Rgt.Bers.)
+it_semovente_m43_75_bersaglieri_0;Semovente da 75/34 M 43 (III Reggimenti Bersaglieri di Alessandria)
+it_semovente_m43_75_bersaglieri_1;Semovente 75/34 M 43
+it_semovente_m43_75_bersaglieri_2;Semovente 75/34
+it_semovente_m42_75_34_shop;Semovente 75/34 M 42
+it_semovente_m42_75_34_0;Semovente da 75/34 M 42
+it_semovente_m42_75_34_1;Semovente 75/34 M 42
+it_semovente_m42_75_34_2;Semovente 75/34
+it_semovente_m43_75_34_shop;Semovente 75/34 M 43
+it_semovente_m43_75_34_0;Semovente da 75/34 M 43
+it_semovente_m43_75_34_1;Semovente 75/34 M 43
+it_semovente_m43_75_34_2;Semovente 75/34
+it_l6_leone_shop;L 40 (31º Rgt.Car.)
+it_l6_leone_0;Carro armato leggero 40 (31º Reggimento carri)
+it_l6_leone_1;L 40
+it_l6_leone_2;L 40
+it_l6_shop;L 40
+it_l6_0;Carro armato leggero 40
+it_l6_1;L 40
+it_l6_2;L 40
+it_semovente_m43_105_leoncello_shop;Semovente 105/25 M 43 (Gr.Cor.Leon.)
+it_semovente_m43_105_leoncello_0;Semovente da 105/25 M 43 (Gruppo corazzato “Leoncello”)
+it_semovente_m43_105_leoncello_1;Semovente 105/25 M 43
+it_semovente_m43_105_leoncello_2;Semovente 105/25
+it_semovente_m43_105_shop;Semovente 105/25 M 43
+it_semovente_m43_105_0;Semovente da 105/25 M 43
+it_semovente_m43_105_1;Semovente 105/25 M 43
+it_semovente_m43_105_2;Semovente 105/25
+it_semovente_m41m_90_shop;Semovente 90/53 M 41M
+it_semovente_m41m_90_0;Semovente da 90/53 M 41M
+it_semovente_m41m_90_1;Semovente 90/53 M 41M
+it_semovente_m41m_90_2;Semovente 90/53
+it_m13_40_serie_1_shop;M 40 I
+it_m13_40_serie_1_0;Carro armato medio 40 I serie
+it_m13_40_serie_1_1;M 40
+it_m13_40_serie_1_2;M 40
+it_m13_40_serie_2_shop;M 40 II
+it_m13_40_serie_2_0;Carro armato medio 40 II serie
+it_m13_40_serie_2_1;M 40
+it_m13_40_serie_2_2;M 40
+it_m13_40_serie_3_shop;M 40 III
+it_m13_40_serie_3_0;Carro armato medio 40 III serie
+it_m13_40_serie_3_1;M 40 III
+it_m13_40_serie_3_2;M 40
+it_m11_39_shop;M 39
+it_m11_39_0;Carro armato medio 39
+it_m11_39_1;M 39
+it_m11_39_2;M 39
+it_m14_41_47_40_shop;M 41 (47/40)
+it_m14_41_47_40_0;Carro armato medio 41 (47/40)
+it_m14_41_47_40_1;M 41
+it_m14_41_47_40_2;M 41
+it_pzkpfw_III_ausf_N_shop;⛨ Pz.Kpfw. III N
+it_pzkpfw_III_ausf_N_0;⛨ Panzerkampfwagen III (7,5 cm Kw.K. 37 (L/24)) Ausf. N (Mai 1943 Umbau)
+it_pzkpfw_III_ausf_N_1;⛨ Pz.Kpfw. III N
+it_pzkpfw_III_ausf_N_2;Pz.Kpfw. III
+it_pzkpfw_IV_ausf_G_shop;⛨ Pz.Kpfw. IV G
+it_pzkpfw_IV_ausf_G_0;⛨ Panzerkampfwagen IV (7,5 cm Kw.K. 40 (L/48)) Ausf. G (April 1943 Umbau)
+it_pzkpfw_IV_ausf_G_1;⛨ Pz.Kpfw. IV G
+it_pzkpfw_IV_ausf_G_2;Pz.kpfw. IV
+it_pzkpfw_VI_ausf_e_tiger_shop;⛨ Tiger I
+it_pzkpfw_VI_ausf_e_tiger_0;⛨ Panzerkampfwagen Tiger (8,8 cm) Ausf. E (April 1944 Produktion)
+it_pzkpfw_VI_ausf_e_tiger_1;⛨ Tiger I
+it_pzkpfw_VI_ausf_e_tiger_2;Tiger I
+it_stug_III_ausf_G_shop;⛨ Sturmgeschütz G
+it_stug_III_ausf_G_0;⛨ Sturmgeschütz III für 7,5 cm Stu.K. 40 L/48 Ausf. G (April 1943 Produktion)
+it_stug_III_ausf_G_1;⛨ Sturmgeschütz G
+it_stug_III_ausf_G_2;Sturmgeschütz G
+it_m14_41_shop;M 41
+it_m14_41_0;Carro armato medio 41
+it_m14_41_1;M 41
+it_m14_41_2;M 41
+it_m15_42_contraereo_shop;Semovente 20/70 M 42
+it_m15_42_contraereo_0;Semovente da 20/70 M 42
+it_m15_42_contraereo_1;Semovente 20/70 M 42
+it_m15_42_contraereo_2;Semovente 20/70
+it_sahariano_shop;Celere Sahariano
+it_sahariano_0;Carro armato medio Celere Sahariano
+it_sahariano_1;Celere Sahariano
+it_sahariano_2;Celere Sahariano
+it_m15_42_shop;M 42
+it_m15_42_0;Carro armato medio 42
+it_m15_42_1;M 42
+it_m15_42_2;M 42
+it_breda_52_autocannone_shop;Breda 52 90/53
+it_breda_52_autocannone_0;Semovente ruotato da 90/53 Breda 52
+it_breda_52_autocannone_1;Breda 52 90/53
+it_breda_52_autocannone_2;Breda 52
+it_semovente_breda_501_shop;Breda 501 90/53
+it_semovente_breda_501_0;Semovente ruotato da 90/53 Breda 501
+it_semovente_breda_501_1;Breda 501 90/53
+it_semovente_breda_501_2;Breda 501
+it_l3_cc_shop;L 33 CC
+it_l3_cc_0;Carro armato leggero 33 controcarro
+it_l3_cc_1;L 33 CC
+it_l3_cc_2;L 33
+it_lancia3ro_100_shop;3Ro (100/17)
+it_lancia3ro_100_0;100/17 su Lancia 3Ro
+it_lancia3ro_100_1;3Ro (100/17)
+it_lancia3ro_100_2;3Ro
+it_ab_41_shop;AB 41
+it_ab_41_0;Autoblinda 41
+it_ab_41_1;AB 41
+it_ab_41_2;AB 41
+it_ab_43_shop;AB 43
+it_ab_43_0;Autoblinda 43
+it_ab_43_1;AB 43
+it_ab_43_2;AB 43
+it_semovente_l40_shop;Semovente 47/32 L 40
+it_semovente_l40_0;Semovente da 47/32 L 40
+it_semovente_l40_1;Semovente 47/32 L 40
+it_semovente_l40_2;Semovente 47/32
+it_p_26_40_shop;P 40 (Gr.Cor.Leon.)
+it_p_26_40_0;Carro armato pesante 40 (Gruppo corazzato “Leoncello”)
+it_p_26_40_1;P 40
+it_p_26_40_2;P 40
+it_p_40_shop;P 40
+it_p_40_0;Carro armato pesante 40
+it_p_40_1;P 40
+it_p_40_2;P 40
