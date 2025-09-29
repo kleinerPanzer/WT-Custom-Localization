@@ -18,3 +18,49 @@ weapons/sw_880l_rp825_drop_tank_mirage_iiis;Réservoir Pendulaire RP 825 (730 L)
 weapons/sw_880l_rp825_drop_tank_mirage_iiis/short;RP 825
 weapons/fr_as30_switzerland;Flugzeug-Lenkwaffe Luft-Boden 66
 weapons/fr_as30_switzerland/short;Flz.Lwf. LB 66
+weapons/30mm_HSS_831L_user_cannon;30 mm HSS 831L;
+weapons/30mm_HSS_831A_user_cannon;30 mm HSS 831A;
+weapons/30mm_HSS_831L_Turm_user_cannon;30 mm HSS 831L;
+weapons/sws_oerlikon_oe82;8 cm Flugzeug-Rakete Oerlikon;
+weapons/sws_oerlikon_oe82/short; 8 cm Flz.Rak.;
+weapons/sws_flz_lwf_63_75;Flugzeug-Lenkwaffe Luft-Luft 63/75;
+weapons/sws_flz_lwf_63_75/short;Flz.Lwf. LL 63/75
+weapons/sws_flz_lwf_63_80;Flugzeug-Lenkwaffe Luft-Luft 63/80;
+weapons/sws_flz_lwf_63_80/short;Flz Lwf LL 63/80;
+weapons/sws_flz_lwf_63;Flugzeug-Lenkwaffe Luft-Luft 63;
+weapons/sws_flz_lwf_63/short;Flz.Lwf. LL 63;
+weapons/sws_50_kg_sprengbombe;50 kg Sprengbombe
+weapons/sws_50_kg_sprengbombe/short;50 kg Sprengbombe
+weapons/sws_200_kg_sprengbombe;200kg Sprengbombe;
+weapons/sws_200_kg_sprengbombe/short;200kg Sprengbombe;
+weapons/sws_400_kg_sprengbombe;400kg Sprengbombe;
+weapons/sws_400_kg_sprengbombe/short;400kg Sprengbombe;
+weapons/sws_450_kg_sprengbombe_68_70;450kg Sprengbombe m/68/70;
+weapons/sws_450_kg_sprengbombe_68_70/short;450kg Sprengbombe m/68/70;
+weapons/sws_flz_lwf_lb_82;Flz Lwf LB 82;
+weapons/sws_flz_lwf_lb_82/short;Flz Lwf LB 82;
+weapons/sws_80_mm_sura_fl_us3;Oerlikon Typ 80-US 3;
+weapons/sws_80_mm_sura_fl_us3/short;Typ 80-US 3;
+weapons/sws_80_mm_sura_fl_pi3;Oerlikon Typ 80-UI 3;
+weapons/sws_80_mm_sura_fl_pi3/short;Typ 80-UI 3;
+weapons/sws_80_mm_hs_r80_sura;Oerlikon Typ 80-P 3;
+weapons/sws_80_mm_hs_r80_sura/short;Typ 80-P 3;
+weapons/35mm_Oerlikon_KDE_user_cannon;35 mm Oerlikon KDA;
+weapons/35mm_Oerlikon_us_xm246_user_cannon;35 mm Oerlikon KDA
+weapons/35mm_Oerlikon_KDA_marksman_user_cannon;35 mm Oerlikon KDA;
+weapons/35mm_Oerlikon_KDA_user_cannon;35 mm Oerlikon KDA;
+35_228mm_he_i_t;DM 11A1;
+35_228mm_he_i_t_belt;DM 11A1;
+35_228mm_apds_t;DM 23;
+35_228mm_apds_t_belt;DM 23;
+35_228mm_aphe_i;DM 13;
+weapons/20mm_Oerlikon_KAD_B17_user_cannon;20 mm Oerlikon KAD;
+20mm_Oerlikon_AP/name;AP;
+20mm_Oerlikon_AP/name/short;AP;
+20mm_Oerlikon_HE/name;HE;
+20mm_Oerlikon_HE/name/short;HE;
+weapons/25mm_Oerlikon_KBA_Dardo_user_cannon;25 mm Oerlikon KBA B02;
+weapons/25mm_Oerlikon_KBA_Freccia_user_cannon;25 mm Oerlikon KBA B02;
+weapons/25mm_Oerlikon_KBA_user_cannon;25 mm Oerlikon KBA;
+weapons/cannonDEFA552A_switzerland;30 mm Flugzeug-Kanone 65
+weapons/cannonDEFA552A_switzerland/short;30 mm Flz.Kan. 65

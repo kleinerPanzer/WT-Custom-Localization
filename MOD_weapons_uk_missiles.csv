@@ -1,0 +1,20 @@
+<ID|readonly|noverify>;<NewLanguage>
+weapons/130mm_rapier_launcher_user_cannon;Rapier Launcher
+weapons/130mm_rapier_launcher_user_cannon/short;Rapier Launcher
+130mm_rapier_mk1e;Rapier Mk. 1E
+130mm_rapier_mk2;Rapier Mk. 2
+weapons/130mm_rapier_mk1e/short;Rapier Mk. 1E
+weapons/130mm_rapier_mk2/short;Rapier Mk. 2
+weapons/166mm_camm_user_cannon;Land Ceptor Launcher
+weapons/166mm_camm_user_cannon/short;Land Ceptor Launcher
+166mm_camm;CAMM
+166mm_camm_er;CAMM-ER
+weapons/130mm_Starstreak_hvm_rocket_launcher;Starstreak HVM;
+weapons/130mm_Starstreak_hvm_rocket_launcher/short;Starstreak HVM;
+130mm_starstreak_hvm;Starstreak HVM;
+weapons/170mm_bae_swingfire_rocket_launcher;Swingfire;
+weapons/170mm_bae_swingfire_rocket_launcher/short;Swingfire;
+weapons/170mm_bae_swingfire/short;Swingfire;
+weapons/170mm_bae_swingfire_fv102_rocket_launcher;Swingfire;
+weapons/170mm_bae_swingfire_fv102_rocket_launcher/short;Swingfire;
+170mm_bae_swingfire;Swingfire;

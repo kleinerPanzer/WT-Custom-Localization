@@ -1,6 +1,7 @@
 <ID|readonly|noverify>;<NewLanguage>
-
 weapons/su_45_36an_1939_torpedo;450-мм торпеда 45-36AН;
 weapons/su_45_36man_1952_torpedo;450-мм торпеда 45-36МAН;
 weapons/su_45_54vt_1954_torpedo;450-мм торпеда 45-54ВТ
 weapons/su_45_54vt_1954_torpedo/short;45-54ВТ
+weapons/su_45_36an_1939_torpedo/short;45-36AН;
+weapons/su_45_36man_1952_torpedo/short;45-36МAН;

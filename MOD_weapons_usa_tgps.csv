@@ -1,0 +1,21 @@
+<ID|readonly|noverify>;<NewLanguage>
+weapons/an_aaq_25_lantirn;AN/AAQ-25 LANTIRN;
+weapons/an_aaq_25_lantirn/short;AN/AAQ-25;
+weapons/us_agm_12b_station;AGM-12B (Targeting Pod);
+weapons/us_agm_12b_station/short;AGM-12B (TP);
+weapons/us_lana_flir_pod;AN/AAR-45 Low Altitude Night Attack;
+weapons/us_lana_flir_pod/short;AN/AAR-45 LANA;
+weapons/us_sniper_atp_targeting_pod;AN/AAQ-33 Sniper Advanced Targeting Pod
+weapons/us_sniper_atp_targeting_pod/short;AN/AAQ-33
+weapons/an_aas_38;FLIR/LD Pod, AN/AAS-38 NITE Hawk
+weapons/an_aas_38/short;AN/AAS-38
+weapons/an_aas_38a;FLIR/LD Pod, AN/AAS-38A NITE Hawk
+weapons/an_aas_38a/short;AN/AAS-38A
+weapons/an_aas_38b;FLIR/LD Pod, AN/AAS-38B NITE Hawk
+weapons/an_aas_38b/short;AN/AAS-38B
+weapons/an_asq_228_pod;Multipurpose FLIR Pod, AN/ASQ-228 ATFLIR
+weapons/an_asq_228_pod/short;AN/ASQ_228
+weapons/us_pave_spike_targeting_pod;AN/ASQ-153 Pave Spike;
+weapons/us_pave_spike_targeting_pod/short;AN/ASQ-153;
+weapons/us_pave_tack_targeting_pod;AN/AVQ-26 Pave Tack;
+weapons/us_pave_tack_targeting_pod/short;AN/AVQ-26;

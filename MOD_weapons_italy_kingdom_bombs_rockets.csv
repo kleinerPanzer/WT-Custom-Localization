@@ -1,11 +1,4 @@
 <ID|readonly|noverify>;<NewLanguage>
-
-weapons/gunBredaSAFAT127;Breda-SAFAT da 12,7 mm;
-weapons/gunBredaSAFAT127_turret;Breda-SAFAT da 12,7 mm;
-weapons/gunBredaSAFAT77;Breda-SAFAT da 7,7 mm;
-weapons/gunBredaSAFAT77_turret;Breda-SAFAT da 7,7 mm;
-weapons/gunScotti127_turret;Mitragliatrice Scotti-Isotta Fraschini da 12,7;
-weapons/cannonSAA;Cannone da 102/40 Mod. 14;
 weapons/it_250kg_gp;250 kg GP 250;
 weapons/it_150kg_ap;150 kg AP 160;
 weapons/it_100kg_m_vert;100 kg SAP 100;
@@ -25,3 +18,13 @@ weapons/it_630kg_ap;630 kg PD 630;
 weapons/it_630kg_ap/short;PD 630;
 weapons/it_250kg_napalm_aerea_559g1;250 kg Aerea 559G1;
 weapons/it_250kg_napalm_aerea_559g1/short;559G1;
+weapons/it_800kg_gp/short;GP 800;
+weapons/it_250kg_gp/short;GP 250;
+weapons/it_150kg_ap/short;AP 160;
+weapons/it_100kg_m_vert/short;SAP 100;
+weapons/it_100kg_m/short;SAP 100;
+weapons/it_100kg_t_vert/short;GP 100;
+weapons/it_100kg_t/short;GP 100;
+weapons/it_50kg_t/short;GP 50;
+weapons/it_50kg_t_vert/short;GP 50;
+weapons/it_500kg_gp/short;GP 500;

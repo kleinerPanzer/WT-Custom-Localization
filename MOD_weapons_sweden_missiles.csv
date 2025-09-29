@@ -1,0 +1,14 @@
+<ID|readonly|noverify>;<NewLanguage>
+weapons/swd_rb_05a;Robot 05A;
+weapons/swd_rb_05a/short;Rb 05A;
+weapons/164mm_s11_rocket_launcher;Robotsystem 52;
+weapons/164mm_s11_rocket_launcher/short;Rbs 52;
+weapons/127mm_IRIS_T_user_cannon;Robotsystem 98
+weapons/164mm_robot_52/short;Rb 52;
+weapons/130mm_Rbs_70B_rocket_launcher;Robotsystem 70B;
+weapons/130mm_Rbs_70B_rocket_launcher/short;Robotsystem 70B;
+130mm_rb_70b;Robot 70B;
+weapons/130mm_Rbs_70_rocket_launcher;Robotsystem 70;
+weapons/130mm_Rbs_70_rocket_launcher/short;Robotsystem 70;
+130mm_rb_70;Robot 70;
+164mm_robot_52;Robot 52;

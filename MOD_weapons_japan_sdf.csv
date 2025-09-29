@@ -17,3 +17,15 @@ weapons/jp_asm2;ASM-2
 weapons/jp_asm2/short;ASM-2
 weapons/120mm_TKG_user_cannon;10式120mm戦車砲;
 120mm_type_10;10式120mm装弾筒付翼安定徹甲弾;
+weapons/155mm_type_99_l52_user_cannon;99式52口径155mm榴弾砲;
+weapons/155mm_NSJ_L30_user_cannon;75式30口径155mm榴弾砲;
+155mm_type75;75式;
+160mm_sam_1c;81式短距離地対空誘導弾(C) (光波弾);
+160mm_sam_arh_1c;81式短距離地対空誘導弾(C) (電波弾);
+weapons/160mm_sam_1c/short;SAM-1(C) (光波弾)
+weapons/160mm_sam_1c_launcher_user_cannon;81式短距離地対空誘導弾発射装置;
+weapons/160mm_sam_1c_slave_launcher_user_cannon;81式短距離地対空誘導弾発射装置;
+weapons/120mm_type_64_mat_launcher_user_cannon;64式対戦車誘導弾;
+weapons/120mm_type_64_mat_launcher_user_cannon/short;64式対戦車誘導弾;
+120mm_type64;64式対戦車誘導弾;
+weapons/120mm_type64/short;ATM-1;

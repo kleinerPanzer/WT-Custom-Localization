@@ -1,0 +1,19 @@
+<ID|readonly|noverify>;<NewLanguage>
+weapons/su_kh_23m;Управляемая ракета «воздух-поверхность» Х-23М;
+weapons/su_kh_23m/short;Р «В-П» Х-23М;
+weapons/su_kh_66;Управляемая ракета «воздух-поверхность» Х-66;
+weapons/su_kh_66/short;Р «В-П» Х-66;
+weapons/su_kh_25;Управляемая ракета «воздух-поверхность» Х-25;
+weapons/su_kh_25/short;Р «В-П» Х-25;
+weapons/su_kh_25_haslaserchannel;Управляемая ракета «воздух-поверхность» Х-25;
+weapons/su_kh_25_haslaserchannel/short;Р «В-П» Х-25;
+weapons/su_kh_29l;Управляемая ракета «воздух-поверхность» Х-29Л;
+weapons/su_kh_29l/short;Р «В-П» Х-29Л;
+weapons/su_grom_1;Х-36 Гром-1
+weapons/su_grom_1/short;Х-36 Гром-1
+weapons/su_grom_2;Х-36 Гром-1
+weapons/su_grom_2/short;Х-36 Гром-1
+weapons/su_kh_25mr;Управляемая ракета «воздух-поверхность» Х-25МР;
+weapons/su_kh_25mr/short;Р «В-П» Х-25МР;
+weapons/su_kh_29l_notlaserchannel;Управляемая ракета «воздух-поверхность» Х-29Л;
+weapons/su_kh_29l_notlaserchannel/short;Р «В-П» Х-29Л;

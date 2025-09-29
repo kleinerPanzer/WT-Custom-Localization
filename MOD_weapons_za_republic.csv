@@ -10,3 +10,8 @@ weapons/20mm_GI_2_user_cannon;20 mm GI2;
 weapons/35mm_GA_35_user_cannon;35 mm GA35;
 weapons/105mm_GT3B_user_cannon;105 mm GT3B;
 76mm_gt4_he;HE;
+weapons/7_62mm_Browning_MG4_user_machinegun;7.62 mm L3;
+weapons/155mm_G6_L45_user_cannon;155 mm G5-45 Howitzer;
+155mm_m1;M1;
+155mm_m1_pf;M1 (PF);
+155mm_g6_smoke;Smoke;

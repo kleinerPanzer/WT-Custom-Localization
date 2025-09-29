@@ -1,0 +1,34 @@
+<ID|readonly|noverify>;<NewLanguage>
+weapons/gunMAC34;7,5 mm Mitrailleuse d'Aviation MAC modèle 1934;
+weapons/gunMAC34_turret;7,5 mm Mitrailleuse d'Aviation MAC modèle 1934;
+weapons/gunMAC34T_turret;7,5 mm Mitrailleuse d'Aviation MAC modèle 1934T;
+weapons/gunDarne23;7,5 mm Mitrailleuse légère Darne modèle 1923;
+weapons/gunDarne23_turret;7,5 mm Mitrailleuse légère Darne modèle 1923;
+weapons/cannonHispano_hs9;20 mm Hispano-Suiza Tipo HS.9;
+weapons/cannonHispano_hs825;30 mm Hispano-Suiza Tipo HS.825;
+weapons/cannonHispano_hs825/short;HS.825;
+weapons/gunDarne33;7,5 mm Mitrailleuse Darne modèle 1933;
+weapons/cannonGLAT_M621;20 mm GIAT M621;
+weapons/cannonGLAT_M791;30 mm GIAT M791;
+weapons/gunMAC39;7,5 mm Mitrailleuse d'Aviation MAC modèle 1934 modifié 39;
+weapons/gunMAC39_turret;7,5 mm Mitrailleuse d'Aviation MAC modèle 1934 modifié 39;
+weapons/105mm_CN_105_57_user_cannon;Canon de 105 mm modèle 57
+weapons/8mm_Hotchkiss_Mle1914_user_machinegun;8 mm Hotchkiss modèle 1914;
+weapons/12_7mm_M2_HB_user_machinegun_for_leclerc;Mitrailleuse de 12,7 mm M2 HB CRC modèle F1
+weapons/105mm_M_51_user_cannon;Canon de 105 mm D.1508;
+weapons/25mm_cn25_m811_user_cannon;Canon-Mitrailleur de 25 mm
+weapons/cannonGIAT_type_30_M781;30 mm GIAT M781;
+weapons/cannonGIAT_type_30_M781/short;M781;
+weapons/cannonDEFA541;30 mm DEFA 541;
+weapons/cannonDEFA551;30 mm DEFA 551;
+weapons/cannonDEFA552;30 mm DEFA 552;
+weapons/cannonDEFA552A;30 mm DEFA 552A;
+weapons/cannonDEFA553;30 mm DEFA 553;
+weapons/cannonDEFA553_gunpod;30 mm DEFA 553;
+weapons/cannonDEFA553_gunpod/short;DEFA 553;
+weapons/cannonDEFA554;30 mm DEFA 554;
+weapons/cannonDEFA554/short;30 mm DEFA 554;
+weapons/cannonDEFA554_gunpod;30 mm DEFA 554;
+weapons/cannonDEFA554_gunpod/short;DEFA 554;
+weapons/gunMle33;7,5 mm Mitrailleuse Darne modèle 1933;
+weapons/gunMle33_turret;7,5 mm Mitrailleuse Darne modèle 1933;

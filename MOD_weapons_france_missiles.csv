@@ -1,0 +1,22 @@
+<ID|readonly|noverify>;<NewLanguage>
+weapons/fr_aj_168;AJ.168 Martel;
+weapons/fr_aj_168/short;AJ.168;
+weapons/fr_as20;AS.20;
+weapons/fr_as20/short;AS.20;
+weapons/fr_as30;AS.30;
+weapons/fr_as30/short;AS.30;
+weapons/fr_as30l;AS.30L;
+weapons/fr_as30l/short;AS.30L;
+weapons/gr_as34_kormoran;AS.34 Kormoran;
+weapons/gr_as34_kormoran/short;AS.34;
+weapons/136mm_mephisto_launcher_user_cannon;HOT;
+weapons/136mm_HOT_rocket_launcher;HOT;
+weapons/136mm_HOT_rocket_launcher/short;HOT;
+weapons/380mm_aster_30_user_cannon;Eurosam SAMP/T Vertical Launcher
+weapons/380mm_aster_30_user_cannon/short;SAMP/T VL
+380mm_aster_30;Aster 30
+weapons/90mm_atam_mistral_rocket_launcher;Mistral SATCP;
+weapons/90mm_atam_mistral_rocket_launcher/short;Mistral SATCP;
+weapons/90mm_atam_mistral_user_cannon;Mistral SATCP;
+weapons/90mm_atam_mistral_user_cannon/short;Mistral SATCP;
+atam_mistral;Mistral SATCP;

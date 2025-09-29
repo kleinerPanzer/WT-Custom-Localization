@@ -1,0 +1,11 @@
+<ID|readonly|noverify>;<NewLanguage>
+weapons/uk_pgm_500;PGM 500;
+weapons/uk_pgm_500/short;PGM 500;
+weapons/uk_pgm_2000;PGM 2000;
+weapons/uk_pgm_2000/short;PGM 2000;
+weapons/uk_pgm_500_iir;PGM 500/3
+weapons/uk_pgm_500_iir/short;PGM 500/3
+weapons/uk_pgm_2000_iir;PGM 2000/3
+weapons/uk_pgm_2000_iir/short;PGM 2000/3
+weapons/uk_paveway_iv;Paveway IV
+weapons/uk_paveway_iv/short;Paveway IV

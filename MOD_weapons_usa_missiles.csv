@@ -1,0 +1,40 @@
+<ID|readonly|noverify>;<NewLanguage>
+weapons/us_2000lb_agm_130a;AGM-130A;
+weapons/us_2000lb_agm_130a/short;AGM-130A;
+weapons/us_2000lb_agm_130a_12;AGM-130A-12;
+weapons/us_2000lb_agm_130a_12/short;AGM-130A-12;
+weapons/us_agm_123;AGM-123A Skipper II;
+weapons/us_agm_123/short;AGM-123A;
+weapons/us_agm_119a_penguin;AGM-119A Penguin
+weapons/us_agm_119a_penguin/short;AGM-119A
+weapons/us_agm_62a_er;AGM-62A Walleye I ER;
+weapons/us_agm_62a_er/short;AGM-62A ER;
+weapons/us_agm_62a;AGM-62A Walleye I;
+weapons/us_agm_62a/short;AGM-62A;
+weapons/us_agm_62a_2_erdl;AGM-62A Walleye I ERDL;
+weapons/us_agm_62a_2_erdl/short;AGM-62A ER/DL
+weapons/us_agm_12b_bullpup;AGM-12B Bullpup;
+weapons/us_agm_12b_bullpup/short;AGM-12B;
+weapons/us_agm_12b_bullpup_heli;AGM-12B Bullpup;
+weapons/us_agm_12b_bullpup_heli/short;AGM-12B;
+weapons/us_agm_12c_bullpup;AGM-12C Bullpup;
+weapons/us_agm_12c_bullpup/short;AGM-12C;
+weapons/dra_lau_105a_aim_9l_lm;AIM-9L Sidewinder;
+weapons/dra_lau_105a_aim_9l_lm/short;AIM-9L;
+weapons/dra_lau_105a_aim_9l_rm;AIM-9L Sidewinder;
+weapons/dra_lau_105a_aim_9l_rm/short;AIM-9L;
+152mm_mgm_61b;MGM-51B;
+weapons/152mm_mgm_61b/short;MGM-51B;
+weapons/152mm_MIM146;Mobile Intercept-Aerial Guided Missile, MIM-146A;
+weapons/152mm_mim146/short;MIM-146A;
+152mm_mim146;MIM-146A;
+127mm_mim72a;MIM-72A;
+weapons/127mm_mim72a/short;MIM-72A;
+127mm_mim72c;MIM-72C;
+127mm_mim72g;MIM-72G;
+127mm_mim72e;MIM-72E;
+weapons/127mm_MIM_72_launcher_user_cannon;Guided Missile System, Aerial-Intercept, M54A2;
+weapons/127mm_MIM_72_launcher_user_cannon/short;M54A2;
+weapons/127mm_MIM_72G_launcher_user_cannon;Guided Missile System, Aerial-Intercept, M54A2;
+weapons/127mm_MIM_72G_launcher_user_cannon/short;M54A2;
+152mm_mim14;MIM-146;

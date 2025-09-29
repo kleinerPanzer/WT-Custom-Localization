@@ -1,0 +1,13 @@
+<ID|readonly|noverify>;<NewLanguage>
+weapons/de_br20;Wurfgranate 21;
+weapons/de_r4m_pb2_rocket;Panzerblitz II;
+weapons/de_rz65_rocket;RZ 65;
+weapons/de_r4m_orkan_rocket;Rakete, 4 Kilogramm, Minenkopf;
+weapons/158mm_NB_Wf_41_rocket_launcher;15 cm Nebelwerfer 41;
+weapons/de_rz65_rocket/short;RZ 65;
+weapons/de_r4m_orkan_rocket/short;R4M;
+weapons/de_br20/short;Wurfgranate 21;
+weapons/de_r4m_pb2_rocket/short;Pzb. II;
+weapons/158mm_NB_Wf_41_rocket_launcher/short;15 cm Wurfgranate 41;
+weapons/152mm_wgr_41/short;W.Gr. 41
+152mm_wgr_41;Wurfgranate 41;

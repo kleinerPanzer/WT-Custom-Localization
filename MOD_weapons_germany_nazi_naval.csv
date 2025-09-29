@@ -1,0 +1,10 @@
+<ID|readonly|noverify>;<NewLanguage>
+weapons/de_f5w_torpedo;45 cm F5w;
+weapons/de_450_torpedo_f5b;45 cm F5b;
+weapons/de_450_torpedo_f5b/short;F5b;
+weapons/de_f5w_torpedo/short;F5w;
+weapons/depth_charge_de_wbf;Wasserbombe WBF;
+weapons/depth_charge_de_wbf/short;WBF;
+weapons/de_533_g7e_t5a_torpedo;533 mm G7e TVa
+weapons/de_533_g7e_t5a_torpedo/short;G7e TVa
+weapons/depth_charge_de_wbg;Wasserbombe WBG;

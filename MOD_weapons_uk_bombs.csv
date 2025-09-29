@@ -1,0 +1,83 @@
+<ID|readonly|noverify>;<NewLanguage>
+weapons/fr_mk18;Bomb, HE MC, 1000-lb, Mk. 18 (LGB Paveway);
+weapons/fr_mk18/short;1000-lb Mk. 18 (Paveway);
+weapons/fr_mk13;Bomb, HE MC, 1000-lb, Mk. 13 (LGB Paveway);
+weapons/fr_mk13/short;1000-lb Mk. 13 (Paveway);
+weapons/uk_230lbs;Bomb, HE, RFC, 230 lb, Mk. III
+weapons/uk_230lbs/short;230 lb Mk. III
+weapons/uk_250lbs;Bomb, GP, 250 lb, Mk. IV;
+weapons/uk_250lbs_43;Bomb, GP, 250 lb, Mk. IV;
+weapons/uk_500lbs;Bomb, GP, 500 lb, Mk. IV;
+weapons/uk_500lbs_default;Bomb, GP, 500 lb, Mk. IV;
+weapons/uk_500lbs_default/short;500 lb Mk. IV;
+weapons/uk_500lb_as_mk4;Bomb, HE, Aircraft, AS, 500 lb, Mk. IV;
+weapons/uk_500lb_as_mk4/short;500 lb Mk. IV;
+weapons/uk_540lbs;Bomb, HE, MC, 540 lb, Mk. I;
+weapons/uk_540lbs/short;540 lb Mk. I;
+weapons/uk_540lb_mc_mk2_retarded;Bomb, HE, MC 540 lb, Mk. I (Tail Unit, No. 118)
+weapons/uk_540lb_mc_mk2_retarded/short;540 lb Mk. I (No. 118);
+weapons/uk_250lbs_default;Bomb, GP, 250 lb, Mk. IV;
+weapons/uk_250lbs_default/short;250 lb Mk. IV;
+weapons/uk_500lbs_43_default;Bomb, GP, 500 lb, Mk. IV;
+weapons/uk_500lbs_43_default/short;500 lb Mk. IV;
+weapons/uk_500lb_sap_mkII_ap;Bomb, HE, SAP, 500 lb, Mk. II;
+weapons/uk_500lb_sap_mkII_ap/short;500 lb Mk. II;
+weapons/uk_2000lb_ap_mkI;Bomb, HE, AP, 2000 lb, Mk. I;
+weapons/uk_2000lb_ap_mkI/short;2000 lb Mk. I:
+weapons/uk_mk2_cookie;Bomb, HC, 4000 lb, Mk. II;
+weapons/uk_1000lb_ld_he_mc_mk_1;Bomb, LD, HE, MC, 1000 lb, Mk. I;
+weapons/uk_1000lb_ld_he_mc_mk_1/short;1000 lb Mk. I;
+weapons/uk_1000lbs_gp;Bomb, GP, 1000 lb, Mk. 13;
+weapons/uk_1000lbs_gp_mk1;Bomb, GP, 1000 lb, Mk. I;
+weapons/uk_1000lbs_gp_default;Bomb, GP, 1000 lb, Mk. 13;
+weapons/uk_1000lbs_gp_default/short;1000 lb Mk. 13;
+weapons/uk_1000lbs_gp_n117;Bomb, GP, 1000 lb, Mk. 13 (Tail Unit, No. 117);
+weapons/uk_1000lbs_gp_n117/short;1000 lb Mk. 13 (No. 117);
+weapons/uk_1000lbs_mc_mk1;Bomb, MC, 1000 lb, Mk. I;
+weapons/uk_500lb_he_mc_mk2;Bomb, HE, MC, 500 lb, Mk. II;
+weapons/uk_500lb_he_mc_mk2/short;500 lb Mk. II;
+weapons/uk_250lbs_late;Bomb, GP, 250 lb, Mk. IV;
+weapons/uk_500lbs_43;Bomb, GP, 500 lb, Mk. IV;
+weapons/uk_250lbs_mc_mk1_mk2_bomb;Bomb, MC, 250 lb, Mk. I;
+weapons/uk_250lbs_mc_mk1_mk2_bomb/short;250 lb Mk. I;
+weapons/uk_250lbs_mc_mk1_mk2_bomb_default;Bomb, MC, 250 lb, Mk. I;
+weapons/uk_250lbs_mc_mk1_mk2_bomb_default/short;250 lb Mk. I;
+weapons/uk_500lb_mc_mk1_mk4_long_tail_bomb;Bomb, MC, 500 lb, Mk. I;
+weapons/uk_500lb_mc_mk1_mk4_long_tail_bomb/short;500 lb Mk. I;
+weapons/uk_1000lbs_mc_mk1_mk2_bomb;Bomb, MC, 1000 lb, Mk. I;
+weapons/uk_1000lbs_mc_mk1_mk2_bomb/short;1000 lb Mk. I;
+weapons/uk_520lb_herl_mk_1_n;Bomb, HERL, Aircraft, 520 lb, Mk. IN
+weapons/uk_520lb_herl_mk_1_n/short;520 lb Mk. IN
+weapons/uk_1650lb_sn_he;Bomb, SNHE, Aircraft, 1650 lb
+weapons/uk_1650lb_sn_he/short;1650 lb
+weapons/uk_250lbs/short;250 lb Mk. IV;
+weapons/uk_250lbs_43/short;250 lb Mk. IV;
+weapons/uk_250lbs_late/short;250 lb Mk. IV;
+weapons/us_500lb_anm64a1_rod/short;500-lb AN/M64A1;
+weapons/us_1000lb_anm65a1_rod/short;1000-lb AN/M65A1;
+weapons/uk_500lbs/short;500 lb Mk. IV;
+weapons/uk_500lbs_43/short;500 lb Mk. IV;
+weapons/uk_1000lbs_gp/short;1000 lb Mk. 13;
+weapons/uk_1000lbs_gp_mk1/short;1000 lb Mk. I;
+weapons/uk_1000lbs_mc_mk1/short;1000 lb Mk. I;
+weapons/uk_mk2_cookie/short;4000 lb Mk. II;
+weapons/uk_12000lb_hc_mkI_n52_bomb;Bomb, HC, 12000 lb, Mk. I;
+weapons/uk_12000lb_hc_mkI_n52_bomb/short;12000 lb Mk. I
+weapons/uk_12000lb_hc_mkI_n33_bomb;Bomb, HC, 12000 lb, Mk. I;
+weapons/uk_12000lb_hc_mkI_n33_bomb/short;12000 lb Mk. I
+weapons/uk_8000lb_hc_mkI_n52_bomb;Bomb, HC, 8000 lb, Mk. II;
+weapons/uk_8000lb_hc_mkI_n52_bomb/short;8000 lb Mk. II
+weapons/uk_8000lb_hc_mkI_n33_bomb;Bomb, HC, 8000 lb, Mk. II;
+weapons/uk_8000lb_hc_mkI_n33_bomb/short;4000 lb Mk. II
+weapons/uk_4000lb_mc_mk1_mk2_bomb;Bomb, MC, 4000 lb, Mk. II;
+weapons/uk_4000lb_mc_mk1_mk2_bomb/short;4000 lb Mk. II
+weapons/uk_4000lb_hc_mk4_bomb;Bomb, HC, 4000 lb, Mk. IV;
+weapons/uk_4000lb_hc_mk4_bomb/short;4000 lb Mk. IV;
+weapons/uk_4000lb_hc_mk3_bomb;Bomb, HC, 4000 lb, Mk. III;
+weapons/uk_4000lb_hc_mk3_bomb/short;4000 lb Mk. III;
+weapons/uk_4000lb_hc_mk2_bomb;Bomb, HC, 4000 lb, Mk. II;
+weapons/uk_4000lb_hc_mk2_bomb/short;4000 lb Mk. II;
+weapons/uk_4000lb_hc_mk1_bomb;Bomb, HC, 4000 lb, Mk. I;
+weapons/uk_4000lb_hc_mk1_bomb/short;4000 lb Mk. I;
+weapons/uk_4000lb_gp_mk1_mk2_bomb;Bomb, HC, 4000 lb, Mk. II;
+weapons/uk_4000lb_gp_mk1_mk2_bomb/short;4000 lb Mk. II;

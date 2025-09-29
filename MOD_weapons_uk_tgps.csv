@@ -1,0 +1,11 @@
+<ID|readonly|noverify>;<NewLanguage>
+weapons/uk_data_lin_pod;Data-link Pod;
+weapons/uk_data_lin_pod/short;DL Pod;
+weapons/uk_tiald_targeting_pod;Thermal Imaging Airborne Laser Designator;
+weapons/uk_tiald_targeting_pod/short;TIALD;
+weapons/uk_atlis2_targeting_pod;Automatic Tracking and Laser Integration System II;
+weapons/uk_atlis2_targeting_pod/short;ATLIS II;
+weapons/gr_litening_pod_targeting_pod;LITENING II Advanced Targeting Pod;
+weapons/gr_litening_pod_targeting_pod/short;LITENING II;
+weapons/gr_litening_iii_targeting_pod;LITENING III Advanced Targeting Pod;
+weapons/gr_litening_iii_targeting_pod/short;LITENING III

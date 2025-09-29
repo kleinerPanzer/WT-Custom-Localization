@@ -1,0 +1,18 @@
+<ID|readonly|noverify>;<NewLanguage>
+weapons/us_mk13_torpedo;22.5” Torpedo Mk 13 Mod 7;
+weapons/us_mk13_torpedo_tutorial;22.5” Torpedo Mk 13 Mod 7;
+weapons/us_mk13_torpedo_no_case;22.5” Torpedo Mk 13 Mod 3;
+weapons/us_mk13_mod1;22.5” Torpedo Mk 13 Mod 1;
+weapons/us_mk13_mod1/short;Mk 13 Mod 1;
+weapons/us_mk13_torpedo_weak;22.5” Torpedo Mk 13 Mod 3;
+weapons/us_mk13_torpedo_weak/short;Mk 13 Mod 3;
+weapons/us_mk13_torpedo_no_case/short;Mk 13 Mod 3;
+weapons/us_mk13_torpedo/short;Mk 13 Mod 7;
+weapons/us_mk13_torpedo_tutorial/short;Mk 13 Mod 7;
+weapons/uk_mk12_torpedo/short;Mk 12 Mod 0;
+weapons/depth_charge_mk_9_mortar;Depth Charge Mk 9 Mod 0;
+weapons/depth_charge_mk_9_mortar/short;Mk 9 Mod 0;
+weapons/depth_charge_mk_9;Depth Charge Mk 9 Mod 0;
+weapons/depth_charge_mk_9/short;Mk 9 Mod 0;
+weapons/us_450mm_mk7_torpedo;18” Torpedo Mk 7 Mod 0;
+weapons/us_450mm_mk7_torpedo/short;Mk 7 Mod 0;

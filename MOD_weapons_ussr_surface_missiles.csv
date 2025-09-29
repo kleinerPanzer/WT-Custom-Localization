@@ -1,0 +1,52 @@
+<ID|readonly|noverify>;<NewLanguage>
+
+weapons/180mm_2k4_rocket_launcher;Противотанковая управляемая ракета 3М7 (ТКБ-574);
+weapons/180mm_2k4_launcher_user_cannon;ПУ 3М7 для «Дракон»;
+weapons/180mm_2k4_rocket_launcher/short;ПТУР 3М7;
+weapons/180mm_3m7/short;ПТУР 3М7;
+239mm_9m331;ЗУР 9М331;
+weapons/239mm_9m331/short;ЗУР 9М331;
+209mm_9m33m3;Зенитная управляемая ракета 9М33М3;
+weapons/209mm_9m33m3/short;ЗУР 9М33М3;
+weapons/170mm_57E6_rocket_launcher;ПУ 95Я6;
+weapons/170mm_57E6_rocket_launcher/short;ПУ 95Я6;
+weapons/170mm_57E6/short;ЗУР 95Я6;
+170mm_zur_95ya6;ЗУР 95Я6;
+weapons/360mm_9m317m_user_cannon;ПУ 9П311М
+weapons/360mm_9m317m_user_cannon/short;ПУ 9П311М
+360mm_9m317ma;ЗУР 9М317МА
+weapons/130mm_9M114_rocket_launcher;ПУ 9М114 для «Штурм-С»;
+weapons/130mm_9M114_rocket_launcher/short;ПУ 9М114 для «Штурм-С»;
+weapons/130mm_9m114/short;ПТУР 9М114;
+weapons/130mm_9M120_rocket_launcher;ПУ 9М120 для «Штурм-С»;
+weapons/130mm_9M120_rocket_launcher/short;ПУ 9М120 для «Штурм-С»;
+weapons/130mm_9m120/short;ПТУР 9М120;
+152mm_9m133fm_3;УР 9М133ФМ;
+weapons/152mm_9m133fm_3/short;УР 9М133ФМ;
+152mm_9m133;ПТУР 9М133;
+weapons/152mm_9m133/short;ПТУР 9М133;
+152mm_9m123;ПТУР 9М123;
+weapons/152mm_9m123/short;ПТУР 9М123;
+152mm_9m123f;УР 9М123Ф;
+weapons/152mm_9m123f/short;УР 9М123Ф;
+130mm_9m114;ПТУР 9М114 «Штурм»;
+130mm_9m120;ПТУР 9М120 «Атака»;
+130mm_9m120f_1;УР 9М120Ф-1 «Атака-Ф1»;
+weapons/130mm_9m120f_1/short;УР 9М120Ф-1;
+130mm_9m220o;ЗУР 9М220O;
+weapons/130mm_9m220o/short;ЗУР 9М220O;
+180mm_3m7;ПТУР 3М7 (ТКБ-574);
+120mm_9m37m;ЗУР 9М37М;
+weapons/120mm_9m37m/short;ЗУР 9М37М;
+152mm_zur_9m311;ЗУР 9М311;
+152mm_zur_9m311_1m;ЗУР 9М311-1М;
+weapons/152mm_9M133_launcher_user_cannon;ПУ 9М133 для «Бережок»;
+weapons/152mm_9M123_launcher_user_cannon;ПУ 9М123 для «Хризантема»;
+weapons/120mm_9m37m_rocket_launcher;ПУ 9М37М для «Стрела-10М2»;
+weapons/120mm_9m37m_rocket_launcher/short;ПУ 9М37М для «Стрела-10М2»;
+weapons/152mm_9M311_1M_rocket_launcher;ПУ 9М311-1М для «Тунгуска-М1»;
+weapons/152mm_9M311_1M_rocket_launcher/short;ПУ 9М311-1М для «Тунгуска-М1»;
+weapons/152mm_9M311_rocket_launcher;ПУ 9М311 для «Тунгуска»;
+weapons/152mm_9M311_rocket_launcher/short;ПУ 9М311 для «Тунгуска»;
+weapons/152mm_9M311/short;ЗУР 9М311;
+weapons/152mm_zur_9m311_1m/short;ЗУР 9М311-1М;

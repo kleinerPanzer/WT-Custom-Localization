@@ -1,0 +1,35 @@
+<ID|readonly|noverify>;<NewLanguage>
+weapons/il_fastpack_f_16i_right;Conformal Fuel Tank;
+weapons/il_fastpack_f_16i_right/short;CFT
+weapons/il_fastpack_f_16i_left;Conformal Fuel Tank;
+weapons/il_fastpack_f_16i_left/short;CFT
+weapons/il_600_gal_fuse_f_4;600 gal. Drop Tank;
+weapons/il_600_gal_fuse_f_4/short;Drop Tank;
+weapons/il_880l_rp825_drop_tank_1;Réservoir Pendulaire RP 825 (880 L);
+weapons/il_880l_rp825_drop_tank_1/short;RP 825;
+weapons/il_880l_rp825_drop_tank_2;Réservoir Pendulaire RP 825 (880 L);
+weapons/il_880l_rp825_drop_tank_2/short;RP 825;
+weapons/il_880l_rp825_drop_tank_3;Réservoir Pendulaire RP 825 (880 L);
+weapons/il_880l_rp825_drop_tank_3/short;RP 825;
+weapons/il_880l_rp825_drop_tank_ghost_grey_1;Réservoir Pendulaire RP 825 (880 L);
+weapons/il_880l_rp825_drop_tank_ghost_grey_1/short;RP 825;
+weapons/il_880l_rp825_drop_tank_ghost_grey_2;Réservoir Pendulaire RP 825 (880 L);
+weapons/il_880l_rp825_drop_tank_ghost_grey_2/short;RP 825;
+weapons/il_880l_rp825_drop_tank_ghost_grey_3;Réservoir Pendulaire RP 825 (880 L);
+weapons/il_880l_rp825_drop_tank_ghost_grey_3/short;RP 825;
+weapons/il_880l_rp825_drop_tank_mirage_3cj;Réservoir Pendulaire RP 825 (880 L);
+weapons/il_880l_rp825_drop_tank_mirage_3cj/short;RP 825;
+weapons/il_880l_rp825_drop_tank_ghost_grey_mirage_3cj;Réservoir Pendulaire RP 825 (880 L);
+weapons/il_880l_rp825_drop_tank_ghost_grey_mirage_3cj/short;RP 825;
+weapons/il_1300l_rp62_drop_tank_1;Réservoir Pendulaire RP 62 (1300 L)
+weapons/il_1300l_rp62_drop_tank_1/short;RP 62
+weapons/il_1300l_rp62_drop_tank_2;Réservoir Pendulaire RP 62 (1300 L)
+weapons/il_1300l_rp62_drop_tank_2/short;RP 62
+weapons/il_1300l_rp62_drop_tank_3;Réservoir Pendulaire RP 62 (1300 L)
+weapons/il_1300l_rp62_drop_tank_3/short;RP 62
+weapons/il_1300l_rp62_drop_tank_ghost_grey_1;Réservoir Pendulaire RP 62 (1300 L)
+weapons/il_1300l_rp62_drop_tank_ghost_grey_1/short;RP 62
+weapons/il_1300l_rp62_drop_tank_ghost_grey_2;Réservoir Pendulaire RP 62 (1300 L)
+weapons/il_1300l_rp62_drop_tank_ghost_grey_2/short;RP 62
+weapons/il_1300l_rp62_drop_tank_ghost_grey_3;Réservoir Pendulaire RP 62 (1300 L)
+weapons/il_1300l_rp62_drop_tank_ghost_grey_3/short;RP 62
