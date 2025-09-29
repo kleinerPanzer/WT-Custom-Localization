@@ -1,1 +1,67 @@
 <ID|readonly|noverify>;<NewLanguage>
+
+weapons/cannonType_23L;23毫米3L型航空机关炮
+weapons/cannonType_23_1;23毫米1型航空机关炮
+weapons/cannonType_23_1_plane;23毫米1型航空机关炮
+weapons/cannonType_23_1_plane_turret;23毫米1型航空机关炮;
+weapons/cannonType37_1;37-1型航空机炮;
+weapons/su_ofab250_olive;250公斤2型航空爆破炸弹;
+weapons/su_ofab250_olive/short;250-2型
+weapons/cn_ls_500j;LT-2激光制导炸弹;
+weapons/cn_ls_500j/short;LT-2;
+weapons/cn_ls_1000j;GB1000激光制导炸弹;
+weapons/cn_ls_1000j/short;GB1000;
+weapons/cn_ts_250;GB250激光制导炸弹;
+weapons/cn_ts_250/short;GB250;
+weapons/cn_ls_6_250;LS-6 250 kg Guided Glide Bomb;
+weapons/cn_ls_6_250/short;LS-6/250;
+weapons/cn_ls_6_500;LS-6 500 kg Guided Glide Bomb;
+weapons/cn_ls_6_500/short;LS-6/500;
+weapons/cn_fs_70;Fire Snake 70 Aerial Rocket;
+weapons/cn_fs_70/short;FS70;
+weapons/cn_type90_he;90毫米1型航空火箭杀伤爆破弹;
+weapons/cn_type90_he/short;90-1型 (杀伤);
+weapons/cn_type90_heat;90毫米1型航空火箭破甲弹;
+weapons/cn_type90_heat/short;90-1型 (破甲);
+weapons/cn_type130_ap;130毫米2型航空火箭杀伤爆破弹;
+weapons/cn_type130_ap/short;130-2型;
+weapons/cn_k_pzs_01_targeting_pod;K/PZS-01瞄准吊舱;
+weapons/cn_k_pzs_01_targeting_pod/short;K/PZS-01;
+weapons/cn_k_adc03a_targeting_pod;K/JDC03A瞄准吊舱;
+weapons/cn_k_adc03a_targeting_pod/short;K/JDC03A;
+weapons/cn_800l_fyx800_drop_tank_1;FYX-800标准副油箱;
+weapons/cn_800l_fyx800_drop_tank_1/short;FYX-800;
+weapons/cn_800l_central_fyx800_drop_tank;FYX-800标准副油箱;
+weapons/cn_800l_central_fyx800_drop_tank/short;FYX-800;
+weapons/cn_800l_fyx800_drop_tank_2;FYX-800标准副油箱;
+weapons/cn_800l_fyx800_drop_tank_2/short;FYX-800;
+weapons/cn_800l_fyx800_j_10_drop_tank_1;FYX-800标准副油箱;
+weapons/cn_800l_fyx800_j_10_drop_tank_1/short;FYX-800;
+weapons/cn_800l_fyx800_j_10_drop_tank_2;FYX-800标准副油箱;
+weapons/cn_800l_fyx800_j_10_drop_tank_2/short;FYX-800;
+weapons/cn_720l_drop_tank;720升亚音速副油箱;
+weapons/cn_720l_drop_tank/short;副油箱;
+weapons/cn_1140l_drop_tank_1;1140升副油箱;
+weapons/cn_1140l_drop_tank_1/short;副油箱;
+weapons/cn_1140l_drop_tank_2;1140升副油箱;
+weapons/cn_1140l_drop_tank_2/short;副油箱;
+weapons/cn_1400l_fyx1400_drop_tank_1;FYX-1400标准副油箱;
+weapons/cn_1400l_fyx1400_drop_tank_1/short;FYX-1400;
+weapons/cn_1400l_fyx1400_drop_tank_2;FYX-1400标准副油箱;
+weapons/cn_1400l_fyx1400_drop_tank_2/short;FYX-1400;
+weapons/cn_1400l_fyx1400_drop_tank_3;FYX-1400标准副油箱;
+weapons/cn_1400l_fyx1400_drop_tank_3/short;FYX-1400;
+weapons/cn_1400l_fyx1400_j_8_fuse_drop_tank;FYX-1400标准副油箱;
+weapons/cn_1400l_fyx1400_j_8_fuse_drop_tank/short;FYX-1400;
+weapons/cn_1600l_drop_tank;FYX-1600标准副油箱;
+weapons/cn_1600l_drop_tank/short;FYX-1600;
+weapons/cn_1600l_drop_tank_1;FYX-1600标准副油箱;
+weapons/cn_1600l_drop_tank_1/short;FYX-1600;
+weapons/cn_1600l_drop_tank_2;FYX-1600标准副油箱;
+weapons/cn_1600l_drop_tank_2/short;FYX-1600;
+weapons/cn_800l_rx3_drop_tank;FYX-800标准副油箱;
+weapons/cn_800l_rx3_drop_tank/short;FYX-800;
+weapons/cn_1100l_rx3_drop_tank_1;FYX-1100标准副油箱;
+weapons/cn_1100l_rx3_drop_tank_1/short;FYX-1100;
+weapons/cn_1100l_rx3_drop_tank_2;FYX-1100标准副油箱;
+weapons/cn_1100l_rx3_drop_tank_2/short;FYX-1100;

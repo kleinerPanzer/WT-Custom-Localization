@@ -1,1 +1,328 @@
 <ID|readonly|noverify>;<NewLanguage>
+weapons/gunDA762;7,62-мм авиационный пулемёт ДА;
+weapons/cannonNR23;23-мм авиационная пушка НР-23;
+weapons/cannonNR23_turret;23-мм авиационная пушка НР-23;
+weapons/cannonNS23;23-мм авиационная пушка НC-23;
+weapons/cannonNS23k;23-мм авиационная пушка НC-23K;
+weapons/cannonNS37;37-мм авиационная пушка НC-37;
+weapons/cannonNS37_su_6;37-мм авиационная пушка НC-37;
+weapons/cannonNS37_assault;37-мм авиационная пушка НC-37;
+weapons/cannonSH37;37-мм авиационная пушка Ш-37;
+weapons/cannonSH37/short;Ш-37;
+weapons/cannonNS45;45-мм авиационная пушка НC-45;
+weapons/cannonNS45_heavy_aircrafts;45-мм авиационная пушка НC-45;
+weapons/cannonNS45_heavy_aircrafts/short;НC-45;
+weapons/cannonN37D;37-мм авиационная пушка Н-37Д;
+weapons/cannonN37;37-мм авиационная пушка Н-37;
+weapons/cannonB20;20-мм авиационная пушка Б-20;
+weapons/cannonB20S;20-мм авиационная пушка Б-20C;
+weapons/cannonB20M;20-мм авиационная пушка Б-20М;
+weapons/cannonB20_turret;20-мм авиационная пушка УБ-20;
+weapons/cannonBT20_turret;20-мм авиационная пушка БТ-20;
+weapons/gunShKAS;7,62-мм авиационный пулемёт ШКАС;
+weapons/gunShKAS_turret;7,62-мм авиационный пулемёт ШКАС;
+weapons/cannonShVAK;20-мм авиационная пушка ШВАК;
+weapons/cannonShVAKS;20-мм авиационная пушка ШВАК;
+weapons/cannonShVAK_turret;20-мм авиационная пушка ШВАК;
+weapons/cannonShVAK_early;20-мм авиационная пушка ШВАК;
+weapons/gunUB;12,7-мм авиационный пулемёт УБС;
+weapons/gunUBK;12,7-мм авиационный пулемёт УБK;
+weapons/gunUBK_turret;12,7-мм авиационный пулемёт УБK;
+weapons/gunUB_turret;12,7-мм авиационный пулемёт УБТ;
+weapons/cannonVYa;23-мм авиационная пушка ВЯ;
+weapons/gunUBS;12,7-мм авиационный пулемёт УБС;
+weapons/gunPV1;7,62-мм авиационный пулемёт ПВ-1;
+weapons/su_rds4;Ядерная бомба РДС-4;
+weapons/su_rds4/short;РДС-4;
+weapons/su_rn_28;РН-28
+weapons/su_rn_28/short;РН-28
+weapons/su_fab100;100 kg авиационная бомба ФАБ-100М-43;
+weapons/su_fab_3000m_46;3000 kg авиационная бомба ФАБ-3000М-46;
+weapons/su_fab_1500m_46;1500 kg авиационная бомба ФАБ-1500М-46;
+weapons/su_fab_1000m_44;1000 kg авиационная бомба ФАБ-1000М-44;
+weapons/su_fab_1000m_44/short;ФАБ-1000М-44;
+weapons/su_fab_1000m_43;1000 kg авиационная бомба ФАБ-1000М-43;
+weapons/su_fab_1000m_43/short;ФАБ-1000М-43;
+weapons/su_fab_500m_44;500 kg авиационная бомба ФАБ-500М-44;
+weapons/su_fab_500m_44/short;ФАБ-500М-44;
+weapons/su_fab_500m_43;500 kg авиационная бомба ФАБ-500М-43;
+weapons/su_fab_500m_43/short;ФАБ-500М-43;
+weapons/su_fab_1500m_54;1500 kg авиационная бомба ФАБ-1500М-54
+weapons/su_fab_1500m_54/short;ФАБ-1500М-54
+weapons/su_fab_3000m_54;3000 kg авиационная бомба ФАБ-3000М-54
+weapons/su_fab_3000m_54/short;ФАБ-3000М-54
+weapons/su_zb_500;500 kg зажигательный бак ЗБ-500;
+weapons/su_zb_500/short;ЗБ-500;
+weapons/su_zb_360;360 kg зажигательный бак ЗБ-360;
+weapons/su_zb_360/short;ЗБ-360;
+weapons/su_fab_250m_44;250 kg авиационная бомба ФАБ-250М-44;
+weapons/su_fab_250m_44/short;ФАБ-250М-44;
+weapons/su_fab_250m_43;250 kg авиационная бомба ФАБ-250М-43;
+weapons/su_fab_250m_43/short;ФАБ-250М-43;
+weapons/su_fab_100m_43;100 kg авиационная бомба ФАБ-100М-43;
+weapons/su_fab_100m_43/short;ФАБ-100М-43;
+weapons/su_fab_250m_46;250 kg авиационная бомба ФАБ-250М-46;
+weapons/su_fab_250m_46/short;ФАБ-250М-46;
+weapons/su_fab_500m_46;500 kg авиационная бомба ФАБ-500М-46;
+weapons/su_fab_500m_46/short;ФАБ-500М-46;
+weapons/su_fab1000;1000 kg авиационная бомба ФАБ-1000;
+weapons/su_fab250;250 kg авиационная бомба ФАБ-250св;
+weapons/su_fab50x;50 kg авиационная бомба ФАБ-50св;
+weapons/su_fab50x/short;ФАБ-50св;
+weapons/su_fab100x;100 kg авиационная бомба ФАБ-100св;
+weapons/su_fab100x/short;ФАБ-100св;
+weapons/su_fab250x;250 kg авиационная бомба ФАБ-250св;
+weapons/su_fab250x/short;ФАБ-250св;
+weapons/su_fab500x;500 kg авиационная бомба ФАБ-500св;
+weapons/su_fab500x/short;ФАБ-500св;
+weapons/su_fab1000x;1000 kg авиационная бомба ФАБ-1000св;
+weapons/su_fab1000x/short;ФАБ-1000св;
+weapons/su_fab500_m54;500 kg авиационная бомба ФАБ-500М-54;
+weapons/su_fab500_m54/short;ФАБ-500М-54;
+weapons/su_fab250_m54;500 kg авиационная бомба ФАБ-250М-54;
+weapons/su_fab250_m54/short;ФАБ-250М-54;
+weapons/su_fab250_270;250 kg авиационная бомба OФАБ-250-270;
+weapons/su_fab250_270/short;OФАБ-250-270;
+weapons/su_fab_250m_62;250 kg авиационная бомба ФАБ-250М-62;
+weapons/su_fab_250m_62/short;ФАБ-250М-62;
+weapons/su_brab_250_ap;250 kg авиационная бомба БрАБ-250;
+weapons/su_brab_250_ap/short;БрАБ-250;
+weapons/su_brab_500m43_ap;500 kg авиационная бомба БрАБ-500М-43;
+weapons/su_brab_500m43_ap/short;БрАБ-500М-43;
+weapons/su_brab_1000m43_ap;1000 kg авиационная бомба БрАБ-1000М-43;
+weapons/su_brab_1000m43_ap/short;БрАБ-1000М-43;
+weapons/su_fab_500m_62t;500 kg авиационная бомба ФАБ-500М-62;
+weapons/su_fab_500m_62t/short;ФАБ-500М-62;
+weapons/su_fab500_m54_china;500 kg авиационная бомба ФАБ-500М-54;
+weapons/su_fab500_m54_china/short;ФАБ-500М-54;
+weapons/su_ofab100_120;100 kg авиационная бомба OФАБ-100-120;
+weapons/su_ofab100_120/short;OФAB-100-120;
+weapons/su_ofab_100_120;100 kg авиационная бомба OФАБ-100
+weapons/su_ofab_100_120/short;OФАБ-100
+weapons/su_ofab_250_270;250 kg авиационная бомба OФАБ-250-270
+weapons/su_ofab_250_270/short;OФАБ-250-270
+weapons/su_ofab100m;100 kg авиационная бомба OФАБ-100М
+weapons/su_ofab100m/short;OФАБ-100М
+weapons/su_ofab250;250 kg авиационная бомба OФАБ-250св;
+weapons/su_ao_25m_1;25 kg авиационная бомба AO-25М-1;
+weapons/su_brab_220_1930_ap;220 kg авиационная бомба БрАБ-220;
+weapons/su_brab_220_1930_ap/short;БрАБ-220;
+weapons/su_brab_500_1938_ap;500 kg авиационная бомба БрАБ-500;
+weapons/su_brab_500_1938_ap/short;БрАБ-500;
+weapons/su_brab_1000_1938_ap;1000 kg авиационная бомба БрАБ-1000;
+weapons/su_brab_1000_1938_ap/short;БрАБ-1000;
+weapons/su_fab50;50 kg авиационная бомба ФАБ-50св;
+weapons/su_fab50_default;50 kg авиационная бомба ФАБ-50св;
+weapons/su_fab50_default/short;ФАБ-50св;
+weapons/su_zab50fp;50 kg Зажигательный Бомба ЗАБ-50ФП;
+weapons/su_zab50fp/short;ЗАБ-50ФП;
+weapons/su_fab500;500 kg авиационная бомба ФАБ-500св;
+weapons/su_ofab250sh;250 kg штурмовая авиационная бомба ОФАБ-250Ш;
+weapons/su_ofab250sh/short;ОФАБ-250Ш;
+weapons/su_fab500sh;500 kg штурмовая авиационная бомба ФАБ-500Ш;
+weapons/su_fab500sh/short;ФАБ-500Ш;
+weapons/su_kab_50tv;50 kg коррекция авиационная бомба КАБ-50ТВ;
+weapons/su_kab_50tv/short;КАБ-50ТВ;
+weapons/su_kab_50s;50 kg коррекция авиационная бомба КАБ-50С;
+weapons/su_kab_50s/short;КАБ-50С;
+weapons/su_kab_50l;50 kg коррекция авиационная бомба КАБ-50Л;
+weapons/su_kab_50l/short;КАБ-50Л;
+weapons/su_kab_500kr;500 kg коррекция авиационная бомба КАБ-500Кр;
+weapons/su_kab_500kr/short;КАБ-500Кр;
+weapons/su_kab_500kr_m;500 kg коррекция авиационная бомба КАБ-500Кр-М
+weapons/su_kab_500kr_m/short;КАБ-500Кр-М
+weapons/su_kab_500kr_e;500 kg коррекция авиационная бомба КАБ-500Кр-Э;
+weapons/su_kab_500kr_e/short;КАБ-500Кр-Э;
+weapons/su_kab_500s;500 kg коррекция авиационная бомба КАБ-500С;
+weapons/su_kab_500s/short;КАБ-500С;
+weapons/su_kab_500l;500 kg коррекция авиационная бомба КАБ-500Л;
+weapons/su_kab_500l/short;КАБ-500Л;
+weapons/su_kab_500lg;500 kg коррекция авиационная бомба КАБ-500ЛГ
+weapons/su_kab_500lg/short;КАБ-250ЛГ
+weapons/su_kab_250lg;250 kg коррекция авиационная бомба КАБ-250ЛГ
+weapons/su_kab_250lg/short;КАБ-250ЛГ
+weapons/su_kab_1500kr;1500 kg коррекция авиационная бомба КАБ-1500Кр;
+weapons/su_kab_1500kr/short;КАБ-1500Кр;
+weapons/su_upab_500b;500 kg управляемая планирующая авиационная бомба УПАБ-500Б
+weapons/su_upab_500b/short;УПАБ-500Б
+weapons/su_upab_1500b;1500 kg управляемая планирующая авиационная бомба УПАБ-1500Б
+weapons/su_upab_1500b/short;УПАБ-1500Б
+weapons/su_kab_1500l;500 kg коррекция авиационная бомба КАБ-1500Л;
+weapons/su_kab_1500l/short;КАБ-1500Л;
+weapons/su_kab_1500lg;1500 kg коррекция авиационная бомба КАБ-1500ЛГ
+weapons/su_kab_1500lg/short;КАБ-1500ЛГ
+weapons/su_umpk_3000;3000 kg авиационная бомба ФАБ-3000М-54 (УМПК)
+weapons/su_umpk_3000/short;ФАБ-3000М-54 (УМПК)
+weapons/su_umpk_500m62;3000 kg авиационная бомба ФАБ-500М-62 (УМПК)
+weapons/su_umpk_500m62/short;ФАБ-500М-62 (УМПК)
+weapons/su_rs132;Неуправляемая авиационная ракета РС-132;
+weapons/su_rs82;Неуправляемая авиационная ракета РС-82;
+weapons/su_ros_82;Неуправляемая авиационная ракета РОС-82;
+weapons/su_ros_82/short;РОС-82;
+weapons/su_ros_82op_event/short;РОС-82;
+weapons/su_ros132;Неуправляемая авиационная ракета РОС-132;
+weapons/su_ros132/short;РОС-132;
+weapons/su_m8;Неуправляемая авиационная ракета М-8;
+weapons/su_m8/short;М-8;
+weapons/su_rofs132;Неуправляемая авиационная ракета РОФС-132;
+weapons/su_rofs132/short;РОФС-132;
+weapons/su_m13uk;Неуправляемая авиационная ракета М-13УК;
+weapons/su_m13uk/short;М-13УК;
+weapons/su_s8_ko_rocket;Неуправляемая авиационная ракета С-8KО;
+weapons/su_s8_ko_rocket/short;С-8KО;
+weapons/su_s_8m_rocket;Неуправляемая авиационная ракета С-8М;
+weapons/su_s_8m_rocket/short;С-8М;
+weapons/su_c1of_rocket;Неуправляемая авиационная ракета С-1ОФ;
+weapons/su_c1of_rocket/short;С-1OФ;
+weapons/su_s_8ko_rocket;Неуправляемая авиационная ракета С-8KО;
+weapons/su_s_8ko_rocket/short;С-8KO;
+weapons/su_s_13df_rocket;Неуправляемая авиационная ракета С-13ДФ;
+weapons/su_s_13df_rocket/short;С-13ДФ;
+weapons/su_s_13of_rocket;Неуправляемая авиационная ракета С-13OФ;
+weapons/su_s_13of_rocket/short;С-13OФ;
+weapons/su_kh_23m;Управляемая ракета «воздух-поверхность» Х-23М;
+weapons/su_kh_23m/short;Р «В-П» Х-23М;
+weapons/su_projector_1;Прожектор-1;
+weapons/su_projector_1/short;Прожектор-1;
+weapons/su_delta_ng_station;Дельта-НГ;
+weapons/su_delta_ng_station/short;Дельта-НГ;
+weapons/rls_kopio_25;Н027 Копьё-25;
+weapons/rls_kopio_25/short;Копьё-25;
+weapons/ntps_mercury;НТПС Меркурий;
+weapons/ntps_mercury/short;Меркурий;
+weapons/su_t_220_targeting_pod;T 220
+weapons/su_t_220_targeting_pod/short;T 220
+weapons/su_1500_liters_fuse_mig_29;Подвесной топливный бак ПТБ-1500;
+weapons/su_1500_liters_fuse_mig_29/short;ПТБ-1500;
+weapons/su_1500_liters_fuse_mig_29smt;Подвесной топливный бак ПТБ-1500;
+weapons/su_1500_liters_fuse_mig_29smt/short;ПТБ-1500;
+weapons/su_2000_liters_fuse_mig_29smt;Подвесной топливный бак ПТБ-2000;
+weapons/su_2000_liters_fuse_mig_29smt/short;ПТБ-2000;
+weapons/su_800l_su_17_right_wing;Подвесной топливный бак ПТБ-800;
+weapons/su_800l_su_17_right_wing/short;ПТБ-800;
+weapons/su_800l_su_17_right_wing_1;Подвесной топливный бак ПТБ-800;
+weapons/su_800l_su_17_right_wing_1/short;ПТБ-800;
+weapons/su_800l_su_17_left_wing;Подвесной топливный бак ПТБ-800;
+weapons/su_800l_su_17_left_wing/short;ПТБ-800;
+weapons/su_800l_su_17_left_wing_1;Подвесной топливный бак ПТБ-800;
+weapons/su_800l_su_17_left_wing_1/short;ПТБ-800;
+weapons/su_800l_su_17_silver_left_wing;Подвесной топливный бак ПТБ-800;
+weapons/su_800l_su_17_silver_left_wing/short;ПТБ-800;
+weapons/su_800l_su_17_silver_left_wing_1;Подвесной топливный бак ПТБ-800;
+weapons/su_800l_su_17_silver_left_wing_1/short;ПТБ-800;
+weapons/su_800l_su_17_silver_right_wing;Подвесной топливный бак ПТБ-800;
+weapons/su_800l_su_17_silver_right_wing/short;ПТБ-800;
+weapons/su_800l_su_17_silver_right_wing_1;Подвесной топливный бак ПТБ-800;
+weapons/su_800l_su_17_silver_right_wing_1/short;ПТБ-800;
+weapons/su_800l_su_25tm_silver_right_wing;Подвесной топливный бак ПТБ-800;
+weapons/su_800l_su_25tm_silver_right_wing/short;ПТБ-800;
+weapons/su_800l_su_25tm_silver_right_wing_1;Подвесной топливный бак ПТБ-800;
+weapons/su_800l_su_25tm_silver_right_wing_1/short;ПТБ-800;
+weapons/su_800l_su_25tm_silver_left_wing;Подвесной топливный бак ПТБ-800;
+weapons/su_800l_su_25tm_silver_left_wing/short;ПТБ-800;
+weapons/su_800l_su_25tm_silver_left_wing_1;Подвесной топливный бак ПТБ-800;
+weapons/su_800l_su_25tm_silver_left_wing_1/short;ПТБ-800;
+weapons/su_800l_su_25t_left_wing;Подвесной топливный бак ПТБ-800;
+weapons/su_800l_su_25t_left_wing/short;ПТБ-800;
+weapons/su_800l_su_25t_left_wing_1;Подвесной топливный бак ПТБ-800;
+weapons/su_800l_su_25t_left_wing_1/short;ПТБ-800;
+weapons/su_800l_su_25t_right_wing;Подвесной топливный бак ПТБ-800;
+weapons/su_800l_su_25t_right_wing/short;ПТБ-800;
+weapons/su_800l_su_25t_right_wing_1;Подвесной топливный бак ПТБ-800;
+weapons/su_800l_su_25t_right_wing_1/short;ПТБ-800;
+weapons/su_800l_su_25_right_wing;Подвесной топливный бак ПТБ-800;
+weapons/su_800l_su_25_right_wing/short;ПТБ-800;
+weapons/su_800l_su_25_right_wing_1;Подвесной топливный бак ПТБ-800;
+weapons/su_800l_su_25_right_wing_1/short;ПТБ-800;
+weapons/su_800l_su_25_left_wing;Подвесной топливный бак ПТБ-800;
+weapons/su_800l_su_25_left_wing/short;ПТБ-800;
+weapons/su_800l_su_25_left_wing_1;Подвесной топливный бак ПТБ-800;
+weapons/su_800l_su_25_left_wing_1/short;ПТБ-800;
+weapons/su_800l_mig_23_27_silver_fuse;Подвесной топливный бак ПТБ-800;
+weapons/su_800l_mig_23_27_silver_fuse/short;ПТБ-800;
+weapons/su_800l_mig_21_silver_fuse;FYX-800;
+weapons/su_800l_mig_21_silver_fuse/short;FYX-800;
+weapons/su_800l_mig_23m_silver_fuse;Подвесной топливный бак ПТБ-800;
+weapons/su_800l_mig_23m_silver_fuse/short;ПТБ-800;
+weapons/su_800l_mig_23ml_silver_fuse;Подвесной топливный бак ПТБ-800;
+weapons/su_800l_mig_23ml_silver_fuse/short;ПТБ-800;
+weapons/su_490l_mig_21;Подвесной топливный бак ПТБ-500;
+weapons/su_490l_mig_21/short;ПТБ-500;
+weapons/su_490l_mig_21_left_wing;Подвесной топливный бак ПТБ-500;
+weapons/su_490l_mig_21_left_wing/short;ПТБ-500;
+weapons/su_490l_mig_21_left_wing_1;Подвесной топливный бак ПТБ-500;
+weapons/su_490l_mig_21_left_wing_1/short;ПТБ-500;
+weapons/su_490l_j_7_left_wing;Подвесной топливный бак ПТБ-500;
+weapons/su_490l_j_7_left_wing/short;ПТБ-500;
+weapons/su_490l_j_7_right_wing;Подвесной топливный бак ПТБ-500;
+weapons/su_490l_j_7_right_wing/short;ПТБ-500;
+weapons/cn_480l_drop_tank_1;FYX-500;
+weapons/cn_480l_drop_tank_1/short;FYX-500;
+weapons/cn_480l_drop_tank_2;FYX-500;
+weapons/cn_480l_drop_tank_2/short;FYX-500;
+weapons/su_490l_mig_21_fuse_1;Подвесной топливный бак ПТБ-500;
+weapons/su_490l_mig_21_fuse_1/short;ПТБ-500;
+weapons/su_490l_mig_21_right_wing_1;Подвесной топливный бак ПТБ-500;
+weapons/su_490l_mig_21_right_wing_1/short;ПТБ-500;
+weapons/su_490l_mig_21_fuse;Подвесной топливный бак ПТБ-500;
+weapons/su_490l_mig_21_fuse/short;ПТБ-500;
+weapons/su_490l_mig_21_right_wing;Подвесной топливный бак ПТБ-500;
+weapons/su_490l_mig_21_right_wing/short;ПТБ-500;
+weapons/su_490l_mig_21_bison_fuse;Drop Tank PTB-500;
+weapons/su_490l_mig_21_bison_fuse/short;PTB-500;
+weapons/su_490l_mig_21_bison_left_wing;Drop Tank PTB-500;
+weapons/su_490l_mig_21_bison_left_wing/short;PTB-500;
+weapons/su_490l_mig_21_bison_right_wing;Drop Tank PTB-500;
+weapons/su_490l_mig_21_bison_right_wing/short;PTB-500;
+weapons/su_su24m_2000l_drop_tank;Подвесной топливный бак ПТБ-2000;
+weapons/su_su24m_2000l_drop_tank/short;ПТБ-2000;
+weapons/su_su24m_3000l_drop_tank_left;Подвесной топливный бак ПТБ-3000;
+weapons/su_su24m_3000l_drop_tank_left/short;ПТБ-3000;
+weapons/su_su24m_3000l_drop_tank_right;Подвесной топливный бак ПТБ-3000;
+weapons/su_su24m_3000l_drop_tank_right/short;ПТБ-3000;
+weapons/su_su34_3000l_drop_tank;Подвесной топливный бак ПТБ-3000;
+weapons/su_su34_3000l_drop_tank/short;ПТБ-3000;
+weapons/su_su34_3000l_drop_tank_left;Подвесной топливный бак ПТБ-3000;
+weapons/su_su34_3000l_drop_tank_left/short;ПТБ-3000;
+weapons/su_su34_3000l_drop_tank_right;Подвесной топливный бак ПТБ-3000;
+weapons/su_su34_3000l_drop_tank_right/short;ПТБ-3000;
+weapons/su_kh_66;Управляемая ракета «воздух-поверхность» Х-66;
+weapons/su_kh_66/short;Р «В-П» Х-66;
+weapons/su_kh_25;Управляемая ракета «воздух-поверхность» Х-25;
+weapons/su_kh_25/short;Р «В-П» Х-25;
+weapons/su_kh_25_haslaserchannel;Управляемая ракета «воздух-поверхность» Х-25;
+weapons/su_kh_25_haslaserchannel/short;Р «В-П» Х-25;
+weapons/su_kh_29l;Управляемая ракета «воздух-поверхность» Х-29Л;
+weapons/su_kh_29l/short;Р «В-П» Х-29Л;
+weapons/su_grom_1;Х-36 Гром-1
+weapons/su_grom_1/short;Х-36 Гром-1
+weapons/su_grom_2;Х-36 Гром-1
+weapons/su_grom_2/short;Х-36 Гром-1
+weapons/su_kh_25mr;Управляемая ракета «воздух-поверхность» Х-25МР;
+weapons/su_kh_25mr/short;Р «В-П» Х-25МР;
+weapons/su_kh_29l_notlaserchannel;Управляемая ракета «воздух-поверхность» Х-29Л;
+weapons/su_kh_29l_notlaserchannel/short;Р «В-П» Х-29Л;
+weapons/su_rbs132;Неуправляемая авиационная ракета РБС-132;
+weapons/su_rbs82;Неуправляемая авиационная ракета РБС-82;
+weapons/su_s_5k_rocket;Неуправляемая авиационная ракета С-5К;
+weapons/su_s_5k_rocket_ub16;Неуправляемая авиационная ракета С-5К;
+weapons/su_s_5kp_rocket;Неуправляемая авиационная ракета С-5КП;
+weapons/su_s_5kp_rocket/short;С-5КП;
+weapons/cn_hf5_rocket;Неуправляемая авиационная ракета С-5К;
+weapons/su_s_3k_rocket;Неуправляемая авиационная ракета С-3K;
+weapons/su_s_3k_rocket/short;С-3K;
+weapons/su_s_5m_rocket;Неуправляемая авиационная ракета С-5М;
+weapons/su_s_21_rocket;Неуправляемая авиационная ракета С-21;
+weapons/su_s_24_rocket;Неуправляемая авиационная ракета С-24;
+weapons/su_s_24b_rocket;Неуправляемая авиационная ракета С-24Б;
+weapons/su_s_24b_rocket/short;С-24Б;
+weapons/su_s_25l_rocket;Неуправляемая авиационная ракета С-25Л;
+weapons/su_s_25l_rocket/short;С-25Л;
+weapons/su_s_25ld;Неуправляемая авиационная ракета С-25ЛД;
+weapons/su_s_25ld/short;С-25ЛД;
+weapons/su_s_25ofm_rocket;Неуправляемая авиационная ракета С-25ОФМ;
+weapons/su_s_25ofm_rocket/short;С-25ОФМ;
+weapons/su_s_25of_rocket;Неуправляемая авиационная ракета С-25О;
+weapons/su_s_25of_rocket/short;С-25О;
+weapons/su_s_25o_rocket;Неуправляемая авиационная ракета С-25О;
+weapons/su_s_25o_rocket/short;С-25О;

@@ -1,1 +1,21 @@
 <ID|readonly|noverify>;<NewLanguage>
+weapons/cannon_for_pony;Friend Mk. 3;
+weapons/pony_rocket;Cracker Mk. 4;
+weapons/kr_kggb;Korean GPS Guided Bomb
+weapons/kr_kggb/short;KGGB
+weapons/tr_aselpod;ASELPOD Advanced Targeting Pod;
+weapons/tr_aselpod/short;ASELPOD;
+weapons/jato_booster_left;JATO rocket booster
+weapons/jato_booster_left/short;JATO booster
+weapons/jato_booster_right;JATO rocket booster
+weapons/jato_booster_right/short;JATO booster
+weapons/in_100gal_marut_drop_tank_l;100 gal Drop Tank
+weapons/in_100gal_marut_drop_tank_l/short;Drop Tank
+weapons/in_100gal_marut_drop_tank_r;100 gal Drop Tank
+weapons/in_100gal_marut_drop_tank_r/short;Drop Tank
+weapons/in_100gal_marut_drop_tank_l_2;100 gal Drop Tank
+weapons/in_100gal_marut_drop_tank_l_2/short;Drop Tank
+weapons/in_100gal_marut_drop_tank_r_2;100 gal Drop Tank
+weapons/in_100gal_marut_drop_tank_r_2/short;Drop Tank
+weapons/in_nasser_240;Nasser 240
+weapons/in_nasser_240/short;Nasser 240

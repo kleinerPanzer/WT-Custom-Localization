@@ -1,1 +1,12 @@
 <ID|readonly|noverify>;<NewLanguage>
+
+weapons/105mm_GT_8_user_cannon;105 mm GT8;
+weapons/105mm_GT_7_user_cannon;105 mm GT7;
+weapons/105mm_GT3_user_cannon;105 mm GT3;
+weapons/105mm_GT3_TTD_user_cannon;105 mm GT3;
+weapons/90mm_GT_2_user_cannon;90 mm GT2;
+weapons/76mm_GT_4_user_cannon;76,2 mm GT4;
+weapons/20mm_GI_2_user_cannon;20 mm GI2;
+weapons/35mm_GA_35_user_cannon;35 mm GA35;
+weapons/105mm_GT3B_user_cannon;105 mm GT3B;
+76mm_gt4_he;HE;

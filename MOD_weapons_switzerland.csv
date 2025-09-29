@@ -1,0 +1,20 @@
+<ID|readonly|noverify>;<NewLanguage>
+
+weapons/cannon_ff_k_45;20 mm Flugzeugflügelkanone HS 45
+weapons/cannon_ff_k_45/short;FFK HS 45
+weapons/cannon_fm_k_45;20 mm Flugzeugmotorkanone HS 45
+weapons/cannon_fm_k_45/short;FMK HS 45
+weapons/gun_fl_mg_27;7,5 mm Flieger-Maschinengewehr 29
+weapons/gun_fl_mg_27/short;Fl.Mg. 29
+weapons/gun_mg_29_turret;7,5 mm Beobachtungs-Doppel-Maschinengewehr. 29
+weapons/gun_mg_29_turret/short;Beob.Doppel.Mg. 29
+weapons/sws_400kg_febb_napalmbombe;400 kg FeBb Napalmbombe;
+weapons/sws_400kg_febb_napalmbombe/short;400 kg FeBb;
+weapons/sws_675l_hunter_f58_1;675 L Abwurftank;
+weapons/sws_675l_hunter_f58_1/short;Abwurftank;
+weapons/sws_675l_hunter_f58_2;675 L Abwurftank;
+weapons/sws_675l_hunter_f58_2/short;Abwurftank;
+weapons/sw_880l_rp825_drop_tank_mirage_iiis;Réservoir Pendulaire RP 825 (730 L)
+weapons/sw_880l_rp825_drop_tank_mirage_iiis/short;RP 825
+weapons/fr_as30_switzerland;Flugzeug-Lenkwaffe Luft-Boden 66
+weapons/fr_as30_switzerland/short;Flz.Lwf. LB 66

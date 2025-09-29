@@ -1,1 +1,188 @@
 <ID|readonly|noverify>;<NewLanguage>
+weapons/gunMAC34;7,5 mm Mitrailleuse d'Aviation MAC modèle 1934;
+weapons/gunMAC34_turret;7,5 mm Mitrailleuse d'Aviation MAC modèle 1934;
+weapons/gunMAC34T_turret;7,5 mm Mitrailleuse d'Aviation MAC modèle 1934T;
+weapons/gunDarne23;7,5 mm Mitrailleuse légère Darne modèle 1923;
+weapons/gunDarne23_turret;7,5 mm Mitrailleuse légère Darne modèle 1923;
+weapons/cannonHispano_hs9;20 mm Hispano-Suiza Tipo HS.9;
+weapons/cannonHispano_hs825;30 mm Hispano-Suiza Tipo HS.825;
+weapons/cannonHispano_hs825/short;HS.825;
+weapons/gunDarne33;7,5 mm Mitrailleuse Darne modèle 1933;
+weapons/cannonGLAT_M621;20 mm GIAT M621;
+weapons/cannonGLAT_M791;30 mm GIAT M791;
+weapons/gunMAC39;7,5 mm Mitrailleuse d'Aviation MAC modèle 1934 modifié 39;
+weapons/gunMAC39_turret;7,5 mm Mitrailleuse d'Aviation MAC modèle 1934 modifié 39;
+weapons/fr_50kg_type_61c;50 kg Type 61C;
+weapons/fr_50kg_type_61c/short;50 kg Type 61;
+weapons/fr_matra_t_10_121b;T10 121;
+weapons/fr_matra_t_10_121a;T10 121;
+weapons/fr_matra_t_10_140b;T10 140;
+weapons/fr_matra_t_10_140a;T10 140;
+weapons/fr_matra_t_10_151b;T10 151;
+weapons/fr_matra_t_10_151a;T10 151;
+weapons/fr_sneb_type23;SNEB Type 23;
+weapons/fr_sneb_type23_expo;SNEB Type 23;
+weapons/fr_sneb_type23_late;SNEB Type 23;
+weapons/fr_sneb_type23_late/short;SNEB Type 23;
+weapons/fr_sneb_type23_md_460;SNEB Type 23;
+weapons/fr_sneb_type23_md_460/short;SNEB Type 23;
+weapons/fr_sneb_type26;SNEB Type 26;
+weapons/fr_sneb_type26/short;SNEB Type 26;
+weapons/fr_sneb_type23s;SNEB Type 23
+weapons/fr_sneb_type23s/short;SNEB Type 23
+weapons/fr_50kg_gammn;50 kg GA MMN 50;
+weapons/fr_50kg_dt2;50 kg DT No. 2;
+weapons/fr_100kg;100 kg No. 1;
+weapons/fr_200kg;200 kg No. 1;
+weapons/fr_500kg_3_1;500 kg No. 2;
+weapons/fr_250_samp_type_25;250 kg SAMP Type 25;
+weapons/fr_250_samp_type_25/short;250 kg SAMP Type 25;
+weapons/fr_250_samp_type_25_default;250 kg SAMP Type 25;
+weapons/fr_250_samp_type_25_default/short;250 kg SAMP Type 25;
+weapons/fr_400_samp_type_21;400 kg SAMP Type 21;
+weapons/fr_400_samp_type_21/short;400 kg SAMP Type 21;
+weapons/fr_250_samp_type_25_200;250 kg SAMP Type 25 (Parachute);
+weapons/fr_250_samp_type_25_200/short;250 kg SAM Type 21 (P);
+weapons/fr_400_samp_type_21_200;400 kg SAMP Type 21 (Parachute);
+weapons/fr_400_samp_type_21_200/short;400 kg SAMP Type 21 (P);
+weapons/it_800kg_gp;800 kg GP 800;
+weapons/fr_75kg_g2_navale;75 kg G2 Navale;
+weapons/fr_75kg_g2_navale/short;75 kg G2;
+weapons/fr_150kg_i2_navale;150 kg I2 Navale;
+weapons/fr_150kg_i2_navale/short;150 kg I2;
+weapons/fr_an52;AN-52;
+weapons/fr_an52/short;AN-52;
+weapons/fr_460l_secan_63;SECAN 63;
+weapons/fr_460l_secan_63/short;SECAN 63;
+weapons/fr_bgl_400;BGL-400;
+weapons/fr_bgl_400/short;BGL-400;
+weapons/fr_bgl_1000;BGL-1000;
+weapons/fr_bgl_1000/short;BGL-1000;
+weapons/fr_aj_168;AJ.168 Martel;
+weapons/fr_aj_168/short;AJ.168;
+weapons/fr_250kg_aasm_250_hammer_gps;AASM HAMMER 250 kg (NATO SBU 38)
+weapons/fr_250kg_aasm_250_hammer_gps/short;HAMMER 250 kg (SBU 38)
+weapons/fr_250kg_aasm_250_hammer_ir;AASM HAMMER 250 kg (NATO SBU 64)
+weapons/fr_250kg_aasm_250_hammer_ir/short;HAMMER 250 kg (SBU 64)
+weapons/fr_250kg_aasm_250_hammer_laser;AASM HAMMER 250 kg (NATO SBU 54)
+weapons/fr_250kg_aasm_250_hammer_laser/short;HAMMER 250 kg (SBU 54)
+weapons/fr_500kg_aasm_500_hammer_ir;AASM HAMMER 500 kg (NATO SBU 66)
+weapons/fr_500kg_aasm_500_hammer_ir/short;HAMMER 500 kg (SBU 66)
+weapons/fr_500kg_aasm_500_hammer_laser;AASM HAMMER 500 kg (NATO SBU 56)
+weapons/fr_500kg_aasm_500_hammer_laser/short;HAMMER 500 kg (SBU 56)
+weapons/fr_samp_mk_82_250_ldgp_snakeye;Bombe SAMP 250 kg Mk 82 Snakeye;
+weapons/fr_samp_mk_82_250_ldgp_snakeye/short;250 kg Mk 82 Snakeye;
+weapons/fr_damocles_pod_targeting_pod;Damocles;
+weapons/fr_damocles_pod_targeting_pod/short;Damocles;
+weapons/mirage_3c_sepr_841_rocket;SEPR 841;
+weapons/mirage_3c_sepr_841_rocket/short;SEPR 841;
+weapons/mirage_3c_fuel_tank_7_8;Oxidizer tank;
+weapons/mirage_3c_fuel_tank_7_8/short;Oxidizer;
+weapons/mirage_3c_fuel_tank_8;Oxidizer tank
+weapons/mirage_3c_fuel_tank_8/short;Oxidizer
+weapons/mirage_3e_fuel_tank_7_8;Oxidizer tank;
+weapons/mirage_3e_fuel_tank_7_8/short;Oxidizer;
+weapons/mirage_3s_fuel_tank_6;Conformal Fuel Tank
+weapons/mirage_3s_fuel_tank_6/short;CFT
+weapons/mirage_3s_sepr_tank_7;SEPR 844
+weapons/mirage_3s_sepr_tank_7/short;SEPR 844
+weapons/mirage_3s_sepr_tank_8;SEPR 844
+weapons/mirage_3s_sepr_tank_8/short;SEPR 844
+weapons/mirage_3c_sepr_844_rocket;SEPR 844;
+weapons/mirage_3c_sepr_844_rocket/short;SEPR 844;
+weapons/fr_1300l_rp522_mirage_2000d_r1;Réservoir Pendulaire RP 522 (1300 L);
+weapons/fr_1300l_rp522_mirage_2000d_r1/short;RP 522;
+weapons/fr_2500l_m4000_drop_tank_1;2500 L Réservoir Pendulaire;
+weapons/fr_2500l_m4000_drop_tank_1/short;Réservoir Pendulaire;
+weapons/fr_2500l_m4000_drop_tank_2;2500 L Réservoir Pendulaire;
+weapons/fr_2500l_m4000_drop_tank_2/short;Réservoir Pendulaire;
+weapons/fr_2000l_rpl_741_rafale_drop_tank_left;Réservoir Pendulaire RP 741 (2000 L)
+weapons/fr_2000l_rpl_741_rafale_drop_tank_left/short;RP 741
+weapons/fr_2000l_rpl_741_rafale_drop_tank_fuse;Réservoir Pendulaire RP 741 (2000 L)
+weapons/fr_2000l_rpl_741_rafale_drop_tank_fuse/short;RP 741
+weapons/fr_2000l_rpl_741_rafale_drop_tank_right;Réservoir Pendulaire RP 741 (2000 L)
+weapons/fr_2000l_rpl_741_rafale_drop_tank_right/short;RP 741
+weapons/fr_500l_m4000_drop_tank_1;500 L Réservoir Pendulaire;
+weapons/fr_500l_m4000_drop_tank_1/short;Réservoir Pendulaire;
+weapons/fr_500l_m4000_drop_tank_2;500 L Réservoir Pendulaire;
+weapons/fr_500l_m4000_drop_tank_2/short;Réservoir Pendulaire;
+weapons/fr_625l_drop_tank;675 L Réservoir Pendulaire;
+weapons/fr_625l_drop_tank/short;Réservoir Pendulaire;
+weapons/310l_alpha_jet_france_1;310 L Réservoir Pendulaire;
+weapons/310l_alpha_jet_france_1/short;Réservoir Pendulaire;
+weapons/310l_alpha_jet_france_2;310 L Réservoir Pendulaire;
+weapons/310l_alpha_jet_france_2/short;Réservoir Pendulaire;
+weapons/fr_1200l_rp35_drop_tank_1;Réservoir Pendulaire RP 35 (1200 L);
+weapons/fr_1200l_rp35_drop_tank_1/short;RP 35;
+weapons/fr_1200l_rp35_drop_tank_2;Réservoir Pendulaire RP 35 (1200 L);
+weapons/fr_1200l_rp35_drop_tank_2/short;RP 35;
+weapons/fr_1200l_rp35_drop_tank_fuse;Réservoir Pendulaire RP 35 (1200 L);
+weapons/fr_1200l_rp35_drop_tank_fuse/short;RP 35;
+weapons/fr_1200l_rp35_drop_tank_aluminium_1;Réservoir Pendulaire RP 35 (1200 L);
+weapons/fr_1200l_rp35_drop_tank_aluminium_1/short;RP 35;
+weapons/fr_1200l_rp35_drop_tank_aluminium_2;Réservoir Pendulaire RP 35 (1200 L);
+weapons/fr_1200l_rp35_drop_tank_aluminium_2/short;RP 35;
+weapons/fr_1200l_rp35_drop_tank_aluminium_fuse;Réservoir Pendulaire RP 35 (1200 L);
+weapons/fr_1200l_rp35_drop_tank_aluminium_fuse/short;RP 35;
+weapons/fr_1200l_rp35_drop_tank_gray_1;Réservoir Pendulaire RP 35 (1200 L);
+weapons/fr_1200l_rp35_drop_tank_gray_1/short;RP 35;
+weapons/fr_1200l_rp35_drop_tank_gray_2;Réservoir Pendulaire RP 35 (1200 L);
+weapons/fr_1200l_rp35_drop_tank_gray_2/short;RP 35;
+weapons/fr_1200l_rp35_drop_tank_gray_fuse;Réservoir Pendulaire RP 35 (1200 L);
+weapons/fr_1200l_rp35_drop_tank_gray_fuse/short;RP 35;
+weapons/fr_1200l_rp36_drop_tank_1;Réservoir Pendulaire RP 36 (1200 L);
+weapons/fr_1200l_rp36_drop_tank_1/short;RP 36;
+weapons/fr_1200l_rp36_drop_tank_2;Réservoir Pendulaire RP 36 (1200 L);
+weapons/fr_1200l_rp36_drop_tank_2/short;RP 36;
+weapons/fr_1200l_rp36_drop_tank_3;Réservoir Pendulaire RP 36 (1200 L);
+weapons/fr_1200l_rp36_drop_tank_3/short;RP 36;
+weapons/fr_1200l_rp36_drop_tank_aluminium_1;Réservoir Pendulaire RP 36 (1200 L);
+weapons/fr_1200l_rp36_drop_tank_aluminium_1/short;RP 36;
+weapons/fr_1200l_rp36_drop_tank_aluminium_2;Réservoir Pendulaire RP 36 (1200 L);
+weapons/fr_1200l_rp36_drop_tank_aluminium_2/short;RP 36;
+weapons/fr_1200l_rp36_drop_tank_aluminium_3;Réservoir Pendulaire RP 36 (1200 L);
+weapons/fr_1200l_rp36_drop_tank_aluminium_3/short;RP 36;
+weapons/fr_1200l_rp36_drop_tank_desert_1;Réservoir Pendulaire RP 36 (1200 L);
+weapons/fr_1200l_rp36_drop_tank_desert_1/short;RP 36;
+weapons/fr_1200l_rp36_drop_tank_desert_2;Réservoir Pendulaire RP 36 (1200 L);
+weapons/fr_1200l_rp36_drop_tank_desert_2/short;RP 36;
+weapons/fr_1200l_rp36_drop_tank_desert_3;Réservoir Pendulaire RP 36 (1200 L);
+weapons/fr_1200l_rp36_drop_tank_desert_3/short;RP 36;
+weapons/fr_1200l_rp36_drop_tank_gray_1;Réservoir Pendulaire RP 36 (1200 L);
+weapons/fr_1200l_rp36_drop_tank_gray_1/short;RP 36;
+weapons/fr_1200l_rp36_drop_tank_gray_2;Réservoir Pendulaire RP 36 (1200 L);
+weapons/fr_1200l_rp36_drop_tank_gray_2/short;RP 36;
+weapons/fr_1200l_rp36_drop_tank_gray_3;Réservoir Pendulaire RP 36 (1200 L);
+weapons/fr_1200l_rp36_drop_tank_gray_3/short;RP 36;
+weapons/fr_1300l_rp62_drop_tank_1;Réservoir Pendulaire RP 62 (1300 L);
+weapons/fr_1300l_rp62_drop_tank_1/short;RP 62;
+weapons/fr_1300l_rp62_drop_tank_2;Réservoir Pendulaire RP 62 (1300 L);
+weapons/fr_1300l_rp62_drop_tank_2/short;RP 62;
+weapons/fr_1700l_rp30_drop_tank_1;Réservoir Pendulaire RP 30 (1700 L);
+weapons/fr_1700l_rp30_drop_tank_1/short;RP 30;
+weapons/fr_1700l_rp30_drop_tank_2;Réservoir Pendulaire RP 30 (1700 L);
+weapons/fr_1700l_rp30_drop_tank_2/short;RP 30;
+weapons/fr_1700l_rp30_mirage_3e_drop_tank_1;Réservoir Pendulaire RP 30 (1700 L);
+weapons/fr_1700l_rp30_mirage_3e_drop_tank_1/short;RP 30;
+weapons/fr_1700l_rp30_mirage_3e_drop_tank_2;Réservoir Pendulaire RP 30 (1700 L);
+weapons/fr_1700l_rp30_mirage_3e_drop_tank_2/short;RP 30;
+weapons/fr_as20;AS.20;
+weapons/fr_as20/short;AS.20;
+weapons/fr_as30;AS.30;
+weapons/fr_as30/short;AS.30;
+weapons/fr_as30l;AS.30L;
+weapons/fr_as30l/short;AS.30L;
+weapons/gr_as34_kormoran;AS.34 Kormoran;
+weapons/gr_as34_kormoran/short;AS.34;
+weapons/fr_tba_ecc;TBA 100 Emploi Contre-Chars;
+weapons/fr_tba_ecc/short;TBA 100 ECC;
+weapons/fr_tba_multidart_ab;TBA Multi-Dart 100 Anti-Blindés Légers;
+weapons/fr_tba_multidart_ab/short;TBA Multi-Dart 100 ABL;
+weapons/fr_130kg_samp_mk81;Bombe SAMP 130 kg Mk 81;
+weapons/fr_130kg_samp_mk81/short;130 kg Mk 81;
+weapons/fr_250kg_samp_mk82;Bombe SAMP 250 kg Mk 82;
+weapons/fr_250kg_samp_mk82/short;250 kg Mk 82;
+weapons/fr_500kg_samp_mk83;Bombe SAMP 5000 kg Mk 83;
+weapons/fr_500kg_samp_mk83/short;500 kg Mk 83;
+weapons/fr_1000kg_samp_mk84;Bombe SAMP 1000 kg Mk 84;
+weapons/fr_1000kg_samp_mk84/short;1000 kg Mk 84;

@@ -1,1 +1,19 @@
 <ID|readonly|noverify>;<NewLanguage>
+weapons/us_750lb_m117_cone_45_japan;Bomb, General Purpose: 750-lb, JM117;
+weapons/us_750lb_m117_cone_45_japan/short;750-lb JM117;
+weapons/jp_750lb_m117_gcs_1;Bomb, General Purpose: 750-lb, JM117 (GCS-1);
+weapons/jp_750lb_m117_gcs_1/short;750-lb JM117 (GCS-1);
+weapons/jp_i_aaq2_targeting_pod;外装型FLIR装置J/AAQ-2
+weapons/jp_i_aaq2_targeting_pod/short;J/AAQ-2
+weapons/jp_300_gal_fuse_f_2;300 gal. Drop Tank;
+weapons/jp_300_gal_fuse_f_2/short;Drop Tank
+weapons/jp_600gal_drop_tank_1;600 gal. Drop Tank;
+weapons/jp_600gal_drop_tank_1/short;Drop Tank
+weapons/jp_600gal_drop_tank_2;600 gal. Drop Tank;
+weapons/jp_600gal_drop_tank_2/short;Drop Tank
+weapons/jp_asm1;ASM-1
+weapons/jp_asm1/short;ASM-1
+weapons/jp_asm2;ASM-2
+weapons/jp_asm2/short;ASM-2
+weapons/120mm_TKG_user_cannon;10式120mm戦車砲;
+120mm_type_10;10式120mm装弾筒付翼安定徹甲弾;

@@ -1,1 +1,20 @@
 <ID|readonly|noverify>;<NewLanguage>
+weapons/it_snia_bpd_50mm_type_arf8m_at_ap;ARF/8M3 (AP-AT);
+weapons/it_snia_bpd_50mm_type_arf8m_at_ap/short;ARF/8M3;
+weapons/it_aspide_control_station;Aspide (Targeting Pod);
+weapons/it_aspide_control_station/short;Aspide (TP);
+weapons/it_pdlct_s_pod_targeting_pod;Convertible Laser Designator Pod;
+weapons/it_pdlct_s_pod_targeting_pod/short;CLDP;
+weapons/it_cldp_targeting_pod;Convertible Laser Designator Pod
+weapons/it_cldp_targeting_pod/short;CLDP
+weapons/it_580l_amx_1;580 L Serbatoio sganciabile;
+weapons/it_580l_amx_1/short;Serbatoio sganciabile;
+weapons/it_580l_amx_2;580 L Serbatoio sganciabile;
+weapons/it_580l_amx_2/short;Serbatoio sganciabile;
+weapons/it_1500l_tornado_ids_mod_95_1;1500 L Serbatoio sganciabile;
+weapons/it_1500l_tornado_ids_mod_95_1/short;Serbatoio sganciabile;
+weapons/it_1500l_tornado_ids_mod_95_2;1500 L Serbatoio sganciabile;
+weapons/it_1500l_tornado_ids_mod_95_2/short;Serbatoio sganciabile;
+weapons/40mm_cannone_da_40_70_user_cannon;Cannone Controaeri da 40/70;
+40mm_im219_ap;APCBC-T;
+40mm_m2_he;HEI-T;

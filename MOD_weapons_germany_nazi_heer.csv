@@ -1,1 +1,52 @@
 <ID|readonly|noverify>;<NewLanguage>
+
+weapons/88mm_Flak41_user_cannon;8,8 cm-Flugabwehrkanone 41 (L/71);
+weapons/128mm_KwK44_user_cannon;12,8 cm-Kampfwagenkanone 44 (L/55);
+128mm_pzgr_ts;12,8/8,8 Panzergranate-Treibspiegel;
+weapons/128mm_PaK44_user_cannon;12,8 cm-Panzerjagdkanone 80 (L/55);
+weapons/105mm_Kwk46_user_cannon;10,5 cm-Kampfwagenkanone (L/68);
+weapons/380mm_RW_61_user_cannon;38 cm-Raketenwerfer 61 (L/5,4);
+380mm_sprgr4581;Raketen-Sprengranate 4581;
+weapons/380mm_sprgr4581/short;R.Spr.Gr. 4581;
+weapons/105mm_StuH42_user_cannon;10,5 cm-Sturmhaubitze 42 (L/28);
+weapons/20mm_FlaK38_user_cannon;2 cm-Flugabwehrkanone 38 (L/65);
+weapons/20mm_FlaK38_wirbelwind_user_cannon;2 cm-Flugabwehrkanone 38 (L/65)
+weapons/20mm_65_c38_vierling_naval_user_cannon;2 cm-Flugabwehrkanone-Vierling C/38;
+weapons/20mm_KwK30_222_user_cannon;2 cm-Kampfwagenkanone 30 (L/55);
+weapons/20mm_KwK30_user_cannon;2 cm-Kampfwagenkanone 30 (L/55);
+weapons/20mm_KwK38_user_cannon;2 cm-Kampfwagenkanone 38 (L/55);
+weapons/30mm_MK103_38_user_cannon;3 cm-Flugzeugmaschinenkanone 103/38;
+weapons/30mm_mk103_45_user_cannon;3 cm-Flugabwehrkanone 103/38;
+weapons/30mm_38_mk103_1942_naval_user_cannon;3 cm-Flugzeugmaschinenkanone 103/38;
+weapons/37mm_PaK_user_cannon;3,7 cm-Panzerabwehrkanone 36 (L/45);
+weapons/37mm_KwK38_t_user_cannon;3,7 cm-Kampfwagenkanone 38(t) (L/47.8);
+weapons/37mm_FlaK43_user_cannon;3,7 cm-Flugabwehrkanone 43 (L/57);
+weapons/37mm_FlaK44_user_cannon;3,7 cm-Flugabwehrkanone 44 (L/57);
+weapons/37mm_gerat_341_user_cannon;3,7 cm Gerät 341
+37mm_pzgr_341;Panzergranate
+37mm_sprgr_341;Sprengranate
+weapons/37mm_FlaK36_user_cannon;3,7 cm-Flugabwehrkanone 36 (L/57);
+weapons/37mm_KwK34_t_user_cannon;3,7 cm-Kampfwagenkanone 34(t) (L/40);
+weapons/37mm_KwK36_user_cannon;3,7 cm-Kampfwagenkanone 36 (L/45);
+weapons/37mm_KwK36_for_nbfz_user_cannon;3,7 cm-Kampfwagenkanone 36 (L/45);
+weapons/88mm_Kwk43_for_tutorial_user_cannon;8,8 cm-Kampfwagenkanone 43 (L/71);
+weapons/50mm_KwK38_user_cannon;5 cm-Kampfwagenkanone 38 (L/42);
+weapons/50mm_KwK38_open_turret_user_cannon;5 cm-Kampfwagenkanone 38 (L/42);
+weapons/50mm_PaK38_user_cannon;5 cm-Panzerabwehrkanone 38 (L/60);
+weapons/50mm_KwK39_user_cannon;5 cm-Kampfwagenkanone 39 (L/60);
+weapons/75mm_StuK37_user_cannon;7,5 cm-Sturmkanone 37 (L/24);
+weapons/75mm_KwK51_user_cannon;7,5 cm-Kanone 51 (L/24);
+weapons/75mm_KwK44_L36_user_cannon;7,5 cm-Kampfwagenkanone 44 (L/36.5);
+weapons/75mm_KwK37_user_cannon;7,5 cm-Kampfwagenkanone 37 (L/24);
+weapons/75mm_KwK37_for_nbfz_user_cannon;7,5 cm-Kampfwagenkanone 37 (L/24);
+weapons/75mm_KwK40_L43_user_cannon;7,5 cm-Kampfwagenkanone 40 (L/43);
+weapons/76mm_PaK36_R_user_cannon;7,62 cm-Panzerabwehrkanone 36(r) (L/51.2);
+weapons/75mm_PaK39_L48_hetzer_user_cannon;7,5 cm-Panzerabwehrkanone 39 (L/48);
+weapons/75mm_PaK39_L48_user_cannon;7,5 cm-Panzerabwehrkanone 39 (L/48);
+weapons/75mm_PaK42_user_cannon;7,5 cm-Panzerabwehrkanone 42 (L/70);
+weapons/75mm_PaK40_3_L46_user_cannon;7,5 cm-Panzerabwehrkanone 40/3 (L/46);
+weapons/75mm_StuK40_L48_user_cannon;7,5 cm-Sturmkanone 40 (L/48);
+weapons/75mm_StuK40_L43_user_cannon;7,5 cm-Sturmkanone 40 (L/43);
+weapons/75mm_KwK40_L48_user_cannon;7,5 cm-Kampfwagenkanone 40 (L/48);
+weapons/75mm_Kwk44_user_cannon;7,5 cm-Kampfwagenkanone 44/1 (L/70);
+weapons/75mm_Kwk42_user_cannon;7,5 cm-Kampfwagenkanone 42 (L/70);

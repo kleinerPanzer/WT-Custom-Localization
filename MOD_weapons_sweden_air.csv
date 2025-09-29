@@ -1,1 +1,59 @@
 <ID|readonly|noverify>;<NewLanguage>
+weapons/sw_500kg_brandbomb_m58;500 kg brandbomb m/58;
+weapons/sw_500kg_brandbomb_m58/short;m/58;
+weapons/swd_rb_05a;Robot 05A;
+weapons/swd_rb_05a/short;Rb 05A;
+weapons/swd_75mm_m57b;7,5 cm srak m/57B;
+weapons/swd_75mm_m57b/short;m/57B;
+weapons/swd_75mm_frida;7,5 cm srak m/55;
+weapons/swd_75mm_frida/short;m/55;
+weapons/swd_135mm_srak_m56d;13,5 cm srak m/56D;
+weapons/swd_135mm_srak_m56d/short;m/56D;
+weapons/swd_145mm_psrak_m49a;14,5 cm psrak m/49A;
+weapons/swd_145mm_psrak_m49a/short;m/49A;
+weapons/swd_145mm_psrak_m49a_mount;14,5 cm psrak m/49A;
+weapons/swd_145mm_psrak_m49a_mount/short;m/49A;
+weapons/swd_145mm_psrak_m49_56;14,5 cm psrak m/49-56;
+weapons/swd_145mm_psrak_m49_56/short;m/49-56;
+weapons/swd_150mm_srak_m51;15 cm srak m/51;
+weapons/swd_150mm_srak_m51/short;m/51;
+weapons/swd_150mm_srak_m51_mount;15 cm srak m/51;
+weapons/swd_150mm_srak_m51_mount/short;m/51;
+weapons/swd_180mm_hpsrak_m49;18 cm hpsrak m/49;
+weapons/swd_180mm_hpsrak_m49/short;m/49;
+weapons/swd_135mm_psrak_m70_pshu;13,5 cm psrak m/70;
+weapons/swd_135mm_psrak_m70_pshu/short;m/70;
+weapons/sw_1100_gal_fuse_saab_jas39;1100 L Fällbar extratank;
+weapons/sw_1100_gal_fuse_saab_jas39/short;Fälltank;
+weapons/sw_1100_gal_fuse_saab_jas39_left_wing;1100 L Fällbar extratank;
+weapons/sw_1100_gal_fuse_saab_jas39_left_wing/short;Fälltank;
+weapons/sw_1100_gal_fuse_saab_jas39_right_wing;1100 L Fällbar extratank;
+weapons/sw_1100_gal_fuse_saab_jas39_right_wing/short;Fälltank;
+weapons/sw_1100_gal_fuse_saab_jas39_puma;1100 L Fällbar extratank;
+weapons/sw_1100_gal_fuse_saab_jas39_puma/short;Fälltank;
+weapons/sw_1100_gal_fuse_saab_jas39_left_wing_puma;1100 L Fällbar extratank;
+weapons/sw_1100_gal_fuse_saab_jas39_left_wing_puma/short;Fälltank;
+weapons/sw_1100_gal_fuse_saab_jas39_right_wing_puma;1100 L Fällbar extratank;
+weapons/sw_1100_gal_fuse_saab_jas39_right_wing_puma/short;Fälltank;
+weapons/sw_1250l_late_saab_ja37d;1250 L Fällbar extratank;
+weapons/sw_1250l_late_saab_ja37d/short;Fälltank;
+weapons/sw_510l_drop_tank;510 L Fällbar extratank;
+weapons/sw_510l_drop_tank/short;Fälltank;
+weapons/sw_510l_drop_tank_x2;510 L Fällbar extratank;
+weapons/sw_510l_drop_tank_x2/short;Fälltank;
+weapons/sw_510l_wdns_drop_tank;510 L Drop Tank
+weapons/sw_510l_wdns_drop_tank/short;Drop Tank
+weapons/sw_510l_wdns_drop_tank_x2;510 L Drop Tank
+weapons/sw_510l_wdns_drop_tank_x2/short;Drop Tank
+weapons/sw_275gal_fuse_drop_tank;275 gal Drop Tank
+weapons/sw_275gal_fuse_drop_tank/short;Drop Tank
+weapons/sw_275gal_drop_tank_1;275 gal Drop Tank
+weapons/sw_275gal_drop_tank_1/short;Drop Tank
+weapons/sw_275gal_drop_tank_2;275 gal Drop Tank
+weapons/sw_275gal_drop_tank_2/short;Drop Tank
+weapons/swd_m41_torpedo;Torped m/41;
+weapons/swd_m41_torpedo/short;m/41;
+weapons/swd_m36_torpedo;Torped m/36;
+weapons/swd_m36_torpedo/short;m/36;
+weapons/swd_m38_torpedo;Torped m/38;
+weapons/swd_m38_torpedo/short;m/38;

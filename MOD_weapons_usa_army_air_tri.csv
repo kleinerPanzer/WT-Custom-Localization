@@ -1,0 +1,351 @@
+<ID|readonly|noverify>;<NewLanguage>
+weapons/cannonT15E1;Gun, 75-mm, T15E1;
+weapons/gunBrowning30_usaaf;Machine Gun, Caliber .50: AN/M2, Aircraft, Basic;
+weapons/gunBrowning30_usaaf_1935;Machine Gun, Caliber .50: AN/M2, Aircraft, Basic;
+weapons/gunBrowning30_turret;Machine Gun, Caliber .50: AN/M2, Aircraft, Basic;
+weapons/gunBrowning50_M3;Machine Gun, Caliber .50: AN/M3, Aircraft, Basic;
+weapons/gunBrowning50_M3_underwing;Machine Gun, Caliber .50: AN/M3, Aircraft, Basic;
+weapons/gunBrowning50_early;Machine Gun, Caliber .50: AN/M2, Aircraft, Basic;
+weapons/gunBrowning50_early_1935;Machine Gun, Caliber .50: AN/M2, Aircraft, Basic;
+weapons/gunBrowning50_M2;Machine Gun, Caliber .50: AN/M2, Aircraft, Basic;
+weapons/gunBrowning50_M2_late;Machine Gun, Caliber .50: AN/M2, Aircraft, Basic;
+weapons/gunBrowning50_M2_underwing;Machine Gun, Caliber .50: AN/M2, Aircraft, Basic;
+weapons/gunBrowning50;Machine Gun, Caliber .50: AN/M2, Aircraft, Basic;
+weapons/gunBrowning50_usaaf;Browning Machine Gun, Caliber .50, AN/M2 (Aircraft);
+weapons/gunBrowning50_turret;Browning Machine Gun, Caliber .50, AN/M2 (Aircraft);
+weapons/gunBrowning50_turret_late;Browning Machine Gun, Caliber .50, AN/M2 (Aircraft);
+weapons/cannonAN_M2;Gun, 20-mm, Automatic: AN/M2 (Aircraft);
+weapons/cannonT31;20 mm Automatic Gun, T31;
+weapons/cannonAN_M3;Gun, 20-mm, Automatic: AN/M3 (Aircraft);
+weapons/cannonT_160;Gun, 20-mm, Automatic: FMC T-160;
+weapons/cannonM39;Gun, 20-mm, Automatic: M39;
+weapons/cannonM24A1;Gun, 20-mm, Automatic: M24A1;
+weapons/cannonM4;Gun, 37-mm, Automatic: AN/M4 (Aircraft);
+weapons/cannonM9;Gun, 37-mm, Automatic: AN/M9;
+weapons/cannonM10;Gun, 37-mm, Automatic: M10 (Aircraft);
+weapons/fr_750lb_m117_cone_90;Bomb, General Purpose: 750-lb, M117;
+weapons/fr_750lb_m117_cone_45;Bomb, General Purpose: 750-lb, M117;
+weapons/fr_750lb_m117_cone_90/short;750-lb M117;
+weapons/fr_750lb_m117_cone_45/short;750-lb M117;
+weapons/us_750lb_m117_cone_45;Bomb, General Purpose: 750-lb, M117;
+weapons/us_750lb_m117_cone_45/short;750-lb M117;
+weapons/us_b61;B61
+weapons/us_b61/short;B61
+weapons/us_blu27b;Bomb, Fire: 750-lb, BLU-27/B;
+weapons/us_blu27b/short;BLU-27/B;
+weapons/us_blu_1;Bomb, Fire: 750-lb, BLU-1/B;
+weapons/us_blu_1/short;BLU-1/B;
+weapons/us_500lb_mk77_mod2;Bomb, Fire: 750-lb, Mk 77 Mod 2;
+weapons/us_500lb_mk77_mod2/short;500-lb Mk 77;
+weapons/us_500lb_mk77_mod4;Bomb, Fire: 750-lb, Mk 77 Mod 4;
+weapons/us_500lb_mk77_mod4/short;500-lb Mk 77;
+weapons/us_250_lb_blu_10b;Bomb, Fire: 250-lb BLU-10/B;
+weapons/us_250_lb_blu_10b/short;BLU-10/B;
+weapons/us_500_lb_blu_23b;Bomb, Fire: 500-lb BLU-23/B;
+weapons/us_500_lb_blu_23b/short;BLU-23/B;
+weapons/us_750_lb_m116a2;Bomb, Fire: 750-lb M116A2;
+weapons/us_750_lb_m116a2/short;M116A2;
+weapons/us_750lb_mk_78_mod_2;Bomb, Fire: 750-lb Mk 78 Mod 2;
+weapons/us_750lb_mk_78_mod_2/short;Mk 78 Mod 2;
+weapons/us_750lb_mk77_mod0;Bomb, Fire: 750-lb Mk 77 Mod 0;
+weapons/us_750lb_mk77_mod0/short;Mk 77 Mod 0;
+weapons/us_1000_lb_mk_79_mod_0;Bomb, Fire: 1000-lb Mk 79 Mod 0;
+weapons/us_1000_lb_mk_79_mod_0/short;Mk 79 Mod 0;
+weapons/us_2000lb_agm_130a;AGM-130A;
+weapons/us_2000lb_agm_130a/short;AGM-130A;
+weapons/us_2000lb_agm_130a_12;AGM-130A-12;
+weapons/us_2000lb_agm_130a_12/short;AGM-130A-12;
+weapons/us_gbu_12_paveway_2;Bomb Unit, Guided, GBU-12/B Paveway II;
+weapons/us_gbu_12_paveway_2/short;GBU-12/B;
+weapons/us_gbu_49_paveway_2;Bomb Unit, Guided, GBU-49(V)1/B Paveway II
+weapons/us_gbu_49_paveway_2/short;GBU-49(V)1/B
+weapons/us_gbu_48_paveway_2;Bomb Unit, Guided, GBU-48(V)1/B Paveway II
+weapons/us_gbu_48_paveway_2/short;GBU-48(V)1/B
+weapons/us_gbu_50_paveway_2;Bomb Unit, Guided, GBU-50/B Paveway II
+weapons/us_gbu_50_paveway_2/short;GBU-50/B
+weapons/us_gbu_16_paveway_2;Bomb Unit, Guided, GBU-16/B Paveway II;
+weapons/us_gbu_16_paveway_2/short;GBU-16/B;
+weapons/us_gbu_10_paveway_2;Bomb Unit, Guided, GBU-10C/B Paveway II;
+weapons/us_gbu_10_paveway_2/short;GBU-10C/B;
+weapons/us_2000lb_gbu_24;Bomb Unit, Guided, GBU-24/B Paveway III;
+weapons/us_2000lb_gbu_24/short;GBU-24/B;
+weapons/us_2000lb_gbu_27;Bomb Unit, Guided, GBU-27/B Paveway III
+weapons/us_2000lb_gbu_27/short;GBU-27/B
+weapons/us_gbu_22_paveway_3;Bomb Unit, Guided, GBU-22/B Paveway III
+weapons/us_gbu_22_paveway_3/short;GBU-22/B
+weapons/us_gbu_39;Bomb Unit, Guided, GBU-39/B
+weapons/us_gbu_39/short;GBU-39/B
+weapons/us_agm_123;AGM-123A Skipper II;
+weapons/us_agm_123/short;AGM-123A;
+weapons/us_agm_119a_penguin;AGM-119A Penguin
+weapons/us_agm_119a_penguin/short;AGM-119A
+weapons/us_2000lb_egbu_24_paveway_3;Bomb Unit, Guided, GBU-24E/B Paveway III
+weapons/us_2000lb_egbu_24_paveway_3/short;GBU-24E/B
+weapons/us_2000lb_gbu_15v1;Bomb Unit, Guided, GBU-15(V)1/B;
+weapons/us_2000lb_gbu_15v1/short;GBU-15(V)1/B;
+weapons/us_2000lb_gbu_15v2;Bomb Unit, Guided, GBU-15(V)2/B;
+weapons/us_2000lb_gbu_15v2/short;GBU-15(V)2/B;
+weapons/us_2000lb_gbu_8_hobos;Bomb Unit, Guided, GBU-8/B;
+weapons/us_2000lb_gbu_8_hobos/short;GBU-8/B;
+weapons/us_500lb_gbu38_usaf;Bomb Unit, Guided, GBU-38(V)2/B JDAM;
+weapons/us_500lb_gbu38_usaf/short;GBU-38;
+weapons/us_500lb_gbu38_usnavy;Bomb Unit, Guided, GBU-38(V)2/B JDAM;
+weapons/us_500lb_gbu38_usnavy/short;GBU-38;
+weapons/us_500lb_gbu_54b;Bomb Unit, Guided, GBU-54(V)1/B LJDAM
+weapons/us_500lb_gbu_54b/short;GBU-54(V)1/B
+weapons/us_500lb_gbu_54b_navy;Bomb Unit, Guided, GBU-54(V)1/B LJDAM
+weapons/us_500lb_gbu_54b_navy/short;GBU-54(V)1/B
+weapons/us_500lb_gbu_62_jdam_er;Bomb Unit, Guided, GBU-62(V)1/B JDAM-ER
+weapons/us_500lb_gbu_62_jdam_er/short;GBU-62(V)1/B
+weapons/us_500lb_gbu_62_ljdam_er;Bomb Unit, Guided, GBU-62(V)1/B LJDAM-ER
+weapons/us_500lb_gbu_62_ljdam_er/short;GBU-62(V)1/B
+weapons/us_2000lb_gbu_64_jdam_er;Bomb Unit, Guided, GBU-64(V)1/B JDAM-ER
+weapons/us_2000lb_gbu_64_jdam_er/short;GBU-64(V)1/B
+weapons/us_2000lb_gbu31_usaf;Bomb Unit, Guided, GBU-31(V)1/B JDAM;
+weapons/us_2000lb_gbu31_usaf/short;GBU-31;
+weapons/us_2000lb_gbu31_usnavy;Bomb Unit, Guided, GBU-31(V)1/B JDAM;
+weapons/us_2000lb_gbu31_usnavy/short;GBU-31;
+weapons/us_1000lb_gbu32_usaf;Bomb Unit, Guided, GBU-32(V)1/B JDAM
+weapons/us_1000lb_gbu32_usaf/short;GBU-32(V)1/B
+weapons/us_1000lb_gbu32_navy;Bomb Unit, Guided, GBU-32(V)1/B JDAM
+weapons/us_1000lb_gbu32_navy/short;GBU-32(V)1/B
+weapons/us_agm_62a_er;AGM-62A Walleye I ER;
+weapons/us_agm_62a_er/short;AGM-62A ER;
+weapons/us_agm_62a;AGM-62A Walleye I;
+weapons/us_agm_62a/short;AGM-62A;
+weapons/us_agm_62a_2_erdl;AGM-62A Walleye I ERDL;
+weapons/us_agm_62a_2_erdl/short;AGM-62A ER/DL
+weapons/jp_500lb_mk82_gcs_1;Bomb, Low-Drag, Mk 82 Mod 1 (GCS-1);
+weapons/jp_500lb_mk82_gcs_1/short;500-lb Mk 82 (GCS-1);
+weapons/us_1000lb_anm65_cone;Bomb, General Purpose: 1000-lb, AN/M65A1 (M129 Fin);
+weapons/us_2000lbs_anm66;Bomb, General Purpose: 2000-lb, AN/M66A2;
+weapons/us_2000lbs_anm66_cone;Bomb, General Purpose: 2000-lb, AN/M66A2;
+weapons/us_2000lbs_anm66_cone/short;2000-lb AN/M66A2;
+weapons/us_1600lb_ap_an_mk1;Bomb, Armor-Piercing: 1600-lb, AN/Mk 1 Mod 1;
+weapons/us_1600lb_ap_an_mk1/short;1600-lb AN/Mk 1 Mod 0;
+weapons/us_1600lb_ap_an_mk1_45;Bomb, Armor-Piercing: 1600-lb, AN/Mk 1 Mod 1;
+weapons/us_1600lb_ap_an_mk1_45/short;1600-lb AN/Mk 1 Mod 0;
+weapons/us_1000lbs;Bomb, General Purpose: 1000-lb, AN/M65A1;
+weapons/us_100lbs;Bomb, General Purpose: 100-lb, AN/M30A1;
+weapons/us_2000lbs;Bomb, General Purpose: 2000-lb, AN/M66A2;
+weapons/us_500lbs;Bomb, General Purpose: 500-lb, AN/M64A1;
+weapons/us_500lb_mk_82_ldgp_air;Bomb, Low-Drag, Mk 82 Mod 1 (BSU-49);
+weapons/us_500lb_mk_82_ldgp_air/short;500-lb Mk 82 (BSU-49);
+weapons/us_250lb_mk_81_ldgp_snakeye;Bomb, Low-Drag, Mk 81 Mod 1 Snakeye;
+weapons/us_250lb_mk_81_ldgp_snakeye/short;250-lb Mk 81 Snakeye;
+weapons/us_500lb_mk_82_ldgp_snakeye;Bomb, Low-Drag, Mk 82 Mod 1 Snakeye;
+weapons/us_500lb_mk_82_ldgp_snakeye/short;500-lb Mk 82 Snakeye;
+weapons/us_500lb_mk_82_ldgp_snakeye_default;Bomb, Low-Drag, Mk 82 Mod 1 Snakeye;
+weapons/us_500lb_mk_82_ldgp_snakeye_default/short;500-lb Mk 82 Snakeye;
+weapons/us_1000lb_mk_83_ldgp_air;Bomb, Low-Drag, Mk 83 Mod 1 (BSU-49);
+weapons/us_1000lb_mk_83_ldgp_air/short;1000-lb Mk 83 (BSU-49);
+weapons/us_2_75_in_ffar_mighty_mouse;Rocket, High-Explosive Dual-Purpose, 2.75” w/ Warhead, M247 (Rocket Motor Mk 4 Mod 10);
+weapons/us_2_75_in_ffar_mighty_mouse/short;2.75” HE-DP (M247 | Mk 4);
+weapons/us_2_75_in_ffar_mighty_mouse_fn_m3p;Rocket, High-Explosive Dual-Purpose, 2.75” w/ Warhead, M247 (Rocket Motor Mk 4 Mod 10);
+weapons/us_2_75_in_ffar_mighty_mouse_fn_m3p/short;2.75” HE-DP (M247 | Mk 4);
+weapons/us_2_75_in_ffar_mighty_mouse_fn_m3p_cwp;Rocket, High-Explosive Dual-Purpose, 2.75” w/ Warhead, M247 (Rocket Motor Mk 4 Mod 10);
+weapons/us_2_75_in_ffar_mighty_mouse_fn_m3p_cwp/short;2.75” HE-DP (M247 | Mk 4);
+weapons/us_2_75_in_ffar_mighty_mouse_m429;Rocket, HE, 2.75” w/ Warhead, M151 (Fuze, Rocket, Proximity, M429 | Rocket Motor Mk 4 Mod 10);
+weapons/us_2_75_in_ffar_mighty_mouse_m429/short;2.75” HE (M151 | Mk 4);
+weapons/us_2_75_in_ffar_mighty_mouse_m439;Rocket, HE, 2.75” w/ Warhead, M151 (Fuze, Rocket, Proximity, M429 | Rocket Motor Mk 4 Mod 10);
+weapons/us_2_75_in_ffar_mighty_mouse_m439/short;2.75” HE (M151 | Mk 4);
+weapons/us_2_75_in_ffar_mighty_mouse_default;Rocket, High-Explosive Dual-Purpose, 2.75” w/ Warhead, M247 (Rocket Motor Mk 4 Mod 10);
+weapons/us_2_75_in_ffar_mighty_mouse_default/short;2.75” HE-DP (M247 | Mk 4);
+weapons/us_agm_12b_bullpup;AGM-12B Bullpup;
+weapons/us_agm_12b_bullpup/short;AGM-12B;
+weapons/us_agm_12b_bullpup_heli;AGM-12B Bullpup;
+weapons/us_agm_12b_bullpup_heli/short;AGM-12B;
+weapons/us_agm_12c_bullpup;AGM-12C Bullpup;
+weapons/us_agm_12c_bullpup/short;AGM-12C;
+weapons/an_aaq_25_lantirn;AN/AAQ-25 LANTIRN;
+weapons/an_aaq_25_lantirn/short;AN/AAQ-25;
+weapons/us_agm_12b_station;AGM-12B (Targeting Pod);
+weapons/us_agm_12b_station/short;AGM-12B (TP);
+weapons/us_lana_flir_pod;AN/AAR-45 Low Altitude Night Attack;
+weapons/us_lana_flir_pod/short;AN/AAR-45 LANA;
+weapons/us_sniper_atp_targeting_pod;AN/AAQ-33 Sniper Advanced Targeting Pod
+weapons/us_sniper_atp_targeting_pod/short;AN/AAQ-33
+weapons/an_aas_38;FLIR/LD Pod, AN/AAS-38 NITE Hawk
+weapons/an_aas_38/short;AN/AAS-38
+weapons/an_aas_38a;FLIR/LD Pod, AN/AAS-38A NITE Hawk
+weapons/an_aas_38a/short;AN/AAS-38A
+weapons/an_aas_38b;FLIR/LD Pod, AN/AAS-38B NITE Hawk
+weapons/an_aas_38b/short;AN/AAS-38B
+weapons/an_asq_228_pod;Multipurpose FLIR Pod, AN/ASQ-228 ATFLIR
+weapons/an_asq_228_pod/short;AN/ASQ_228
+weapons/us_pave_spike_targeting_pod;AN/ASQ-153 Pave Spike;
+weapons/us_pave_spike_targeting_pod/short;AN/ASQ-153;
+weapons/us_pave_tack_targeting_pod;AN/AVQ-26 Pave Tack;
+weapons/us_pave_tack_targeting_pod/short;AN/AVQ-26;
+weapons/us_300_gal_fuse_f_16_blok_10;300 gal. Drop Tank;
+weapons/us_300_gal_fuse_f_16_blok_10/short;Drop Tank;
+weapons/us_330gal_fa_18_drop_tank_wing_left;330 gal. Drop Tank
+weapons/us_330gal_fa_18_drop_tank_wing_left/short;Drop Tank
+weapons/us_330gal_fa_18_drop_tank_wing_right;330 gal. Drop Tank
+weapons/us_330gal_fa_18_drop_tank_wing_right/short;Drop Tank
+weapons/us_330gal_fa_18_drop_tank_fuse;330 gal. Drop Tank
+weapons/us_330gal_fa_18_drop_tank_fuse/short;Drop Tank
+weapons/us_280gal_drop_tank;280 gal. Drop Tank;
+weapons/us_280gal_drop_tank/short;Drop Tank;
+weapons/us_280gal_drop_tank_1;280 gal. Drop Tank;
+weapons/us_280gal_drop_tank_1/short;Drop Tank;
+weapons/us_280gal_drop_tank_light;280 gal. Drop Tank;
+weapons/us_280gal_drop_tank_light/short;Drop Tank;
+weapons/us_280gal_drop_tank_light_1;280 gal. Drop Tank;
+weapons/us_280gal_drop_tank_light_1/short;Drop Tank;
+weapons/us_370_gal_wing_f_16;370 gal. Drop Tank;
+weapons/us_370_gal_wing_f_16/short;Drop Tank;
+weapons/us_370_gal_wing_f_16_1;370 gal. Drop Tank;
+weapons/us_370_gal_wing_f_16_1/short;Drop Tank;
+weapons/us_200_gal_wing_f2h_2_left;200 gal. Drop Tank;
+weapons/us_200_gal_wing_f2h_2_left/short;Drop Tank;
+weapons/us_200_gal_wing_f2h_2_right;200 gal. Drop Tank;
+weapons/us_200_gal_wing_f2h_2_right/short;Drop Tank;
+weapons/us_600_gal_fuse_f_4;600 gal. Drop Tank;
+weapons/us_600_gal_fuse_f_4/short;Drop Tank;
+weapons/us_610_gal_f_15_left_wing;610 gal. Drop Tank;
+weapons/us_610_gal_f_15_left_wing/short;Drop Tank;
+weapons/us_610_gal_f_15_left_wing_dark;610 gal. Drop Tank;
+weapons/us_610_gal_f_15_left_wing_dark/short;Drop Tank;
+weapons/us_750_gal_fastpack_f_15c_left;750 gal. Conformal Fuel Tank;
+weapons/us_750_gal_fastpack_f_15c_left/short;Conformal Fuel Tank;
+weapons/us_750_gal_fastpack_f_15c_right;750 gal. Conformal Fuel Tank;
+weapons/us_750_gal_fastpack_f_15c_right/short;Conformal Fuel Tank;
+weapons/us_610_gal_f_15_fuse;610 gal. Drop Tank;
+weapons/us_610_gal_f_15_fuse/short;Drop Tank;
+weapons/us_610_gal_f_15_fuse_dark;610 gal. Drop Tank;
+weapons/us_610_gal_f_15_fuse_dark/short;Drop Tank;
+weapons/us_610_gal_f_15_right_wing;610 gal. Drop Tank;
+weapons/us_610_gal_f_15_right_wing/short;Drop Tank;
+weapons/us_610_gal_f_15_right_wing_dark;610 gal. Drop Tank;
+weapons/us_610_gal_f_15_right_wing_dark/short;Drop Tank;
+weapons/us_600_gal_f_111a_2;600 gal. Drop Tank;
+weapons/us_600_gal_f_111a_2/short;Drop Tank;
+weapons/us_600_gal_f_111a_3;600 gal. Drop Tank;
+weapons/us_600_gal_f_111a_3/short;Drop Tank;
+weapons/us_600_gal_f_111a_4;600 gal. Drop Tank;
+weapons/us_600_gal_f_111a_4/short;Drop Tank;
+weapons/us_600_gal_f_111a_5;600 gal. Drop Tank;
+weapons/us_600_gal_f_111a_5/short;Drop Tank;
+weapons/us_150gal_early_drop_tank_1;150 gal. Drop Tank;
+weapons/us_150gal_early_drop_tank_1/short;Drop Tank;
+weapons/us_150gal_early_drop_tank_2;150 gal. Drop Tank;
+weapons/us_150gal_early_drop_tank_2/short;Drop Tank;
+weapons/us_150gal_early_fuse_drop_tank;150 gal. Drop Tank;
+weapons/us_150gal_early_fuse_drop_tank/short;Drop Tank;
+weapons/us_150gal_fuse_drop_tank;150 gal. Drop Tank;
+weapons/us_150gal_fuse_drop_tank/short;Drop Tank;
+weapons/us_150gal_late_drop_tank_1;150 gal. Drop Tank;
+weapons/us_150gal_late_drop_tank_1/short;Drop Tank;
+weapons/us_150gal_late_drop_tank_2;150 gal. Drop Tank;
+weapons/us_150gal_late_drop_tank_2/short;Drop Tank;
+weapons/us_150gal_early_f_20_drop_tank_1;150 gal. Drop Tank;
+weapons/us_150gal_early_f_20_drop_tank_1/short;Drop Tank;
+weapons/us_150gal_early_f_20_drop_tank_2;150 gal. Drop Tank;
+weapons/us_150gal_early_f_20_drop_tank_2/short;Drop Tank;
+weapons/us_150gal_fuse_f_20_drop_tank;150 gal. Drop Tank;
+weapons/us_150gal_fuse_f_20_drop_tank/short;Drop Tank;
+weapons/us_600_gal_a_10c_1;600 gal. Drop Tank;
+weapons/us_600_gal_a_10c_1/short;Drop Tank;
+weapons/us_600_gal_a_10c_2;600 gal. Drop Tank;
+weapons/us_600_gal_a_10c_2/short;Drop Tank;
+weapons/us_600_gal_a_10c_3;600 gal. Drop Tank;
+weapons/us_600_gal_a_10c_3/short;Drop Tank;
+weapons/us_358gal_f_106_1;358 gal. Drop Tank
+weapons/us_358gal_f_106_1/short;Drop Tank
+weapons/us_358gal_f_106_2;358 gal. Drop Tank
+weapons/us_358gal_f_106_2/short;Drop Tank
+weapons/us_275gal_fuse_clip_drop_tank_1;275 gal. Drop Tank
+weapons/us_275gal_fuse_clip_drop_tank_1/short;Drop Tank
+weapons/us_1000lb_anm65a1;Bomb, General Purpose: 1000-lb, AN/M65A1;
+weapons/us_1000lb_anm65a1_default;Bomb, General Purpose: 1000-lb, AN/M65A1;
+weapons/us_1000lb_anm65a1_default/short;1000-lb AN/M65A1;
+weapons/us_100lb_anm30;Bomb, General Purpose: 100-lb, AN/M30A1;
+weapons/us_250lb_anm57;Bomb, General Purpose: 250-lb, AN/M57;
+weapons/us_250lb_anm57_default;Bomb, General Purpose: 250-lb, AN/M57;
+weapons/us_250lb_anm57_default/short;250-lb AN/M57
+weapons/us_500lb_anm64a1;Bomb, General Purpose: 500-lb, AN/M64A1;
+weapons/us_1000lb_anm65a1_rod;Bomb, General Purpose: 1000-lb, AN/M65A1;
+weapons/us_500lb_anm64a1_rod;Bomb, General Purpose: 500-lb, AN/M64A1;
+weapons/us_250lb_mk_81_ldgp;Bomb, Low-Drag, Mk 81 Mod 1;
+weapons/us_500lb_mk_82_ldgp;Bomb, Low-Drag, Mk 82 Mod 1;
+weapons/us_500lb_mk_82_ldgp_default;Bomb, Low-Drag, Mk 82 Mod 1;
+weapons/us_1000lb_mk_83_ldgp;Bomb, 1000-lb, LD GP, Mk 83 Mod 1;
+weapons/us_1000lb_mk_83_ldgp_default;Bomb, Low-Drag, Mk 83 Mod 1;
+weapons/us_2000lb_mk_84_ldgp;Bomb, Low-Drag, Mk 84 Mod 1;
+weapons/us_3000lb_m118;Bomb, General Purpose: 3000-lb, M118;
+weapons/us_3000lb_m118/short;3000-lb M118;
+weapons/us_3000lb_m118_90;Bomb, General Purpose: 3000-lb, M118;
+weapons/us_3000lb_m118_90/short;3000-lb M118;
+weapons/us_4000lb_anm56_box;Bomb, Large-Capacity: 4000-lb, AN/M56;
+weapons/us_4000lb_anm56_box/short;4000-lb AN/M56;
+weapons/us_250lb_mk_81_ldgp/short;250-lb Mk 81;
+weapons/us_500lb_mk_82_ldgp/short;500-lb Mk 82;
+weapons/us_500lb_mk_82_ldgp_default/short;500-lb Mk 82;
+weapons/us_1000lb_mk_83_ldgp/short;1000-lb Mk 83;
+weapons/us_1000lb_mk_83_ldgp_default/short;1000-lb Mk 83;
+weapons/us_2000lb_mk_84_ldgp/short;2000-lb Mk 84;
+weapons/us_2000lb_mk_84_ldgp_air;Bomb, Low-Drag, Mk 84 Mod 1 (BSU-50);
+weapons/us_2000lb_mk_84_ldgp_air/short;2000-lb Mk 84 (BSU-50);
+weapons/china_250kg_mk_82;Bomb, Low-Drag, Mk 82 Mod 1;
+weapons/china_250kg_mk_82/short;500-lb Mk 82;
+weapons/us_300lb_m_31;Bomb, Demolition, 300-lb, M31;
+weapons/us_300lb_m_31/short;300-lb M31;
+weapons/us_600lb_m_32;Bomb, Demolition, 600-lb, M32;
+weapons/us_600lb_m_32/short;600-lb M32;
+weapons/us_1000lb_anm_44;Bomb, General-Purpose: 1000-lb, AN/M44;
+weapons/us_1000lb_anm_44/short;1000-lb AN/M44;
+weapons/us_600lb_m62_ap;Bomb, Armor-Piercing, 600-lb, M62;
+weapons/us_600lb_m62_ap/short;600-lb M62;
+weapons/us_1000lb_anmk33_box_ap;Bomb, Armor-Piercing, 1600-lb, AN/Mk 33 Mod 1;
+weapons/us_1000lb_anmk33_box_ap/short;1000-lb AN/Mk 33;
+weapons/us_1000lb_anmk33_box_ap_45;Bomb, Armor-Piercing, 1600-lb, AN/Mk 33 Mod 1;
+weapons/us_1000lb_anmk33_box_ap_45/short;1000-lb AN/Mk 33;
+weapons/us_1400lb_m63_ap;Bomb, Armor-Piercing, 1400-lb, M63;
+weapons/us_1400lb_m63_ap/short;1400-lb M63;
+weapons/us_1000lb_gp_mk9;Bomb, General-Purpose: 1000-lb, Mk 9 Mod 0;
+weapons/us_1000lb_gp_mk9/short;100-lb Mk 9;
+weapons/us_2000lbs_m_34;Bomb, General-Purpose: 2000-lb, AN/M34;
+weapons/us_2000lbs_m_34/short;2000-lb AN/M34;
+weapons/lau_131a_x3;LAU-131/A;
+weapons/lau_131a_x3/short;LAU-131/A;
+weapons/us_500lb_mk_82_x3_ter9a_1;Bomb, Low-Drag, Mk 82 Mod 1;
+weapons/us_500lb_mk_82_x3_ter9a_1/short;500-lb Mk 82;
+weapons/dra_lau_105a_aim_9l_lm;AIM-9L Sidewinder;
+weapons/dra_lau_105a_aim_9l_lm/short;AIM-9L;
+weapons/dra_lau_105a_aim_9l_rm;AIM-9L Sidewinder;
+weapons/dra_lau_105a_aim_9l_rm/short;AIM-9L;
+weapons/105mm_M4_user_cannon;Howitzer, 105-mm, M4;
+weapons/105mm_M68A1_E8_user_cannon;Cannon, 105-mm Gun: M68A1E8;
+weapons/105mm_M68A1_AGS_user_cannon;105-mm Ex 35 Mod 0;
+105mm_m900;APFSDS-T, M900;
+weapons/105mm_M68_XM_user_cannon;Cannon, 105-mm Gun: M68;
+weapons/105mm_M68_user_cannon;Cannon, 105-mm Gun: M68;
+weapons/105mm_M68_TTS_user_cannon;Cannon, 105-mm Gun: M68;
+weapons/105mm_T15E2_user_cannon;Gun, 105-mm, T5E1;
+weapons/37mm_M1A2_user_cannon;Gun, Automatic, 37-mm, M1A2;
+weapons/37mm_M5_early_user_cannon;Gun, 37-mm, M5;
+weapons/37mm_M5_user_cannon;Gun, 37-mm, M5;
+weapons/37mm_M6_user_cannon;Gun, 37-mm, M6;
+weapons/37mm_M3_user_cannon;Gun, 37-mm, M3;
+weapons/37mm_M5_user_cannon_for_M3_Lee;Gun, 37-mm, M5;
+weapons/37mm_M3_user_cannon_for_M6A1;Gun, 37-mm, M3;
+weapons/40mm_M2_user_cannon;Gun, Automatic, 40-mm, M1;
+weapons/57mm_M1_user_cannon;Gun, 57-mm, M1;
+weapons/57mm_M1_open_turret_user_cannon;Gun, 57-mm, M1;
+weapons/75mm_m1897a4_user_cannon;Gun, 75-mm, M1897A4;
+weapons/75mm_M32_user_cannon;Gun, 75-mm, M32;
+weapons/75mm_M2_user_cannon;Gun, 75-mm, M2;
+weapons/75mm_M6_user_cannon;Gun, 75-mm, M6;
+weapons/75mm_m3_user_cannon;Gun, 75-mm, M3;
+weapons/75mm_m3_open_turret_user_cannon;Gun, 75-mm, M3;
+weapons/76mm_M7_for_M10_user_cannon;Gun, 3-in, M7;
+weapons/76mm_M7_user_cannon;Gun, 3-in, M7;
+weapons/76mm_M1_user_cannon;Gun, 76-mm, M1A1C;
+weapons/76mm_M1_open_turret_user_cannon;Gun, 76-mm, M1A1C;
+weapons/76mm_M1_no_MB_user_cannon;Gun, 76-mm, M1A1;
+weapons/76mm_M1_open_turret_no_MB_user_cannon;Gun, 76-mm, M1A1;
+weapons/76mm_M1A1_user_cannon;Gun, 76-mm, M1A1;
+weapons/76mm_M1A2_user_cannon;Gun, 76-mm, M1A2;
+weapons/76mm_T185E1_user_cannon;Gun, 76-mm, T185E1;
+weapons/76mm_M32_user_cannon;Gun, 76-mm, M32A1;

@@ -1,1 +1,36 @@
 <ID|readonly|noverify>;<NewLanguage>
+
+weapons/100mm_LB1_user_cannon;100-мм танковая пушка ЛБ-1;
+weapons/100mm_C34_user_cannon;100-мм танковая пушка С-34;
+weapons/100mm_D10S_user_cannon;100-мм самоходная пушка обр. 1944 г. (Д-10СУ);
+weapons/100mm_D10T_user_cannon;100-мм танковая пушка обр. 1944 г. (Д-10T);
+weapons/152mm_2A33_user_cannon;152-мм гаубица Д-22 (2А33М);
+152mm_3of25;3ОФ25;
+152mm_3of25_vt;3ОФ25 «Гриф»;
+152mm_3of45;3ОФ45;
+152mm_3of45_vt;3ОФ45-1;
+weapons/122mm_M62T2S_user_cannon;122-мм танковая пушка М-62Т2 (2А17);
+weapons/122mm_M30_user_cannon;122-мм гаубица обр. 1938 г. (М-30);
+weapons/122mm_A19_user_cannon;122-мм самоходная пушка обр. 1931/44 г. (A-19C);
+weapons/122mm_D25S_user_cannon;122-мм самоходная пушка обр. 1943 г. (Д-25C);
+weapons/122mm_D25T_user_cannon;122-мм танковая пушка обр. 1943 г. (Д-25Т);
+weapons/122mm_D25TS_user_cannon;122-мм танковая пушка обр. 1943 г. (Д-25ТC);
+weapons/122mm_D30T_user_cannon;122-мм танковая пушка Д-30T;
+weapons/122mm_D49_user_cannon;122-мм самоходная пушка Д-49;
+weapons/130mm_B13_user_cannon;130-мм корабельная пушка обр. 1935 г. (Б-13);
+weapons/152mm_M10T_user_cannon;152-мм танковая гаубица обр. 1938 г. (М-10T);
+weapons/152mm_ML20S_user_cannon;152-мм самоходная гаубица-пушка обр. 1937 г. (МЛ-20С);
+weapons/20mm_TNSh_user_cannon;20-мм танковая пушка ТНШ-20;
+weapons/25mm_72K_user_cannon;25-мм автоматическая зенитная пушка обр. 1940 г. (72-К);
+weapons/37mm_Sh_37_user_cannon;37-мм пушка Ш-37;
+weapons/37mm_61_K_user_cannon;37-мм автоматическая зенитная пушка обр. 1939 г. (61-К);
+weapons/45mm_20K_for_tutorial_user_cannon;45-мм танковая пушка обр. 1932/38 г. (20-K);
+weapons/45mm_20K_user_cannon_for_T_35;45-мм танковая пушка обр. 1932/38 г. (20-K);
+weapons/45mm_20K_user_cannon;45-мм танковая пушка обр. 1932/38 г. (20-K);
+weapons/57mm_ZIS2_user_cannon;57-мм противотанковая пушка обр. 1941 г. (ЗиС-2);
+weapons/57mm_S_68_user_cannon;57-мм автоматическая зенитная пушка C-68;
+weapons/57mm_AU_220_user_cannon;57-мм автоматическая зенитная пушка 2А90;
+weapons/57mm_AU_220M_user_cannon;57-мм автоматическая зенитная пушка 2А90;
+weapons/57mm_ZIS4M_user_cannon;57-мм танковая пушка ЗиС-4;
+weapons/57mm_ZIS4_user_cannon;57-мм танковая пушка ЗиС-4;
+weapons/57mm_ZIS4_open_turret_user_cannon;57-мм танковая пушка ЗиС-4;

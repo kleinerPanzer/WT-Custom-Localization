@@ -1,0 +1,19 @@
+<ID|readonly|noverify>;<NewLanguage>
+weapons/nld_50kg;Vliegtuigbom 50;
+weapons/nld_50kg/short;50 kg;
+weapons/nld_100kg;Vliegtuigbom 100;
+weapons/nld_100kg/short;100 kg;
+weapons/nld_300kg;Vliegtuigbom 300;
+weapons/nld_300kg/short;300 kg;
+weapons/nld_400kg;Vliegtuigbom 400;
+weapons/nld_400kg/short;400 kg;
+weapons/nl_150gal_early_fuse_drop_tank;150 gal Centreline Tank
+weapons/nl_150gal_early_fuse_drop_tank/short;Centreline Tank
+weapons/nl_150gal_early_drop_tank_1;150 gal Wing Tank
+weapons/nl_150gal_early_drop_tank_1/short;Wing Tank
+weapons/nl_150gal_early_drop_tank_2;150 gal Wing Tank
+weapons/nl_150gal_early_drop_tank_2/short;Wing Tank
+weapons/nl_50gal_wingtip_tank_1;50 gal Tip Tank
+weapons/nl_50gal_wingtip_tank_1/short;Tip Tank
+weapons/nl_50gal_wingtip_tank_2;50 gal Tip Tank
+weapons/nl_50gal_wingtip_tank_2/short;Tip Tank
