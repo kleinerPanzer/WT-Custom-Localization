@@ -1,4 +1,30 @@
 <ID|readonly|noverify>;<NewLanguage>
+
+// Army //
+
+uk_matilda_hedgehog_shop;Matilda Hedgehog
+uk_matilda_hedgehog_0;Matilda Projector, Hedgehog, No. 1 Mk. I
+uk_matilda_hedgehog_1;Matilda Hedgehog
+uk_matilda_hedgehog_2;Matilda
+uk_ac1_sentinel_shop;Australian Cruiser Mk. I
+uk_ac1_sentinel_0;Tank, Cruiser, Australian, Mk. I
+uk_ac1_sentinel_1;Australian Cruiser Mk. I
+uk_ac1_sentinel_2;Australian Cruiser
+uk_ac4_thunderbolt_shop;Australian Cruiser Mk. IV
+uk_ac4_thunderbolt_0;Tank, Cruiser, Australian, Mk. IV
+uk_ac4_thunderbolt_1;Australian Cruiser Mk. IV
+uk_ac4_thunderbolt_2;Australian Cruiser
+uk_centurion_mk_5_raac_shop;Centurion Mk. 5/1
+uk_centurion_mk_5_raac_0;FV4017 Tank, Combat, 20-lb Gun, Centurion Mk. 5/1
+uk_centurion_mk_5_raac_1;Centurion Mk. 5
+uk_centurion_mk_5_raac_2;Centurion
+us_m1a1_aim_abrams_shop;M1A1 AIM SA (1st AR)
+us_m1a1_aim_abrams_0;Tank, Combat, Full-Tracked: 120-mm Gun, M1A1 Abrams Integrated Management, Situational Awareness (1st Armoured Regiment)
+us_m1a1_aim_abrams_1;M1A1 AIM SA
+us_m1a1_aim_abrams_2;M1
+
+// RAAF //
+
 beaufighter_mk21_shop;Beaufighter Mk. 21
 beaufighter_mk21_0;Beaufighter Mk. 21
 beaufighter_mk21_1;Beaufighter Mk. 21
@@ -36,3 +62,10 @@ fa_18a_hug_2_raaf_shop;▄ F/A-18A (HUG 2.4)
 fa_18a_hug_2_raaf_0;▄ F/A-18A Hornet (Hornet Upgrade Phase 2.4)
 fa_18a_hug_2_raaf_1;▄ F/A-18A
 fa_18a_hug_2_raaf_2;F/A-18
+
+// RAN //
+
+uk_destroyer_battle_tobruk_shop;Tobruk (D 37)
+uk_destroyer_battle_tobruk_0;Australian Battle-Class Destroyer, HMAS Tobruk (D 37) (1944)
+uk_destroyer_battle_tobruk_1;Tobruk
+uk_destroyer_battle_tobruk_2;Battle-Class

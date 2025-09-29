@@ -1,4 +1,161 @@
 <ID|readonly|noverify>;<NewLanguage>
+ussr_zsu_23_4m4_shop;ЗСУ-23-4М4
+ussr_zsu_23_4m4_0;Зенитная самоходная установка ЗСУ-23-4М4 «Шилка-М4» (2А6М4)
+ussr_zsu_23_4m4_1;ЗСУ-23-4М4
+ussr_zsu_23_4m4_2;ЗСУ-23-4
+ussr_zprk_2s6_shop;2С6М1
+ussr_zprk_2s6_0;Зенитная самоходная установка 2С6М1
+ussr_zprk_2s6_1;2С6М1
+ussr_zprk_2s6_2;2С6
+ussr_pantsyr_s1_shop;72В6
+ussr_pantsyr_s1_0;Боевая машина 72В6
+ussr_pantsyr_s1_1;72В6
+ussr_pantsyr_s1_2;72В6
+ussr_buk_m3_launcher_shop;9А317М
+ussr_buk_m3_launcher_0;БМ 9А317М
+ussr_buk_m3_launcher_1;9А317М
+ussr_buk_m3_launcher_2;9А317
+ussr_buk_m3_fcs_shop;9С18М3
+ussr_buk_m3_fcs_0;СОЦ 9С18М3
+ussr_buk_m3_fcs_1;9С18М3
+ussr_buk_m3_fcs_2;9С18
+ussr_bmp_2m_shop;БМП-2М
+ussr_bmp_2m_0;Боевая машина пехоты БМП-2М
+ussr_bmp_2m_1;БМП-2М
+ussr_bmp_2m_2;БМП-2
+ussr_bmd_4_shop;БМД-4
+ussr_bmd_4_0;Боевая машина десанта БМД-4
+ussr_bmd_4_1;БМД-4
+ussr_bmd_4_2;БМД-4
+ussr_bmd_4m_shop;БМД-4М
+ussr_bmd_4m_0;Боевая машина десанта БМД-4М
+ussr_bmd_4m_1;БМД-4М
+ussr_bmd_4m_2;БМД-4
+ussr_bmp_3_shop;БМП-3 (2017)
+ussr_bmp_3_0;Боевая машина пехоты БМП-3 обр. 2017 г.
+ussr_bmp_3_1;БМП-3
+ussr_bmp_3_2;БМП-3
+ussr_2s38_shop;2С38
+ussr_2s38_0;Боевая машина 2С38
+ussr_2s38_1;2С38
+ussr_2s38_2;2С38
+ussr_t_72b3_2011_shop;Т-72Б3М (2016)
+ussr_t_72b3_2011_0;Танк Т-72Б3М обр. 2016 г.
+ussr_t_72b3_2011_1;Т-72Б3М
+ussr_t_72b3_2011_2;Т-72
+ussr_t_72b3_arena_m_shop;Т-72Б3А
+ussr_t_72b3_arena_m_0;Танк Т-72Б3А
+ussr_t_72b3_arena_m_1;Т-72Б3А
+ussr_t_72b3_arena_m_2;Т-72
+ussr_t_72b3_2017_race_shop;Т-72Б3М (2016)
+ussr_t_72b3_2017_race_0;Танк Т-72Б3М обр. 2016 г.
+ussr_t_72b3_2017_race_1;Т-72Б3М
+ussr_t_72b3_2017_race_2;Т-72
+ussr_t_90a_shop;Т-90А (2006)
+ussr_t_90a_0;Танк Т-90А обр. 2006 г.
+ussr_t_90a_1;Т-90А
+ussr_t_90a_2;Т-90
+ussr_t_90m_2020_shop;Т-90М (2019)
+ussr_t_90m_2020_0;Танк Т-90М обр. 2019 г.
+ussr_t_90m_2020_1;Т-90М
+ussr_t_90m_2020_2;Т-90
+ussr_t_80bvm_shop;Т-80БВМ (2016)
+ussr_t_80bvm_0;Танк Т-80БВМ обр. 2016 г.
+ussr_t_80bvm_1;Т-80БВМ
+ussr_t_80bvm_2;Т-80
+mi_8amtsh_shop;Ми-8АМТШ
+mi_8amtsh_0;Ми-8АМТШ
+mi_8amtsh_1;Ми-8АМТШ
+mi_8amtsh_2;Ми-8
+mi_8amtsh_vn_shop;Ми-8АМТШ-BН
+mi_8amtsh_vn_0;Ми-8АМТШ-BН
+mi_8amtsh_vn_1;Ми-8АМТШ
+mi_8amtsh_vn_2;Ми-8
+mi_35m_shop;Ми-35М
+mi_35m_0;Ми-35М
+mi_35m_1;Ми-35М
+mi_35m_2;Ми-35
+ussr_9p157_shop;9П157-2
+ussr_9p157_0;Боевая машина 9П157-2
+ussr_9p157_1;9П157-2
+ussr_9p157_2;9П157
+ussr_9p149_shop;9П149М
+ussr_9p149_0;Боевая машина 9П149М
+ussr_9p149_1;9П149М
+ussr_9p149_2;9П149
+ussr_t_80u_race_shop;Т-80У (1993)
+ussr_t_80u_race_0;Танк Т-80У обр. 1993 г. (АГАВА-2)
+ussr_t_80u_race_1;Т-80У
+ussr_t_80u_race_2;Т-80
+ussr_t_80ue1_shop;Т-80У-Е1
+ussr_t_80ue1_0;Танк Т-80У-Е1
+ussr_t_80ue1_1;Т-80У-Е1
+ussr_t_80ue1_2;Т-80
+ussr_t_80uk_shop;Т-80УК (1992)
+ussr_t_80uk_0;Танк Т-80УК обр. 1992 г.
+ussr_t_80uk_1;Т-80УК
+ussr_t_80uk_2;Т-80
+ussr_t_80u_shop;Т-80У (1993)
+ussr_t_80u_0;Танк Т-80У обр. 1993 г. (АГАВА-2)
+ussr_t_80u_1;Т-80У
+ussr_t_80u_2;Т-80
+ussr_t_80u_yt_cup_2019_shop;Т-80У (1993) (YTC)
+ussr_t_80u_yt_cup_2019_0;Танк Т-80У обр. 1993 г. (АГАВА-2) (YouTube Cup)
+ussr_t_80u_yt_cup_2019_1;Т-80У
+ussr_t_80u_yt_cup_2019_2;Т-80
+ka_29_shop;Ка-29
+ka_29_0;Ка-29
+ka_29_1;Ка-29
+ka_29_2;Ка-29
+ka_50_shop;Ка-50
+ka_50_0;Ка-50
+ka_50_1;Ка-50
+ka_50_2;Ка-50
+ka_52_shop;Ка-52
+ka_52_0;Ка-52
+ka_52_1;Ка-52
+ka_52_2;Ка-52
+mi_28n_shop;Ми-28Н
+mi_28n_0;Ми-28Н
+mi_28n_1;Ми-28Н
+mi_28n_2;Ми-28
+mi_28nm_shop;Ми-28НМ
+mi_28nm_0;Ми-28НМ
+mi_28nm_1;Ми-28НМ
+mi_28nm_2;Ми-28
+ussr_2s25_shop;2С25
+ussr_2s25_0;125-мм самоходная противотанковая пушка 2С25 «Спрут-СД»
+ussr_2s25_1;2С25
+ussr_2s25_2;2С25
+ussr_btr_80a_shop;БТР-80А
+ussr_btr_80a_0;Бронетранспортёр БТР-80А
+ussr_btr_80a_1;БТР-80А
+ussr_btr_80a_2;БТР-80
+ussr_2s19_m1_shop;2С19М1
+ussr_2s19_m1_0;Самоходная артиллерийская установка 2С19М1
+ussr_2s19_m1_1;2С19М
+ussr_2s19_m1_2;2С19
+ussr_2s19_m2_shop;2С19М2
+ussr_2s19_m2_0;Самоходная артиллерийская установка 2С19М2
+ussr_2s19_m2_1;2С19М
+ussr_2s19_m2_2;2С19
+
+ussr_pt_76_57_shop;ПТ-76Б (БМ-57)
+ussr_pt_76_57_0;Танк ПТ-76Б (БМ-57)
+ussr_pt_76_57_1;ПТ-76Б (БМ-57)
+ussr_pt_76_57_2;ПТ-76
+mi_35p_shop;Ми-35П
+mi_35p_0;Ми-35П Феникс
+mi_35p_1;Ми-35П
+mi_35p_2;Ми-35
+ussr_2s25m_shop;2С25М
+ussr_2s25m_0;125-мм самоходная противотанковая пушка 2С25М «Спрут-СДМ1»
+ussr_2s25m_1;2С25М
+ussr_2s25m_2;2С25М
+ussr_bmd_4m2_shop;БМД-4М (Синица)
+ussr_bmd_4m2_0;Боевая машина десанта БМД-4М (БО Синица)
+ussr_bmd_4m2_1;БМД-4М
+ussr_bmd_4m2_2;БМД-4
 ussr_t_34E_shop;Т-34 (февр. 1943) Экранами
 ussr_t_34E_0;Танк Т-34 обр. февраль 1943 г. с экранами (Завод №112)
 ussr_t_34E_1;Т-34 Экранами

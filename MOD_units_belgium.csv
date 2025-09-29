@@ -1,4 +1,7 @@
 <ID|readonly|noverify>;<NewLanguage>
+
+// Air//
+
 gladiator_mk1_belgium_shop;♔ Gladiator Mk. I
 gladiator_mk1_belgium_0;♔ Gladiator Mk. I
 gladiator_mk1_belgium_1;♔ Gladiator Mk. I
@@ -31,3 +34,14 @@ f_16am_block_15_mlu_belgium_shop;♔ F-16AM-20
 f_16am_block_15_mlu_belgium_0;♔ F-16AM-20 CF
 f_16am_block_15_mlu_belgium_1;♔ F-16AM
 f_16am_block_15_mlu_belgium_2;F-16
+
+// Army //
+
+fr_m44_shop;♔ M44
+fr_m44_0;♔ Affût automteur M44 pour obusier de 155 mm
+fr_m44_1;♔ M44
+fr_m44_2;M44
+fr_m55_shop;♔ M55
+fr_m55_0;♔ Affût automteur M55 pour obusier de 208 mm
+fr_m55_1;♔ M55
+fr_m55_2;M55
