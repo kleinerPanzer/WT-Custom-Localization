@@ -69,3 +69,9 @@ weapons/76mm_40_type_88_aa_naval_user_cannon;四十口径三年式八糎高角�
 76mm_type0_navy_he;〇式榴弾;
 76mm_type0_navy_he_dist_fuse;〇式榴弾;
 weapons/depth_charge_jp_type2_mod_1;二式一型爆雷;
+weapons/120mm_10th_Year_type_user_cannon;四十五口径十年式十二糎高角砲;
+120mm_common_he_base_fuze;〇式榴弾;
+120mm_ordinary_mod_1;一式榴弾;
+weapons/120mm_Navy_Short_Gun_user_cannon;十二口径短十二糎砲;
+120mm_type88_mod4_fuze;八八式四型榴弾;
+120mm_type88_selective_fuze;八八式榴弾;

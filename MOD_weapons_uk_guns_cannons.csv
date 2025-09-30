@@ -151,3 +151,5 @@ weapons/40mm_l60_bofors_mk3_single_naval_user_cannon;Ordnance, Q.F., 40 mm, Mk. 
 weapons/40mm_qf_bofors_mk7_single_naval_user_cannon;Ordnance, Q.F., 40 mm, Mk. VII;
 weapons/40mm_qf_bofors_mk5_twin_naval_user_cannon;Ordnance, Q.F., 40 mm, Mk. V;
 weapons/40mm_qf_bofors_staag_mk2_twin_naval_user_cannon;Ordnance, Q.F., 40 mm, STAAG Mk. II;
+weapons/114mm_19_4_5in_8cwt_qf_mark1_naval_user_cannon;Ordnance, Q.F., 4.7-inch, Mk. I;
+114mm_he_shell;HE;
