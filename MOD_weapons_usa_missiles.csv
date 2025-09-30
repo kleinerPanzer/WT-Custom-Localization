@@ -38,3 +38,261 @@ weapons/127mm_MIM_72_launcher_user_cannon/short;M54A2;
 weapons/127mm_MIM_72G_launcher_user_cannon;Guided Missile System, Aerial-Intercept, M54A2;
 weapons/127mm_MIM_72G_launcher_user_cannon/short;M54A2;
 152mm_mim14;MIM-146;
+weapons/us_127mm_TOW2;BGM-71D TOW 2;
+weapons/us_127mm_TOW2/short;BGM-71D;
+weapons/us_127mm_TOW;BGM-71C ITOW;
+weapons/us_127mm_TOW/short;BGM-71C;
+weapons/us_bgm_71_tow_heli;BGM-71C ITOW;
+weapons/us_bgm_71_tow_heli/short;BGM-71C;
+weapons/us_bgm_71_tow_heli_default;BGM-71C ITOW;
+weapons/us_bgm_71_tow_heli_default/short;BGM-71C;
+weapons/us_bgm_71_tow2_heli;BGM-71D TOW 2;
+weapons/us_bgm_71_tow2_heli/short;BGM-71D;
+weapons/us_bgm_71_tow2_heli_default;BGM-71D TOW 2;
+weapons/us_bgm_71_tow2_heli_default/short;BGM-71D;
+weapons/us_apkws_m151;AGR-20A Advanced Precision Kill Weapon System;
+weapons/us_apkws_m151/short;AGR-20A;
+weapons/us_apkws_m282;AGR-20B Advanced Precision Kill Weapon System;
+weapons/us_apkws_m282/short;AGR-20B;
+weapons/us_AGM_22;AGM-22;
+weapons/us_AGM_22/short;AGM-22;
+weapons/us_hellfire_agm_114_b;AGM-114B Hellfire;
+weapons/us_hellfire_agm_114_b/short;AGM-114B;
+weapons/us_hellfire_agm_114_b_default;AGM-114B Hellfire;
+weapons/us_hellfire_agm_114_b_default/short;AGM-114B;
+weapons/us_hellfire_agm_114_k;AGM-114K Hellfire II;
+weapons/us_hellfire_agm_114_k/short;AGM-114K;
+weapons/us_hellfire_agm_114_k_default;AGM-114K Hellfire II;
+weapons/us_hellfire_agm_114_k_default/short;AGM-114K;
+weapons/us_hellfire_agm_114_k_ucav_default;AGM-114K Hellfire II;
+weapons/us_hellfire_agm_114_k_ucav_default/short;AGM-114K;
+weapons/us_hellfire_agm_114_c;AGM-114C Hellfire;
+weapons/us_hellfire_agm_114_c/short;AGM-114C;
+weapons/us_agm_179_mr_ir;AGM-179 JAGM-MR (IR)
+weapons/us_agm_179_mr_ir/short;AGM-179 (IR)
+weapons/us_agm_179_mr_sal;AGM-179 JAGM-MR (SAL)
+weapons/us_agm_179_mr_sal/short;AGM-179 (SAL)
+weapons/us_aim7c_sparrow;AIM-7C Sparrow;
+weapons/us_aim7c_sparrow/short;AIM-7C;
+weapons/us_aim7d_sparrow;AIM-7D Sparrow;
+weapons/us_aim7d_sparrow/short;AIM-7D;
+weapons/us_aim7e_sparrow;AIM-7E Sparrow;
+weapons/us_aim7e_sparrow/short;AIM-7E;
+weapons/us_aim7e2_sparrow;AIM-7E-2 Sparrow;
+weapons/us_aim7e2_sparrow/short;AIM-7E-2;
+weapons/us_aim7f_sparrow;AIM-7F Sparrow;
+weapons/us_aim7f_sparrow/short;AIM-7F;
+weapons/us_aim7f_sparrow_default;AIM-7F Sparrow;
+weapons/us_aim7f_sparrow_default/short;AIM-7F;
+weapons/us_aim7m_sparrow;AIM-7M Sparrow;
+weapons/us_aim7m_sparrow/short;AIM-7M;
+weapons/us_aim7m_sparrow_default;AIM-7M Sparrow
+weapons/us_aim7m_sparrow_default/short;AIM-7M
+weapons/us_aim7e2_dogfight_sparrow;AIM-7E-2 Sparrow;
+weapons/us_aim7e2_dogfight_sparrow/short;AIM-7E-2;
+weapons/us_aim7f_sparrow_f_14;AIM-7F Sparrow;
+weapons/us_aim7f_sparrow_f_14/short;AIM-7F;
+weapons/us_aim7f_sparrow_fa_18;AIM-7F Sparrow
+weapons/us_aim7f_sparrow_fa_18/short;AIM-7F
+weapons/us_aim7m_sparrow_f_14;AIM-7M Sparrow;
+weapons/us_aim7m_sparrow_f_14/short;AIM-7M;
+weapons/us_aim7m_sparrow_f_15;AIM-7M Sparrow;
+weapons/us_aim7m_sparrow_f_15/short;AIM-7M;
+weapons/us_aim7m_sparrow_f_15_default;AIM-7M Sparrow;
+weapons/us_aim7m_sparrow_f_15_default/short;AIM-7M;
+weapons/us_aim7m_sparrow_f_16;AIM-7M Sparrow;
+weapons/us_aim7m_sparrow_f_16/short;AIM-7M;
+weapons/us_aim7m_sparrow_f_16_default;AIM-7M Sparrow;
+weapons/us_aim7m_sparrow_f_16_default/short;AIM-7M;
+weapons/us_aim7m_sparrow_fa_18;AIM-7M Sparrow
+weapons/us_aim7m_sparrow_fa_18/short;AIM-7M
+weapons/us_aim7p_sparrow_fa_18;AIM-7P Sparrow
+weapons/us_aim7p_sparrow_fa_18/short;AIM-7P
+weapons/us_aim7p_sparrow_fa_18_default;AIM-7P Sparrow
+weapons/us_aim7p_sparrow_fa_18_default/short;AIM-7P
+weapons/us_aim9b_sidewinder;AIM-9B Sidewinder;
+weapons/us_aim9b_sidewinder/short;AIM-9B;
+weapons/us_aim9b_sidewinder_default;AIM-9B Sidewinder;
+weapons/us_aim9b_sidewinder_default/short;AIM-9B;
+weapons/us_aim9b_sidewinder_default_group;AIM-9B Sidewinder;
+weapons/us_aim9b_sidewinder_default_group/short;AIM-9B;
+weapons/us_aim9b_sidewinder_cwp;AIM-9B Sidewinder;
+weapons/us_aim9b_sidewinder_cwp/short;AIM-9B;
+weapons/us_aim9b_fgw_2_sidewinder;AIM-9B/FGW Mod. 2;
+weapons/us_aim9b_fgw_2_sidewinder/short;AIM-9B/FGW Mod. 2;
+weapons/us_aim9p4_sidewinder;AIM-9P-4 Sidewinder;
+weapons/us_aim9p4_sidewinder/short;AIM-9P-4;
+weapons/us_aim9p4_sidewinder_default;AIM-9P-4 Sidewinder;
+weapons/us_aim9p4_sidewinder_default/short;AIM-9P-4;
+weapons/us_aim9p_sidewinder;AIM-9P-1 Sidewinder;
+weapons/us_aim9p_sidewinder/short;AIM-9P-1;
+weapons/us_aim9p_sidewinder_default;AIM-9P-1 Sidewinder;
+weapons/us_aim9p_sidewinder_default/short;AIM-9P-1;
+weapons/us_aim9c_sidewinder;AIM-9C Sidewinder;
+weapons/us_aim9c_sidewinder/short;AIM-9C;
+weapons/us_aim9c_sidewinder_default;AIM-9C Sidewinder;
+weapons/us_aim9c_sidewinder_default/short;AIM-9C;
+weapons/us_aim9c_sidewinder_default_group;AIM-9C Sidewinder;
+weapons/us_aim9c_sidewinder_default_group/short;AIM-9C;
+weapons/us_aim9d_sidewinder;AIM-9D Sidewinder;
+weapons/us_aim9d_sidewinder/short;AIM-9D;
+weapons/us_aim9d_sidewinder_default;AIM-9D Sidewinder;
+weapons/us_aim9d_sidewinder_default/short;AIM-9D;
+weapons/us_aim9d_sidewinder_default_group;AIM-9D Sidewinder;
+weapons/us_aim9d_sidewinder_default_group/short;AIM-9D;
+weapons/us_aim9d_sidewinder_cwp;AIM-9D Sidewinder;
+weapons/us_aim9d_sidewinder_cwp/short;AIM-9D;
+weapons/us_aim9g_sidewinder;AIM-9G Sidewinder;
+weapons/us_aim9g_sidewinder/short;AIM-9G;
+weapons/us_aim9g_sidewinder_default;AIM-9G Sidewinder;
+weapons/us_aim9g_sidewinder_default/short;AIM-9G;
+weapons/us_aim9h_sidewinder;AIM-9H Sidewinder;
+weapons/us_aim9h_sidewinder/short;AIM-9H;
+weapons/us_aim9j_sidewinder;AIM-9J Sidewinder;
+weapons/us_aim9j_sidewinder/short;AIM-9J;
+weapons/us_aim9j_sidewinder_default;AIM-9J Sidewinder;
+weapons/us_aim9j_sidewinder_default/short;AIM-9J;
+weapons/us_aim9n_sidewinder;AIM-9N Sidewinder
+weapons/us_aim9n_sidewinder/short;AIM-9N
+weapons/us_aim4g_falcon;AIM-4G Falcon
+weapons/us_aim4g_falcon/short;AIM-4G
+weapons/us_aim4f_falcon;AIM-4F Falcon
+weapons/us_aim4f_falcon/short;AIM-4F
+weapons/us_aim4g_falcon_default;AIM-4G Falcon
+weapons/us_aim4g_falcon_default/short;AIM-4G
+weapons/us_aim4f_falcon_default;AIM-4F Falcon
+weapons/us_aim4f_falcon_default/short;AIM-4F
+weapons/us_aim_54a;AIM-54A Phoenix;
+weapons/us_aim_54a/short;AIM-54A;
+weapons/us_aim_54a_default;AIM-54A Phoenix;
+weapons/us_aim_54a_default/short;AIM-54A;
+weapons/us_aim_54c;AIM-54C Phoenix;
+weapons/us_aim_54c/short;AIM-54C;
+weapons/us_aim_54c_default;AIM-54C Phoenix;
+weapons/us_aim_54c_default/short;AIM-54C;
+weapons/us_aim_120a;AIM-120A AMRAAM;
+weapons/us_aim_120a/short;AIM-120A;
+weapons/us_aim_120a_default;AIM-120A AMRAAM;
+weapons/us_aim_120a_default/short;AIM-120A;
+weapons/us_aim_120b_default;AIM-120B AMRAAM;
+weapons/us_aim_120b_default/short;AIM-120B;
+weapons/us_aim_120b;AIM-120B AMRAAM;
+weapons/us_aim_120b/short;AIM-120B;
+weapons/us_aim_120b_bol_pod;AIM-120B AMRAAM;
+weapons/us_aim_120b_bol_pod/short;AIM-120B;
+weapons/us_aim_120c_5;AIM-120C-5 AMRAAM
+weapons/us_aim_120c_5/short;AIM-120C-5
+weapons/us_aim_120c_7;AIM-120C-7 AMRAAM
+weapons/us_aim_120c_7/short;AIM-120C-7
+weapons/us_aim_120c_7_sam;AIM-120C-7 AMRAAM
+weapons/us_aim_120c_7_sam/short;AIM-120C-7
+weapons/us_aim_120c_5_default;AIM-120C-5 AMRAAM
+weapons/us_aim_120c_5_default/short;AIM-120C-5
+us_aim9b_sidewinder;AIM-9B Sidewinder;
+us_aim9c_sidewinder;AIM-9C Sidewinder;
+us_aim9d_sidewinder;AIM-9D Sidewinder;
+us_aim9e_sidewinder;AIM-9E Sidewinder;
+us_aim9g_sidewinder;AIM-9G Sidewinder;
+us_aim9h_sidewinder;AIM-9H Sidewinder;
+us_aim9j_sidewinder;AIM-9J Sidewinder;
+us_aim9l_sidewinder;AIM-9L Sidewinder;
+us_aim9l_i_sidewinder;AIM-9L/I Sidewinder;
+us_aim9l_i_sidewinder_default;AIM-9L/I Sidewinder;
+us_aim9l_sidewinder_default;AIM-9L Sidewinder;
+us_aim9l_sidewinder_bol_pod;AIM-9L Sidewinder;
+us_aim9l_sidewinder_default_bol_pod;AIM-9L Sidewinder;
+us_aim9p_sidewinder;AIM-9P-1 Sidewinder;
+us_aim9m_sidewinder;AIM-9M-4 Sidewinder;
+us_aim9m_sidewinder_default;AIM-9M-4 Sidewinder;
+us_aim9m_sidewinder_bol_pod;AIM-9M-4 Sidewinder;
+weapons/us_aim_9x;AIM-9X Sidewinder
+weapons/us_aim_9x/short;AIM-9X
+weapons/us_aim_9x_block_2;AIM-9X-2 Sidewinder
+weapons/us_aim_9x_block_2/short;AIM-9X-2
+weapons/us_aim9l_sidewinder;AIM-9L Sidewinder;
+weapons/us_aim9l_sidewinder/short;AIM-9L;
+weapons/us_aim9l_i_sidewinder;Luft-Luft-Rakete AIM-9L/I Sidewinder;
+weapons/us_aim9l_i_sidewinder/short;AIM-9L/I;
+weapons/us_aim9l_i_sidewinder_default;Luft-Luft-Rakete AIM-9L/I Sidewinder;
+weapons/us_aim9l_i_sidewinder_default/short;AIM-9L/I;
+weapons/us_aim9l_sidewinder_default;AIM-9L Sidewinder;
+weapons/us_aim9l_sidewinder_default/short;AIM-9L;
+weapons/us_aim9l_sidewinder_bol_pod;AIM-9L Sidewinder;
+weapons/us_aim9l_sidewinder_bol_pod/short;AIM-9L;
+weapons/us_aim9l_sidewinder_default_bol_pod;AIM-9L Sidewinder;
+weapons/us_aim9l_sidewinder_default_bol_pod/short;AIM-9L;
+weapons/us_aim9m_sidewinder;AIM-9M-4 Sidewinder;
+weapons/us_aim9m_sidewinder/short;AIM-9M;
+weapons/us_aim9m_sidewinder_default;AIM-9M-4 Sidewinder;
+weapons/us_aim9m_sidewinder_default/short;AIM-9M;
+weapons/us_aim9m_sidewinder_bol_pod;AIM-9M-4 Sidewinder;
+weapons/us_aim9m_sidewinder_bol_pod/short;AIM-9M;
+weapons/us_aim9e_sidewinder;AIM-9E Sidewinder;
+weapons/us_aim9e_sidewinder/short;AIM-9E;
+weapons/us_aim9e_sidewinder_default;AIM-9E Sidewinder;
+weapons/us_aim9e_sidewinder_default/short;AIM-9E;
+weapons/us_aim92_stinger;Air-To-Air Stinger;
+weapons/us_aim92_stinger/short;ATAS;
+weapons/us_aim92_stinger_atas_tiger;Air-To-Air Stinger;
+weapons/us_aim92_stinger_atas_tiger/short;ATAS;
+weapons/us_aim92_stinger_left;Air-To-Air Stinger;
+weapons/us_aim92_stinger_left/short;ATAS;
+weapons/us_aim92_stinger_right;Air-To-Air Stinger;
+weapons/us_aim92_stinger_right/short;ATAS;
+weapons/us_agm_65a;AGM-65A Maverick;
+weapons/us_agm_65a/short;AGM-65A;
+weapons/us_agm_65b;AGM-65B Maverick;
+weapons/us_agm_65b/short;AGM-65B;
+weapons/us_agm_65d;AGM-65D Maverick;
+weapons/us_agm_65d/short;AGM-65D;
+weapons/us_agm_65e;AGM-65E Maverick;
+weapons/us_agm_65e/short;AGM-65E;
+weapons/us_agm_65e2;AGM-65E2 Maverick;
+weapons/us_agm_65e2/short;AGM-65E2;
+weapons/us_agm_65f;AGM-65F Maverick;
+weapons/us_agm_65f/short;AGM-65F;
+weapons/us_agm_65g;AGM-65G Maverick;
+weapons/us_agm_65g/short;AGM-65G;
+weapons/us_agm_65h;AGM-65H Maverick;
+weapons/us_agm_65h/short;AGM-65H;
+weapons/us_agm_65l;AGM-65L Maverick;
+weapons/us_agm_65l/short;AGM-65L;
+weapons/152mm_19M220_rocket_launcher;Mobile Intercept-Aerial Guided Missile, MIM-220;
+weapons/rocket_tomahawk_bgm109_launcher;BGM-109 TLAM;
+weapons/rocket_tomahawk_bgm109_launcher/short;BGM-109;
+weapons/rocket_ugm133_trident2_launcher;UGM-133 Trident II;
+weapons/rocket_ugm133_trident2_launcher/short;UGM-133;
+70mm_fim_92e;FIM-92E Stinger;
+weapons/70mm_fim_92e/short;FIM-92E Stinger;
+70mm_fim_92k;FIM-92L Stinger;
+weapons/70mm_FIM_92E_Stinger_LAV_4_launcher_user_cannon;Stinger Launcher;
+weapons/70mm_FIM_92E_Stinger_LAV_launcher_user_cannon;Stinger Launcher;
+weapons/70mm_fim_92e_stinger_stormer_launcher_user_cannon;Stinger Launcher;
+weapons/70mm_FIM_92E_Stinger_Machbet_launcher_user_cannon;Stinger Launcher;
+weapons/127mm_bgm_71b_tow_rocket_launcher;Launcher, Tubular, Guided Missile, M220A1;
+weapons/127mm_bgm_71b_tow_rocket_launcher/short;M220A1;
+weapons/127_bgm_71_tow/short;BGM-71A3;
+127_bgm_71_tow;BGM-71A-3 TOW;
+weapons/127mm_TOW_rocket_launcher;Launcher, Tubular, Guided Missile, M220A1;
+weapons/127mm_TOW_rocket_launcher/short;M220A1;
+127mm_atgm_tow;BGM-71A TOW;
+weapons/127mm_atgm_tow/short;BGM-71A;
+weapons/127mm_BGM_71_tow_Wiesel_launcher_user_cannon;Launcher, Tubular, Guided Missile, M220A1;
+weapons/127mm_BGM_71_tow_M3A3_launcher_user_cannon;Launcher, Tubular, Guided Missile, M220A2;
+weapons/127mm_iTOW_launcher_user_cannon;Dual Launcher, Tubular, Guided Missile, M220A1;
+weapons/127mm_BGM_71_tow_launcher_user_cannon;Launcher, Tubular, Guided Missile, M220A2;
+weapons/127mm_bgm_71_tow_begleitpanzer_launcher_user_cannon;Launcher, Tubular, Guided Missile, M220A1;
+127mm_i_tow;BGM-71C ITOW;
+152mm_tow_2;BGM-71D TOW 2;
+152mm_tow_2a;BGM-71E TOW 2A;
+127mm_tow_2b;BGM-71F TOW 2B;
+weapons/178mm_sl_amraam_user_cannon;AIM-120 Launcher
+weapons/127mm_aim_9x_user_cannon;AIM-9 Launcher
+weapons/152mm_MIM146_launcher_user_cannon;MIM-146;
+weapons/127mm_bgm_71c_itow_rocket_launcher;Launcher, Tubular, Guided Missile, M220A1;
+weapons/127mm_bgm_71c_itow_rocket_launcher/short;M220A1;
+weapons/127mm_bgm_71c_itow_rocket_launchr_user_cannon;Launcher, Tubular, Guided Missile, M220A1;
+weapons/127mm_bgm_71c_itow_rocket_launchr_user_cannon/short;M220A1;
+weapons/127_bgm_71_itow/short;BGM-71C;
+127_bgm_71_itow;BGM-71C ITOW;
+152mm_mgm_61c;MGM-51C;

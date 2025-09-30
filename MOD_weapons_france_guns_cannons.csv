@@ -32,3 +32,111 @@ weapons/cannonDEFA554_gunpod;30 mm DEFA 554;
 weapons/cannonDEFA554_gunpod/short;DEFA 554;
 weapons/gunMle33;7,5 mm Mitrailleuse Darne modèle 1933;
 weapons/gunMle33_turret;7,5 mm Mitrailleuse Darne modèle 1933;
+weapons/20mm_m693_amx_10_user_cannon;Canon-Mitrailleur de 20 mm modèle F2;
+weapons/20mm_M_693_marder_clovis_user_cannon;Canon-Mitrailleur de 20 mm modèle F2;
+weapons/90mm_D915_user_cannon;Canon de 90 mm D.915
+weapons/90mm_DEFA_D921_user_cannon;Canon de 90 mm modèle F1
+weapons/90mm_90_F2_user_cannon;Canon de 90 mm modèle F2
+weapons/37mm_SA_18_user_cannon;Canon de 37 Semi-Automatique modèle 1918;
+37mm_mle1892;mle 1892;
+37mm_mle1937;mle 1937;
+weapons/37mm_SA_38_user_cannon;Canon de 37 Semi-Automatique modèle 1938;
+37mm_mle1938;mle 1938;
+weapons/75mm_APX_user_cannon;Canon de 75 APX modèle 1938;
+weapons/120mm_GIAT_CN120_26_F1_user_cannon;Canon de 120 mm modèle F1
+weapons/120mm_giat_cn120_26_f1_msc_user_cannon;Canon de 120 mm modèle F1
+120mm_ofl_120_f1;OFL 120 F1;
+weapons/120mm_GIAT_CN120_25_G1_user_cannon;Canon de 120 mm modèle G1
+120mm_occ_120_g1;OCC 120 G1;
+120mm_ofl_120_g1;OFL 120 G1;
+75mm_mle1917;mle 1917;
+164mm_nord_ss11;SS.11;
+47mm_mle1892g;mle 1892G;
+47mm_mle1935;mle 1935;
+47mm_mle1935_he;mle 1935;
+75mm_mle1915;mle 1915;
+75mm_mle1910m;mle 1910;
+weapons/47mm_SA_37_user_cannon;Canon de 47 Semi-Automatique modèle 1937;
+47mm_mle1936;mle 1936;
+155mm_oa_mle14;OA mle 14;
+weapons/155mm_Schneider_155_C_user_cannon;Canon de 155 C Schneider modèle 1915;
+weapons/75mm_APX_1897_user_cannon;Canon de 75 APX modèle 1897;
+75mm_mle_1900_he;OE mle 1900;
+75mm_mle1916;OP mle 1916;
+weapons/75mm_SA_35_user_cannon;Canon de 75 Semi-Automatique modèle 1935;
+weapons/155mm_GCT_F1_user_cannon;Canon de 155 mm GCT modèle F1
+155mm_oe_155_56_he;OE 155 56/69;
+weapons/155mm_Obusier_Modele_1950_user_cannon;L'Obusier de 155 modèle 1950;
+weapons/120mm_SA_46_user_cannon;Canon de 120 Semi-Automatique modèle 1946;
+weapons/120mm_SA_46_Surbaisse_user_cannon;Canon de 120 Semi-Automatique modèle 1946;
+120mm_obus_de_rupture;Obus Perforant;
+120mm_obus_explosif;Obus Explosif;
+weapons/90mm_Char_25t_user_cannon;Canon de 90 mm D.911; 
+weapons/100mm_SA_47_CA_user_cannon;Canon de 100 Semi-Automatique modèle 1947;
+weapons/100mm_SA_47_user_cannon;Canon de 100 Semi-Automatique modèle 1947;
+100mm_sa47_apcbc;Obus Perforant;
+100mm_sa47_he;Obus Explosif;
+weapons/142mm_ACRA_user_cannon;142 mm Anti-Char Rapide Autopropulsé;
+142mm_muc;MUC;
+weapons/142mm_muc/short;MUC;
+142mm_acra;MP ACRA;
+weapons/142mm_acra/short;ACRA;
+weapons/90mm_CN_90_F2_user_cannon;Canon de 90 mm modèle F2
+weapons/90mm_CN_90_F3_user_cannon;Canon de 90 mm modèle F3
+weapons/90mm_CN_90_F4_user_cannon;Canon de 90 mm modèle F4
+90mm_occ_90_f2;OCC 90 F2;
+90mm_ofum_90_f1;OFUM 90 F1;
+90mm_ofl_f1;OFL 90 F1;
+90mm_ofum_ph90;OFUM PH 90 F2;
+90mm_oe_90_f1;OE 90 F1;
+90mm_occ_90_62;OCC 90 62;
+weapons/105mm_Modele_F2_user_cannon;Canon de 105 mm modèle F2
+weapons/105mm_giat_105_g1_user_cannon;Canon de 105 mm modèle G2
+105mm_ofl_f3;OFL 105 F3;
+105mm_ofl_f2;OFL 105 F2;
+105mm_ofl_g2;OFL 105 G2;
+105mm_occ_f3;OCC 105 F3;
+105mm_o_fum_ph_f3;OFUM PH 105 F3;
+105mm_oe_f3;OE 105 F3;
+weapons/105mm_CN_105_G1_user_cannon;Canon de 105 mm modèle G1
+weapons/105mm_CN_105_G2_user_cannon;Canon de 105 mm modèle G2
+weapons/105mm_CN_105_F1_user_cannon;Canon de 105 mm modèle F1
+105mm_occ_f1;OCC 105 F1;
+105mm_ofl_105_f1;OFL 105 F1;
+105mm_ofl_105_g1;OFL 105 G1;
+105mm_oe_f1_mle60;OE 105 F1;
+105mm_oe_60;OE 105 60
+105mm_ofph_f1;OFPH 105 F1;
+weapons/7_5mm_AAT_52_user_machinegun;Arme Automatique Transformable de 7,5 mm modèle 52
+weapons/90mm_SA45_ARL_user_cannon;Canon de 90 Semi-Automatique modèle 1945;
+weapons/90mm_SA45_user_cannon;Canon de 90 Semi-Automatique modèle 1945;
+weapons/90mm_SA47_user_cannon;Canon de 90 Semi-Automatique modèle 1947;
+90mm_sa45_apc;Obus Perforant;
+90mm_sa45_he;Obus Explosif;
+weapons/20mm_M_693_user_cannon;Canon-Mitrailleur de 20 mm modèle F2;
+weapons/13_2mm_Hotchkiss_Mle_1930_user_machinegun;13,2 mm Hotchkiss modèle 1930;
+13mm_p;P;
+13mm_tp;TP;
+weapons/7_62mm_AAN_F1_user_machinegun;Arme Automatique de 7,62 mm N modèle F1 version C1
+weapons/75mm_SA_46_user_cannon;Canon de 75 Semi-Automatique modèle 1944;
+75mm_obus_de_rupture;Obus Perforant mle 44;
+75mm_obus_explosif;Obus Explosif mle 28;
+weapons/75mm_SA_49_user_cannon;Canon de 75 Semi-Automatique modèle 1949;
+weapons/75mm_SA_50_user_cannon;CN 75-50;
+weapons/75mm_SA_50_M4A4_user_cannon;CN 75-50;
+75mm_sa50_he;OE-51;
+75mm_pot51a;POT-51A;
+75mm_pcot51p;PCOT-51P;
+weapons/25mm_SA_34_user_cannon;Canon de 25 Semi-Automatique modèle 1935;
+25mm_mle1934_tp_ch_f;mle 1934 TP (Ch.F);
+weapons/47mm_SA_34_user_cannon;Canon de 47 Semi-Automatique modèle 1934;
+weapons/47mm_SA_35_user_cannon;Canon de 47 Semi-Automatique modèle 1935;
+weapons/7_5mm_MAC_31_user_machinegun;7,5 mm Mitrailleuse MAC modèle 1931;
+weapons/105mm_PzK_M57_user_cannon;Canon de 105 mm modèle 57
+weapons/75mm_1897_user_cannon;Canon de 75 mm modèle 1897;
+weapons/40mm_Mle51_t1_user_cannon;CN 40 AA 51 T1;
+weapons/40mm_l70_bofors_mel58_naval_user_cannon;40 mm MEL 58;
+40mm_bofors_mel58_navy_he/name;HE-T
+40mm_m_dn51;M-DN51 HE-T;
+40mm_bofors_mel58_navy_he_tf/name;HE-T-PF
+40mm_he_t_pf;HE-T-PF;

@@ -15,3 +15,15 @@ weapons/155mm_G6_L45_user_cannon;155 mm G5-45 Howitzer;
 155mm_m1;M1;
 155mm_m1_pf;M1 (PF);
 155mm_g6_smoke;Smoke;
+weapons/cannonGI_2;20 mm GI2;
+weapons/zt_6_mokopa;ZT6 Mokopa;
+weapons/zt_6_mokopa/short;ZT6;
+weapons/sa_zt_35_ingwe;ZT3-A2
+weapons/sa_zt_35_ingwe/short;ZT3-A2
+weapons/sa_zt_35_ingwe_default;ZT3-A
+weapons/sa_zt_35_ingwe_default/short;ZT3-A2
+weapons/127mm_ZT_3_launcher_user_cannon;ZT3;
+127mm_swift;ZT3-A1;
+weapons/127mm_swift/short;ZT3-A1;
+127mm_ingwe;ZT3-A2;
+weapons/127mm_ingwe/short;ZT3-A2;

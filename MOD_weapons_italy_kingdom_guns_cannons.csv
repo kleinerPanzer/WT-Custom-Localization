@@ -52,3 +52,15 @@ weapons/105mm_Ansaldo_105_25_user_cannon;Cannone Ansaldo da 105/25;
 105mm_ep_m43;Effeto Pronto Mod. 43;
 weapons/cannonBredaModel39;Cannone Breda 37/45 mod. 39;
 weapons/cannonBredaModel39/short;37/45 mod. 39;
+weapons/120mm_50_oto_1936_naval_user_cannon;Cannone OTO da 120/50 Mod. 36;
+weapons/120mm_50_ansaldo_1926_naval_user_cannon;Cannone Ansaldo da 120/50 Mod. 26;
+weapons/120mm_50_oto_1933_naval_user_cannon;Cannone OTO da 120/50 Mod. 33
+120mm_50_granata_perforante_ap;Granata Perforante;
+120mm_50_granata_dirompente_he;Granata Dirompente;
+120mm_50_granata_dirompente_contro_aerea_he;Granata Dirompente Contra-aerea;
+120mm_50;Granata Esplosivo;
+102mm_45_sap;SAP;
+75_32_apcbc;Granata Perforante;
+75_32_he;Granata Esplosivo;
+weapons/75mm_Ansaldo_75_34_user_cannon;Cannone Ansaldo da 75/34 Mod. SF;
+37mm_breda_navy_he_t/name;HE-T

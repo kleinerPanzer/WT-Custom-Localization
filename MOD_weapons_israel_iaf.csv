@@ -15,3 +15,31 @@ weapons/il_360_50_kg_gp;360/50 kg GP;
 weapons/il_360_50_kg_gp/short;360/50 GP;
 weapons/il_500_50_kg_gp;500/50 kg GP;
 weapons/il_500_50_kg_gp/short;500/50 GP;
+weapons/il_gatr;Guided Advanced Tactical Rocket;
+weapons/il_gatr/short;GATR;
+weapons/spike_er;Spike-ER;
+weapons/spike_er/short;Spike-ER;
+weapons/il_shafrir_1;רירפש;
+weapons/il_shafrir_1/short;רירפש;
+weapons/il_shafrir_2;2 רירפש;
+weapons/il_shafrir_2/short;2 רירפש;
+weapons/il_shafrir_2_default;2 רירפש;
+weapons/il_shafrir_2_default/short;2 רירפש;
+weapons/il_pyton_3;3 ןותיפ
+weapons/il_pyton_3/short;3 ןותיפ
+weapons/il_pyton_3_default;3 ןותיפ
+weapons/il_pyton_3_default/short;3 ןותיפ
+weapons/il_pyton_4;4 ןותיפ
+weapons/il_pyton_4/short;4 ןותיפ
+weapons/il_pyton_5_sam;5 ןותיפ
+weapons/il_pyton_5_sam/short;5 ןותיפ
+weapons/il_derby;יברד
+weapons/il_derby/short;יברד
+weapons/il_derby_sam;SR יברדI
+weapons/il_derby_sam/short;SR יברדI
+weapons/il_derby_default;יברד
+weapons/il_derby_default/short;יברד
+weapons/r_darter;Radar Darter;
+weapons/r_darter/short;R-Darter;
+weapons/r_darter_default;Radar Darter;
+weapons/r_darter_default/short;R-Darter;

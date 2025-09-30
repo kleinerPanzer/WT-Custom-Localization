@@ -20,3 +20,136 @@ weapons/in_100gal_marut_drop_tank_r_2/short;Drop Tank
 weapons/in_nasser_240;Nasser 240
 weapons/in_nasser_240/short;Nasser 240
 76mm_m78;ASP M78;
+weapons/105mm_FMK4_Modelo_1L_2IP_user_cannon;105 mm Fabricaciones Militares K.4 Modelo 1L;
+weapons/105mm_FMK4_Modelo_1L_2C_user_cannon;105 mm Fabricaciones Militares K.4 Modelo 1L;
+weapons/105mm_FMK4_Modelo_1L_user_cannon;105 mm Fabricaciones Militares K.4 Modelo 1L;
+weapons/7_62mm_C6_user_machinegun;Machine Gun, Caliber 7.62 mm, C6A1 FLEX;
+weapons/ro_ba_100kg_bomb_45;BA-100
+weapons/ro_ba_100kg_bomb_45/short;BA-100
+weapons/ro_ba_250kg_bomb_45;BA-250
+weapons/ro_ba_250kg_bomb_45/short;BA-250
+weapons/ro_ba_500kg_bomb_45;BA-500
+weapons/ro_ba_500kg_bomb_45/short;BA-500
+weapons/ro_be_50kg_bomb_45;BE-50
+weapons/ro_be_50kg_bomb_45/short;BE-50
+weapons/ro_540l_iar_93_drop_tank;540 L Rezervoare Suplimentare
+weapons/ro_540l_iar_93_drop_tank/short;Rezervoare Suplimentare
+weapons/ro_prn_122_rocket;PRN-122
+weapons/ro_prn_122_rocket/short;PRN-122
+weapons/ro_a91;A-91
+weapons/ro_a91/short;A-91
+weapons/ro_a91_default;A-91
+weapons/ro_a91_default/short;A-91
+weapons/uk_CRV7_m247;Canadian Rocket, Vehicle 7;
+weapons/uk_CRV7_m247/short;CRV-7;
+weapons/tr_cirit_mpw_missile;Cirit;
+weapons/tr_cirit_mpw_missile/short;Cirit;
+weapons/tr_l_umtas_missile;Lazer - Uzun Menzilli Tanksavar Sistemi;
+weapons/tr_l_umtas_missile/short;L-UMTAS;
+weapons/ir_yasser;رسای;
+weapons/ir_yasser/short;رسای;
+weapons/ir_sedjil;لیجس;
+weapons/ir_sedjil/short;لیجس;
+weapons/ir_fakour_90;90 روکف
+weapons/ir_fakour_90/short;90 روکف
+weapons/ucav_aam;AAM Fowler;
+weapons/ucav_aam/short;Fowler;
+weapons/ucav_agm;ATGM Parisarrow;
+weapons/ucav_agm/short;Parisarrow;
+weapons/ucav_heavy_missile;TM Smasher;
+weapons/ucav_heavy_missile/short;Smasher;
+weapons/30mm_ZK_453_user_cannon;30 mm PLdvK vz. 53;
+30mm_jfsv_53_he;30-JFSv-53;
+30mm_jpzsv_53_59;30-JPZSv-53/59;
+20mm_B;AP;
+weapons/aa_fcv_launcher_user_cannon;AAMW;
+aa_fcv_missile;AAMW;
+weapons/laser_cwis;CWIS;
+weapons/76mm_fcs_smoke_grenade_launcher;Smoke Grenade;
+weapons/76mm_fcs_smoke_grenade_launcher/short;Smoke Grenade;
+weapons/81mm_smoke_granade_launcher;Smoke Grenade;
+weapons/81mm_smoke_granade_launcher/short;Smoke;
+weapons/81mm_tucha_launcher;Smoke Grenade;
+weapons/81mm_tucha_launcher/short;Smoke;
+weapons/81mm_3d17_smoke_launcher;Smoke Grenade;
+weapons/81mm_3d17_smoke_launcher/short;Smoke;
+81mm_3d17;3Д17;
+weapons/102mm_uk_smoke_grenade_launcher;Smoke Grenade;
+weapons/102mm_uk_smoke_grenade_launcher/short;Smoke
+weapons/125mm_2A46MS_user_cannon;125-mm tankové delo 2A46MS;
+125mm_tapna;TAPNA;
+weapons/57mm_maxim_nordenfelt_user_cannon;5,7 cm Maxim-Nordenfelt
+57mm_gr_p;Gr.m.P.(P)
+57mm_gr;Gr.(P)
+105mm_c76a1;APFSDS-T, C76A1;
+76mm_naval_he;HE;
+20x138B;AP;
+weapons/60mm_smoke_mortar_launcher;Smoke Grenade;
+weapons/60mm_smoke_mortar_launcher/short;Smoke;
+weapons/91mm_germ_smoke_mortar_launcher;Smoke Grenade;
+weapons/91mm_germ_smoke_mortar_launcher/short;Smoke;
+weapons/91mm_germ_smoke_grenade_launcher;Smoke Grenade;
+weapons/91mm_germ_smoke_grenade_launcher/short;Smoke;
+weapons/50mm_uk_smoke_mortar_launcher;Smoke Grenade;
+weapons/50mm_uk_smoke_mortar_launcher/short;Smoke;
+weapons/66mm_germ_smoke_mortar_launcher;Smoke Grenade;
+weapons/66mm_germ_smoke_mortar_launcher/short;Smoke;
+weapons/66mm_germ_smoke_candle_launcher;Smoke Grenade;
+weapons/66mm_germ_smoke_candle_launcher/short;Smoke;
+weapons/76mm_nato_smoke_grenade_launcher;Smoke Grenade;
+weapons/76mm_nato_smoke_grenade_launcher/short;Smoke;
+weapons/76mm_nato_smoke_grenade_launcher_single;Smoke Grenade;
+weapons/76mm_nato_smoke_grenade_launcher_single/short;Smoke;
+weapons/76mm_nato_smoke_grenade_launcher_ru251;Smoke Grenade;
+weapons/76mm_nato_smoke_grenade_launcher_ru251/short;Smoke;
+weapons/76mm_modern_smoke_grenade_launcher;Smoke Grenade;
+weapons/76mm_modern_smoke_grenade_launcher/short;Smoke;
+weapons/60mm_modern_smoke_grenade_launcher;Smoke Grenade;
+weapons/60mm_modern_smoke_grenade_launcher/short;Smoke;
+weapons/76mm_modern_germ_smoke_grenade_launcher;Smoke Grenade;
+weapons/76mm_modern_germ_smoke_grenade_launcher/short;Smoke;
+weapons/66mm_modern_uk_smoke_grenade_launcher;Smoke Grenade;
+weapons/66mm_modern_uk_smoke_grenade_launcher/short;Smoke;
+weapons/66mm_modern_us_smoke_grenade_launcher;Smoke Grenade;
+weapons/66mm_modern_us_smoke_grenade_launcher/short;Smoke;
+weapons/66mm_modern_smoke_grenade_launcher;Smoke Grenade;
+weapons/66mm_modern_smoke_grenade_launcher/short;Smoke;
+weapons/40mm_modern_smoke_grenade_launcher;Smoke Grenade;
+weapons/40mm_modern_smoke_grenade_launcher/short;Smoke;
+weapons/66mm_type_90_modern_smoke_grenade_launcher;Smoke Grenade;
+weapons/66mm_type_90_modern_smoke_grenade_launcher/short;Smoke;
+weapons/66mm_uk_smoke_grenade_launcher;Smoke Grenade;
+weapons/66mm_uk_smoke_grenade_launcher/short;Smoke;
+weapons/66mm_smoke_grenade_launcher_m60a2;Smoke Grenade;
+weapons/66mm_smoke_grenade_launcher_m60a2/short;Smoke;
+76mm_smoke_grenade;Smoke Grenade;
+63mm_smoke_grenade;Smoke Grenade;
+66mm_smoke_grenade;Smoke Grenade;
+81mm_smoke_grenade;Smoke Grenade;
+weapons/80mm_galix_smoke_grenade_launcher;Smoke Grenade;
+weapons/80mm_galix_smoke_grenade_launcher/short;Smoke;
+weapons/80mm_brenus_smoke_grenade_launcher;Smoke Grenade;
+weapons/80mm_brenus_smoke_grenade_launcher/short;Smoke;
+80mm_galix_smoke_grenade;Smoke grenade;
+weapons/t_34_100_smoke_barrel_launcher;МДШ;
+weapons/t_34_100_smoke_barrel_launcher/short;Smoke;
+weapons/t_44_100_smoke_barrel_launcher;МДШ;
+weapons/t_44_100_smoke_barrel_launcher/short;Smoke;
+weapons/asu_85_smoke_barrel_launcher;БДШ-5;
+weapons/asu_85_smoke_barrel_launcher/short;Smoke;
+weapons/is_3_smoke_barrel_launcher;БДШ-5;
+weapons/is_3_smoke_barrel_launcher/short;Smoke;
+weapons/is_4m_smoke_barrel_launcher;БДШ-5;
+weapons/is_4m_smoke_barrel_launcher/short;Smoke;
+weapons/object_268_smoke_barrel_launcher;БДШ-5;
+weapons/object_268_smoke_barrel_launcher/short;Smoke;
+weapons/su_122_54_smoke_barrel_launcher;БДШ-5;
+weapons/su_122_54_smoke_barrel_launcher/short;Smoke;
+weapons/t_10m_smoke_barrel_launcher;БДШ-5;
+weapons/t_10m_smoke_barrel_launcher/short;Smoke;
+weapons/t54_1947_smoke_barrel_launcher;БДШ-5;
+weapons/t54_1947_smoke_barrel_launcher/short;Smoke;
+weapons/t54_1951_smoke_barrel_launcher;БДШ-5;
+weapons/t54_1951_smoke_barrel_launcher/short;Smoke;
+weapons/type_62_smoke_barrel_launcher;Smoke Barrel;
+weapons/type_62_smoke_barrel_launcher/short;Smoke;

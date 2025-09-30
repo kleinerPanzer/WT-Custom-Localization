@@ -4,3 +4,7 @@ weapons/uk_mk15_torpedo;Torpedo, 18”, Mk. XV;
 weapons/uk_mk15_torpedo_no_stab;Torpedo, 18”, Mk. XV;
 weapons/uk_mk15_torpedo_no_stab/short;Mk. XV
 weapons/uk_mk15_torpedo/short;Mk. XV;
+weapons/uk_spearfish_torpedo;21” Spearfish Torpedo;
+weapons/uk_spearfish_torpedo/short;Spearfish;
+weapons/uk_450mm_18in_mk15_torpedo;Torpedo, 18”, Mk. XV;
+weapons/uk_450mm_18in_mk15_torpedo/short;Mk. XV;

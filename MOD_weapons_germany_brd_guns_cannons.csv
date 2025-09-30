@@ -43,3 +43,39 @@ weapons/106mm_M40A1_LGS_user_cannon;105 mm Leichtgeschütz M 40 A1;
 weapons/20mm_MK_20_1_user_cannon;Maschinenkanone 20;
 76mm_dm261;DM 261;
 76mm_dm251;DM 251;
+weapons/us_aim9l_i_1_sidewinder;Luft-Luft-Rakete AIM-9L/I-1 Sidewinder;
+weapons/us_aim9l_i_1_sidewinder/short;AIM-9L/I-1;
+weapons/us_aim9l_i_1_sidewinder_default;Luft-Luft-Rakete AIM-9L/I-1 Sidewinder;
+weapons/us_aim9l_i_1_sidewinder_default/short;AIM-9L/I-1;
+weapons/euro_atgw3;PARS 3 LR;
+weapons/euro_atgw3/short;PARS 3 LR;
+weapons/euro_trigat_lr;TRIGAT-LR
+weapons/euro_trigat_lr/short;TRIGAT-LR
+weapons/70mm_FIM_92E_Stinger_launcher_user_cannon;Fliegerfaust 2 Stinger;
+120mm_dm13;DM 13;
+120mm_dm12;DM 12;
+120mm_dm12a1;DM 12A1;
+weapons/120mm_rheinmetall_l55_a1_user_cannon;Bordkanone 120 mm, L 55 A1;
+weapons/120mm_Rheinmetall_L55_user_cannon;Bordkanone 120 mm, L 55;
+weapons/120mm_Rheinmetall_L44_VT_user_cannon;Bordkanone 120 mm, L 44;
+weapons/120mm_Rheinmetall_L44_autoloader_user_cannon;Bordkanone 120 mm, L 44;
+weapons/120mm_Rheinmetall_L44_user_cannon;Bordkanone 120 mm, L 44;
+weapons/120mm_rheinmetall_l44_can_user_cannon;120 mm L44 Tank Gun;
+weapons/120mm_Rheinmetall_L44_2A5_user_cannon;Bordkanone 120 mm, L 44;
+weapons/120mm_Rheinmetall_L44_2PL_user_cannon;Bordkanone 120 mm, L 44;
+120mm_dm23;DM 23;
+120mm_dm33;DM 33;
+120mm_dm43;DM 43;
+120mm_dm53;DM 53;
+120mm_dm_11;DM 11;
+weapons/30mm_Rheinmetall_MK_30_2_ABM_KF41_user_cannon;Maschinenkanone 30 mm, MK 30-2/ABM;
+weapons/30mm_Rheinmetall_MK_30_2_ABM_user_cannon;Maschinenkanone 30 mm, MK 30-2/ABM;
+weapons/163mm_roland_2_launcher_user_cannon;Roland;
+weapons/163mm_roland_launcher_user_cannon;Roland;
+weapons/163mm_vt_1_launcher_user_cannon;VT1;
+weapons/163mm_roland_vt_1_launcher_user_cannon;Roland;
+weapons/180mm_IRIS_T_SL_user_cannon;IRIS-T SLM
+us_iris_t_sl;IRIS-T SL
+weapons/us_iris_t_sl/short;IRIS-T SLM
+165mm_vt_1;VT1;
+weapons/165mm_vt_1/short;VT1;

@@ -184,3 +184,6 @@ weapons/88mm_Flak37_user_cannon;8,8 cm-Flugabwehrkanone 37 (L/56);
 weapons/cannonMG15120_turret;20 mm-Flugzeugmaschinengewehr 151/20;
 weapons/37mm_83_skc30_naval_user_cannon;3,7 cm-Schnellladekanone C/30;
 weapons/88mm_56_flak36_naval_user_cannon;8,8 cm-Flugabwehrkanone 36 (L/56);
+28_20mm_pzgr41;Panzergranate 41;
+weapons/28_20mm_s_Pz_B_41_user_cannon;2,8 cm-schwere Panzerbüchse 41;
+weapons/7_92mm_mg08_user_machinegun;7,92-mm Maschinengewehr 08;

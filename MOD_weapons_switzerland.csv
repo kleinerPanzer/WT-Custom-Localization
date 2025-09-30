@@ -64,3 +64,29 @@ weapons/25mm_Oerlikon_KBA_Freccia_user_cannon;25 mm Oerlikon KBA B02;
 weapons/25mm_Oerlikon_KBA_user_cannon;25 mm Oerlikon KBA;
 weapons/cannonDEFA552A_switzerland;30 mm Flugzeug-Kanone 65
 weapons/cannonDEFA552A_switzerland/short;30 mm Flz.Kan. 65
+35mm_pmc343;PMC343;
+weapons/cannonOerliconKAD_B;20 mm Oerlikon KAD-B;
+weapons/cannonOerliconKAD_B/short;KAD-B;
+weapons/cannonM61A2_switzerland;20 mm Flugzeug-Kanone 92
+weapons/cannonM61A2_switzerland/short;Flz.Kan. 92
+weapons/sws_flz_lwf_ll_64;Flugzeug-Lenkwaffe Luft-Luft 64/79
+weapons/sws_flz_lwf_ll_64/short;Flz.Lwf. LL 64/79
+weapons/us_aim_120b_switzerland;Flugzeug-Lenkwaffe Luft-Luft AIM 120 B
+weapons/us_aim_120b_switzerland/short;Flz.Lwf. LL AIM 120 B
+weapons/us_aim_120b_default_switzerland;Flugzeug-Lenkwaffe Luft-Luft AIM 120 B
+weapons/us_aim_120b_default_switzerland/short;Flz.Lwf. LL AIM 120 B
+weapons/us_aim_120c_5_switzerland;Flugzeug-Lenkwaffe Luft-Luft AIM 120 C
+weapons/us_aim_120c_5_switzerland/short;Flz.Lwf. LL AIM 120 C
+weapons/us_aim_120c_5_default_switzerland;Flugzeug-Lenkwaffe Luft-Luft AIM 120 C
+weapons/us_aim_120c_5_default_switzerland/short;Flz.Lwf. LL AIM 120 C
+weapons/cannonFlzKan_76;20 mm Flugzeug-Kanone 76
+weapons/cannonFlzKan_76/short;Flz.Kan. 76
+30mm_pmc287;PMC287;
+30mm_pmc308;PMC308;
+35mm_pmd062;PMD062;
+weapons/81mm_Oerlikon_Typ_3Z_8Dla_user_cannon;8 cm Zwillings-Raketenautomat Oerlikon Typ 3Z 8DLa;
+weapons/81mm_Oerlikon_Typ_3Z_8Dla_Raketenautomat_user_cannon;8 cm Zwillings-Raketenautomat Oerlikon Typ 3Z 8DLa;
+81mm_pl03;Pl 3;
+weapons/81mm_pl03/short;Pl 3;
+81mm_ssk032;SSK 032;
+25mm_pmb_09;PMB 090;

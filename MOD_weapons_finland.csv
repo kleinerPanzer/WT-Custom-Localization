@@ -1,3 +1,13 @@
 <ID|readonly|noverify>;<NewLanguage>
 weapons/gunLKk_42;VKT 12,70 Lento-Konekivääri/42;
 weapons/gunLKk_42/short;Lento-Konekivääri/42;
+weapons/fi_50kg_1938;50 kg pommimali 1938;
+weapons/fi_50kg_1938/short;50 kg 1938;
+weapons/fi_100kg_1938;100 kg pommimali 1938;
+weapons/fi_100kg_1938/short;100 kg 1938;
+weapons/114mm_Psv_H_18_user_cannon;114 mm panssarivaunuhaupitsi 18;
+114mm_akr;114 akr 32/41;
+114mm_hkr;114 hkr 42/C;
+weapons/37mm_Psv_K36_user_cannon;37 mm panssarivaunukanuuna 36;
+37mm_psav;37 psav Vj4;
+37mm_pstkr;37 pstkr 27/34;

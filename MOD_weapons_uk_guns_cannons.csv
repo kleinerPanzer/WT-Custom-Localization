@@ -115,3 +115,39 @@ weapons/47mm_OQF_3pdr_user_cannon;Ordnance, Q.F., 3-pr 2-cwt, Mk. II;
 weapons/57mm_43_6pdr_7cwt_qf_mk2a_naval_user_cannon;Ordnance, Q.F., 6-pr 7-cwt, Mk. IIA;
 weapons/7_7mm_mg_lewis_naval_user_machinegun;.303” Machine Gun, Lewis Mk. III;
 weapons/7_7mm_mg_lewis_user_machinegun;.303” Machine Gun, Lewis Mk. I;
+weapons/30mm_L21A1_RARDEN_user_cannon;Ordnance, 30-mm Gun, L21A1 (RARDEN);
+weapons/7_62mm_L94A1_user_machinegun;Machine Gun, Chain, 7.62 mm, Long, L94A1;
+weapons/cannonLR30;30 mm LR30;
+weapons/cannonLR30/short;LR30;
+weapons/105mm_L7_Mk_3_user_cannon;Ordnance, QF, 105-mm, Tk, L7A1;
+weapons/20mm_Hispano_mk_5_user_cannon;20 mm Hispano-Suiza HS.404;
+weapons/20mm_Polsten_user_cannon;20 mm Polsten Mk. I;
+weapons/95mm_QF_Mk1_user_cannon;Ordnance, Q.F., 95 mm S.P. Howitzer, Mk. III;
+95mm_shell_heat;Mk. I;
+95mm_shell_mk1a_he;Mk. Ia;
+95mm_shell_se_mk1;Mk. I;
+weapons/120mm_L11A5_Mk3_user_cannon;Ordnance, BL, 120-mm, Tk, L11A5;
+weapons/120mm_L11A5_Mk3_Vickers_user_cannon;Ordnance, BL, 120-mm, Tk, L11A5;
+weapons/120mm_L11A5_user_cannon;Ordnance, BL, 120-mm, Tk, L11A5;
+weapons/165mm_L9A1_user_cannon;Ordnance, BL, 165 mm, Tk, L9A1;
+165mm_l33a1;HESH-T, L33A1;
+weapons/57mm_qf_6pdr_user_cannon;Ordnance, QF 6-pr 6-cwt, Mk. I;
+57mm_qf_ap;Steel Shell
+57mm_qf_he;Common Shell
+40mm_mk_i_navy;Mk. I;
+120mm_mark_va;Mk. VA;
+120mm_mark_viia;Mk. VIIA;
+120mm_mark_viia_df;Mk. VIIA DF;
+120mm_mark_viia_vt;Mk. VIIA VT;
+weapons/102mm_45_4in_qf_mark16_21_naval_user_cannon;Ordnance, Q.F., 4-inch, Mk. XIX;
+weapons/120mm_45_4_7in_mark12_cp19_mount_naval_user_cannon;Ordnance, Q.F., 4.7-inch, Mk. XII on Mounting CP Mk. XIX;
+weapons/120mm_45_qf_mk12_mount_cp17_single_naval_user_cannon;Ordnance, Q.F., 4.7-inch, Mk. IX on Mounting CP Mk. XVII;
+weapons/120mm_40_qf_mk12_mount_ha_single_naval_user_cannon;Ordnance, Q.F., 4.7-inch, Mk. XII
+weapons/120mm_45_qf_mk9_single_naval_user_cannon;Ordnance, Q.F., 4.7-inch, Mk. IX
+76mm_howitzer_shell_smoke;3” Smoke;
+weapons/40mm_l60_bofors_mk1_twin_naval_user_cannon;Ordnance, Q.F., 40 mm, Mk. I;
+weapons/40mm_l60_bofors_mk2_quad_naval_user_cannon;Ordnance, Q.F., 40 mm, Mk. II;
+weapons/40mm_l60_bofors_mk3_single_naval_user_cannon;Ordnance, Q.F., 40 mm, Mk. III;
+weapons/40mm_qf_bofors_mk7_single_naval_user_cannon;Ordnance, Q.F., 40 mm, Mk. VII;
+weapons/40mm_qf_bofors_mk5_twin_naval_user_cannon;Ordnance, Q.F., 40 mm, Mk. V;
+weapons/40mm_qf_bofors_staag_mk2_twin_naval_user_cannon;Ordnance, Q.F., 40 mm, STAAG Mk. II;

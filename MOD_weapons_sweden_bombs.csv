@@ -1,3 +1,27 @@
 <ID|readonly|noverify>;<NewLanguage>
 weapons/sw_500kg_brandbomb_m58;500 kg brandbomb m/58;
 weapons/sw_500kg_brandbomb_m58/short;m/58;
+weapons/swd_120kg_sb_m71;120 kg sprängbomb m/71;
+weapons/swd_120kg_sb_m71/short;120 kg m/71;
+weapons/swd_120kg_sb_m71_retarded;120 kg sprängbomb m/71 (retarderad);
+weapons/swd_120kg_sb_m71_retarded/short;120 kg m/71 (R);
+weapons/swd_120kg_sb_m61;120 kg sprängbomb m/61;
+weapons/swd_120kg_sb_m61/short;120 kg m/61;
+weapons/swd_50kg_sb_m37a;50 kg minbomb m/37A;
+weapons/swd_50kg_sb_m37a/short;50 kg m/37A;
+weapons/swd_50kg_sb_m42;50 kg sprängbomb m/42;
+weapons/swd_50kg_sb_m42/short;50 kg m/42;
+weapons/swd_50kg_sb_m47;50 kg sprängbomb m/47;
+weapons/swd_50kg_sb_m47/short;50 kg m/47;
+weapons/swd_250kg_minb_m37b;250 kg minbomb m/37B;
+weapons/swd_250kg_minb_m37b/short;250 kg m/37B;
+weapons/swd_250kg_minb_m40;250 kg minbomb m/40;
+weapons/swd_250kg_minb_m40/short;250 kg m/40;
+weapons/swd_250kg_minb_m50;250 kg minbomb m/50;
+weapons/swd_250kg_minb_m50/short;250 kg m/50;
+weapons/swd_500kg_minb_m41;500 kg minbomb m/41;
+weapons/swd_500kg_minb_m41/short;500 kg m/41;
+weapons/swd_500kg_minb_m56;500 kg minbomb m/56;
+weapons/swd_500kg_minb_m56/short;500 kg m/56;
+weapons/swd_600kg_minb_m50;600 kg minbomb m/50;
+weapons/swd_600kg_minb_m50/short;500 kg m/50;
