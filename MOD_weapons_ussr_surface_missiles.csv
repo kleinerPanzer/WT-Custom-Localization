@@ -111,3 +111,19 @@ weapons/125mm_9m113_launcher_user_cannon;ПУ 9М113;
 weapons/125mm_9M113_rocket_launcher/short;ПТУР 9М113;
 weapons/125mm_9M113/short;ПТУР 9М113;
 125mm_9M113;ПТУР 9М113 «Удар»;
+weapons/rocket_5v24_v600p_naval_rocket_launcher;ЗРК М-1М «Волна-М»;
+weapons/rocket_5v24_v600p_naval_rocket_launcher/short;ЗРК М-1М;
+5v24;ЗУР В-600П
+weapons/rocket_9m33_naval_rocket_launcher;ЗРК ЗиФ-122
+weapons/rocket_9m33_naval_rocket_launcher/short;ЗРК ЗиФ-122
+209mm_9m33;ЗУР 9М33
+weapons/rocket_9k32m_strela2m_naval_rocket_launcher;ПУ 9М32М для «Стрела-2М»;
+weapons/rocket_9k34_strela3_naval_rocket_launcher;ПУ 9М36 для «Стрела-3»;
+72mm_strela2m;ЗУР 9М32М;
+72mm_strela3;ЗУР 9М36;
+weapons/72mm_9s846_4_rocket_launcher;ПУ 9С846;
+72mm_9m39;ЗУР 9М39;
+72mm_9m342;ЗУР 9М342
+V_759;В-759
+weapons/V_759/short;В-759
+weapons/654mm_S_75_V_755_20DS_rocket_launcher;ПУ СМ-90

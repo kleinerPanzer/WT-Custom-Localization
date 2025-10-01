@@ -140,3 +140,122 @@ weapons/40mm_l70_bofors_mel58_naval_user_cannon;40 mm MEL 58;
 40mm_m_dn51;M-DN51 HE-T;
 40mm_bofors_mel58_navy_he_tf/name;HE-T-PF
 40mm_he_t_pf;HE-T-PF;
+weapons/25mm_60_hotchkiss_naval_user_cannon;25 mm Hotchkiss modèle 1938
+weapons/7_7mm_darne_mle1922_naval_user_machinegun;7,7 mm Mitrailleuse légère Darne modèle 1922;
+weapons/100mm_55_mle_1953_naval_user_cannon;100 mm/55 modèle 1953;
+100mm_oea_f1_he;OEA F1 HE;
+100mm_opf_f4_aavt;OPF F4 PFHE;
+weapons/8mm_hotchkiss_1914_naval_user_machinegun;8 mm Hotchkiss modèle 1914;
+weapons/13_2mm_hotchkiss_naval_user_machinegun;13,2 mm Hotchkiss modèle 1930;
+weapons/138mm_40_model_1927_naval_user_cannon;Canon de 138,6 mm modèle 1927;
+weapons/138mm_40_model_1927_naval_user_cannon/short;138,6 mm mle 1927;
+weapons/37mm_50_model1925_naval_user_cannon;Canon de 37 mm modèle 1925;
+weapons/37mm_50_model1925_naval_user_cannon/short;37 mm mle 1925;
+weapons/37mm_50_model1933_naval_user_cannon;Canon de 37 mm modèle 1933;
+weapons/37mm_50_model1933_naval_user_cannon/short;37 mm mle 1933;
+weapons/37mm_70_model1935_naval_user_cannon;Canon de 37 mm modèle 1935
+weapons/37mm_70_model1935_naval_user_cannon/short;37 mm mle 1935
+weapons/13_2mm_76_model1929_naval_user_machinegun;13,2 mm Hotchkiss modèle 1929;
+weapons/13_2mm_76_model1929_naval_user_machinegun/short;Hotchkiss mle 1929;
+weapons/fr_550mm_mod1923dt_torpedo;Torpille de 550 mm modèle 1923DT;
+weapons/fr_550mm_mod1923dt_torpedo/short;23DT;
+weapons/fr_550mm_mod1919v_torpedo;Torpille de 550 mm modèle 1919V;
+weapons/fr_550mm_mod1919v_torpedo/short;19V;
+weapons/fr_550mm_l3_torpedo;Torpille L3;
+weapons/fr_550mm_l3_torpedo/short;L3;
+37mm_oea1925_he;OEA mle 1925;
+37mm_oea1935_he;OEA mle 1935
+138mm_oea1928_he;OEA mle 1928;
+138mm_opfa1924_sap;OPFA mle 1924;
+weapons/155mm_50_model_20_naval_user_cannon;Canon de 155 mm modèle 1920;
+weapons/155mm_50_model_20_naval_user_cannon/short;155 mm mle 1920;
+155mm_m1924_he;OE mle 1924;
+155mm_m1924_he_bdz;OE-TF mle 1924;
+155mm_m1924_sap;SAP mle 1924;
+weapons/75mm_50_model_1922_aa_naval_user_cannon;Canon de 75 mm modèle 1922;
+weapons/75mm_50_model_1922_aa_naval_user_cannon/short;75 mm mle 1922;
+weapons/75mm_50_model_1927_aa_naval_user_cannon;Canon de 75 mm modèle 1927;
+weapons/75mm_50_model_1927_aa_naval_user_cannon/short;75 mm mle 1927;
+75mm_oea_mle1925;OEA mle 1925;
+75mm_oea_mle1925_tf;OEA mle 1925 (TF);
+weapons/130mm_40_model_1919_naval_user_cannon;Canon de 130 mm modèle 1919;
+weapons/130mm_40_model_1919_naval_user_cannon/short;130 mm mle 1919;
+130mm_oea1932_he;OEA mle 1932;
+130mm_opfa1923_sap;OPFA mle 1923;
+weapons/90mm_50_mle_1926_naval_user_cannon;Canon de 90 mm modèle 1926
+weapons/90mm_50_mle_1926_naval_user_cannon/short;90 mm mle 1926;
+90mm_oea_mle1925;OEA mle 1925;
+90mm_oea_mle1925_tf;OEA mle 1925 (TF);
+weapons/203mm_50_mle_1924_naval_user_cannon;Canon de 203 mm modèle 1924;
+weapons/203mm_50_mle_1924_naval_user_cannon/short;203 mm mle 1924;
+203mm_oea_mle1927_he;OEA mle 1927
+203mm_50_opf_mle1927_sapbc;OPF mle 1927
+203mm_opf_mle1936_apcbc;OPF mle 1936
+weapons/138mm_50_model_1929_naval_user_cannon;Canon de 138.6 mm modèle 1929;
+weapons/138mm_50_model_1929_naval_user_cannon/short;138.6 mm mle 1929;
+weapons/138mm_55_model_1910_naval_user_cannon;Canon de 138.6 mm modèle 1910;
+weapons/138mm_55_model_1910_naval_user_cannon/short;138.6 mm mle 1910;
+weapons/305mm_45_model_1906_10_naval_user_cannon;Canon de 305 mm modèle 1906/10;
+weapons/305mm_45_model_1906_10_naval_user_cannon/short;305 mm mle 1906/10;
+weapons/75mm_50_model_1922_naval_user_cannon;Canon de 75 mm modèle 1922;
+weapons/75mm_50_model_1922_naval_user_cannon/short;75 mm mle 1922;
+138mm_oea1919_he;OEA mle 1919;
+138mm_opfa1910_sap;OPFA mle 1910;
+138mm_opfa1921_sap;OPFA mle 1921;
+305mm_oea_mle1927_he;OEA mle 1927;
+305mm_opf_mle1910_apc;OPF mle 1910;
+weapons/330mm_52_model_1931_naval_user_cannon;Canon de 330 mm modèle 1931
+weapons/330mm_52_model_1931_naval_user_cannon/short;340 mm mle 1931
+330mm_oea_mle1935_he;OEA mle 1935
+330mm_opf_mle1935_sapcbc;OPF mle 1935
+weapons/380mm_45_mle_1935_naval_user_cannon;Canon de 380 mm modèle 1935
+weapons/380mm_45_mle_1935_naval_user_cannon/short;380 mm mle 1935
+380mm_oea_mle1949_he;OEA Mle 1949
+380mm_opf_mle1936_apcbc;OPF Mle 1936
+380mm_opf_mle1943_apcbc;OPF Mle 1943
+weapons/130mm_45_model_1932_naval_user_cannon;Canon de 130 mm modèle 1932
+weapons/130mm_45_model_1932_naval_user_cannon/short;130 mm mle 1932
+130mm_oea1934_he;OEA mle 1934
+130mm_oea1934_he_tf;OEA mle 1934 (TF)
+130mm_opf1933_sap;OPF mle 1933
+weapons/340mm_45_model_1912_naval_user_cannon;Canon de 340 mm modèle 1912M;
+weapons/340mm_45_model_1912_naval_user_cannon/short;340 mm mle 1912M;
+340mm_oea_mle1926_he;OEA mle 1926;
+340mm_opf_mle1921_apcbc;OPF mle 1921;
+340mm_opf_mle1912_apc;OPF mle 1912;
+weapons/13_2mm_browning_naval_user_machinegun;Mitrailleuse de 13,2 mm Browning;
+weapons/152mm_55_model_1930_naval_user_cannon;Canon de 152 mm modèle 1930;
+weapons/152mm_55_model_1930_naval_user_cannon/short;152 mm mle 1930;
+weapons/152mm_55_model_1930mod_naval_user_cannon;Canon de 152 mm modèle 1930
+weapons/152mm_55_model_1930mod_naval_user_cannon/short;152 mm mle 1930
+152mm_m1937_he;OEA mle 1937;
+152mm_m1936_he_df;OEA mle 1936
+152mm_m1937_sap;OPF mle 1937;
+152mm_fr_us_ap_mk35;OPF Mk 35;
+weapons/100mm_45_mle_1930_naval_user_cannon;Canon de 100 mm modèle 1930
+weapons/100mm_45_mle_1930_naval_user_cannon/short;100 mm mle 1930
+100mm_oea1928_he_df;OEA mle 1928
+weapons/75mm_35_model_1925_naval_user_cannon;Canon de 75 mm modèle 1925;
+weapons/75mm_35_model_1925_naval_user_cannon/short;75 mm mle 1925;
+weapons/75mm_35_model_1897_naval_user_cannon;Canon de 75 mm modèle 1897;
+weapons/75mm_35_model_1897_naval_user_cannon/short;75 mm mle 1897;
+75mm_oea_mle1917;OEA mle 1917;
+75mm_oea_mle1917_tf;OEA mle 1926 FC;
+75mm_opf_mle1917;OPF mle 1917;
+155mm_oe_f3;OE 155 F3;
+weapons/76mm_50_canet_mod1891_naval_user_cannon;Canon de 75 mm modèle 1891;
+75mm_oea_mle1907;OE mle 1917;
+weapons/152mm_m81_naval_user_cannon;Cannon, 152 mm Gun/Launcher: M81;
+weapons/57mm_60_mle1951_naval_user_cannon;Canon de 57 mm modèle 1951;`
+57mm_model1951;OE mle 1951;
+weapons/138mm_50_model_1934_naval_user_cannon;Canon de 138.6 mm modèle 1934 mod 1938;
+weapons/138mm_50_model_1934_naval_user_cannon/short;138.6 mm mle 1934 mod 1938;
+138mm_oea1932_he;OEA mle 1932;
+weapons/100mm_45_m1917_naval_user_cannon;Canon de 100 mm modèle 1917
+weapons/100mm_45_m1917_naval_user_cannon/short;100 mm mle 1917
+100mm_45_common;mle 1902
+100mm_45_ap;mle 1913
+weapons/65mm_50_m1902_naval_user_cannon;Canon de 65 mm modèle 1902
+weapons/65mm_50_m1902_naval_user_cannon/short;65 mm mle 1901
+65mm_50_fr_common;mle 1892
+65mm_50_fr_ap;mle 1902

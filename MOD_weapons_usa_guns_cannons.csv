@@ -276,3 +276,46 @@ weapons/106mm_M40A1C_user_cannon;Rifle, Recoilless, 106-mm: M40A1C;
 20mm_Vulcan_HEI/name/short;M56A3;
 20mm_Vulcan_API/name;API, M53;
 20mm_Vulcan_API/name/short;M53;
+weapons/37mm_56_an_m4_naval_user_cannon;37 mm/56 Caliber Gun AN/M4;
+37mm_m80;AP-T, M80;
+weapons/12_7mm_m2_browning_naval_user_machinegun;0.50”/90 Caliber Gun AN/M2;
+weapons/12_7mm_m2_browning_naval_user_machinegun/short;0.50”/90 Caliber Gun AN/M2;
+weapons/12_7mm_M80_user_machinegun;Rifle, Caliber .50, Spotting: M8C;
+weapons/12_7mm_M80_20_user_machinegun;Rifle, Caliber .50, Spotting: M8C;
+weapons/75mm_M2_howitzer_user_cannon;Howitzer, 75-mm, M2;
+75mm_m66;HEAT-T, M66;
+120mm_t14e3;APC-T, T14E3;
+120mm_t17e1;HVAP-T, T17E1;
+weapons/155mm_M185_user_cannon;Howitzer, 155-mm, M185;
+weapons/155mm_m45_user_cannon;Howitzer, 155-mm, M45;
+weapons/155mm_m126_user_cannon;Howitzer, 155-mm, M126;
+weapons/155mm_T7_user_cannon;Gun, 155-mm, T7;
+weapons/203mm_m47_user_cannon;Howitzer, 8-in, M47
+weapons/155mm_t180_user_cannon;Gun, 155-mm, T180
+155mm_m107;HE, M107;
+155mm_t152;HEP, T152E5
+155_mm_t267;HEAT, T267
+203mm_m106;HE, M106
+155mm_m110;Smoke WP, M110;
+155mm_m112b1;AP, M112B1;
+155mm_t29e1;APC, T29E1;
+weapons/120mm_T53_user_cannon;Gun, 120-mm, T53;
+120mm_t20e3;Test Shot, T20E3;
+120mm_m73;HE, M73;
+weapons/106mm_M40_RR_user_cannon;Rifle, Recoilless, 106 mm, M40;
+weapons/7_62mm_M37_user_machinegun;Machine Gun, Caliber .30: Tank, M37;
+weapons/90mm_T208E9_user_cannon;Gun, 90-mm, T208E9;
+90mm_t320;APFSDS-T, T320;
+90mm_t340e14h;HE, T340E14H;
+90mm_t339e14;Smoke WP, T339E14;
+75mm_m89;Smoke WP, M89;
+75mm_m88;Smoke WP, M88;
+75mm_m64;Smoke WP, M64;
+75mm_m361;Smoke WP, M361;
+90mm_m313;Smoke WP, M313;
+105mm_m84;Smoke WP, M84;
+105mm_m416;Smoke WP-T, M416;
+120mm_m357;Smoke WP-T, M357;
+weapons/152mm_M162_user_cannon;Cannon, 152 mm Gun/Launcher: M162;
+weapons/7_62mm_m73_naval_user_machinegun;Machine Gun, 7.62 mm: M73;
+25mm_hedp;HEDP

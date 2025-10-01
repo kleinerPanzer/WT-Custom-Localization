@@ -51,3 +51,17 @@ weapons/120mm_OTO_Breda_120_44_Ariete_user_cannon;Cannone OTO-Melara da 120/44;
 weapons/120mm_OTO_Breda_120_44_Ariete_AMV_user_cannon;Cannone OTO-Melara da 120/44;
 50mm_arf_8m3;ARF/8M3
 weapons/50mm_arf_8m3/short;ARF/8M3
+weapons/40mm_l70_bofors_oto_breda_naval_user_cannon;Cannone Automatico Breda-Bofors da 40/70 (DARDO Tipo 107);
+40mm_apfs_ds;APFSDS;
+40mm_bofors_breda_hei_t;HEI-T;
+40mm_bofors_breda_he_pff;HE-PFF;
+40mm_bofors_breda_l70_he/name;HEI-T
+40mm_bofors_breda_l70_he_radio_fuse/name;HE-VT
+weapons/rocket_nettuno_mk1_naval_rocket_launcher;320 mm Nettuno;
+weapons/rocket_nettuno_mk1_naval_rocket_launcher/short;Nettuno;
+nettuno_mk1_asw;Marte Mk. 1;
+76mm_it_om1_navy_he;OM-1;
+76mm_it_om2_navy_he;OM-2;
+76mm_it_om2_navy_he_vt;OM-2;
+weapons/76mm_62_smp_3_naval_user_cannon;76 mm SMP 3;
+weapons/40mm_l70_bofors_early_breda_naval_user_cannon;Cannone Automatico Breda-Bofors da 40/70 (DARDO Tipo 107);

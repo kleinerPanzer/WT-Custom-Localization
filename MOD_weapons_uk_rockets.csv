@@ -61,3 +61,6 @@ weapons/uk_25lb_ap_mk2_4a/short;RP-3, AP Mk. II;
 weapons/uk_25lb_ap_mk2_4b/short;RP-3, AP Mk. II;
 weapons/uk_25lb_ap_mk1_4a_default;Rocket Projectile, 3”, 25 lb Shot, AP, Mk. I;
 weapons/uk_25lb_ap_mk1_4a_default/short;RP-3, AP Mk. I;
+weapons/178mm_up_mk1_naval_rocket_launcher;UP, 7”, Mk. I;
+weapons/178mm_up_mk1_naval_rocket_launcher/short;UP Mk. I;
+up_mk1;UP Mk. I;

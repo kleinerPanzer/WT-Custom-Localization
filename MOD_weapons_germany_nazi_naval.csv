@@ -18,3 +18,29 @@ weapons/de_533mm_g7a_torpedo;533 mm G7a TI;
 weapons/de_533mm_g7a_torpedo/short;G7a TI;
 weapons/de_533mm_g7e_torpedo;533 mm G7e TIIIa;
 weapons/de_533mm_g7e_torpedo/short;G7e TIIIa;
+weapons/depth_charge_de_emc;Einheitsminen EMC;
+weapons/depth_charge_de_emc/short;EMC;
+weapons/depth_charge_de_wbg_mortar;Wasserbombe WBG;
+weapons/depth_charge_de_wbg_mortar/short;WBG;
+weapons/germ_mine_emc;Einheitsminen EMC;
+weapons/germ_mine_emc/short;EMC;
+weapons/germ_mine_emd;Einheitsminen EMD;
+weapons/germ_mine_emd/short;EMD;
+weapons/germ_mine_emf;Einheitsminen EMF;
+weapons/germ_mine_emf/short;EMF;
+weapons/de_500mm_g6c_torpedo;50 cm G6c;
+weapons/de_500mm_g6c_torpedo/short;G6c;
+weapons/de_450mm_c45_91_torpedo;45 cm C45/91;
+weapons/de_450mm_c45_91_torpedo/short;C45/91;
+weapons/de_450mm_c06d_torpedo;45 cm C/06 D;
+weapons/de_450mm_c06d_torpedo/short;C/06 D;
+weapons/de_600_mm_h8_torpedo;60 cm H 8 Torpedo;
+weapons/de_600_mm_h8_torpedo/short;H 8;
+weapons/germ_mine_udm_e;UDM-E;
+weapons/germ_mine_udm_e/short;UDM-E;
+weapons/de_533mm_g7a_sub_torpedo;533 mm G7a
+weapons/de_533mm_g7a_sub_torpedo/short;G7a
+weapons/de_533mm_g7a_mod_sub_torpedo;533 mm G7a
+weapons/de_533mm_g7a_mod_sub_torpedo/short;G7a;
+weapons/germ_mine_tma_1;Torpedomine TMA-1;
+weapons/germ_mine_tma_1/short;TMA-1;

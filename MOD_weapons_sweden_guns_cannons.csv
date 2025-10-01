@@ -143,3 +143,9 @@ weapons/57mm_Bofors_L70_Mk_1_user_cannon;Bofors 57 mm Gun L/70 Mk. 1;
 57_438mm_he;HE-T;
 57_438mm_he_vt;HE-VT;
 57_438mm_sap;SAP-T;
+weapons/120mm_l_45_mark_8_naval_user_cannon;Bofors 12 cm/45 Mk. 8;
+weapons/40mm_l70_bofors_model48_naval_user_cannon;40 mm lv akan m/48;
+weapons/120mm_50_mk4_bofors_1924_naval_user_cannon;12 cm/50 kan m/24
+weapons/120mm_50_mk4_bofors_1924_naval_user_cannon/short;m/24;
+120mm_bofors_m1924_he;Spränggranat;
+120mm_bofors_m39_sap;stgr m/39;

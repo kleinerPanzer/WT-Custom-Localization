@@ -64,3 +64,95 @@ weapons/120mm_50_oto_1933_naval_user_cannon;Cannone OTO da 120/50 Mod. 33
 75_32_he;Granata Esplosivo;
 weapons/75mm_Ansaldo_75_34_user_cannon;Cannone Ansaldo da 75/34 Mod. SF;
 37mm_breda_navy_he_t/name;HE-T
+weapons/8mm_Breda_Mod38_user_machinegun;Mitragliatrice Breda da 8 mm Mod. 38;
+120mm_50_ansaldo_1926_ap;Granata Perforante;
+20mm_mod35_he;Mod. 35;
+weapons/40mm_39_vickers_terni_naval_user_cannon;Cannone-Mitragliera Vickers-Terni da 40/39 1915/1917;
+weapons/40mm_39_vickers_terni_mod1915_1917_naval_user_cannon;Cannone-Mitragliera Vickers-Terni da 40/39 1915/1917;
+weapons/40mm_39_vickers_terni_mod15_17_modif1930_naval_user_cannon;Cannone-Mitragliera Vickers-Terni da 40/39 1915/1917 Mod. 30;
+weapons/40mm_39_vickers_terni_mod15_17_naval_user_cannon;Cannone-Mitragliera Vickers-Terni da 40/39 1915/1917;
+40mm_vickers_terni_mod30_he;HE-F;
+40mm_vickers_terni_mod_1930_he/name;HE-F
+40mm_vickers_terni_mod15_17_he;HE-TF;
+40mm_vickers_terni_mod_1915_17_he_df/name;HE-TF
+weapons/100mm_47_1928_naval_user_cannon;Cannone OTO da 100/47 Mod. 1928;
+weapons/152mm_53_mod_45_1926_naval_user_cannon;Cannone Ansaldo da 152/53 Mod. 1926;
+weapons/152mm_53_mod_45_1929_naval_user_cannon;Cannone Ansaldo da 152/53 Mod. 1929;
+152mm_53_granata_dirompente_he;Granata Dirompente;
+152mm_53_granata_dirompente_he_tf;Granata Dirompente CA;
+152mm_53_palla_aphebc;Granata Palla;
+100mm_47_granata_dirompente_he;Granata Dirompente;
+100mm_47_granata_perforante_aphe;Granata Perfornate;
+100mm_47_granata_dirompente_contro_aerea_he_df;Granata Dirompente CA;
+weapons/100mm_50_minizini_naval_user_cannon;Cannone OTO da 100/47 Mod. 1928;
+weapons/6_5mm_fiat_mod26_naval_user_machinegun;6,5 mm Fiat Mod. 26;
+weapons/13_2mm_76_breda_mod31_naval_user_machinegun;Mitragliatrice Breda da 13,2 mm Mod. 31;
+weapons/203mm_50_ansaldo_mod1924_naval_user_cannon;Cannone Ansaldo da 203/50 Mod. 1924;
+weapons/203mm_50_ansaldo_mod1927_naval_user_cannon;Cannone Ansaldo da 203/50 Mod. 1927;
+203mm_50_53_gr_dir_he;Granata Dirompente;
+203mm_50_53_gr_dir_contro_aerea_he;Granata Dirompente CA;
+203mm_50_53_gr_perf_aphebc;Granata Perforante;
+weapons/37mm_54_breda_mod1938_mod32_watercool_twin_naval_user_cannon;Cannone-Mitragliera Breda da 37/54 Mod. 32;
+weapons/37mm_54_breda_mod1938_mod38_aircool_twin_naval_user_cannon;Cannone-Mitragliera Breda da 37/54 Mod. 38;
+weapons/37mm_54_breda_mod1938_mod39_aircool_single_naval_user_cannon;Cannone-Mitragliera Breda da 37/54 Mod. 39;
+37mm_gr_tracciante_da37ca_he_t;Granata Tracciante da 37 CA;
+weapons/120mm_45_oto_1926_naval_user_cannon;Cannone OTO da 120/45 Mod. 1926;
+120mm_45_granata_dirompente_he;Granata Dirompente;
+120mm_45_granata_perforante_ap;Granata Perforante;
+120mm_45_granata_dirompente_contro_aerea_he;Granata Dirompente CA;
+weapons/20mm_70_isotta_fraschini_mod1939_naval_user_cannon;Cannone-Mitragliera Scotti-Isotta Fraschini da 20/70 Mod. 39;
+weapons/135mm_45_oto_mod1938_naval_user_cannon;Cannone OTO da 135/45 Mod. 1938;
+135mm_45_gr_dir_he;Granata Dirompente;
+135mm_45_gr_perf_aphebc;Granata Perforante;
+135mm_45_gr_dir_contro_aerea_he_tf;Granata Dirompente CA;
+weapons/6_5mm_breda_mod30_naval_user_machinegun;Mitragliatrice Breda da 6,5 mm Mod. 30;
+weapons/20mm_oerlikon_3s_single_naval_user_cannon;Cannone-Automatico da 20/70 Oerlikon 3S;
+weapons/12_7mm_63_breda_safat_naval_user_machinegun;Breda-SAFAT da 12,7 mm;
+weapons/305mm_46_armstrong_mod_1909_naval_user_cannon;Cannone Armstrong da 305/46 mod. 1909;
+305mm_46_perforante_sap;Perforante;
+305mm_46_palla_apcbc;Palla;
+weapons/120mm_50_armstrong_1909_naval_user_cannon;Cannone Armstrong da 120/50 mod. 1909;
+120mm_50_gr_perf_1909_sap;Perforante;
+weapons/76mm_40_armstrong_mod_1897_1910_naval_user_cannon;Cannone Armstrong da 76/40 mod. 1897/1910;
+76mm_40_gr_perf_aphe;Perforante;
+weapons/76mm_40_armstrong_mod_1897_1912_naval_user_cannon;Cannone Armstrong da 76/40 mod. 1897/1912;
+76mm_40_contro_aerea;Contro-area;
+weapons/100mm_47_1937_naval_user_cannon;Cannone OTO da 100/47 mod. 37;
+weapons/120mm_45_canet_schneider_armstrong_1918_naval_user_cannon;Cannone Schneider-Canet-Armstrong da 120/45 mod. 18/19;
+weapons/76mm_40_ansaldo_mod_1917_naval_user_cannon;Cannone Ansaldo da 76/40 Mod. 17;
+76mm_it_ansaldo_navy_aphe;Perforante;
+76mm_it_ansaldo_navy_he_df;Contro-aerea;
+76mm_it_ansaldo_navy_he;Dirompente;
+weapons/102mm_35_sav_mod_1915_aa_naval_user_cannon;Cannone S.A.V. da 102/35 Mod. 15;
+102mm_35_contro_aerea_he;Contro-aerea
+weapons/381mm_40_armstrong_mod_1914_naval_user_cannon;Cannone Armstrong da 381/40 Mod. 14
+381mm_40_sapcbc;SAPCBC
+weapons/381mm_50_ansaldo_oto_mod_1934_naval_user_cannon;Cannone Ansaldo-OTO da 381/50 Mod. 34
+381mm_50_sapcbc;Granata Perforante
+381mm_50_apcbc;Palla APCBC
+weapons/305mm_46_vickers_mod_1909_naval_user_cannon;Cannone Vickers da 305/46 Mod. 09;
+weapons/152mm_45_schneider_mod1911_naval_user_cannon;Cannone Schneider da 152/45 Mod. 11;
+152mm_45_schneider_he;Dirompente;
+152mm_45_schneider_aphe;Perforante;
+152mm_45_schneider_mod1916_aphe;Perforante;
+weapons/76mm_45_schneider_mod1911_naval_user_cannon;Cannone Schneider da 76/45 Mod. 11;
+weapons/76mm_50_vickers_mod1909_naval_user_cannon;Cannone Vickers da 76/50 Mod. 09;
+76mm_it_schneider_navy_he;Dirompente;
+weapons/152mm_40_armstrong_mod_1899_1916_naval_user_cannon;Cannone Armstrong da 152/40 Mod. 1899/16;
+152mm_40_granata_mina_he;Granata mina HE;
+152mm_40_palla_apc;Palla APC;
+152mm_40_perforante_saphe;Perforante SAPHE;
+152mm_55_palla_aphebc;Palla APHEBC;
+weapons/152mm_55_mod_45_1934_naval_user_cannon;Cannone Ansaldo da 152/55 Mod. 34;
+weapons/320mm_40_mod_1936_naval_user_cannon;Cannone Ansaldo da 320/44 Mod. 36;
+weapons/320mm_40_mod_1936_naval_user_cannon/short;320/44 Mod. 36;
+320mm_40_perforante_sap;Granata Peforante;
+320mm_40_palla_apcbc;Palla;
+weapons/90mm_50_ansaldo_mod_1939_naval_user_cannon;Cannone Ansaldo da 90/50 Mod. 39;
+weapons/90mm_50_ansaldo_mod_1939_naval_user_cannon/short;90/50 Mod. 39;
+90mm_50_granata_dirompente_contro_aerea_he_df;Granata Dirompente Contro Aerea;
+weapons/320mm_40_oto_mod_1934_naval_user_cannon;Cannone OTO da 320/44 Mod. 34;
+weapons/320mm_40_oto_mod_1934_naval_user_cannon/short;320/44 Mod. 34;
+weapons/320mm_40_ansaldo_mod_1934_naval_user_cannon;Cannone Ansaldo da 320/44 Mod. 34;
+weapons/320mm_40_ansaldo_mod_1934_naval_user_cannon/short;320/44 Mod. 34;
+weapons/8mm_breda_mod37_naval_user_machinegun;Mitragliatrice Breda da 8 mm Mod. 37;

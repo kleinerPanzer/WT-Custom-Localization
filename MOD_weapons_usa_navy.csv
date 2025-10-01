@@ -1,0 +1,186 @@
+<ID|readonly|noverify>;<NewLanguage>
+40mm_MkII;HE-T, Mk. II;
+weapons/105mm_M68A1_AGS_user_cannon;105-mm Ex 35 Mod 0;
+76mm_mk29;Mk 29 Mod 0;
+76mm_hc_mk27;HC Mk 27 Mod 1;
+76mm_mk31;AA-VT Mk 31 Mod 1;
+weapons/76mm_3_50_mk10_naval_user_cannon;3”/50 Caliber Dual Purpose Gun Mk 10 Mod 0;
+weapons/76mm_50cal_mk34_naval_user_cannon;3”/50 Caliber Dual Purpose Gun Mk 22 Mod 0;
+weapons/cannonHughesMk11Mod0;20 mm Cannon Mk 11 Mod 0;
+weapons/cannonHughesMk11Mod0/short;Mk 11 Mod 0;
+weapons/cannonMK11_mod5;20 mm Cannon Mk 11 Mod 5;
+weapons/cannonMK11_mod5/short;Mk 11 Mod 5;
+weapons/bomb_mark36_srboc_launcher;130 mm Chaff and Decoy Launching System Mk 36 Mod 0 SRBOC;
+weapons/bomb_mark36_srboc_launcher/short;130 mm Mk 36 Mod 0 SRBOC;
+30mm_mk258;APFSDS-T, Mk 258 Mod 1;
+30mm_mk_266;HEI-T, Mk 266 Mod 0;
+30mm_mk320;APDS-T, Mk 320 Mod 0
+weapons/30mm_Bushmaster_2_Mk_44_user_cannon;30 mm Bushmaster II Chain Gun;
+weapons/30mm_Bushmaster_2_Mk_44_9030_user_cannon;30 mm Bushmaster II Chain Gun;
+weapons/30mm_Bushmaster_2_Mk_44_NAMER_user_cannon;30 mm Bushmaster II Chain Gun;
+weapons/30mm_Bushmaster_2_Mk_44_MCT30_user_cannon;30 mm Bushmaster II Chain Gun;
+weapons/30mm_Bushmaster_2_Mk_44_VILKAS_user_cannon;30 mm Bushmaster II Chain Gun;
+40mm_HF_MKII_TL;HF Mk. II;
+weapons/81mm_mk_2_mortar_naval_user_cannon;81 mm Mortar Mk 2 Mod 0;
+weapons/81mm_mk_2_mortar_naval_user_cannon/short;Mortar Mk 2 Mod 0;
+weapons/20mm_oerlikon_mk2_single_naval_user_cannon;20 mm/70 Caliber Gun Mk 2 Mod 0;
+weapons/20mm_oerlikon_mk2_single_naval_user_cannon/short;20 mm/70 Caliber Gun Mk 2 Mod 0;
+weapons/127mm_38_mk12_naval_user_cannon;5”/38 Caliber Dual Purpose Gun Mk 12 Mod 0;
+weapons/127mm_38_mk12_mod14_aa_naval_user_cannon;5”/38 Caliber Dual Purpose Gun Mk 12 Mod 0 (Mount Mk 32 Mod 2);
+weapons/127mm_5_38_mk12_turret_mk21_single_naval_user_cannon;5”/38 Caliber Dual Purpose Gun Mk 12 Mod 0 (Mount Mk 21 Mod 0);
+weapons/127mm_5_38_mk12_turret_mk30_single_naval_user_cannon;5”/38 Caliber Dual Purpose Gun Mk 12 Mod 0 (Mount Mk 30 Mod 0);
+weapons/127mm_5_38_mk12_turret_mk38_twin_naval_user_cannon;5”/38 Caliber Dual Purpose Gun Mk 12 Mod 0 (Mount Mk 31 Mod 0);
+127mm_aa_mk34_mod10;AAC Mk 34 Mod 10;
+127mm_mk32_common;Common Mk 32 Mod 0;
+127mm_aa_mk31_mod1;AA-VT Mk 31 Mod 0;
+127mm_mk46_special_common;SC Mk 46;
+127mm_it_aa_mk34_mod10;AAC Mk 34 Mod 10;
+127mm_it_mk32_common;Common Mk 32 Mod 0;
+127mm_it_aa_mk31_mod1;AA-VT Mk 31 Mod 0;
+127mm_it_mk46_special_common;SC Mk 46;
+20mm_oerlikon_mk7_he_t;HE-T Mk 7 Mod 0;
+20mm_oerlikon_mk9_ap_t;AP-T Mk 9 Mod 0;
+weapons/152mm_6inch_53_mk_12_naval_user_cannon;6”/53 Caliber Gun Mk 12 Mod 0;
+weapons/152mm_6inch_47_mk_16_naval_user_cannon;6”/47 Caliber Gun Mk 16 Mod 0;
+weapons/152mm_6inch_47_mk_16_dp_naval_user_cannon;6”/47 Caliber Dual Purpose Gun Mk 16 Mod 0;
+152mm_sc_mk27_ap;SC Mk 27 Mod 0;
+152mm_hc_mk_34;HC Mk 34 Mod 0;
+152mm_hc_mk_34_bf;HC Mk 34 Mod 0;
+152mm_hc_mk_34_vt;HC-VT Mk 34 Mod 0;
+152mm_47_ap_mk35;AP Mk 35 Mod 0;
+weapons/28mm_75_mk_1_chicago_piano_naval_user_cannon;1.1”/75 Caliber Gun Mk 1 Mod 0;
+weapons/28mm_75_mk_1_chicago_piano_naval_user_cannon/short;1.1”/75 Caliber Gun Mk 1 Mod 0;
+25mm_mk1_sd;SD Mk 1 Mod 0;
+weapons/102mm_50_4inch_mk9_naval_user_cannon;4”/50 Caliber Gun Mk 9 Mod 0;
+102mm_hc_mk15;HC Mk 15 Mod 0;
+102mm_hc_mk15_bf;HC Mk 15 Mod 0;
+102mm_sp_common_mk16;SP Common Mk 16 Mod 0;
+weapons/76mm_3_23_mk4_naval_user_cannon;3”/23 Caliber Gun Mk 4 Mod 0;
+76mm_mk3_common;Common Mk 3 Mod 0;
+76mm_mk26_aa;AA Mk 26 Mod 0;
+weapons/cannonBrowning-Colt_Mk12_Mod3;20 mm Cannon Mk 12 Mod 3;
+weapons/cannonBrowning-Colt_Mk12_Mod0;20 mm Cannon Mk 12 Mod 0;
+weapons/127mm_25_5inch_mk13_naval_user_cannon;5”/25 Caliber Gun Mk 13 Mod 0;
+127mm_25_aac_mk36;AAC Mk 36 Mod 0;
+127mm_25_vt_aac_mk28;AAC-VT Mk 28 Mod 0;
+20mm_mk_149_apds;APDS Mk 149 Mod 0;
+weapons/76mm_50cal_mk33_twin_naval_user_cannon;3”/50 Caliber Dual Purpose Gun Mk 22 Mod 0 (Mount Mk 33 Mod 0);
+weapons/76mm_50_eu_mk33_twin_naval_user_cannon;3”/50 Caliber Dual Purpose Gun Mk 22 Mod 0 (Mount Mk 33 Mod 0);
+weapons/jp_324mm_mark_46_torpedo;12.75” Torpedo Mk 46 Mod 0;
+weapons/jp_324mm_mark_46_torpedo/short;Mk 46 Mod 0;
+weapons/us_324mm_mark_44_torpedo;12.75” Torpedo Mk 44 Mod 0;
+weapons/us_324mm_mark_44_torpedo/short;Mk 44 Mod 0;
+weapons/us_mk13_torpedo;22.5” Torpedo Mk 13 Mod 7;
+weapons/us_mk13_torpedo_tutorial;22.5” Torpedo Mk 13 Mod 7;
+weapons/us_mk13_torpedo_no_case;22.5” Torpedo Mk 13 Mod 3;
+weapons/us_mk13_mod1;22.5” Torpedo Mk 13 Mod 1;
+weapons/us_mk13_mod1/short;Mk 13 Mod 1;
+weapons/us_mk13_torpedo_weak;22.5” Torpedo Mk 13 Mod 3;
+weapons/us_mk13_torpedo_weak/short;Mk 13 Mod 3;
+weapons/us_mk13_torpedo_no_case/short;Mk 13 Mod 3;
+weapons/us_mk13_torpedo/short;Mk 13 Mod 7;
+weapons/us_mk13_torpedo_tutorial/short;Mk 13 Mod 7;
+weapons/uk_mk12_torpedo/short;Mk 12 Mod 0;
+weapons/depth_charge_mk_9_mortar;Depth Charge Mk 9 Mod 0;
+weapons/depth_charge_mk_9_mortar/short;Mk 9 Mod 0;
+weapons/depth_charge_mk_9;Depth Charge Mk 9 Mod 0;
+weapons/depth_charge_mk_9/short;Mk 9 Mod 0;
+weapons/us_450mm_mk7_torpedo;18” Torpedo Mk 7 Mod 0;
+weapons/us_450mm_mk7_torpedo/short;Mk 7 Mod 0;
+weapons/us_mk48_torpedo;21” UDGLR Torpedo Mk 48 Mod 0;
+weapons/us_mk48_torpedo/short;Mk 48 Mod 0;
+weapons/us_533mm_21in_mark16_torpedo;21” Torpedo Mk 16 Mod 0;
+weapons/us_533mm_21in_mark16_torpedo/short;Mk 16 Mod 0;
+weapons/us_533mm_21in_mark18_mod1_torpedo;21” Torpedo Mk 8 Mod 3C;
+weapons/us_533mm_21in_mark18_mod1_torpedo/short;Mk 8 Mod 3;
+weapons/depth_charge_mk_6;Depth Charge Mk 6 Mod 0;
+weapons/depth_charge_mk_6/short;Mk 6 Mod 0;
+weapons/us_569mm_22_5_in_mark13_torpedo;22.5” Torpedo Mk 13 Mod 3;
+weapons/us_569mm_22_5_in_mark13_torpedo/short;Mk 13 Mod 3;
+weapons/us_533mm_21in_mark15_torpedo;21” Torpedo Mk 15 Mod 0;
+weapons/us_533mm_21in_mark15_torpedo/short;Mk 15 Mod 0;
+weapons/depth_charge_mk_6_mortar;Depth Charge Mk 6 Mod 0;
+weapons/depth_charge_mk_6_mortar/short;Mk 6 Mod 0;
+weapons/us_21_inch_mark_8;21” Torpedo Mk 8 Mod 3A;
+weapons/us_21_inch_mark_8/short;Mk 8 Mod 3;
+weapons/us_533mm_21in_mark8_torpedo;21” Torpedo Mk 8 Mod 3A;
+weapons/us_533mm_21in_mark8_torpedo/short;Mk 8 Mod 3;
+weapons/uk_533mm_21in_mk19_torpedo;Torpedo, 21”, Mk. IX;
+weapons/uk_533mm_21in_mk19_torpedo/short;Mk. IX;
+weapons/bomb_uk_mk4;Depth Charge Mk 4 Mod 0;
+weapons/bomb_uk_mk4/short;Mk 4 Mod 0;
+130mm_srboc;SRBOC Mk 36 Mod 0;
+weapons/203mm_55_8inch_mk14_naval_user_cannon;8”/55 Caliber Gun Mk 14 Mod 0;
+203mm_mk_14_common;Common Mk 14 Mod 1;
+203mm_mk_19_apc;AP Mk 19 Mod 0;
+203mm_mk25_hc;HC Mk 25 Mod 1;
+203mm_mk17_special_common;SC Mk. 17;
+weapons/127mm_38_mk12_turret_mk21_single_naval_user_cannon;5”/38 Caliber Dual Purpose Gun Mk 12 Mod 0 (Mount Mk 21 Mod 0);
+weapons/127mm_38_mk12_turret_mk22_twin_naval_user_cannon;5”/38 Caliber Dual Purpose Gun Mk 12 Mod 0 (Mount Mk 22 Mod 0);
+weapons/127mm_38_mk12_turret_mk30_single_naval_user_cannon;5”/38 Caliber Dual Purpose Gun Mk 12 Mod 0 (Mount Mk 30 Mod 0);
+weapons/127mm_38_eu_mk12_turret_mk30_single_naval_user_cannon;5”/38 Caliber Dual Purpose Gun Mk 12 Mod 0 (Mount Mk 30 Mod 0);
+weapons/127mm_38_mk12_turret_mk38_twin_naval_user_cannon;5”/38 Caliber Dual Purpose Gun Mk 12 Mod 0 (Mount Mk 38 Mod 0);
+weapons/127mm_38_mk12_turret_mk28_twin_naval_user_cannon;5”/38 Caliber Dual Purpose Gun Mk 12 Mod 0 (Mount Mk 29 Mod 0);
+320mm_rur4;RUR-4;
+320mm_rur/short;RUR-4;
+weapons/320mm_mk108_weapon_alfa_rocket_launcher;Anti-Submarine Rocket Launcher Mk 108 Mod 0;
+weapons/320mm_mk108_weapon_alfa_rocket_launcher/short;ASRL Mk 108 Mod 0;
+weapons/us_533mm_21in_mark35_torpedo;21” Torpedo Mk 35 Mod 0;
+weapons/us_533mm_21in_mark35_torpedo/short;Mk 35 Mod 0;
+weapons/us_mine_mk13_mod0;1000-lb Mine Mk 13 Mod 0;
+weapons/us_mine_mk13_mod0/short;Mk 13 Mod 0;
+weapons/305mm_50_12inch_mk7_naval_user_cannon;12”/50 Caliber Gun Mk 7 Mod 0;
+305mm_mk15_ap;APC Mk 15 Mod 0;
+weapons/127mm_54_mk42_naval_user_cannon;5”/54 Caliber Gun Mk 42 Mod 0;
+weapons/127mm_54_mk16_single_naval_user_cannon;5”/54 Caliber Gun Mk 16 Mod 0
+127mm_54_vt_hc_mk41;HC-VT Mk 41 Mod 0;
+weapons/305mm_45_12inch_mk5_naval_user_cannon;12”/45 Caliber Gun Mk 5 Mod 0;
+305mm_7crh_mk15_apc;APC Mk 15 Mod 0;
+weapons/127mm_50_mk5_naval_user_cannon;5”/50 Caliber Gun Mk 5 Mod 0;
+127mm_50_mk15_common;Common Mk 15 Mod 0;
+127mm_50_apc;APC;
+28mm_usa_navy_he_t/name;HE-T Mk 1 Mod 0
+weapons/76mm_3_50_mk10_ww1_mk11_mount_naval_user_cannon;3”/50 Caliber Gun Mk 10 Mod 0;
+76mm_aa_mk23_he_tf;HE-TF Mk 23 Mod 0;
+weapons/us_533mm_21in_bliss_leavitt_mk1_torpedo;21” Bliss-Leavitt Torpedo Mk 1 Mod 0;
+weapons/us_533mm_21in_bliss_leavitt_mk1_torpedo/short;Mk 1 Mod 0;
+305mm_mk18_ap;AP Mk 18 Mod 0;
+305mm_mk7_apcbc;APCBC Mk 7 Mod 0;
+weapons/203mm_55_8inch_mk12_naval_user_cannon;8”/55 Caliber Gun Mk 12 Mod 0;
+203mm_mk_21_apc;APC Mk 21 Mod 0;
+weapons/127mm_38_mk12_turret_mk32_twin_naval_user_cannon;5”/38 Caliber Gun Mk 12 Mod 0;
+weapons/127mm_51_mk7_naval_user_cannon;5”/51 Caliber Gun Mk 7 Mod 0;
+127mm_51_apc;APC;
+weapons/203mm_55_8inch_mk9_naval_user_cannon;8”/55 Caliber Gun Mk 9 Mod 0;
+weapons/127mm_54_mk18_turret_mk42_single_naval_user_cannon;5”/54 Caliber Dual Purpose Gun Mk 18 Mod 0 (Mount Mk 42 Mod 0);
+127mm_54_mk42_mod0_common;SP Mk 42 Mod 0;
+127mm_54_hc_mk41_mod0;HC Mk 41 Mod 0;
+weapons/76mm_70_mark_37_naval_user_cannon;3”/70 Caliber Gun Mk 26 Mod 0 (Mount Mk 37 Mod 0);
+76mm_mk34_mod1_navy_he;HEMk 34 Mod 1;
+76mm_mk34_mod1_navy_he_vt;HE-VT Mk 34 Mod 1;
+weapons/356mm_45_14inch_mk8_naval_user_cannon;14”/45 Caliber Gun Mk 8 Mod 0;
+weapons/356mm_45_14inch_mk12_naval_user_cannon;14”/45 Caliber Gun Mk 12 Mod 0;
+weapons/356mm_50_14inch_mk11_naval_user_cannon;14”/50 Caliber Gun Mk 11 Mod 0;
+356mm_mk19_hc;HC Mk 19 Mod 0;
+356mm_mk16_apcbc;APCBC Mk 16 Mod 0;
+356mm_class_b_mk9_he;Bombardment Mk 9 Mod 0;
+356mm_class_b_mk11_he;HE Mk 11 Mod 0;
+356mm_mk8_apcbc;APCBC Mk 8 Mod 0;
+weapons/127mm_25_5inch_mk11_naval_user_cannon;5”/25 Caliber Gun Mk 11 Mod 0;
+weapons/rocket_mk11_naval_rocket_launcher;Guided Missile Launcher Mk 11 Mod 0
+weapons/rocket_mk11_naval_rocket_launcher/short;Mk 11 Mod 0
+weapons/305mm_50_12inch_mk8_naval_user_cannon;12”/50 Caliber Gun Mk 8 Mod 0;
+305mm_mk17_he;HC Mk 17 Mod 1;
+weapons/25mm_87_mark_38_naval_user_cannon;25 mm/87 Caliber Machine Gun Mk 38 Mod 0
+weapons/203mm_55_8inch_mk16_naval_user_cannon;8”/55 Caliber Gun Mk 16 Mod 0;
+weapons/406mm_45_mk5_naval_user_cannon;16”/45 Caliber Gun Mk 5 Mod 0
+weapons/406mm_45_mk5_naval_user_cannon/short;16”/45 Caliber Gun Mk 5 Mod 0
+406mm_mk13_hc;HC Mk 13
+406mm_mk3_apcbc;APCBC Mk 3
+406mm_mk5_apcbc;APCBC Mk 5
+weapons/us_depth_charge_mk_6_mortar;Depth Charge Mk 6 Mod 0
+weapons/us_depth_charge_mk_6_mortar/short;Mk 6 Mod 0
+weapons/us_depth_charge_mk_6;Depth Charge Mk 9 Mod 0
+weapons/us_depth_charge_mk_6/short;Mk 6 Mod 0
+weapons/406mm_50_mk7_naval_user_cannon;16”/50 Caliber Gun Mk 7 Mod 0
+406mm_mk8_mod6_apcbc;APCBC Mk 8 Mod 6

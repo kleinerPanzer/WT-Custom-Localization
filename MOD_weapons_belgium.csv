@@ -28,3 +28,6 @@ weapons/7_62mm_FN_MAG60_40_namer_user_machinegun;7,62 mm FN MAG 60-40;
 weapons/105mm_falaric/short;Falarick 105;
 weapons/105mm_XC8_L50_user_cannon;105 mm Cockerill CV 105HP Gun;
 105mm_m1061;HEAT-MP-T, M1061;
+100mm_m1000a1;M1000A1;
+weapons/7_62mm_fn_mag_naval_user_machinegun;7,62 mm FN MAG 60-40;
+weapons/105mm_cockerill_hp_user_cannon;105 mm Cockerill CV 105HP Gun;
