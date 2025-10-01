@@ -1,4 +1,42 @@
 <ID|readonly|noverify>;<NewLanguage>
+
+// ARMY //
+
+us_m5a1_stuart_canadian_5st_arm_shop;▃ Stuart Mk. VI (5 Cdn Armd Div)
+us_m5a1_stuart_canadian_5st_arm_0;▃ Tank, Light, Stuart Mk. VI (July 1943) (5th Canadian Armoured Division)
+us_m5a1_stuart_canadian_5st_arm_1;▃ Stuart Mk. VI
+us_m5a1_stuart_canadian_5st_arm_2;Stuart
+
+uk_cruiser_ram_1_shop;Ram Mk. I
+uk_cruiser_ram_1_0;Tank, Cruiser, Ram Mk. I
+uk_cruiser_ram_1_1;Ram Mk. I
+uk_cruiser_ram_1_2;Ram
+us_m4a5_ram_2_shop;▃ Ram Mk. II
+us_m4a5_ram_2_0;▃ Tank, Cruiser, Ram Mk. II (No. CT-39831-CT40131)
+us_m4a5_ram_2_1;▃ Ram Mk. II
+us_m4a5_ram_2_2;Ram
+uk_m4a5_ram_2_shop;Ram Mk. II
+uk_m4a5_ram_2_0;Tank, Cruiser, Ram Mk. II (No. CT-39831-CT40131)
+uk_m4a5_ram_2_1;Ram Mk. II
+uk_m4a5_ram_2_2;Ram
+uk_ram_90mm_aa_shop;Q.F. 3.7” AA Ram
+uk_ram_90mm_aa_0;Q.F. 3.7” AA on Ram Mounting
+uk_ram_90mm_aa_1;Q.F. 3.7” AA Ram
+uk_ram_90mm_aa_2;3.7” Ram
+
+us_skink_aa_shop;▃ Skink
+us_skink_aa_0;▃ Tank, A.A., 20 mm, Quad., Skink (Polsten)
+us_skink_aa_1;▃ Skink
+us_skink_aa_2;Skink
+us_skink_aa_kit_3rank_shop;▃ Skink
+us_skink_aa_kit_3rank_0;▃ Tank, A.A., 20 mm, Quad., Skink (Polsten)
+us_skink_aa_kit_3rank_1;▃ Skink
+us_skink_aa_kit_3rank_2;Skink
+uk_skink_aa_shop;Skink
+uk_skink_aa_0;Tank, A.A., 20 mm, Quad., Skink (Polsten)
+uk_skink_aa_1;Skink
+uk_skink_aa_2;Skink
+
 germ_leopard_c2_mexas_shop;◄ Leopard C2A1
 germ_leopard_c2_mexas_0;◄ Tank, Combat, Full-Tracked, Leopard C2A1
 germ_leopard_c2_mexas_1;◄ Leopard C2A1
@@ -12,7 +50,37 @@ uk_adats_m113a3_0;▄ M113A3 (Air Defense Anti-Tank System)
 uk_adats_m113a3_1;▄ M113A3 (ADATS)
 uk_adats_m113a3_2;M113
 
+// RCAF //
+
+spitfiremkiia_ep_shop;Spitfire Mk. IIa (No. 411 Sq.)
+spitfiremkiia_ep_0;Spitfire Mk. IIa (No. 411 Squadron RCAF)
+spitfiremkiia_ep_1;Spitfire Mk. II
+spitfiremkiia_ep_2;Spitfire
+spitfire_fr_mk14e_shop;Spitfire FR. Mk. XIV (e) (CW) (No. 414 Sq.)
+spitfire_fr_mk14e_0;Spitfire FR. Mk. XIV (e) (Clipped Wing) (James Prendergast, No. 414 Squadron RCAF)
+spitfire_fr_mk14e_1;Spitfire Mk. XIV
+spitfire_fr_mk14e_2;Spitfire
+
 cf_188a_canada_shop;CF-188A
 cf_188a_canada_0;CF-188A
 cf_188a_canada_1;CF-188A
 cf_188a_canada_2;CF-188A
+
+// RCN //
+
+uk_destroyer_haida_shop;Haida (G 63)
+uk_destroyer_haida_0;Tribal-Class Destroyer, HMCS Haida (G 63)
+uk_destroyer_haida_1;Haida
+uk_destroyer_haida_2;Tribal-Class
+uk_flower_class_shop;Brantford (K 218)
+uk_flower_class_0;Flower-Class Corvette, HMCS Brantford (K 218)
+uk_flower_class_1;Brantford
+uk_flower_class_2;Flower-Class
+uk_destroyer_restigouche_class_terranova_shop;Terra Nova (DDE 259)
+uk_destroyer_restigouche_class_terranova_0;Restigouche-Class Destroyer Escort, HMCS Terra Nova (DDE 259)
+uk_destroyer_restigouche_class_terranova_1;Terra Nova
+uk_destroyer_restigouche_class_terranova_2;Restigouche-Class
+uk_71ft_mtb460_shop;MTB 460
+uk_71ft_mtb460_0;Motor Torpedo Boat, BPB 72’, HMCS MTB 460
+uk_71ft_mtb460_1;MTB 460
+uk_71ft_mtb460_2;BPB 72'

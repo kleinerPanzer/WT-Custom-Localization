@@ -1,58 +1,75 @@
 <ID|readonly|noverify>;<NewLanguage>
-cn_t_26_no531_shop;☀ Т-26 (200師)
-cn_t_26_no531_0;☀ Т-26輕戰車 (國民革命軍第200師)
-cn_t_26_no531_1;☀ Т-26
-cn_t_26_no531_2;Т-26
+
+// SOVIET //
 cn_t_26_1940_shop;☀ Т-26
 cn_t_26_1940_0;☀ Т-26輕戰車
 cn_t_26_1940_1;☀ Т-26
 cn_t_26_1940_2;Т-26
+cn_t_26_no531_shop;☀ Т-26 (200師)
+cn_t_26_no531_0;☀ Т-26輕戰車 (國民革命軍第200師)
+cn_t_26_no531_1;☀ Т-26
+cn_t_26_no531_2;Т-26
+
 cn_bt_5_shop;☀ БТ-5
 cn_bt_5_0;☀ БТ-5輕戰車
 cn_bt_5_1;☀ БТ-5
 cn_bt_5_2;БТ-5
+
+// JAPANESE // 
+
 cn_type_95_ha_go_shop;☀ 95式
 cn_type_95_ha_go_0;☀ 95式輕戰車
 cn_type_95_ha_go_1;☀ 95式
 cn_type_95_ha_go_2;95式
-cn_m3a3_stuart_shop;☀ M3A3
-cn_m3a3_stuart_0;☀ M3A3戰車
-cn_m3a3_stuart_1;☀ M3A3
-cn_m3a3_stuart_2;M3
+
 cn_type_97_chi_ha_shop;☀ 97式
 cn_type_97_chi_ha_0;☀ 97式中戰車
 cn_type_97_chi_ha_1;☀ 97式
 cn_type_97_chi_ha_2;97式
-cn_type_97_kai_shop;☀ 97式改
-cn_type_97_kai_0;☀ 97式中戰車改
-cn_type_97_kai_1;☀ 97式改
+cn_type_97_kai_shop;☀ 97式/47
+cn_type_97_kai_0;☀ 97式/47mm中戰車
+cn_type_97_kai_1;☀ 97式/47
 cn_type_97_kai_2;97式
-cn_m5a1_stuart_shop;☀ M5A1
-cn_m5a1_stuart_0;☀ M5A1戰車
-cn_m5a1_stuart_1;☀ M5A1
-cn_m5a1_stuart_2;M5
+
+// US // 
 shop/group/cn_m3_m5_stuart_group;☀ M3A3 / ☀ M5A1
+
+cn_m3a3_stuart_shop;☀ M3A3
+cn_m3a3_stuart_0;☀ M3A3戰車
+cn_m3a3_stuart_1;☀ M3A3
+cn_m3a3_stuart_2;M3
 cn_m3a3_stuart_1st_ptg_shop;☀ M3A3 (1st Pr.T.Gr.)
 cn_m3a3_stuart_1st_ptg_0;☀ M3A3戰車 (Chinese-American 1st Provisional Tank Group)
 cn_m3a3_stuart_1st_ptg_1;☀ M3A3
 cn_m3a3_stuart_1st_ptg_2;M3
-cn_m4a4_sherman_1st_ptg_shop;☀ M4A4 75 (1st Pr.T.Gr.)
-cn_m4a4_sherman_1st_ptg_0;☀ M4A4 75戰車 (Chinese-American 1st Provisional Tank Group)
-cn_m4a4_sherman_1st_ptg_1;☀ M4A4 75
-cn_m4a4_sherman_1st_ptg_2;M4
+
+cn_m5a1_stuart_shop;☀ M5A1
+cn_m5a1_stuart_0;☀ M5A1戰車
+cn_m5a1_stuart_1;☀ M5A1
+cn_m5a1_stuart_2;M5
+
 cn_m4a4_sherman_shop;☀ M4A4 75
 cn_m4a4_sherman_0;☀ M4A4 75戰車
 cn_m4a4_sherman_1;☀ M4A4 75
 cn_m4a4_sherman_2;M4
+cn_m4a4_sherman_1st_ptg_shop;☀ M4A4 75 (1st Pr.T.Gr.)
+cn_m4a4_sherman_1st_ptg_0;☀ M4A4 75戰車 (Chinese-American 1st Provisional Tank Group)
+cn_m4a4_sherman_1st_ptg_1;☀ M4A4 75
+cn_m4a4_sherman_1st_ptg_2;M4
+
 cn_m8_scott_shop;☀ M8 75
 cn_m8_scott_0;☀ M8 75榴炮戰車
 cn_m8_scott_1;☀ M8 75
 cn_m8_scott_2;M8
-cn_sdkfz_222_early_shop;☀ le.Pz.Spw. (2 cm) A
-cn_sdkfz_222_early_0;☀ leichter Panzerspähwagen (2 cm) Ausf. A (1. Serie)
-cn_sdkfz_222_early_1;☀ le.Pz.Spw. (2 cm) A
-cn_sdkfz_222_early_2;le.Pz.Spw.
+
 cn_gmc_cckw_353_m45_quad_shop;☀ CCKW (M55)
 cn_gmc_cckw_353_m45_quad_0;☀ CCKW油罐車 (M55 4管50機槍)
 cn_gmc_cckw_353_m45_quad_1;☀ CCKW (M55)
 cn_gmc_cckw_353_m45_quad_2;CCKW
+
+// OTHER //
+
+cn_sdkfz_222_early_shop;☀ le.Pz.Spw. (2 cm) A
+cn_sdkfz_222_early_0;☀ leichter Panzerspähwagen (2 cm) Ausf. A (1. Serie)
+cn_sdkfz_222_early_1;☀ le.Pz.Spw. (2 cm) A
+cn_sdkfz_222_early_2;le.Pz.Spw.

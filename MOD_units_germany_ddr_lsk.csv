@@ -1,4 +1,6 @@
 <ID|readonly|noverify>;<NewLanguage>
+shop/group/mig_21_germany_group;◊ MiG-21 MF / ◊ MiG-21 bis SAU
+
 su_22um3k_shop;◊ Su-22UM3K
 su_22um3k_0;◊ Su-22UM3K
 su_22um3k_1;◊ Su-22UM
@@ -7,23 +9,22 @@ su_22m4_shop;◊ Su-22M4
 su_22m4_0;◊ Su-22M4
 su_22m4_1;◊ Su-22M
 su_22m4_2;Su-22
-shop/group/mig_21_germany_group;◊ MiG-21 MF / ◊ MiG-21 bis SAU
+
 mig-15bis_nr23_german_shop;◊ MiG-15 bis
 mig-15bis_nr23_german_0;◊ MiG-15 bis
 mig-15bis_nr23_german_1;◊ MiG-15 bis
 mig-15bis_nr23_german_2;MiG-15
-il_28_german_shop;◊ Il-28
-il_28_german_0;◊ Il-28
-il_28_german_1;◊ Il-28
-il_28_german_2;Il-28
+
 mig-17p_lim_5p_shop;◊ MiG-17PF
 mig-17p_lim_5p_0;◊ MiG-17PF
 mig-17p_lim_5p_1;◊ MiG-17PF
 mig-17p_lim_5p_2;MiG-17
+
 mig-19s_shop;◊ MiG-19S
 mig-19s_0;◊ MiG-19S
 mig-19s_1;◊ MiG-19S
 mig-19s_2;MiG-19
+
 mig-21_mf_shop;◊ MiG-21 MF
 mig-21_mf_0;◊ MiG-21 MF
 mig-21_mf_1;◊ MiG-21 MF
@@ -36,6 +37,7 @@ mig-21_bis_lazur_shop;◊ MiG-21 bis Lasur (JG-8)
 mig-21_bis_lazur_0;◊ MiG-21 bis Lasur (Jagdfliegergeschwader 8)
 mig-21_bis_lazur_1;◊ MiG-21 bis
 mig-21_bis_lazur_2;MiG-21
+
 mig_23bn_shop;◊ MiG-23BN
 mig_23bn_0;◊ MiG-23BN
 mig_23bn_1;◊ MiG-23BN
@@ -48,7 +50,13 @@ mig_23mla_shop;◊ MiG-23ML
 mig_23mla_0;◊ MiG-23ML
 mig_23mla_1;◊ MiG-23ML
 mig_23mla_2;MiG-23
+
 mig_29_9_12_germany_shop;◊ MiG-29
 mig_29_9_12_germany_0;◊ MiG-29
 mig_29_9_12_germany_1;◊ MiG-29
 mig_29_9_12_germany_2;MiG-29
+
+il_28_german_shop;◊ Il-28
+il_28_german_0;◊ Il-28
+il_28_german_1;◊ Il-28
+il_28_german_2;Il-28

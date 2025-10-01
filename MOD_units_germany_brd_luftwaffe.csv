@@ -1,13 +1,6 @@
 <ID|readonly|noverify>;<NewLanguage>
+shop/group/f-86_german_group;◄ Sabre Mk. 5 / ◄ Sabre Mk. 6
 
-f-84f_germany_shop;◄ F-84F-81
-f-84f_germany_0;◄ F-84F-81 RE
-f-84f_germany_1;◄ F-84F
-f-84f_germany_2;F-84
-su_22m4_de_wtd61_shop;◄ Su-22M4 (WTD 61)
-su_22m4_de_wtd61_0;◄ Su-22M4 (Wehrtechnische Dienststelle für Luftfahrzeuge und Luftfahrtgerät der Bundeswehr (WTD 61))
-su_22m4_de_wtd61_1;◄ Su-22M4
-su_22m4_de_wtd61_2;Su-22
 f-86_canadair_german_shop;◄ Sabre Mk. 5
 f-86_canadair_german_0;◄ CL-13A Sabre Mk. 5
 f-86_canadair_german_1;◄ Sabre Mk. 5
@@ -16,40 +9,22 @@ f-86_cl_13b_mk6_shop;◄ Sabre Mk. 6
 f-86_cl_13b_mk6_0;◄ CL-13B Sabre Mk. 6
 f-86_cl_13b_mk6_1;◄ Sabre Mk. 6
 f-86_cl_13b_mk6_2;Sabre
-shop/group/f-86_german_group;◄ Sabre Mk. 5 / ◄ Sabre Mk. 6
-f-104g_shop;◄ F-104G
-f-104g_0;◄ F-104G
-f-104g_1;◄ F-104G
-f-104g_2;F-104
-alpha_jet_a_shop;Alpha Jet A
-alpha_jet_a_0;Alpha Jet A
-alpha_jet_a_1;Alpha Jet A
-alpha_jet_a_2;Alpha Jet
-sea_hawk_mk100_shop;◄ Sea Hawk Mk. 100
-sea_hawk_mk100_0;◄ Sea Hawk Mk. 100 mit Lenkflugkörpersystem AIM-9B
-sea_hawk_mk100_1;◄ Sea Hawk Mk. 100
-sea_hawk_mk100_2;Sea Hawk
+
+f-84f_germany_shop;◄ F-84F-81
+f-84f_germany_0;◄ F-84F-81 RE
+f-84f_germany_1;◄ F-84F
+f-84f_germany_2;F-84
 
 f-86k_late_german_shop;◄ F-86K
 f-86k_late_german_0;◄ F-86K (1962)
 f-86k_late_german_1;◄ F-86K
 f-86k_late_german_2;F-86
-fiat_g91_r3_shop;◄ G.91 R/3
-fiat_g91_r3_0;◄ G.91 R/3
-fiat_g91_r3_1;◄ G.91 R
-fiat_g91_r3_2;G.91
-fiat_g91_r4_german_shop;◄ G.91 R/4
-fiat_g91_r4_german_0;◄ G.91 R/4
-fiat_g91_r4_german_1;◄ G.91 R
-fiat_g91_r4_german_2;G.91
-mig-21_sps_k_shop;◄ MiG-21 SPS-K (JG-1)
-mig-21_sps_k_0;◄ MiG-21 SPS-K (Jagdfliegergeschwader 1)
-mig-21_sps_k_1;◄ MiG-21 SPS
-mig-21_sps_k_2;MiG-21
-mig_29_9_12g_shop;◄ MiG-29G
-mig_29_9_12g_0;◄ MiG-29G
-mig_29_9_12g_1;◄ MiG-29G
-mig_29_9_12g_2;MiG-29
+
+f-104g_shop;◄ F-104G
+f-104g_0;◄ F-104G
+f-104g_1;◄ F-104G
+f-104g_2;F-104
+
 f-4f_shop;◄ F-4F-54 (JG 74)
 f-4f_0;◄ F-4F-54 MC (Jagdgeschwader 74)
 f-4f_1;◄ F-4F
@@ -62,6 +37,16 @@ f-4f_kws_lv_shop;◄ F-4F KWS-LV
 f-4f_kws_lv_0;◄ F-4F KWSW-LV „Peace Rhine“
 f-4f_kws_lv_1;◄ F-4F KWS
 f-4f_kws_lv_2;F-4
+
+fiat_g91_r3_shop;◄ G.91 R/3
+fiat_g91_r3_0;◄ G.91 R/3
+fiat_g91_r3_1;◄ G.91 R
+fiat_g91_r3_2;G.91
+fiat_g91_r4_german_shop;◄ G.91 R/4
+fiat_g91_r4_german_0;◄ G.91 R/4
+fiat_g91_r4_german_1;◄ G.91 R
+fiat_g91_r4_german_2;G.91
+
 tornado_ids_de_mfg_shop;IDS-Tornado (MFG 1)
 tornado_ids_de_mfg_0;Mehrzweckkampfflugzeug IDS-Tornado (Batch 2) (Marinefliegergeschwader 1)
 tornado_ids_de_mfg_1;IDS-Tornado
@@ -74,7 +59,33 @@ tornado_ids_de_wtd61_shop;IDS-Tornado (WTD 61)
 tornado_ids_de_wtd61_0;Mehrzweckkampfflugzeug IDS-Tornado (Batch 2) (Wehrtechnische Dienststelle für Luftfahrzeuge und Luftfahrtgerät der Bundeswehr (WTD 61))
 tornado_ids_de_wtd61_1;IDS-Tornado
 tornado_ids_de_wtd61_2;Tornado
+
 ef_2000_block_10_shop;Eurofighter
 ef_2000_block_10_0;EF2000 Eurofighter (Tranche 2 Block 10) (P1A)
 ef_2000_block_10_1;Eurofighter
 ef_2000_block_10_2;Eurofighter
+
+alpha_jet_a_shop;Alpha Jet A
+alpha_jet_a_0;Alpha Jet A
+alpha_jet_a_1;Alpha Jet A
+alpha_jet_a_2;Alpha Jet
+
+sea_hawk_mk100_shop;◄ Sea Hawk Mk. 100
+sea_hawk_mk100_0;◄ Sea Hawk Mk. 100 mit Lenkflugkörpersystem AIM-9B
+sea_hawk_mk100_1;◄ Sea Hawk Mk. 100
+sea_hawk_mk100_2;Sea Hawk
+
+mig-21_sps_k_shop;◄ MiG-21 SPS-K (JG-1)
+mig-21_sps_k_0;◄ MiG-21 SPS-K (Jagdfliegergeschwader 1)
+mig-21_sps_k_1;◄ MiG-21 SPS
+mig-21_sps_k_2;MiG-21
+
+mig_29_9_12g_shop;◄ MiG-29G
+mig_29_9_12g_0;◄ MiG-29G
+mig_29_9_12g_1;◄ MiG-29G
+mig_29_9_12g_2;MiG-29
+
+su_22m4_de_wtd61_shop;◄ Su-22M4 (WTD 61)
+su_22m4_de_wtd61_0;◄ Su-22M4 (Wehrtechnische Dienststelle für Luftfahrzeuge und Luftfahrtgerät der Bundeswehr (WTD 61))
+su_22m4_de_wtd61_1;◄ Su-22M4
+su_22m4_de_wtd61_2;Su-22

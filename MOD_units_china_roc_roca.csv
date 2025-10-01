@@ -1,80 +1,102 @@
 <ID|readonly|noverify>;<NewLanguage>
+
+// GROUND //
+
 shop/group/cn_cm_ptz_group;CM25 / PTZ89
 shop/group/cn_m36_isu_group;☀ M36 / 122自行火炮
+
+cn_m10_shop;☀ M10
+cn_m10_0;☀ M10戰車
+cn_m10_1;☀ M10
+cn_m10_2;M10
+
+cn_m36_shop;☀ M36
+cn_m36_0;☀ M36戰車
+cn_m36_1;☀ M36
+cn_m36_2;M36
+
 cn_m55_shop;☀ M55
 cn_m55_0;☀ M55 203榴炮戰車
 cn_m55_1;☀ M55
 cn_m55_2;M55
-ah_1w_china_shop;☀ AH-1W
-ah_1w_china_0;☀ AH-1W眼鏡蛇攻擊直升機
-ah_1w_china_1;☀ AH-1W
-ah_1w_china_2;AH-1
-oh_58d_china_shop;☀ OH-58D
-oh_58d_china_0;☀ OH-58D戰搜直升機
-oh_58d_china_1;☀ OH-58D
-oh_58d_china_2;OH-58
+
+cn_m8_greyhound_shop;☀ M8
+cn_m8_greyhound_0;☀ M8裝甲車
+cn_m8_greyhound_1;☀ M8
+cn_m8_greyhound_2;M8
+
+cn_m4a1_76w_sherman_shop;☀ M4A1 75
+cn_m4a1_76w_sherman_0;☀ M4A1 75戰車
+cn_m4a1_76w_sherman_1;☀ M4A1 75
+cn_m4a1_76w_sherman_2;M4
+
+cn_m18_hellcat_shop;☀ M18
+cn_m18_hellcat_0;☀ M18戰車
+cn_m18_hellcat_1;☀ M18
+cn_m18_hellcat_2;M18
 
 cn_m24_chaffee_shop;☀ M24
 cn_m24_chaffee_0;☀ M24戰車
 cn_m24_chaffee_1;☀ M24
 cn_m24_chaffee_2;M24
-cn_m36_shop;☀ M36
-cn_m36_0;☀ M36戰車
-cn_m36_1;☀ M36
-cn_m36_2;M36
-cn_m10_shop;☀ M10
-cn_m10_0;☀ M10戰車
-cn_m10_1;☀ M10
-cn_m10_2;M10
-cn_m18_hellcat_shop;☀ M18
-cn_m18_hellcat_0;☀ M18戰車
-cn_m18_hellcat_1;☀ M18
-cn_m18_hellcat_2;M18
-cn_m8_greyhound_shop;☀ M8
-cn_m8_greyhound_0;☀ M8裝甲車
-cn_m8_greyhound_1;☀ M8
-cn_m8_greyhound_2;M8
-cn_m4a1_76w_sherman_shop;☀ M4A1 75
-cn_m4a1_76w_sherman_0;☀ M4A1 75戰車
-cn_m4a1_76w_sherman_1;☀ M4A1 75
-cn_m4a1_76w_sherman_2;M4
-cn_m113a1_tow_shop;☀ M113A1拖式
-cn_m113a1_tow_0;☀ M113A1拖式飛弾車
-cn_m113a1_tow_1;☀ M113A1拖式
-cn_m113a1_tow_2;M113
-cn_m60a3_tts_shop;☀ M60A3 TTS
-cn_m60a3_tts_0;☀ M60A3 TTS戰車
-cn_m60a3_tts_1;☀ M60A3 TTS
-cn_m60a3_tts_2;M60
-cn_cm_25_shop;CM25
-cn_cm_25_0;CM25拖式飛彈車
-cn_cm_25_1;CM25
-cn_cm_25_2;CM25
-cn_cm11_shop;CM11
-cn_cm11_0;CM11戰車
-cn_cm11_1;CM11
-cn_cm11_2;CM11
-cn_m_41d_shop;M41D
-cn_m_41d_0;M41D戰車
-cn_m_41d_1;M41D
-cn_m_41d_2;M41
-cn_m48a1_patton_III_shop;☀ M48A1
-cn_m48a1_patton_III_0;☀ M48A1戰車
-cn_m48a1_patton_III_1;☀ M48A1
-cn_m48a1_patton_III_2;M48
+
 cn_type_64_shop;64式
 cn_type_64_0;64式戰車
 cn_type_64_1;64式
 cn_type_64_2;64式
-cn_m42_duster_shop;☀ M42
-cn_m42_duster_0;☀ M42防空自行砲車
-cn_m42_duster_1;☀ M42
-cn_m42_duster_2;M42
-cn_antelope_tc_1l_ads_shop;劍一防空飛彈
-cn_antelope_tc_1l_ads_0;車載劍一防空飛彈
-cn_antelope_tc_1l_ads_1;劍一防空飛彈
-cn_antelope_tc_1l_ads_2;劍一防空飛彈
+
 cn_m41_a3_walker_bulldog_shop;☀ M41A3
 cn_m41_a3_walker_bulldog_0;☀ M41A3戰車
 cn_m41_a3_walker_bulldog_1;☀ M41A3
 cn_m41_a3_walker_bulldog_2;M41
+cn_m_41d_shop;M41D
+cn_m_41d_0;M41D戰車
+cn_m_41d_1;M41D
+cn_m_41d_2;M41
+
+cn_m48a1_patton_III_shop;☀ M48A1
+cn_m48a1_patton_III_0;☀ M48A1戰車
+cn_m48a1_patton_III_1;☀ M48A1
+cn_m48a1_patton_III_2;M48
+
+cn_m60a3_tts_shop;☀ M60A3 TTS
+cn_m60a3_tts_0;☀ M60A3 TTS戰車
+cn_m60a3_tts_1;☀ M60A3 TTS
+cn_m60a3_tts_2;M60
+
+cn_cm11_shop;CM11
+cn_cm11_0;CM11戰車
+cn_cm11_1;CM11
+cn_cm11_2;CM11
+
+cn_m113a1_tow_shop;☀ M113A1拖式
+cn_m113a1_tow_0;☀ M113A1拖式飛弾車
+cn_m113a1_tow_1;☀ M113A1拖式
+cn_m113a1_tow_2;M113
+
+cn_cm_25_shop;CM25
+cn_cm_25_0;CM25拖式飛彈車
+cn_cm_25_1;CM25
+cn_cm_25_2;CM25
+
+cn_m42_duster_shop;☀ M42
+cn_m42_duster_0;☀ M42防空自行砲車
+cn_m42_duster_1;☀ M42
+cn_m42_duster_2;M42
+
+cn_antelope_tc_1l_ads_shop;劍一防空飛彈
+cn_antelope_tc_1l_ads_0;車載劍一防空飛彈
+cn_antelope_tc_1l_ads_1;劍一防空飛彈
+cn_antelope_tc_1l_ads_2;劍一防空飛彈
+
+// HELI //
+
+ah_1w_china_shop;☀ AH-1W
+ah_1w_china_0;☀ AH-1W眼鏡蛇攻擊直升機
+ah_1w_china_1;☀ AH-1W
+ah_1w_china_2;AH-1
+
+oh_58d_china_shop;☀ OH-58D
+oh_58d_china_0;☀ OH-58D戰搜直升機
+oh_58d_china_1;☀ OH-58D
+oh_58d_china_2;OH-58

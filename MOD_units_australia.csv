@@ -1,7 +1,7 @@
 <ID|readonly|noverify>;<NewLanguage>
 
 // Army //
-
+// WWII // 
 uk_matilda_hedgehog_shop;Matilda Hedgehog
 uk_matilda_hedgehog_0;Matilda Projector, Hedgehog, No. 1 Mk. I
 uk_matilda_hedgehog_1;Matilda Hedgehog
@@ -14,6 +14,8 @@ uk_ac4_thunderbolt_shop;Australian Cruiser Mk. IV
 uk_ac4_thunderbolt_0;Tank, Cruiser, Australian, Mk. IV
 uk_ac4_thunderbolt_1;Australian Cruiser Mk. IV
 uk_ac4_thunderbolt_2;Australian Cruiser
+
+// CW/Modern //
 uk_centurion_mk_5_raac_shop;Centurion Mk. 5/1
 uk_centurion_mk_5_raac_0;FV4017 Tank, Combat, 20-lb Gun, Centurion Mk. 5/1
 uk_centurion_mk_5_raac_1;Centurion Mk. 5
@@ -24,7 +26,7 @@ us_m1a1_aim_abrams_1;M1A1 AIM SA
 us_m1a1_aim_abrams_2;M1
 
 // RAAF //
-
+// WWII //
 beaufighter_mk21_shop;Beaufighter Mk. 21
 beaufighter_mk21_0;Beaufighter Mk. 21
 beaufighter_mk21_1;Beaufighter Mk. 21
@@ -46,10 +48,7 @@ wirraway_0;Wirraway Mk. I
 wirraway_1;Wirraway Mk. I
 wirraway_2;Wirraway
 
-strikemaster_mk88_shop;Strikemaster Mk. 88 (No. 14 Sq.)
-strikemaster_mk88_0;Strikemaster Mk. 88 (No. 14 Squadron R.N.Z.A.F.)
-strikemaster_mk88_1;Strikemaster Mk. 88
-strikemaster_mk88_2;Strikemaster
+// CW/Modern //
 f_111c_raaf_shop;▄ F-111C
 f_111c_raaf_0;▄ F-111C (Block Upgrade Programme C2/C3)
 f_111c_raaf_1;▄ F-111C
@@ -64,7 +63,7 @@ fa_18a_hug_2_raaf_1;▄ F/A-18A
 fa_18a_hug_2_raaf_2;F/A-18
 
 // RAN //
-
+// WWII //
 uk_destroyer_battle_tobruk_shop;Tobruk (D 37)
 uk_destroyer_battle_tobruk_0;Australian Battle-Class Destroyer, HMAS Tobruk (D 37) (1944)
 uk_destroyer_battle_tobruk_1;Tobruk
