@@ -1,27 +1,114 @@
 <ID|readonly|noverify>;<NewLanguage>
+shop/group/f4f_group;F4F-3 / F4F-4 / F6F-5
+shop/group/f6f_group;F6F-5 / F6F-5N
+shop/group/f4u_group;F4U-1A / F4U-1A (USMC) / F4U-1D
+shop/group/pbj_group;PBJ-1J / PBJ-1H
+shop/group/f8f1_group;F8F-1B / F7F-1
+shop/group/f2a_group;F2A-1 / F2A-3
+shop/group/os2u_group;OS2U-1 / OS2U-3
+shop/group/pby_group;PBY-5 / PBY-5A
+shop/group/tbf_group;TBF-1C / SBD-3
+shop/group/tbd_group;TBD-1 / B-18A
+shop/group/f4u_late_group;F4U-1C / F4U-4B
+shop/group/f4u-1a_group;F4U-1A / F4U-1A (USMC)
+shop/group/douglas_ad_group;AD-2 / AD-4 / AM-1
+shop/group/sb2c_group;SB2C-1C / SB2C-4
+shop/group/f9f_group;F9F-2 / F-9E / F-9J
+shop/group/sb2u_group;SB2U
+
+// Consolidated //
+pby-5_shop;PBY-5
+pby-5_0;PBY-5 Catalina
+pby-5_1;PBY-5
+pby-5_2;PBY
+pby-5a_shop;PBY-5A
+pby-5a_0;PBY-5A Catalina
+pby-5a_1;PBY-5
+pby-5a_2;PBY
 
 pb4y-2_shop;P4Y-2
 pb4y-2_0;P4Y-2 Privateer
 pb4y-2_1;P4Y-2
 pb4y-2_2;P4Y
+
+// Grumman //
+f3f-2_shop;F3F-2
+f3f-2_0;F3F-2
+f3f-2_1;F3F-2
+f3f-2_2;F3F
+f3f-2_galer_shop;F3F-2 (VMF-2)
+f3f-2_galer_0;F3F-2 (Robert Galer, Marine Fighter Squadron 2 (VMF-2))
+f3f-2_galer_1;F3F-2
+f3f-2_galer_2;F3F
+
+f4f-3_shop;F4F-3
+f4f-3_0;F4F-3 Wildcat
+f4f-3_1;F4F-3
+f4f-3_2;F4F
 f4f-4_shop;F4F-4
 f4f-4_0;F4F-4 Wildcat
 f4f-4_1;F4F-4
 f4f-4_2;F4F
-shop/group/f4f_group;F4F-3 / F4F-4 / F6F-5
-shop/group/f6f_group;F6F-5 / F6F-5N
-f2g-1_shop;F2G-1
-f2g-1_0;F2G-1 Super Corsair
-f2g-1_1;F2G-1
-f2g-1_2;F2G
+
+xf5f_shop;XF5F-1
+xf5f_0;XF5F-1 Skyrocket
+xf5f_1;XF5F-1
+xf5f_2;XF5F
+
+f6f-3_shop;F6F-5
+f6f-3_0;F6F-5 Hellcat
+f6f-3_1;F6F-5
+f6f-3_2;F6F
+f6f-5n_shop;F6F-5N
+f6f-5n_0;F6F-5N Hellcat
+f6f-5n_1;F6F-5
+f6f-5n_2;F6F
+
+f7f1_shop;F7F-1
+f7f1_0;F7F-1
+f7f1_1;F7F-1
+f7f1_2;F7F
+f7f3_shop;F7F-3
+f7f3_0;F7F-3 Tigercat
+f7f3_1;F7F-3
+f7f3_2;F7F
+
+f8f1_shop;F8F-1
+f8f1_0;F8F-1 Bearcat
+f8f1_1;F8F-1
+f8f1_2;F8F
+f8f1b_shop;F8F-1B
+f8f1b_0;F8F-1B Bearcat
+f8f1b_1;F8F-1
+f8f1b_2;F8F
+
+f9f-2_shop;F9F-2
+f9f-2_0;F9F-2 Panther
+f9f-2_1;F9F-2
+f9f-2_2;F9F
+
+tbf-1c_shop;TBF-1C
+tbf-1c_0;TBF-1C Avenger
+tbf-1c_1;TBF-1
+tbf-1c_2;TBF
+
+// Vought //
 f4u-1a_shop;F4U-1A
 f4u-1a_0;F4U-1A Corsair
 f4u-1a_1;F4U-1
 f4u-1a_2;F4U
+f4u-1a_usmc_shop;F4U-1A (USMC)
+f4u-1a_usmc_0;F4U-1A Corsair (United States Marine Corps modification)
+f4u-1a_usmc_1;F4U-1
+f4u-1a_usmc_2;F4U
 f4u-1c_shop;F4U-1C
 f4u-1c_0;F4U-1C Corsair
 f4u-1c_1;F4U-1
 f4u-1c_2;F4U
+f4u-1d_shop;F4U-1D
+f4u-1d_0;F4U-1D Corsair
+f4u-1d_1;F4U-1
+f4u-1d_2;F4U
 f4u-4_shop;F4U-4
 f4u-4_0;F4U-4 Corsair
 f4u-4_1;F4U-4
@@ -34,67 +121,100 @@ f4u-4b_vmf_214_shop;F4U-4B (VMF-214)
 f4u-4b_vmf_214_0;F4U-4B Corsair (Marine Fighter Squadron 214 (VMF-214) "Black Sheep")
 f4u-4b_vmf_214_1;F4U-4
 f4u-4b_vmf_214_2;F4U
-f4u-1d_shop;F4U-1D
-f4u-1d_0;F4U-1D Corsair
-f4u-1d_1;F4U-1
-f4u-1d_2;F4U
+
+f2g-1_shop;F2G-1
+f2g-1_0;F2G-1 Super Corsair
+f2g-1_1;F2G-1
+f2g-1_2;F2G
+
 f4u-6_au-1_shop;AU-1 (AES-12)
 f4u-6_au-1_0;AU-1 Corsair (Aircraft Engineering Squadron 12 (AES-12))
 f4u-6_au-1_1;AU-1
 f4u-6_au-1_2;AU
-f4d_1_shop;F4D-1 (VF-74)
-f4d_1_0;F4D-1 Skyray (Fighter Squadron 74 (VF-74) "Be-Devilers")
-f4d_1_1;F4D-1
-f4d_1_2;F4D
-shop/group/f4u_group;F4U-1A / F4U-1A (USMC) / F4U-1D
-f6f-3_shop;F6F-5
-f6f-3_0;F6F-5 Hellcat
-f6f-3_1;F6F-5
-f6f-3_2;F6F
-sbd-3_shop;SBD-3
-sbd-3_0;SBD-3 Dauntless
-sbd-3_1;SBD-3
-sbd-3_2;SBD
-tbf-1c_shop;TBF-1C
-tbf-1c_0;TBF-1C Avenger
-tbf-1c_1;TBF-1
-tbf-1c_2;TBF
-f4f-3_shop;F4F-3
-f4f-3_0;F4F-3 Wildcat
-f4f-3_1;F4F-3
-f4f-3_2;F4F
+
 os2u_1_shop;OS2U-1
 os2u_1_0;OS2U-1 Kingfisher
 os2u_1_1;OS2U-1
 os2u_1_2;OS2U
-os2u_3_shop;OS2U-3
-os2u_3_0;OS2U-3 Kingfisher
-os2u_3_1;OS2U-3
-os2u_3_2;OS2U
 os2u_1_naval_shop;OS2U-1
 os2u_1_naval_0;OS2U-1 Kingfisher
 os2u_1_naval_1;OS2U-1
 os2u_1_naval_2;OS2U
-f2a-3_shop;F2A-3
-f2a-3_0;F2A-3 Buffalo
-f2a-3_1;F2A-3
-f2a-3_2;F2A
-f2a-1_shop;F2A-1
-f2a-1_0;F2A-1 Buffalo
-f2a-1_1;F2A-1
-f2a-1_2;F2A
+os2u_3_shop;OS2U-3
+os2u_3_0;OS2U-3 Kingfisher
+os2u_3_1;OS2U-3
+os2u_3_2;OS2U
+
 o3u_1_shop;O3U-1
 o3u_1_0;O3U-1 Corsair
 o3u_1_1;O3U-1
 o3u_1_2;O3U
-pby-5_shop;PBY-5
-pby-5_0;PBY-5 Catalina
-pby-5_1;PBY-5
-pby-5_2;PBY
-pby-5a_shop;PBY-5A
-pby-5a_0;PBY-5A Catalina
-pby-5a_1;PBY-5
-pby-5a_2;PBY
+
+sb2u-3_shop;SB2U-3
+sb2u-3_0;SB2U-3 Vindicator
+sb2u-3_1;SB2U-3
+sb2u-3_2;SB2U
+sb2u-2_shop;SB2U-2
+sb2u-2_0;SB2U-2 Vindicator
+sb2u-2_1;SB2U-2
+sb2u-2_2;SB2U
+
+// Douglas //
+f4d_1_shop;F4D-1 (VF-74)
+f4d_1_0;F4D-1 Skyray (Fighter Squadron 74 (VF-74) "Be-Devilers")
+f4d_1_1;F4D-1
+f4d_1_2;F4D
+
+sbd-3_shop;SBD-3
+sbd-3_0;SBD-3 Dauntless
+sbd-3_1;SBD-3
+sbd-3_2;SBD
+
+tbd-1_1938_shop;TBD-1
+tbd-1_1938_0;TBD-1 Devastator
+tbd-1_1938_1;TBD-1
+tbd-1_1938_2;TBD
+
+btd-1_shop;BTD-1
+btd-1_0;BTD-1 Destroyer
+btd-1_1;BTD-1
+btd-1_2;BTD
+
+douglas_ad_2_shop;AD-2
+douglas_ad_2_0;AD-2 Skyraider
+douglas_ad_2_1;AD-2
+douglas_ad_2_2;AD
+douglas_ad_4_shop;AD-4NA
+douglas_ad_4_0;AD-4NA Skyraider
+douglas_ad_4_1;AD-4NA
+douglas_ad_4_2;AD
+
+a2d_shop;A2D-1
+a2d_0;A2D-1 Skyshark
+a2d_1;A2D-1
+a2d_2;A2D
+
+// McDonnell Douglas //
+f2h-2_shop;F2H-2
+f2h-2_0;F2H-2 Banshee
+f2h-2_1;F2H-2
+f2h-2_2;F2H
+
+// Brewster // 
+f2a-1_shop;F2A-1
+f2a-1_0;F2A-1 Buffalo
+f2a-1_1;F2A-1
+f2a-1_2;F2A
+f2a-1_thach_shop;F2A-1 (VF-3)
+f2a-1_thach_0;F2A-1 Buffalo (John Thach, Fighter Squadron 3 (VF-3))
+f2a-1_thach_1;F2A-1
+f2a-1_thach_2;F2A
+f2a-3_shop;F2A-3
+f2a-3_0;F2A-3 Buffalo
+f2a-3_1;F2A-3
+f2a-3_2;F2A
+
+// Martin //
 pbm_1_shop;PBM-1
 pbm_1_0;PBM-1 Mariner
 pbm_1_1;PBM-1
@@ -107,92 +227,23 @@ pbm_5a_shop;PBM-5A
 pbm_5a_0;PBM-5A Mariner
 pbm_5a_1;PBM-5
 pbm_5a_2;PBM
-soc_1_shop;SOC-1
-soc_1_0;SOC-1 Seagull
-soc_1_1;SOC-1
-soc_1_2;SOC
-sc_1_shop;SC-1
-sc_1_0;SC-1 Seahawk
-sc_1_1;SC-1
-sc_1_2;SC-1
-f9f-2_shop;F9F-2
-f9f-2_0;F9F-2 Panther
-f9f-2_1;F9F-2
-f9f-2_2;F9F
-shop/group/pbj_group;PBJ-1J / PBJ-1H
-pbj_1j_1_shop;PBJ-1J
-pbj_1j_1_0;PBJ-1J Mitchell
-pbj_1j_1_1;PBJ-1
-pbj_1j_1_2;PBJ
-fj_4b_agm_12b_shop;FJ-4B (VMF-232)
-fj_4b_agm_12b_0;FJ-4B Fury (Marine Fighter Squadron 232 (VMF-232) "Red Devils")
-fj_4b_agm_12b_1;FJ-4B
-fj_4b_agm_12b_2;FJ-4
-f2a-1_thach_shop;F2A-1 (VF-3)
-f2a-1_thach_0;F2A-1 Buffalo (John Thach, Fighter Squadron 3 (VF-3))
-f2a-1_thach_1;F2A-1
-f2a-1_thach_2;F2A
-btd-1_shop;BTD-1
-btd-1_0;BTD-1 Destroyer
-btd-1_1;BTD-1
-btd-1_2;BTD
-xf5f_shop;XF5F-1
-xf5f_0;XF5F-1 Skyrocket
-xf5f_1;XF5F-1
-xf5f_2;XF5F
-f8f1_shop;F8F-1
-f8f1_0;F8F-1 Bearcat
-f8f1_1;F8F-1
-f8f1_2;F8F
-f8f1b_shop;F8F-1B
-f8f1b_0;F8F-1B Bearcat
-f8f1b_1;F8F-1
-f8f1b_2;F8F
-shop/group/f8f1_group;F8F-1B / F7F-1
-shop/group/f2a_group;F2A-1 / F2A-3
-shop/group/os2u_group;OS2U-1 / OS2U-3
-shop/group/pby_group;PBY-5 / PBY-5A
-shop/group/tbf_group;TBF-1C / SBD-3
-shop/group/tbd_group;TBD-1 / B-18A
-shop/group/f4u_late_group;F4U-1C / F4U-4B
-f4u-1a_usmc_shop;F4U-1A (USMC)
-f4u-1a_usmc_0;F4U-1A Corsair (United States Marine Corps modification)
-f4u-1a_usmc_1;F4U-1
-f4u-1a_usmc_2;F4U
-shop/group/f4u-1a_group;F4U-1A / F4U-1A (USMC)
-pbj_1h_shop;PBJ-1H
-pbj_1h_0;PBJ-1H Mitchell
-pbj_1h_1;PBJ-1
-pbj_1h_2;PBJ
-pbj_1j_shop;PBJ-1J
-pbj_1j_0;PBJ-1J Mitchell
-pbj_1j_1;PBJ-1
-pbj_1j_2;PBJ
-f7f1_shop;F7F-1
-f7f1_0;F7F-1
-f7f1_1;F7F-1
-f7f1_2;F7F
-f2h-2_shop;F2H-2
-f2h-2_0;F2H-2 Banshee
-f2h-2_1;F2H-2
-f2h-2_2;F2H
-douglas_ad_2_shop;AD-2
-douglas_ad_2_0;AD-2 Skyraider
-douglas_ad_2_1;AD-2
-douglas_ad_2_2;AD
-douglas_ad_4_shop;AD-4NA
-douglas_ad_4_0;AD-4NA Skyraider
-douglas_ad_4_1;AD-4NA
-douglas_ad_4_2;AD
-shop/group/douglas_ad_group;AD-2 / AD-4 / AM-1
-a2d_shop;A2D-1
-a2d_0;A2D-1 Skyshark
-a2d_1;A2D-1
-a2d_2;A2D
+
 am_1_mauler_shop;AM-1
 am_1_mauler_0;AM-1 Mauler
 am_1_mauler_1;AM-1
 am_1_mauler_2;AM
+
+// Curtiss //
+soc_1_shop;SOC-1
+soc_1_0;SOC-1 Seagull
+soc_1_1;SOC-1
+soc_1_2;SOC
+
+sc_1_shop;SC-1
+sc_1_0;SC-1 Seahawk
+sc_1_1;SC-1
+sc_1_2;SC-1
+
 sb2c_1c_shop;SB2C-1C
 sb2c_1c_0;SB2C-1C Helldiver
 sb2c_1c_1;SB2C-1
@@ -201,42 +252,33 @@ sb2c_4_shop;SB2C-4
 sb2c_4_0;SB2C-4 Helldiver
 sb2c_4_1;SB2C-4
 sb2c_4_2;SB2C
-shop/group/sb2c_group;SB2C-1C / SB2C-4
-tbd-1_1938_shop;TBD-1
-tbd-1_1938_0;TBD-1 Devastator
-tbd-1_1938_1;TBD-1
-tbd-1_1938_2;TBD
+
 bf2c_1_shop;BF2C-1
 bf2c_1_0;BF2C-1
 bf2c_1_1;BF2C-1
 bf2c_1_2;BF2C
-f3f-2_shop;F3F-2
-f3f-2_0;F3F-2
-f3f-2_1;F3F-2
-f3f-2_2;F3F
-f3f-2_galer_shop;F3F-2 (VMF-2)
-f3f-2_galer_0;F3F-2 (Robert Galer, Marine Fighter Squadron 2 (VMF-2))
-f3f-2_galer_1;F3F-2
-f3f-2_galer_2;F3F
-f7f3_shop;F7F-3
-f7f3_0;F7F-3 Tigercat
-f7f3_1;F7F-3
-f7f3_2;F7F
-shop/group/f9f_group;F9F-2 / F9F-5 / F-9J
+
+// North American //
+pbj_1h_shop;PBJ-1H
+pbj_1h_0;PBJ-1H Mitchell
+pbj_1h_1;PBJ-1
+pbj_1h_2;PBJ
+pbj_1j_shop;PBJ-1J
+pbj_1j_0;PBJ-1J Mitchell
+pbj_1j_1;PBJ-1
+pbj_1j_2;PBJ
+pbj_1j_1_shop;PBJ-1J
+pbj_1j_1_0;PBJ-1J Mitchell
+pbj_1j_1_1;PBJ-1
+pbj_1j_1_2;PBJ
+
+fj_4b_agm_12b_shop;FJ-4B (VMF-232)
+fj_4b_agm_12b_0;FJ-4B Fury (Marine Fighter Squadron 232 (VMF-232) "Red Devils")
+fj_4b_agm_12b_1;FJ-4B
+fj_4b_agm_12b_2;FJ-4
+
+// Lockheed //
 pv_2d_shop;PV-2D
 pv_2d_0;PV-2D Harpoon
 pv_2d_1;PV-2
 pv_2d_2;PV
-f6f-5n_shop;F6F-5N
-f6f-5n_0;F6F-5N Hellcat
-f6f-5n_1;F6F-5
-f6f-5n_2;F6F
-shop/group/sb2u_group;SB2U
-sb2u-3_shop;SB2U-3
-sb2u-3_0;SB2U-3 Vindicator
-sb2u-3_1;SB2U-3
-sb2u-3_2;SB2U
-sb2u-2_shop;SB2U-2
-sb2u-2_0;SB2U-2 Vindicator
-sb2u-2_1;SB2U-2
-sb2u-2_2;SB2U

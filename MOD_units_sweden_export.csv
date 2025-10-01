@@ -1,5 +1,5 @@
 <ID|readonly|noverify>;<NewLanguage>
-
+shop/group/sw_cv_90105_ikv_91_group;CV90105 TML 105 /Ikv 91-105
 sw_landsverk_ush_204_gk_shop;Unimog SH (204GK)
 sw_landsverk_ush_204_gk_0;Unimog SH Typ 405.110 (Oerlikon 204GK)
 sw_landsverk_ush_204_gk_1;Unimog SH (204GK)
@@ -24,9 +24,9 @@ sw_cv_90_mk4_shop;CV90 MkIV (E30)
 sw_cv_90_mk4_0;Combat Vehicle 90 MkIV (E30)
 sw_cv_90_mk4_1;CV90 MkIV
 sw_cv_90_mk4_2;CV90
-sw_cv_90120_shop;CV90120
-sw_cv_90120_0;Combat Vehicle 90120
-sw_cv_90120_1;CV90120
+sw_cv_90120_shop;CV90120-T
+sw_cv_90120_0;Combat Vehicle 90120-T
+sw_cv_90120_1;CV90120-T
 sw_cv_90120_2;CV90
 sw_strv_122b_plus_shop;Strv 122B+
 sw_strv_122b_plus_0;Stridsvagn 122B+ Evolution
@@ -36,4 +36,3 @@ sw_landsverk_ush_405_shop;Unimog SH (Typ 3Z 8DLa)
 sw_landsverk_ush_405_0;Unimog SH Typ 405.110 (Oerlikon Typ 3Z 8DLa)
 sw_landsverk_ush_405_1;Unimog SH (Typ 3Z 8DLa)
 sw_landsverk_ush_405_2;Unimog SH
-shop/group/sw_cv_90105_ikv_91_group;CV90105 TML 105 /Ikv 91-105

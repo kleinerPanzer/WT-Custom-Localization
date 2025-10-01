@@ -1,6 +1,6 @@
 <ID|readonly|noverify>;<NewLanguage>
-
 shop/group/f-86_japan_group;▅ F-86F-30 / ▅ F-86F-40
+
 f-86f-30_japan_shop;▅ F-86F-30
 f-86f-30_japan_0;▅ F-86F-30 NA
 f-86f-30_japan_1;▅ F-86F
@@ -13,6 +13,7 @@ f-86f-40_japan_blue_impulse_shop;▅ F-86F-40 (第6飛行隊)
 f-86f-40_japan_blue_impulse_0;▅ F-86F-40 NA (第6飛行隊)
 f-86f-40_japan_blue_impulse_1;▅ F-86F
 f-86f-40_japan_blue_impulse_2;F-86
+
 t2_early_shop;XT-2改 (ADTW)
 t2_early_0;XT-2改 (飛行開発実験団)
 t2_early_1;XT-2
@@ -21,14 +22,17 @@ t2_shop;T-2後期型
 t2_0;T-2後期型
 t2_1;T-2
 t2_2;T-2
+
 f1_shop;F-1
 f1_0;F-1
 f1_1;F-1
 f1_2;F-1
+
 f-104j_shop;▅ F-104J
 f-104j_0;▅ F-104J
 f-104j_1;▅ F-104J
 f-104j_2;F-104
+
 f-4ej_shop;▅ F-4EJ
 f-4ej_0;▅ F-4EJ ファントムII
 f-4ej_1;▅ F-4EJ
@@ -41,6 +45,7 @@ f-4ej_kai_shop;▅ F-4EJ(改)
 f-4ej_kai_0;▅ F-4EJ(改) ファントムII
 f-4ej_kai_1;▅ F-4EJ(改)
 f-4ej_kai_2;F-4
+
 f_15j_shop;▅ F-15J
 f_15j_0;▅ F-15J 「イーグル」 (1984)
 f_15j_1;▅ F-15J
@@ -49,10 +54,12 @@ f_15j_kai_shop;▅ F-15J(改)
 f_15j_kai_0;▅ F-15J 「イーグル」 (2003)
 f_15j_kai_1;▅ F-15J(改)
 f_15j_kai_2;F-15
+
 f_16aj_shop;▅ F-16AJ
 f_16aj_0;▅ F-16AJ
 f_16aj_1;▅ F-16AJ
 f_16aj_2;F-16
+
 f_2a_shop;F-2A
 f_2a_0;F-2A
 f_2a_1;F-2A

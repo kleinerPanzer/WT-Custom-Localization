@@ -1,8 +1,4 @@
 <ID|readonly|noverify>;<NewLanguage>
-jp_karotei_type2_shop;カロ二型
-jp_karotei_type2_0;四式二型駆潜艇 (1944)
-jp_karotei_type2_1;カロ二型
-jp_karotei_type2_2;四式
 jp_abtei_pr1_shop;1号
 jp_abtei_pr1_0;1号型装甲艇、装甲艇1号 「さ き が け」 (1927)
 jp_abtei_pr1_1;1号
@@ -11,14 +7,21 @@ jp_abtei_pr4_shop;36号
 jp_abtei_pr4_0;4号型装甲艇、装甲艇36号 (1940)
 jp_abtei_pr4_1;36号
 jp_abtei_pr4_2;4号型
+
 jp_sehatei_mod1_shop;せは
 jp_sehatei_mod1_0;波號戦闘艇一型 (1944)
 jp_sehatei_mod1_1;せは
 jp_sehatei_mod1_2;波號一型
+
 jp_type5_escortboat_shop;けい艇乙二型
 jp_type5_escortboat_0;五式木製大護衛艇甲
 jp_type5_escortboat_1;けい艇乙二型
 jp_type5_escortboat_2;五式
+
+jp_karotei_type2_shop;カロ二型
+jp_karotei_type2_0;四式二型駆潜艇 (1944)
+jp_karotei_type2_1;カロ二型
+jp_karotei_type2_2;四式
 jp_karotei_type4_shop;カロ四型
 jp_karotei_type4_0;四式四型駆潜艇 (1944)
 jp_karotei_type4_1;カロ四型
