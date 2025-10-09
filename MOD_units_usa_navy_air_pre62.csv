@@ -65,7 +65,7 @@ f6f-5n_1;F6F-5
 f6f-5n_2;F6F
 
 f7f1_shop;F7F-1
-f7f1_0;F7F-1
+f7f1_0;F7F-1 Tigercat
 f7f1_1;F7F-1
 f7f1_2;F7F
 f7f3_shop;F7F-3
@@ -86,6 +86,11 @@ f9f-2_shop;F9F-2
 f9f-2_0;F9F-2 Panther
 f9f-2_1;F9F-2
 f9f-2_2;F9F
+
+f11f_1_late_shop;F11F-1 (VF-33)
+f11f_1_late_0;F11F-1 Tiger (Fighter Squadron 33 (VF-33) "Astronauts")
+f11f_1_late_1;F11F-1
+f11f_1_late_2;F11F
 
 tbf-1c_shop;TBF-1C
 tbf-1c_0;TBF-1C Avenger
@@ -254,7 +259,7 @@ sb2c_4_1;SB2C-4
 sb2c_4_2;SB2C
 
 bf2c_1_shop;BF2C-1
-bf2c_1_0;BF2C-1
+bf2c_1_0;BF2C-1 Goshawk
 bf2c_1_1;BF2C-1
 bf2c_1_2;BF2C
 

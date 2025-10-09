@@ -1,5 +1,4 @@
 <ID|readonly|noverify>;<NewLanguage>
-
 us_stingray_shop;Stingray
 us_stingray_0;Commando Stingray
 us_stingray_1;Stingray
@@ -8,3 +7,7 @@ us_rdf_lt_shop;RDF/LT
 us_rdf_lt_0;13.2 Tonne Rapid Deployment Force Light Tank (RDF/LT)
 us_rdf_lt_1;RDF/LT
 us_rdf_lt_2;RDF/LT
+us_m60_120s_shop;120S
+us_m60_120s_0;120S
+us_m60_120s_1;120S
+us_m60_120s_2;120S

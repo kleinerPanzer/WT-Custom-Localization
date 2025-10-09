@@ -22,7 +22,7 @@ it_43m_turan_3_1;Turán III
 it_43m_turan_3_2;Turán
 
 it_toldi_II_a_shop;Toldi IIa
-it_toldi_II_a_0;k.hk. B40 42M Toldi IIa
+it_toldi_II_a_0;42M Toldi IIa
 it_toldi_II_a_1;Toldi IIa
 it_toldi_II_a_2;Toldi II
 
@@ -30,3 +30,8 @@ it_39m_csaba_shop;Csaba
 it_39m_csaba_0;39M Csaba
 it_39m_csaba_1;Csaba
 it_39m_csaba_2;Csaba
+
+it_pzkpfw_VI_ausf_e_tiger_shop;◐ Tiger I
+it_pzkpfw_VI_ausf_e_tiger_0;◐ Panzerkampfwagen Tiger (8,8 cm) Ausf. E (April 1944 Produktion)
+it_pzkpfw_VI_ausf_e_tiger_1;◐ Tiger I
+it_pzkpfw_VI_ausf_e_tiger_2;Tiger I

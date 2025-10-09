@@ -7,7 +7,7 @@ shop/group/germ_kpz_super_group;KPz 70 / Super M 48
 shop/group/germ_leopard_2_group;KPz Leopard 2 A5 / KPz Leopard 2 A6
 shop/group/germ_wiesel_gepard_group;FlaRakWaTrg Ozelot / FlakPz Gepard 1 A2 (LFK Stinger)
 shop/group/germ_roland_osa_group;FlaRakPz Roland / ◊ 9A33BM2
-shop/group/germ_iris_slm_fcs_group;IRIS-T SLM
+shop/group/germ_iris_slm_fcs_group;LV-Sys IRIS-T SLM
 shop/group/germ_leopard_1_late_group;KPz Leopard 1 A1 A1 / KPz Leopard 1 A5
 
 germ_le_kpz_m41_shop;KPz M 41
@@ -34,9 +34,9 @@ germ_m44_0;Haubitze, Panzer-, 155 mm, Vollkette, PzH M 44
 germ_m44_1;PzH M 44
 germ_m44_2;PzH M 44
 
-germ_m55_shop;◄ PzH M55
-germ_m55_0;◄ Haubitze, Panzer-, 203 mm, Vollkette, PzH M 55
-germ_m55_1;◄ PzH M55
+germ_m55_shop;PzH M55
+germ_m55_0;Haubitze, Panzer-, 203 mm, Vollkette, PzH M 55
+germ_m55_1;PzH M55
 germ_m55_2;M55
 
 germ_m109g_shop;PzH M 109 G
@@ -194,12 +194,12 @@ germ_flarakpz_1_1;FlaRakPz Roland
 germ_flarakpz_1_2;FlaRakPz Roland
 
 uh_1d_shop;◄ UH-1D
-uh_1d_0;◄ UH-1D
+uh_1d_0;◄ Mehrzweckhubschrauber UH-1D
 uh_1d_1;◄ UH-1D
 uh_1d_2;UH-1D
 
 sa_313b_shop;◄ Alouette IIB
-sa_313b_0;◄ SE 313 Alouette IIB
+sa_313b_0;◄ Hubschrauber SE 313 Alouette IIB
 sa_313b_1;◄ Alouette IIB
 sa_313b_2;Alouette II
 
@@ -217,7 +217,7 @@ bo_105pah1_a1_1;PAH 1 A1
 bo_105pah1_a1_2;PAH 1
 
 mi_24p_german_hfs80_shop;◄ Mi-24P (HFS 80)
-mi_24p_german_hfs80_0;◄ Mi-24P (Heeresfliegerstaffel 80)
+mi_24p_german_hfs80_0;◄ Hubschrauber Mi-24P (Heeresfliegerstaffel 80)
 mi_24p_german_hfs80_1;◄ Mi-24P
 mi_24p_german_hfs80_2;Mi-24
 

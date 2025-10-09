@@ -1,116 +1,121 @@
 <ID|readonly|noverify>;<NewLanguage>
-shop/group/sw_t_34_pz_4_group;☩ T-34 / ☩ PzKw IVJ
-shop/group/sw_pt_76_comet_group;☩ PT-76B / ☩ Comet Mk. IA
-shop/group/sw_cv_90_ifv_group;☩ CV9030 FIN / Strv 9040B
+shop/group/sw_t_34_pz_4_group;psv. T 34 B / psv. PzKw IVJ
+shop/group/sw_pt_76_comet_group;ryn.psv. PT 76 / psv. Comet
+shop/group/sw_cv_90_ifv_group;ryn.psv. CV9030FIN / Strv 9040B
 
-sw_kv_1_1942_fin_shop;☩ KV-1A
-sw_kv_1_1942_fin_0;☩ Panssarivaunu KV-1A
-sw_kv_1_1942_fin_1;☩ KV-1A
-sw_kv_1_1942_fin_2;KV-1
-germ_kv_1B_finland_shop;▀ KV-IB
-germ_kv_1B_finland_0;▀ Panssarivaunu KV-IB
-germ_kv_1B_finland_1;▀ KV-IB
-germ_kv_1B_finland_2;KV-I
+sw_kv_1_1942_fin_shop;44 psv. KV 1 A
+sw_kv_1_1942_fin_0;44-tonnin panssarivaunu KV 1 A
+sw_kv_1_1942_fin_1;44 psv. KV 1 A
+sw_kv_1_1942_fin_2;KV 1
+germ_kv_1B_finland_shop;44 psv. KV 1 B 
+germ_kv_1B_finland_0;44-tonnin panssarivaunu KV 1 B
+germ_kv_1B_finland_1;44 psv. KV 1 B
+germ_kv_1B_finland_2;KV 1
 
-sw_bt_42_shop;BT-42
-sw_bt_42_0;Panssarivaunu BT-42
-sw_bt_42_1;BT-42
-sw_bt_42_2;BT-42
+sw_bt_42_shop;15 ryn.tyk.psv. BT 42
+sw_bt_42_0;15-tonnin rynnäkkötykkipanssarivaunu BT 42
+sw_bt_42_1;15 ryn.tyk.psv. BT 42
+sw_bt_42_2;BT 42
 
-sw_vickers_mk_e_45_shop;☩ T-26E
-sw_vickers_mk_e_45_0;Panssarivaunu T-26E
-sw_vickers_mk_e_45_1;☩ T-26E
-sw_vickers_mk_e_45_2;T-26
-sw_vickers_mk_e_37_shop;☩ Vickers Mk. E (PsvK/36)
-sw_vickers_mk_e_37_0;☩ Panssarivaunu Vickers Mk. E Type B (Panssarivaunukanuuna 36)
-sw_vickers_mk_e_37_1;☩ Vickers Mk. E (PsvK/36)
-sw_vickers_mk_e_37_2;☩ Vickers Mk. E
+sw_vickers_mk_e_45_shop;9 psv. T 26 E
+sw_vickers_mk_e_45_0;9-tonnin panssarivaunu T 26 Englantilainen
+sw_vickers_mk_e_45_1;9 psv. T 26 E
+sw_vickers_mk_e_45_2;T 26
+sw_vickers_mk_e_37_shop;9 psv. Vickers Mk. E (PsvK/36)
+sw_vickers_mk_e_37_0;9-tonnin panssarivaunu Vickers Mk. E (Type B) (panssarivaunukanuuna m/36)
+sw_vickers_mk_e_37_1;9 psv. Vickers Mk. E (PsvK/36)
+sw_vickers_mk_e_37_2;Vickers Mk. E
 
-sw_t_28_shop;☩ T-28
-sw_t_28_0;☩ Panssarivaunu T-28
-sw_t_28_1;☩ T-28
-sw_t_28_2;T-28
+sw_t_28_shop;28 psv. T 28
+sw_t_28_0;28-tonnin panssarivaunu T 28
+sw_t_28_1;28 psv. T 28
+sw_t_28_2;T 28
 
-sw_t_34_1941_shop;☩ T-34
-sw_t_34_1941_0;☩ Panssarivaunu T-34
-sw_t_34_1941_1;☩ T-34
-sw_t_34_1941_2;T-34
-sw_t_34_85_zis_53_shop;☩ T-34/85
-sw_t_34_85_zis_53_0;☩ Panssarivaunu T-34/85
-sw_t_34_85_zis_53_1;☩ T-34/85
-sw_t_34_85_zis_53_2;T-34
+sw_t_34_1941_shop;26 psv. T 34 B
+sw_t_34_1941_0;26-tonnin panssarivaunu T 34 B
+sw_t_34_1941_1;26 psv. T 34 B
+sw_t_34_1941_2;T 34
+sw_t_34_85_zis_53_shop;31 psv. T 34/85
+sw_t_34_85_zis_53_0;31-tonnin panssarivaunu T-34/85
+sw_t_34_85_zis_53_1;31 psv. T 34/85
+sw_t_34_85_zis_53_2;T 34
 
-sw_a_34_comet_shop;☩ Comet Mk. IA
-sw_a_34_comet_0;Panssarivaunu Comet Mk. IA
-sw_a_34_comet_1;☩ Comet Mk. I
+sw_a_34_comet_shop;psv. Comet
+sw_a_34_comet_0;Panssarivaunu Comet
+sw_a_34_comet_1;psv. Comet
 sw_a_34_comet_2;Comet
-sw_charioteer_mk_7_shop;☩ Charioteer Mk. 7A
-sw_charioteer_mk_7_0;☩ Panssarivaunu Charioteer Mk. 7A
-sw_charioteer_mk_7_1;☩ Charioteer Mk. 7
+sw_charioteer_mk_7_shop;tst.psv. Charioteer
+sw_charioteer_mk_7_0;Taistelupanssarivaunu Charioteer
+sw_charioteer_mk_7_1;tst.psv. Charioteer
 sw_charioteer_mk_7_2;Charioteer
 
-sw_pzkpfw_IV_ausf_J_shop;☩ PzKw IVJ
-sw_pzkpfw_IV_ausf_J_0;☩ Panssarivaunu PzKw IVJ
-sw_pzkpfw_IV_ausf_J_1;☩ PzKw IVJ
+sw_pzkpfw_IV_ausf_J_shop;25 psv. PzKw IVJ
+sw_pzkpfw_IV_ausf_J_0;25-tonnin panssarivaunu PzKw IVJ
+sw_pzkpfw_IV_ausf_J_1;25 psv. PzKw IVJ
 sw_pzkpfw_IV_ausf_J_2;PzKw IV
 
-sw_bmp_2md_shop;☩ BMP-2MD
-sw_bmp_2md_0;☩ Panssarivaunu BMP-2MD
-sw_bmp_2md_1;☩ BMP-2MD
-sw_bmp_2md_2;BMP-2
+sw_bmp_2md_shop;ryn.psv. BMP 2 MD
+sw_bmp_2md_0;Rynnäkköpanssarivaunu BMP 2 MD
+sw_bmp_2md_1;ryn.psv. BMP 2 MD
+sw_bmp_2md_2;BMP 2
 
-sw_pt_76b_shop;☩ PT-76B
-sw_pt_76b_0;☩ Panssarivaunu PT-76B
-sw_pt_76b_1;☩ PT-76B
-sw_pt_76b_2;PT-76
+sw_pt_76b_shop;ryn.psv. PT 76
+sw_pt_76b_0;Rynnäkköpanssarivaunu PT 76
+sw_pt_76b_1;ryn.psv. PT 76
+sw_pt_76b_2;PT 76
 
-sw_t_54_1951_shop;☩ T-54
-sw_t_54_1951_0;☩ Panssarivaunu T-54
-sw_t_54_1951_1;☩ T-54
-sw_t_54_1951_2;T-54
-sw_t_55m_shop;☩ T-55M
-sw_t_55m_0;Panssarivaunu T-55M
-sw_t_55m_1;☩ T-55M
-sw_t_55m_2;T-55
-sw_t_72m1_shop;☩ T-72M1
-sw_t_72m1_0;☩ Panssarivaunu T-72M1
-sw_t_72m1_1;☩ T-72M1
-sw_t_72m1_2;T-72
+sw_t_54_1951_shop;tst.psv. T 54
+sw_t_54_1951_0;Taistelupanssarivaunu T 54
+sw_t_54_1951_1;tst.psv. T 54
+sw_t_54_1951_2;T 54
+sw_t_55m_shop;tst.psv. T 55 M
+sw_t_55m_0;Taistelupanssarivaunu T 55 M
+sw_t_55m_1;tst.psv. T 55 M
+sw_t_55m_2;T 55
+sw_t_72m1_shop;tst.psv. T 72 M1
+sw_t_72m1_0;Taistelupanssarivaunu T 72 M1
+sw_t_72m1_1;tst.psv. T 72 M1
+sw_t_72m1_2;T 72
 
-sw_cv_9030_fin_shop;☩ CV9030 FIN
-sw_cv_9030_fin_0;☩ Panssarivaunu CV9030 FIN
-sw_cv_9030_fin_1;☩ CV9030
+sw_cv_9030_fin_shop;ryn.psv. CV9030FIN
+sw_cv_9030_fin_0;Rynnäkköpanssarivaunu CV9030FIN
+sw_cv_9030_fin_1;ryn.psv. CV9030
 sw_cv_9030_fin_2;CV90
 
-sw_leopard_2a4_fin_shop;☩ Leopard 2 A4
-sw_leopard_2a4_fin_0;Panssarivaunu Leopard 2 A4
-sw_leopard_2a4_fin_1;☩ Leopard 2 A4
+sw_leopard_2a4_fin_shop;tst.psv. Leopard 2A4
+sw_leopard_2a4_fin_0;Taistelupanssarivaunu Leopard 2A4
+sw_leopard_2a4_fin_1;tst.psv. Leopard 2A4
 sw_leopard_2a4_fin_2;Leopard 2
-sw_leopard_2a6nl_shop;☩ Leopard 2 A6
-sw_leopard_2a6nl_0;☩ Panssarivaunu Leopard 2 A6
-sw_leopard_2a6nl_1;☩ Leopard 2 A6
+sw_leopard_2a6nl_shop;tst.psv. Leopard 2A6
+sw_leopard_2a6nl_0;Taistelupanssarivaunu Leopard 2A6
+sw_leopard_2a6nl_1;tst.psv. Leopard 2A6
 sw_leopard_2a6nl_2;Leopard 2
 
-sw_zsu_57_2_shop;☩ SU-57-2
-sw_zsu_57_2_0;Ilmatorjuntapanssarivaunu SU-57-2
-sw_zsu_57_2_1;☩ SU-57-2
+sw_zsu_57_2_shop;it.psv. SU 57-2
+sw_zsu_57_2_0;Ilmatorjuntapanssarivaunu SU 57-2
+sw_zsu_57_2_1;it.psv. SU 57-2
 sw_zsu_57_2_2;SU-57
 
-sw_itpsv_90_shop;ItPsv 90
-sw_itpsv_90_0;Ilmatorjuntapanssarivaunu 90
-sw_itpsv_90_1;ItPsv 90
-sw_itpsv_90_2;ItPsv 90
+sw_l_62_anti_II_shop;10 it.psv.  41
+sw_l_62_anti_II_0;10-tonnin ilmatorjuntapanssarivaunu m/41
+sw_l_62_anti_II_1;10 it.psv.  41
+sw_l_62_anti_II_2;10 it.psv.  41
 
-fr_crotale_ng_shop;⚜ XA-181 (ItO 90M)
-fr_crotale_ng_0;⚜ XA-181 (Ilmatorjuntaohjus 90M)
-fr_crotale_ng_1;⚜ XA-181 (ItO 90M)
+sw_itpsv_90_shop;it.psv. 90
+sw_itpsv_90_0;ilmatorjuntapanssarivaunu m/90
+sw_itpsv_90_1;it.psv. 90
+sw_itpsv_90_2;it.psv. 90
+
+fr_crotale_ng_shop;⚜ XA-181 (it.o. 90 M)
+fr_crotale_ng_0;⚜ Panssariajoneuvoalustalle XA-181 (ilmatorjuntaohjus m/90 M)
+fr_crotale_ng_1;⚜ XA-181 (it.o. 90 M)
 fr_crotale_ng_2;XA-181
-sw_crotale_ng_shop;XA-181 (ItO 90M)
-sw_crotale_ng_0;XA-181 (Ilmatorjuntaohjus 90M)
-sw_crotale_ng_1;XA-181 (ItO 90M)
+sw_crotale_ng_shop;XA-181 (it.o. 90 M)
+sw_crotale_ng_0;Panssariajoneuvoalustalle XA-181 (ilmatorjuntaohjus m/90 M)
+sw_crotale_ng_1;XA-181 (it.o. 90 M)
 sw_crotale_ng_2;XA-181
 
 sw_patria_amv_ctcv_105_shop;AMV HWP (CT-CV)
-sw_patria_amv_ctcv_105_0;Advanced Modular Vehicle Heavy Weapons Platform (Cockerill CT-CV 105HP)
+sw_patria_amv_ctcv_105_0;Advanced Modular Vehicle Heavy Weapons Platform (CT-CV 105HP)
 sw_patria_amv_ctcv_105_1;AMV HWP (CT-CV)
 sw_patria_amv_ctcv_105_2;AMV

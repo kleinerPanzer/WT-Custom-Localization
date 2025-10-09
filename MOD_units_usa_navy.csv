@@ -24,7 +24,7 @@ us_elco_80ft_pt109_boat_0;Elco 80’ Motor Torpedo Boat, USS PT-109
 us_elco_80ft_pt109_boat_1;PT-109
 us_elco_80ft_pt109_boat_2;Elco 80’
 us_elco_80ft_pt174_shop;PT-174
-us_elco_80ft_pt174_0;Elco 80’ Motor Torpedo Boat, PT-174
+us_elco_80ft_pt174_0;Elco 80’ Motor Torpedo Boat, USS PT-174
 us_elco_80ft_pt174_1;PT-174
 us_elco_80ft_pt174_2;Elco 80’
 us_elco_80ft_pt_boat_mod01_shop;PT-314
@@ -90,7 +90,7 @@ us_higgins_78ft_pt625_0;Higgins 78’ Motor Torpedo Boat, USS PT-625
 us_higgins_78ft_pt625_1;PT-625
 us_higgins_78ft_pt625_2;Higgins 78’
 us_higgins_78ft_pt658_shop;PT-658
-us_higgins_78ft_pt658_0;Higgins 78’ Motor Torpedo Boat, PT-658
+us_higgins_78ft_pt658_0;Higgins 78’ Motor Torpedo Boat, USS PT-658
 us_higgins_78ft_pt658_1;PT-658
 us_higgins_78ft_pt658_2;Higgins 78’
 
@@ -102,7 +102,7 @@ us_pt6_2;Higgins 81’
 
 // Huckins 78' //
 us_huckins_78ft_pt95_shop;PT-95
-us_huckins_78ft_pt95_0;Huckins 78' Motor Torpedo Boat, PT-95
+us_huckins_78ft_pt95_0;Huckins 78' Motor Torpedo Boat, USS PT-95
 us_huckins_78ft_pt95_1;PT-95
 us_huckins_78ft_pt95_2;Huckins 78'
 
@@ -113,6 +113,20 @@ us_nasty_ptf_0;80’ Nasty-Class Fast Torpedo Craft, USS PTF-7
 us_nasty_ptf_1;PTF-7
 us_nasty_ptf_2;Nasty-Class
 
+// Landing Vehicle (LV) //
+us_lvt_a_1_shop;LVT(A)(1)
+us_lvt_a_1_0;Landing Vehicle, Tracked, Armored, Mk. 1, LVT(A)(4)
+us_lvt_a_1_1;LVT(A)(1)
+us_lvt_a_1_2;LVT
+us_lvt_a_1_trb_shop;LVT(A)(1) [TRB]
+us_lvt_a_1_trb_0;Landing Vehicle, Tracked, Armored, Mk. 1, LVT(A)(1) [The Russian Badger]
+us_lvt_a_1_trb_1;LVT(A)(1)
+us_lvt_a_1_trb_2;LVT
+us_lvt_a_4_shop;LVT(A)(4)
+us_lvt_a_4_0;Landing Vehicle, Tracked, Armored, Mk. 4, LVT(A)(4)
+us_lvt_a_4_1;LVT(A)(4)
+us_lvt_a_4_2;LVT
+
 // Landing Craft (LC) //
 
 us_lcs_l_3_shop;LCS(L)(3)-1
@@ -120,10 +134,12 @@ us_lcs_l_3_0;Landing Craft Support (Large) (Mk. 3), USS LCS(L)(3)-1
 us_lcs_l_3_1;LCS(L)(3)-1
 us_lcs_l_3_2;LCS
 
-us_lcm_zippo_shop;LCM(6)
-us_lcm_zippo_0;Landing Craft, Mechanized, Mk. 6
-us_lcm_zippo_1;LCM(6)
-us_lcm_zippo_2;LCM
+// Monitor (M) //
+
+us_lcm_zippo_shop;M-92-2
+us_lcm_zippo_0;Program 4 Monitor, USS M-92-2 (1968)
+us_lcm_zippo_1;M-92-2
+us_lcm_zippo_2;Program 4 Monitor
 
 // Minesweepers (AM) //
 us_admirable_class_shop;Candid (AM-154)

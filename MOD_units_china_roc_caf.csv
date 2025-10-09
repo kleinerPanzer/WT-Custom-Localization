@@ -2,17 +2,8 @@
 
 // SOVIET //
 shop/group/db_3_china_group;☀ ДБ-3A / СБ
-
 shop/group/i-16_china_group;忠-28-甲 / 伊-16-1
 
-i-16_type10_china_shop;E-16-2
-i-16_type10_china_0;E-16-2戰鬥機
-i-16_type10_china_1;E-16-2
-i-16_type10_china_2;E-16
-i-16_type17_china_shop;E-16-3
-i-16_type17_china_0;E-16-3戰鬥機
-i-16_type17_china_1;E-16-3
-i-16_type17_china_2;E-16
 i-15bis_china_shop;E-15
 i-15bis_china_0;E-15戰鬥機
 i-15bis_china_1;E-15
@@ -21,21 +12,32 @@ i-153_m62_china_shop;E-15-3
 i-153_m62_china_0;E-15-3戰鬥機
 i-153_m62_china_1;E-15-3
 i-153_m62_china_2;E-15
-i-16_type5_1935_china_shop;E-16-1
-i-16_type5_1935_china_0;E-16-1戰鬥機
-i-16_type5_1935_china_1;E-16-1
-i-16_type5_1935_china_2;E-16
+
 i-16_chung_28_shop;忠-28-甲
 i-16_chung_28_0;忠-28-甲戰鬥機
 i-16_chung_28_1;忠-28-甲
 i-16_chung_28_2;忠-28
+i-16_type5_1935_china_shop;E-16-1
+i-16_type5_1935_china_0;E-16-1戰鬥機
+i-16_type5_1935_china_1;E-16-1
+i-16_type5_1935_china_2;E-16
+i-16_type10_china_shop;E-16-2
+i-16_type10_china_0;E-16-2戰鬥機
+i-16_type10_china_1;E-16-2
+i-16_type10_china_2;E-16
+i-16_type17_china_shop;E-16-3
+i-16_type17_china_0;E-16-3戰鬥機
+i-16_type17_china_1;E-16-3
+i-16_type17_china_2;E-16
+
 sb_2m_103u_china_shop;СБ
 sb_2m_103u_china_0;СБ (М-103У)輕轟炸機
 sb_2m_103u_china_1;СБ
 sb_2m_103u_china_2;СБ
-db_3a_china_shop;☀ ДБ-3A
-db_3a_china_0;☀ ДБ-3A遠程轟炸機
-db_3a_china_1;☀ ДБ-3A
+
+db_3a_china_shop;☀ ДБ-3
+db_3a_china_0;☀ ДБ-3遠程轟炸機
+db_3a_china_1;☀ ДБ-3
 db_3a_china_2;ДБ-3
 
 // USA //
@@ -47,9 +49,9 @@ p-26a_35_0;▆ 波音281戰鬥機
 p-26a_35_1;▆ 波音281
 p-26a_35_2;波音
 
-p-40c_china_shop;☀ 霍克81A-3 (1st AVG)
-p-40c_china_0;☀ 霍克81A-3戰鬥機 (1st American Volunteer Group "Flying Tigers")
-p-40c_china_1;☀ 霍克81A
+p-40c_china_shop;霍克81A-3 (1st AVG)
+p-40c_china_0;霍克81A-3戰鬥機 (1st American Volunteer Group "Flying Tigers")
+p-40c_china_1;霍克81A
 p-40c_china_2;霍克81
 p-40e_china_shop;☀ P-40E
 p-40e_china_0;☀ P-40E戰鬥機
@@ -91,9 +93,9 @@ cw_21_0;☀ CW-21戰鬥機
 cw_21_1;☀ CW-21
 cw_21_2;CW-21
 
-p-66_shop;☀ P-48-C
-p-66_0;☀ P-48-C戰鬥機
-p-66_1;☀ P-48-C
+p-66_shop;P-48-C
+p-66_0;P-48-C戰鬥機
+p-66_1;P-48-C
 p-66_2;P-48
 
 v_11g_shop;☀ V-11-G
@@ -105,23 +107,23 @@ v_12d_0;☀ V-12-D轟炸機
 v_12d_1;☀ V-12-D
 v_12d_2;V-12
 
-h-75a-5_shop;Hawk 75A-5
-h-75a-5_0;Hawk 75A-5
-h-75a-5_1;Hawk 75A
-h-75a-5_2;Hawk 75
-h-75m_shop;Hawk 75M
-h-75m_0;Hawk 75M
-h-75m_1;Hawk 75M
-h-75m_2;Hawk 75
+h-75a-5_shop;霍克75A-5
+h-75a-5_0;霍克75A-5
+h-75a-5_1;霍克75A
+h-75a-5_2;霍克75
+h-75m_shop;霍克75M
+h-75m_0;霍克75M
+h-75m_1;霍克75M
+h-75m_2;霍克75
 
-hawk_iii_shop;☀ 霍克III
-hawk_iii_0;☀ 霍克III戰鬥機
-hawk_iii_1;☀ 霍克III
+hawk_iii_shop;霍克III
+hawk_iii_0;霍克III戰鬥機
+hawk_iii_1;霍克III
 hawk_iii_2;霍克
 
-martin_139wc_shop;☀ 马丁139WC
-martin_139wc_0;☀ 马丁139WC轟炸機
-martin_139wc_1;☀ 马丁139WC
+martin_139wc_shop;马丁139WC
+martin_139wc_0;马丁139WC轟炸機
+martin_139wc_1;马丁139WC
 martin_139wc_2;马丁 139
 
 // JAPAN //
@@ -169,9 +171,9 @@ p1y1_mod11_china_2;P1Y
 
 // OTHER //
 
-mosquito_fb_mk26_china_shop;☀ FB-26
-mosquito_fb_mk26_china_0;☀ FB-26蚊式飛機
-mosquito_fb_mk26_china_1;☀ FB-26
+mosquito_fb_mk26_china_shop;FB-26
+mosquito_fb_mk26_china_0;FB-26蚊式飛機
+mosquito_fb_mk26_china_1;FB-26
 mosquito_fb_mk26_china_2;FB-26
 
 d_510c_shop;☀ D.510C (41中隊)
@@ -179,9 +181,9 @@ d_510c_0;☀ D.510C戰鬥機 (41驅逐機中隊)
 d_510c_1;☀ D.510C
 d_510c_2;D.510
 
-gladiator_mk1_china_shop;☀ 格斗士I型
-gladiator_mk1_china_0;☀ 格斗士I型戰鬥機
-gladiator_mk1_china_1;☀ 格斗士I型
+gladiator_mk1_china_shop;格斗士I型
+gladiator_mk1_china_0;格斗士I型戰鬥機
+gladiator_mk1_china_1;格斗士I型
 gladiator_mk1_china_2;格斗士
 
 hs-123a-1_china_shop;☀ Hs 123 A-1

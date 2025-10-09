@@ -58,7 +58,7 @@ quing_6_1;青6
 quing_6_2;青6
 
 mig-19j_6a_shop;J6A
-mig-19j_6a_0;J6A型飞机
+mig-19j_6a_0;J6A型飞机 (1977年型)
 mig-19j_6a_1;J6A
 mig-19j_6a_2;J6
 
@@ -89,11 +89,11 @@ j_11_0;J11型飞机
 j_11_1;J11
 j_11_2;J11
 j_11a_shop;J11A
-j_11a_0;J11A型飞机
+j_11a_0;J11A型飞机 (2014年型)
 j_11a_1;J11A
 j_11a_2;J11
 j_11b_shop;J11B
-j_11b_0;J11B型飞机
+j_11b_0;J11B型飞机 (2009年型)
 j_11b_1;J11B
 j_11b_2;J11
 
@@ -152,7 +152,7 @@ z_10_0;Z10型武装直升机
 z_10_1;Z10
 z_10_2;Z10
 z_10a_shop;Z10 (2018)
-z_10a_0;Z10型武装直升机 (2018)
+z_10a_0;Z10型武装直升机 (2018年型)
 z_10a_1;Z10
 z_10a_2;Z10
 
@@ -167,6 +167,6 @@ z_19_1;Z19
 z_19_2;Z19
 
 sa_342l_china_shop;␗ SA 342L1
-sa_342l_china_0;␗ SA 342L1 Gazelle
+sa_342l_china_0;␗ SA 342L1型武装直升机
 sa_342l_china_1;␗ SA 342L
-sa_342l_china_2;Gazelle
+sa_342l_china_2;SA 342
