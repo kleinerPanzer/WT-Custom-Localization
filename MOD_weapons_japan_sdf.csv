@@ -1,81 +1,89 @@
 <ID|readonly|noverify>;<NewLanguage>
-weapons/us_750lb_m117_cone_45_japan;Bomb, General Purpose: 750-lb, JM117;
-weapons/us_750lb_m117_cone_45_japan/short;750-lb JM117;
-weapons/jp_750lb_m117_gcs_1;Bomb, General Purpose: 750-lb, JM117 (GCS-1);
-weapons/jp_750lb_m117_gcs_1/short;750-lb JM117 (GCS-1);
-weapons/jp_i_aaq2_targeting_pod;外装型FLIR装置J/AAQ-2
-weapons/jp_i_aaq2_targeting_pod/short;J/AAQ-2
 weapons/jp_300_gal_fuse_f_2;300 gal. Drop Tank;
 weapons/jp_300_gal_fuse_f_2/short;Drop Tank
 weapons/jp_600gal_drop_tank_1;600 gal. Drop Tank;
 weapons/jp_600gal_drop_tank_1/short;Drop Tank
 weapons/jp_600gal_drop_tank_2;600 gal. Drop Tank;
 weapons/jp_600gal_drop_tank_2/short;Drop Tank
-weapons/jp_asm1;ASM-1
+
+weapons/us_750lb_m117_cone_45_japan;340kg普通爆弾 M117;
+weapons/us_750lb_m117_cone_45_japan/short;340kg M117;
+weapons/jp_750lb_m117_gcs_1;340kg普通爆弾 M117 (91式爆弾用誘導装置);
+weapons/jp_750lb_m117_gcs_1/short;340kg M117 (GCS-1);
+
+weapons/jp_i_aaq2_targeting_pod;外装型FLIR装置J/AAQ-2
+weapons/jp_i_aaq2_targeting_pod/short;J/AAQ-2
+
+weapons/jp_asm1;80式空対艦誘導弾
 weapons/jp_asm1/short;ASM-1
-weapons/jp_asm2;ASM-2
+weapons/jp_asm2;93式空対艦誘導弾
 weapons/jp_asm2/short;ASM-2
-weapons/120mm_TKG_user_cannon;10式120mm戦車砲;
-120mm_type_10;10式120mm装弾筒付翼安定徹甲弾;
-weapons/155mm_type_99_l52_user_cannon;99式52口径155mm榴弾砲;
-weapons/155mm_NSJ_L30_user_cannon;75式30口径155mm榴弾砲;
-155mm_type75;75式;
-160mm_sam_1c;81式短距離地対空誘導弾(C) (光波弾);
-160mm_sam_arh_1c;81式短距離地対空誘導弾(C) (電波弾);
-weapons/160mm_sam_1c/short;SAM-1(C) (光波弾)
-weapons/160mm_sam_1c_launcher_user_cannon;81式短距離地対空誘導弾発射装置;
-weapons/160mm_sam_1c_slave_launcher_user_cannon;81式短距離地対空誘導弾発射装置;
+weapons/jp_aam3;90式空対空誘導弾
+weapons/jp_aam3/short;AAM-3
+weapons/jp_aam3_default;90式空対空誘導弾
+weapons/jp_aam3_default/short;AAM-3
+weapons/jp_aam4;99式空対空誘導弾
+weapons/jp_aam4/short;AAM-4
+weapons/jp_aam4_default;99式空対空誘導弾
+weapons/jp_aam4_default/short;AAM-4
 weapons/120mm_type_64_mat_launcher_user_cannon;64式対戦車誘導弾;
-weapons/120mm_type_64_mat_launcher_user_cannon/short;64式対戦車誘導弾;
+weapons/120mm_type_64_mat_launcher_user_cannon/short;ATM-1
 120mm_type64;64式対戦車誘導弾;
 weapons/120mm_type64/short;ATM-1;
-weapons/cannonJM61A1;Gun, 20-mm, Automatic: JM61A1;
-weapons/cannonJM61A1_pgu_28;Gun, 20-mm, Automatic: JM61A1;
-weapons/cannonJM61A2;Gun, 20-mm, Automatic: JM61A2
-weapons/cannonJM61A2/short;JM61A2
-weapons/cannonJGAU4;Gun, Automatic, 20-mm: JGAU-4/A;
-weapons/cannonJGAU4/short;JGAU-4/A;
-weapons/jp_aam3;AAM-3;
-weapons/jp_aam3/short;AAM-3;
-weapons/jp_aam3_default;AAM-3;
-weapons/jp_aam3_default/short;AAM-3;
-weapons/jp_aam4;AAM-4;
-weapons/jp_aam4/short;AAM-4;
-weapons/jp_aam4_default;AAM-4;
-weapons/jp_aam4_default/short;AAM-4;
+weapons/152mm_Type_79_launcher_user_cannon;79式対舟艇対戦車誘導弾発射装置;
+weapons/152mm_Type_79_launcher_user_cannon/short;ATM-2発射装置;
+type_79_asm;79式対舟艇対誘導弾
+weapons/type_79_asm/short;AS;
+type_79_atgm;79式対戦車誘導弾
+weapons/type_79_atgm/short;AT-B;
+weapons/160mm_sam_1c_launcher_user_cannon;81式短距離地対空誘導弾発射装置;
+weapons/160mm_sam_1c_slave_launcher_user_cannon;81式短距離地対空誘導弾発射装置;
+160mm_sam_1c;81式短距離地対空誘導弾(C) (光波弾);
+weapons/160mm_sam_1c/short;SAM-1(C) (光波弾)
+160mm_sam_arh_1c;81式短距離地対空誘導弾(C) (電波弾);
 weapons/80mm_Type_91_launcher_user_cannon;93式近距離地対空誘導弾発射装置;
 80mm_type_91;93式近距離地対空誘導弾;
 weapons/80mm_type_91/short;SAM-3;
-weapons/130mm_Type_75_rocket_launcher;75式130mmロケット弾発射機;
-weapons/130mm_Type_75_rocket_launcher/short;75式130mmロケット弾発射機;
-130mm_type75;75式;
-105mm_type75;75式105mm粘着榴弾;
-105mm_type91;91式105mm多目的対戦車りゅう弾;
-weapons/120mm_Type_90_L44_user_cannon;90式120mm戦車砲;
-120mm_jm12a1;JM12A1対戦車りゅう弾;
-120mm_jm33;JM33装弾筒付翼安定徹甲弾;
-weapons/152mm_Type_79_launcher_user_cannon;79式対舟艇対戦車誘導弾発射装置;
-weapons/152mm_Type_79_launcher_user_cannon/short;ATM-2;
-type_79_asm;誘導弾AS;
-weapons/type_79_asm/short;AS;
-weapons/152mm_type_79_rocket_launcher;79式対舟艇対戦車誘導弾;
-weapons/152mm_type_79_rocket_launcher/short;79式対舟艇対戦車誘導弾;
-type_79_atgm;誘導弾AT-B;
-weapons/type_79_atgm/short;AT-B;
-weapons/106mm_Type_60B_user_cannon;60式26口径106mm無反動砲(B);
-weapons/90mm_Type61_user_cannon;61式90mm戦車砲(C);
+
+weapons/cannonJM61A1;20mm機関砲 JM61A1
+weapons/cannonJM61A1_pgu_28;20mm機関砲 JM61A1
+weapons/cannonJM61A2;20mm機関砲 JM61A2
+weapons/cannonJM61A2/short;JM61A2
+weapons/cannonJGAU4;20mm機関砲 JM61A1
+weapons/cannonJGAU4/short;JM61A1
+weapons/20mm_jm61_rfs_vulcan_naval_user_cannon;20mm機関砲 JM61
+weapons/20mm_jm61_rfs_vulcan_naval_user_cannon/short;JM61
+weapons/20mm_jm61_m_vulcan_naval_user_cannon;20mm機関砲 JM61
+weapons/20mm_jm61_m_vulcan_naval_user_cannon/short;JM61
+
+weapons/7_62mm_Type74_user_machinegun;74式車載7.62mm機関銃(B);
 weapons/12_7mm_Type_60B_user_machinegun;60式口径50スポットライフル(B);
-weapons/105mm_JSW_user_cannon;株式会社日本製鋼所52口径105mm戦車砲;
+weapons/106mm_Type_60B_user_cannon;60式26口径106mm無反動砲(B);
+
+weapons/90mm_Type61_user_cannon;61式90mm戦車砲(C);
+weapons/105mm_L7A3_STB_user_cannon;L7A3 51口径105mm戦車砲;
 weapons/105mm_L7A3_Type74_user_cannon;74式105mm戦車砲;
 weapons/105mm_L7A3_Type74kai_user_cannon;74式105mm戦車砲;
+weapons/105mm_JSW_user_cannon;株式会社日本製鋼所52口径105mm戦車砲;
+weapons/120mm_Type_90_L44_user_cannon;90式120mm戦車砲;
+weapons/120mm_TKG_user_cannon;10式120mm戦車砲;
+
+105mm_type75;75式105mm粘着榴弾;
+105mm_type91;91式105mm多目的対戦車りゅう弾;
 105mm_type93;93式105mm装弾筒付翼安定徹甲弾;
-weapons/105mm_L7A3_STB_user_cannon;L7A3 51口径105mm戦車砲;
-weapons/7_62mm_Type74_user_machinegun;74式車載7.62mm機関銃(B);
-weapons/20mm_jm61_rfs_vulcan_naval_user_cannon;Gun, 20-mm, Automatic: JM61-RFS;
-weapons/20mm_jm61_rfs_vulcan_naval_user_cannon/short;JM61-RFS;
-weapons/20mm_jm61_m_vulcan_naval_user_cannon;Gun, 20-mm, Automatic: JM61-RFS;
-weapons/20mm_jm61_m_vulcan_naval_user_cannon/short;JM61-RFS;
-weapons/jp_533mm_type54_mod3_torpedo;533mm 試製54式3型魚雷;
-weapons/jp_533mm_type54_mod3_torpedo/short;試製54式3型;
-weapons/jp_533mm_type72_mod1_torpedo;533 mm 72式魚雷;
-weapons/jp_533mm_type72_mod1_torpedo/short;72式魚雷;
+120mm_jm12a1;JM12A1対戦車りゅう弾;
+120mm_jm33;JM33装弾筒付翼安定徹甲弾;
+120mm_type_10;10式120mm装弾筒付翼安定徹甲弾;
+
+weapons/155mm_NSJ_L30_user_cannon;75式30口径155mmりゅう弾砲
+weapons/155mm_type_99_l52_user_cannon;99式52口径155mmりゅう弾砲
+155mm_type75;75式りゅう弾;;
+
+weapons/130mm_Type_75_rocket_launcher;75式130mmロケット弾発射機;
+weapons/130mm_Type_75_rocket_launcher/short;75式130mmロケット弾発射機;
+130mm_type75;75式ロケット弾;
+
+weapons/jp_533mm_type54_mod3_torpedo;試製54式3型魚雷;
+weapons/jp_533mm_type54_mod3_torpedo/short;G-4;
+weapons/jp_533mm_type72_mod1_torpedo;72式魚雷;
+weapons/jp_533mm_type72_mod1_torpedo/short;G-5;

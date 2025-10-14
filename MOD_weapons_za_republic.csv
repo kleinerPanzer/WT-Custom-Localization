@@ -1,31 +1,41 @@
 <ID|readonly|noverify>;<NewLanguage>
-
-weapons/105mm_GT_8_user_cannon;105 mm GT8;
-weapons/105mm_GT_7_user_cannon;105 mm GT7;
+weapons/90mm_GT_2_user_cannon;90 mm GT2;
 weapons/105mm_GT3_user_cannon;105 mm GT3;
 weapons/105mm_GT3_TTD_user_cannon;105 mm GT3;
-weapons/90mm_GT_2_user_cannon;90 mm GT2;
-weapons/76mm_GT_4_user_cannon;76,2 mm GT4;
-weapons/20mm_GI_2_user_cannon;20 mm GI2;
-weapons/35mm_GA_35_user_cannon;35 mm GA35;
 weapons/105mm_GT3B_user_cannon;105 mm GT3B;
-76mm_gt4_he;HE;
+weapons/76mm_GT_4_user_cannon;76,2 mm GT4;
+weapons/105mm_GT_7_user_cannon;105 mm GT7;
+weapons/105mm_GT_8_user_cannon;105 mm GT8;
+
+weapons/20mm_GI_2_user_cannon;20 mm GI2;
+weapons/cannonGI_2;20 mm GI2;
+weapons/30mm_denel_gi30_user_cannon;30 mm GI30
+
+weapons/35mm_GA_35_user_cannon;35 mm GA35;
+
+weapons/155mm_G6_L45_user_cannon;155 mm G5-45;
+
 weapons/7_62mm_Browning_MG4_user_machinegun;7.62 mm L3;
-weapons/155mm_G6_L45_user_cannon;155 mm G5-45 Howitzer;
+
+weapons/7_62mm_ss77_user_machinegun;7.62 mm SS-77
+
+// 76mm_GT_4_user_cannon
+76mm_gt4_he;HE;
+
+// 155mm_G6_L45_user_cannon
 155mm_m1;M1;
 155mm_m1_pf;M1 (PF);
 155mm_g6_smoke;Smoke;
-weapons/cannonGI_2;20 mm GI2;
+
+weapons/127mm_ZT_3_launcher_user_cannon;ZT3;
+127mm_swift;ZT3A1 Swift;
+weapons/127mm_swift/short;ZT3A1;
+127mm_ingwe;ZT3A2 Ingwe;
+weapons/127mm_ingwe/short;ZT3-A2;
+weapons/sa_zt_35_ingwe;ZT3A2 Ingwe
+weapons/sa_zt_35_ingwe/short;ZT3A2 Ingwe
+weapons/sa_zt_35_ingwe_default;ZT3A2 Ingwe
+weapons/sa_zt_35_ingwe_default/short;ZT3A2
+
 weapons/zt_6_mokopa;ZT6 Mokopa;
 weapons/zt_6_mokopa/short;ZT6;
-weapons/sa_zt_35_ingwe;ZT3-A2
-weapons/sa_zt_35_ingwe/short;ZT3-A2
-weapons/sa_zt_35_ingwe_default;ZT3-A
-weapons/sa_zt_35_ingwe_default/short;ZT3-A2
-weapons/127mm_ZT_3_launcher_user_cannon;ZT3;
-127mm_swift;ZT3-A1;
-weapons/127mm_swift/short;ZT3-A1;
-127mm_ingwe;ZT3-A2;
-weapons/127mm_ingwe/short;ZT3-A2;
-weapons/7_62mm_ss77_user_machinegun;7.62 mm SS-77
-weapons/30mm_denel_gi30_user_cannon;30 mm GI-30

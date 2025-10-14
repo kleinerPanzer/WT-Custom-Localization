@@ -1,117 +1,117 @@
 <ID|readonly|noverify>;<NewLanguage>
-shop/group/us_cruiser_fargo_brooklyn_group;Fargo (CL-106) / Brooklyn (CL-40)
-shop/group/us_cruiser_northampton_pensacola_group;Northampton (CA-26) / Portland (CA-33) / Pensacola (CA-24)
+shop/group/us_cruiser_fargo_brooklyn_group;Fargo (CL 106) / Brooklyn (CL 40)
+shop/group/us_cruiser_northampton_pensacola_group;Northampton (CA 26) / Portland (CA 33) / Pensacola (CA 24)
 
 
 // Patrol Torpedo (PT) //
 // Elco 77' //
-us_elco_77ft_pt20_shop;PT-20
-us_elco_77ft_pt20_0;Elco 77’ Motor Torpedo Boat, USS PT-20
-us_elco_77ft_pt20_1;PT-20
-us_elco_77ft_pt20_2;Elco 77’
-us_elco_77ft_pt59_shop;PT-59
-us_elco_77ft_pt59_0;Elco 77’ Motor Torpedo Boat, USS PT-59
-us_elco_77ft_pt59_1;PT-59
-us_elco_77ft_pt59_2;Elco 77’
+us_elco_77ft_pt20_shop;PT 20
+us_elco_77ft_pt20_0;PT 20 Class Motor Torpedo Boat, USS PT 20
+us_elco_77ft_pt20_1;PT 20
+us_elco_77ft_pt20_2;PT 20 Class
+us_elco_77ft_pt59_shop;PT 59
+us_elco_77ft_pt59_0;PT 20 Class Motor Torpedo Boat, USS PT 59
+us_elco_77ft_pt59_1;PT 59
+us_elco_77ft_pt59_2;PT 20 Class
 
 // Elco 80' //
-us_elco_80ft_pt_boat_shop;PT-103
-us_elco_80ft_pt_boat_0;Elco 80’ Motor Torpedo Boat, USS PT-103
-us_elco_80ft_pt_boat_1;PT-103
-us_elco_80ft_pt_boat_2;Elco 80’
-us_elco_80ft_pt109_boat_shop;PT-109
-us_elco_80ft_pt109_boat_0;Elco 80’ Motor Torpedo Boat, USS PT-109
-us_elco_80ft_pt109_boat_1;PT-109
-us_elco_80ft_pt109_boat_2;Elco 80’
-us_elco_80ft_pt174_shop;PT-174
-us_elco_80ft_pt174_0;Elco 80’ Motor Torpedo Boat, USS PT-174
-us_elco_80ft_pt174_1;PT-174
-us_elco_80ft_pt174_2;Elco 80’
-us_elco_80ft_pt_boat_mod01_shop;PT-314
-us_elco_80ft_pt_boat_mod01_0;Elco 80’ Motor Torpedo Boat, USS PT-314
-us_elco_80ft_pt_boat_mod01_1;PT-314
-us_elco_80ft_pt_boat_mod01_2;Elco 80’
-us_elco_80ft_pt_boat_thunderbolt_shop;PT-556
-us_elco_80ft_pt_boat_thunderbolt_0;Elco 80’ Motor Torpedo Boat, USS PT-556
-us_elco_80ft_pt_boat_thunderbolt_1;PT-556
-us_elco_80ft_pt_boat_thunderbolt_2;Elco 80’
-us_elco_80ft_pt_boat_mod02_shop;PT-565
-us_elco_80ft_pt_boat_mod02_0;Elco 80’ Motor Torpedo Boat, USS PT-565
-us_elco_80ft_pt_boat_mod02_1;PT-565
-us_elco_80ft_pt_boat_mod02_2;Elco 80’
+us_elco_80ft_pt_boat_shop;PT 103
+us_elco_80ft_pt_boat_0;PT 103 Class Motor Torpedo Boat, USS PT 103
+us_elco_80ft_pt_boat_1;PT 103
+us_elco_80ft_pt_boat_2;PT 103 Class
+us_elco_80ft_pt109_boat_shop;PT 109
+us_elco_80ft_pt109_boat_0;PT 103 Class Motor Torpedo Boat, USS PT 109
+us_elco_80ft_pt109_boat_1;PT 109
+us_elco_80ft_pt109_boat_2;PT 103 Class
+us_elco_80ft_pt174_shop;PT 174
+us_elco_80ft_pt174_0;PT 103 Class Motor Torpedo Boat, USS PT 174
+us_elco_80ft_pt174_1;PT 174
+us_elco_80ft_pt174_2;PT 103 Class
+us_elco_80ft_pt_boat_mod01_shop;PT 314
+us_elco_80ft_pt_boat_mod01_0;PT 103 Class Motor Torpedo Boat, USS PT 314
+us_elco_80ft_pt_boat_mod01_1;PT 314
+us_elco_80ft_pt_boat_mod01_2;PT 103 Class
+us_elco_80ft_pt_boat_thunderbolt_shop;PT 556
+us_elco_80ft_pt_boat_thunderbolt_0;PT 103 Class Motor Torpedo Boat, USS PT 556
+us_elco_80ft_pt_boat_thunderbolt_1;PT 556
+us_elco_80ft_pt_boat_thunderbolt_2;PT 103 Class
+us_elco_80ft_pt_boat_mod02_shop;PT 565
+us_elco_80ft_pt_boat_mod02_0;PT 103 Class Motor Torpedo Boat, USS PT 565
+us_elco_80ft_pt_boat_mod02_1;PT 565
+us_elco_80ft_pt_boat_mod02_2;PT 103 Class
 
 // 58' Experimental //
-us_pt3_shop;PT-3
-us_pt3_0;58’ Experimental Motor Torpedo Boat, USS PT-3
-us_pt3_1;PT-3
-us_pt3_2;58’ Experimental
+us_pt3_shop;PT 3
+us_pt3_0;PT 3 Class Experimental Motor Torpedo Boat, USS PT 3
+us_pt3_1;PT 3
+us_pt3_2;PT 3 Class
 
 // 89' Aluminum //
-us_pt810_shop;PT-810
-us_pt810_0;89’ Aluminum Motor Torpedo Boat, USS PT-810
-us_pt810_1;PT-810
-us_pt810_2;89’ Aluminum
-us_pt810_us_shop;PT-810
-us_pt810_us_0;89’ Aluminum Motor Torpedo Boat, USS PT-810
-us_pt810_us_1;PT-810
-us_pt810_us_2;89’ Aluminum
-us_pt810_uk_shop;PT-810
-us_pt810_uk_0;89’ Aluminum Motor Torpedo Boat, USS PT-810
-us_pt810_uk_1;PT-810
-us_pt810_uk_2;89’ Aluminum
-us_pt810_germany_shop;PT-810
-us_pt810_germany_0;89’ Aluminum Motor Torpedo Boat, USS PT-810
-us_pt810_germany_1;PT-810
-us_pt810_germany_2;89’ Aluminum
-us_pt810_japan_shop;PT-810
-us_pt810_japan_0;89’ Aluminum Motor Torpedo Boat, USS PT-810
-us_pt810_japan_1;PT-810
-us_pt810_japan_2;89’ Aluminum
+us_pt810_shop;PT 810
+us_pt810_0;PT 810 Class Aluminum Motor Torpedo Boat, USS PT 810
+us_pt810_1;PT 810
+us_pt810_2;PT 810 Class
+us_pt810_us_shop;PT 810
+us_pt810_us_0;PT 810 Class Motor Torpedo Boat, USS PT 810
+us_pt810_us_1;PT 810
+us_pt810_us_2;PT 810 Class
+us_pt810_uk_shop;PT 810
+us_pt810_uk_0;PT 810 Class Motor Torpedo Boat, USS PT 810
+us_pt810_uk_1;PT 810
+us_pt810_uk_2;PT 810 Class
+us_pt810_germany_shop;PT 810
+us_pt810_germany_0;PT 810 Class Motor Torpedo Boat, USS PT 810
+us_pt810_germany_1;PT 810
+us_pt810_germany_2;PT 810 Class
+us_pt810_japan_shop;PT 810
+us_pt810_japan_0;PT 810 Class Motor Torpedo Boat, USS PT 810
+us_pt810_japan_1;PT 810
+us_pt810_japan_2;PT 810 Class
 
 // 94' Aluminum //
-us_pt811_shop;PT-811
-us_pt811_0;94’ Aluminum Motor Torpedo Boat, USS PT-811
-us_pt811_1;PT-811
-us_pt811_2;94’ Aluminum
+us_pt811_shop;PT 811
+us_pt811_0;PT 811 Class Aluminum Motor Torpedo Boat, USS PT 811
+us_pt811_1;PT 811
+us_pt811_2;PT 811 Class
 
 // 105' Alumnium //
-us_pt812_shop;PT-812
-us_pt812_0;105’ Aluminum Motor Torpedo Boat, USS PT-812
-us_pt812_1;PT-812
-us_pt812_2;105’ Aluminum
+us_pt812_shop;PT 812
+us_pt812_0;PT 812 Class Aluminum Motor Torpedo Boat, USS PT 812
+us_pt812_1;PT 812
+us_pt812_2;PT 812 Class
 
 // Higgins 78' //
-us_higgins_78ft_pt71_shop;PT-71
-us_higgins_78ft_pt71_0;Higgins 78’ Motor Torpedo Boat, USS PT-71
-us_higgins_78ft_pt71_1;PT-71
-us_higgins_78ft_pt71_2;Higgins 78’
-us_higgins_78ft_pt625_shop;PT-625
-us_higgins_78ft_pt625_0;Higgins 78’ Motor Torpedo Boat, USS PT-625
-us_higgins_78ft_pt625_1;PT-625
-us_higgins_78ft_pt625_2;Higgins 78’
-us_higgins_78ft_pt658_shop;PT-658
-us_higgins_78ft_pt658_0;Higgins 78’ Motor Torpedo Boat, USS PT-658
-us_higgins_78ft_pt658_1;PT-658
-us_higgins_78ft_pt658_2;Higgins 78’
+us_higgins_78ft_pt71_shop;PT 71
+us_higgins_78ft_pt71_0;PT 71 Class Motor Torpedo Boat, USS PT 71
+us_higgins_78ft_pt71_1;PT 71
+us_higgins_78ft_pt71_2;PT 71 Class
+us_higgins_78ft_pt625_shop;PT 625
+us_higgins_78ft_pt625_0;PT 71 Class Motor Torpedo Boat, USS PT 625
+us_higgins_78ft_pt625_1;PT 625
+us_higgins_78ft_pt625_2;PT 71 Class
+us_higgins_78ft_pt658_shop;PT 658
+us_higgins_78ft_pt658_0;PT 71 Class Motor Torpedo Boat, USS PT 658
+us_higgins_78ft_pt658_1;PT 658
+us_higgins_78ft_pt658_2;PT 71 Class
 
 // Higgins 81' //
-us_pt6_shop;PT-6
-us_pt6_0;Higgins 81’ Motor Torpedo Boat, USS PT-6
-us_pt6_1;PT-6
-us_pt6_2;Higgins 81’
+us_pt6_shop;PT 6
+us_pt6_0;PT 6 Class Motor Torpedo Boat, USS PT 6
+us_pt6_1;PT 6
+us_pt6_2;PT 6 Class
 
 // Huckins 78' //
-us_huckins_78ft_pt95_shop;PT-95
-us_huckins_78ft_pt95_0;Huckins 78' Motor Torpedo Boat, USS PT-95
-us_huckins_78ft_pt95_1;PT-95
-us_huckins_78ft_pt95_2;Huckins 78'
+us_huckins_78ft_pt95_shop;PT 95
+us_huckins_78ft_pt95_0;PT 95 Class Motor Torpedo Boat, USS PT 95
+us_huckins_78ft_pt95_1;PT 95
+us_huckins_78ft_pt95_2;PT 95 Class
 
 // Nasty //
 
-us_nasty_ptf_shop;PTF-7
-us_nasty_ptf_0;80’ Nasty-Class Fast Torpedo Craft, USS PTF-7
-us_nasty_ptf_1;PTF-7
-us_nasty_ptf_2;Nasty-Class
+us_nasty_ptf_shop;PTF 7
+us_nasty_ptf_0;PTF 3 Class Fast Torpedo Craft, USS PTF 7
+us_nasty_ptf_1;PTF 7
+us_nasty_ptf_2;PTF 3 Class
 
 // Landing Vehicle (LV) //
 us_lvt_a_1_shop;LVT(A)(1)
@@ -136,369 +136,371 @@ us_lcs_l_3_2;LCS
 
 // Monitor (M) //
 
-us_lcm_zippo_shop;M-92-2
-us_lcm_zippo_0;Program 4 Monitor, USS M-92-2 (1968)
-us_lcm_zippo_1;M-92-2
-us_lcm_zippo_2;Program 4 Monitor
+us_lcm_zippo_shop;M 92 2
+us_lcm_zippo_0;M 91 1 Class Monitor, USS M 92 2 (1968)
+us_lcm_zippo_1;M 92 2
+us_lcm_zippo_2;M 91 1 Class
 
 // Minesweepers (AM) //
-us_admirable_class_shop;Candid (AM-154)
-us_admirable_class_0;Admirable-Class Minesweeper, USS Candid (AM-154)
+us_admirable_class_shop;Candid (AM 154)
+us_admirable_class_0;AM 136 Class Minesweeper, USS Candid (AM 154)
 us_admirable_class_1;Candid
-us_admirable_class_2;Admirable-Class
+us_admirable_class_2;AM 136 Class
 
 // Subchasers & Patrol Boats (PC/SC) //
 
-us_cyclone_class_cyclone_shop;Cyclone (PC-1)
-us_cyclone_class_cyclone_0;Cyclone-Class Patrol Boat, USS Cyclone (PC-1)
+us_cyclone_class_cyclone_shop;Cyclone (PC 1)
+us_cyclone_class_cyclone_0;PC 1 Class Patrol Boat, USS Cyclone (PC 1)
 us_cyclone_class_cyclone_1;Cyclone
-us_cyclone_class_cyclone_2;Cyclone-Class
+us_cyclone_class_cyclone_2;PC 1 Class
 
-us_pc_451_shop;PC-451
-us_pc_451_0;Experimental PC-451-Class Submarine Chaser, USS PC-451
-us_pc_451_1;PC-451
-us_pc_451_2;PC-451-Class
+us_pc_451_shop;PC 451
+us_pc_451_0;PC 451 Class Experimental Submarine Chaser, USS PC 451
+us_pc_451_1;PC 451
+us_pc_451_2;PC 451 Class
 
-us_pc_466_carmi_shop;PC-466
-us_pc_466_carmi_0;173’ PC-461-Class Submarine Chaser, USS PC-466
-us_pc_466_carmi_1;PC-466
-us_pc_466_carmi_2;PC-461-Class
+us_pc_466_carmi_shop;PC 466
+us_pc_466_carmi_0;PC 461 Class Submarine Chaser, USS PC 466
+us_pc_466_carmi_1;PC 466
+us_pc_466_carmi_2;PC 461-Class
 
-us_sc_497_shop;SC-497
-us_sc_497_0;110’ SC-497-Class Submarine Chaser, USS SC-497 (1945)
-us_sc_497_1;SC-497
-us_sc_497_2;SC-497-Class
+us_sc_497_shop;SC 497
+us_sc_497_0;SC 497 Class Submarine Chaser, USS SC 497 (1945)
+us_sc_497_1;SC 497
+us_sc_497_2;SC 497 Class
 
 // Patrol Gunboat (PG) //
 
-us_flagstaff_pgh1_shop;Flagstaff (PGH-1)
-us_flagstaff_pgh1_0;Flagstaff-Class, USS Flagstaff (PGH-1)
+us_flagstaff_pgh1_shop;Flagstaff (PGH 1)
+us_flagstaff_pgh1_0;PGH 1 Class Hydrofoil Patrol Gunboat, USS Flagstaff (PGH 1)
 us_flagstaff_pgh1_1;Flagstaff
-us_flagstaff_pgh1_2;Flagstaff-Class
+us_flagstaff_pgh1_2;PGH 1 Class
 
-us_tucumcari_pgh2_shop;Tucumcari (PGH-2)
-us_tucumcari_pgh2_0;Pegasus-Class, USS Tucumcari (PGH-2)
+us_tucumcari_pgh2_shop;Tucumcari (PGH 2)
+us_tucumcari_pgh2_0;PGH 2 Class Hydrofoil Patrol Gunboat, USS Tucumcari (PGH 2)
 us_tucumcari_pgh2_1;Tucumcari
-us_tucumcari_pgh2_2;Pegasus-Class
+us_tucumcari_pgh2_2;PGH 2 Class
 
-us_ashville_class_shop;Asheville (PGM-84)
-us_ashville_class_0;Asheville-Class Gunboat, USS Asheville (PGM-84)
+us_ashville_class_shop;Asheville (PGM 84)
+us_ashville_class_0;PGM 84 Class Gunboat, USS Asheville (PGM 84)
 us_ashville_class_1;Asheville
-us_ashville_class_2;Asheville-Class
-us_ashville_class_douglas_shop;Douglas (PGM-100)
-us_ashville_class_douglas_0;Asheville-Class Gunboat, USS Douglas (PGM-100)
+us_ashville_class_2;PGM 84 Class
+us_ashville_class_douglas_shop;Douglas (PGM 100)
+us_ashville_class_douglas_0;PGM 84 Class Gunboat, USS Douglas (PGM 100)
 us_ashville_class_douglas_1;Douglas
-us_ashville_class_douglas_2;Asheville-Class
+us_ashville_class_douglas_2;PGM 84 Class
 
 // Frigate (PF) // 
 
-us_frigate_tacoma_shop;Hoquiam (PF-5)
-us_frigate_tacoma_0;Tacoma-Class Frigate, USS Hoquiam (PF-5)
+us_frigate_tacoma_shop;Hoquiam (PF 5)
+us_frigate_tacoma_0;PF 3 Class Frigate, USS Hoquiam (PF 5)
 us_frigate_tacoma_1;Hoquiam
-us_frigate_tacoma_2;Tacoma-Class
-us_frigate_tacoma_sub_event_shop;Hoaquiam (PF-5)
-us_frigate_tacoma_sub_event_0;Tacoma-Class Frigate, USS Hoquiam (PF-5)
+us_frigate_tacoma_2;PF 3 Class
+us_frigate_tacoma_sub_event_shop;Hoaquiam (PF 5)
+us_frigate_tacoma_sub_event_0;PF 3 Class Frigate, USS Hoquiam (PF 5)
 us_frigate_tacoma_sub_event_1;Hoquiam
-us_frigate_tacoma_sub_event_2;Tacoma-Class
+us_frigate_tacoma_sub_event_2;PF 3 Class
 
 // Destroyer Escort (DE) //
 
-us_frigate_buckley_class_coolbaugh_shop;Coolbaugh (DE-217)
-us_frigate_buckley_class_coolbaugh_0;Buckley-Class Destroyer Escort, USS Coolbaugh (DE-217)
+us_frigate_buckley_class_coolbaugh_shop;Coolbaugh (DE 217)
+us_frigate_buckley_class_coolbaugh_0;DE 51 Class Destroyer Escort, USS Coolbaugh (DE 217)
 us_frigate_buckley_class_coolbaugh_1;Coolbaugh
-us_frigate_buckley_class_coolbaugh_2;Buckley-Class
+us_frigate_buckley_class_coolbaugh_2;DE 51 Class
 
-us_frigate_dealey_shop;Dealey (DE-1006)
-us_frigate_dealey_0;Dealey-Class Destroyer Escort, USS Dealey (DE-1006)
+us_frigate_dealey_shop;Dealey (DE 1006)
+us_frigate_dealey_0;DE 1006 Class Destroyer Escort, USS Dealey (DE 1006)
 us_frigate_dealey_1;Dealey
-us_frigate_dealey_2;Dealey-Class
+us_frigate_dealey_2;DE 1006 Class
 
 // Destroyer (DD) //
 // Clemson //
-us_destroyer_clemson_welborn_c_wood_shop;Welborn C. Wood (DD-195)
-us_destroyer_clemson_welborn_c_wood_0;Clemson-Class Destroyer, USS Welborn C. Wood (DD-195)
+us_destroyer_clemson_welborn_c_wood_shop;Welborn C. Wood (DD 195)
+us_destroyer_clemson_welborn_c_wood_0;DD 186 Class Destroyer, USS Welborn C. Wood (DD 195)
 us_destroyer_clemson_welborn_c_wood_1;Welborn C. Wood
-us_destroyer_clemson_welborn_c_wood_2;Clemson-Class
-us_destroyer_clemson_barker_shop;Barker (DD-213)
-us_destroyer_clemson_barker_0;Clemson-Class Destroyer, USS Barker (DD-213)
+us_destroyer_clemson_welborn_c_wood_2;DD 186 Class
+us_destroyer_clemson_barker_shop;Barker (DD 213)
+us_destroyer_clemson_barker_0;DD 186 Class Destroyer, USS Barker (DD 213)
 us_destroyer_clemson_barker_1;Barker
-us_destroyer_clemson_barker_2;Clemson-Class
-us_destroyer_clemson_litchfield_shop;Litchfield (DD-336)
-us_destroyer_clemson_litchfield_0;Clemson-Class Destroyer, USS Litchfield (DD-336)
+us_destroyer_clemson_barker_2;DD 186 Class
+us_destroyer_clemson_litchfield_shop;Litchfield (DD 336)
+us_destroyer_clemson_litchfield_0;DD 186 Class Destroyer, USS Litchfield (DD 336)
 us_destroyer_clemson_litchfield_1;Litchfield
-us_destroyer_clemson_litchfield_2;Clemson-Class
+us_destroyer_clemson_litchfield_2;DD 186 Class
 
 // Farragut //
-us_destroyer_farragut_1942_shop;Aylwin (DD-355)
-us_destroyer_farragut_1942_0;Farragut-Class Destroyer, USS Aylwin (DD-355)
+us_destroyer_farragut_1942_shop;Aylwin (DD 355)
+us_destroyer_farragut_1942_0;DD 348 Class Destroyer, USS Aylwin (DD 355)
 us_destroyer_farragut_1942_1;Aylwin
-us_destroyer_farragut_1942_2;Farragut-Class
+us_destroyer_farragut_1942_2;DD 348 Class
 
 // Porter //
-us_destroyer_porter_1941_shop;Porter (DD-356)
-us_destroyer_porter_1941_0;Porter-Class Destroyer, USS Porter (DD-356)
+us_destroyer_porter_1941_shop;Porter (DD 356)
+us_destroyer_porter_1941_0;DD 356 Class Destroyer, USS Porter (DD 356)
 us_destroyer_porter_1941_1;Porter
-us_destroyer_porter_1941_2;Porter-Class
-us_destroyer_porter_1944_shop;Phelps (DD-360)
-us_destroyer_porter_1944_0;Porter-Class Destroyer, USS Phelps (DD-360) (1944)
+us_destroyer_porter_1941_2;DD 356 Class
+us_destroyer_porter_1944_shop;Phelps (DD 360)
+us_destroyer_porter_1944_0;DD 356 Class Destroyer, USS Phelps (DD 360) (1944)
 us_destroyer_porter_1944_1;Phelps
-us_destroyer_porter_1944_2;Porter-Class
-us_destroyer_porter_1942_shop;Moffett (DD-362)
-us_destroyer_porter_1942_0;Porter-Class Destroyer, USS Moffett (DD-362)
+us_destroyer_porter_1944_2;DD 356 Class
+us_destroyer_porter_1942_shop;Moffett (DD 362)
+us_destroyer_porter_1942_0;DD 356 Class Destroyer, USS Moffett (DD 362)
 us_destroyer_porter_1942_1;Moffett
-us_destroyer_porter_1942_2;Porter-Class
+us_destroyer_porter_1942_2;DD 356 Class
 
 // Somers //
-us_destroyer_somers_shop;Somers (DD-381)
-us_destroyer_somers_0;Somers-Class Destroyer, USS Somers (DD-381)
+us_destroyer_somers_shop;Somers (DD 381)
+us_destroyer_somers_0;DD 381 Class Destroyer, USS Somers (DD 381)
 us_destroyer_somers_1;Somers
-us_destroyer_somers_2;Somers-Class
-us_destroyer_somers_davis_shop;Davis (DD-395)
-us_destroyer_somers_davis_0;Somers-Class Destroyer, USS Davis (DD-395)
+us_destroyer_somers_2;DD 381 Class
+us_destroyer_somers_davis_shop;Davis (DD 395)
+us_destroyer_somers_davis_0;DD 381 Class Destroyer, USS Davis (DD 395)
 us_destroyer_somers_davis_1;Davis
-us_destroyer_somers_davis_2;Somers-Class
+us_destroyer_somers_davis_2;DD 381 Class
 
 // Bagley //
-us_destroyer_bagley_class_bagley_shop;Bagley (DD-386)
-us_destroyer_bagley_class_bagley_0;Bagley-Class Destroyer, USS Bagley (DD-386) (1941)
+us_destroyer_bagley_class_bagley_shop;Bagley (DD 386)
+us_destroyer_bagley_class_bagley_0;DD 386 Class Destroyer, USS Bagley (DD 386) (1941)
 us_destroyer_bagley_class_bagley_1;Bagley
-us_destroyer_bagley_class_bagley_2;Bagley-Class
+us_destroyer_bagley_class_bagley_2;DD 386 Class
 
 // Fletcher //
-us_destroyer_fletcher_shop;Fletcher (DD-445)
-us_destroyer_fletcher_0;Fletcher-Class Destroyer, USS Fletcher (DD-445)
+us_destroyer_fletcher_shop;Fletcher (DD 445)
+us_destroyer_fletcher_0;DD 445 Class Destroyer, USS Fletcher (DD 445)
 us_destroyer_fletcher_1;Fletcher
-us_destroyer_fletcher_2;Fletcher-Class
-us_destroyer_fletcher_sub_event_shop;Fletcher (DD-445)
-us_destroyer_fletcher_sub_event_0;Fletcher-Class Destroyer, USS Fletcher (DD-445)
+us_destroyer_fletcher_2;DD 445 Class
+us_destroyer_fletcher_sub_event_shop;Fletcher (DD 445)
+us_destroyer_fletcher_sub_event_0;DD 445 Class Destroyer, USS Fletcher (DD 445)
 us_destroyer_fletcher_sub_event_1;Fletcher
-us_destroyer_fletcher_sub_event_2;Fletcher-Class
-us_destroyer_fletcher_cowell_shop;Cowell (DD-547)
-us_destroyer_fletcher_cowell_0;Fletcher-Class Destroyer, USS Cowell (DD-547)
+us_destroyer_fletcher_sub_event_2;DD 445 Class
+us_destroyer_fletcher_cowell_shop;Cowell (DD 547)
+us_destroyer_fletcher_cowell_0;DD 445 Class Destroyer, USS Cowell (DD 547)
 us_destroyer_fletcher_cowell_1;Cowell
-us_destroyer_fletcher_cowell_2;Fletcher-Class
-us_destroyer_fletcher_bennion_shop;Bennion (DD-662)
-us_destroyer_fletcher_bennion_0;Fletcher-Class Destroyer, USS Bennion (DD-662)
+us_destroyer_fletcher_cowell_2;DD 445 Class
+us_destroyer_fletcher_bennion_shop;Bennion (DD 662)
+us_destroyer_fletcher_bennion_0;DD 445 Class Destroyer, USS Bennion (DD 662)
 us_destroyer_fletcher_bennion_1;Bennion
-us_destroyer_fletcher_bennion_2;Fletcher-Class
+us_destroyer_fletcher_bennion_2;DD 445 Class
 
 // Sumner//
-us_destroyer_sumner_shop;Allen M. Sumner (DD-692)
-us_destroyer_sumner_0;Allen M. Sumner-Class Destroyer, USS Allen M. Sumner (DD-692)
+us_destroyer_sumner_shop;Allen M. Sumner (DD 692)
+us_destroyer_sumner_0;DD 692 Class Destroyer, USS Allen M. Sumner (DD 692)
 us_destroyer_sumner_1;Allen M. Sumner
-us_destroyer_sumner_2;Allen M. Sumner-Class
+us_destroyer_sumner_2;DD 692 Class
 
 // Gearing //
-us_destroyer_gearing_shop;Gearing (DD-710)
-us_destroyer_gearing_0;Gearing-Class Destroyer, USS Gearing (DD-710) (1945)
+us_destroyer_gearing_shop;Gearing (DD 710)
+us_destroyer_gearing_0;DD 710 Class Destroyer, USS Gearing (DD 710) (1945)
 us_destroyer_gearing_1;Gearing
-us_destroyer_gearing_2;Gearing-Class
-us_destroyer_gearing_frank_knox_shop;Frank Knox (DD-742)
-us_destroyer_gearing_frank_knox_0;Gearing-Class Destroyer, USS Frank Knox (DD-742) (1944)
+us_destroyer_gearing_2;DD 710 Class
+us_destroyer_gearing_frank_knox_shop;Frank Knox (DD 742)
+us_destroyer_gearing_frank_knox_0;DD 710 Class Destroyer, USS Frank Knox (DD 742) (1944)
 us_destroyer_gearing_frank_knox_1;Frank Knox
-us_destroyer_gearing_frank_knox_2;Gearing-Class
+us_destroyer_gearing_frank_knox_2;DD 710 Class
 
 // CF Adams //
-us_destroyer_cf_adams_class_cf_adams_shop;Charles F. Adams (DDG-2)
-us_destroyer_cf_adams_class_cf_adams_0;Charles F. Adams-Class Guided Missile Destroyer, USS Charles F. Adams (DDG-2) (1961)
+us_destroyer_cf_adams_class_cf_adams_shop;Charles F. Adams (DDG 2)
+us_destroyer_cf_adams_class_cf_adams_0;DDG 2 Class Guided Missile Destroyer, USS Charles F. Adams (DDG 2) (1961)
 us_destroyer_cf_adams_class_cf_adams_1;Charles F. Adams
-us_destroyer_cf_adams_class_cf_adams_2;Charles F. Adams-Class
+us_destroyer_cf_adams_class_cf_adams_2;DDG 2 Class
 
 // Destroyer Leader (DL) //
 
-us_destroyer_mitscher_shop;Mitscher (DL-2)
-us_destroyer_mitscher_0;Mitscher-Class Destroyer, USS Mitscher (DL-2) (1954)
+us_destroyer_mitscher_shop;Mitscher (DL 2)
+us_destroyer_mitscher_0;DL 2 Class Destroyer, USS Mitscher (DL 2) (1954)
 us_destroyer_mitscher_1;Mitscher
-us_destroyer_mitscher_2;Mitscher-Class
-us_destroyer_mitscher_wilkinson_shop;Wilkinson (DL-5)
-us_destroyer_mitscher_wilkinson_0;Mitscher-Class Destroyer, USS Wilkinson (DL-5) (1957)
+us_destroyer_mitscher_2;DL 2 Class
+us_destroyer_mitscher_wilkinson_shop;Wilkinson (DL 5)
+us_destroyer_mitscher_wilkinson_0;DL 2 Class Destroyer, USS Wilkinson (DL 5) (1957)
 us_destroyer_mitscher_wilkinson_1;Wilkinson
-us_destroyer_mitscher_wilkinson_2;Mitscher-Class
+us_destroyer_mitscher_wilkinson_2;DL 2 Class
 
 // Light Cruisers (CL) //
 // Omaha //
-us_cruiser_omaha_class_trenton_shop;Raleigh (CL-7)
-us_cruiser_omaha_class_trenton_0;Omaha-Class Light Cruiser, USS Raleigh (CL-7)
+us_cruiser_omaha_class_trenton_shop;Raleigh (CL 7)
+us_cruiser_omaha_class_trenton_0;CL 4 Class Light Cruiser, USS Raleigh (CL 7)
 us_cruiser_omaha_class_trenton_1;Raleigh
-us_cruiser_omaha_class_trenton_2;Omaha-Class
-us_cruiser_omaha_class_detroit_shop;Detroit (CL-8)
-us_cruiser_omaha_class_detroit_0;Omaha-Class Light Cruiser, USS Detroit (CL-8)
+us_cruiser_omaha_class_trenton_2;CL 4 Class
+us_cruiser_omaha_class_detroit_shop;Detroit (CL 8)
+us_cruiser_omaha_class_detroit_0;CL 4 Class Light Cruiser, USS Detroit (CL 8)
 us_cruiser_omaha_class_detroit_1;Trenton
-us_cruiser_omaha_class_detroit_2;Omaha-Class
-us_cruiser_omaha_class_raleigh_shop;Memphis (CL-13)
-us_cruiser_omaha_class_raleigh_0;Omaha-Class Light Cruiser, USS Memphis (CL-13) (1943)
+us_cruiser_omaha_class_detroit_2;CL 4 Class
+us_cruiser_omaha_class_raleigh_shop;Memphis (CL 13)
+us_cruiser_omaha_class_raleigh_0;CL 4 Class Light Cruiser, USS Memphis (CL 13) (1943)
 us_cruiser_omaha_class_raleigh_1;Memphis
-us_cruiser_omaha_class_raleigh_2;Omaha-Class
+us_cruiser_omaha_class_raleigh_2;CL 4 Class
 
 // Brooklyn //
-us_cruiser_brooklyn_class_brooklyn_shop;Brooklyn (CL-40)
-us_cruiser_brooklyn_class_brooklyn_0;Brooklyn-Class Light Cruiser, USS Brooklyn (CL-40)
+us_cruiser_brooklyn_class_brooklyn_shop;Brooklyn (CL 40)
+us_cruiser_brooklyn_class_brooklyn_0;CL 40 Class Light Cruiser, USS Brooklyn (CL 40)
 us_cruiser_brooklyn_class_brooklyn_1;Brooklyn
-us_cruiser_brooklyn_class_brooklyn_2;Brooklyn-Class
-us_cruiser_brooklyn_class_helena_shop;Helena (CL-50)
-us_cruiser_brooklyn_class_helena_0;Brooklyn-Class Light Cruiser, USS Helena (CL-50) (1943)
+us_cruiser_brooklyn_class_brooklyn_2;CL 40 Class
+us_cruiser_brooklyn_class_helena_shop;Helena (CL 50)
+us_cruiser_brooklyn_class_helena_0;CL 40 Class Light Cruiser, USS Helena (CL 50) (1943)
 us_cruiser_brooklyn_class_helena_1;Helena
-us_cruiser_brooklyn_class_helena_2;Brooklyn-Class
+us_cruiser_brooklyn_class_helena_2;CL 40 Class
 
 // Atlanta //
-us_cruiser_atlanta_class_atlanta_shop;Atlanta (CL-51)
-us_cruiser_atlanta_class_atlanta_0;Atlanta-Class Light Cruiser, USS Atlanta (CL-51)
+us_cruiser_atlanta_class_atlanta_shop;Atlanta (CL 51)
+us_cruiser_atlanta_class_atlanta_0;CL 51 Class Light Cruiser, USS Atlanta (CL 51)
 us_cruiser_atlanta_class_atlanta_1;Atlanta
-us_cruiser_atlanta_class_atlanta_2;Atlanta-Class
+us_cruiser_atlanta_class_atlanta_2;CL 51 Class
 
 // Cleveland //
-us_cruiser_cleveland_class_cleveland_shop;Cleveland (CL-55)
-us_cruiser_cleveland_class_cleveland_0;Cleveland-Class Light Cruiser, USS Cleveland (CL-55)
+us_cruiser_cleveland_class_cleveland_shop;Cleveland (CL 55)
+us_cruiser_cleveland_class_cleveland_0;CL 55 Class Light Cruiser, USS Cleveland (CL 55)
 us_cruiser_cleveland_class_cleveland_1;Cleveland
-us_cruiser_cleveland_class_cleveland_2;Cleveland-Class
+us_cruiser_cleveland_class_cleveland_2;CL 55 Class
 
 // Fargo //
-us_cruiser_fargo_class_shop;Fargo (CL-106)
-us_cruiser_fargo_class_0;Fargo-Class Light Cruiser, USS Fargo (CL-106) (1946)
+us_cruiser_fargo_class_shop;Fargo (CL 106)
+us_cruiser_fargo_class_0;CL 106 Class Light Cruiser, USS Fargo (CL 106) (1946)
 us_cruiser_fargo_class_1;Fargo
-us_cruiser_fargo_class_2;Fargo-Class
+us_cruiser_fargo_class_2;CL 106 Class
 
 // Roanoke //
-us_cruiser_worcester_class_roanoke_shop;Roanoke (CL-145)
-us_cruiser_worcester_class_roanoke_0;Worcester-Class Light Cruiser, USS Roanoke (CL-145)
+us_cruiser_worcester_class_roanoke_shop;Roanoke (CL 145)
+us_cruiser_worcester_class_roanoke_0;CL 144 Class Light Cruiser, USS Roanoke (CL 145)
 us_cruiser_worcester_class_roanoke_1;Roanoke
-us_cruiser_worcester_class_roanoke_2;Worcester-Class
+us_cruiser_worcester_class_roanoke_2;CL 144 Class
 
 // Heavy Cruisers (CA) //
 // Pensacola //
-us_cruiser_pensacola_class_shop;Pensacola (CA-24)
-us_cruiser_pensacola_class_0;Pensacola-Class Heavy Cruiser, USS Pensacola (CA-24) (1941)
+us_cruiser_pensacola_class_shop;Pensacola (CA 24)
+us_cruiser_pensacola_class_0;CA 24 Class Heavy Cruiser, USS Pensacola (CA 24) (1941)
 us_cruiser_pensacola_class_1;Pensacola
-us_cruiser_pensacola_class_2;Pensacola-Class
+us_cruiser_pensacola_class_2;CA 24 Class
 
 // Northampton //
-us_cruiser_northampton_class_shop;Northampton (CA-26)
-us_cruiser_northampton_class_0;Northampton-Class Heavy Cruiser, USS Northampton (CA-26) (1941)
+us_cruiser_northampton_class_shop;Northampton (CA 26)
+us_cruiser_northampton_class_0;CA 26 Class Heavy Cruiser, USS Northampton (CA 26) (1941)
 us_cruiser_northampton_class_1;Northampton
-us_cruiser_northampton_class_2;Northampton-Class
+us_cruiser_northampton_class_2;CA 26 Class
 
 // New Orleands //
-us_cruiser_new_orleans_class_shop;New Orleans (CA-32)
-us_cruiser_new_orleans_class_0;New Orleans-Class Heavy Cruiser, USS New Orleans (CA-32) (1945)
+us_cruiser_new_orleans_class_shop;New Orleans (CA 32)
+us_cruiser_new_orleans_class_0;CA 32 Class Heavy Cruiser, USS New Orleans (CA 32) (1945)
 us_cruiser_new_orleans_class_1;New Orleans
-us_cruiser_new_orleans_class_2;New Orleans-Class
+us_cruiser_new_orleans_class_2;CA 32 Class
 
 // Portland //
-us_cruiser_portland_class_shop;Portland (CA-33)
-us_cruiser_portland_class_0;Portland-Class Heavy Cruiser, USS Portland (CA-33) (1942)
+us_cruiser_portland_class_shop;Portland (CA 33)
+us_cruiser_portland_class_0;CA 33 Class Heavy Cruiser, USS Portland (CA 33) (1942)
 us_cruiser_portland_class_1;Portland
-us_cruiser_portland_class_2;Portland-Class
+us_cruiser_portland_class_2;CA 33 Class
 
 // Baltimore //
-us_cruiser_baltimore_class_shop;Baltimore (CA-68)
-us_cruiser_baltimore_class_0;Baltimore-Class Heavy Cruiser, USS Baltimore (CA-69) (1943)
+us_cruiser_baltimore_class_shop;Baltimore (CA 68)
+us_cruiser_baltimore_class_0;CA 68 Class Heavy Cruiser, USS Baltimore (CA 69) (1943)
 us_cruiser_baltimore_class_1;Baltimore
-us_cruiser_baltimore_class_2;Baltimore-Class
-us_cruiser_baltimore_class_pittsburgh_shop;Pittsburgh (CA-72)
-us_cruiser_baltimore_class_pittsburgh_0;Baltimore-Class Heavy Cruiser, USS Pittsburgh (CA-72) (1943)
+us_cruiser_baltimore_class_2;CA 68 Class
+us_cruiser_baltimore_class_pittsburgh_shop;Pittsburgh (CA 72)
+us_cruiser_baltimore_class_pittsburgh_0;CA 68 Class Heavy Cruiser, USS Pittsburgh (CA 72) (1943)
 us_cruiser_baltimore_class_pittsburgh_1;Pittsburgh
-us_cruiser_baltimore_class_pittsburgh_2;Baltimore-Class
+us_cruiser_baltimore_class_pittsburgh_2;CA 68 Class
 
 // Des Moines //
-us_cruiser_des_moines_class_shop;Des Moines (CA-134)
-us_cruiser_des_moines_class_0;Des Moines-Class Heavy Cruiser, USS Des Moines (CA-134)
+us_cruiser_des_moines_class_shop;Des Moines (CA 134)
+us_cruiser_des_moines_class_0;CA 134 Class Heavy Cruiser, USS Des Moines (CA 134)
 us_cruiser_des_moines_class_1;Des Moines
-us_cruiser_des_moines_class_2;Des Moines-Class
-us_cruiser_des_moines_class_newport_news_shop;Newport News (CA-148)
-us_cruiser_des_moines_class_newport_news_0;Des Moines-Class Heavy Cruiser, USS Newport News (CA-148) (1972)
+us_cruiser_des_moines_class_2;CA 134 Class
+us_cruiser_des_moines_class_newport_news_shop;Newport News (CA 148)
+us_cruiser_des_moines_class_newport_news_0;CA 134 Class Heavy Cruiser, USS Newport News (CA 148) (1972)
 us_cruiser_des_moines_class_newport_news_1;Newport News
-us_cruiser_des_moines_class_newport_news_2;Des Moines-Class
+us_cruiser_des_moines_class_newport_news_2;CA 134 Class
 
 // Battlecruisers (CB) //
 
-us_battlecruiser_alaska_class_shop;Alaska (CB-1)
-us_battlecruiser_alaska_class_0;Alaska-Class Large Cruiser, USS Alaska (CB-1)
+us_battlecruiser_alaska_class_shop;Alaska (CB 1)
+us_battlecruiser_alaska_class_0;CB 1 Class Large Cruiser, USS Alaska (CB 1)
 us_battlecruiser_alaska_class_1;Alaska
-us_battlecruiser_alaska_class_2;Alaska-Class
+us_battlecruiser_alaska_class_2;CB 1 Class
 
 // Battleships (BB) //
 // Delware //
-us_battleship_north_dakota_shop;North Dakota (BB-29)
-us_battleship_north_dakota_0;Delaware-Class Battleship, USS North Dakota (BB-29) (1919)
+us_battleship_north_dakota_shop;North Dakota (BB 29)
+us_battleship_north_dakota_0;BB 28 Class Battleship, USS North Dakota (BB 29) (1919)
 us_battleship_north_dakota_1;North Dakota
-us_battleship_north_dakota_2;Delaware-Class
+us_battleship_north_dakota_2;BB 28 Class
 
 // Wyoming //
-us_battleship_wyoming_class_shop;Wyoming (BB-32)
-us_battleship_wyoming_class_0;Wyoming-Class Battleship, USS Wyoming (BB-32) (1927)
+us_battleship_wyoming_class_shop;Wyoming (BB 32)
+us_battleship_wyoming_class_0;BB 32 Class Battleship, USS Wyoming (BB 32) (1927)
 us_battleship_wyoming_class_1;Wyoming
-us_battleship_wyoming_class_2;Wyoming-Class
-us_battleship_arkansas_shop;Arkansas (BB-33)
-us_battleship_arkansas_0;Wyoming-Class Battleship, USS Arkansas (BB-33) (1942)
+us_battleship_wyoming_class_2;BB 32 Class
+us_battleship_arkansas_shop;Arkansas (BB 33)
+us_battleship_arkansas_0;BB 32 Class Battleship, USS Arkansas (BB 33) (1942)
 us_battleship_arkansas_1;Arkansas
-us_battleship_arkansas_2;Wyoming-Class
+us_battleship_arkansas_2;BB 32 Class
+
+// New York //
+us_battleship_texas_shop;Texas (BB 35)
+us_battleship_texas_0;BB 34 Class Battleship, USS Texas (BB 35) (1945)
+us_battleship_texas_1;Texas
+us_battleship_texas_2;BB 34 Class
 
 // Nevada //
-us_battleship_texas_shop;Texas (BB-35)
-us_battleship_texas_0;New York-Class Battleship, USS Texas (BB-35) (1945)
-us_battleship_texas_1;Texas
-us_battleship_texas_2;New York-Class
-us_battleship_nevada_shop;Nevada (BB-36)
-us_battleship_nevada_0;Nevada-Class Battleship, USS Nevada (BB-36) (1944)
+us_battleship_nevada_shop;Nevada (BB 36)
+us_battleship_nevada_0;BB 36 Class Battleship, USS Nevada (BB 36) (1944)
 us_battleship_nevada_1;Nevada
-us_battleship_nevada_2;Nevada-Class
+us_battleship_nevada_2;BB 36 Class
 
 // Pennsylvania //
-us_battleship_arizona_1931_shop;Pennsylvania (BB-39)
-us_battleship_arizona_1931_0;Pennsylvania-Class Battleship, USS Arizona (BB-39) (1938)
+us_battleship_arizona_1931_shop;Pennsylvania (BB 39)
+us_battleship_arizona_1931_0;BB 39 Class Battleship, USS Arizona (BB 39) (1938)
 us_battleship_arizona_1931_1;Pennsylvania
-us_battleship_arizona_1931_2;Pennsylvania-Class
+us_battleship_arizona_1931_2;BB 39 Class
 
 // New Mexico //
-us_battleship_mississippi_shop;Mississippi (BB-41)
-us_battleship_mississippi_0;New Mexico-Class Battleship, USS Mississippi (BB-41) (1945)
+us_battleship_mississippi_shop;Mississippi (BB 41)
+us_battleship_mississippi_0;BB 40 Class Battleship, USS Mississippi (BB 41) (1945)
 us_battleship_mississippi_1;Mississippi
-us_battleship_mississippi_2;New Mexico-Class
+us_battleship_mississippi_2;BB 40 Class
 
 // Tennessee //
-us_battleship_tennessee_shop;Tennessee (BB-43)
-us_battleship_tennessee_0;Tennessee-Class Battleship, USS Tennessee (BB-43) (1943)
+us_battleship_tennessee_shop;Tennessee (BB 43)
+us_battleship_tennessee_0;BB 43 Class Battleship, USS Tennessee (BB 43) (1943)
 us_battleship_tennessee_1;Tennessee
-us_battleship_tennessee_2;Tennessee-Class
+us_battleship_tennessee_2;BB 43 Class
 
 // Colorado //
-us_battleship_colorado_class_colorado_shop;Colorado (BB-45)
-us_battleship_colorado_class_colorado_0;Colorado-Class Battleship, USS Colorado (BB-45) (1942)
+us_battleship_colorado_class_colorado_shop;Colorado (BB 45)
+us_battleship_colorado_class_colorado_0;BB 45 Class Battleship, USS Colorado (BB 45) (1942)
 us_battleship_colorado_class_colorado_1;Colorado
-us_battleship_colorado_class_colorado_2;Colorado-Class
-us_battleship_colorado_class_maryland_shop;Maryland (BB-46)
-us_battleship_colorado_class_maryland_0;Colorado-Class Battleship, USS Maryland (BB-46) (1945)
+us_battleship_colorado_class_colorado_2;BB 45 Class
+us_battleship_colorado_class_maryland_shop;Maryland (BB 46)
+us_battleship_colorado_class_maryland_0;BB 45 Class Battleship, USS Maryland (BB 46) (1945)
 us_battleship_colorado_class_maryland_1;Maryland
-us_battleship_colorado_class_maryland_2;Colorado-Class
+us_battleship_colorado_class_maryland_2;BB 45 Class
 
 // Iowa //
-us_battleship_iowa_class_iowa_shop;Iowa (BB-61)
-us_battleship_iowa_class_iowa_0;Iowa-Class Battleship, USS Iowa (BB-61) (1945)
+us_battleship_iowa_class_iowa_shop;Iowa (BB 61)
+us_battleship_iowa_class_iowa_0;BB 61 Class Battleship, USS Iowa (BB 61) (1945)
 us_battleship_iowa_class_iowa_1;Iowa
-us_battleship_iowa_class_iowa_2;Iowa-Class
+us_battleship_iowa_class_iowa_2;BB 61 Class
 
 // Carriers (CV) //
 // Lexington //
-us_aircraftcarrier_lexington_shop;Lexington (CV-2)
-us_aircraftcarrier_lexington_0;Lexington-Class Aircraft Carrier, USS Lexington (CV-2) (1935)
+us_aircraftcarrier_lexington_shop;Lexington (CV 2)
+us_aircraftcarrier_lexington_0;CV 2 Class Aircraft Carrier, USS Lexington (CV 2) (1935)
 us_aircraftcarrier_lexington_1;Lexington
-us_aircraftcarrier_lexington_2;Lexington-Class
-us_aircraftcarrier_saratoga_shop;Saratoga (CV-3)
-us_aircraftcarrier_saratoga_0;Lexington-Class Aircraft Carrier, USS Saratoga (CV-3) (1944)
+us_aircraftcarrier_lexington_2;CV 2 Class
+us_aircraftcarrier_saratoga_shop;Saratoga (CV 3)
+us_aircraftcarrier_saratoga_0;CV 2 Class Aircraft Carrier, USS Saratoga (CV 3) (1944)
 us_aircraftcarrier_saratoga_1;Saratoga
-us_aircraftcarrier_saratoga_2;Lexington-Class
+us_aircraftcarrier_saratoga_2;CV 2 Class
 
 // Yorktown //
-us_aircraftcarrier_enterprise_shop;Enterprise (CV-6)
-us_aircraftcarrier_enterprise_0;Yorktown-Class Aircraft Carrier, USS Enterprise (CV-6) (1942)
+us_aircraftcarrier_enterprise_shop;Enterprise (CV 6)
+us_aircraftcarrier_enterprise_0;CV 5 Class Aircraft Carrier, USS Enterprise (CV 6) (1942)
 us_aircraftcarrier_enterprise_1;Enterprise
-us_aircraftcarrier_enterprise_2;Yorktown-Class
+us_aircraftcarrier_enterprise_2;CV 5 Class
 
 // Forrestal //
-us_aircraftcarrier_forrestal_shop;Forrestal (CVA-59)
-us_aircraftcarrier_forrestal_0;Forrestal-Class Aircraft Carrier, USS Forrestal (CVA-59) (1975)
+us_aircraftcarrier_forrestal_shop;Forrestal (CVA 59)
+us_aircraftcarrier_forrestal_0;CVA 59 Class Aircraft Carrier, USS Forrestal (CVA 59) (1975)
 us_aircraftcarrier_forrestal_1;Forrestal
-us_aircraftcarrier_forrestal_2;Forrestal-Class
+us_aircraftcarrier_forrestal_2;CVA 59 Class
 
 // Other //
 us_cargo_ship_liberty_shop;John W. Brown

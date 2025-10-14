@@ -1,492 +1,99 @@
 <ID|readonly|noverify>;<NewLanguage>
 
-aps/arena_m;Арена-М
-aps/amap_ads;AMAP-ADS
-aps/gl_6;GL6;
-aps/drozd;Дрозд;
-aps/iron_fist;Iron Fist;
-aps/trophy_hv;TROPHY®;
-aps/muss;MUSS;
-aps/raam_segol;לוגס םער;
-
-counterMeasures/an_alq_144;Infrared Countermeasures System, AN/ALQ-144
-sensors/an_aps_54;Tail Warning Radar System, AN/APS-54
-counterMeasures/an_vlq_8;Infrared Countermeasures System, AN/VLQ-6
-sensors/bl_carapace;Carapace;
-sensors/cn_antelope_ads_track;Tracking Radar
-sensors/cn_clc_1_search;CLC1低空监视雷达;
-sensors/cn_helicopter_z_late_rwr;Unknown
-sensors/cn_helicopter_z_lws;LWS;
-sensors/cn_helicopter_z_mlws;MLWS;
-sensors/cn_helicopter_z_rwr;RWR;
-sensors/cn_hq_17_search;Search Radar
-sensors/cn_hq_17_track;Tracking Radar
-sensors/cn_jl_10a;JL-10A雷达;
-sensors/cn_jl_7a;JL-7A雷达;
-sensors/cn_kj8602a;KJ8602A雷达告警接收器;
-sensors/cn_kj_8602;KJ8602雷达告警接收器;
-sensors/cn_klj_7;KLJ-7A雷达;
-sensors/cn_pgz_09_search;Search Radar;
-sensors/cn_pgz_09_track;Tracking Radar;
-sensors/cn_pgz_625_search;Search Radar;
-sensors/cn_pgz_625_track;Tracking Radar;
-sensors/cn_rn_01_ii;Search Radar;
-sensors/cn_rw_30;RW-30 Radar Warning Receiver;
-sensors/cn_s740;S740导弹预警系统;
-sensors/cn_se_2_mlws;SE-2机载导弹逼近告警设备;
-sensors/cn_type_1473;1473型(K/LKK73)雷达;
-sensors/cn_type_1492;1492型(K/LKK92)雷达;
-sensors/cn_type_1493_pd;1493型(K/LKK93)雷达;
-sensors/cn_type_208a;208A型(SL-5A)雷达;
-sensors/cn_type_280;208型(SL-5)雷达;
-sensors/cn_type_930_4;930-4型雷达告警接收器
-sensors/cn_type_930;930型雷达告警接收器
-counterMeasures/cn_z_10me;DIRCM;
-sensors/cn_z10_fcr;Search Radar;
-sensors/de_flarakrad_fr;Tracking Radar;
-sensors/de_fug_200;Fu.G. 200;
-sensors/de_fug_202;Fu.G. 202;
-sensors/de_fug_220;Fu.G. 220;
-sensors/de_fumo_21;Fu.M.O. 21;
-sensors/de_fumo_22;Fu.M.O. 22;
-sensors/de_fumo_24_25;Fu.M.O. 24 / Fu.M.O. 25;
-sensors/de_fumo_26;Fu.M.O. 26;
-sensors/de_fumo_27;Fu.M.O. 27;
-sensors/de_fumo_33;Fu.M.O. 33;
-sensors/de_fumo_61;Fu.M.O. 61;
-sensors/de_fumo_63;Fu.M.O. 63;
-sensors/de_gepard_fr;Tracking Radar;
-sensors/de_gepard_sr;Search Radar;
-sensors/de_hensoldt_trml_4b;TRML 4B;
-sensors/de_roland_fr;Tracking Radar;
-sensors/de_roland_sr;Search Radar;
-sensors/de_sgr_103_02;SGR 103/02;
-sensors/de_sgr_108;SGR 108;
-sensors/de_wm_27_search;WM 27;
-sensors/de_wm_27_track;WM 27;
-counterMeasures/eirel;EIREL
-sensors/fr_aida_2;Aïda II;
-sensors/fr_anemone;Anemone;
-sensors/fr_antilope_5_hmd;Antilope 5
-sensors/fr_antilope_5;Antilope 5
-sensors/fr_arabel;Arabel
-sensors/fr_crotale_search;Search Radar;
-sensors/fr_crotale_track;Tracking Radar;
-sensors/fr_cyrano_ii;Cyrano II;
-sensors/fr_cyrano_iv;Cyrano IV;
-sensors/fr_cyrano_ivmr;Cyrano IV-MR;
-sensors/fr_cyrano;Cyrano I;
-sensors/fr_ddm2000;Détecteur de Départ Missile;
-sensors/fr_dr_vc_1a;DRVC 1A;
-sensors/fr_draa_3d;DRAA 3D;
-sensors/fr_drac_25;DRAC 25;
-sensors/fr_drac_32a;DRAC 32A;
-sensors/fr_drbv11;DRBV 11;
-sensors/fr_drbv20a;DRBV 20A;
-sensors/fr_leclerc_auto_target_tracker;TV Tracker;
-sensors/fr_me140_mr126;ME 140 / MR 126;
-sensors/fr_mirage_3e_detecteur;Détecteur
-sensors/fr_ralm01;RALM-01;
-sensors/fr_rodeo_2;Rodeo 2;
-sensors/fr_serval_rwr;SERVAL;
-sensors/fr_sherloc;SHERLOC;
-sensors/fr_spectra_lws;SPECTRA
-sensors/fr_spectra_mlws;SPECTRA
-sensors/fr_spectra_rwr;SPECTRA
-sensors/fr_taran_18;TARAN 18
-sensors/fr_thales_rbe2;RBE2
-sensors/fr_thales_rdy;RDY;
-sensors/fr_thomson-csf_rdi;RDI;
-sensors/fr_thomson-csf_rdm;RDM;
-sensors/il_el_m_2001b;EL/M-2001B;
-sensors/il_el_m_2032;EL/M-2032
-sensors/il_el_m_2052;EL/M-2052;
-sensors/il_elisra_sps_200;SPS-200;
-sensors/il_elisra_sps_3000;SPS-3000
-sensors/il_machbet_optics;TV Tracker/FLIR;
-sensors/il_paws_2;PAWS-2
-sensors/il_sps_20v;SPS-20V;
-sensors/il_spyder_search;Extended Multi-Mission Hemispheric Radar;
-sensors/ir_tracker_360;TV Tracker;
-sensors/ir_tracker_tgp;TV Tracker;
-sensors/ir_tracker;TV Tracker;
-sensors/it_3st_7_250;3ST7-250;
-sensors/it_ec3_ter_gufo_radar;EC-3 ter Gufo;
-sensors/it_elt_156;ELT/156;
-sensors/it_mln_1a;MLN-1A;
-sensors/it_ralm-101;RALM-101;
-sensors/it_rtn_10x;RTN-10X;
-sensors/it_rtn_150;RTN-150;
-sensors/it_sma_vps-a05;VPS-A05;
-sensors/it_sma_vps-a06;VPS-A06;
-sensors/it_spg-70;SPG-70;
-sensors/it_spq_701;SPQ-701;
-sensors/it_tv_tracker_3jb10;3JB10;
-counterMeasures/jd_3_left;JD-3
-counterMeasures/jd_3_right;JD-3
-sensors/jp_an_apg_66j;Radar Set, AN/APG-66J
-sensors/jp_awg_11;Radar Set, AN/AWG-11;
-sensors/jp_awg_12;Radar Set, AN/AWG-12;
-sensors/jp_j_apg_1;レーダーセットJ/APG-1;
-sensors/jp_j_apg_2;レーダーセットJ/APG-2;
-sensors/jp_j_apr_1;レーダー警戒装置J/APR-1;
-sensors/jp_j_apr_2;レーダー警戒装置J/APR-2;
-sensors/jp_j_apr_3;レーダー警戒装置J/APR-3;
-sensors/jp_j_apr_4;レーダー警戒装置J/APR-4;
-sensors/jp_j_apr_6;レーダー警戒装置J/APR-6;
-sensors/jp_j_asq_2;用統合電子戦装置J/ASQ-2;
-sensors/jp_ops_1_radar;OPS-1;
-sensors/jp_ops_14_radar;OPS-14;
-sensors/jp_ops_16_radar;OPS-16;
-sensors/jp_ops_2_radar;OPS-2;
-sensors/jp_type_13;三式一号電波探信儀三型 (13号電探);
-sensors/jp_type_21;二式二号電波探信儀一型 (21号電探);
-sensors/jp_type_22;仮称二号電波探信儀二型 (22号電探)
-sensors/jp_type_81_search;Search Radar;
-sensors/jp_type_87_track;Tracking Radar;
-counterMeasures/l_166;СОЭП Л-166 «Липа»
-counterMeasures/l_166_c1;СОЭП Л-166 «Липа»
-counterMeasures/l_370;БКО Л-370-5 «Витебск»
-counterMeasures/l_370v28_5l;БКО Л-370В28-5Л
-sensors/laserbeamridingsensor;LWS;
-sensors/laserdesignatorsensor;LWS;
-sensors/laserwarningsensor;LWS;
-counterMeasures/lsz_8vn;КО ЛСЗ-8ВН;
-counterMeasures/muss;MUSS;
-sensors/naval_nav_radar;Navigation Radar;
-sensors/naval_search_radar;Search Radar;
-sensors/rooikat_aa_eot_track;TV Tracker;
-sensors/sa_d_36;D-36;
-sensors/sam_tv_ir_track_rc;TV Tracker/IRST;
-sensors/sam_tv_ir_track;TV Tracker/IRST;
-sensors/ship_optical_sight;Optical Sight;
-sensors/slaved_radar_fsm;
-sensors/su_1rl144_search;РЛС 1РЛ144М1;
-sensors/su_1rl144_track;РЛС 1РЛ144М1;
-sensors/su_1rl33;РЛС 1РЛ133;
-sensors/su_1rl33rt;РЛС 1РЛ33;
-sensors/su_1rl34;РЛС 1РЛ34;
-sensors/su_1rs1;РЛС 1РС1;
-sensors/su_1rs2;РЛС 1РС2;
-sensors/su_4r_90_yatagan;РЛС 4Р90 «Ятаган»;
-sensors/su_9k_330_search;Search Radar;
-sensors/su_9k_330_track;Tracking Radar;
-sensors/su_9k_33m3_search;Search Radar;
-sensors/su_9k_33m3_track;Tracking Radar;
-sensors/su_9s18m3;Search Radar;
-sensors/su_9s86;АОЗ 9С86;
-sensors/su_bmp_auto_target_tracker;TV Tracker;
-sensors/su_cd-30;РЛС ЦД-30;
-sensors/su_foot_b;РЛС «Фут-Б»;
-sensors/su_foot_n_search;РЛС «Фут-Н»;
-sensors/su_foot_n;РЛС «Фут-Н»;
-sensors/su_gneys_5s;РЛС «Гнейс-5С»
-sensors/su_guys_1b;РЛС «Гюйс-1Б»;
-sensors/su_guys_1m;РЛС «Гюйс-1М»;
-sensors/su_guys_2;РЛС «Гюйс-2»;
-sensors/su_khrizantema;РЛС 1Л32-1;
-sensors/su_kopio_25;РЛС «Копьё-25»;
-sensors/su_kopio;РЛС «Копьё»;
-sensors/su_l_370_2;БКО Л-370-2 «Витебск»;
-sensors/su_l-082;Теплопеленгатор Л-082 «Мак-УЛ»;
-sensors/su_l-140;СПЛО Л-140 «Отклик»;
-sensors/su_mr_102_baklan;РЛС МР-102 «Баклан»;
-sensors/su_mr_103_bars;РЛС МР-103 «Барс»;
-sensors/su_mr_104_rys;РЛС МР-104 «Рысь»;
-sensors/su_mr_105;МР-105 «Турель»;
-sensors/su_mr_123_176;РЛС МР-123/176 «Вымпел-А»;
-sensors/su_mr_220_reyd;РЛС МР-220 «Рейд»;
-sensors/su_mr_302_rubka;РЛС МР-302 «Рубка»;
-sensors/su_mr_352_pozitiv;РЛС МР-352 «Позитив»;
-sensors/su_mr_510_kil_u;РЛС МР-510 «Киль-У»;
-sensors/su_n_001;РЛС Н001 «Меч»;
-sensors/su_n_001;РЛС Н001К;
-sensors/su_n_001vep;РЛС Н001ВЭП;
-sensors/su_n_010;РЛС Н001 «Жук»;
-sensors/su_n_010m;РЛС Н001М «Жук-М»;
-sensors/su_n_011m;РЛС Н011М «Барс-29»
-sensors/su_n_019;РЛС Н019;
-sensors/su_n_019eРЛС Н019Э;
-sensors/su_n_025;РЛС Н025;
-sensors/su_orion;РЛС «Орион-А»
-sensors/su_p_10_volga_a;РЛС П-10 «Волга-А»;
-sensors/su_p_12ma;РЛС П-12МА
-sensors/su_redan_2;РЛС «Редан-2»;
-sensors/su_redan;РЛС «Редан-1»;
-sensors/su_rif;РЛС «Риф»;
-sensors/su_rn_01_arbalet;РЛС РН01 «Арбалет»;
-sensors/su_rp-1_search;РЛС РП-1 «Изумруд»;
-sensors/su_rp-1_track;РЛС РП-1 «Изумруд»;
-sensors/su_rp-5_search;РЛС РП-5 «Изумруд»;
-sensors/su_rp-5_track;РЛС РП-5 «Изумруд»;
-sensors/su_sapphire_21;РЛС РП-21 «Сапфир-21»;
-sensors/su_sapphire_23;РЛС РП-23 «Сапфир-23»;
-sensors/su_sapphire_23e;РЛС РП-23Э «Сапфир-23Э»;
-sensors/su_sapphire_23ml;РЛС РП-23МЛ «Сапфир-23МЛ»;
-sensors/su_sapphire_23mla;РЛС РП-23МЛА «Сапфир-2ЗМЛА»;
-sensors/su_sapphire_23mla_2;РЛС РП-23МЛА-2 «Сапфир-2ЗМЛА-2»;
-sensors/su_satellite_m2;АРТЗ «Сателлит-М2»;
-sensors/su_snr_75;РЛС СНР-75
-sensors/su_spo-10;СПО-10 «Сирена-3»;
-sensors/su_spo-15;СПО-15 «Берёза»;
-sensors/su_spo-150-16m;СПО-150-16М;
-sensors/su_spo-150-28m;СПО-150-28М
-sensors/su_spo-150-30m1;СПО-150-30М1
-sensors/su_spo-150;СПО-150;
-sensors/su_spo-150-30sm;СПО-150-30СМ;
-sensors/su_spo-15l;СПО-15Л «Берёза-Л»;
-sensors/su_spo-15le;СПО-15ЛЭ «Берёза-ЛЭ»;
-sensors/su_spo-15lm;СПО-15ЛМ «Берёза-ЛМ»;
-sensors/su_spo-15s;СПО-15С «Берёза-С»;
-sensors/su_spo-2;СПО-2;
-sensors/su_srd-1;СРД-1;
-sensors/su_srd-5;СРД-5;
-sensors/su_tarang;РЛС «Копьё»;
-sensors/su_thorium;РЛС «Торий-А»;
-sensors/su_tshu_1_11;ТШУ-1-11;
-sensors/su_v_004;В004
-sensors/su_viking;РС 9С35М3
-sensors/su_vn_001;ВН001
-sensors/su_vympel_2;РЛС «Вымпел-2»;
-sensors/su_yakor_m;РЛС «Якорь-М»;
-sensors/sw_app_f9_5;App F9/5;
-sensors/sw_asrad_search;Search Radar;
-sensors/sw_giraffe_1x;Giraffe 1X;
-sensors/sw_giraffe_amb;Giraffe AMB
-sensors/sw_ps_05a;PS-05A;
-sensors/sw_ps-011a_71h_ir;PS-01/011 (71H);
-sensors/sw_ps-03;PS-03;
-sensors/sw_ps-371a;PS-371A;
-sensors/sw_ps-37a;PS-37A;
-sensors/sw_ps-42_search;PS-42;
-sensors/sw_ps-42_track;PS-42;
-sensors/sw_ps-46a;PS-46A;
-sensors/sw_triad_search;PS-95;
-sensors/sw_utaas_track;UTAAS;
-sensors/swd_app_27;App 27;
-sensors/swd_app_73;App 73;
-sensors/swd_ar830;AR 830;
-sensors/swd_bow_21;BOW-21
-counterMeasures/tshu_1;ТШУ-1-7
-counterMeasures/tshu_1_left;ТШУ-1-7
-counterMeasures/tshu_1_right;ТШУ-1-7
-sensors/tv_tracker_tgp_mercury;«Меркурий»;
-sensors/tv_tracker_tgp_platan;«Платан»;
-sensors/tv_tracker_tgp;TV Tracker;
-sensors/tv_tracker;TV Tracker;
-sensors/uk_ai_mk_4;AI Mk. 4;
-sensors/uk_ai_mk18;AI Mk. 18;
-sensors/uk_ai;AI Mk. 23;
-sensors/uk_ari_18223;ARI 18223;
-sensors/uk_ari_18228_10;ARI 18228/10;
-sensors/uk_ari_18228_19;ARI 18228/19;
-sensors/uk_ari_18228;ARI 18228;
-sensors/uk_ari_18241_1;ARI 18241/1;
-sensors/uk_ari_23274_ids;ARI 23274;
-sensors/uk_ari_23274;ARI 23274;
-sensors/uk_ari_23284;ARI 23284;
-sensors/uk_ari_23333;ARI 23333;
-sensors/uk_ari_5390;ARI 5390;
-sensors/uk_ari_5820;ARI 5820;
-sensors/uk_ari_5857;ARI 5857;
-sensors/uk_captor_m;CAPTOR-M
-sensors/uk_captor_m_pirate;CAPTOR-M / PIRATE
-sensors/uk_ferranti_blue_fox;Blue Fox;
-sensors/uk_ferranti_blue_vixen;Blue Vixen;
-sensors/uk_lws_type6;Type 6;
-sensors/uk_marconi_ai_mk24_stage_2g;AI Mk. 24 Foxhunter Stage 2G;
-sensors/uk_marconi_ai_mk24_stage_3g;AI Mk. 24 Foxhunter Stage 3G;
-sensors/uk_marconi_ai_mk24w;AI Mk. 24 Foxhunter;
-sensors/uk_marconi_ai_mk24z;AI Mk. 24 Foxhunter;
-sensors/uk_marconi_s_400;Series 400;
-sensors/uk_marconi_type_226;Type 226 Skyranger;
-sensors/uk_praetorian_lws;Praetorian DASS;
-sensors/uk_praetorian_mlws;Praetorian DASS;
-sensors/uk_praetorian_rwr;Praetorian DASS;
-sensors/uk_pvs2000_maw;PVS2000;
-sensors/uk_rapier_fr;Tracking Radar;
-sensors/uk_rapier_sr;Search Radar;
-sensors/uk_rooikat_za_35_search_radar;Search Radar;
-sensors/uk_sky_guardian_200;Sky Guardian 200;
-sensors/uk_thales_adad_search;ADAD;
-sensors/uk_thales_adad_track;ADAD;
-sensors/uk_type_1006;Type 1006;
-sensors/uk_type_2043_active_sonar;Type 2043;
-sensors/uk_type_2043_passive_sonar;Type 2043;
-sensors/uk_type_2082_active_intercept_sonar;Type 2082;
-sensors/uk_type_262;Type 262;
-sensors/uk_type_275;Type 275;
-sensors/uk_type_277;Type 277;
-sensors/uk_type_278;Type 278;
-sensors/uk_type_281;Type 281;
-sensors/uk_type_282;Type 282;
-sensors/uk_type_284b;Type 284B;
-sensors/uk_type_286;Type 286;
-sensors/uk_type_291;Type 291;
-sensors/uk_type_293;Type 293;
-sensors/uk_type_293q;Type 293Q;
-sensors/uk_type_79y;Type 79Y;
-sensors/uk_type_903;Type 903;
-sensors/uk_type_960;Type 960;
-sensors/uk_type_992q;Type 992Q;
-sensors/uk_vinten;D-36;
-sensors/us_2caws;2CAWS;
-sensors/us_adats_search;Search Radar;
-sensors/us_adats_track;Tracking Radar;
-sensors/us_alr_400;ALR-400;
-sensors/us_altas_2q;ALTAS-2Q;
-sensors/us_an_aar_32;Infrared Detecting Set, AN/AAR-32;
-sensors/us_an_aar_47;Missile Warning System, AN/AAR-47;
-sensors/us_an_aar_47a_v2;Missile Warning System, AN/AAR-47A(V)2;
-sensors/us_an_aar_47a_v2_lws;Missile Warning System, AN/AAR-47A(V)2;
-sensors/us_an_aar_54v;Passive Missile Approach Warning System, AN/AAR-54(V);
-sensors/us_an_aar_57;Common Missile Warning System, AN/AAR-57;
-sensors/us_an_aar_57_terma;Common Missile Warning System, AN/AAR-57;
-sensors/us_an_aar_60;Missile Launch Detection System, AN/AAR-60;
-sensors/us_an_alq_73;Electronic Countermeasure Set, AN/ALQ-73;
-sensors/us_an_alr_2002_mlws;Infrared Countermeasures Receiver, AN/AAR-34;
-sensors/us_an_alr_2002_rwr;ALR-2002 Radar Warning Receiver;
-sensors/us_an_alr_400;ALR-400 Radar Warning Receiver;
-sensors/us_an_alr_45;Radar Warning Receiver, AN/ALR-45;
-sensors/us_an_alr_45f_v;Radar Warning Receiver, AN/ALR-45F(V);
-sensors/us_an_alr_45v;Radar Warning Receiver, AN/ALR-45(V);
-sensors/us_an_alr_46;Radar Warning Receiver, AN/ALR-46;
-sensors/us_an_alr_46_v1;Radar Warning Receiver, AN/ALR-46(V)1;
-sensors/us_an_alr_46_v2;Radar Warning Receiver, AN/ALR-46(V)2;
-sensors/us_an_alr_46_v3;Radar Warning Receiver, AN/ALR-46(V)3;
-sensors/us_an_alr_46_v3_f_5th;Radar Warning Receiver, AN/ALR-46(V)3;
-sensors/us_an_alr_56a;Radar Warning Receiver, AN/ALR-56A;
-sensors/us_an_alr_56c;Radar Warning Receiver, AN/ALR-56C;
-sensors/us_an_alr_56m;Radar Warning Receiver, AN/ALR-56M;
-sensors/us_an_alr_66;Radar Warning Receiver, AN/ALR-66;
-sensors/us_an_alr_67;Radar Warning Receiver, AN/ALR-67;
-sensors/us_an_alr_67_v_3;Radar Warning Receiver, AN/ALR-67(V)(3);
-sensors/us_an_alr_68_v;Advanced Radar Warning System, AN/ALR-68(V);
-sensors/us_an_alr_68_v_3;Advanced Radar Warning System, AN/ALR-68(V)3;
-sensors/us_an_alr_69;Radar Warning Receiver, AN/ALR-69;
-sensors/us_an_alr_87;Radar Warning Receiver, AN/ALR-87
-sensors/us_an_apg_26;Radar Set, AN/APG-26;
-sensors/us_an_apg_30;Radar Set, AN/APG-30;
-sensors/us_an_apg_30a;Radar Set, AN/APG-30A;
-sensors/us_an_apg_33;Radar Set, AN/APG-33;
-sensors/us_an_apg_501;ARO Radar System, AN/APG-501;
-sensors/us_an_apg_59_f_4j;Radar Set, AN/APG-59;
-sensors/us_an_apg_59;Radar Set, AN/APG-59;
-sensors/us_an_apg_59u;Radar Set, AN/APG-59U;
-sensors/us_an_apg_60;Radar Set, AN/APG-60;
-sensors/us_an_apg_61;Radar Set, AN/APG-61
-sensors/us_an_apg_63_baz;Radar Set, AN/APG-63(V)1;
-sensors/us_an_apg_63_psp;Radar Set, AN/APG-63 (PSP);
-sensors/us_an_apg_63_v_1;Radar Set, AN/APG-63(V)1;
-sensors/us_an_apg_63;Radar Set, AN/APG-63;
-sensors/us_an_apg_65;Radar Set, AN/APG-65;
-sensors/us_an_apg_65gy;Radar Set, AN/APG-65(GY);
-sensors/us_an_apg_65q;Radar Set, AN/APG-65Q;
-sensors/us_an_apg_66_m_247;Search Radar;
-sensors/us_an_apg_66_v_1;Radar Set, AN/APG-66(V)1;
-sensors/us_an_apg_66_v_3;Radar Set, AN/APG-66(V)3;
-sensors/us_an_apg_66;Radar Set, AN/APG-66;
-sensors/us_an_apg_66s;Radar Set, AN/APG-66S;
-sensors/us_an_apg_67;Radar Set, AN/APG-67;
-sensors/us_an_apg_68_v_5;Radar Set, AN/APG-68(V)5;
-sensors/us_an_apg_68_v_7;Radar Set, AN/APG-68(V)7;
-sensors/us_an_apg_68_v_9;Radar Set, AN/APG-68(V)9;
-sensors/us_an_apg_69;Radar Set, AN/APG-69
-sensors/us_an_apg_70;Radar Set, AN/APG-70
-sensors/us_an_apg_70i;Radar Set, AN/APG-70
-sensors/us_an_apg_73;Radar Set, AN/APG-73
-sensors/us_an_apg_73_hms;Radar Set, AN/APG-73
-sensors/us_an_apg_76_an_asx_1;Radar Set, AN/APG-76;
-sensors/us_an_apg_78;Radar Set, AN/APG-78;
-sensors/us_an_apg_78_v6;Radar Set, AN/APG-78(V)6;
-sensors/us_an_apq_100;Radar Set, AN/APQ-100;
-sensors/us_an_apq_100;Radar Set, AN/APQ-100;
-sensors/us_an_apq_104;Radar Set, AN/APQ-104;
-sensors/us_an_apq_113;Radar Set, AN/APQ-113;
-sensors/us_an_apq_120;Radar Set, AN/APQ-120;
-sensors/us_an_apq_159;Radar Set, AN/APQ-159;
-sensors/us_an_apq_159_hms;Radar Set, AN/APQ-159;
-sensors/us_an_apq_169;Radar Set, AN/APQ-169;
-sensors/us_an_apq_50;Radar Set, AN/APQ-50;
-sensors/us_an_apq_51;Radar Set, AN/APQ-51;
-sensors/us_an_apq_72;Radar Set, AN/APQ-72;
-sensors/us_an_apq_94;Radar Set, AN/APQ-94;
-sensors/us_an_apr_25;Radar Homing and Warning System, AN/APR-25;
-sensors/us_an_apr_27;Radar Homing and Warning System, AN/APR-27;
-sensors/us_an_apr_32;Radar Homing and Warning System, AN/APR-32;
-sensors/us_an_apr_36;Radar Homing and Warning System, AN/APR-36;
-sensors/us_an_apr_39;Radar Signal Detecting Set, AN/APR-39;
-sensors/us_an_apr_39_apr_48;Radar Signal Detecting Set, AN/APR-39 / Radar Frequency Interferometer, AN/APR-48;
-sensors/us_an_apr_39_v1;Radar Signal Detecting Set, AN/APR-39(V)1;
-sensors/us_an_apr_39_v2;Radar Signal Detecting Set, AN/APR-39(V)2;
-sensors/us_an_apr_39_v4_apr_48;Radar Signal Detecting Set, AN/APR-39(V)4 / Radar Frequency Interferometer, AN/APR-48;
-sensors/us_an_apr_39a_v1;Radar Signal Detecting Set, AN/APR-39(V)1;
-sensors/us_an_apr_39a_v1_apr_48;Radar Signal Detecting Set, AN/APR-39(V)1 / Radar Frequency Interferometer, AN/APR-48;
-sensors/us_an_apr_39a_v2;Radar Signal Detecting Set, AN/APR-39(V)2;
-sensors/us_an_apr_39b_v2;Radar Signal Detecting Set, AN/APR-39(V)2;
-sensors/us_an_aps_109;Radar Homing and Warning System, AN/APS-109;
-sensors/us_an_aps_19;Radar Set, AN/APS-19;
-sensors/us_an_aps_21;Radar Set, AN/APS-21;
-sensors/us_an_aps_31;Radar Set, AN/APS-31;
-sensors/us_an_aps_4;Radar Set, AN/APS-4;
-sensors/us_an_aps_54;Tail Warning Radar System, AN/APS-54;
-sensors/us_an_aps_54a;Tail Warning Radar System, AN/APS-54A;
-sensors/us_an_aps_6;Radar Set, AN/APS-6;
-sensors/us_an_aps_67;Radar Set, AN/APS-67;
-sensors/us_an_asg_14;Radar Set, AN/ASG-14;
-sensors/us_an_asg_19;Radar Set, AN/ASG-19;
-sensors/us_an_avr-2;Laser Warning System, AN/AVR-2;
-sensors/us_an_avs-2;Night Vision Imaging System, AN/AVS-2;
-sensors/us_an_awg_9_tiseo;Radar Set, AN/AWG-9;
-sensors/us_an_mpq_64;Radar Set, AN/MPQ-64;
-sensors/us_an_awg_9;Radar Set, AN/AWG-9;
-sensors/us_an_sc2_radar;Radar Set, SC-2;
-sensors/us_an_spg_34;Radar Set, AN/SPG-34;
-sensors/us_an_spg_48;Radar Set, AN/SPG-48;
-sensors/us_an_spg_50;Radar Set, AN/SPG-50;
-sensors/us_an_spg_51;Radar Set, AN/SPG-51;
-sensors/us_an_sps_10;Radar Set, AN/SPS-10;
-sensors/us_an_sps_12;Radar Set, AN/SPS-12;
-sensors/us_an_sps_37;Radar Set, AN/SPS-37;
-sensors/us_an_sps_39;Radar Set, AN/SPS-39;
-sensors/us_an_sps_4;Radar Set, AN/SPS-4;
-sensors/us_an_sps_40;Radar Set, AN/SPS-40;
-sensors/us_an_sps_6;Radar Set, AN/SPS-6;
-sensors/us_an_sps_72;Radar Set, AN/SPS-72;
-sensors/us_an_sps_8a;Radar Set, AN/SPS-8A;
-sensors/us_an_vps_2;Radar Set, AN/VPS-2;
-sensors/us_chaparral_track;IRST;
-sensors/us_comanche_fcr;Tracking Radar;
-counterMeasures/us_dircm;DIRCM;
-sensors/us_fc_radar;Fire-Control Radar;
-sensors/us_flir;FLIR;
-sensors/us_lav_ad_track;IRST;
-sensors/us_m_247_track;Radar Set, AN/APG-66;
-sensors/us_ma_1;MA-1;
-sensors/us_md_1a;MD-1A;
-sensors/us_mk_x;AI Mk. X;
-sensors/us_mk12_radar;Fire-Control Set, Mk 12;
-sensors/us_mk19_radar;Fire-Control Set, Mk 19;
-sensors/us_mk25_radar;Fire-Control Set, Mk 25;
-sensors/us_mk28_radar;Fire-Control Set, Mk 28;
-sensors/us_mk3_radar;Fire-Control Set, Mk 3;
-sensors/us_mk34_radar;Fire-Control Set, Mk 34;
-sensors/us_mk8_radar;Fire-Control Set, Mk 8;
-sensors/us_nasarr;F-15A NASARR;
-sensors/us_phalanx_search;Search Radar;
-sensors/us_phalanx_track;Tracking Radar;
-sensors/us_r21g_m1;R21G/M1;
-sensors/us_rascar_3400c;RASCAR 3400C;
-sensors/us_sa_radar;Radar Set, SA;
-sensors/us_sc_radar;Radar Set, SC;
-sensors/us_sg_radar;Radar Set, SG;
-sensors/us_sg6_radar;Radar Set, SG-6;
-sensors/us_sk;Radar Set, SK;
-sensors/us_sk2_radar;Radar Set, SK-2;
-sensors/us_sp_radar;Radar Set, SP;
-sensors/us_sp2_radar;Radar Set, SP-2;
-sensors/us_sr6_radar;Radar Set, SR-6;
-counterMeasures/varta_left;Варта
-counterMeasures/varta_right;Варта
-counterMeasures/varta;Варта
-counterMeasures/shtora1;ТШУ-1-11
+radar;Radar;
+radar_irst;Radar/IRST;
+irst;IRST;
+radar_tv;Radar/TV Tracker;
+tv;TV Tracker;
+radar_type;Type;
+search_radar;Search Radar;
+search_radar_irst;Search Radar/IRST;
+search_irst;Search IRST;
+search_radar_tv;Search Radar/TV;
+search_tv;Search TV;
+track_radar;Tracking Radar;
+track_radar_irst;Tracking Radar/IRST;
+track_irst;Tracking IRST;
+track_radar_tv;Tracking Radar/TV;
+track_tv;TV Tracker;
+radar_range_finder;Radar Rangefinder;
+radar_freq_band;Band;
+radar_freq_band_0;A;
+radar_freq_band_1;B;
+radar_freq_band_2;C;
+radar_freq_band_3;D;
+radar_freq_band_4;E;
+radar_freq_band_5;F;
+radar_freq_band_6;G;
+radar_freq_band_7;H;
+radar_freq_band_8;I;
+radar_freq_band_9;J;
+radar_freq_band_10;K;
+radar_freq_band_11;L;
+radar_freq_band_12;M;
+radar_range_max;Range;
+radar_search_zone_max;Search Zone;
+radar_air_search;Air Search
+radar_ld;Look-Down;
+radar_ld_head_on;Look-Down: Head On;
+radar_ld_head_on_velocity;Look-Down: Head On (Velocity);
+radar_ld_all_aspects;Look Down: All Aspect;
+radar_lu;Look-Up;
+radar_surface_search;Surface Search
+radar_gtm;GTM
+radar_sea;Sea
+radar_gmti;GMTI
+radar_tws;TWS;
+radar_tws_plus;TWS+
+radar_tws_esa;TWS ESA
+radar_ram;RAM;
+radar_iff;IFF;
+radar_bvr_mode;BVR;
+radar_acm_mode;ACM;
+radar_hms_mode;HMD;
+radar_nctr;NCTR, types
+radar_sarh;SARH;
+radar_mg;Missile Guidance;
+radar_dl_channels;Datalink Channels;
+rwr_threats_types;Threat Types;
+rwr_tracked_threats_max;Max Tracked Targets;
+rwr_tracking_detection;Tracking Detection;
+rwr_launch_detection;Launch Detection;
+rwr_tracking_threats_types;Tracking Threat Types;
+rwr_launching_threats_types;Launching Threat Types;
+rwr_scope_id_threats_types;Identified Threats on Scope;
+rwr_present_id_threats_types;Identified Threats;
+rwr_threats_unlimited;Unlimited;
+rwr_signal_strength;Signal Strength;
+rwr_iff;IFF;
+mlws_type;Type
+mlws_type_radar;Radar
+mlws_type_ir;Optic
+mlws_range_max;Range
+mlws_range_finder;Rangefinder
+avionics_sight_turret;Turret;
+avionics_sight_cannon;Cannons;
+avionics_sight_rocket;Rockets;
+avionics_sight_bomb;Bombs;
+avionics_sight_vision/tv;TV;
+avionics_sight_vision/lltv;LLTV;
+avionics_sight_vision/flir;FLIR;
+avionics_sensor_radar;Radar;
+avionics_sensor_irst;IRST;
+avionics_sensor_tv;TV;
+avionics_sensor_radar_irst;Radar/IRST;
+avionics_sensor_rwr;RWR;
+avionics_sensor_lws;LWS;
+avionics_sensor_mlws;MAW;
+avionics_aim_spi;SPI;
+avionics_hmd;HMD;
+avionics_aim_laser_designator;Laser Designator;
+avionics_countermeasure_ircm;IRCM;
+avionics_auto_cm;Auto CM
+avionics_auto_cm_by_rwr;RWR
+avionics_auto_cm_by_mlws;MAW
+avionics_auto_cm_sensors;Sensors
+avionics_auto_cm_programs;Programs
+CCIP;CCIP;
+sight_AUTO;EEGS;
+CCRP;CCRP;

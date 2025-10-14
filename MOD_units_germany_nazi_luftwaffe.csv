@@ -56,8 +56,8 @@ bf-109f-4_shop;Bf 109 F-4
 bf-109f-4_0;Bf 109 F-4
 bf-109f-4_1;Bf 109 F
 bf-109f-4_2;Bf 109109
-bf-109g-2_shop;Bf 109 G-2 (Trop)
-bf-109g-2_0;Bf 109 G-2 (Tropisch)
+bf-109g-2_shop;Bf 109 G-2 trop
+bf-109g-2_0;Bf 109 G-2 Tropenausrüstung
 bf-109g-2_1;Bf 109 G
 bf-109g-2_2;Bf 109
 bf-109g-6_shop;Bf 109 G-6
@@ -241,8 +241,8 @@ ju-87r-2_shop;Ju 87 R-2
 ju-87r-2_0;Ju 87 R-2
 ju-87r-2_1;Ju 87 R
 ju-87r-2_2;Ju 87
-bf-109f-4_trop_shop;Bf 109 F-4 (Trop)
-bf-109f-4_trop_0;Bf 109 F-4 (Tropisch)
+bf-109f-4_trop_shop;Bf 109 F-4 trop
+bf-109f-4_trop_0;Bf 109 F-4 Tropenausrüstung
 bf-109f-4_trop_1;Bf 109 F
 bf-109f-4_trop_2;Bf 109
 me-210_shop;Me 210
@@ -397,7 +397,7 @@ hs-129b-3_1;Hs 129 B
 hs-129b-3_2;Hs 129
 shop/group/bf-109e_group;Bf 109 E-3 / Bf 109 E-4
 shop/group/bf-109f_early_group;Bf 109 F-1 / Bf 109 F-2
-shop/group/bf-109f_group;Bf 109 F-4 / Bf 109 F-4 (Trop)
+shop/group/bf-109f_group;Bf 109 F-4 / Bf 109 F-4 trop
 shop/group/fw-190d_group;Fw 190 A-5/U12 / Fw 190 D-9
 shop/group/fw-190a-f_group;Fw 190 A-8 / Fw 190 F-8
 shop/group/me-410a_group;Me 410 A-1 / Me 410 B-1

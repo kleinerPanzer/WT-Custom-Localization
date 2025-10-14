@@ -29,7 +29,6 @@ sensors/cn_rn_01_ii;Search Radar;
 counterMeasures/cn_z_10me;DIRCM;
 sensors/cn_z10_fcr;Search Radar;
 
-
 // PLAGF Ground Systems //
 sensors/cn_clc_1_search;CLC1低空监视雷达;
 

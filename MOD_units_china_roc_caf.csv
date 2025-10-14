@@ -42,7 +42,7 @@ db_3a_china_2;ДБ-3
 
 // USA //
 shop/group/p_40_china_group;☀ P-40E / ☀ P-43A
-shop/group/p_47_china_group;☀ P-47D-23 / ☀ F-47D-28
+shop/group/p_47_china_group;☀ P-47D-23 / ☀ P-47D-28
 
 p-26a_35_shop;▆ 波音281
 p-26a_35_0;▆ 波音281戰鬥機
@@ -69,9 +69,13 @@ p-43a-1_china_1;☀ P-43A
 p-43a-1_china_2;P-43
 
 p-47d_23_ra_china_rocaf_shop;☀ P-47D-23
-p-47d_23_ra_china_rocaf_0;☀ P-47D-23 RA雷霆式戰鬥機
+p-47d_23_ra_china_rocaf_0;☀ P-47D-23 RA戰鬥機
 p-47d_23_ra_china_rocaf_1;☀ P-47D
 p-47d_23_ra_china_rocaf_2;P-47
+p-47d_30_china_shop;☀ P-47D-28
+p-47d_30_china_0;☀ P-47D-28 RA戰鬥機
+p-47d_30_china_1;☀ P-47D
+p-47d_30_china_2;P-47
 
 p-51c-11-nt_china_shop;☀ P-51C-11
 p-51c-11-nt_china_0;☀ P-51C-11 NT野馬式戰鬥機

@@ -1,107 +1,56 @@
 <ID|readonly|noverify>;<NewLanguage>
 
-weapons/cannonType_23L;23毫米3L型航空机关炮
-weapons/cannonType_23_1;23毫米1型航空机关炮
 weapons/cannonType_23_1_plane;23毫米1型航空机关炮
 weapons/cannonType_23_1_plane_turret;23毫米1型航空机关炮;
+weapons/cannon_type23_2k;23毫米2K型航空机关炮;
+weapons/cannonType_23_1;23毫米2K型航空机关炮
+weapons/cannonType_23_3;23毫米3型航空机关炮
+weapons/cannonType_23L;23毫米3L型航空机关炮
+weapons/cannonType30_1;30毫米1型航空机关炮
+weapons/cannonType30_1/short;30-1型
+weapons/cannonType_30_4;30-4型航空机炮
+weapons/cannonType_30_4/short;30-4型
 weapons/cannonType37_1;37-1型航空机炮;
-weapons/su_ofab250_olive;250公斤2型航空爆破炸弹;
-weapons/su_ofab250_olive/short;250-2型
-weapons/cn_ls_500j;LT-2激光制导炸弹;
-weapons/cn_ls_500j/short;LT-2;
-weapons/cn_ls_1000j;GB1000激光制导炸弹;
-weapons/cn_ls_1000j/short;GB1000;
-weapons/cn_ts_250;GB250激光制导炸弹;
-weapons/cn_ts_250/short;GB250;
-weapons/cn_ls_6_250;LS-6 250 kg Guided Glide Bomb;
-weapons/cn_ls_6_250/short;LS-6/250;
-weapons/cn_ls_6_500;LS-6 500 kg Guided Glide Bomb;
-weapons/cn_ls_6_500/short;LS-6/500;
-weapons/cn_fs_70;Fire Snake 70 Aerial Rocket;
-weapons/cn_fs_70/short;FS70;
+
 weapons/cn_type90_he;90毫米1型航空火箭杀伤爆破弹;
 weapons/cn_type90_he/short;90-1型 (杀伤);
 weapons/cn_type90_heat;90毫米1型航空火箭破甲弹;
 weapons/cn_type90_heat/short;90-1型 (破甲);
 weapons/cn_type130_ap;130毫米2型航空火箭杀伤爆破弹;
 weapons/cn_type130_ap/short;130-2型;
-weapons/cn_k_pzs_01_targeting_pod;K/PZS-01瞄准吊舱;
-weapons/cn_k_pzs_01_targeting_pod/short;K/PZS-01;
-weapons/cn_k_adc03a_targeting_pod;K/JDC03A瞄准吊舱;
-weapons/cn_k_adc03a_targeting_pod/short;K/JDC03A;
-weapons/cn_800l_fyx800_drop_tank_1;FYX-800标准副油箱;
-weapons/cn_800l_fyx800_drop_tank_1/short;FYX-800;
-weapons/cn_800l_central_fyx800_drop_tank;FYX-800标准副油箱;
-weapons/cn_800l_central_fyx800_drop_tank/short;FYX-800;
-weapons/cn_800l_fyx800_drop_tank_2;FYX-800标准副油箱;
-weapons/cn_800l_fyx800_drop_tank_2/short;FYX-800;
-weapons/cn_800l_fyx800_j_10_drop_tank_1;FYX-800标准副油箱;
-weapons/cn_800l_fyx800_j_10_drop_tank_1/short;FYX-800;
-weapons/cn_800l_fyx800_j_10_drop_tank_2;FYX-800标准副油箱;
-weapons/cn_800l_fyx800_j_10_drop_tank_2/short;FYX-800;
-weapons/cn_720l_drop_tank;720升亚音速副油箱;
-weapons/cn_720l_drop_tank/short;副油箱;
-weapons/cn_1140l_drop_tank_1;1140升副油箱;
-weapons/cn_1140l_drop_tank_1/short;副油箱;
-weapons/cn_1140l_drop_tank_2;1140升副油箱;
-weapons/cn_1140l_drop_tank_2/short;副油箱;
-weapons/cn_1400l_fyx1400_drop_tank_1;FYX-1400标准副油箱;
-weapons/cn_1400l_fyx1400_drop_tank_1/short;FYX-1400;
-weapons/cn_1400l_fyx1400_drop_tank_2;FYX-1400标准副油箱;
-weapons/cn_1400l_fyx1400_drop_tank_2/short;FYX-1400;
-weapons/cn_1400l_fyx1400_drop_tank_3;FYX-1400标准副油箱;
-weapons/cn_1400l_fyx1400_drop_tank_3/short;FYX-1400;
-weapons/cn_1400l_fyx1400_j_8_fuse_drop_tank;FYX-1400标准副油箱;
-weapons/cn_1400l_fyx1400_j_8_fuse_drop_tank/short;FYX-1400;
-weapons/cn_1600l_drop_tank;FYX-1600标准副油箱;
-weapons/cn_1600l_drop_tank/short;FYX-1600;
-weapons/cn_1600l_drop_tank_1;FYX-1600标准副油箱;
-weapons/cn_1600l_drop_tank_1/short;FYX-1600;
-weapons/cn_1600l_drop_tank_2;FYX-1600标准副油箱;
-weapons/cn_1600l_drop_tank_2/short;FYX-1600;
-weapons/cn_800l_rx3_drop_tank;FYX-800标准副油箱;
-weapons/cn_800l_rx3_drop_tank/short;FYX-800;
-weapons/cn_1100l_rx3_drop_tank_1;FYX-1100标准副油箱;
-weapons/cn_1100l_rx3_drop_tank_1/short;FYX-1100;
-weapons/cn_1100l_rx3_drop_tank_2;FYX-1100标准副油箱;
-weapons/cn_1100l_rx3_drop_tank_2/short;FYX-1100;
-weapons/cn_gp_250_3/short;250-3型;
-weapons/cn_gp_250_3;250公斤3型航空爆破炸弹;
-weapons/cn_gp_250_3_default/short;250-3型;
-weapons/cn_gp_250_3_default;250公斤3型航空爆破炸弹;
-weapons/cn_gp_500_3/short;500-3型;
-weapons/cn_gp_500_3;500公斤3型航空爆破炸弹;
-weapons/cn_gp_250_4/short;250-4型;
-weapons/cn_gp_250_4;250公斤4型航空爆破炸弹;
-weapons/cn_gp_500_4/short;500-4型;
-weapons/cn_gp_500_4;500公斤4型航空爆破炸弹;
-weapons/cn_gp_100_2/short;100-2型;
+
 weapons/cn_gp_100_2;100公斤2型航空爆破炸弹;
-weapons/cn_gp_250_1/short;250-1型;
+weapons/cn_gp_100_2/short;100-2型;
 weapons/cn_gp_250_1;250公斤1型航空爆破炸弹;
-weapons/cn_gp_250_2/short;250-2型;
+weapons/cn_gp_250_1/short;250-1型;
 weapons/cn_gp_250_2;250公斤2型航空爆破炸弹;
-weapons/cn_250_2_250m44/short;250-2型;
+weapons/cn_gp_250_2/short;250-2型;
+weapons/su_ofab250_olive;250公斤2型航空爆破炸弹;
+weapons/su_ofab250_olive/short;250-2型
 weapons/cn_250_2_250m44;250公斤2型航空爆破炸弹;
-weapons/cn_gp_500_2/short;500-2型;
+weapons/cn_250_2_250m44/short;250-2型;
+weapons/cn_gp_250_3;250公斤3型航空爆破炸弹;
+weapons/cn_gp_250_3/short;250-3型;
+weapons/cn_gp_250_3_default;250公斤3型航空爆破炸弹;
+weapons/cn_gp_250_3_default/short;250-3型;
+weapons/cn_gp_250_4;250公斤4型航空爆破炸弹;
+weapons/cn_gp_250_4/short;250-4型;
 weapons/cn_gp_500_2;500公斤2型航空爆破炸弹;
-weapons/cn_gp_1500_2/short;1500-2型;
+weapons/cn_gp_500_2/short;500-2型;
+weapons/cn_gp_500_3;500公斤3型航空爆破炸弹;
+weapons/cn_gp_500_3/short;500-3型;
+weapons/cn_gp_500_4;500公斤4型航空爆破炸弹;
+weapons/cn_gp_500_4/short;500-4型;
 weapons/cn_gp_1500_2;1500公斤2型航空爆破炸弹;
-weapons/cn_gp_3000_2/short;3000-2型;
+weapons/cn_gp_1500_2/short;1500-2型;
 weapons/cn_gp_3000_2;3000公斤2型航空爆破炸弹;
+weapons/cn_gp_3000_2/short;3000-2型;
+
 weapons/cn_gp_250_1_incendiary;250公斤1型航空燃烧炸弹;
 weapons/cn_gp_250_1_incendiary/short;250-1型 (燃烧);
 weapons/cn_gp_250_2_incendiary;250公斤1型航空燃烧炸弹;
 weapons/cn_gp_250_2_incendiary/short;250-1型 (燃烧);
-weapons/cn_fire_snake_90a_brm1;Fire Snake 90A Guided Aerial Rocket;
-weapons/cn_fire_snake_90a_brm1/short;FS90A;
-weapons/cn_fire_snake_70a;Fire Snake 70A Guided Aerial Rocket
-weapons/cn_fire_snake_70a/short;FS70A
-weapons/cannonType_23_3;23毫米3型航空机关炮
-weapons/cannonType_30_4;30-4型航空机炮
-weapons/cannonType_30_4/short;30-4型
-weapons/cannonType30_1;30毫米1型航空机关炮
-weapons/cannonType30_1/short;30-1型
+
 weapons/su_pl2;K/AKK-2空空导弹;
 weapons/su_pl2/short;K/AKK-2;
 weapons/su_pl2_default;K/AKK-2空空导弹;
@@ -134,10 +83,7 @@ weapons/su_pl5e2;K/AKK-5EII空空导弹;
 weapons/su_pl5e2/short;K/AKK-5EII;
 weapons/su_pl5e2_default;K/AKK-5EII空空导弹;
 weapons/su_pl5e2_default/short;K/AKK-5EII;
-weapons/cn_sd10a;SD-10A Air-to-Air Missile;
-weapons/cn_sd10a/short;SD-10A;
-weapons/cn_sd10a_default;SD-10A Air-to-Air Missile;
-weapons/cn_sd10a_default/short;SD-10A;
+
 weapons/cn_ty_90;AKK-90空空导弹;
 weapons/cn_ty_90/short;AKK-90;
 weapons/cn_akd_9;AKD-9空地导弹;
@@ -146,10 +92,74 @@ weapons/cn_akd_9_default;AKD-9空地导弹;
 weapons/cn_akd_9_default/short;AKD-9;
 weapons/cn_akd_10;AKD-10空地导弹;
 weapons/cn_akd_10/short;AKD-10;
-weapons/cn_cm_502kg_he;CM-502KG轻型近程空面导弹
+
+weapons/cn_sd10a;SD-10A Air-to-Air Missile;
+weapons/cn_sd10a/short;SD-10A;
+weapons/cn_sd10a_default;SD-10A Air-to-Air Missile;
+weapons/cn_sd10a_default/short;SD-10A;
+
+weapons/cn_cm_502kg_he;CM-502KG Light-Weight Short-Range Air-to-Surface Missile;CM-502KG轻型近程空面导弹
 weapons/cn_cm_502kg_he/short;CM-502KG
-weapons/cn_cm_502kg_he_rail;CM-502KG轻型近程空面导弹
+weapons/cn_cm_502kg_he_rail;CM-502KG Light-Weight Short-Range Air-to-Surface Missile;CM-502KG轻型近程空面导弹
 weapons/cn_cm_502kg_he_rail/short;CM-502KG
 weapons/cn_ba_9;Blue Arrow 9 Air-to-Surface Missile;
 weapons/cn_ba_9/short;Blue Arrow 9;
-weapons/cannon_type23_2k;23毫米2K型航空机关炮;
+
+weapons/cn_ls_500j;LT-2 Laser Guided Bomb;LT-2激光制导炸弹;
+weapons/cn_ls_500j/short;LT-2;
+weapons/cn_ls_1000j;GB1000 Dual Mode Laser/GPS Guided Bomb;激光制导炸弹;
+weapons/cn_ls_1000j/short;GB1000;
+weapons/cn_ts_250;GB250 Dual Mode Laser/GPS Guided Bomb;激光制导炸弹;
+weapons/cn_ts_250/short;GB250;
+weapons/cn_ls_6_250;LS-6 250 kg Guided Glide Bomb;
+weapons/cn_ls_6_250/short;LS-6/250;
+weapons/cn_ls_6_500;LS-6 500 kg Guided Glide Bomb;
+weapons/cn_ls_6_500/short;LS-6/500;
+weapons/cn_fs_70;Fire Snake 70 Aerial Rocket;
+weapons/cn_fs_70/short;FS70;
+weapons/cn_fire_snake_70a;Fire Snake 70A Guided Aerial Rocket
+weapons/cn_fire_snake_70a/short;FS70A
+weapons/cn_fire_snake_90a_brm1;Fire Snake 90A Guided Aerial Rocket;
+weapons/cn_fire_snake_90a_brm1/short;FS90A;
+
+weapons/cn_k_pzs_01_targeting_pod;K/PZS-01瞄准吊舱;
+weapons/cn_k_pzs_01_targeting_pod/short;K/PZS-01;
+weapons/cn_k_adc03a_targeting_pod;K/JDC03A瞄准吊舱;
+weapons/cn_k_adc03a_targeting_pod/short;K/JDC03A;
+
+weapons/cn_720l_drop_tank;720升亚音速副油箱;
+weapons/cn_720l_drop_tank/short;副油箱;
+weapons/cn_1140l_drop_tank_1;1140升副油箱;
+weapons/cn_1140l_drop_tank_1/short;副油箱;
+weapons/cn_1140l_drop_tank_2;1140升副油箱;
+weapons/cn_1140l_drop_tank_2/short;副油箱;
+weapons/cn_800l_fyx800_drop_tank_1;FYX-800标准副油箱;
+weapons/cn_800l_fyx800_drop_tank_1/short;FYX-800;
+weapons/cn_800l_central_fyx800_drop_tank;FYX-800标准副油箱;
+weapons/cn_800l_central_fyx800_drop_tank/short;FYX-800;
+weapons/cn_800l_fyx800_drop_tank_2;FYX-800标准副油箱;
+weapons/cn_800l_fyx800_drop_tank_2/short;FYX-800;
+weapons/cn_800l_fyx800_j_10_drop_tank_1;FYX-800标准副油箱;
+weapons/cn_800l_fyx800_j_10_drop_tank_1/short;FYX-800;
+weapons/cn_800l_fyx800_j_10_drop_tank_2;FYX-800标准副油箱;
+weapons/cn_800l_fyx800_j_10_drop_tank_2/short;FYX-800;
+weapons/cn_800l_rx3_drop_tank;FYX-800标准副油箱;
+weapons/cn_800l_rx3_drop_tank/short;FYX-800;
+weapons/cn_1100l_rx3_drop_tank_1;FYX-1100标准副油箱;
+weapons/cn_1100l_rx3_drop_tank_1/short;FYX-1100;
+weapons/cn_1100l_rx3_drop_tank_2;FYX-1100标准副油箱;
+weapons/cn_1100l_rx3_drop_tank_2/short;FYX-1100;
+weapons/cn_1400l_fyx1400_drop_tank_1;FYX-1400标准副油箱;
+weapons/cn_1400l_fyx1400_drop_tank_1/short;FYX-1400;
+weapons/cn_1400l_fyx1400_drop_tank_2;FYX-1400标准副油箱;
+weapons/cn_1400l_fyx1400_drop_tank_2/short;FYX-1400;
+weapons/cn_1400l_fyx1400_drop_tank_3;FYX-1400标准副油箱;
+weapons/cn_1400l_fyx1400_drop_tank_3/short;FYX-1400;
+weapons/cn_1400l_fyx1400_j_8_fuse_drop_tank;FYX-1400标准副油箱;
+weapons/cn_1400l_fyx1400_j_8_fuse_drop_tank/short;FYX-1400;
+weapons/cn_1600l_drop_tank;FYX-1600标准副油箱;
+weapons/cn_1600l_drop_tank/short;FYX-1600;
+weapons/cn_1600l_drop_tank_1;FYX-1600标准副油箱;
+weapons/cn_1600l_drop_tank_1/short;FYX-1600;
+weapons/cn_1600l_drop_tank_2;FYX-1600标准副油箱;
+weapons/cn_1600l_drop_tank_2/short;FYX-1600;

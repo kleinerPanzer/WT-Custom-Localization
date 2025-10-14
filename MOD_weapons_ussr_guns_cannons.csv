@@ -84,6 +84,7 @@ weapons/85mm_F30_user_cannon;85-мм танковая пушка Ф-30;
 weapons/85mm_D5T_user_cannon;85-мм танковая пушка обр. 1943 г. (Д-5T-85);
 weapons/85mm_D5S_user_cannon;85-мм самоходная пушка обр. 1943 г. (Д-5С-85А);
 weapons/85mm_ZiS_S_53_user_cannon;85-мм танковая пушка обр. 1944 г. (ЗиС-С-53);
+weapons/85mm_Type_56_user_cannon;85-мм танковая пушка обр. 1944 г. (ЗиС-С-53);
 weapons/7_62mm_SGMT_user_machinegun;7,62-мм танковый пулемёт СГМТ;
 weapons/7_62mm_Maxim_user_machinegun;7,62-мм пулемёт Максима обр. 1910 г.;
 weapons/14_5mm_KPVT_BTR_152_user_machinegun;14,5-мм танковый пулемёт КПВТ;

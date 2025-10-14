@@ -1,61 +1,166 @@
 <ID|readonly|noverify>;<NewLanguage>
 
+// ARTILLERY //
+// GUNS-HOWITZERS //
+weapons/130mm_pl_59a_gai_user_cannon;PL59A式130毫米加农炮;
 weapons/152mm_pl_66_gai_user_cannon;PL66式152毫米加农榴弹炮;
-152mm_ddb_1;DDB1/PL66-152;
-152mm_ddb_1_vt;DDB1/PL66-152 (DRL02);
-152mm_bee_7;BEE7 (ML-11A)
-152mm_bee_7_vt;BEE7 (MD-81);
+weapons/155mm_PL05_user_cannon;PL05式155毫米加农榴弹炮;
+// ANTITANK //
+weapons/100mm_PTP86_user_cannon;PT86式100毫米反坦克炮;
+weapons/120mm_PTZ89_user_cannon;PT89式120毫米反坦克炮;
+// RECOILLESS //
+weapons/105mm_type_75_user_cannon;1975年式105毫米无后坐力炮
+// ANTI-AIR //
 weapons/37mm_type_65_user_cannon;1965年式双管37毫米高射机关炮;
-weapons/30mm_ZPZ02_user_cannon;ZPZ02式30毫米自动枪;
-weapons/30mm_zpt_99_user_cannon;ZPZ02式30毫米自动枪;
-30mm_zpz02_hei;DTY02-30;
-30mm_zpz02_apds;DTC04-30;
-30mm_dtc10_30;DTC10-30
 weapons/25mm_PG87_PGZ_user_cannon;PG87式双管25毫米高射机关炮;
 weapons/25mm_PG87_user_cannon;PG87式双管25毫米高射机关炮;
-25mm_type_87_api;DKG/PG87-25-2;
-25mm_type_87_he;DKD/PG87-25-2;
-weapons/57mm_WA_318_user_cannon;WA318双管57毫米高射炮;
-57mm_dky_1;DKY1/PG59-57 (VTF);
-type_59_he;1959年式57毫米高射炮曳光杀伤爆破弹;
-type_59_ap;1959年式57毫米高射炮曳光被帽穿甲弹;
-type_59_apcbc;1959年式57毫米高射炮曳光被帽穿甲弹;
-weapons/12_7mm_Type_54_user_machinegun;1959年式12.7毫米坦克高射机枪;
+weapons/35mm_PG_99_35_2_user_cannon;PG99式双管35毫米高射机关炮;
+// EXPORT //
+weapons/57mm_WA_318_user_cannon;WA318 Twin-Barrel 57mm Anti-Aircraft Gun;
+weapons/30mm_pgz_625_user_cannon;6-Barrel 30mm Automatic Gun
+
+// SMALL ARMS //
 weapons/7_62mm_Type_55_user_machinegun;1955年式7.62毫米坦克机枪;
 weapons/7_62mm_Type_59_user_machinegun;1959年式7.62毫米坦克机枪;
-239mm_hq17;ADK17地对空导弹
-weapons/239mm_hq17/short;ADK17
-weapons/70mm_QN201DD_rocket_launcher;QN-201经济型多用途导弹
-weapons/70mm_QN201DD_rocket_launcher/short;QN-201;
-70mm_QN201DD;QN-201;
-weapons/70mm_QN201DD/short;QN-201;
-weapons/151mm_QN502CDD_rocket_launcher;QN-502C中程车载自号的就能反坦竞导弹;
-weapons/151mm_QN502CDD_rocket_launcher/short;QN-502C;
-weapons/151mm_qn502cdd/short;QN-502C;
-151mm_QN502CDD;QN-502C;
-weapons/5_8mm_QJT_user_machinegun;QJT式5.8毫米并列机枪;
-weapons/14_5mm_QJG02_user_machinegun;QJG02式14.5毫米高射机枪;
-weapons/125mm_ZPT_98_user_cannon;ZPT98式125毫米坦克炮;
-weapons/125mm_Type_99A_user_cannon;ZPT98A式125毫米坦克炮;
-weapons/125mm_l54_cn_user_cannon;54口径125毫米坦克炮;
-weapons/105mm_type_75_user_cannon;1975年式105毫米无后坐力炮
-105mm_type_75_heat;1975年式105毫米无后坐力炮有环尾翼破甲弾
-105mm_type_75_hesh;HESH
+weapons/12_7mm_Type_54_user_machinegun;1959年式12.7毫米坦克高射机枪;
 weapons/12_7mm_type_77_user_machinegun;1977年式12.7毫米高射机枪
-weapons/35mm_PG_99_35_2_user_cannon;PG99式双管35毫米高射机关炮;
-35mm_dkp_01a;DM 11 A1;
-35mm_dkg_01a;DKG01A/PG99-35-2;
-30mm_china_API;AP-T
-30mm_china_HE;HEI
-30mm_china_PTFP;CS/BAE05
+weapons/7_62mm_Type86_user_machinegun;1986年式7.62毫米并列机枪;
+weapons/12_7mm_QJC_88A_user_machinegun;QJC88A式12.7毫米车载高射机枪;
 weapons/cn_12_7_additionalpod_gun;QJK99式12.7毫米航空机枪
 weapons/cn_12_7_additionalpod_gun/short;QJK99;
 weapons/gun_qjk_99_12_7_1;QJK99式12.7毫米航空机枪
 weapons/gun_qjk_99_12_7_1/short;QJK99;
+weapons/14_5mm_QJG02_user_machinegun;QJG02式14.5毫米高射机枪;
+weapons/5_8mm_QJT_user_machinegun;QJT式5.8毫米并列机枪;
+
+// TANK GUNS //
+weapons/25mm_zpt90_user_cannon;ZPT90式车载25毫米自动枪;
+weapons/30mm_ZPZ02_user_cannon;ZPZ02式30毫米自动枪;
+weapons/30mm_zpt_99_user_cannon;ZPZ02式30毫米自动枪;
+weapons/73mm_Type_85_user_cannon;1986年式73毫米低压滑膛枪;
+weapons/85mm_Type_62_85_TC_user_cannon;1963年式85毫米坦克炮;
+weapons/85mm_Type_63_user_cannon;1963年式85毫米坦克炮;
+weapons/100mm_Type59_user_cannon;1959年式100毫米坦克炮;
+weapons/100mm_Type69_user_cannon;1969年式100毫米坦克炮;
+weapons/100mm_Type69_II_user_cannon;Type 69-II 100mm Tank Gun;
+weapons/100mm_2a70_zbd_user_cannon;ZPL04式100毫米坦克炮;
+weapons/105mm_Type_83_user_cannon;1983年式105毫米坦克炮;
+weapons/105mm_88B_105T_user_cannon;1983年式105毫米坦克炮;
+weapons/105mm_ZPL94_user_cannon;ZPL94式105毫米坦克炮;
+weapons/105mm_AT_WMA_user_cannon;ZPL98A式105毫米坦克炮;
+weapons/105mm_ZPL98A_user_cannon;ZPL98A式105毫米坦克炮;
+weapons/105mm_ZPL151A_user_cannon;ZPL151式105毫米坦克炮;
+weapons/120mm_122TM_user_cannon;1971年式120毫米坦克炮
+weapons/125mm_Type_88C_user_cannon;1988C式125毫米坦克炮;
+weapons/125mm_ZPT_98_user_cannon;ZPT98式125毫米坦克炮;
+weapons/125mm_Type_99A_user_cannon;ZPT98A式125毫米坦克炮;
+weapons/125mm_l54_cn_user_cannon;54口径125毫米坦克炮;
+
+// PG87
+25mm_type_87_api;DKG/PG87-25-2;
+25mm_type_87_he;DKD/PG87-25-2;
+
+// ZPZ02
+30mm_zpz02_hei;DTY02-30;
+30mm_zpz02_apds;DTC04-30;
+30mm_dtc10_30;DTC10-30
+
+// Type 630
+30mm_china_API;AP-T
+30mm_china_HE;HEI
+30mm_china_PTFP;CS/BAE05
+
+// PG99
+35mm_dkp_01a;DM 11 A1;
+35mm_dkg_01a;DKG01A/PG99-35-2;
+
+// WA318
+57mm_dky_1;DKY1/PG59-57 (VTF);
+type_59_he;1959年式57毫米高射炮曳光杀伤爆破弹;
+type_59_ap;1959年式57毫米高射炮曳光被帽穿甲弹;
+type_59_apcbc;1959年式57毫米高射炮曳光被帽穿甲弹;
+
+73mm_type_85_heat;DYP-73;
+73mm_type_85_he;DYS-73;
+
+type_56_he;1956年式85毫米加农炮全装药杀伤榴弹;
+type_56_apc;1956年式85毫米加农炮曳光被帽穿甲弹;
+type_56_hvap;53-БР-367П;
+type_56_ap;56式85毫米加农炮气缸微旋破甲弹;
+type_56_apbc;53-БР-365;
+type_56_apcr;1956年式85毫米加农炮曳光超速穿甲弹;
+85mm_djw_85;DJW1/PL56-85;
+85mm_type1956;1956年式85毫米加农炮气缸微旋破甲弹;
+
+//100mm
+100mm_1_72_13;1971年式100毫米滑膛坦克炮通用破甲弹;
+100mm_1_72_85;1971年式100毫米滑膛炮脱壳超速穿甲弹;
+100mm_1_71_74;1971年式100毫米滑膛炮全装药杀伤榴弹;
+100mm_type1973;1973年式100毫米滑膛反坦克炮通用破甲弹;
+100mm_aps_03;APS03-100;
+100mm_type1959;1959年式100毫米坦克炮脱壳超速穿甲弹;
+type_44_he;1959年式100毫米坦克炮杀伤爆破弹;
+type_44_ap;1959年式100毫米坦克炮曳光被帽穿甲弹;
+100mm_dyw_pt_86_100;DYW/PT86-100;
+
+// Type 83
+105mm_TYPE83_APDS;DTW1-105;
+105mm_TYPE83_HEAT;DTP1-105;
+105mm_TYPE83_HESH;DTJ1-105;
+105mm_dtb_1_he;DTB1-105 (VTF);
+105mm_btm_1;BTM1;
+105mm_gp_105;APS04-105;
+105mm_dtw2_105;DTW2-105;
+
+// PW75
+105mm_type_75_heat;1975年式105毫米无后坐力炮有环尾翼破甲弾
+105mm_type_75_hesh;HESH
+
+120mm_122tm_he;1971年式120毫米滑膛坦克炮杀伤爆破榴弹;
+120mm_122tm_steel;1971年式120毫米滑膛坦克炮脱壳超速穿甲弹;
+120mm_122tm_tungsten;1971年式120毫米滑膛坦克炮脱壳超速穿甲弹;
+120mm_122tm_heat;1971年式120毫米滑膛坦克炮破甲弹;
+
+// PT89
+120mm_dyw_1;DYW1/PTZ89-120;
+120mm_dys_120;DYS/PT89-120;
+
+// 125mm
+125mm_dtp_125;DTP-125;
+125mm_dtb_125;DTB-125;
+125mm_dtw_125;DTW-125;
+125mm_GP125;APS-125;
+125mm_dtb_12_he;DTB12-125;
+125mm_dtc10_125;DTC10-125;
+125mm_125_1;1985-I年式125毫米坦克炮脱売穿甲弹;
+125mm_bta4;BTA4;
+
+// PL59
 130mm_djb_1;DJB2/PL59-130;
 130mm_djb_1_smoke;DJF1/PL59A-130;
 130mm_djb_1_vt;DJB3/PL59-130;
-weapons/130mm_pl_59a_gai_user_cannon;PL59A式130毫米加农炮;
+
+// PL66
+152mm_ddb_1;DDB1/PL66-152;
+152mm_ddb_1_vt;DDB1/PL66-152 (DRL02);
+152mm_bee_7;BEE7 (ML-11A)
+152mm_bee_7_vt;BEE7 (MD-81)
+
+155mm_plz_05_he;HE
+155mm_plz_05_he_vt;HE-VT
+155mm_bea_1;BEA1
+
+weapons/125mm_hj_73_rocket_launcher;AFT07反坦克导弹;
+weapons/125mm_hj_73_rocket_launcher/short;AFT07;
+weapons/125mm_hj_73/short;AFT07;
+weapons/125mm_AFT_07_rocket_launcher;AFT07E反坦克导弹;
+weapons/125mm_AFT_07_rocket_launcher/short;AFT07E;
+weapons/120_aft_07/short;AFT07E;
+120_aft_07;AFT07E;
+125mm_hj_73;AFT07;
+125mm_hj_73e;AFT07E;
+weapons/125mm_hj_73e/short;AFT07E;
+
 weapons/cn_hj_8a;AFT08A空地导弹;
 weapons/cn_hj_8a/short;AFT08A;
 weapons/cn_hj_8c;AFT08C空地导弹;
@@ -68,96 +173,37 @@ weapons/cn_hj_8h;AFT08H空地导弹;
 weapons/cn_hj_8h/short;AFT08H;
 weapons/cn_hj_8l;AFT08L空地导弹;
 weapons/cn_hj_8l/short;AFT08L;
-weapons/72mm_HN_6_launcher_user_cannon;SK-6便携式地对空导弹发射器 x4;
-72mm_hn_6;HN-6便携式地对空导弹
-weapons/72mm_hn_6/short;HN-6;
+
 weapons/152mm_hj_9_launcher_user_cannon;AFT09重型反坦克导弹发射器;
-105mm_TYPE83_APDS;DTW1-105;
-105mm_TYPE83_HEAT;DTP1-105;
-105mm_TYPE83_HESH;DTJ1-105;
-weapons/105mm_AT_WMA_user_cannon;ZPL98A式105毫米坦克炮;
-weapons/105mm_88B_105T_user_cannon;1983年式105毫米坦克炮;
-weapons/105mm_ZPL94_user_cannon;ZPL94式105毫米坦克炮;
-105mm_dtb_1_he;DTB1-105 (VTF);
-105mm_btm_1;BTM1;
-weapons/105mm_Type_83_user_cannon;1983年式105毫米坦克炮;
-105mm_gp_105;APS04-105;
-100mm_dyw_pt_86_100;DYW/PT86-100;
-125mm_dtp_125;DTP-125;
-125mm_dtb_125;DTB-125;
-125mm_dtw_125;DTW-125;
-125mm_GP125;APS-125;
-125mm_dtb_12_he;DTB12-125;
-125mm_dtc10_125;DTC10-125;
-125mm_125_1;1985-I年式125毫米坦克炮脱売穿甲弹;
-105mm_dtw2_105;DTW2-105;
-weapons/100mm_PTP86_user_cannon;PT86式100毫米反坦克炮;
-weapons/120mm_PTZ89_user_cannon;PT89式120毫米反坦克炮;
-120mm_dyw_1;DYW1/PTZ89-120;
-120mm_dys_120;DYS/PT89-120;
-weapons/125mm_Type_88C_user_cannon;1988C式125毫米坦克炮;
-weapons/12_7mm_QJC_88A_user_machinegun;QJC88A式12.7毫米车载高射机枪;
-weapons/7_62mm_Type86_user_machinegun;1986年式7.62毫米并列机枪;
 152mm_hj9;AFT09重型反坦克导弹;
 weapons/152mm_hj9/short;AFT09;
 weapons/cn_hj_9/short;AFT09;
 weapons/cn_hj_9;AFT09重型反坦克导弹;
-weapons/120mm_122TM_user_cannon;1971年式120毫米坦克炮
-120mm_122tm_he;1971年式120毫米滑膛坦克炮杀伤爆破榴弹;
-120mm_122tm_steel;1971年式120毫米滑膛坦克炮脱壳超速穿甲弹;
-120mm_122tm_tungsten;1971年式120毫米滑膛坦克炮脱壳超速穿甲弹;
-120mm_122tm_heat;1971年式120毫米滑膛坦克炮破甲弹;
+
+weapons/72mm_HN_6_launcher_user_cannon;SK-6便携式地对空导弹发射器 x4;
+72mm_hn_6;HN-6便携式地对空导弹
+weapons/72mm_hn_6/short;HN-6;
+
+weapons/239mm_HQ_17_user_cannon;ADK17地对空导弹发射器
+239mm_hq17;ADK17地对空导弹
+weapons/239mm_hq17/short;ADK17
+
 weapons/120mm_302_atgm_rocket_launcher;302反坦克导弹;
 weapons/120mm_302_atgm_rocket_launcher/short;302;
 weapons/atgm_302/short;302;
 atgm_302;302反坦克导弹;
-weapons/239mm_HQ_17_user_cannon;ADK17地对空导弹发射器
-weapons/125mm_hj_73_rocket_launcher;AFT07反坦克导弹;
-weapons/125mm_hj_73_rocket_launcher/short;AFT07;
-weapons/125mm_hj_73/short;AFT07;
-weapons/125mm_AFT_07_rocket_launcher;AFT07E反坦克导弹;
-weapons/125mm_AFT_07_rocket_launcher/short;AFT07E;
-weapons/120_aft_07/short;AFT07E;
-120_aft_07;AFT07E;
-125mm_hj_73;AFT07;
-125mm_hj_73e;AFT07E;
-weapons/125mm_hj_73e/short;AFT07E;
-125mm_bta4;BTA4;
-weapons/73mm_Type_85_user_cannon;1986年式73毫米低压滑膛枪;
-73mm_type_85_heat;DYP-73;
-73mm_type_85_he;DYS-73;
-weapons/100mm_Type69_user_cannon;1969年式100毫米坦克炮;
-100mm_1_72_13;1971年式100毫米滑膛坦克炮通用破甲弹;
-100mm_1_72_85;1971年式100毫米滑膛炮脱壳超速穿甲弹;
-100mm_1_71_74;1971年式100毫米滑膛炮全装药杀伤榴弹;
-weapons/100mm_Type69_II_user_cannon;69-II型100毫米坦克炮;
-100mm_type1973;1973年式100毫米滑膛反坦克炮通用破甲弹;
-type_44_he;1959年式100毫米坦克炮杀伤爆破弹;
-type_44_ap;1959年式100毫米坦克炮曳光被帽穿甲弹;
-weapons/85mm_Type_62_85_TC_user_cannon;1963年式85毫米坦克炮;
-weapons/85mm_Type_63_user_cannon;1963年式85毫米坦克炮;
-weapons/85mm_Type_56_user_cannon;85-мм танковая пушка обр. 1944 г. (ЗиС-С-53);
-type_56_he;1956年式85毫米加农炮全装药杀伤榴弹;
-type_56_apc;1956年式85毫米加农炮曳光被帽穿甲弹;
-type_56_hvap;53-БР-367П;
-type_56_ap;56式85mm加农炮气缸微旋破甲弹;
-type_56_apbc;53-БР-365;
-type_56_apcr;1956年式85毫米加农炮曳光超速穿甲弹;
-85mm_djw_85;DJW1/PL56-85;
-weapons/100mm_2a70_zbd_user_cannon;ZPL04式100毫米坦克炮;
-100mm_aps_03;APS03-100;
-weapons/105mm_ZPL98A_user_cannon;ZPL98A式105毫米坦克炮;
-weapons/105mm_ZPL151A_user_cannon;ZPL151式105毫米坦克炮;
-85mm_type1956;1956年式85毫米加农炮气缸微旋破甲弹;
-100mm_type1959;1959年式100毫米坦克炮脱壳超速穿甲弹;
-weapons/100mm_Type59_user_cannon;1959年式100毫米坦克炮;
-weapons/155mm_CN98_user_cannon;155 mm CN98;
-weapons/155mm_PL05_user_cannon;PL05式155毫米加农榴弹炮;
-155mm_plz_05_he;HE
-155mm_plz_05_he_vt;HE-VT
-155mm_bea_1;BEA1
-weapons/25mm_zpt90_user_cannon;ZPT90式车载25毫米自动枪;
-weapons/130mm_FB_10_rocket_launcher;FB-10
+
+// EXPORT //
+
+weapons/130mm_FB_10_rocket_launcher;FB-10 Air Defense Missile Weapon System
 fb10_rocket;FB-10
 fb10a_rocket;FB-10A
-weapons/30mm_pgz_625_user_cannon;30 mm 630型
+
+weapons/70mm_QN201DD_rocket_launcher;QN-201 Lightweight Multipurpose Missile;经济型多用途导弹
+weapons/70mm_QN201DD_rocket_launcher/short;QN-201;
+70mm_QN201DD;QN-201;
+weapons/70mm_QN201DD/short;QN-201;
+weapons/151mm_QN502CDD_rocket_launcher;QN-502C Medium-Range Vehicle-Mounted Homing Intelligent Anti-Tank Missile;QN-502C中程车载自号的就能反坦竞导弹;
+weapons/151mm_QN502CDD_rocket_launcher/short;QN-502C;
+weapons/151mm_qn502cdd/short;QN-502C;
+151mm_QN502CDD;QN-502C;

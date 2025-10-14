@@ -25,15 +25,15 @@ shop/group/p-38_late_group;P-38J-15 / P-38L-5
 
 // PURSUIT-FIGHTER //
 p-26a_33_shop;P-26A
-p-26a_33_0;P-26A
+p-26a_33_0;P-26A Peashooter
 p-26a_33_1;P-26A
 p-26a_33_2;P-26
 p-26a_34_m2_shop;P-26A (M2)
-p-26a_34_m2_0;P-26A (Browning M2)
+p-26a_34_m2_0;P-26A Peashooter (Browning M2)
 p-26a_34_m2_1;P-26A (M2)
 p-26a_34_m2_2;P-26
 p-26b_35_shop;P-26B
-p-26b_35_0;P-26B
+p-26b_35_0;P-26B Peashooter
 p-26b_35_1;P-26B
 p-26b_35_2;P-26
 
@@ -71,7 +71,7 @@ p-38e_0;P-38E LO Lightning
 p-38e_1;P-38E
 p-38e_2;P-38
 p-38g_metal_shop;P-38G-1
-p-38g_metal_0;P-38G-1 Lightning
+p-38g_metal_0;P-38G-1 LO Lightning
 p-38g_metal_1;P-38G
 p-38g_metal_2;P-38
 p-38g_shop;P-38G-1
@@ -250,7 +250,8 @@ f-82e_shop;F-82E
 f-82e_0;F-82E Twin Mustang
 f-82e_1;F-82E
 f-82e_2;F-82
-f-82g_0;F-82G
+f-82g_shop;F-82G
+f-82g_0;F-82G Twin Mustang
 f-82g_1;F-82G
 f-82g_2;F-82
 
@@ -267,7 +268,8 @@ f-84g_0;F-84G-21 RE Thunderjet
 f-84g_1;F-84G
 f-84g_2;F-84
 
-f-86_0;F-86A-5
+f-86_shop;F-86A-5
+f-86_0;F-86A-5 NA Sabre
 f-86_1;F-86A
 f-86_2;F-86
 f-86a-5_shop;F-86A-5
@@ -302,11 +304,11 @@ f-100d_1;F-100D
 f-100d_2;F-100
 
 f-104a_shop;F-104A
-f-104a_0;F-104A
+f-104a_0;F-104A Starfighter
 f-104a_1;F-104A
 f-104a_2;F-104
 f-104c_shop;F-104C
-f-104c_0;F-104C
+f-104c_0;F-104C Starfighter
 f-104c_1;F-104C
 f-104c_2;F-104
 
@@ -412,11 +414,11 @@ f_14b_1;F-14B
 f_14b_2;F-14
 
 f_15a_shop;F-15A-18 MSIP
-f_15a_0;F-15A-18 MC Eagle Multi-Stage Improvement Plan
+f_15a_0;F-15A-18 MC Multi-Stage Improvement Plan Eagle
 f_15a_1;F-15A
 f_15a_2;F-15
 f_15c_msip2_shop;F-15C-40 MSIP II
-f_15c_msip2_0;F-15C-40 MC Eagle Multi-Stage Improvement Plan II
+f_15c_msip2_0;F-15C-40 MC Multi-Stage Improvement Plan II Eagle
 f_15c_msip2_1;F-15C
 f_15c_msip2_2;F-15
 f_15e_shop;F-15E-43
@@ -429,11 +431,11 @@ f_16a_block_10_0;F-16A-10 CF Fighting Falcon
 f_16a_block_10_1;F-16A
 f_16a_block_10_2;F-16
 f_16a_block_15_adf_shop;F-16A-15 ADF
-f_16a_block_15_adf_0;F-16A-15 CF Fighting Falcon Air Defense Fighter
+f_16a_block_15_adf_0;F-16A-15 CF Air Defense Fighter Fighting Falcon
 f_16a_block_15_adf_1;F-16A
 f_16a_block_15_adf_2;F-16
 f_16c_block_50_shop;F-16C-50 CCIP
-f_16c_block_50_0;F-16C-50 CF Fighting Falcon Common Configuration Implementation Program (2007)
+f_16c_block_50_0;F-16C-50 CF Common Configuration Implementation Program Fighting Falcon (2007)
 f_16c_block_50_1;F-16C
 f_16c_block_50_2;F-16
 
@@ -508,7 +510,7 @@ a_4e_early_1;A-4E
 a_4e_early_2;A-4
 
 a_6e_tram_shop;A-6E WCSI (VA-52)
-a_6e_tram_0;A-6E Intruder Weapon Control System Improvement (Attack Squadron 52 (VA-52) "Night Riders")
+a_6e_tram_0;A-6E Weapon Control System Improvement Intruder (Attack Squadron 52 (VA-52) "Night Riders")
 a_6e_tram_1;A-6E
 a_6e_tram_2;A-6
 
