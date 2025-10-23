@@ -1,188 +1,213 @@
 <ID|readonly|noverify>;<NewLanguage>
 
-weapons/cannonType5;五式3cm固定機銃;
+// CANNONS MGS //
+
+weapons/100mm_65_type_98_naval_user_cannon;九八式10cm高角砲甲型;
+weapons/120mm_10th_Year_type_user_cannon;四十五口径十年式十二糎高角砲;
+weapons/120mm_45_10th_year_type_naval_user_cannon;四十五口径一〇年式十二糎高角砲;
+weapons/120mm_45_3rd_year_type_ww1_naval_user_cannon;四十五口径三年式十二糎砲;
+weapons/120mm_45_type_10_naval_user_cannon;四十五口径十年式十二糎砲;
+weapons/120mm_45_type_3_naval_user_cannon;四十五口径三年式十二糎砲;
+weapons/120mm_Navy_Short_Gun_user_cannon;十二口径短十二糎砲;
+weapons/120mm_type_3_user_cannon;三式十二糎高射砲;
+weapons/127mm_5_40_type_89_naval_user_cannon;四十口径八九式十二糎七高角砲;
+weapons/127mm_5_50_type_3_naval_user_cannon;五十口径三年式十二糎七砲;
+weapons/13_2mm_76_type93_naval_user_machinegun;九三式十三粍固定機銃;
+weapons/140mm_50_3rd_year_type_14_naval_user_cannon;五十口径三年式十四糎砲;
+weapons/152mm_45_41st_year_type_naval_user_cannon;四十五口径四一年式十五糎砲;
+weapons/152mm_50_type_41_naval_user_cannon;五十口径四一式十五糎砲;
+weapons/155mm_60_type_3_naval_user_cannon;六十口径三年式十五糎半連装砲;
+weapons/200mm_45_type_41_naval_user_cannon;四十五口径四一年式三十六糎砲
+weapons/200mm_50_3rd_year_type_no1_naval_user_cannon;五十口径三年式二〇糎砲1号;
+weapons/203mm_50_3rd_year_type_no2_naval_user_cannon;五十口径三年式二〇糎砲2号;
+weapons/25mm_60_type96_naval_user_cannon;九六式25mm高角機銃;
+weapons/305mm_45_41st_year_type_naval_user_cannon;五十口径四一年式三十糎砲;
+weapons/305mm_50_41st_year_type_naval_user_cannon;四十五口径四一年式三十糎砲;
+weapons/356mm_45_41st_year_type_naval_user_cannon;四十五口径四一年式二〇糎砲;
+weapons/40mm_62_hi_type91_naval_user_cannon;毘式四糎連装機銃;
+weapons/410mm_45_type_3_naval_user_cannon;四五口径三年式四一糎砲;
+weapons/410mm_45_type_3_naval_user_cannon/short;三年式四一糎砲;
+weapons/460mm_45_type_94_naval_user_cannon;四五口径九四式四六糎砲
+weapons/460mm_45_type_94_naval_user_cannon/short;九四式四六糎砲
+weapons/7_7mm_80_type_92_naval_user_machinegun;九二式7,7mm重機関銃;
+weapons/76mm_40_41st_year_type_naval_user_cannon;四十口径四一年式八糎砲;
+weapons/76mm_40_type_88_aa_naval_user_cannon;四十口径三年式八糎高角砲;
+weapons/76mm_40_type_88_naval_user_cannon;四十口径三年式八糎高角砲;
+weapons/80mm_40_3rd_year_type_naval_user_cannon;四十口径三年式八糎高角砲;
+weapons/80mm_60_type_98_naval_user_cannon;六〇口径九八式八糎高角砲;
 weapons/cannonType5_external;五式3cm固定機銃;
-weapons/gunType97;九七式7.7mm固定機銃;
-weapons/gunType97_turret;九七式7.7mm固定機銃;
-weapons/cannonType99;九九式二十粍機銃一号;
+weapons/cannonType5;五式3cm固定機銃;
 weapons/cannonType99_turret;九九式二十粍機銃一号;
+weapons/cannonType99;九九式二十粍機銃一号;
+weapons/cannonType99Mk2;九九式二十粍機銃二号;
 weapons/cannonType99Mod2_mark3_turret;九九式二十粍機銃二号三型;
 weapons/cannonType99Mod2_mark5_turret;九九式二十粍機銃二号五型;
 weapons/gun_type1_turret;一式7,92mm旋回機銃;
-weapons/gunType92;九二式7,7mm機銃;
-weapons/gunType92_turret;九二式7,7mm機銃;
-weapons/cannonType99Mk2;九九式二十粍機銃二号;
-weapons/jp_mod25mark2;250 kg 海軍二五番二型通常爆弾;
-weapons/jp_mod50mark1;500 kg 海軍五〇番二型通常爆弾;
-weapons/jp_mod50mark2;500 kg 海軍五〇番一型通常爆弾;
-weapons/jp_mod80mark1;800 kg 海軍八〇番一型通常爆弾;
-weapons/jp_navy_type97mod6_60kg;60 kg 海軍九七式六番陸用爆弾;
-weapons/jp_navy_mod50mark1_500kg;500 kg 海軍五〇番一型通常爆弾;
-weapons/jp_type97mod6;60 kg 海軍九七式六番陸用爆弾;
-weapons/jp_type98mod25;250 kg 海軍九八式二五番陸用爆弾;
-weapons/jp_type99mod25;250 kg 海軍九九式二五番一型通常爆弾;
-weapons/jp_type99mod80;800 kg 海軍九九式二五番五型徹甲爆弾;
-weapons/jp_navy_mod25mark2_250kg;250 kg 海軍二五番二型通常爆弾;
-weapons/jp_navy_mod50mark2_500kg;250 kg 海軍二五番二型通常爆弾;
-weapons/jp_navy_mod80mark1_800kg;800 kg 海軍八〇番一型通常爆弾;
-weapons/jp_navy_type99mod25_250kg;250 kg 海軍九九式二五番通常爆弾;
-weapons/jp_navy_type99mod80_800kg;800 kg 海軍九九式八〇番徹甲爆弾;
-weapons/jp_navy_mod25mark2_250kg_default;250 kg 海軍二五番二型通常爆弾;
-weapons/jp_navy_mod25mark2_250kg_default/short;250 kg 二五番;
-weapons/jp_ijnaf_type_3_number_150_1500kg_ap;1500 kg 海軍三式一五〇番徹甲爆弾;
-weapons/jp_ijnaf_type_3_number_150_1500kg_ap/short;1500 kg 三式;
-weapons/ijnaf_60kg;三式六番二七号爆弾;
-weapons/jp_330_liters_a6m;300 L Drop Tank;
-weapons/jp_330_liters_a6m/short;Drop Tank;
-weapons/jp_navy_rocket_type3_number1_9kg;三式一番二八号爆弾一型;
-weapons/jp_navy_rocket_type5_number1_13kg;五式一番九号爆弾一型;
-weapons/jp_navy_rocket_type3_number6_66kg;三式六番二七号爆弾;
-weapons/jp_navy_rocket_type5_number6_84kg;五式六番九号爆弾;
-weapons/jp_navy_type98mod25_250kg;250 kg 海軍九八式二五番陸用爆弾;
-weapons/jp_type91mod2_torpedo;450mm九一式航空魚雷改2;
-weapons/jp_type91mod3_torpedo;450mm九一式航空魚雷改3;
-weapons/gunType2_turret;二式13mm旋回機銃;
 weapons/gunType1_turret;一式13mm旋回機銃;
-weapons/jp_mod25mark2/short;250 kg 二五番;
-weapons/jp_mod50mark2/short;500 kg 五〇番;
-weapons/jp_mod80mark1/short;800 kg 八〇番;
-weapons/jp_navy_type97mod6_60kg/short;60 kg 九七式;
-weapons/jp_type98mod25/short;250 kg 九八式;
-weapons/jp_type99mod25/short;250 kg 九九式;
-weapons/jp_type99mod80/short;800 kg 九九式;
-weapons/jp_navy_mod25mark2_250kg/short;250 kg 二五番;
-weapons/jp_navy_mod50mark1_500kg/short;500 kg 八〇番;
-weapons/jp_navy_mod50mark2_500kg/short;500 kg 八〇番;
-weapons/jp_navy_mod80mark1_800kg/short;800 kg 八〇番;
-weapons/jp_navy_type98mod25_250kg/short;250 kg 九八式;
-weapons/jp_navy_type99mod25_250kg/short;250 kg 九九式;
-weapons/jp_navy_type99mod80_800kg/short;800 kg 九九式;
-weapons/jp_type91mod3_torpedo/short;九一式改3;
-weapons/jp_type91mod2_torpedo/short;九一式改2;
-weapons/ijnaf_60kg/short;三式六番二七号;
-weapons/jp_navy_rocket_type3_number1_9kg/short;三式一番二八号一型;
-weapons/jp_navy_rocket_type5_number1_13kg/short;五式一番九号一型;
-weapons/jp_navy_rocket_type3_number6_66kg/short;三式六番二七号;
-weapons/jp_navy_rocket_type5_number6_84kg/short;五式六番九号;
-weapons/76mm_40_type_88_naval_user_cannon;四十口径三年式八糎高角砲;
-weapons/76mm_40_type_88_aa_naval_user_cannon;四十口径三年式八糎高角砲;
-76mm_type0_navy_he;〇式榴弾;
-76mm_type0_navy_he_dist_fuse;〇式榴弾;
+weapons/gunType2_turret;二式13mm旋回機銃;
+weapons/gunType92_turret;九二式7,7mm機銃;
+weapons/gunType92;九二式7,7mm機銃;
+weapons/gunType97_turret;九七式7.7mm固定機銃;
+weapons/gunType97;九七式7.7mm固定機銃;
+
+// DC //
+
 weapons/depth_charge_jp_type2_mod_1;二式一型爆雷;
-weapons/120mm_10th_Year_type_user_cannon;四十五口径十年式十二糎高角砲;
-120mm_common_he_base_fuze;〇式榴弾;
-120mm_ordinary_mod_1;一式榴弾;
-weapons/120mm_Navy_Short_Gun_user_cannon;十二口径短十二糎砲;
-120mm_type88_mod4_fuze;八八式四型榴弾;
-120mm_type88_selective_fuze;八八式榴弾;
-weapons/jp_450mm_type44_torpedo;450mm四四式魚雷;
-weapons/jp_450mm_type44_torpedo/short;四四式;
-weapons/jp_450mm_type2_torpedo;450mm二式2号魚雷;
-weapons/jp_450mm_type2_torpedo/short;二式2号;
-weapons/jp_610mm_type90_torpedo;610mm九〇式魚雷;
-weapons/jp_610mm_type90_torpedo/short;九〇式;
-weapons/depth_charge_jp_type95;九五式爆雷;
-weapons/depth_charge_jp_type95/short;九五式;
-weapons/depth_charge_jp_type3;三式爆雷;
-weapons/depth_charge_jp_type3/short;三式;
 weapons/depth_charge_jp_type2;二式爆雷;
 weapons/depth_charge_jp_type2/short;二式;
-weapons/25mm_60_type96_naval_user_cannon;九六式25mm高角機銃;
-weapons/127mm_5_50_type_3_naval_user_cannon;五十口径三年式十二糎七砲;
-127mm_type_0;〇式榴弾;
-127mm_type_0_aa;〇式榴弾;
-weapons/jp_torpedo_610mm_type93/short;九三式;
+weapons/depth_charge_jp_type3;三式爆雷;
+weapons/depth_charge_jp_type3/short;三式;
 weapons/depth_charge_jp_type95_mortar;九五式爆雷;
 weapons/depth_charge_jp_type95_mortar/short;九五式;
-weapons/100mm_65_type_98_naval_user_cannon;九八式10cm高角砲甲型;
-weapons/7_7mm_80_type_92_naval_user_machinegun;九二式7,7mm重機関銃;
+weapons/depth_charge_jp_type95;九五式爆雷;
+weapons/depth_charge_jp_type95/short;九五式;
+
+// ROCKETS //
+
+weapons/ijnaf_60kg;三式六番二七号爆弾;
+weapons/ijnaf_60kg/short;三式六番二七号;
+weapons/jp_ijnaf_type_3_number_150_1500kg_ap;1500 kg 海軍三式一五〇番徹甲爆弾;
+weapons/jp_ijnaf_type_3_number_150_1500kg_ap/short;1500 kg 三式;
+weapons/jp_navy_rocket_type3_number1_9kg;三式一番二八号爆弾一型;
+weapons/jp_navy_rocket_type3_number1_9kg/short;三式一番二八号一型;
+weapons/jp_navy_rocket_type3_number6_66kg;三式六番二七号爆弾;
+weapons/jp_navy_rocket_type3_number6_66kg/short;三式六番二七号;
+weapons/jp_navy_rocket_type5_number1_13kg;五式一番九号爆弾一型;
+weapons/jp_navy_rocket_type5_number1_13kg/short;五式一番九号一型;
+weapons/jp_navy_rocket_type5_number6_84kg;五式六番九号爆弾;
+weapons/jp_navy_rocket_type5_number6_84kg/short;五式六番九号;
+
+// DROP TANKS //
+
+weapons/jp_330_liters_a6m;300 L Drop Tank;
+weapons/jp_330_liters_a6m/short;Drop Tank;
+
+// TORPEDOES //
+
+weapons/jp_450mm_type2_torpedo;450mm二式2号魚雷;
+weapons/jp_450mm_type2_torpedo/short;二式2号;
+weapons/jp_450mm_type38_no2b_torpedo;450mm三八式2乙号魚雷;
+weapons/jp_450mm_type38_no2b_torpedo/short;三八式2乙号魚雷;
+weapons/jp_450mm_type43_torpedo;450mm四三式航空魚雷;
+weapons/jp_450mm_type43_torpedo/short;四三式;
+weapons/jp_450mm_type44_torpedo;450mm四四式魚雷;
+weapons/jp_450mm_type44_torpedo/short;四四式;
+weapons/jp_533mm_type43_torpedo;533mm四三式航空魚雷;
+weapons/jp_533mm_type43_torpedo/short;四三式;
+weapons/jp_533mm_type6_torpedo;533mm六年式魚雷;
+weapons/jp_533mm_type6_torpedo/short;六年式;
+weapons/jp_533mm_type89_1929_mod1_torpedo;533mm八九式航空魚雷;
+weapons/jp_533mm_type89_1929_mod1_torpedo/short;八九式;
+weapons/jp_533mm_type89_torpedo;533 mm 89式魚雷;
+weapons/jp_533mm_type89_torpedo/short;89式;
+weapons/jp_610mm_type8_no2_torpedo;610mm八年式魚雷二番;
+weapons/jp_610mm_type8_no2_torpedo/short;八年式二番;
+weapons/jp_610mm_type90_torpedo;610mm九〇式魚雷;
+weapons/jp_610mm_type90_torpedo/short;九〇式;
 weapons/jp_610mm_type93_model_1_mod2_torpedo;610mm九三式魚雷一型改2;
 weapons/jp_610mm_type93_model_1_mod2_torpedo/short;九三式一型改2;
 weapons/jp_610mm_type93_model_3_torpedo;610mm九三式魚雷三型;
 weapons/jp_610mm_type93_model_3_torpedo/short;九三式魚雷三型;
-weapons/40mm_62_hi_type91_naval_user_cannon;毘式四糎連装機銃;
-weapons/120mm_45_type_3_naval_user_cannon;四十五口径三年式十二糎砲;
-120mm_common_type1;一式榴弾;
-120mm_jp_type_0;〇式榴弾;
-120mm_type1_sap;一式徹甲弾;
-127mm_jp_type_1;一式榴弾;
-127mm_jp_type_1_tf;一式高射榴弾;
-weapons/140mm_50_3rd_year_type_14_naval_user_cannon;五十口径三年式十四糎砲;
-140mm_1940_type0_he;〇式榴弾;
-140mm_1940_type0_he_tf;〇式高射榴弾;
-140mm_1940_type2_sap;二式徹甲弾;
-140mm_1934_mod1_sap;一型徹甲弾;
-weapons/80mm_40_3rd_year_type_naval_user_cannon;四十口径三年式八糎高角砲;
-80mm_common_type_0;〇式榴弾;
-weapons/jp_533mm_type6_torpedo;533mm六年式魚雷;
-weapons/jp_533mm_type6_torpedo/short;六年式;
-weapons/200mm_50_3rd_year_type_no1_naval_user_cannon;五十口径三年式二〇糎砲1号;
-200mm_type4_common_he;四式榴弾;
-200mm_type88_no6_apc;八八式徹甲弾;
-weapons/jp_610mm_type8_no2_torpedo;610mm八年式魚雷二番;
-weapons/jp_610mm_type8_no2_torpedo/short;八年式二番;
-203mm_type91_ap;九一式徹甲弾;
-203mm_type91_common_he;九一式榴弾;
-203mm_type0_he;〇式榴弾;
-203mm_type0_he_tf;〇式高射榴弾;
-weapons/203mm_50_3rd_year_type_no2_naval_user_cannon;五十口径三年式二〇糎砲2号;
-weapons/120mm_45_10th_year_type_naval_user_cannon;四十五口径一〇年式十二糎高角砲;
-weapons/152mm_50_type_41_naval_user_cannon;五十口径四一式十五糎砲;
-152mm_type4_sap;四式榴弾;
-152mm_type0_he;〇式榴弾;
-152mm_type0_he_tf;〇式高射榴弾;
-weapons/80mm_60_type_98_naval_user_cannon;六〇口径九八式八糎高角砲;
-80mm_common_type_98;九八式榴弾;
-80mm_common_type_98_tf;九八式高射榴弾;
-weapons/13_2mm_76_type93_naval_user_machinegun;九三式十三粍固定機銃;
-weapons/127mm_5_40_type_89_naval_user_cannon;四十口径八九式十二糎七高角砲;
-weapons/155mm_60_type_3_naval_user_cannon;六十口径三年式十五糎半連装砲;
-155mm_60_type0_he;〇式榴弾;
-155mm_60_type0_he_dist_fuse;〇式榴弾;
-155mm_60_type91_ap;九一式徹甲弾;
-weapons/jp_533mm_type89_torpedo;533 mm 89式魚雷;
-weapons/jp_533mm_type89_torpedo/short;89式;
-weapons/jp_533mm_type89_1929_mod1_torpedo;533mm八九式航空魚雷;
-weapons/jp_533mm_type89_1929_mod1_torpedo/short;八九式;
-weapons/120mm_45_type_10_naval_user_cannon;四十五口径十年式十二糎砲;
+weapons/jp_torpedo_610mm_type93/short;九三式;
+weapons/jp_type91mod2_torpedo;450mm九一式航空魚雷改2;
+weapons/jp_type91mod2_torpedo/short;九一式改2;
+weapons/jp_type91mod3_torpedo;450mm九一式航空魚雷改3;
+weapons/jp_type91mod3_torpedo/short;九一式改3;
+
+// MINES //
+
 weapons/jp_mine_mk6_mod1;六号機雷一型;
 weapons/jp_mine_mk6_mod1/short;六号一型;
 weapons/jp_mine_type88_mod1;八八式一型機雷;
 weapons/jp_mine_type88_mod1/short;八八式一型;
 weapons/jp_mine_type93_mod1;九三式一型機雷;
 weapons/jp_mine_type93_mod1/short;九三式一型;
-weapons/jp_450mm_type43_torpedo;450mm四三式航空魚雷;
-weapons/jp_450mm_type43_torpedo/short;四三式;
-weapons/305mm_50_41st_year_type_naval_user_cannon;四十五口径四一年式三十糎砲;
-weapons/305mm_45_41st_year_type_naval_user_cannon;五十口径四一年式三十糎砲;
-305mm_50_41st_yt_he;榴弾;
-305mm_50_41st_yt_apc;徹甲弾;
-weapons/120mm_45_3rd_year_type_ww1_naval_user_cannon;四十五口径三年式十二糎砲;
+
+// BOMBS //
+
+weapons/jp_mod25mark2;250 kg 海軍二五番二型通常爆弾;
+weapons/jp_mod25mark2/short;250 kg 二五番;
+weapons/jp_mod50mark1;500 kg 海軍五〇番二型通常爆弾;
+weapons/jp_mod50mark2;500 kg 海軍五〇番一型通常爆弾;
+weapons/jp_mod50mark2/short;500 kg 五〇番;
+weapons/jp_mod80mark1;800 kg 海軍八〇番一型通常爆弾;
+weapons/jp_mod80mark1/short;800 kg 八〇番;
+weapons/jp_navy_mod25mark2_250kg_default;250 kg 海軍二五番二型通常爆弾;
+weapons/jp_navy_mod25mark2_250kg_default/short;250 kg 二五番;
+weapons/jp_navy_mod25mark2_250kg;250 kg 海軍二五番二型通常爆弾;
+weapons/jp_navy_mod25mark2_250kg/short;250 kg 二五番;
+weapons/jp_navy_mod50mark1_500kg;500 kg 海軍五〇番一型通常爆弾;
+weapons/jp_navy_mod50mark1_500kg/short;500 kg 八〇番;
+weapons/jp_navy_mod50mark2_500kg;250 kg 海軍二五番二型通常爆弾;
+weapons/jp_navy_mod50mark2_500kg/short;500 kg 八〇番;
+weapons/jp_navy_mod80mark1_800kg;800 kg 海軍八〇番一型通常爆弾;
+weapons/jp_navy_mod80mark1_800kg/short;800 kg 八〇番;
+weapons/jp_navy_type97mod6_60kg;60 kg 海軍九七式六番陸用爆弾;
+weapons/jp_navy_type97mod6_60kg/short;60 kg 九七式;
+weapons/jp_navy_type98mod25_250kg;250 kg 海軍九八式二五番陸用爆弾;
+weapons/jp_navy_type98mod25_250kg/short;250 kg 九八式;
+weapons/jp_navy_type99mod25_250kg;250 kg 海軍九九式二五番通常爆弾;
+weapons/jp_navy_type99mod25_250kg/short;250 kg 九九式;
+weapons/jp_navy_type99mod80_800kg;800 kg 海軍九九式八〇番徹甲爆弾;
+weapons/jp_navy_type99mod80_800kg/short;800 kg 九九式;
+weapons/jp_type97mod6;60 kg 海軍九七式六番陸用爆弾;
+weapons/jp_type97mod6/short;60 kg 九七式;
+weapons/jp_type98mod25;250 kg 海軍九八式二五番陸用爆弾;
+weapons/jp_type98mod25/short;250 kg 九八式;
+weapons/jp_type99mod25;250 kg 海軍九九式二五番一型通常爆弾;
+weapons/jp_type99mod25/short;250 kg 九九式;
+weapons/jp_type99mod80;800 kg 海軍九九式二五番五型徹甲爆弾;
+weapons/jp_type99mod80/short;800 kg 九九式;
+
 120mm_45_3rd_yt_he;榴弾;
-weapons/152mm_45_41st_year_type_naval_user_cannon;四十五口径四一年式十五糎砲;
-152mm_45_41st_yt_he;榴弾;
+120mm_common_he_base_fuze;〇式榴弾;
+120mm_common_type1;一式榴弾;
+120mm_jp_type_0;〇式榴弾;
+120mm_ordinary_mod_1;一式榴弾;
+120mm_type1_sap;一式徹甲弾;
+120mm_type88_mod4_fuze;八八式四型榴弾;
+120mm_type88_selective_fuze;八八式榴弾;
+127mm_jp_type_1_tf;一式高射榴弾;
+127mm_jp_type_1;一式榴弾;
+127mm_type_0_aa;〇式榴弾;
+127mm_type_0;〇式榴弾;
+140mm_1934_mod1_sap;一型徹甲弾;
+140mm_1940_type0_he_tf;〇式高射榴弾;
+140mm_1940_type0_he;〇式榴弾;
+140mm_1940_type2_sap;二式徹甲弾;
 152mm_45_41st_yt_apc;徹甲弾;
-weapons/76mm_40_41st_year_type_naval_user_cannon;四十口径四一年式八糎砲;
-76mm_40_41st_yt_he_tf;HE-TF;
-weapons/jp_533mm_type43_torpedo;533mm四三式航空魚雷;
-weapons/jp_533mm_type43_torpedo/short;四三式;
-weapons/356mm_45_41st_year_type_naval_user_cannon;四十五口径四一年式二〇糎砲;
+152mm_45_41st_yt_he;榴弾;
+152mm_type0_he_tf;〇式高射榴弾;
+152mm_type0_he;〇式榴弾;
+152mm_type4_sap;四式榴弾;
+155mm_60_type0_he_dist_fuse;〇式榴弾;
+155mm_60_type0_he;〇式榴弾;
+155mm_60_type91_ap;九一式徹甲弾;
+200mm_type3_apc;三式徹甲弾
+200mm_type3_common;三式榴弾
+200mm_type4_common_he;四式榴弾;
+200mm_type88_no6_apc;八八式徹甲弾;
+203mm_type0_he_tf;〇式高射榴弾;
+203mm_type0_he;〇式榴弾;
+203mm_type91_ap;九一式徹甲弾;
+203mm_type91_common_he;九一式榴弾;
+25mm_type96_apt;九六式徹甲弾;
+25mm_type96_he_t;HE-T
+305mm_50_41st_yt_apc;徹甲弾;
+305mm_50_41st_yt_he;榴弾;
 356mm_ordinary_type_sap;榴弾;
 356mm_ordinary_type0_sap;〇式榴弾;
 356mm_type3_apc;三式徹甲弾;
 356mm_type5_apc;五式徹甲弾
 356mm_type91_apc;九一式徹甲弾;
-weapons/jp_450mm_type38_no2b_torpedo;450mm三八式2乙号魚雷;
-weapons/jp_450mm_type38_no2b_torpedo/short;三八式2乙号魚雷;
-weapons/200mm_45_type_41_naval_user_cannon;四十五口径四一年式三十六糎砲
-200mm_type3_common;三式榴弾
-200mm_type3_apc;三式徹甲弾
-weapons/410mm_45_type_3_naval_user_cannon;四五口径三年式四一糎砲;
-weapons/410mm_45_type_3_naval_user_cannon/short;三年式四一糎砲;
-410mm_ordinary_type0_sap;〇式榴弾;
-410mm_no5_apc;五式徹甲弾;
 410mm_no3_apc;三式徹甲弾;
-weapons/460mm_45_type_94_naval_user_cannon;四五口径九四式四六糎砲
-weapons/460mm_45_type_94_naval_user_cannon/short;九四式四六糎砲
+410mm_no5_apc;五式徹甲弾;
+410mm_ordinary_type0_sap;〇式榴弾;
 460mm_type0_common_he;〇式榴弾
 460mm_type91_apc;九一式徹甲弾
+76mm_40_41st_yt_he_tf;HE-TF;
+76mm_type0_navy_he_dist_fuse;〇式榴弾;
+76mm_type0_navy_he;〇式榴弾;
+80mm_common_type_0;〇式榴弾;
+80mm_common_type_98_tf;九八式高射榴弾;
+80mm_common_type_98;九八式榴弾;

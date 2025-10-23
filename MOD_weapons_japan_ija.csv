@@ -1,22 +1,133 @@
 <ID|readonly|noverify>;<NewLanguage>
 
-weapons/cannonHo3;試製20mm固定機関砲;
-weapons/cannonType97;試製20mm固定機銃;
-weapons/cannonType97_turret;試製20mm固定機銃;
-weapons/gunHo103;一式12,7mm固定機銃;
-weapons/gunHo104_turret;一式12,7mm固定機関砲;
-weapons/gunHo103_turret;一式12,7mm旋回機関砲;
-weapons/gunType98_turret;九八式7,92mm旋回機関銃;
-weapons/gunType98;九八式7,92mm旋回機関銃;
-weapons/gunTe-1_turret;7,7mm試製単銃身旋回機関銃一型;
-weapons/gunType89;八九式7,7mm固定機関銃;
-weapons/gunType89_turret;八九式7,7mm旋回機関銃;
-weapons/gunTe4;7,7mm試製単銃身旋回機関銃二型;
-weapons/gunType89s_turret;八九式7,7mm旋回機関銃改良;
-weapons/jp_type92mod25;250 kg 陸軍九二式陸用爆弾;
+// CANNONS-MGS //
+
+weapons/6_5mm_type_38_1907_naval_user_machinegun;6.5 mm 三八式機関銃
+weapons/6_5mm_type_3_naval_user_machinegun;6.5 mm 三年式機関銃
+weapons/6_5mm_Type_91_user_machinegun;6.5 mm 九一式車載軽機関銃
+
+weapons/gunType89;7.7 mm 八九式固定機関銃
+weapons/7_7mm_type_89_naval_user_machinegun;7.7 mm 八九式固定機関銃
+weapons/gunType89_turret;7.7 mm 八九式旋回機関銃
+weapons/gunType89s_turret;7.7 mm 八九式旋回機関銃 (特)
+weapons/gunTe-1_turret;7.7 mm 試製単銃身旋回機関銃一型
+weapons/gunTe4;7.7 mm 試製単銃身旋回機関銃二型
+weapons/7_7mm_Type_97_user_machinegun;7.7 mm 九七式車載重機関銃
+
+weapons/gunType98_turret;7.92 mm 九八式旋回機関銃
+weapons/gunType98;7.92 mm 九八式旋回機関銃
+
+weapons/gunHo103;一式十二・七粍固定機関砲
+weapons/gunHo103_turret;一式十二・七粍旋回機関砲
+weapons/gunHo104_turret;一式十二・七粍旋回機関砲
+
+weapons/cannonHo3;試製二十粍固定機関砲
+weapons/cannonType97;試製二十粍旋回機関砲
+weapons/cannonType97_turret;試製二十粍旋回機関砲
+weapons/cannonHo5;二式二十粍固定機関砲
+weapons/cannonHo5_turret;二式二十粍固定機関砲
+weapons/20mm_type98_user_cannon;九八式二十粍高射機関砲
+weapons/20mm_Type98_user_cannon;九八式二十粍高射機関砲
+weapons/20mm_type_98_naval_user_cannon;九八式高射機関砲 (特)
+weapons/20mm_type_98_twin_type4_naval_user_cannon;四式基筒双連二十粍高射機関砲
+
+weapons/cannonHo155;30 mm ホ155
+
+weapons/37mm_type_11_naval_user_cannon;37 mm 十一年式平射歩兵砲
+weapons/cannonType94;九四式三十七粍戦車砲
+weapons/37mm_type_94_user_cannon;九四式三十七粍戦車砲
+weapons/37mm_type_94_naval_user_cannon;九四式三十七粍戦車砲
+weapons/cannonType98;九八式三十七粍戦車砲
+weapons/37mm_Type100_user_cannon;一〇〇式三十七粍戦車砲
+weapons/37mm_Type1_user_cannon;一式三十七粍戦車砲
+weapons/37mm_Type1_Chi_Ri_user_cannon;一式三十七粍戦車砲
+weapons/37mm_type_4_naval_user_cannon;四式三十七粍舟艇砲
+weapons/cannonHo203;37 mm ホ203;
+weapons/cannonHo204;37 mm ホ204;
+
+weapons/cannonHo301;40 mm ホ301;
+
+weapons/47mm_Type1_user_cannon;一式四十七粍戦車砲
+
+weapons/cannonHo401;57 mm ホ401;
+weapons/57mm_Type90_user_cannon;九〇式五糎七戦車砲
+weapons/57mm_type_97_1937_naval_user_cannon;九〇式五糎七戦車砲
+weapons/57mm_Type97_user_cannon;九七式五糎七戦車砲
+
+weapons/70mm_Type94_user_cannon;九四式七糎戦車砲
+
+weapons/cannonType88;八八式七糎野戦高射砲
+weapons/75mm_type_88_aa_naval_user_cannon;八八式七糎野戦高射砲
+weapons/75mm_Type90_user_cannon;75 mm 九〇式野砲
+weapons/75mm_Type99_user_cannon;九九式七糎半戦車砲
+weapons/75mm_Type3_user_cannon;三式七糎半戦車砲
+weapons/75mm_Type4_user_cannon;四式七糎半速射砲;
+weapons/75mm_Type_II_Model_I_user_cannon;試製五式七糎半戦車砲(長)I型
+weapons/75mm_Type_II_model_II_user_cannon;試製五式七糎半戦車砲(長)II型
+weapons/75mm_Type5_user_cannon;試製五式七糎半戦車砲(長)II型
+weapons/75mm_Lightweight_Type1_model_II_user_cannon;試製七糎半対戦車砲II型
+
+weapons/105mm_Exp_HV_user_cannon;試製十糎戦車砲(長)
+weapons/105mm_Type5_user_cannon;試製十糎戦車砲(長)
+
+weapons/120mm_Schneider_Canet_1898_user_cannon;斯加式十二糎速射加農砲
+
+weapons/150mm_Type_38_user_cannon;三八式十五糎榴弾砲
+
+20mm_type100_ap;一〇〇式徹甲弾;
+20mm_type100_he;一〇〇式榴弾;
+
+37mm_jp_type_11_he;一一年式榴弾;
+37mm_aphe;九四式徹甲弾;
+37mm_type1_ap;一式徹甲弾;
+37mm_jp_type_94_aphe;九四式徹甲弾;
+37mm_jp_type_94_he;九四式榴弾;
+
+47mm_type1_ap;一式徹甲弾;
+47mm_type1_he;一式榴弾;
+
+57mm_type90_ap;九二式徹甲弾;
+57mm_type90_he;九〇式榴弾;
+57mm_type3;三式成形炸薬弾;
+
+70mm_type92_he;九二式榴弾;
+70mm_type95_ap;九五式徹甲弾;
+70mm_type3;三式成形炸薬弾;
+
+75mm_type1_ap;一式徹甲弾;
+75mm_type2;二式成形炸薬弾;
+75mm_type90;九〇式発煙弾;
+75mm_type94_he;九四式榴弾;
+75mm_type90_smoke;九〇式発煙弾;
+75mm_type95;九五式徹甲弾;
+75mm_type_4_apcr;四式徹甲弾;
+75mm_type4_ap_kou;四式甲徹甲弾;
+76mm_jp_type90_he;九〇式榴弾;
+76mm_jp_type90_he_tf;九〇式高射鋭弾;
+76mm_jp_type95_he;九五式榴弾;
+
+105mm_exp_he;二式榴弾;
+105mm_type2_aphe;二式徹甲弾;
+
+120mm_schneider_canet_common;Obus Perforant;
+120mm_schneider_canet_he;Obus Explosif;
+
+150mm_type_92;九二式榴弾;
+150mm_type_95;九五式徹甲弾;
+
+// AIR BOMBS //
+
 weapons/jp_type92mod50;500 kg 陸軍九二式陸用爆弾;
+weapons/jp_type92mod50/short;500 kg 九二式;
+weapons/jp_type92mod25;250 kg 陸軍九二式陸用爆弾;
+weapons/jp_type92mod25/short;250 kg 九二式;
 weapons/jp_type94mod10;100 kg 陸軍九四式陸用爆弾;
+weapons/jp_type94mod10/short;100 kg 九四式;
 weapons/jp_type94mod5;50 kg 陸軍九四式陸用爆弾;
+weapons/jp_type94mod5/short;50 kg 九四式;
+
+// OTHER //
+
 weapons/jp_ki_148_i_go_1b;イ号一型乙無線誘導弾;
 weapons/jp_ki_148_i_go_1b/short;キ148;
 weapons/jp_ki_148_i_go_1b_event_broken_warhead/short;キ148;
@@ -27,87 +138,3 @@ weapons/jp_ki_148_i_go_1b_event_broken_pipe/short;キ148;
 weapons/jp_ki_148_i_go_1b_event_broken_servo_controll/short;キ148;
 weapons/jp_ki_148_i_go_1b_event_broken_guidance/short;キ148;
 weapons/jp_ki_148_i_go_1b_event_broken_fuel_leak/short;キ148;
-weapons/cannonHo155;3cmホ155;
-weapons/cannonHo203;3,7cmホ203;
-weapons/cannonHo204;3,7cmホ204;
-weapons/cannonType94;九四式三十七粍速射砲;
-weapons/cannonType98;九八式三十七粍速射砲;
-weapons/cannonHo5;二式二十粍固定機銃;
-weapons/cannonHo5_turret;二式二十粍固定機関砲;
-weapons/cannonHo401;5,7cmホ401;
-weapons/cannonHo301;40mmホ301;
-weapons/jp_type92mod25/short;250 kg 九二式;
-weapons/jp_type92mod50/short;500 kg 九二式;
-weapons/jp_type94mod5/short;50 kg 九四式;
-weapons/jp_type94mod10/short;100 kg 九四式;
-weapons/jp_type97mod6/short;60 kg 九七式;
-weapons/cannonType88;八八式七糎半野戦高射砲;
-25mm_type96_apt;九六式徹甲弾;
-25mm_type96_he_t;HE-T
-weapons/120mm_Schneider_Canet_1898_user_cannon;斯加式十二糎速射加農砲;
-120mm_schneider_canet_common;Obus Perforant;
-120mm_schneider_canet_he;Obus Explosif;
-weapons/70mm_Type94_user_cannon;九四式七糎戦車砲;
-70mm_type92_he;九二式榴弾;
-70mm_type95_ap;九五式徹甲弾;
-weapons/7_7mm_Type_97_user_machinegun;九七式車載重機関銃;
-weapons/6_5mm_Type_91_user_machinegun;九一式車載軽機関銃;
-weapons/20mm_type98_user_cannon;九八式二十粍高射機関砲;
-weapons/37mm_type_94_user_cannon;九四式三十七粍戦車砲;
-weapons/37mm_Type1_user_cannon;一式三十七粍戦車砲;
-weapons/37mm_Type100_user_cannon;一〇〇式三十七粍戦車砲;
-weapons/47mm_Type1_user_cannon;一式四十七粍戦車砲;
-weapons/57mm_Type90_user_cannon;九〇式五糎七戦車砲;
-weapons/57mm_Type97_user_cannon;九七式五糎七戦車砲;
-weapons/75mm_Type3_user_cannon;三式七糎半戦車;
-weapons/75mm_Type4_user_cannon;四式七糎半速射砲;
-weapons/120mm_type_3_user_cannon;三式十二糎高射砲;
-weapons/75mm_Type90_user_cannon;九〇式七糎半野砲;
-weapons/75mm_Type99_user_cannon;九九式七糎半戦車砲;
-weapons/20mm_Type98_user_cannon;九八式二十粍高射機関砲;
-weapons/150mm_Type_38_user_cannon;三八式十五糎榴弾砲;
-20mm_type100_ap;一〇〇式徹甲弾;
-20mm_type100_he;一〇〇式榴弾;
-37mm_aphe;九四式徹甲弾;
-37mm_type1_ap;一式徹甲弾;
-47mm_type1_ap;一式徹甲弾;
-47mm_type1_he;一式榴弾;
-57mm_type90_ap;九二式徹甲弾;
-57mm_type90_he;九〇式榴弾;
-57mm_type3;三式成形炸薬弾;
-70mm_type3;三式成形炸薬弾;
-75mm_type1_ap;一式徹甲弾;
-75mm_type2;二式成形炸薬弾;
-75mm_type90;九〇式発煙弾;
-75mm_type94_he;九四式榴弾;
-75mm_type90_smoke;九〇式発煙弾;
-75mm_type95;九五式徹甲弾;
-150mm_type_92;九二式榴弾;
-150mm_type_95;九五式徹甲弾;
-weapons/37mm_Type1_Chi_Ri_user_cannon;一式三十七粍戦車砲;
-weapons/75mm_Type5_user_cannon;試製五式七糎半速射砲I型;
-weapons/105mm_Exp_HV_user_cannon;試製十糎半戦車砲;
-105mm_exp_he;二式榴弾;
-105mm_type2_aphe;二式徹甲弾;
-weapons/75mm_Lightweight_Type1_model_II_user_cannon;試製七極半対戦車砲II型;
-75mm_type_4_apcr;四式徹甲弾;
-weapons/75mm_Type_II_Model_I_user_cannon;試製五式七糎半戦車砲(長)I型;
-75mm_type4_ap_kou;四式甲徹甲弾;
-weapons/75mm_Type_II_model_II_user_cannon;試製五式七糎半戦車砲(長)II型;
-weapons/105mm_Type5_user_cannon;試製十糎半重砲;
-weapons/7_7mm_type_89_naval_user_machinegun;八九式7,7mm固定機関銃;
-37mm_jp_type_94_aphe;九四式徹甲弾;
-37mm_jp_type_94_he;九四式榴弾;
-weapons/37mm_type_94_naval_user_cannon;九四式三十七粍速射砲;
-weapons/37mm_type_4_naval_user_cannon;四式三十七粍速射砲;
-weapons/20mm_type_98_naval_user_cannon;九八式二十粍高射機関砲;
-weapons/6_5mm_type_38_1907_naval_user_machinegun;三八式6,5mm機関銃;
-weapons/37mm_type_11_naval_user_cannon;一一年式三十七粍平射歩兵砲;
-37mm_jp_type_11_he;一一年式榴弾;
-weapons/57mm_type_97_1937_naval_user_cannon;十一年式榴弾;
-weapons/20mm_type_98_twin_type4_naval_user_cannon;九七式五糎七速射砲;
-76mm_jp_type90_he;九〇式榴弾;
-76mm_jp_type90_he_tf;九〇式高射鋭弾;
-76mm_jp_type95_he;九五式榴弾;
-weapons/75mm_type_88_aa_naval_user_cannon;八八式七糎半野戦高射砲;
-weapons/6_5mm_type_3_naval_user_machinegun;6,5mm三式重機関銃;
