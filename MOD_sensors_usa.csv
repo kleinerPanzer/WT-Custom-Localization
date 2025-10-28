@@ -50,7 +50,7 @@ sensors/us_an_apg_59;Radar Set, AN/APG-59;
 sensors/us_an_apg_59u;Radar Set, AN/APG-59U;
 sensors/us_an_apg_60;Radar Set, AN/APG-60;
 sensors/us_an_apg_61;Radar Set, AN/APG-61
-sensors/us_an_apg_63_baz;Radar Set, AN/APG-63(V)1;
+sensors/us_an_apg_63_baz;Radar Set, AN/APG-63 (PSP);
 sensors/us_an_apg_63_psp;Radar Set, AN/APG-63 (PSP);
 sensors/us_an_apg_63_v_1;Radar Set, AN/APG-63(V)1;
 sensors/us_an_apg_63;Radar Set, AN/APG-63;
