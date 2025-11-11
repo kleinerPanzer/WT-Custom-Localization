@@ -1,4 +1,7 @@
 <ID|readonly|noverify>;<NewLanguage>
+shop/group/germ_westfalen_helgoland_group;Westfalen / Helgoland
+
+
 germ_battleship_westfalen_shop;Westfalen
 germ_battleship_westfalen_0;Nassau-Klasse Großlinienschiff, Westfalen (1916)
 germ_battleship_westfalen_1;Westfalen
@@ -54,3 +57,8 @@ germ_battlecruiser_mackensen_class_shop;Mackensen
 germ_battlecruiser_mackensen_class_0;Großer Kreuzer Mackensen
 germ_battlecruiser_mackensen_class_1;Mackensen
 germ_battlecruiser_mackensen_class_2;Mackensen
+
+germ_battleship_konig_shop;König
+germ_battleship_konig_0;König-Klasse Großlinienschiff König (1916)
+germ_battleship_konig_1;König
+germ_battleship_konig_2;König-Klasse

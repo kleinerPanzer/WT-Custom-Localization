@@ -105,6 +105,10 @@ us_huckins_78ft_pt95_shop;PT 95
 us_huckins_78ft_pt95_0;PT 95 Class Motor Torpedo Boat, USS PT 95
 us_huckins_78ft_pt95_1;PT 95
 us_huckins_78ft_pt95_2;PT 95 Class
+us_huckins_78ft_pt262_shop;PT 262
+us_huckins_78ft_pt262_0;PT 95 Class Motor Torpedo Boat, USS PT 262
+us_huckins_78ft_pt262_1;PT 262
+us_huckins_78ft_pt262_2;PT 95 Class
 
 // Nasty //
 
@@ -126,6 +130,10 @@ us_lvt_a_4_shop;LVT(A)(4)
 us_lvt_a_4_0;Landing Vehicle, Tracked, Armored, Mk. 4, LVT(A)(4)
 us_lvt_a_4_1;LVT(A)(4)
 us_lvt_a_4_2;LVT
+us_lvt_a1_m24_shop;LVT(A)(4) (M24)
+us_lvt_a1_m24_0;Landing Vehicle, Tracked, Armored, Mk. 4, LVT(A)(4) with Tank, Light, M24 Turret
+us_lvt_a1_m24_1;LVT(A)(4) (M24)
+us_lvt_a1_m24_2;LVT
 
 // Landing Craft (LC) //
 
@@ -143,7 +151,7 @@ us_lcm_zippo_2;M 91 1 Class
 
 // Minesweepers (AM) //
 us_admirable_class_shop;Candid (AM 154)
-us_admirable_class_0;AM 136 Class Minesweeper, USS Candid (AM 154)
+us_admirable_class_0;AM 136 Class Mine Sweeper, USS Candid (AM 154)
 us_admirable_class_1;Candid
 us_admirable_class_2;AM 136 Class
 
@@ -172,44 +180,49 @@ us_sc_497_2;SC 497 Class
 // Patrol Gunboat (PG) //
 
 us_flagstaff_pgh1_shop;Flagstaff (PGH 1)
-us_flagstaff_pgh1_0;PGH 1 Class Hydrofoil Patrol Gunboat, USS Flagstaff (PGH 1)
+us_flagstaff_pgh1_0;PGH 1 Class Patrol Gunboat (Hydrofoil), USS Flagstaff (PGH 1)
 us_flagstaff_pgh1_1;Flagstaff
 us_flagstaff_pgh1_2;PGH 1 Class
 
 us_tucumcari_pgh2_shop;Tucumcari (PGH 2)
-us_tucumcari_pgh2_0;PGH 2 Class Hydrofoil Patrol Gunboat, USS Tucumcari (PGH 2)
+us_tucumcari_pgh2_0;PGH 2 Class Patrol Gunboat (Hydrofoil), USS Tucumcari (PGH 2)
 us_tucumcari_pgh2_1;Tucumcari
 us_tucumcari_pgh2_2;PGH 2 Class
 
+us_pgm_9_class_shop;PGM 9
+us_pgm_9_class_0;PGM 9 Class Motor Gunboat, USS PGM 9
+us_pgm_9_class_1;PGM 9
+us_pgm_9_class_2;PGM 9 Class
+
 us_ashville_class_shop;Asheville (PGM 84)
-us_ashville_class_0;PGM 84 Class Gunboat, USS Asheville (PGM 84)
+us_ashville_class_0;PGM 84 Class Motor Gunboat, USS Asheville (PGM 84)
 us_ashville_class_1;Asheville
 us_ashville_class_2;PGM 84 Class
 us_ashville_class_douglas_shop;Douglas (PGM 100)
-us_ashville_class_douglas_0;PGM 84 Class Gunboat, USS Douglas (PGM 100)
+us_ashville_class_douglas_0;PGM 92 Class Motor Gunboat, USS Douglas (PGM 100)
 us_ashville_class_douglas_1;Douglas
-us_ashville_class_douglas_2;PGM 84 Class
+us_ashville_class_douglas_2;PGM 92 Class
 
 // Frigate (PF) // 
 
 us_frigate_tacoma_shop;Hoquiam (PF 5)
-us_frigate_tacoma_0;PF 3 Class Frigate, USS Hoquiam (PF 5)
+us_frigate_tacoma_0;PF 3 Class Patrol Frigate, USS Hoquiam (PF 5)
 us_frigate_tacoma_1;Hoquiam
 us_frigate_tacoma_2;PF 3 Class
 us_frigate_tacoma_sub_event_shop;Hoaquiam (PF 5)
-us_frigate_tacoma_sub_event_0;PF 3 Class Frigate, USS Hoquiam (PF 5)
+us_frigate_tacoma_sub_event_0;PF 3 Class Patrol Frigate, USS Hoquiam (PF 5)
 us_frigate_tacoma_sub_event_1;Hoquiam
 us_frigate_tacoma_sub_event_2;PF 3 Class
 
 // Destroyer Escort (DE) //
 
 us_frigate_buckley_class_coolbaugh_shop;Coolbaugh (DE 217)
-us_frigate_buckley_class_coolbaugh_0;DE 51 Class Destroyer Escort, USS Coolbaugh (DE 217)
+us_frigate_buckley_class_coolbaugh_0;DE 51 Class Escort Ship, USS Coolbaugh (DE 217)
 us_frigate_buckley_class_coolbaugh_1;Coolbaugh
 us_frigate_buckley_class_coolbaugh_2;DE 51 Class
 
 us_frigate_dealey_shop;Dealey (DE 1006)
-us_frigate_dealey_0;DE 1006 Class Destroyer Escort, USS Dealey (DE 1006)
+us_frigate_dealey_0;DE 1006 Class Escort Ship, USS Dealey (DE 1006)
 us_frigate_dealey_1;Dealey
 us_frigate_dealey_2;DE 1006 Class
 
@@ -307,11 +320,11 @@ us_destroyer_cf_adams_class_cf_adams_2;DDG 2 Class
 // Destroyer Leader (DL) //
 
 us_destroyer_mitscher_shop;Mitscher (DL 2)
-us_destroyer_mitscher_0;DL 2 Class Destroyer, USS Mitscher (DL 2) (1954)
+us_destroyer_mitscher_0;DL 2 Class Destroyer Leader, USS Mitscher (DL 2) (1954)
 us_destroyer_mitscher_1;Mitscher
 us_destroyer_mitscher_2;DL 2 Class
 us_destroyer_mitscher_wilkinson_shop;Wilkinson (DL 5)
-us_destroyer_mitscher_wilkinson_0;DL 2 Class Destroyer, USS Wilkinson (DL 5) (1957)
+us_destroyer_mitscher_wilkinson_0;DL 2 Class Destroyer Leader, USS Wilkinson (DL 5) (1957)
 us_destroyer_mitscher_wilkinson_1;Wilkinson
 us_destroyer_mitscher_wilkinson_2;DL 2 Class
 
@@ -398,6 +411,12 @@ us_cruiser_baltimore_class_pittsburgh_shop;Pittsburgh (CA 72)
 us_cruiser_baltimore_class_pittsburgh_0;CA 68 Class Heavy Cruiser, USS Pittsburgh (CA 72) (1943)
 us_cruiser_baltimore_class_pittsburgh_1;Pittsburgh
 us_cruiser_baltimore_class_pittsburgh_2;CA 68 Class
+
+// Oregon City //
+us_cruiser_oregon_class_shop;Oregon City (CA 122)
+us_cruiser_oregon_class_0;CA 122 Class Heavy Cruiser, USS Oregon City (CA 122)
+us_cruiser_oregon_class_1;Oregon City
+us_cruiser_oregon_class_2;CA 122 Class
 
 // Des Moines //
 us_cruiser_des_moines_class_shop;Des Moines (CA 134)
@@ -498,7 +517,7 @@ us_aircraftcarrier_enterprise_2;CV 5 Class
 
 // Forrestal //
 us_aircraftcarrier_forrestal_shop;Forrestal (CVA 59)
-us_aircraftcarrier_forrestal_0;CVA 59 Class Aircraft Carrier, USS Forrestal (CVA 59) (1975)
+us_aircraftcarrier_forrestal_0;CVA 59 Class Attack Aircraft Carrier, USS Forrestal (CVA 59) (1975)
 us_aircraftcarrier_forrestal_1;Forrestal
 us_aircraftcarrier_forrestal_2;CVA 59 Class
 

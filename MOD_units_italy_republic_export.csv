@@ -16,41 +16,41 @@ it_otomatic_0;OTO Main Anti-aircraft Tank for Intercept and Combat
 it_otomatic_1;OTOMATIC
 it_otomatic_2;OTOMATIC
 it_of_40_mtca_shop;OF 40 Mk. 2 (MTCA)
-it_of_40_mtca_0;Carro armato OTO-Melara OF 40 Mk. 2 (MTCA)
+it_of_40_mtca_0;Carro armato OF 40 Mk. 2 (MTCA)
 it_of_40_mtca_1;OF 40 Mk. 2
 it_of_40_mtca_2;OF 40
 it_of_40_mk_1_shop;OF 40 Mk. 1
-it_of_40_mk_1_0;Carro armato OTO-Melara OF 40 Mk. 1
+it_of_40_mk_1_0;Carro armato OF 40 Mk. 1
 it_of_40_mk_1_1;OF 40 Mk. 1
 it_of_40_mk_1_2;OF 40
 it_of_40_mk_2a_shop;OF 40 Mk. 2
-it_of_40_mk_2a_0;Carro armato OTO-Melara OF 40 Mk. 2
+it_of_40_mk_2a_0;Carro armato OF 40 Mk. 2
 it_of_40_mk_2a_1;OF 40 Mk. 2
 it_of_40_mk_2a_2;OF 40
 it_oto_r3_106sr_shop;R3 (T106 FA)
-it_oto_r3_106sr_0;OTO R3 (T106 FA)
+it_oto_r3_106sr_0;R3 (T106 FA)
 it_oto_r3_106sr_1;R3 (T106 FA)
 it_oto_r3_106sr_2;R3
 it_oto_r3_t20_fa_shop;R3 (T20 FA-HS)
-it_oto_r3_t20_fa_0;OTO R3 (T20 FA-HS)
+it_oto_r3_t20_fa_0;R3 (T20 FA-HS)
 it_oto_r3_t20_fa_1;R3 (T20 FA-HS)
 it_oto_r3_t20_fa_2;R3
-it_fiat_6614_firos_shop;FIAT 6614 (FIROS 6)
-it_fiat_6614_firos_0;FIAT-OTO-Melara tipo 6614 (FIROS 6)
-it_fiat_6614_firos_1;FIAT 6614 (FIROS 6)
-it_fiat_6614_firos_2;FIAT 6614
-it_fiat_6614_106sr_shop;FIAT 6614 (M40A1)
-it_fiat_6614_106sr_0;FIAT-OTO-Melara tipo 6614 (M40A1)
-it_fiat_6614_106sr_1;FIAT 6614 (M40A1)
-it_fiat_6614_106sr_2;FIAT 6614
-it_fiat_6616_cockerill_shop;FIAT 6616 (T90)
-it_fiat_6616_cockerill_0;FIAT-OTO-Melara 6616 con torretta OTO T90 CKL equipaggiata con cannone Cockerill Mk. III da 90/38
-it_fiat_6616_cockerill_1;FIAT 6616 (T90)
-it_fiat_6616_cockerill_2;FIAT 6616
-it_aubl_74_60_70m_shop;FIAT 6616 (T60M)
-it_aubl_74_60_70m_0;FIAT-OTO-Melara tipo 6616 con torretta OTO-Breda T60M da 60/70 HVMS
-it_aubl_74_60_70m_1;FIAT 6616 (T60M)
-it_aubl_74_60_70m_2;FIAT 6616
+it_fiat_6614_firos_shop;6614 (FIROS 6)
+it_fiat_6614_firos_0;Tipo 6614 (FIROS 6)
+it_fiat_6614_firos_1;6614 (FIROS 6)
+it_fiat_6614_firos_2;6614
+it_fiat_6614_106sr_shop;6614 (M40A1)
+it_fiat_6614_106sr_0;Tipo 6614 (M40A1)
+it_fiat_6614_106sr_1;6614 (M40A1)
+it_fiat_6614_106sr_2;6614
+it_fiat_6616_cockerill_shop;6616 (T90)
+it_fiat_6616_cockerill_0;Tipo 6616 con torretta OTO T90 CKL
+it_fiat_6616_cockerill_1;6616 (T90)
+it_fiat_6616_cockerill_2;6616
+it_aubl_74_60_70m_shop;6616 (T60M)
+it_aubl_74_60_70m_0;Tipo 6616 con torretta T60M da 60/70 HVMS
+it_aubl_74_60_70m_1;6616 (T60M)
+it_aubl_74_60_70m_2;6616
 a_129_a_shop;A129 International
 a_129_a_0;A129 International
 a_129_a_1;A129 International
@@ -64,6 +64,14 @@ it_otobreda_sidam_25_mistral_0;Sistema italiano difesa aerea mobile, 25 mm Mistr
 it_otobreda_sidam_25_mistral_1;SIDAM 25 (Mistral)
 it_otobreda_sidam_25_mistral_2;SIDAM 25
 it_c13_t90_shop;C13 (T90)
-it_c13_t90_0;OTO-Melara C13 con torreta OTO T90 CKL equipaggiata con cannone Cockerill mk. III da 90/38
+it_c13_t90_0;C13 con torreta T90 CKL
 it_c13_t90_1;C13 (T90)
 it_c13_t90_2;C13
+it_c13_tua_shop;C13 (TUA)
+it_c13_tua_0;C13 con torretta TOW Under Armor
+it_c13_tua_1;C13 (TUA)
+it_c13_tua_2;C13
+mb_326k_shop;MB-326K
+mb_326k_0;MB-326K
+mb_326k_1;MB-326K
+mb_326k_2;MB-326

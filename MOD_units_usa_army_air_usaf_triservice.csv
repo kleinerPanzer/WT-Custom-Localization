@@ -332,7 +332,7 @@ f_111f_1;F-111F
 f_111f_2;F-111
 
 f_117_shop;F-117A OCIP II
-f_117_0;F-117A Nighthawk Offensive Capability Improvement Program II
+f_117_0;F-117A OCIP II Nighthawk
 f_117_1;F-117A
 f_117_2;F-117
 
@@ -413,14 +413,18 @@ f_14b_0;F-14B-150 GR Tomcat
 f_14b_1;F-14B
 f_14b_2;F-14
 
-f_15a_shop;F-15A-18 MSIP
-f_15a_0;F-15A-18 MC Multi-Stage Improvement Plan Eagle
+f_15a_shop;F-15A-18 (1997)
+f_15a_0;F-15A-18 MC (1997)
 f_15a_1;F-15A
 f_15a_2;F-15
-f_15c_msip2_shop;F-15C-40 MSIP II
-f_15c_msip2_0;F-15C-40 MC Multi-Stage Improvement Plan II Eagle
+f_15c_msip2_shop;F-15C-40 (2005)
+f_15c_msip2_0;F-15C-40 MC (2005) (AN/APG-63(V)1 Radar Upgrade)
 f_15c_msip2_1;F-15C
 f_15c_msip2_2;F-15
+f_15c_golden_eagle_shop;F-15C-40 (2018)
+f_15c_golden_eagle_0;F-15C-40 MC (2018)
+f_15c_golden_eagle_1;F-15C
+f_15c_golden_eagle_2;F-15
 f_15e_shop;F-15E-43
 f_15e_0;F-15E-43 MC Strike Eagle
 f_15e_1;F-15E
@@ -431,11 +435,11 @@ f_16a_block_10_0;F-16A-10 CF Fighting Falcon
 f_16a_block_10_1;F-16A
 f_16a_block_10_2;F-16
 f_16a_block_15_adf_shop;F-16A-15 ADF
-f_16a_block_15_adf_0;F-16A-15 CF Air Defense Fighter Fighting Falcon
+f_16a_block_15_adf_0;F-16A-15 CF ADF Fighting Falcon
 f_16a_block_15_adf_1;F-16A
 f_16a_block_15_adf_2;F-16
 f_16c_block_50_shop;F-16C-50 CCIP
-f_16c_block_50_0;F-16C-50 CF Common Configuration Implementation Program Fighting Falcon (2007)
+f_16c_block_50_0;F-16C-50 CF CCIP Fighting Falcon (2007)
 f_16c_block_50_1;F-16C
 f_16c_block_50_2;F-16
 
@@ -510,7 +514,7 @@ a_4e_early_1;A-4E
 a_4e_early_2;A-4
 
 a_6e_tram_shop;A-6E WCSI (VA-52)
-a_6e_tram_0;A-6E Weapon Control System Improvement Intruder (Attack Squadron 52 (VA-52) "Night Riders")
+a_6e_tram_0;A-6E WCSI Intruder (Attack Squadron 52 (VA-52) "Night Riders")
 a_6e_tram_1;A-6E
 a_6e_tram_2;A-6
 
@@ -630,7 +634,7 @@ av_8c_0;AV-8C Harrier
 av_8c_1;AV-8C
 av_8c_2;AV-8
 av_8b_na_shop;AV-8B-18 NA
-av_8b_na_0;AV-8B-18 MC Night Attack Harrier II
+av_8b_na_0;AV-8B-18 MC NA Harrier II
 av_8b_na_1;AV-8B
 av_8b_na_2;AV-8
 av_8b_plus_shop;AV-8B Radar

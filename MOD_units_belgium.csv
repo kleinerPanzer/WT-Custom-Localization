@@ -27,7 +27,7 @@ f_16a_block_15_belgium_0;♔ F-16A-15 CF
 f_16a_block_15_belgium_1;♔ F-16A
 f_16a_block_15_belgium_2;F-16
 f_16a_block_15_ocu_belgium_shop;♔ F-16A-15 OCU
-f_16a_block_15_ocu_belgium_0;♔ F-16AA-15 OCU CF (FA-110)
+f_16a_block_15_ocu_belgium_0;♔ F-16A-15 OCU CF (FA-110)
 f_16a_block_15_ocu_belgium_1;♔ F-16A
 f_16a_block_15_ocu_belgium;F-16
 f_16am_block_15_mlu_belgium_shop;♔ F-16AM-20
@@ -36,6 +36,7 @@ f_16am_block_15_mlu_belgium_1;♔ F-16AM
 f_16am_block_15_mlu_belgium_2;F-16
 
 // Army //
+shop/group/fr_m44_55_group;♔ M44 / ♔ M55
 
 fr_m44_shop;♔ M44
 fr_m44_0;♔ Affût automteur M44 pour obusier de 155 mm

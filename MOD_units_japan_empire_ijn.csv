@@ -255,6 +255,10 @@ jp_battleship_yamato_shop;大和
 jp_battleship_yamato_0;大和型戦艦 大和 (1945)
 jp_battleship_yamato_1;大和
 jp_battleship_yamato_2;大和型
+jp_battleship_musashi_shop;武蔵
+jp_battleship_musashi_0;大和型戦艦 武蔵 (1943)
+jp_battleship_musashi_1;武蔵
+jp_battleship_musashi_2;大和型
 jp_destroyer_yukikaze_shop;雪風
 jp_destroyer_yukikaze_0;陽炎型駆逐艦 雪風
 jp_destroyer_yukikaze_1;雪風
@@ -271,3 +275,7 @@ jp_minelayer_tsugaru_shop;津軽
 jp_minelayer_tsugaru_0;津軽 (1944)
 jp_minelayer_tsugaru_1;津軽
 jp_minelayer_tsugaru_2;津軽
+jp_battleship_nagato_shop;長門
+jp_battleship_nagato_0;長門型戦艦 長門 (1944)
+jp_battleship_nagato_1;長門
+jp_battleship_nagato_2;長門型

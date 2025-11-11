@@ -42,6 +42,10 @@ shop/group/uk_crusader_group;Crusader Mk. II / Crusader Mk. III
 shop/group/uk_cromwell_group;Cromwell Mk. VC / Cromwell Mk. IC
 shop/group/uk_valentine_group;Valentine Mk. I / Valentine Mk. XI / Valetnine Mk. IX
 shop/group/uk_chieftain_mk_3_5_group;Chieftain Mk. 3 / Chieftain Mk. 5
+shop/group/uk_stormer_9a35_group;FV4333 / Strela 10 M
+shop/group/uk_fv_m109_group;Centaur / ▄ M109A1
+shop/group/uk_cromwell_sherman_group;Cromwell Mk. VC / Cromwell Mk. IC / Sherman Mk. II
+shop/group/uk_chieftain_mk_10_900_group;Chieftain Mk. 10 / Chieftain 900
 uk_mark_v_event_shop;Mk. V (M)
 uk_mark_v_event_0;Tank, Mk. V (Male);
 uk_mark_v_event_1;Mk. V
@@ -338,6 +342,10 @@ ah_mk1_shop;Apache AH.1
 ah_mk1_0;Apache AH. Mk. 1
 ah_mk1_1;Apache Mk.1
 ah_mk1_2;Apache
+ah_64e_britain_shop;Apache AH.2
+ah_64e_britain_0;Apache AH. Mk. 2
+ah_64e_britain_1;Apache Mk. 2
+ah_64e_britain_2;Apache
 uk_a_33_excelsior_shop;Commodore Mk. II
 uk_a_33_excelsior_0;Tank, Assault, Mk. VIII, A.33B, Commodore Mk. II
 uk_a_33_excelsior_1;Commodore Mk. II

@@ -1102,3 +1102,13 @@ us_152mm_for_land_battles_0;Pillbox
 us_152mm_for_land_battles_1;Pillbox
 us_152mm_for_land_battles_2;Pillbox
 soldier;Soldier
+structures/oil_storage_tank;Oil storage tank
+structures/building;Building
+structures/industrial_building;Industrial building
+structures/chemical_processing_unit;Processing unit
+structures/cooling_tower;Cooling tower
+structures/fan_cooling_tower;Fan cooling tower
+structures/chimney;Chimney
+uk_ai_sam_rapier_0;Tracked Rapier
+uk_ai_sam_rapier_1;Tracked Rapier
+uk_ai_sam_rapier_2;Tracked Rapier

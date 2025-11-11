@@ -79,6 +79,11 @@ cn_cm_25_0;CM25拖式飛彈車
 cn_cm_25_1;CM25
 cn_cm_25_2;CM25
 
+cn_cm_34_shop;CM34
+cn_cm_34_0;CM34輪型戰鬥車
+cn_cm_34_1;CM34
+cn_cm_34_2;CM34
+
 cn_m42_duster_shop;☀ M42
 cn_m42_duster_0;☀ M42防空自行砲車
 cn_m42_duster_1;☀ M42
@@ -100,3 +105,8 @@ oh_58d_china_shop;☀ OH-58D
 oh_58d_china_0;☀ OH-58D戰搜直升機
 oh_58d_china_1;☀ OH-58D
 oh_58d_china_2;OH-58
+
+ah_64e_china_shop;☀ AH-64E
+ah_64e_china_0;☀ AH-64E阿帕契攻擊直升機
+ah_64e_china_1;☀ AH-64E
+ah_64e_china_2;AH-64

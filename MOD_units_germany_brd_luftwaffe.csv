@@ -51,14 +51,18 @@ tornado_ids_de_mfg_shop;IDS-Tornado (MFG 1)
 tornado_ids_de_mfg_0;Mehrzweckkampfflugzeug IDS-Tornado (Batch 2) (Marinefliegergeschwader 1)
 tornado_ids_de_mfg_1;IDS-Tornado
 tornado_ids_de_mfg_2;Tornado
-tornado_ids_de_assta1_shop;IDS-Tornado ASSTA 1
-tornado_ids_de_assta1_0;Mehrzweckkampfflugzeug IDS-Tornado ASSTA 1
-tornado_ids_de_assta1_1;IDS-Tornado
-tornado_ids_de_assta1_2;Tornado
 tornado_ids_de_wtd61_shop;IDS-Tornado (WTD 61)
 tornado_ids_de_wtd61_0;Mehrzweckkampfflugzeug IDS-Tornado (Batch 2) (Wehrtechnische Dienststelle für Luftfahrzeuge und Luftfahrtgerät der Bundeswehr (WTD 61))
 tornado_ids_de_wtd61_1;IDS-Tornado
 tornado_ids_de_wtd61_2;Tornado
+tornado_ids_de_assta1_shop;IDS-Tornado ASSTA 1
+tornado_ids_de_assta1_0;Mehrzweckkampfflugzeug IDS-Tornado ASSTA 1
+tornado_ids_de_assta1_1;IDS-Tornado
+tornado_ids_de_assta1_2;Tornado
+tornado_ids_de_assta3_sle_shop;IDS-Tornado ASSTA 3.1
+tornado_ids_de_assta3_sle_0;Mehrzweckkampfflugzeug IDS-Tornado ASSTA 3.1
+tornado_ids_de_assta3_sle_1;IDS-Tornado
+tornado_ids_de_assta3_sle_2;Tornado
 
 ef_2000_block_10_shop;Eurofighter
 ef_2000_block_10_0;EF2000 Eurofighter (Tranche 2 Block 10) (P1A)

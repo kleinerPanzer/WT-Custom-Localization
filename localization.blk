@@ -198,6 +198,7 @@ locTable{
   file:t="%lang/MOD_units_usa_navy.csv"
   file:t="%lang/MOD_units_usa_navy_air_pre62.csv"
   file:t="%lang/MOD_units_usa_usmc.csv"
+  file:t="%lang/MOD_units_venezuela.csv"
   file:t="%lang/MOD_units_vietnam.csv"
   file:t="%lang/MOD_units_vietnam_republic.csv"
   file:t="%lang/MOD_units_za_republic_air.csv"

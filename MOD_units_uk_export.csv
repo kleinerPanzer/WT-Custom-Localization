@@ -2,6 +2,10 @@
 
 shop/group/uk_marksman_za_group;Chieftain Marksman / Rooikat ZA-35
 shop/group/uk_stormer_group;Stormer Air Defence / FV4333
+shop/group/uk_stormer_9a33_group;Stormer Air Defence / Osa-A K
+shop/group/uk_vickers_olifant_group;Vickers Mk. 3 MBT / Olifant Mk. 1A
+shop/group/uk_vickers_rooikat_group;Vickers Mk. 11 LRPV / Rooikat Mk. 1D
+shop/group/uk_vfm_mttd_group;Vickers Mk. 5 BT / MTTD
 uk_vickers_mk_11_shop;Vickers Mk. 11 LRPV
 uk_vickers_mk_11_0;Vickers Mk. 11 Long Range Patrol Vehicle
 uk_vickers_mk_11_1;Vickers Mk. 11 LRPV
@@ -38,3 +42,17 @@ uk_vickers_mbt_mk_3_shop;Vickers Mk. 3 MBT
 uk_vickers_mbt_mk_3_0;Vickers Mk. 3 Main Battle Tank
 uk_vickers_mbt_mk_3_1;Vickers Mk. 3 MBT
 uk_vickers_mbt_mk_3_2;Vickers Mk. 3
+uk_chieftain_900_shop;Chieftain 900
+uk_chieftain_900_0;Chieftain 900
+uk_chieftain_900_1;Chieftain 900
+uk_chieftain_900_2;Chieftain
+
+shop/group/hawk_200_group;Hawk 200
+hawk_200_shop;Hawk 200
+hawk_200_0;Hawk 200
+hawk_200_1;Hawk 200
+hawk_200_2;Hawk
+hawk_200_rda_shop;Hawk 200 (RDA)
+hawk_200_rda_0;Hawk 200 (Radar Development Aircraft)
+hawk_200_rda_1;Hawk 200 (RDA)
+hawk_200_rda_2;Hawk
