@@ -51,8 +51,8 @@ tornado_ids_de_mfg_shop;IDS-Tornado (MFG 1)
 tornado_ids_de_mfg_0;Mehrzweckkampfflugzeug IDS-Tornado (Batch 2) (Marinefliegergeschwader 1)
 tornado_ids_de_mfg_1;IDS-Tornado
 tornado_ids_de_mfg_2;Tornado
-tornado_ids_de_assta1_shop;IDS-Tornado
-tornado_ids_de_assta1_0;Mehrzweckkampfflugzeug IDS-Tornado (Batch 2) (ASSTA 1)
+tornado_ids_de_assta1_shop;IDS-Tornado ASSTA 1
+tornado_ids_de_assta1_0;Mehrzweckkampfflugzeug IDS-Tornado ASSTA 1
 tornado_ids_de_assta1_1;IDS-Tornado
 tornado_ids_de_assta1_2;Tornado
 tornado_ids_de_wtd61_shop;IDS-Tornado (WTD 61)

@@ -68,6 +68,7 @@ locTable{
   file:t="%lang/pc_UiMessages.csv"
 
   // mod 
+  file:t="%lang/MOD_attachables.csv"
   file:t="%lang/MOD_engines.csv"
   file:t="%lang/MOD_modifcations.csv"
   file:t="%lang/MOD_sensors.csv"
@@ -268,7 +269,7 @@ locTable{
   file:t="%lang/MOD_weapons_ussr_surface_missiles.csv"
   file:t="%lang/MOD_weapons_ussr_tgps.csv"
   file:t="%lang/MOD_weapons_za_republic.csv"
-  file:t="%lang/MOD_xray.csv
+  file:t="%lang/MOD_xray.csv"
 }
 
 locTableFull{

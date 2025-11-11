@@ -22,3 +22,5 @@ sensors/sa_d_36;D-36;
 counterMeasures/varta_left;Варта
 counterMeasures/varta_right;Варта
 counterMeasures/varta;Варта
+
+sensors/hydrophone;Hydrophone

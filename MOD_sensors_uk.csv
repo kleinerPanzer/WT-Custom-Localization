@@ -14,6 +14,7 @@ sensors/uk_ari_23333;ARI 23333;
 sensors/uk_ari_5390;ARI 5390;
 sensors/uk_ari_5820;ARI 5820;
 sensors/uk_ari_5857;ARI 5857;
+sensors/uk_asdic;ASDIC
 sensors/uk_captor_m;CAPTOR-M
 sensors/uk_captor_m_pirate;CAPTOR-M / PIRATE
 sensors/uk_ferranti_blue_fox;Blue Fox;
@@ -33,6 +34,8 @@ sensors/uk_rapier_fr;Tracking Radar;
 sensors/uk_rapier_sr;Search Radar;
 sensors/uk_rooikat_za_35_search_radar;Search Radar;
 sensors/uk_sky_guardian_200;Sky Guardian 200;
+sensors/uk_sky_guardian_200d;Sky Guardian 200D;
+sensors/uk_sky_guardian_200d_apr_48;Sky Guardian 200D / Radar Frequency Interferometer, AN/APR-48
 sensors/uk_thales_adad_search;ADAD;
 sensors/uk_thales_adad_track;ADAD;
 sensors/uk_type_1006;Type 1006;

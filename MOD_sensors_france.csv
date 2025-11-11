@@ -4,6 +4,7 @@
 
 counterMeasures/eirel;EIREL
 sensors/fr_arabel;Arabel
+sensors/fr_antares_lws;Antares
 sensors/fr_crotale_search;Search Radar;
 sensors/fr_crotale_track;Tracking Radar;
 sensors/fr_leclerc_auto_target_tracker;TV Tracker;
