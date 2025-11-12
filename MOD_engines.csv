@@ -109,8 +109,11 @@ engine_model/zis_16;ЗиС-16;
 engine_manufacturer/utmz;УЗТМ;
 engine_model/2dg_8m;2ДГ-8М;
 engine_manufacturer/kamaz;КамАЗ;
+engine_manufacturer/isotta_fraschini;Isotta Fraschini
+engine_model/id38ss;ID 38 SS
 engine_manufacturer/man;MAN
 engine_model/740_632_400;740.632-400;
+engine_model/740_13_300;740.13-300
 engine_model/d2066;D2066
 engine_model/dxi11;DXi 11
 engine_manufacturer/lycoming_engines;Lycoming Engines;
@@ -266,6 +269,7 @@ engine_model/r-1820-67;R-1820-67;
 engine_model/r-1820-69;R-1820-69;
 engine_model/r2800-27;R-2800-27;
 engine_manufacturer/rolls-royce;Rolls-Royce;
+engine_model/condor_900e;Condor 900E
 engine_model/kestrel;Kestrel;
 engine_model/merlin-3;Merlin Mk. III;
 engine_model/merlin-20;Merlin Mk. XX;
@@ -292,6 +296,7 @@ engine_model/merlin-45m;Merlin Mk. 45M;
 engine_model/merlin-61;Merlin Mk. 61;
 engine_model/merlin-66;Merlin Mk. 66;
 engine_model/merlin-68a;Merlin Mk. 68A;
+engine_model/merlin-77;Merlin Mk. 77
 engine_model/merlin-266;Merlin Mk. 266;
 engine_model/griffon-65;Griffon Mk. 65;
 engine_model/griffon-61;Griffon Mk. 61;
@@ -795,6 +800,7 @@ engine_model/f100_ihi_220e;F100-IHI-220E;
 engine_model/rm12;RM 12;
 engine_model/f404_ge_100;F404-GE-100;
 engine_model/adour_mk811;Adour Mk. 811;
+engine_model/adour_mk871;Adour Mk. 871
 engine_model/avon_302c;Avon Mk. 301C;
 engine_model/j79_ihi_11;J79-IHI-11;
 engine_model/AVDS-1790-5A;AVDS-1790-5A;
@@ -806,6 +812,7 @@ engine_model/f402-rr-406;F402-RR-406;
 engine_model/vk-2500_03;ВК-2500-03
 engine_model/viper_633_41;Viper Mk. 633-41
 engine_model/viper_633_47;Viper Mk. 633-47
+engine_model/viper_632_43;Viper Mk. 632-43
 engine_model/m88_2;M88-2
 engine_manufacturer/eurojet;EuroJet
 engine_model/ej200;EJ200
@@ -826,3 +833,7 @@ engine_model/wz-9c;WZ-9C
 engine_model/vk-1f;ВК-1Ф
 engine_model/j75-p-17;J75-P-17
 engine_model/T700-GE-701D;T700-GE-701D
+engine_model/sagita_i_sr;Sagitta I-SR
+engine_model/t64_ge_716;T64-GE-716
+engine_model/r2000_7;R-2000-7
+engine_model/viper_mk540;Viper Mk. 540

@@ -55,6 +55,7 @@ radar_nctr;NCTR, types
 radar_sarh;SARH;
 radar_mg;Missile Guidance;
 radar_dl_channels;Datalink Channels;
+radar_predicted_missiles;Missiles Shown
 rwr_threats_types;Threat Types;
 rwr_tracked_threats_max;Max Tracked Targets;
 rwr_tracking_detection;Tracking Detection;

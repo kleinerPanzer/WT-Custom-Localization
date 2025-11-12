@@ -1,4 +1,5 @@
 <ID|readonly|noverify>;<NewLanguage>;
+modification/headerForWeapon;Weapon modifications
 modification/category/lth;Flight Performance;
 modification/category/armor;Survivability;
 modification/category/weapon;Weaponry;
@@ -983,10 +984,14 @@ modification/cn_ls_1000j/desc;Allows installation of TG-1000 guided bombs.;
 modification/cn_ls_1000j;TG-1000;
 modification/su_25_x29te/desc;Allows installatino of Х-29ТЕ missiles.;
 modification/su_25_x29te;Х-29ТЕ;
+modification/su_x29te_x59m/desc;Allows the installation of Х-29ТЕ and Х-59М missiles.
+modification/su_x29te_x59m;Х-29ТЕ / Х-59М
 modification/su_27sm_x29td;Х-29ТД
 modification/su_27sm_x29td/desc;Allows installation of Х-29ТД missiles.;
 modification/mig_27_x29t;Х-29Т;
 modification/mig_27_x29t/desc;Allows installation of Х-29Т missiles.;
+modification/su_kh_59/desc;Allows the installation of Х-59МЭ missiles.
+modification/su_kh_59;Х-59МЭ
 modification/su_fab_500_kab_500s/desc;Allows installation of 250 kg bombs and 500 kg bombs.;
 modification/su_fab_500_kab_500s;ФАБ-250 / ФАБ-500;
 modification/su_fab_500_upab_500b/desc;Allows installation of ФАБ-500 bombs or УПАБ-500Б guided bombs.
@@ -1079,6 +1084,8 @@ modification/il_spice_2000/desc;Allows the installation of SPICE 2000 guided bom
 modification/il_spice_2000;SPICE 2000
 modification/il_spice_1000_2000/desc;Allows the installation of SPICE 1000 and SPICE 2000 guided bombs.
 modification/il_spice_1000_2000;SPICE 1000 / SPICE 2000
+modification/de_hosbo_glide_bomb/desc;Allows the installation of HOSBO guided bombs.
+modification/de_hosbo_glide_bomb;HOSBO
 modification/fr_aasm_250_sbu_38/desc;Allows installation of HAMMER 250 kg (SBU 38) guided bombs.
 modification/fr_aasm_250_sbu_38;HAMMER 250 kg (SBU 38)
 modification/fr_aasm_250_sbu_64/desc;Allows installation of HAMMER 250 kg (SBU 64) guided bombs.
@@ -1129,6 +1136,8 @@ modification/us_gbu_32/desc;Allows the installation of GBU-32(V)1/B guided bombs
 modification/us_gbu_32;GBU-32
 modification/us_gbu_31/desc;Allows the installation of GBU-31(V)1/B guided bombs.
 modification/us_gbu_31;GBU-31
+modification/us_gbu_31_62/desc;Allows the installation of GBU-31(V)1/B and GBU-62(V)1/B JDAM guided bombs.
+modification/us_gbu_31_62;GBU-31 / GBU-62
 modification/us_gbu_31_64/desc;Allows the installation of GBU-31(V)1/B and GBU-64(V)1/B JDAM guided bombs.
 modification/us_gbu_31_64;GBU-31 / GBU-64
 modification/us_gbu_32_31/desc;Allows the installation of GBU-31(V)1/B and GBU-38(V)2/B and GBU-64(V)1/B JDAM guided bombs.
@@ -1344,8 +1353,12 @@ modification/m_1_fuel_tanks;KVT Vismod;
 modification/m_1_fuel_tanks/desc;Visual modification of M1 to Krasnovian Variant Tank by installing oil drums, rubber skirts, camouflage net, fake ERA, and fake IR illuminator, as well as removing side skirts.;
 modification/slat_armor_improvement;Slat Armor;
 modification/slat_armor_improvement/desc;Slat armor kit;
+modification/jaguar_ebrc_improvement;Slat Armor
+modification/jaguar_ebrc_improvement/desc;Slat armor kit
 modification/m1128_protection_improvement;Slat Armor;
 modification/m1128_protection_improvement/desc;Slat armor kit;
+modification/btr_82a_improvement;Additional Armor
+modification/btr_82a_improvement/desc;Additional armor kit
 modification/xm_8_protection_improvement;Level 3;
 modification/xm_8_protection_improvement/desc;Upgrading XM8 AGS to Level 3 protection standard by installing additional armor package.;
 modification/challenger_2_protection_improvement;Dorchester 2E;
@@ -1583,6 +1596,10 @@ modification/jp_asm1;ASM-1
 modification/jp_asm1/desc;Allows the installation of ASM-1 missiles.
 modification/jp_asm2;ASM-2
 modification/jp_asm2/desc;Allows the installation of ASM-2 missiles.
+modification/uk_sea_eagle;Sea Eagle
+modification/uk_sea_eagle/desc;Allows the installation of Sea Eagle missiles.
+modification/cn_yj_81k;YJ-81
+modification/cn_yj_81k/desc;Allows the installation of YJ-81 missiles.
 modification/fj_4b_agm_12b;AGM-12B;
 modification/fj_4b_agm_12b/desc;Allows installation of AGM-12B missiles.;
 modification/fj_4b_agm_12c;AGM-12C;
@@ -1743,6 +1760,8 @@ modification/su_sppu_6_gunpod;СППУ-6;
 modification/su_sppu_6_gunpod/desc;Allows installation of СППУ-6 gun pod.;
 modification/fr_mirage_f1c_cc_420_gunpod;CC-420;
 modification/fr_mirage_f1c_cc_420_gunpod/desc;Allows installation of CC-420 gun pods.;
+modification/it_macchi_39a_940_gunpod;39A-940-31/32
+modification/it_macchi_39a_940_gunpod/desc;Allows the installation of 39A-940-31/32 gun pods.
 modification/fr_cc630_gun_pod;CC-630;
 modification/fr_cc630_gun_pod/desc;Allows installation of CC-630 gun pods.;
 modification/fr_cc422_gun_pod;CC-422
@@ -2119,6 +2138,8 @@ modification/cn_akd_10/desc;Allows installation of AKD-10 missiles.;
 modification/cn_akd_10;AKD-10;
 modification/cn_cm_502kg/desc;Allows the installation of CM-502KG missiles.
 modification/cn_cm_502kg;CM-502KG
+modification/cn_ba_11/desc;Allows the installation of Blue Arrow 11A missiles.
+modification/cn_ba_11;BA-11A
 modification/ah_1_m200_2/desc;Allows installation of 2.75” FFAR rockets.;
 modification/ah_1_m200_2;M200A1;
 modification/ah_1_m261_hydra_70/desc;Allows installation of 2.75” Hydra-70 rockets.;
