@@ -309,6 +309,7 @@ weapons/76mm_1910_16_user_cannon;76-мм противоштурмовая пуш
 125mm_3of_19;3OФ19;
 125mm_3of_26;3OФ26;
 125mm_3of_26_edkv;3OФ26 ЭДКВ;
+125mm_3of_82;3OФ82
 weapons/100mm_D50_user_cannon;100-мм самоходная пушка Д-50;
 weapons/73mm_2A28_user_cannon;73-мм гладкоствольное орудие ТКБ-04 (2А28);
 73mm_og_9;OГ-9;
@@ -495,3 +496,5 @@ weapons/406mm_50_b37_naval_user_cannon;406-мм корабельная пушк�
 weapons/125mm_2A46_M1_T_80UD_user_cannon;125-мм танковая пушка 2А46М-1;
 weapons/152mm_2A64_user_cannon;152-мм гаубица 2А64
 weapons/152mm_2A65_m2_user_cannon;152-мм гаубица 2А64М2
+122mm_3vdcz3;3ДЦ3
+

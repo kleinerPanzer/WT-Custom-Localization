@@ -41,6 +41,7 @@ weapons/120mm_9m37m/short;ЗУР 9М37М;
 152mm_zur_9m311;ЗУР 9М311;
 152mm_zur_9m311_1m;ЗУР 9М311-1М;
 weapons/152mm_9M133_launcher_user_cannon;ПУ 9М133 для «Бережок»;
+weapons/152mm_9M133_btr_82at_launcher_user_cannon;ПУ 9М133
 weapons/152mm_9M123_launcher_user_cannon;ПУ 9М123 для «Хризантема»;
 weapons/120mm_9m37m_rocket_launcher;ПУ 9М37М для «Стрела-10М2»;
 weapons/120mm_9m37m_rocket_launcher/short;ПУ 9М37М для «Стрела-10М2»;

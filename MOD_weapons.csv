@@ -60,6 +60,7 @@ missile/guidance/ir+IOG+GNSS+DL;IR+INS+GNSS+DL
 missile/guidance/ir+IOG+DL;IR+INS+DL;
 missile/guidance/ir+IOG;IR+INS;
 missile/guidance/tv+IOG;TV+INS
+missile/guidance/tv+IOG+GNSS;TV+INS+GNSS
 missile/guidance/sns;GNSS;
 missile/guidance/mclos;MCLOS;
 missile/guidance/saclos;SACLOS;
@@ -541,6 +542,8 @@ shrapnel_tank/name;Shrapnel shell;
 shrapnel_tank/name/short;Shrapnel;
 ahead_tank/name;AHEAD;
 ahead_tank/name/short;AHEAD;
+ahead/name;AHEAD
+ahead/name/short;AHEAD
 napalm_tank/name;Incendiary mixture;
 napalm_tank/name/short;Napalm;
 apds_tank/name;Armor-Piercing Discarding Sabot shell;
@@ -699,6 +702,7 @@ explosiveType/a_ix_1;A-IX-1;
 explosiveType/h10;H. 10;
 explosiveType/h5;H. 5;
 explosiveType/comp_h6;Comp. H6;
+explosiveType/xp3264;XP3264
 explosiveType/comp_a4w;Comp. A-4;
 explosiveType/s_r_379;Comp. S.R. 379;
 explosiveType/np_10;Np. 10;

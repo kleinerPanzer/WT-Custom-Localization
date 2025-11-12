@@ -38,6 +38,8 @@ weapons/su_fab50x;50 kg авиационная бомба ФАБ-50св;
 weapons/su_fab50x/short;ФАБ-50св;
 weapons/su_fab100x;100 kg авиационная бомба ФАБ-100св;
 weapons/su_fab100x/short;ФАБ-100св;
+weapons/su_fab100_short_fin;100 kg авиационная бомба ФАБ-100св;
+weapons/su_fab100_short_fin/short;ФАБ-100св;
 weapons/su_fab250x;250 kg авиационная бомба ФАБ-250св;
 weapons/su_fab250x/short;ФАБ-250св;
 weapons/su_fab500x;500 kg авиационная бомба ФАБ-500св;

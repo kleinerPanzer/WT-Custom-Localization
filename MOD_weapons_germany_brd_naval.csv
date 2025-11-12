@@ -1,3 +1,6 @@
 <ID|readonly|noverify>;<NewLanguage>
 weapons/de_533mm_dm2a1_seal_torpedo;533 mm DM 2 A1;
 weapons/de_533mm_dm2a1_seal_torpedo/short;DM 2 A1;
+
+weapons/de_hosbo_glide_bomb;HOSBO
+weapons/de_hosbo_glide_bomb/short;HOSBO

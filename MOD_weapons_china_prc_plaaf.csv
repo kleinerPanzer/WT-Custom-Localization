@@ -98,12 +98,17 @@ weapons/cn_sd10a/short;SD-10A;
 weapons/cn_sd10a_default;SD-10A Air-to-Air Missile;
 weapons/cn_sd10a_default/short;SD-10A;
 
+weapons/cn_yj_81k;YJ-81反舰导弹
+weapons/cn_yj_81k/short;YJ-81(k)
+
 weapons/cn_cm_502kg_he;CM-502KG Light-Weight Short-Range Air-to-Surface Missile;CM-502KG轻型近程空面导弹
 weapons/cn_cm_502kg_he/short;CM-502KG
 weapons/cn_cm_502kg_he_rail;CM-502KG Light-Weight Short-Range Air-to-Surface Missile;CM-502KG轻型近程空面导弹
 weapons/cn_cm_502kg_he_rail/short;CM-502KG
 weapons/cn_ba_9;Blue Arrow 9 Air-to-Surface Missile;
 weapons/cn_ba_9/short;Blue Arrow 9;
+weapons/cn_ba_11;Blue Arrow 11A Air-to-Surface Missile
+weapons/cn_ba_11/short;BA-11A
 
 weapons/cn_ls_500j;LT-2 Laser Guided Bomb;LT-2激光制导炸弹;
 weapons/cn_ls_500j/short;LT-2;

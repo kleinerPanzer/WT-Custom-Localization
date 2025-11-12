@@ -259,3 +259,18 @@ weapons/65mm_50_m1902_naval_user_cannon;Canon de 65 mm modèle 1902
 weapons/65mm_50_m1902_naval_user_cannon/short;65 mm mle 1901
 65mm_50_fr_common;mle 1892
 65mm_50_fr_ap;mle 1902
+
+40mm_gpr_ke_t_apfsds;OFLT
+40mm_gpr_ab_t_he;OET CHR
+40mm_gpr_pd_t_he;OET
+40mm_ke_ab_ahead;PPM CHR
+40mm_ctc_ke_ab_ahead;KE-AB
+40mm_ctc_gpr_pd_t_he;GPR-PD-T
+40mm_ctc_ke_t_apfsds;APFSDS-T
+40mm_ctc_ab_t_he;GPR-AB-T
+weapons/40mm_CTC_user_cannon;Canon-mitrailleur de 40 mm
+weapons/380mm_45_mle_1935_mod_naval_user_cannon;Canon de 380 mm modèle 1935
+weapons/380mm_45_mle_1935_mod_naval_user_cannon/short;380 mm mle 1935
+weapons/100mm_45_mle_1933_naval_user_cannon;Canon de 100 mm modèle 1933
+weapons/100mm_45_mle_1933_naval_user_cannon/short;100 mm mle 1933
+100mm_oea1945_he_df;OEA mle 1945

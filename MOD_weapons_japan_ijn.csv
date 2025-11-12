@@ -27,6 +27,8 @@ weapons/356mm_45_41st_year_type_naval_user_cannon;四十五口径四一年式二
 weapons/40mm_62_hi_type91_naval_user_cannon;毘式四糎連装機銃;
 weapons/410mm_45_type_3_naval_user_cannon;四五口径三年式四一糎砲;
 weapons/410mm_45_type_3_naval_user_cannon/short;三年式四一糎砲;
+weapons/410mm_45_type_3_mod_naval_user_cannon;四五口径三年式四一糎砲
+weapons/410mm_45_type_3_mod_naval_user_cannon/short;三年式四一糎砲;
 weapons/460mm_45_type_94_naval_user_cannon;四五口径九四式四六糎砲
 weapons/460mm_45_type_94_naval_user_cannon/short;九四式四六糎砲
 weapons/7_7mm_80_type_92_naval_user_machinegun;九二式7,7mm重機関銃;
@@ -203,6 +205,7 @@ weapons/jp_type99mod80/short;800 kg 九九式;
 410mm_no3_apc;三式徹甲弾;
 410mm_no5_apc;五式徹甲弾;
 410mm_ordinary_type0_sap;〇式榴弾;
+410mm_type91_apc;九一式徹甲弾
 460mm_type0_common_he;〇式榴弾
 460mm_type91_apc;九一式徹甲弾
 76mm_40_41st_yt_he_tf;HE-TF;

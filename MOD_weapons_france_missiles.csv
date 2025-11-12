@@ -81,3 +81,6 @@ weapons/115_milan_2/short;MILAN 2;
 115_milan_2;MILAN 2;
 weapons/rocket_ss11_naval_rocket_launcher;SS.11;
 weapons/rocket_ss11_naval_rocket_launcher/short;SS.11;
+140mm_akeron_mp;MMP
+weapons/140mm_akeron_mp_rocket_launchr_user_cannon;Missile Moyenne Portée
+weapons/140mm_akeron_mp_rocket_launchr_user_cannon/short;MMP

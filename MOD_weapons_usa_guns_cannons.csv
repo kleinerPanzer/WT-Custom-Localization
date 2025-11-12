@@ -186,7 +186,7 @@ weapons/40mm_M266_user_cannon;Gun, 40-mm, Automatic: M266;
 105mm_t298e1;HEAT-T, T298E1;
 105mm_t182e1;APC-T, T182E1;
 105mm_t279;HVAPDS-T, T279;
-weapons/7_62mm_Mk52_user_machinegun;Machine Gun, 7.62-mm, Mk 52;
+weapons/7_62mm_Mk52_user_machinegun;7.62 mm Mk52 Bushmaster Chain Gun
 weapons/cannonM197;Gun, 25-mm, Automatic: M197;
 weapons/cannonM197_external;Gun, 25-mm, Automatic: M197;
 weapons/cannonXM140;Gun, 30-mm, Automatic: XM140;
@@ -219,9 +219,11 @@ weapons/cannonGAU_12U/short;GAU-12/U;
 weapons/cannonGAU_8A;Gun, Automatic, 30-mm: GAU-8/A;
 weapons/cannonGAU_8A/short;GAU-8/A;
 weapons/grenade_launcher_M129;Launcher, Grenade: 40-mm, M129;
-weapons/gunM134_Minigun;7.62 mm Machine Gun, High-Rate, M134;
 weapons/grenade_launcher_M129/short;M129;
+weapons/gunM134_Minigun;7.62 mm Machine Gun, High-Rate, M134;
 weapons/gunM134_Minigun/short;M134;
+weapons/gunM134_Minigun_ah_56;7.62 mm Machine Gun, High-Rate, M134;
+weapons/gunM134_Minigun_ah_56/short;M134
 weapons/gunM134_Minigun_default;7.62 mm Machine Gun, High-Rate, M134;
 weapons/gunM134_Minigun_default/short;M134;
 weapons/grenade_launcher_M75;Launcher, Grenade: 40-mm, M75;

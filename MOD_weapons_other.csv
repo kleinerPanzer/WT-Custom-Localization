@@ -133,6 +133,8 @@ weapons/80mm_brenus_smoke_grenade_launcher/short;Smoke;
 80mm_galix_smoke_grenade;Smoke grenade;
 weapons/t_34_100_smoke_barrel_launcher;МДШ;
 weapons/t_34_100_smoke_barrel_launcher/short;Smoke;
+weapons/t_34_85_stp_s53_smoke_barrel_launcher;МДШ
+weapons/t_34_85_stp_s53_smoke_barrel_launcher/short;МДШ
 weapons/t_44_100_smoke_barrel_launcher;МДШ;
 weapons/t_44_100_smoke_barrel_launcher/short;Smoke;
 weapons/asu_85_smoke_barrel_launcher;БДШ-5;
@@ -243,3 +245,6 @@ weapons/cz_ofab_100mb/short;OFAB-100MB
 weapons/cz_ofab_100_110_tu_jupiter;100 kg OFAB-100-110TU
 weapons/cz_ofab_100_110_tu_jupiter/short;OFAB-100-110TU
 weapons/155mm_CN98_user_cannon;155 mm CN98;
+weapons/7_62mm_FN_MAG58_user_machinegun;7.62 mm MAG 58
+apds_sabot;APDS Sabot
+apfsds_sabot;APFSDS Sabot
