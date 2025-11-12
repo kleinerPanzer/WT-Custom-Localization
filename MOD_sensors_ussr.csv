@@ -77,7 +77,7 @@ sensors/su_satellite_m2;АРТЗ «Сателлит-М2»;
 sensors/su_snr_75;РЛС СНР-75
 sensors/su_spo-10;СПО-10 «Сирена-3»;
 sensors/su_spo-15;СПО-15 «Берёза»;
-sensors/su_spo-150-14;СПО-150-14;
+sensors/su_spo-150-14;Л-150-14;
 sensors/su_spo-150-16m;СПО-150-16М;
 sensors/su_spo-150-28m;СПО-150-28М
 sensors/su_spo-150-30m1;СПО-150-30М1
