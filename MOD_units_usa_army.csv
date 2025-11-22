@@ -642,11 +642,11 @@ us_apc_m113_2;M113
 
 // HELICOPTER, ATTACK //
 ah_1f_shop;AH-1F
-ah_1f_0;Helicopter, Attack, AH-1F Cobra
+ah_1f_0;Helicopter, Attack, AH-1F (Cobra-Nite) Cobra
 ah_1f_1;AH-1F
 ah_1f_2;AH-1
 ah_1f_event_shop;AH-1F
-ah_1f_event_0;Helicopter, Attack, AH-1F Cobra
+ah_1f_event_0;Helicopter, Attack, AH-1F (Cobra-Nite) Cobra
 ah_1f_event_1;AH-1F
 ah_1f_event_2;AH-1
 ah_1g_shop;AH-1G
@@ -667,9 +667,9 @@ ah_6m_0;Helicopter, Attack, AH-6M
 ah_6m_1;AH-6M
 ah_6m_2;AH-6M
 
-ah_56a_shop;YAH-56A
-ah_56a_0;YAH-56A Cheyenne
-ah_56a_1;YAH-56A
+ah_56a_shop;AH-56A
+ah_56a_0;AH-56A Cheyenne
+ah_56a_1;AH-56A
 ah_56a_2;AH-56A
 
 yah_64_shop;YAH-64

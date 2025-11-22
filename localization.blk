@@ -69,6 +69,7 @@ locTable{
 
   // mod 
   file:t="%lang/MOD_attachables.csv"
+  file:t="%lang/MOD_bg.csv"
   file:t="%lang/MOD_engines.csv"
   file:t="%lang/MOD_modifcations.csv"
   file:t="%lang/MOD_sensors.csv"

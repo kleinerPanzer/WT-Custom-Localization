@@ -22,16 +22,16 @@ p-39q_25_france_0;⚜ P-39Q-25 BE
 p-39q_25_france_1;⚜ P-39Q
 p-39q_25_france_2;P-39
 pby-5a_late_france_shop;⚜ PBY-5A (t)
-pby-5a_late_france_0;⚜ PBY-5A (tard)
+pby-5a_late_france_0;⚜ PBY-5A (BuNo 46580-46638)
 pby-5a_late_france_1;⚜ PBY-5
 pby-5a_late_france_2;PBY
-d_520_shop;▄ D.520
-d_520_0;▄ D.520
-d_520_1;▄ D.520
+d_520_shop;▄ D.520-C1
+d_520_0;▄ D.520-C1
+d_520_1;▄ D.520-C1
 d_520_2;D.520
-d_521_shop;▄ D.521
-d_521_0;▄ D.521
-d_521_1;▄ D.521
+d_521_shop;▄ D.521-01
+d_521_0;▄ D.521-01
+d_521_1;▄ D.521-01
 d_521_2;D.521
 gl_832_shop;GL-832 HY
 gl_832_0;GL-832 HY
@@ -49,9 +49,9 @@ f-8e_fn_shop;⚜ F-8E(FN)
 f-8e_fn_0;⚜ F-8E(French Navy)
 f-8e_fn_1;⚜ F-8E(FN)
 f-8e_fn_2;F-8
-db_7_shop;▄ DB-7 B-3
-db_7_0;▄ DB-7 B-3 (tôt)
-db_7_1;▄ DB-7 B
+db_7_shop;▄ DB-7-B3
+db_7_0;▄ DB-7-B3
+db_7_1;▄ DB-7-B3
 db_7_2;DB-7
 b_25j_30_france_shop;B-25J-30
 b_25j_30_france_0;B-25J-30
@@ -73,17 +73,17 @@ p-40f-5_france_ep_shop;⚜ P-40F-5 (GC II/5)
 p-40f-5_france_ep_0;⚜ P-40F-5 CU (Constantin Rozanoff, Groupe de Chasse II/5 "Lafayette")
 p-40f-5_france_ep_1;⚜ P-40F
 p-40f-5_france_ep_2;P-40
-shop/group/leo_451_group;LeO 451 / LeO 451 (AAV)
+shop/group/leo_451_group;LéO 451-BN4 / LéO 451-BN4 (AAV)
 f4u-7_shop;⚜ F4U-7
 f4u-7_0;⚜ F4U-7
 f4u-7_1;⚜ F4U-7
 f4u-7_2;F4U
-h-75a-1_france39_shop;H75-C1 (1ère)
-h-75a-1_france39_0;H75-C1 (1ère série)
+h-75a-1_france39_shop;H75-C1
+h-75a-1_france39_0;H75-C1 (№1 à 100)
 h-75a-1_france39_1;H75-C
 h-75a-1_france39_2;H75
-h-75a-1_france40_shop;H75-C1 (1ère)
-h-75a-1_france40_0;H75-C1 (1ère série)
+h-75a-1_france40_shop;H75-C1
+h-75a-1_france40_0;H75-C1 (№1 à 100)
 h-75a-1_france40_1;H75-C
 h-75a-1_france40_2;H75
 h-75a-2_france_shop;H75-C1 (2ème)
@@ -94,7 +94,7 @@ h-75a-3_france_shop;H75-C1 (3ème)
 h-75a-3_france_0;H75-C1 (3ème série)
 h-75a-3_france_1;H75-C
 h-75a-3_france_2;H75
-shop/group/potez_group;Potez 630.01 / Potez 631.01
+shop/group/potez_group;Potez 630-C3 / Potez 631-C3
 shop/group/md_454_group;Mystère IVA / Super Mystère B2
 shop/group/so_4050_vautour_group;Vautour IIB / Vautour IIA
 shop/group/mirage_3_group;Mirage IIIC / Mirage IIIE
@@ -130,9 +130,9 @@ so_4050_vautour_2b_shop;Vautour IIB
 so_4050_vautour_2b_0;S.O.4050 Vautour IIB
 so_4050_vautour_2b_1;Vautour IIB
 so_4050_vautour_2b_2;Vautour II
-d_520_france_shop;D.520
-d_520_france_0;D.520
-d_520_france_1;D.520
+d_520_france_shop;D.520-C1
+d_520_france_0;D.520-C1
+d_520_france_1;D.520-C1
 d_520_france_2;D.520
 p-63c-5_france_shop;⚜ P-63C-5
 p-63c-5_france_0;⚜ P-63C-5
@@ -150,11 +150,11 @@ f8f1b_france_shop;⚜ F8F-1B
 f8f1b_france_0;⚜ F8F-1B
 f8f1b_france_1;⚜ F8F-1
 f8f1b_france_2;F8F
-so_8000_narval_shop;Narval
-so_8000_narval_0;S.O.8000 Narval
-so_8000_narval_1;Narval
-so_8000_narval_2;Narval
-shop/group/d_371_group;D.371 / D.373
+so_8000_narval_shop;S.O.8000-02
+so_8000_narval_0;S.O.8000-02
+so_8000_narval_1;S.O.8000-02
+so_8000_narval_2;S.O.8000
+shop/group/d_371_group;D.371-C1 / D.373-C1
 pb4y-2_france_shop;⚜ PB4Y-2
 pb4y-2_france_0;⚜ PB4Y-2
 pb4y-2_france_1;⚜ PB4Y-2
@@ -175,88 +175,88 @@ f6f-5n_france_shop;⚜ F6F-5N
 f6f-5n_france_0;⚜ F6F-5N
 f6f-5n_france_1;⚜ F6F-5
 f6f-5n_france_2;F6F
-d_371_shop;D.371
-d_371_0;D.371
-d_371_1;D.371
+d_371_shop;D.371-C1
+d_371_0;D.371-C1
+d_371_1;D.371-C1
 d_371_2;D.371
-shop/group/d_500_group;D.500 / D.501
-d_500_shop;D.500
-d_500_0;D.500
-d_500_1;D.500
+shop/group/d_500_group;D.500-C1 / D.501-C1
+d_500_shop;D.500-C1
+d_500_0;D.500-C1
+d_500_1;D.500-C1
 d_500_2;D.500
-d_501_shop;D.501
-d_501_0;D.501
-d_501_1;D.501
+d_501_shop;D.501-C1
+d_501_0;D.501-C1
+d_501_1;D.501-C1
 d_501_2;D.501
-d_510_shop;D.510 (GC I/1)
-d_510_0;D.510 (Gabriel Pallier, Groupe de Chasse I/1)
-d_510_1;D.510
+d_510_shop;D.510-C1 (GC I/1)
+d_510_0;D.510-C1 (Gabriel Pallier, Groupe de Chasse I/1)
+d_510_1;D.510-C1
 d_510_2;D.510
-mb_162_shop;MB.162.01
-mb_162_0;MB.162.01
-mb_162_1;MB.162.01
-mb_162_2;MB.162
-mb_174_a3_shop;MB.174A-3
-mb_174_a3_0;MB.174A-3
-mb_174_a3_1;MB.174A
-mb_174_a3_2;MB.174
-d_373_shop;D.373
-d_373_0;D.373
-d_373_1;D.373
+mb_162_shop;Bloch 162-01
+mb_162_0;Bloch 162-01
+mb_162_1;Bloch 162-01
+mb_162_2;Bloch 162
+mb_174_a3_shop;Bloch 174-A3
+mb_174_a3_0;Bloch 174-A3
+mb_174_a3_1;Bloch 174-A3
+mb_174_a3_2;Bloch 174
+d_373_shop;D.373-C1
+d_373_0;D.373-C1
+d_373_1;D.373-C1
 d_373_2;D.373
-d_371_hs9_shop;D.371 (HS.9)
-d_371_hs9_0;D.371 (Hispano-Suiza HS.9)
-d_371_hs9_1;D.371 (HS.9)
+d_371_hs9_shop;D.371 (2 canons)
+d_371_hs9_0;D.371 (2 canons à l'étude)
+d_371_hs9_1;D.371 (2 canons)
 d_371_hs9_2;D.371
-leo_451_early_shop;LeO 451
-leo_451_early_0;LeO 451
-leo_451_early_1;LeO 451
-leo_451_early_2;LeO 451
-shop/group/f_222_group;F.222.2 / NC.223.3
-f_222_2_shop;F.222.2
-f_222_2_0;F.222.2
-f_222_2_1;F.222.2
-f_222_2_2;F.222
-potez_630_shop;Potez 630.01
-potez_630_0;Potez 630.01
-potez_630_1;Potez 630.01
+leo_451_early_shop;LéO 451-BN4
+leo_451_early_0;LéO 451-BN4
+leo_451_early_1;LéO 451-BN4
+leo_451_early_2;LéO 451
+shop/group/f_222_group;F.2222-BN5 / N.C.2233-BN5
+f_222_2_shop;F.2222-BN5
+f_222_2_0;F.2222-BN5
+f_222_2_1;F.2222-BN5
+f_222_2_2;F.2222
+potez_630_shop;Potez 630-C3
+potez_630_0;Potez 630-C3
+potez_630_1;Potez 630-C3
 potez_630_2;Potez 630
-potez_631_shop;Potez 631.01
-potez_631_0;Potez 631.01
-potez_631_1;Potez 631.01
+potez_631_shop;Potez 631-C3
+potez_631_0;Potez 631-C3
+potez_631_1;Potez 631-C3
 potez_631_2;Potez 631
-potez_633_shop;Potez 633.01
-potez_633_0;Potez 633.01
-potez_633_1;Potez 633.01
+potez_633_shop;Potez 633-B2
+potez_633_0;Potez 633-B2
+potez_633_1;Potez 633-B2
 potez_633_2;Potez 633
-br_693_ab2_shop;Br.693AB2
-br_693_ab2_0;Br.693AB2
-br_693_ab2_1;Br.693AB
-br_693_ab2_2;Br.693
-mb_157_shop;MB.157-C1
-mb_157_0;MB.157-C1
-mb_157_1;MB.157-C
-mb_157_2;MB.157
-ms_410c1_shop;MS.410C1
-ms_410c1_0;MS.410C1
-ms_410c1_1;MS.410C
-ms_410c1_2;MS.410
-vb_10_02_shop;VB 10-02
-vb_10_02_0;VB 10-02
-vb_10_02_1;VB 10-02
-vb_10_02_2;VB 10
-vb_10c1_shop;VB 10.C1
-vb_10c1_0;VB 10.C1
-vb_10c1_1;VB 10.C
-vb_10c1_2;VB 10
-vg_33_shop;VG 33.C1
-vg_33_0;VG 33.C1
-vg_33_1;VG 33.C
-vg_33_2;VG 33
-nc_223_3_shop;NC.223.3
-nc_223_3_0;NC.223.3
-nc_223_3_1;NC.223.3
-nc_223_3_2;NC.223
+br_693_ab2_shop;Bre.693-AB2
+br_693_ab2_0;Bre.693-AB2
+br_693_ab2_1;Bre.693-AB2
+br_693_ab2_2;Bre.693
+mb_157_shop;Bloch 157-01
+mb_157_0;Bloch 157-01
+mb_157_1;Bloch 157-01
+mb_157_2;Bloch 157
+ms_410c1_shop;M.S.410-C1
+ms_410c1_0;M.S.410-C1
+ms_410c1_1;M.S.410-C1
+ms_410c1_2;M.S.410
+vb_10_02_shop;V.B.10-02
+vb_10_02_0;V.B.10-02
+vb_10_02_1;V.B.10-02
+vb_10_02_2;V.B.10
+vb_10c1_shop;V.B.10-C1
+vb_10c1_0;V.B.10-C1
+vb_10c1_1;V.B.10-C1
+vb_10c1_2;V.B.10
+vg_33_shop;V.G.33-C1
+vg_33_0;V.G.33-C1
+vg_33_1;V.G.33-C1
+vg_33_2;V.G.33
+nc_223_3_shop;N.C.2233-BN5
+nc_223_3_0;N.C.2233-BN5
+nc_223_3_1;N.C.2233-BN5
+nc_223_3_2;N.C.2233
 md_452_mystere_2a_shop;Mystère IIA
 md_452_mystere_2a_0;M.D.452 Mystère IIA
 md_452_mystere_2a_1;Mystère IIA
@@ -355,31 +355,31 @@ v_156_f_shop;⚜ V-156-F
 v_156_f_0;⚜ V-156-F
 v_156_f_1;⚜ V-156-F
 v_156_f_2;V-156
-h-75a-1_france_shop;H75C-1 (1ère)
-h-75a-1_france_0;H75-C1 (1ère série)
-h-75a-1_france_1;H75-C
+h-75a-1_france_shop;H75-C1
+h-75a-1_france_0;H75-C1 (№1 à 100)
+h-75a-1_france_1;H75-C1
 h-75a-1_france_2;H75
-h-75a-4_france_shop;H75-C1 (4ème)
-h-75a-4_france_0;H75-C1 (4ème série)
-h-75a-4_france_1;H75-C
-h-75a-4_france_2;H75
-ms_405c1_shop;MS.405C1
-ms_405c1_0;MS.405C1
-ms_405c1_1;MS.405C
-ms_405c1_2;MS.405
-ms_406c1_shop;MS.406C1
-ms_406c1_0;MS.406C1
-ms_406c1_1;MS.406C
-ms_406c1_2;MS.406
-shop/group/ms_405_406_group;MS.405C1 / MS.406C1
+h-75a-4_france_shop;H751-C1
+h-75a-4_france_0;H751-C1
+h-75a-4_france_1;H751-C1
+h-75a-4_france_2;H751
+ms_405c1_shop;M.S.405-C1
+ms_405c1_0;M.S.405-C1
+ms_405c1_1;M.S.405-C1
+ms_405c1_2;M.S.405
+ms_406c1_shop;M.S.406-C1
+ms_406c1_0;M.S.406-C1
+ms_406c1_1;M.S.406-C1
+ms_406c1_2;M.S.406
+shop/group/ms_405_406_group;M.S.405-C1 / M.S.406-C1
 spad_13_shop;SPA XIII
 spad_13_0;SPA XIII
 spad_13_1;SPA XIII
 spad_13_2;SPA XIII
-shop/group/h-75_france_group;H75-C1 (1ère) / H75-C1 (4ème)
+shop/group/h-75_france_group;H75-C1 / H751-C1
 maryland_mk1_france_shop;Martin 167-A3
 maryland_mk1_france_0;Martin 167-A3
-maryland_mk1_france_1;Martin 167-A
+maryland_mk1_france_1;Martin 167-A3
 maryland_mk1_france_2;Martin 167
 yak-3_france_shop;⚜ Yak-3 (RC 2/30)
 yak-3_france_0;⚜ Yak-3 (Régiment de Chasse 2/30 "Normandie-Niémen")
@@ -393,23 +393,22 @@ md_454_mystere_4a_shop;Mystère IVA
 md_454_mystere_4a_0;M.D.454 Mystère IVA
 md_454_mystere_4a_1;Mystère IVA
 md_454_mystere_4a_2;Mystère
-
-mb_175t_shop;MB.175T
-mb_175t_0;MB.175T
-mb_175t_1;MB.175T
-mb_175t_2;MB.175
+mb_175t_shop;Bloch 175 T
+mb_175t_0;Bloch 175 T
+mb_175t_1;Bloch 175 T
+mb_175t_2;Bloch 175
 f-100d_france_shop;⚜ F-100D-10
 f-100d_france_0;⚜ F-100D-10 NA
 f-100d_france_1;⚜ F-100D
 f-100d_france_2;F-100
-mb_152c1_shop;MB.152-C1
-mb_152c1_0;MB.152-C1
-mb_152c1_1;MB.152-C
-mb_152c1_2;MB.152
-mb_151c1_shop;MB.151-C1
-mb_151c1_0;MB.151-C1
-mb_151c1_1;MB.151-C
-mb_151c1_2;MB.151
+mb_152c1_shop;Bloch 152-C1
+mb_152c1_0;Bloch 152-C1
+mb_152c1_1;Bloch 152-C1
+mb_152c1_2;Bloch 152
+mb_151c1_shop;Bloch 151-C1
+mb_151c1_0;Bloch 151-C1
+mb_151c1_1;Bloch 151-C1
+mb_151c1_2;Bloch 151
 late_298d_shop;Latécoère 298D
 late_298d_0;Latécoère 298D
 late_298d_1;Latécoère 298D
@@ -430,5 +429,5 @@ f-86k_late_shop;⚜ F-86K
 f-86k_late_0;⚜ F-86K (1962)
 f-86k_late_1;⚜ F-86K
 f-86k_late_2;F-86
-shop/group/vg_33_group;VG 33.C1 / D.520
-shop/group/maryland_group;Martin 167-A3 / MB.174A-3
+shop/group/vg_33_group;V.G.33-C1 / D.520-C1
+shop/group/maryland_group;Martin 167-A3 / Bloch 174-A3
