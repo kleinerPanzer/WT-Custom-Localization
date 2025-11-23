@@ -1,42 +1,42 @@
 <ID|readonly|noverify>;<NewLanguage>
 loading_bg/login_bkg_1_63_nolayers_jp;キ87
 loading_bg/login_bkg_1_63_nolayers_ru;FIX ME;FIX ME;
-loading_bg/login_bkg_1_63_nolayers_uk;Swingfire
-loading_bg/login_bkg_1_63_nolayers_us;M163
-loading_bg/login_bkg_1_67_nolayers_ger;RU 251
-loading_bg/login_bkg_1_67_nolayers_jp;キ67甲 & P-47N-15
-loading_bg/login_bkg_1_67_nolayers_main;Centurion Mk. I*
+loading_bg/login_bkg_1_63_nolayers_uk;Update 1.63 "Desert Hunters" — Swingfire & Brigand
+loading_bg/login_bkg_1_63_nolayers_us;Update 1.63 "Desert Hunters" — M163 & F-9E
+loading_bg/login_bkg_1_67_nolayers_ger;Update 1.67 "Assault" — RU 251 & Ju 87 B-2
+loading_bg/login_bkg_1_67_nolayers_jp;Update 1.67 "Assault" — P-47N-15 & キ67甲
+loading_bg/login_bkg_1_67_nolayers_main;Update 1.67 "Assault" — Centurion Mk. I*
 loading_bg/login_bkg_1_67_nolayers_ru;FIX ME;FIX ME;
-loading_bg/login_bkg_1_67_nolayers_us;T14 & B-10B
+loading_bg/login_bkg_1_67_nolayers_us;Update 1.67 "Assault" — T14 & B-10B
 loading_bg/login_keyart_f_100d;F-100D-66
 loading_bg/login_layer;P-47D-25
-loading_bg/login_layer_173_narv;French Air Forces
-loading_bg/login_layer_187;AH-1F & M1A1
+loading_bg/login_layer_173_narv;Update 1.73 "Vive la France" — French Air Forces
+loading_bg/login_layer_187;M1A1
 loading_bg/login_layer_1_04_20;Space Thunder
-loading_bg/login_layer_1_75;French Ground Forces
+loading_bg/login_layer_1_75;Update 1.75 "La Résistance" — French Ground Forces
 loading_bg/login_layer_1_87_t2;T-2後期型
 loading_bg/login_layer_1_93_mangusta;RAH-129C
 loading_bg/login_layer_1_97_strf_90c;Strf 9040C
 loading_bg/login_layer_9_years;War Thunder — 9th Anniversary
 loading_bg/login_layer_a1;Spitfire LF. Mk. IX (e) (No. 127 Wing)
-loading_bg/login_layer_a179;Update "Advancing Storm"
-loading_bg/login_layer_a_10a;A-10A
+loading_bg/login_layer_a179;M1
+loading_bg/login_layer_a_10a;A-10A (23 TFW)
 loading_bg/login_layer_ah1;▅ AH-1S (MC) (CN)
 loading_bg/login_layer_ah_56a;AH-56A
 loading_bg/login_layer_ah_64d;AH-64D
 loading_bg/login_layer_ah_6m;AH-6M
-loading_bg/login_layer_air_finland;Finnish Air Forces
+loading_bg/login_layer_air_finland;Update "Fire and Ice" — Finnish Air Forces
 loading_bg/login_layer_air_marathon_2024;IAR 93 B
 loading_bg/login_layer_air_superiority;Update "Air Superiority"
 loading_bg/login_layer_amx_50_1950;Char 50t (TO 90/930)
 loading_bg/login_layer_apex_predators;Update "Apex Predators"
 loading_bg/login_layer_arizona_1931;Arizona (BB-39)
-loading_bg/login_layer_armored_vehicles;Update "La Royale"
-loading_bg/login_layer_art_ukdest;British Naval Forces
+loading_bg/login_layer_armored_vehicles;Update "La Royale" — Wheeled IFVs
+loading_bg/login_layer_art_ukdest;Matapan (I 43)
 loading_bg/login_layer_atomic_tank;Centurion Mk. 5/1
-loading_bg/login_layer_atomic_thunder;FIX ME;FIX ME;
-loading_bg/login_layer_atomic_thunder_twins_01;FIX ME;FIX ME;
-loading_bg/login_layer_atomic_thunder_twins_02;FIX ME;FIX ME;
+loading_bg/login_layer_atomic_thunder;Atomic Thunder
+loading_bg/login_layer_atomic_thunder_twins_01;Atomic Heart — МиГ-15
+loading_bg/login_layer_atomic_thunder_twins_02;Atomic Heart — War Machines
 loading_bg/login_layer_avre;Centurion Mk. 5 AVRE
 loading_bg/login_layer_b1;PBY-5
 loading_bg/login_layer_b1_bis;B1 bis
@@ -78,13 +78,13 @@ loading_bg/login_layer_f_4_phantom;F-4C-25
 loading_bg/login_layer_f_4f_lws_lv;◄ F-4F KWS-LV
 loading_bg/login_layer_f_5a_rocaf;☀ F-5A-25
 loading_bg/login_layer_fa_18c_late;F/A-18C-48
-loading_bg/login_layer_finnish_ground_forces;Finnish Ground Forces
-loading_bg/login_layer_fire_and_forget;
+loading_bg/login_layer_finnish_ground_forces;Update "Ice and Fire" — Finnish Ground Forces
+loading_bg/login_layer_fire_and_forget;Update "Tusk Force" — Attack Helicopters
 loading_bg/login_layer_fokker_g1a;G.I Mercury
-loading_bg/login_layer_football;FIX ME;FIX ME;
-loading_bg/login_layer_football_event_2025;FIX ME;FIX ME;
+loading_bg/login_layer_football;Tank Football
+loading_bg/login_layer_football_event_2025;Tank Football — What a Kick!
 loading_bg/login_layer_forrestal;Forrestal (CVA 59) &  A-4B
-loading_bg/login_layer_fr_1_73;D.510-C1 & N.C.2233-BN5
+loading_bg/login_layer_fr_1_73;Update 1.73 "Vive la France" — French Air Forces
 loading_bg/login_layer_fr_amx;AMX 40 P4
 loading_bg/login_layer_g1;キ84-I乙
 loading_bg/login_layer_g5_e;Q5
@@ -94,12 +94,12 @@ loading_bg/login_layer_h1;P-47D-28 (Escuadrón 201)
 loading_bg/login_layer_harrier_gr1;Harrier GR.1
 loading_bg/login_layer_hawk_200;Hawk 200
 loading_bg/login_layer_he_177a_3;He 177A-3/R3
-loading_bg/login_layer_helicopters_it;Italian Helicopters
-loading_bg/login_layer_hungary_aircrafts;Hungarian Air Forces
-loading_bg/login_layer_hungary_ground_vehicles;Hungarian Ground Forces
+loading_bg/login_layer_helicopters_it;Update "Hot Tracks" — Italian Helicopters
+loading_bg/login_layer_hungary_aircrafts;Update "Alpha Strike" — Hungarian Air Forces
+loading_bg/login_layer_hungary_ground_vehicles;Update "Sons of Attila" — Hungarian Ground Forces
 loading_bg/login_layer_i1;F-84B-26
 loading_bg/login_layer_iris_slm_launch;LV-Sys IRIS-T SLM
-loading_bg/login_layer_israel_aircraft;Israeli Air Forces
+loading_bg/login_layer_israel_aircraft;Update "Winged Lions" — Israeli Air Forces
 loading_bg/login_layer_it_cent;Centauro
 loading_bg/login_layer_it_g91;G.91 R/4 (Es. 301)
 loading_bg/login_layer_it_gg;G.91 R/1
@@ -109,15 +109,15 @@ loading_bg/login_layer_jaguar;Jaguar GR.1
 loading_bg/login_layer_jaguar_a;Jaguar A
 loading_bg/login_layer_jaguar_ebrc;Jaguar
 loading_bg/login_layer_jas39gripen;JAS 39A
-loading_bg/login_layer_jp_1_65;Japanese Ground Forces
+loading_bg/login_layer_jp_1_65;Update 1.65 "Way of the Samurai" — Japanese Ground Forces
 loading_bg/login_layer_k1;F6F-3
 loading_bg/login_layer_ka_52;Ка-52
 loading_bg/login_layer_kfir_c7;C7 ריפכ
 loading_bg/login_layer_khrizantema;9П157-2
-loading_bg/login_layer_kings_battle;Update "Kings of Battle"
+loading_bg/login_layer_kings_battle;Update "Kings of Battle" — Artillery
 loading_bg/login_layer_kungstiger;♛ Tiger II
 loading_bg/login_layer_l1;Me 410 A-1
-loading_bg/login_layer_la_royale;Update "La Royale"
+loading_bg/login_layer_la_royale;Update "La Royale" — French Naval Forces
 loading_bg/login_layer_leopard_2a4;KPz Leopard 2 A4
 loading_bg/login_layer_leopard_2a6;KPz Leopard 2 A6
 loading_bg/login_layer_luchs_a2_fv107_scimitar;SpPz 2 A2 Luchs & Scimitar
@@ -145,7 +145,7 @@ loading_bg/login_layer_object_248;ИС-5 (Oбъ. 248)
 loading_bg/login_layer_object_279;Oбъ. 279
 loading_bg/login_layer_oplot_t;ถ.หลัก 57
 loading_bg/login_layer_p1;Ho 229 V3
-loading_bg/login_layer_p51_1_71;P-51H-10
+loading_bg/login_layer_p51_1_71;Update 1.71 "New E.R.A." — P-51H-10 & XA-38
 loading_bg/login_layer_panhard_ebr_1963;EBR 90 mle 63
 loading_bg/login_layer_pgz_625_fb10;CS/SA5
 loading_bg/login_layer_pt_76_57;ПТ-76Б (БМ-57)
@@ -156,7 +156,7 @@ loading_bg/login_layer_rafale;Rafale C F4.1 & Eurofighter
 loading_bg/login_layer_rah_66_comanche;RAH-66A
 loading_bg/login_layer_re_2005_vdm;Re.2005 (MM.495)
 loading_bg/login_layer_rooikat76;Rooikat Mk. 1D
-loading_bg/login_layer_rsa_ground;South African Ground Forces
+loading_bg/login_layer_rsa_ground;Update "Ixwa Strike" — South African Ground Forces
 loading_bg/login_layer_s1;Т-34-85 (сент. 1944)
 loading_bg/login_layer_saab_j29d;J 29D
 loading_bg/login_layer_saab_j32b;J 32B
@@ -180,9 +180,9 @@ loading_bg/login_layer_su_30sm;Су-30СМ
 loading_bg/login_layer_su_34;Су-34 НВО
 loading_bg/login_layer_su_8;Су-8
 loading_bg/login_layer_submarine_convoy_hunting;Battle of the Atlantic
-loading_bg/login_layer_sw_tanks;Swedish Ground Forces
-loading_bg/login_layer_swedish_aircrafts;Swedish Air Forces
-loading_bg/login_layer_t1;USSR Ground Forces
+loading_bg/login_layer_sw_tanks;Update 1.97 "Viking Fury" — Swedish Ground Forces
+loading_bg/login_layer_swedish_aircrafts;Update 1.95 "Northern Wind" — Swedish Air Forces
+loading_bg/login_layer_t1;Update 1.41 — USSR Ground Forces
 loading_bg/login_layer_t72b;Т-72Б3М (2016)
 loading_bg/login_layer_t90;Т-90А (2006)
 loading_bg/login_layer_t_44_po;Т-44 (1-я обр.)
@@ -202,7 +202,7 @@ loading_bg/login_layer_v1;Ju 87 D-5
 loading_bg/login_layer_vt_4b;VT4A1
 loading_bg/login_layer_w1;Т-34-85 (март. 1944) & Pz.Kpfw. IV G (März 1942)
 loading_bg/login_layer_wiesels;WaTrg Wiesel
-loading_bg/login_layer_winter_marathon_2024;Winter Tales
+loading_bg/login_layer_winter_marathon_2024;Winter Extreme
 loading_bg/login_layer_wolfpack;M1128 MGS (3/2CR)
 loading_bg/login_layer_wt2077;Warfare 2077
 loading_bg/login_layer_wt_10_years;War Thunder — 10th Anniversary
