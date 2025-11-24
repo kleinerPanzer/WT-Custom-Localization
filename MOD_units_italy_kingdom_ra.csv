@@ -16,18 +16,18 @@ fiat_cr42_0;▀ CR.42 bis
 fiat_cr42_1;▀ CR.42 bis
 fiat_cr42_2;▀ CR.42
 fiat_g50_seria2_shop;▀ G.50 II
-fiat_g50_seria2_0;▀ G.50 serie II
+fiat_g50_seria2_0;▀ G.50 serie II
 fiat_g50_seria2_1;▀ G.50
 fiat_g50_seria2_2;▀ G.50
 fiat_g50_seria7as_shop;▀ G.50 VII AS
-fiat_g50_seria7as_0;▀ G.50 AS serie VII
+fiat_g50_seria7as_0;▀ G.50 AS serie VII
 fiat_g50_seria7as_1;▀ G.50
 fiat_g50_seria7as_2;▀ G.50
-mc200_serie3_shop;▀ C.200 III
+mc200_serie3_shop;▀ C.200 III
 mc200_serie3_0;▀ C.200 serie III
 mc200_serie3_1;▀ C.200
 mc200_serie3_2;▀ C.200
-mc200_serie7_shop;▀ C.200 VII
+mc200_serie7_shop;▀ C.200 VII
 mc200_serie7_0;▀ C.200 serie VII
 mc200_serie7_1;▀ C.200
 mc200_serie7_2;▀ C.200
@@ -39,7 +39,7 @@ sm_79_1936_shop;▀ SM.79 I
 sm_79_1936_0;▀ SM.79 serie I (1936)
 sm_79_1936_1;▀ SM.79
 sm_79_1936_2;▀ SM.79
-sm_79_1937_shop;▀ SM.79 IV
+sm_79_1937_shop;▀ SM.79 IV
 sm_79_1937_0;▀ SM.79 serie IV (1937)
 sm_79_1937_1;▀ SM.79
 sm_79_1937_2;▀ SM.79
@@ -47,7 +47,7 @@ sm_79_1939_shop;▀ SM.79 VIII
 sm_79_1939_0;▀ SM.79 serie VIII (1939)
 sm_79_1939_1;▀ SM.79
 sm_79_1939_2;▀ SM.79
-sm_79_1941_shop;▀ SM.79 AS
+sm_79_1941_shop;▀ SM.79 AS
 sm_79_1941_0;▀ SM.79 AS (1941)
 sm_79_1941_1;▀ SM.79
 sm_79_1941_2;▀ SM.79
@@ -85,7 +85,7 @@ sm_79_1936_italy_shop;SM.79 I
 sm_79_1936_italy_0;SM.79 serie I (1936)
 sm_79_1936_italy_1;SM.79
 sm_79_1936_italy_2;SM.79
-sm_79_1937_italy_shop;SM.79 IV
+sm_79_1937_italy_shop;SM.79 IV
 sm_79_1937_italy_0;SM.79 serie IV (1937)
 sm_79_1937_italy_1;SM.79
 sm_79_1937_italy_2;SM.79
@@ -93,7 +93,7 @@ sm_79_1939_italy_shop;SM.79 VIII
 sm_79_1939_italy_0;SM.79 serie VIII (1939)
 sm_79_1939_italy_1;SM.79
 sm_79_1939_italy_2;SM.79
-sm_79_1941_italy_shop;SM.79 AS
+sm_79_1941_italy_shop;SM.79 AS
 sm_79_1941_italy_0;SM.79 AS (1941)
 sm_79_1941_italy_1;SM.79
 sm_79_1941_italy_2;SM.79
@@ -122,7 +122,7 @@ s_81_ar125_shop;SM.81 (AR 125)
 s_81_ar125_0;SM.81 (Alfa-Romeo 125)
 s_81_ar125_1;SM.81
 s_81_ar125_2;SM.81
-mc200_serie3_italy_shop;C.200 III
+mc200_serie3_italy_shop;C.200 III
 mc200_serie3_italy_0;C.200 serie III
 mc200_serie3_italy_1;C.200
 mc200_serie3_italy_2;C.200
@@ -163,7 +163,7 @@ ro_44_0;Ro. 44
 ro_44_1;Ro. 44
 ro_44_2;Ro. 44
 g_55_serie1_shop;G.55 I
-g_55_serie1_0;G.55 serie I
+g_55_serie1_0;G.55 serie I
 g_55_serie1_1;G.55
 g_55_serie1_2;G.55
 g_55_serie1_ss0_shop;G.55 0
@@ -281,7 +281,7 @@ mc-205_n2_0;C.205 N2
 mc-205_n2_1;C.205 N
 mc-205_n2_2;C.205
 shop/group/mc_205_group;C.205 I / C.205 III
-bf-109g-14as_shop;⛨ Bf 109 G-14/AS
-bf-109g-14as_0;⛨ Bf 109 G-14/AS
-bf-109g-14as_1;⛨ Bf 109 G
-bf-109g-14as_2;Bf 109
+bf-109g-14as_shop;⛨ Bf 109 G-14/AS
+bf-109g-14as_0;⛨ Bf 109 G-14/AS
+bf-109g-14as_1;⛨ Bf 109 G
+bf-109g-14as_2;Bf 109

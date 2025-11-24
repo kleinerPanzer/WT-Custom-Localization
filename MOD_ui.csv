@@ -2081,7 +2081,7 @@ hints/follow_camera;To activate the tracking camera, press {shortcut} after the 
 hints/control_help;To show the control help list, press {shortcut}
 hints/caliber_switch;To switch between weapon calibres, press {shortcut}
 hints/allow_smoke_screen;Press to activate the smoke screen while at the altitude from {minAlt}m to {maxAlt}m
-hints/allow_smoke_screen_nokey;Press "Hydroplane smoke screen activation" to activate the smoke screen while at the altitude from {minAlt} m to {maxAlt} m
+hints/allow_smoke_screen_nokey;Press "Hydroplane smoke screen activation" to activate the smoke screen while at the altitude from {minAlt} m to {maxAlt} m
 hints/say_thanks_offer;Thank an ally
 hints/say_thanks_offer_nokey;To thank an ally, use the "Radio messages for team" button
 hints/say_thanks_offer_nokey/xinput;To thank an ally, use the "Multi-function Menu" button
