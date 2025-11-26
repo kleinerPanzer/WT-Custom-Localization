@@ -28,9 +28,9 @@ weapons/us_2000lb_gbu_15v2/short;GBU-15(V)2/B;
 weapons/us_2000lb_gbu_8_hobos;Bomb Unit, Guided, GBU-8/B;
 weapons/us_2000lb_gbu_8_hobos/short;GBU-8/B;
 weapons/us_500lb_gbu38_usaf;Bomb Unit, Guided, GBU-38(V)2/B JDAM;
-weapons/us_500lb_gbu38_usaf/short;GBU-38;
+weapons/us_500lb_gbu38_usaf/short;GBU-38(V)2/B;
 weapons/us_500lb_gbu38_usnavy;Bomb Unit, Guided, GBU-38(V)2/B JDAM;
-weapons/us_500lb_gbu38_usnavy/short;GBU-38;
+weapons/us_500lb_gbu38_usnavy/short;GBU-38(V)2/B;
 weapons/us_500lb_gbu_54b;Bomb Unit, Guided, GBU-54(V)1/B LJDAM
 weapons/us_500lb_gbu_54b/short;GBU-54(V)1/B
 weapons/us_500lb_gbu_54b_navy;Bomb Unit, Guided, GBU-54(V)1/B LJDAM
