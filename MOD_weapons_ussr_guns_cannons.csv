@@ -1,500 +1,600 @@
 <ID|readonly|noverify>;<NewLanguage>
-weapons/100mm_LB1_user_cannon;100-мм танковая пушка ЛБ-1;
-weapons/100mm_C34_user_cannon;100-мм танковая пушка С-34;
-weapons/100mm_D10S_user_cannon;100-мм самоходная пушка обр. 1944 г. (Д-10СУ);
-weapons/100mm_D10T_user_cannon;100-мм танковая пушка обр. 1944 г. (Д-10T);
-weapons/152mm_2A33_user_cannon;152-мм гаубица Д-22 (2А33М);
-152mm_3of25;3ОФ25;
-152mm_3of25_vt;3ОФ25 «Гриф»;
-152mm_3of45;3ОФ45;
-152mm_3of45_vt;3ОФ45-1;
-weapons/122mm_M62T2S_user_cannon;122-мм танковая пушка М-62Т2 (2А17);
-weapons/122mm_M30_user_cannon;122-мм гаубица обр. 1938 г. (М-30);
-weapons/122mm_A19_user_cannon;122-мм самоходная пушка обр. 1931/44 г. (A-19C);
-weapons/122mm_D25S_user_cannon;122-мм самоходная пушка обр. 1943 г. (Д-25C);
-weapons/122mm_D25T_user_cannon;122-мм танковая пушка обр. 1943 г. (Д-25Т);
-weapons/122mm_D25TS_user_cannon;122-мм танковая пушка обр. 1943 г. (Д-25ТC);
-weapons/122mm_D30T_user_cannon;122-мм танковая пушка Д-30T;
-weapons/122mm_D49_user_cannon;122-мм самоходная пушка Д-49;
-weapons/130mm_B13_user_cannon;130-мм корабельная пушка обр. 1935 г. (Б-13);
-weapons/152mm_M10T_user_cannon;152-мм танковая гаубица обр. 1938 г. (М-10T);
-weapons/152mm_ML20S_user_cannon;152-мм самоходная гаубица-пушка обр. 1937 г. (МЛ-20С);
-weapons/20mm_TNSh_user_cannon;20-мм танковая пушка ТНШ-20;
-weapons/25mm_72K_user_cannon;25-мм автоматическая зенитная пушка обр. 1940 г. (72-К);
-weapons/37mm_Sh_37_user_cannon;37-мм пушка Ш-37;
-weapons/37mm_61_K_user_cannon;37-мм автоматическая зенитная пушка обр. 1939 г. (61-К);
-weapons/45mm_20K_for_tutorial_user_cannon;45-мм танковая пушка обр. 1932/38 г. (20-K);
-weapons/45mm_20K_user_cannon_for_T_35;45-мм танковая пушка обр. 1932/38 г. (20-K);
-weapons/45mm_20K_user_cannon;45-мм танковая пушка обр. 1932/38 г. (20-K);
-weapons/57mm_ZIS2_user_cannon;57-мм противотанковая пушка обр. 1941 г. (ЗиС-2);
-weapons/57mm_S_68_user_cannon;57-мм автоматическая зенитная пушка C-68;
-weapons/57mm_AU_220_user_cannon;57-мм автоматическая зенитная пушка 2А90;
-weapons/57mm_AU_220M_user_cannon;57-мм автоматическая зенитная пушка 2А90;
-weapons/57mm_ZIS4M_user_cannon;57-мм танковая пушка ЗиС-4;
-weapons/57mm_ZIS4_user_cannon;57-мм танковая пушка ЗиС-4;
-weapons/57mm_ZIS4_open_turret_user_cannon;57-мм танковая пушка ЗиС-4;
+
+weapons/7_62mm_Maxim_user_machinegun;7,62-мм пулемёт Максима обр. 1910 г.;
+weapons/7_62mm_maxim_garford_user_machinegun;7,62-мм пулемёт Максима обр. 1910 г.
+weapons/7_62mm_maxim_naval_user_machinegun;7,62-мм пулемёт Максима обр. 1910 г.;
+weapons/gunPV1;7,62-мм авиационный пулемёт ПВ-1;
 weapons/gunDA762;7,62-мм авиационный пулемёт ДА;
-weapons/cannonNR23;23-мм авиационная пушка НР-23;
-weapons/cannonNR23_turret;23-мм авиационная пушка НР-23;
-weapons/cannonNS23;23-мм авиационная пушка НC-23;
-weapons/cannonNS23k;23-мм авиационная пушка НC-23K;
-weapons/cannonNS37;37-мм авиационная пушка НC-37;
-weapons/cannonNS37_su_6;37-мм авиационная пушка НC-37;
-weapons/cannonNS37_assault;37-мм авиационная пушка НC-37;
-weapons/cannonSH37;37-мм авиационная пушка Ш-37;
-weapons/cannonSH37/short;Ш-37;
-weapons/cannonNS45;45-мм авиационная пушка НC-45;
-weapons/cannonNS45_heavy_aircrafts;45-мм авиационная пушка НC-45;
-weapons/cannonNS45_heavy_aircrafts/short;НC-45;
-weapons/cannonN37D;37-мм авиационная пушка Н-37Д;
-weapons/cannonN37;37-мм авиационная пушка Н-37;
-weapons/cannonB20;20-мм авиационная пушка Б-20;
-weapons/cannonB20S;20-мм авиационная пушка Б-20C;
-weapons/cannonB20M;20-мм авиационная пушка Б-20М;
-weapons/cannonB20_turret;20-мм авиационная пушка УБ-20;
-weapons/cannonBT20_turret;20-мм авиационная пушка БТ-20;
+weapons/7_62mm_DT_user_machinegun;7,62-мм танковый пулемёт ДT;
 weapons/gunShKAS;7,62-мм авиационный пулемёт ШКАС;
 weapons/gunShKAS_turret;7,62-мм авиационный пулемёт ШКАС;
-weapons/cannonShVAK;20-мм авиационная пушка ШВАК;
-weapons/cannonShVAKS;20-мм авиационная пушка ШВАК;
-weapons/cannonShVAK_turret;20-мм авиационная пушка ШВАК;
-weapons/cannonShVAK_early;20-мм авиационная пушка ШВАК;
+weapons/7_62mm_SGMT_user_machinegun;7,62-мм танковый пулемёт СГМТ;
+weapons/7_62mm_RP46_user_machinegun;7,62-мм ротный пулемёт обр.1946 г. (РП-46);
+weapons/gun_pk3;7,62-мм пулемёт ПК (6П6);
+weapons/gun_pk3/short;PK
+weapons/gunPKA762;7,62-мм авиационный пулемёт ПКA;
+weapons/gunPKA762/short;ПКA;
+weapons/7_62mm_PKMB_user_machinegun;7,62-мм пулемёт ПКМ (6П6М);
+weapons/gun_pkt;7,62-мм бронетранспортёрный пулемёт ПКМБ (6П10М);
+weapons/gun_pkt/short;ПКМБ;
+weapons/7_62mm_PKT_beltfed_user_machinegun;7,62-мм танковый пулемёт ПКT (6П7);
+weapons/7_62mm_PKT_user_machinegun;7,62-мм танковый пулемёт ПКT (6П7);
+weapons/7_62mm_PKTM_user_machinegun;7,62-мм танковый пулемёт ПКTМ (6П7К);
+weapons/gunGShG;7,62-мм авиационная пушка ГШГ-7,62;
+weapons/gunGShG_guv;7,62-мм авиационная пушка ГШГ-7,62;
+weapons/gunGShG_guv/short;ГШГ-7,62;
+
 weapons/gunUB;12,7-мм авиационный пулемёт УБС;
+weapons/gunUBS;12,7-мм авиационный пулемёт УБС;
 weapons/gunUBK;12,7-мм авиационный пулемёт УБK;
 weapons/gunUBK_turret;12,7-мм авиационный пулемёт УБK;
 weapons/gunUB_turret;12,7-мм авиационный пулемёт УБТ;
-weapons/cannonVYa;23-мм авиационная пушка ВЯ;
-weapons/gunUBS;12,7-мм авиационный пулемёт УБС;
-weapons/gunPV1;7,62-мм авиационный пулемёт ПВ-1;
-weapons/76mm_D56_TS_user_cannon;76-мм танковая пушка Д-56ТС;
-weapons/76mm_D56_T_user_cannon;76-мм танковая пушка Д-56T;
-weapons/76mm_52_d56ts_naval_user_cannon;76-мм танковая пушка Д-56ТС;
-weapons/76mm_KT28_for_T26_user_cannon;76-мм танковая пушка обр. 1927/32 г. (KT-28);
-weapons/76mm_KT28_user_cannon;76-мм танковая пушка обр. 1927/32 г. (KT-28);
-weapons/76mm_F32_user_cannon;76-мм танковая пушка обр. 1939 г. (Ф-32);
-weapons/76mm_F34_user_cannon;76-мм танковая пушка обр. 1940 г. (Ф-34);
-weapons/76mm_L10_user_cannon;76-мм танковая пушка обр. 1938 г. (Л-10);
-weapons/76mm_L11_T34_early_user_cannon;76-мм танковая пушка обр. 1938/39 г. (Л-11);
-weapons/76mm_L11_SMK_user_cannon;76-мм танковая пушка обр. 1938/39 г. (Л-11);
-weapons/76mm_L11_user_cannon;76-мм танковая пушка обр. 1938/39 г. (Л-11);
-weapons/76mm_ZIS3_user_cannon;76-мм дивизионная пушка обр. 1942 г. (ЗиС-3);
-weapons/76mm_ZIS5_user_cannon;76-мм танковая пушка обр. 1941 г. (ЗиС-5);
-weapons/76mm_F96_user_cannon;76-мм танковая пушка Ф-96;
-weapons/85mm_F30_user_cannon;85-мм танковая пушка Ф-30;
-weapons/85mm_D5T_user_cannon;85-мм танковая пушка обр. 1943 г. (Д-5T-85);
-weapons/85mm_D5S_user_cannon;85-мм самоходная пушка обр. 1943 г. (Д-5С-85А);
-weapons/85mm_ZiS_S_53_user_cannon;85-мм танковая пушка обр. 1944 г. (ЗиС-С-53);
-weapons/85mm_Type_56_user_cannon;85-мм танковая пушка обр. 1944 г. (ЗиС-С-53);
-weapons/7_62mm_SGMT_user_machinegun;7,62-мм танковый пулемёт СГМТ;
-weapons/7_62mm_Maxim_user_machinegun;7,62-мм пулемёт Максима обр. 1910 г.;
-weapons/14_5mm_KPVT_BTR_152_user_machinegun;14,5-мм танковый пулемёт КПВТ;
-weapons/14_5mm_KPVT_user_machinegun;14,5-мм танковый пулемёт КПВТ;
 weapons/12_7mm_DK_user_machinegun;12,7-мм пулемёт ДК;
 weapons/12_7mm_DShK_user_machinegun;12,7-мм пулемёт обр. 1938 г. (ДШК);
-weapons/7_62mm_DT_user_machinegun;7,62-мм танковый пулемёт ДT;
-weapons/20mm_TNSh_Sh_user_cannon;20-мм шагающая пушка ТНШ-20Ш;
-weapons/152mm_M10Sh_user_cannon;152-мм шагающая гаубица обр. 1938 г. (М-10Ш);
-25mm_br_132;53-БР-132;
-25mm_ozr_132;53-ОЗР-132;
-25mm_br85;53-БР-85;
-25mm_ozr85;53-ОЗР-85;
-37mm_BT;БT;
-37mm_OFZ;ОФЗ;
-37mm_UBR_167P;53-БР-167П;
-37mm_UBR_167;53-БР-167;
-37mm_UOR_167;53-OР-167;
-85mm_o_365m;53-O-365М;
-85mm_o_365k;53-O-365K;
-85mm_br_367p;53-БР-367П;
-85mm_br_367;53-БР-367;
-85mm_br_365p;53-БР-365П;
-85mm_br_365k;53-БР-365K;
-85mm_br_365a;53-БР-365;
-85mm_br_365;53-БР-365;
-76mm_sh_353;53-Ш-353;
-76mm_sh_354t;53-Ш-354T;
-76mm_of_350m;53-OФ-350;
-76mm_br_350sp;53-БР-350СП;
-76mm_br_354p;53-БР-354П;
-76mm_br_350b;53-БР-350Б (МД-8);
-76mm_br_350a;53-БР-350A (МД-5);
-76mm_bp_350m;53-БП-350М;
-76mm_bp_350a;53-БП-350А;
-76mm_br_354n;53-БР-354Н;
-76mm_bk_354m;53-БК-354М;
-76mm_br_354;53-БР-354;
-57mm_o_271;53-O-271У;
-57mm_br_271sp;53-БР-271СП;
-57mm_br_271p;53-БР-271П;
-57mm_br_271m;53-БР-271М;
-57mm_br_271n;53-БР-271Н;
-57mm_br_271k;53-БР-271К;
-57mm_br_271;53-БР-271;
-57mm_or_281u;53-ОР-281У;
-57mm_or_281u_belt;53-ОР-281У;
-57mm_br_281u;53-БР-281У
-57mm_br_281u_belt;53-БР-281У
-57mm_br_281sp;53-БР-281СП;
-57mm_br_281;53-БР-281;
-57mm_3ubr_22;3УБР22;
-57mm_3uo8;3УO8;
-45mm_o_243;53-O-240;
-45mm_br_243sp;53-БР-240СП;
-45mm_br_243p;53-БР-240П;
-45mm_br_243;53-БР-240;
-152mm_of_540;53-OФ-540;
-152mm_of_530;53-OФ-530;
-152mm_br_540;53-БР-540;
-152mm_br_540b;53-БР-540Б;
-152mm_bp_540;53-БП-540;
-152mm_pb_35;A3-ПБ-35;
-152mm_g_530;53-Г-530;
-130mm_pb_46a;A3-ПБ-46A;
-130mm_of_46;A3-OФ-46;
-122mm_bp_462;53-БП-460А;
-122mm_of_472;53-OФ-472;
-122mm_of_462;53-OФ-462;
-122mm_of_471;53-OФ-471;
-122mm_br_472;53-БР-472;
-122mm_br_471b;53-БР-471Б;
-122mm_br_471;53-БР-471;
-122mm_br_471d;53-БР-471Д;
-122mm_zbk_10;3БК10;
-122mm_zbk_9;3БК9;
-122mm_zbm_11;3БМ11;
-122mm_zbm_7;3БМ7;
-100mm_of_412;53-OФ-412;
-100mm_br_412b;53-БР-412Б;
-100mm_br_412;53-БР-412;
-100mm_br_412d;53-БР-412Д;
-100mm_br_412p;53-БР-412P;
-100mm_zbk_5;3БК5;
-100mm_zbm8;3БМ8;
-weapons/cannonPTB23;23-мм авиационная пушка ПТБ-23;
-weapons/122mm_D25_44T_user_cannon;122-мм танковая пушка обр. 1943 г. (Д-25-44Т);
-weapons/107mm_ZIS6_user_cannon;107-мм танковая пушка ЗиС-6;
-107mm_b420;53-Б-420;
-107mm_of_420;53-OФ-420;
-weapons/57mm_Ch51M_user_cannon;57-мм самоходная пушка Ч-51М;
-weapons/85mm_D70_user_cannon;85-мм самоходная пушка Д-70 (2А15);
-85mm_br_372;53-БР-372;
-85mm_of_372;53-OФ-372;
-85mm_3bk7;3БK7М;
-152mm_3c1;3C1;
-weapons/152mm_3c1/short;3C1;
-weapons/115mm_U5TS_user_cannon;115-мм танковая пушка У-5ТС (2A20);
-weapons/100mm_2A48_user_cannon;100-мм танковая пушка Д-33 (2A48-1);
-weapons/37mm_2A11_user_cannon;37-мм автоматическая зенитная пушка 2A11;
-weapons/125mm_KBA_3_user_cannon;125-мм танкова гармата КБА-3
-weapons/7_62mm_KT_user_machinegun;7,62-мм кулемет КТ-7,62
-weapons/12_7mm_KT_user_cannon;12,7-мм кулемет КТ-12,7
-weapons/125mm_2A75_user_cannon;125-мм самоходная пушка 2A75;
-weapons/125mm_2A75_M_user_cannon;125-мм самоходная пушка 2A75-1
-115mm_3bk_4;3БK4;
-115mm_3bm4;3БМ4;
-115mm_3of_11;3OФ11;
-115mm_3bm3;3БМ3;
-weapons/125mm_2A46M_user_cannon;125-мм танковая пушка 2A46;
 weapons/12_7mm_DShK_GAZ_user_machinegun;12,7-мм пулемёт oбр. 1938 г. (ДШК);
-weapons/23mm_2A7_user_cannon;23-мм автоматическая зенитная пушка 2А7;
-weapons/23mm_2A14_user_cannon;23-мм автоматическая зенитная пушка 2А14;
-23mm_apit;БЗТ;
-23mm_heit;ОФЗТ;
-30mm_vog_30;ВОГ-30;
-23mm_hei;HEI
-20mm_shvak_api;API
-20mm_shvak_apit;API-T
-20mm_shvak_frag;FI
-20mm_shvak_frag_t;FI-T
-weapons/30mm_AG_30_user_cannon;30-мм автоматический гранатомёт АГС-30 (6Г25);
-weapons/85mm_55_zis_s53_naval_user_cannon;85-мм танковая пушка обр. 1944 г. (ЗиС-С-53);
-45mm_br_240_ap;53-БР-240;
-weapons/130mm_M65_user_cannon;130-мм танковая пушка М-65;
-weapons/130mm_C70_user_cannon;130-мм танковая пушка C-70;
-weapons/7_62mm_RP46_user_machinegun;7,62-мм ротный пулемёт обр.1946 г. (РП-46);
-weapons/30mm_2A38_user_cannon;30-мм автоматическая зенитная пушка 2А38;
-weapons/30mm_2A38M_user_cannon;30-мм автоматическая зенитная пушка 2А38М;
-weapons/30mm_2A38M1_user_cannon;30-мм автоматическая зенитная пушка 2А38М1;
-weapons/30mm_2A42_user_cannon;30-мм автоматическая пушка 2А42;
-weapons/30mm_2a42_md_user_cannon;30-mm konetykkiin 2A42
-weapons/30mm_2A72_user_cannon;30-мм автоматическая пушка 2А72;
-weapons/30mm_2A72_BTR_user_cannon;30-мм автоматическая пушка 2А72;
-30mm_UBR6;3УБР6;
-30mm_UOF8;3УОФ8;
-30mm_UOR6;3УОР6;
-30mm_3UBR8;3УБР8;
-30mm_3ubr_11;3УБР11;
-30mm_he_tf;HE-TF
+weapons/12_7mm_dshk_1938_naval_user_machinegun;12,7-мм пулемёт обр. 1938 г. (ДШК);
 weapons/gunA_12_7;12,7-мм авиационный пулемёт A-12,7 (ТКБ-481);
+weapons/gunTkb_481;12,7-мм авиационный пулемёт А-12,7 (ТКБ-481);
+weapons/gunTkb_481/short;А-12,7;
 weapons/gunYaK_B;12,7-мм авиационный пулемёт Яk-Б-12,7 (ТКБ-063);
 weapons/gunYaK_B/short;Яk-Б-12,7;
 weapons/gunYaK_B_guv;12,7-мм авиационный пулемёт Яk-Б-12,7 (ТКБ-063);
 weapons/gunYaK_B_guv/short;Яk-Б-12,7;
-weapons/gunKord;12,7-мм пулемёт Корд-T (6П51);
-weapons/gunKord/short;Корд-Т
-weapons/gun_pkt;7,62-мм бронетранспортёрный пулемёт ПКМБ (6П10М);
-weapons/gun_pkt/short;ПКМБ;
-weapons/gun_pk3;7,62-мм пулемёт ПК (6П6);
-weapons/gun_pk3/short;PK
-weapons/gunTkb_481;12,7-мм авиационный пулемёт А-12,7 (ТКБ-481);
-weapons/gunTkb_481/short;А-12,7;
-weapons/cannonGSh_23L_upk_23_250_deafult;23-мм авиационная пушка ГШ-23Л;
-weapons/cannonGSh_23L_upk_23_250;23-мм авиационная пушка ГШ-23Л;
-weapons/cannonGSh_23L;23-мм авиационная пушка ГШ-23Л;
-weapons/cannonGSh_30_2K;30-мм авиационная пушка ГШ-30-2K;
-weapons/cannonGSh_30_2;30-мм авиационная пушка ГШ-30-2;
-weapons/cannonGSh_6_30;30-мм авиационная пушка ГШ-6-30;
-weapons/cannonGSh_6_30/short;ГШ-6-30;
-weapons/cannonGSh_301;30-мм авиационная пушка ГШ-30-1;
-weapons/cannonGSh_301/short;ГШ-30-1;
-weapons/cannonGSh_6_23M;23-мм авиационная пушка ГШ-6-23М;
-weapons/cannonGSh_6_23M/short;ГШ-6-23М;
-weapons/cannonNR30;30-мм авиационная пушка НР-30;
-weapons/cannonNR30_early;30-мм авиационная пушка НР-30;
-weapons/cannonNR30_early/short;НР-30;
-weapons/cannon2A42;30-мм автоматическая пушка 2А42;
-weapons/cannon2A42/short;2А42;
-weapons/gunGShG;7,62-мм авиационная пушка ГШГ-7,62;
-weapons/gunGShG_guv;7,62-мм авиационная пушка ГШГ-7,62;
-weapons/gunGShG_guv/short;ГШГ-7,62;
-weapons/gunPKA762;7,62-мм авиационный пулемёт ПКA;
-weapons/gunPKA762/short;ПКA;
-130mm_of_482m;53-OФ-482М;
-130mm_br_482b;53-БР-482Б;
 weapons/12_7mm_NSV_user_cannon;12,7-мм танковый пулемёт НСВТ-12,7 (6П17);
 weapons/12_7mm_NSV_t_80_user_cannon;12,7-мм танковый пулемёт НСВТ-12,7 (6П17);
 weapons/12_7mm_NSV_t_72_user_cannon;12,7-мм танковый пулемёт НСВТ-12,7 (6П17);
 weapons/12_7mm_6P50_Kord_user_machinegun;12,7-мм танковый пулемёт Корд (6П49);
 weapons/12_7mm_6P50_Kord_t_72_user_machinegun;12,7-мм танковый пулемёт Корд (6П49);
 weapons/12_7mm_6P50_Kord_t_90m_2020_user_machinegun;12,7-мм танковый пулемёт Корд (6П49);
+weapons/gunKord;12,7-мм пулемёт Корд-T (6П51);
+weapons/gunKord/short;Корд-Т
+
+weapons/14_5mm_kpv_naval_user_machinegun;14,5-мм KПВ;
+weapons/14_5mm_KPVT_BTR_152_user_machinegun;14,5-мм танковый пулемёт КПВТ;
+weapons/14_5mm_KPVT_user_machinegun;14,5-мм танковый пулемёт КПВТ;
+
+weapons/cannonShVAK;20-мм авиационная пушка ШВАК;
+weapons/cannonShVAKS;20-мм авиационная пушка ШВАК;
+weapons/cannonShVAK_turret;20-мм авиационная пушка ШВАК;
+weapons/cannonShVAK_early;20-мм авиационная пушка ШВАК;
+weapons/20mm_shvak_naval_user_cannon;20-мм авиационная пушка ШВАК;
+weapons/20mm_TNSh_user_cannon;20-мм танковая пушка ТНШ-20;
+weapons/20mm_TNSh_Sh_user_cannon;20-мм шагающая пушка ТНШ-20Ш;
+weapons/cannonB20;20-мм авиационная пушка Б-20;
+weapons/cannonB20S;20-мм авиационная пушка Б-20C;
+weapons/cannonB20M;20-мм авиационная пушка Б-20М;
+weapons/cannonB20_turret;20-мм авиационная пушка УБ-20;
+weapons/cannonBT20_turret;20-мм авиационная пушка БТ-20;
+
+weapons/cannonVYa;23-мм авиационная пушка ВЯ;
+weapons/cannonNS23;23-мм авиационная пушка НC-23;
+weapons/cannonNS23k;23-мм авиационная пушка НC-23K;
+weapons/cannonNR23;23-мм авиационная пушка НР-23;
+weapons/cannonNR23_turret;23-мм авиационная пушка НР-23;
+weapons/cannonPTB23;23-мм авиационная пушка ПТБ-23;
+weapons/cannonGSh_23;23-мм авиационная пушка ГШ-23-2;
+weapons/cannonGSh_23L_upk_23_250_deafult;23-мм авиационная пушка ГШ-23Л;
+weapons/cannonGSh_23L_upk_23_250;23-мм авиационная пушка ГШ-23Л;
+weapons/cannonGSh_23L;23-мм авиационная пушка ГШ-23Л;
+weapons/cannonGSh_6_23M;23-мм авиационная пушка ГШ-6-23М;
+weapons/cannonGSh_6_23M/short;ГШ-6-23М;
+weapons/23mm_2A7_user_cannon;23-мм автоматическая зенитная пушка 2А7;
+weapons/23mm_2A14_user_cannon;23-мм автоматическая зенитная пушка 2А14;
+weapons/23mm_2a14_naval_user_cannon;23-мм автоматическая зенитная пушка 2А14;
+
+weapons/25mm_72K_user_cannon;25-мм автоматическая зенитная пушка обр. 1940 г. (72-К);
+weapons/25mm_79_2m3_naval_user_cannon;25-мм спаренное универсальное оружие 2М-3М;
+
+weapons/30mm_AG_30_user_cannon;30-мм автоматический гранатомёт АГС-30 (6Г25);
+weapons/30mm_bp_30_mortar_naval_user_cannon;30-мм aвтоматический станковый гранатомёт БП-30;
+weapons/30mm_2A38_user_cannon;30-мм автоматическая зенитная пушка 2А38;
+weapons/30mm_2A38M_user_cannon;30-мм автоматическая зенитная пушка 2А38М;
+weapons/30mm_2A38M1_user_cannon;30-мм автоматическая зенитная пушка 2А38М1;
+weapons/cannon2A42;30-мм автоматическая пушка 2А42;
+weapons/cannon2A42/short;2А42;
+weapons/30mm_2A42_user_cannon;30-мм автоматическая пушка 2А42;
+weapons/30mm_2a42_md_user_cannon;30-mm konetykkiin 2A42
+weapons/30mm_2A72_user_cannon;30-мм автоматическая пушка 2А72;
+weapons/30mm_2A72_BTR_user_cannon;30-мм автоматическая пушка 2А72;
+weapons/30mm_2A72_BMD_user_cannon;30-мм автоматическая пушка 2А72;
+weapons/cannonNR30;30-мм авиационная пушка НР-30;
+weapons/cannonNR30_early;30-мм авиационная пушка НР-30;
+weapons/cannonNR30_early/short;НР-30;
+weapons/cannonGSh_301;30-мм авиационная пушка ГШ-30-1;
+weapons/cannonGSh_301/short;ГШ-30-1;
+weapons/cannonGSh_30_2;30-мм авиационная пушка ГШ-30-2;
+weapons/cannonGSh_30_2K;30-мм авиационная пушка ГШ-30-2K;
+weapons/cannonGSh_6_30;30-мм авиационная пушка ГШ-6-30;
+weapons/cannonGSh_6_30/short;ГШ-6-30;
+weapons/30mm_ak_230_naval_user_cannon;30-мм спаренная автоматическая корабельная артиллерийская установка AK-230;
+weapons/30mm_ak_230_naval_user_cannon/short;AK-230;
+weapons/30mm_54_ak630_naval_user_cannon;30-мм спаренная автоматическая корабельная артиллерийская установка AK-630;
+weapons/30mm_54_ak630m_naval_user_cannon;30-мм спаренная автоматическая корабельная артиллерийская установка AK-630М;
+
+weapons/37mm_Sh_37_user_cannon;37-мм пушка Ш-37;
+weapons/cannonSH37;37-мм авиационная пушка Ш-37;
+weapons/cannonSH37/short;Ш-37;
+weapons/cannonNS37;37-мм авиационная пушка НC-37;
+weapons/cannonNS37_su_6;37-мм авиационная пушка НC-37;
+weapons/cannonNS37_assault;37-мм авиационная пушка НC-37;
+weapons/cannonN37;37-мм авиационная пушка Н-37;
+weapons/cannonN37D;37-мм авиационная пушка Н-37Д;
+weapons/37mm_61_K_user_cannon;37-мм автоматическая зенитная пушка обр. 1939 г. (61-К);
+weapons/37mm_67_70k_single_naval_user_cannon;37-мм автоматическая зенитная пушка 70-K;
+weapons/37mm_67_70k_quad_naval_user_cannon;37-мм автоматическая зенитная пушка 46-K;
+weapons/37mm_67_70k_twin_v11_naval_user_cannon;37-мм спаренное автоматическая зенитная пушка В-11;
+weapons/37mm_2A11_user_cannon;37-мм автоматическая зенитная пушка 2A11;
+
+weapons/45mm_20K_for_tutorial_user_cannon;45-мм танковая пушка обр. 1932/38 г. (20-K);
+weapons/45mm_20K_user_cannon_for_T_35;45-мм танковая пушка обр. 1932/38 г. (20-K);
+weapons/45mm_20K_user_cannon;45-мм танковая пушка обр. 1932/38 г. (20-K);
+weapons/45mm_46_21k_naval_user_cannon;45-мм полуавтоматическая универсальная пушка 21-К;
+weapons/45mm_68_21km_naval_user_cannon;45-мм полуавтоматическая универсальная пушка 21-КМ;
+weapons/cannonNS45;45-мм авиационная пушка НC-45;
+weapons/cannonNS45_heavy_aircrafts;45-мм авиационная пушка НC-45;
+weapons/cannonNS45_heavy_aircrafts/short;НC-45;
+weapons/45mm_89_sm_21_zif_naval_user_cannon;45-мм автоматическая корабельная пушка СМ-21-ЗИФ;
+weapons/45mm_89_sm_20_zif_naval_user_cannon;45-мм автоматическая корабельная пушка СМ-20-ЗИФ;
+
+weapons/57mm_ZIS2_user_cannon;57-мм противотанковая пушка обр. 1941 г. (ЗиС-2);
+weapons/57mm_ZIS4_user_cannon;57-мм танковая пушка ЗиС-4;
+weapons/57mm_ZIS4_open_turret_user_cannon;57-мм танковая пушка ЗиС-4;
+weapons/57mm_ZIS4M_user_cannon;57-мм танковая пушка ЗиС-4;
+weapons/57mm_Ch51M_user_cannon;57-мм самоходная пушка Ч-51М;
+weapons/57mm_S_68_user_cannon;57-мм автоматическая зенитная пушка C-68;
+weapons/57mm_AU_220_user_cannon;57-мм автоматическая зенитная пушка 2А90;
+weapons/57mm_AU_220M_user_cannon;57-мм автоматическая зенитная пушка 2А90;
+weapons/57mm_ak_725_naval_user_cannon;57-мм спаренная автоматическая корабельная артиллерийская установка AK-725;
+weapons/57mm_ak_725_naval_user_cannon/short;AK-725;
+
+weapons/63mm_38_obr1916_naval_user_cannon;63-мм пушка Обуховского завода;
+
+weapons/73mm_2A28_user_cannon;73-мм гладкоствольное орудие ТКБ-04 (2А28);
+
+weapons/76mm_50_canet_obr1892_naval_user_cannon;75-мм пушка Канэт;
+
+weapons/76mm_1902_30_user_cannon;76-мм дивизионная пушка обр. 1902/30 г.;
+weapons/76mm_1910_16_user_cannon;76-мм противоштурмовая пушка обр. 1910 г.
+weapons/76mm_1914_lender_naval_user_cannon;76-мм зенитная пушка обр. 1914/15 г.;
+weapons/76mm_1914_lender_naval_user_cannon/short;обр. 1914/15 г.;
+weapons/76mm_KT28_for_T26_user_cannon;76-мм танковая пушка обр. 1927/32 г. (KT-28);
+weapons/76mm_KT28_user_cannon;76-мм танковая пушка обр. 1927/32 г. (KT-28);
+weapons/76mm_3K_user_cannon;76-мм зенитная пушка обр. 1931 г. (3-К);
+weapons/76mm_55_34k_naval_user_cannon;76-мм зенитная пушка обр. 1935 г. (34-К);
+weapons/76mm_55_39k_naval_user_cannon;76-мм зенитная пушка 39-К;
+weapons/76mm_L10_user_cannon;76-мм танковая пушка обр. 1938 г. (Л-10);
+weapons/76mm_L11_T34_early_user_cannon;76-мм танковая пушка обр. 1938/39 г. (Л-11);
+weapons/76mm_L11_SMK_user_cannon;76-мм танковая пушка обр. 1938/39 г. (Л-11);
+weapons/76mm_L11_user_cannon;76-мм танковая пушка обр. 1938/39 г. (Л-11);
+weapons/76mm_F32_user_cannon;76-мм танковая пушка обр. 1939 г. (Ф-32);
+weapons/76mm_40_f34_naval_user_cannon;76-мм танковая пушка обр. 1940 г. (Ф-34);
+weapons/76mm_F34_user_cannon;76-мм танковая пушка обр. 1940 г. (Ф-34);
+weapons/76mm_ZIS5_user_cannon;76-мм танковая пушка обр. 1941 г. (ЗиС-5);
+weapons/76mm_ZIS3_user_cannon;76-мм дивизионная пушка обр. 1942 г. (ЗиС-3);
+weapons/76mm_F96_user_cannon;76-мм танковая пушка Ф-96;
+weapons/76mm_D56_T_user_cannon;76-мм танковая пушка Д-56T;
+weapons/76mm_D56_TS_user_cannon;76-мм танковая пушка Д-56ТС;
+weapons/76mm_52_d56ts_naval_user_cannon;76-мм танковая пушка Д-56ТС;
+weapons/76mm_60_ak_126_naval_user_cannon;76-мм универсальная корабельная артустановка АК-176М;
+weapons/76mm_ak_726_naval_user_cannon;76-мм спаренная автоматическая корабельная артиллерийская установка AK-726;
+weapons/76mm_ak_726_naval_user_cannon/short;AK-726;
+
+weapons/82mm_bm_37_mortar_naval_user_cannon;82-мм батальонный миномёт обр. 1937 г. (БМ-37);
+weapons/bomb_ussr_82mm_o_832;82-мм батальонный миномёт обр. 1937 г. (БМ-37);
+weapons/bomb_ussr_82mm_o_832/short;БМ-37;
+
+weapons/85mm_F30_user_cannon;85-мм танковая пушка Ф-30;
+weapons/85mm_D5T_user_cannon;85-мм танковая пушка обр. 1943 г. (Д-5T-85);
+weapons/85mm_D5S_user_cannon;85-мм самоходная пушка обр. 1943 г. (Д-5С-85А);
+weapons/85mm_ZiS_S_53_user_cannon;85-мм танковая пушка обр. 1944 г. (ЗиС-С-53);
+weapons/85mm_Type_56_user_cannon;85-мм танковая пушка обр. 1944 г. (ЗиС-С-53);
+weapons/85mm_55_zis_s53_naval_user_cannon;85-мм танковая пушка обр. 1944 г. (ЗиС-С-53);
+weapons/85mm_D58_user_cannon;85-мм танковая пушка Д-58;
+weapons/85mm_D70_user_cannon;85-мм самоходная пушка Д-70 (2А15);
+weapons/85mm_52_90k_naval_user_cannon;85-мм зенитная пушка 90-К;
+weapons/85mm_52_92k_naval_user_cannon;85-мм зенитная пушка 92-K;
+
+weapons/100mm_56_b34_aa_1940_naval_user_cannon;100-мм корабельная пушка обр. 1940 г. (Б-34);
+weapons/100mm_56_b34_aa_1940_naval_user_cannon/short;Б-34;
+weapons/100mm_56_b34_1940_naval_user_cannon;100-мм корабельная пушка обр. 1940 г. (Б-34);
+weapons/100mm_56_b34_1940_naval_user_cannon/short;Б-34;
+weapons/100mm_LB1_user_cannon;100-мм танковая пушка ЛБ-1;
+weapons/100mm_C34_user_cannon;100-мм танковая пушка С-34;
+weapons/100mm_D10S_user_cannon;100-мм самоходная пушка обр. 1944 г. (Д-10СУ);
+weapons/100mm_D10T_user_cannon;100-мм танковая пушка обр. 1944 г. (Д-10T);
+weapons/100mm_D10T2S_TO_55_user_cannon;100-мм танковая пушка обр. 1944 г. (Д-10Т2С);
+weapons/100mm_D10T2S_user_cannon;100-мм танковая пушка обр. 1944 г. (Д-10Т2С);
+weapons/100mm_D10T2S_fin_user_cannon;100-мм танковая пушка обр. 1944 г. (Д-10Т2С);
+weapons/100mm_2A48_user_cannon;100-мм танковая пушка Д-33 (2A48-1);
+weapons/100mm_D50_user_cannon;100-мм самоходная пушка Д-50;
+weapons/100mm_D54TS_user_cannon;100-мм танковая пушка Д-54ТС
+weapons/100mm_70_sm_5_1_naval_user_cannon;100-мм корабельная пушка СМ-5-1;
+weapons/100mm_70_ak100_naval_user_cannon;100-мм спаренная автоматическая корабельная артиллерийская установка AK-100;
+weapons/100mm_2A70_user_cannon;100-мм орудие-пусковая установка 2А70;
+weapons/100mm_2A70_BMP_autoloader_user_cannon;100-мм орудие-пусковая установка 2А70;
+weapons/100mm_2A70_BMD_user_cannon;100-мм орудие-пусковая установка 2А70;
+
+weapons/102mm_60_1911_naval_user_cannon;102-мм пушка Обуховского завода;
+weapons/102mm_60_1911_naval_user_cannon/short;пушка Обухов;
+
+weapons/107mm_ZIS6_user_cannon;107-мм танковая пушка ЗиС-6;
+
+weapons/115mm_U5TS_user_cannon;115-мм танковая пушка У-5ТС (2A20);
 weapons/115mm_U5TS_T-62M1_user_cannon;115-мм танковая пушка У-5ТС (2А20);
-115mm_3bk_15m;3БК15М;
-115mm_3bm21;3БМ21;
-115mm_3bm28;3БМ28;
-115mm_3of_27;3OФ27;
-weapons/125mm_D_126_user_cannon;125-мм пушка Д-126;
-125mm_bur;Бур;
-weapons/125mm_bur/short;Бур;
-125mm_rubin;Рубин;
-weapons/125mm_rubin/short;Рубин;
-weapons/7_62mm_PKT_beltfed_user_machinegun;7,62-мм танковый пулемёт ПКT (6П7);
-weapons/7_62mm_PKT_user_machinegun;7,62-мм танковый пулемёт ПКT (6П7);
-weapons/7_62mm_PKTM_user_machinegun;7,62-мм танковый пулемёт ПКTМ (6П7К);
-weapons/7_62mm_PKMB_user_machinegun;7,62-мм пулемёт ПКМ (6П6М);
+
+weapons/120mm_50_obr1905_naval_user_cannon;120-мм пушка Виккерса;
+
+weapons/122mm_M30_user_cannon;122-мм гаубица обр. 1938 г. (М-30);
+weapons/122mm_A19_user_cannon;122-мм самоходная пушка обр. 1931/44 г. (A-19C);
+weapons/122mm_D25T_user_cannon;122-мм танковая пушка обр. 1943 г. (Д-25Т);
+weapons/122mm_D25S_user_cannon;122-мм самоходная пушка обр. 1943 г. (Д-25C);
+weapons/122mm_D25TS_user_cannon;122-мм танковая пушка обр. 1943 г. (Д-25ТC);
+weapons/122mm_D25_44T_user_cannon;122-мм танковая пушка обр. 1943 г. (Д-25-44Т);
+weapons/122mm_D30T_user_cannon;122-мм танковая пушка Д-30T;
+weapons/122mm_D49_user_cannon;122-мм самоходная пушка Д-49;
+weapons/122mm_M62T2S_user_cannon;122-мм танковая пушка М-62Т2 (2А17);
+weapons/122mm_2A31_user_cannon;122-мм гаубица Д-32 (2А31);
+
 weapons/125mm_2A26_user_cannon;125-мм танковая пушка Д-81 (2А26);
+weapons/125mm_2A46M_user_cannon;125-мм танковая пушка 2A46;
 weapons/125mm_2A46_2_user_cannon;125-мм танковая пушка 2А46-2;
-weapons/125mm_2A46_M5_T_90A_user_cannon;125-мм танковая пушка 2А46М-5;
-weapons/125mm_2A46_M5_user_cannon;125-мм танковая пушка 2А46М-5-01;
 weapons/125mm_2A46_M5_t_90s_bheeshma_user_cannon;125-mm Tank Gun 2A46M;
 weapons/125mm_2A46_M1_user_cannon;125-мм танковая пушка Д-81-3 (2А46М);
 weapons/125mm_2A46_M1_T_80U_user_cannon;125-мм танковая пушка 2А46М-1;
 weapons/125mm_2A46_M1_T_80UK_user_cannon;125-мм танковая пушка 2А46М-1;
+weapons/125mm_2A46_M1_T_80UD_user_cannon;125-мм танковая пушка 2А46М-1;
 weapons/125mm_2A46_M1_T_80U_e1_user_cannon;125-мм танковая пушка 2А46М-4;
 weapons/125mm_2A46_M1_T_80BVM_user_cannon;125-мм танковая пушка 2А46М-4;
-125mm_3bm42m;3БМ42М;
-125mm_3bm46;3БМ46;
-125mm_3bm60;3БМ60;
-weapons/7_62mm_maxim_garford_user_machinegun;7,62-мм пулемёт Максима обр. 1910 г.
-weapons/76mm_1910_16_user_cannon;76-мм противоштурмовая пушка обр. 1910 г.
-76mm_1910_shrapnel;Ш обр. 1909 г.
-76mm_1910_he;ОФ обр. 1909 г.
-125mm_3bm42;3БМ42;
-125mm_practice;3П11;
-125mm_3bk_12m;3БK12М;
-125mm_3bk_18m;3БK18М;
-125mm_3bm9;3БМ9;
-125mm_3bm12;3БМ12;
-125mm_3bm15;3БМ15;
-125mm_3bm22;3БМ22;
-125mm_3of_19;3OФ19;
-125mm_3of_26;3OФ26;
-125mm_3of_26_edkv;3OФ26 ЭДКВ;
-125mm_3of_82;3OФ82
-weapons/100mm_D50_user_cannon;100-мм самоходная пушка Д-50;
-weapons/73mm_2A28_user_cannon;73-мм гладкоствольное орудие ТКБ-04 (2А28);
-73mm_og_9;OГ-9;
-73mm_pg_9;ПГ-9;
+weapons/125mm_2A46_M5_T_90A_user_cannon;125-мм танковая пушка 2А46М-5;
+weapons/125mm_2A46_M5_user_cannon;125-мм танковая пушка 2А46М-5-01;
+weapons/125mm_2A75_user_cannon;125-мм самоходная пушка 2A75;
+weapons/125mm_2A75_M_user_cannon;125-мм самоходная пушка 2A75-1
+weapons/125mm_D_126_user_cannon;125-мм пушка Д-126;
+
+weapons/130mm_55_obr1913_naval_user_cannon;130-мм корабельная пушка обр. 1913 г. (Б-7);
 weapons/130mm_50_b13_1936_naval_user_cannon;130-мм корабельная пушка обр. 1935 г. (Б-13);
-weapons/76mm_55_34k_naval_user_cannon;76-мм зенитная пушка обр. 1935 г. (34-К);
-weapons/76mm_1902_30_user_cannon;76-мм дивизионная пушка обр. 1902/30 г.;
-weapons/76mm_40_f34_naval_user_cannon;76-мм танковая пушка обр. 1940 г. (Ф-34);
-weapons/45mm_46_21k_naval_user_cannon;45-мм полуавтоматическая универсальная пушка 21-К;
-weapons/45mm_68_21km_naval_user_cannon;45-мм полуавтоматическая универсальная пушка 21-КМ;
-weapons/37mm_67_70k_single_naval_user_cannon;37-мм автоматическая зенитная пушка 70-K;
-weapons/12_7mm_dshk_1938_naval_user_machinegun;12,7-мм пулемёт обр. 1938 г. (ДШК);
-weapons/85mm_D58_user_cannon;85-мм танковая пушка Д-58;
-85mm_3bk2;3БK2М;
-weapons/85mm_52_90k_naval_user_cannon;85-мм зенитная пушка 90-К;
-weapons/25mm_79_2m3_naval_user_cannon;25-мм спаренное универсальное оружие 2М-3М;
-weapons/76mm_3K_user_cannon;76-мм зенитная пушка обр. 1931 г. (3-К);
-76mm_br_361;53-БР-361;
-76mm_o_361;53-O-361;
-90mm_t142e3;HEP-T, T142E3;
+weapons/130mm_B13_user_cannon;130-мм корабельная пушка обр. 1935 г. (Б-13);
+weapons/130mm_58_sm_2_1_naval_user_cannon;130-мм корабельная пушка СМ-2-1;
+weapons/130mm_M65_user_cannon;130-мм танковая пушка М-65;
+weapons/130mm_C70_user_cannon;130-мм танковая пушка C-70;
+
+weapons/152mm_ML20S_user_cannon;152-мм самоходная гаубица-пушка обр. 1937 г. (МЛ-20С);
+weapons/152mm_M10T_user_cannon;152-мм танковая гаубица обр. 1938 г. (М-10T);
+weapons/152mm_M10Sh_user_cannon;152-мм шагающая гаубица обр. 1938 г. (М-10Ш);
+weapons/152mm_57_b38_naval_user_cannon;152-мм корабельная пушка обр. 1938 г. (Б-38);
 weapons/152mm_M64_user_cannon;152-мм танковая пушка М-64;
 weapons/152mm_M69_user_cannon;152-мм танковая пушка М-69;
-152mm_m69_he_fs;ОФ;
-152mm_m69_apds_fs;БМ;
-152mm_m69_heat;БK;
 weapons/152mm_LP83_user_cannon;152-мм танковая пушка ЛП-83;
-152mm_lp_83_apfsds;БМ;
-152mm_lp_83_he_fs;ОФ;
-weapons/100mm_D54TS_user_cannon;100-мм танковая пушка Д-54ТС
-100mm_d54ts_apds;БМ
-100mm_d54ts_he;53-ОФ-413
-100mm_d54ts_apcbc;53-БР-413Д
-100mm_d54ts_heat;3БК1
-weapons/100mm_D10T2S_user_cannon;100-мм танковая пушка обр. 1944 г. (Д-10Т2С);
-weapons/100mm_D10T2S_fin_user_cannon;100-мм танковая пушка обр. 1944 г. (Д-10Т2С);
-weapons/100mm_2A70_user_cannon;100-мм орудие-пусковая установка 2А70;
-weapons/100mm_2A70_BMP_autoloader_user_cannon;100-мм орудие-пусковая установка 2А70;
-weapons/100mm_2A70_BMD_user_cannon;100-мм орудие-пусковая установка 2А70;
-weapons/30mm_2A72_BMD_user_cannon;30-мм автоматическая пушка 2А72;
-100mm_3bk_17m;3БK17М;
-100mm_3bm25;3БМ25;
-100mm_3of_32;3OФ32;
-100mm_3of_70;3OФ70;
-76mm_d350a;53-Д-350А;
-122mm_d462a;53-Д-462А;
-100mm_3d3;3Д3;
-45mm_or_73a;A3-OР-73A;
-45mm_o_240;A3-O-240;
-weapons/14_5mm_kpv_naval_user_machinegun;14,5-мм KПВ;
-30mm_of_83;53-ОФ-83;
-30mm_f_83;53-Ф-83;
-30mm_br_83;53-БР-83;
-weapons/30mm_ak_230_naval_user_cannon;30-мм спаренная автоматическая корабельная артиллерийская установка AK-230;
-weapons/30mm_ak_230_naval_user_cannon/short;AK-230;
-weapons/cannonGSh_23;23-мм авиационная пушка ГШ-23-2;
-weapons/57mm_ak_725_naval_user_cannon;57-мм спаренная автоматическая корабельная артиллерийская установка AK-725;
-weapons/57mm_ak_725_naval_user_cannon/short;AK-725;
-weapons/30mm_bp_30_mortar_naval_user_cannon;30-мм aвтоматический станковый гранатомёт БП-30;
-weapons/76mm_ak_726_naval_user_cannon;76-мм спаренная автоматическая корабельная артиллерийская установка AK-726;
-weapons/76mm_ak_726_naval_user_cannon/short;AK-726;
-76mm_OF62_navy;A3-OФ-62;
-76mm_zs62_navy;A3-ЗС-62;
-180mm_of32_1928;A3-OФ-32;
-180mm_b32_1928;A3-Б-32;
-180mm_pb32_1928;A3-ПБ-32;
-180mm_zs32_1928;A3-ЗС-32;
+weapons/152mm_2A33_user_cannon;152-мм гаубица Д-22 (2А33М);
+weapons/152mm_2A64_user_cannon;152-мм гаубица 2А64
+weapons/152mm_2A65_m2_user_cannon;152-мм гаубица 2А64М2
+
 weapons/180mm_60_b1k_naval_user_cannon;180-мм корабельная пушка обр. 1931 г. (Б-1-K);
 weapons/180mm_60_b1k_naval_user_cannon/short;Б-1-K;
 weapons/180mm_57_b1p_naval_user_cannon;180-мм корабельная пушка обр. 1932 г. (Б-1-П);
 weapons/180mm_57_b1p_naval_user_cannon/short;Б-1-П;
-weapons/100mm_56_b34_1940_naval_user_cannon;100-мм корабельная пушка обр. 1940 г. (Б-34);
-weapons/100mm_56_b34_1940_naval_user_cannon/short;Б-34;
-100mm_f_56;A3-Ф-56;
-100mm_zs56_aa;A3-ЗС-56;
-100mm_zs56r_vt;A3-ЗС-56P;
-100mm_2_01542_aa;ЗС обр. 1928 г.;
-100mm_1928_navy_HE;OФ обр. 1928 г.;
-weapons/102mm_60_1911_naval_user_cannon;102-мм пушка Обуховского завода;
-weapons/102mm_60_1911_naval_user_cannon/short;пушка Обухов;
-102mm_mod1915_navy_HE;ОФ обр. 1915 г.;
-102mm_mod191_navy_shrapnel;Шрапнель;
-weapons/76mm_1914_lender_naval_user_cannon;76-мм зенитная пушка обр. 1914/15 г.;
-weapons/76mm_1914_lender_naval_user_cannon/short;обр. 1914/15 г.;
-76mm_sh_354p_navy_shrapnel;53-Ш-354П;
-76mm_o_361k;53-O-361K;
-76mm_o_361d;53-O-361Д;
-weapons/20mm_shvak_naval_user_cannon;20-мм авиационная пушка ШВАК;
-30mm_vog_17a;ВОГ-17А;
-45mm_f_73;A3-Ф-73;
-76mm_ww_ii_he;HE;
-weapons/130mm_55_obr1913_naval_user_cannon;130-мм корабельная пушка обр. 1913 г. (Б-7);
-130mm_obr1928_he;Oбр. 1928 Фугасные;
-130mm_obr1928_sap;Oбр. 1928 Полубронебойные;
-130mm_obr1928_dist;Oбр. 1928 Осветительные;
-weapons/76mm_55_39k_naval_user_cannon;76-мм зенитная пушка 39-К;
-130mm_naval_pb_46a;A3-ПБ-46A;
-130mm_aa_zs_46p;A3-ЗС-46Р;
-130mm_naval_of_46;A3-OФ-46;
-76mm_naval_br_361;53-БР-361;
-85mm_naval_o_365m;53-O-365М;
-85mm_naval_o_365k;53-O-365K;
-85mm_naval_br_365;53-БР-365;
-45mm_naval_br_240_ap;53-БР-240;
-76mm_naval_of_350m;53-OФ-350М;
-76mm_naval_br_350a;53-БР-350А;
-weapons/152mm_57_b38_naval_user_cannon;152-мм корабельная пушка обр. 1938 г. (Б-38);
-152mm_of35;A3-ОФ-35;
-152mm_b35;A3-Б-35;
-152mm_pb35;A3-ПБ-35;
-152mm_zs35;A3-ЗС-35;
-weapons/100mm_70_sm_5_1_naval_user_cannon;100-мм корабельная пушка СМ-5-1;
-100mm_of_55;A3-ОФ-55;
-100mm_zs_55;A3-ЗС-55;
-100mm_f_55;A3-Ф-55;
-100mm_zs_55r;A3-ЗС-55Р;
-weapons/37mm_67_70k_twin_v11_naval_user_cannon;37-мм спаренное автоматическая зенитная пушка В-11;
-weapons/82mm_bm_37_mortar_naval_user_cannon;82-мм батальонный миномёт обр. 1937 г. (БМ-37);
-82mm_o_832_he;O-832;
-weapons/bomb_ussr_82mm_o_832;82-мм батальонный миномёт обр. 1937 г. (БМ-37);
-weapons/bomb_ussr_82mm_o_832/short;БМ-37;
-weapons/45mm_89_sm_20_zif_naval_user_cannon;45-мм автоматическая корабельная пушка СМ-20-ЗИФ;
-45mm_f75_he;Ф-75;
-45mm_or75_heit;ОР-75;
-weapons/130mm_58_sm_2_1_naval_user_cannon;130-мм корабельная пушка СМ-2-1;
-130mm_naval_of_42;A3-ОФ-42;
-130mm_naval_pb_42;A3-ПБ-42;
-130mm_aa_zs_42p;A3-ЗС-42Р;
+
+weapons/305mm_54_b_50_naval_user_cannon;305-мм корабельная пушка обр. 1940 г. (Б-50);
 weapons/305mm_52_obr1907_naval_user_cannon;12” пушка Обуховского завода;
 weapons/305mm_52_obr1907_mariya_naval_user_cannon;12” пушка Обуховского завода
+weapons/305mm_52_obr1907_1941_naval_user_cannon;12” пушка Обуховского завода;
+
+weapons/356mm_52_obr1913_naval_user_cannon;356-мм корабельная пушка;
+
+weapons/406mm_50_b37_naval_user_cannon;406-мм корабельная пушка обр. 1937 г. (Б-37);
+
+weapons/ato_200_flamethrower;АТО-200;
+
+// 100mm Naval // 
+100mm_1928_navy_HE;OФ обр. 1928 г.;
+100mm_2_01542_aa;ЗС обр. 1928 г.;
+100mm_f_55;A3-Ф-55;
+100mm_f_56;A3-Ф-56;
+100mm_of_55;A3-ОФ-55;
+100mm_zs_55;A3-ЗС-55;
+100mm_zs_55r;A3-ЗС-55Р;
+100mm_zs_58r;A3-ЗС-58Р;
+100mm_zs56_aa;A3-ЗС-56;
+100mm_zs56r_vt;A3-ЗС-56P;
+
+// 100mm Tank //
+100mm_3bk_17m;3БK17М;
+100mm_3bm25;3БМ25;
+100mm_3d3;3Д3;
+100mm_br_412;53-БР-412;
+100mm_br_412b;53-БР-412Б;
+100mm_br_412d;53-БР-412Д;
+100mm_br_412p;53-БР-412P;
+100mm_of_412;53-OФ-412;
+100mm_zbk_5;3БК5;
+100mm_zbm8;3БМ8;
+
+// 100mm Smoothbore //
+100mm_d54ts_apcbc;53-БР-413Д
+100mm_d54ts_apds;БМ
+100mm_d54ts_he;53-ОФ-413
+100mm_d54ts_heat;3БК1
+
+// 100mm LP //
+100mm_3of_32;3OФ32;
+100mm_3of_70;3OФ70;
+
+// 4-in Naval //
+102mm_mod191_navy_shrapnel;Шрапнель;
+102mm_mod1915_navy_HE;ОФ обр. 1915 г.;
+
+// 107mm //
+107mm_b420;53-Б-420;
+107mm_of_420;53-OФ-420;
+
+// 115mm //
+115mm_3bk_15m;3БК15М;
+115mm_3bk_4;3БK4;
+115mm_3bm21;3БМ21;
+115mm_3bm28;3БМ28;
+115mm_3bm3;3БМ3;
+115mm_3bm4;3БМ4;
+115mm_3of_11;3OФ11;
+115mm_3of_27;3OФ27;
+
+// 120mm Vickers //
+120mm_obr1911_he;ОФ обр. 1911 г.;
+120mm_obr1911_sap;ПБ обр. 1911 г.;
+
+// 122mm M-30//
+122mm_bp_462;53-БП-460А;
+122mm_d462a;53-Д-462А;
+122mm_of_462;53-OФ-462;
+
+// 122mm D-30 //
+122mm_3of24;3ОФ24;
+122mm_3of56;3ОФ56;
+122mm_3of7_vt;3ОФ24-1;
+122mm_3vdcz3;3ДЦ3
+122mm_zbk_10;3БК10;
+
+// 122mm A-19/D-25 //
+122mm_br_471;53-БР-471;
+122mm_br_471b;53-БР-471Б;
+122mm_br_471d;53-БР-471Д;
+122mm_of_471;53-OФ-471;
+
+// 122mm M-62 //
+122mm_br_472;53-БР-472;
+122mm_of_472;53-OФ-472;
+122mm_zbk_9;3БК9;
+122mm_zbm_11;3БМ11;
+122mm_zbm_7;3БМ7;
+
+// 125mm //
+125mm_3bk_12m;3БK12М;
+125mm_3bk_18m;3БK18М;
+125mm_3bm12;3БМ12;
+125mm_3bm15;3БМ15;
+125mm_3bm22;3БМ22;
+125mm_3bm42;3БМ42;
+125mm_3bm42m;3БМ42М;
+125mm_3bm46;3БМ46;
+125mm_3bm60;3БМ60;
+125mm_3bm9;3БМ9;
+125mm_3of_19;3OФ19;
+125mm_3of_26_edkv;3OФ26 ЭДКВ;
+125mm_3of_26;3OФ26;
+125mm_3of_82;3OФ82
+125mm_practice;3П11;
+
+// 125mm D-126 //
+125mm_bur;Бур;
+weapons/125mm_bur/short;Бур;
+weapons/125mm_rubin/short;Рубин;
+125mm_rubin;Рубин;
+
+// 130mm Naval //
+130mm_aa_zs_42p;A3-ЗС-42Р;
+130mm_aa_zs_46p;A3-ЗС-46Р;
+130mm_naval_of_42;A3-ОФ-42;
+130mm_naval_of_46;A3-OФ-46;
+130mm_naval_pb_42;A3-ПБ-42;
+130mm_naval_pb_46a;A3-ПБ-46A;
+130mm_obr1911_he;ОФ обр. 1911 г.;
+130mm_obr1911_sap;ПБ обр. 1911 г.;
+130mm_obr1928_dist;Oбр. 1928 Осветительные;
+130mm_obr1928_he;Oбр. 1928 Фугасные;
+130mm_obr1928_sap;Oбр. 1928 Полубронебойные;
+130mm_of_46;A3-OФ-46;
+130mm_pb_46a;A3-ПБ-46A;
+
+// 130mm M-46 //
+130mm_br_482b;53-БР-482Б;
+130mm_of_482m;53-OФ-482М;
+
+// 152mm howitzer //
+152mm_g_530;53-Г-530;
+152mm_of_530;53-OФ-530;
+
+// 152mm gun-howitzer //
+152mm_3c1;3C1;
+weapons/152mm_3c1/short;3C1;
+152mm_3of25_vt;3ОФ25 «Гриф»;
+152mm_3of25;3ОФ25;
+152mm_3of45_vt;3ОФ45-1;
+152mm_3of45;3ОФ45;
+152mm_bp_540;53-БП-540;
+152mm_br_540;53-БР-540;
+152mm_br_540b;53-БР-540Б;
+152mm_of_540;53-OФ-540;
+
+// 152mm Naval //
+152mm_b35;A3-Б-35;
+152mm_of35;A3-ОФ-35;
+152mm_pb_35;A3-ПБ-35;
+152mm_pb35;A3-ПБ-35;
+152mm_zs35;A3-ЗС-35;
+
+// 152mm LP-83 //
+152mm_lp_83_apfsds;БМ;
+152mm_lp_83_he_fs;ОФ;
+
+//152mm M-69//
+152mm_m69_apds_fs;БМ;
+152mm_m69_he_fs;ОФ;
+152mm_m69_heat;БK;
+
+// 180mm naval //
+180mm_b32_1928;A3-Б-32;
+180mm_of32_1928;A3-OФ-32;
+180mm_pb32_1928;A3-ПБ-32;
+180mm_zs32_1928;A3-ЗС-32;
+
+// 20mm shvak //
+20mm_shvak_api;API
+20mm_shvak_apit;API-T
+20mm_shvak_frag_t;FI-T
+20mm_shvak_frag;FI
+
+// 23mm //
+23mm_2a14_naval_hei/name;3УОФ5;
+23mm_2a14_naval_hei/name/short;3УОФ5;
+23mm_apit;БЗТ;
+23mm_hei;HEI
+23mm_heit;ОФЗТ;
+
+// 25mm //
+25mm_br_132;53-БР-132;
+25mm_br85;53-БР-85;
+25mm_ozr_132;53-ОЗР-132;
+25mm_ozr85;53-ОЗР-85;
+
+// 305 mm //
+305mm_b_50_ap;БР;
+305mm_ds_15_he;OФ обр. 1928 г.;
 305mm_obr1911_ap;ББ обр. 1911 г.;
 305mm_obr1911_he;ОФ обр. 1911 г.;
 305mm_obr1911_sap;ПБ обр. 1911 г.;
 305mm_obr1928_er_he;ОФ обр. 1928 г.;
-weapons/356mm_52_obr1913_naval_user_cannon;356-мм корабельная пушка;
+
+// 30mm autocannon//
+30mm_3ubr_11;3УБР11;
+30mm_3UBR8;3УБР8;
+30mm_UBR6;3УБР6;
+30mm_UOF8;3УОФ8;
+30mm_UOR6;3УОР6;
+
+// 30mm ??
+30mm_br_83;53-БР-83;
+30mm_f_83;53-Ф-83;
+30mm_he_tf;HE-TF
+30mm_of_83;53-ОФ-83;
+
+// 30mm grenade launcher
+30mm_vog_17a;ВОГ-17А;
+30mm_vog_30;ВОГ-30;
 356mm_obr1911_ap;ББ обр. 1911 г.;
 356mm_obr1913_he;Ф обр. 1913 г.;
-weapons/63mm_38_obr1916_naval_user_cannon;63-мм пушка Обуховского завода;
-63mm_he_df;ОФ;
-weapons/76mm_50_canet_obr1892_naval_user_cannon;75-мм пушка Канэт;
-75mm_obr1915_hetf;ОФ-ДВ обр. 1915 г.;
-76mm_obr1915_hetf;ОФ-ДВ обр. 1915 г.;
-130mm_obr1911_he;ОФ обр. 1911 г.;
-130mm_obr1911_sap;ПБ обр. 1911 г.;
-weapons/120mm_50_obr1905_naval_user_cannon;120-мм пушка Виккерса;
-120mm_obr1911_he;ОФ обр. 1911 г.;
-120mm_obr1911_sap;ПБ обр. 1911 г.;
-weapons/100mm_70_ak100_naval_user_cannon;100-мм спаренная автоматическая корабельная артиллерийская установка AK-100;
-100mm_zs_58r;A3-ЗС-58Р;
-weapons/30mm_54_ak630_naval_user_cannon;30-мм спаренная автоматическая корабельная артиллерийская установка AK-630;
-weapons/30mm_54_ak630m_naval_user_cannon;30-мм спаренная автоматическая корабельная артиллерийская установка AK-630М;
-weapons/76mm_60_ak_126_naval_user_cannon;76-мм универсальная корабельная артустановка АК-176М;
-weapons/7_62mm_maxim_naval_user_machinegun;7,62-мм пулемёт Максима обр. 1910 г.;
-weapons/85mm_52_92k_naval_user_cannon;85-мм зенитная пушка 92-K;
-weapons/305mm_52_obr1907_1941_naval_user_cannon;12” пушка Обуховского завода;
-weapons/45mm_89_sm_21_zif_naval_user_cannon;45-мм автоматическая корабельная пушка СМ-21-ЗИФ;
-weapons/305mm_54_b_50_naval_user_cannon;305-мм корабельная пушка обр. 1940 г. (Б-50);
-305mm_b_50_ap;БР;
-305mm_ds_15_he;OФ обр. 1928 г.;
-weapons/37mm_67_70k_quad_naval_user_cannon;37-мм автоматическая зенитная пушка 46-K;
-weapons/100mm_56_b34_aa_1940_naval_user_cannon;100-мм корабельная пушка обр. 1940 г. (Б-34);
-weapons/100mm_56_b34_aa_1940_naval_user_cannon/short;Б-34;
-weapons/381mm_42_bl_mk1_naval_user_cannon;Ordnance, B.L., 15-inch, Mk. I;
-381mm_4crh_cpc;CPC;
-381mm_mark_12a_4crh_apc;Mk. XIIa APC;
-381mm_mark_1a_4crh_apc;Mk. Ia APC;
-381mm_mark_17b_6crh_apc;Mk. XVIIb APC
-381mm_mark_22b_6crh_apc;Mk. XXIIb SC APC
-weapons/406mm_45_bl_mk1_r1_naval_user_cannon;Ordnance, B.L., 16-inch, Mk. I
-weapons/406mm_45_bl_mk1_r2_naval_user_cannon;Ordnance, B.L., 16-inch, Mk. I
-406mm_uk_he;Mk. Ib HE
-406mm_mark_1a_apcbc;Mk. Ia APCBC
-weapons/23mm_2a14_naval_user_cannon;23-мм автоматическая зенитная пушка 2А14;
-23mm_2a14_naval_hei/name;3УОФ5;
-23mm_2a14_naval_hei/name/short;3УОФ5;
-weapons/ato_200_flamethrower;АТО-200;
-weapons/100mm_D10T2S_TO_55_user_cannon;100-мм танковая пушка обр. 1944 г. (Д-10Т2С);
-weapons/122mm_2A31_user_cannon;122-мм гаубица Д-32 (2А31);
-122mm_3of24;3ОФ24;
-122mm_3of56;3ОФ56;
-122mm_3of7_vt;3ОФ24-1;
-weapons/406mm_50_b37_naval_user_cannon;406-мм корабельная пушка обр. 1937 г. (Б-37);
-406mm_obr1915_28_sapcbc;обр. 1928 г.
+
+// 37mm //
+37mm_BT;БT;
+37mm_OFZ;ОФЗ;
+37mm_UBR_167;53-БР-167;
+37mm_UBR_167P;53-БР-167П;
+37mm_UOR_167;53-OР-167;
+
+// 406mm //
 406mm_obr1915_28_apcbc;обр. 1928 г.
-weapons/125mm_2A46_M1_T_80UD_user_cannon;125-мм танковая пушка 2А46М-1;
-weapons/152mm_2A64_user_cannon;152-мм гаубица 2А64
-weapons/152mm_2A65_m2_user_cannon;152-мм гаубица 2А64М2
-122mm_3vdcz3;3ДЦ3
+406mm_obr1915_28_sapcbc;обр. 1928 г.
+
+// 45 mm//
+45mm_br_240_ap;53-БР-240;
+45mm_br_243;53-БР-240;
+45mm_br_243p;53-БР-240П;
+45mm_br_243sp;53-БР-240СП;
+45mm_naval_br_240_ap;53-БР-240;
+45mm_o_243;53-O-240;
+
+// 45mm naval
+45mm_f_73;A3-Ф-73;
+45mm_f75_he;A3-Ф-75;
+45mm_o_240;A3-O-240;
+45mm_or_73a;A3-OР-73A;
+45mm_or75_heit;A3-ОР-75;
+
+// 57mm //
+57mm_3ubr_22;3УБР22;
+57mm_3uo8;3УO8;
+57mm_br_271;53-БР-271;
+57mm_br_271k;53-БР-271К;
+57mm_br_271m;53-БР-271М;
+57mm_br_271n;53-БР-271Н;
+57mm_br_271p;53-БР-271П;
+57mm_br_271sp;53-БР-271СП;
+57mm_br_281;53-БР-281;
+57mm_br_281sp;53-БР-281СП;
+57mm_br_281u_belt;53-БР-281У
+57mm_br_281u;53-БР-281У
+57mm_o_271;53-O-271У;
+57mm_or_281u_belt;53-ОР-281У;
+57mm_or_281u;53-ОР-281У;
+
+//63mm
+63mm_he_df;ОФ;
+
+//73mm //
+73mm_og_9;OГ-9;
+73mm_pg_9;ПГ-9;
+
+//75mm canet //
+75mm_obr1915_hetf;ОФ-ДВ обр. 1915 г.;
+
+// 76mm //
+76mm_1910_he;ОФ обр. 1909 г.
+76mm_1910_shrapnel;Ш обр. 1909 г.
+76mm_bk_354m;53-БК-354М;
+76mm_bp_350a;53-БП-350А;
+76mm_bp_350m;53-БП-350М;
+76mm_br_350a;53-БР-350A (МД-5);
+76mm_br_350b;53-БР-350Б (МД-8);
+76mm_br_350sp;53-БР-350СП;
+76mm_br_354;53-БР-354;
+76mm_br_354n;53-БР-354Н;
+76mm_br_354p;53-БР-354П;
+76mm_br_361;53-БР-361;
+76mm_d350a;53-Д-350А;
+76mm_naval_br_350a;53-БР-350А;
+76mm_naval_br_361;53-БР-361;
+76mm_naval_of_350m;53-OФ-350М;
+76mm_o_361;53-O-361;
+76mm_o_361d;53-O-361Д;
+76mm_o_361k;53-O-361K;
+76mm_obr1915_hetf;ОФ-ДВ обр. 1915 г.;
+76mm_of_350m;53-OФ-350;
+76mm_sh_353;53-Ш-353;
+76mm_sh_354p_navy_shrapnel;53-Ш-354П;
+76mm_sh_354t;53-Ш-354T;
+76mm_ww_ii_he;HE;
+
+// 76mm Naval //
+76mm_OF62_navy;A3-OФ-62;
+76mm_zs62_navy;A3-ЗС-62;
+
+// 82mm mortar //
+82mm_o_832_he;O-832;
+
+// 85mm 52-K //
+85mm_3bk2;3БK2М;
+85mm_br_365;53-БР-365;
+85mm_br_365a;53-БР-365;
+85mm_br_365k;53-БР-365K;
+85mm_br_365p;53-БР-365П;
+85mm_br_367;53-БР-367;
+85mm_br_367p;53-БР-367П;
+85mm_naval_br_365;53-БР-365;
+85mm_naval_o_365k;53-O-365K;
+85mm_naval_o_365m;53-O-365М;
+85mm_o_365k;53-O-365K;
+85mm_o_365m;53-O-365М;
+
+// 85mm D-58 //
+85mm_3bk7;3БK7М;
+85mm_br_372;53-БР-372;
+85mm_of_372;53-OФ-372;
 

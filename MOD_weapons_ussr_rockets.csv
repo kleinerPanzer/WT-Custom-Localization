@@ -1,86 +1,122 @@
 <ID|readonly|noverify>;<NewLanguage>
+
+// TT-250 //
+weapons/250kg_TT_rocket_launcher;ТТ-250;
+weapons/250kg_TT_rocket_launcher/short;ТТ-250;
+250kg_tt;TT-250;
+weapons/250kg_tt/short;ТТ-250;
+
+// M-8 //
+weapons/82mm_M8_rocket_launcher;Неуправляемая ракета М-8;
+weapons/82mm_M8_rocket_launcher/short;М-8;
+weapons/82mm_M8_naval_rocket_launcher;Неуправляемая ракета М-8;
+weapons/82mm_M8_naval_rocket_launcher/short;М-8;
+weapons/82mm_m8_launcher_user_cannon;Ракетная установка М-8-24;
+82mm_m_8;М-8;
+weapons/82mm_m_8/short;М-8;
+
+weapons/su_m8;Неуправляемая авиационная ракета М-8;
+weapons/su_m8/short;М-8;
+
+// M-13 //
+weapons/132mm_m13_m1_naval_rocket_launcher;Неуправляемая ракета М-13;
+weapons/132mm_m13_m1_naval_rocket_launcher/short;М-13;
+
+weapons/132mm_M13_rocket_launcher;Неуправляемая ракета М-13;
+weapons/132mm_M13_rocket_launcher/short;М-13;
+132mm_m_13;М-13;
+
+weapons/su_m13uk;Неуправляемая ракета М-13УК;
+weapons/su_m13uk/short;М-13УК;
+
+// M-14 //
+weapons/rocket_m14_launcher;Неуправляемая ракета М-14;
+weapons/rocket_m14_launcher/short;М-14;
+140mm_m_140of;М-140Ф;
+
+// M-21 //
+weapons/rocket_bm21_launcher;Неуправляемая ракета М-21ОФ
+weapons/rocket_bm21_launcher/short;М-21ОФ
+122mm_9m22;М-21ОФ
+
+// M-31 //
+weapons/300mm_M31_rocket_launcher;Неуправляемая ракета М-31УК;
+weapons/300mm_M31_rocket_launcher/short;М-31УК;
+300mm_m_31_uk;М-31-УК;
+
+// RS-132 //
+weapons/su_rbs132;Неуправляемая авиационная ракета РБС-132;
+weapons/su_rbs132/short;РБС-132;
+weapons/su_rofs132;Неуправляемая авиационная ракета РОФС-132;
+weapons/su_rofs132/short;РОФС-132;
+weapons/su_ros132;Неуправляемая авиационная ракета РОС-132;
+weapons/su_ros132/short;РОС-132;
 weapons/su_rs132;Неуправляемая авиационная ракета РС-132;
+weapons/su_rs132/short;РС-132;
+
+// RS-82 //
 weapons/su_rs82;Неуправляемая авиационная ракета РС-82;
+weapons/su_rs82/short;РС-82;
 weapons/su_ros_82;Неуправляемая авиационная ракета РОС-82;
 weapons/su_ros_82/short;РОС-82;
 weapons/su_ros_82op_event/short;РОС-82;
-weapons/su_ros132;Неуправляемая авиационная ракета РОС-132;
-weapons/su_ros132/short;РОС-132;
-weapons/su_m8;Неуправляемая авиационная ракета М-8;
-weapons/su_m8/short;М-8;
-weapons/su_rofs132;Неуправляемая авиационная ракета РОФС-132;
-weapons/su_rofs132/short;РОФС-132;
-weapons/su_m13uk;Неуправляемая авиационная ракета М-13УК;
-weapons/su_m13uk/short;М-13УК;
-weapons/su_s8_ko_rocket;Неуправляемая авиационная ракета С-8KО;
-weapons/su_s8_ko_rocket/short;С-8KО;
-weapons/su_s_8m_rocket;Неуправляемая авиационная ракета С-8М;
-weapons/su_s_8m_rocket/short;С-8М;
+weapons/su_rbs82;Неуправляемая авиационная ракета РБС-82;
+weapons/su_rbs82/short;РБС-82;
+
+// S-1 //
 weapons/su_c1of_rocket;Неуправляемая авиационная ракета С-1ОФ;
 weapons/su_c1of_rocket/short;С-1OФ;
+
+// S-3 //
+weapons/su_s_3k_rocket;Неуправляемая авиационная ракета С-3K;
+weapons/su_s_3k_rocket/short;С-3K;
+
+// S-5 //
+weapons/cn_hf5_rocket;Неуправляемая авиационная ракета С-5К;
+weapons/cn_hf5_rocket/short;С-5К;
+weapons/su_s_5k_rocket_ub16;Неуправляемая авиационная ракета С-5К;
+weapons/su_s_5k_rocket_ub16/short;С-5К;
+weapons/su_s_5k_rocket;Неуправляемая авиационная ракета С-5К;
+weapons/su_s_5k_rocket/short;С-5К;
+weapons/su_s_5kp_rocket;Неуправляемая авиационная ракета С-5КП;
+weapons/su_s_5kp_rocket/short;С-5КП;
+weapons/su_s_5m_rocket;Неуправляемая авиационная ракета С-5М;
+weapons/su_s_5m_rocket/short;С-5М;
+
+
+// S-8 //
 weapons/su_s_8ko_rocket;Неуправляемая авиационная ракета С-8KО;
 weapons/su_s_8ko_rocket/short;С-8KO;
+weapons/su_s_8kom_rocket;Неуправляемая авиационная ракета С-8KOМ;
+weapons/su_s_8m_rocket;Неуправляемая авиационная ракета С-8М;
+weapons/su_s_8m_rocket/short;С-8М;
+weapons/su_s8_ko_rocket;Неуправляемая авиационная ракета С-8KО;
+weapons/su_s8_ko_rocket/short;С-8KО;
+
+// S-13 //
 weapons/su_s_13df_rocket;Неуправляемая авиационная ракета С-13ДФ;
 weapons/su_s_13df_rocket/short;С-13ДФ;
 weapons/su_s_13of_rocket;Неуправляемая авиационная ракета С-13OФ;
 weapons/su_s_13of_rocket/short;С-13OФ;
-weapons/su_rbs132;Неуправляемая авиационная ракета РБС-132;
-weapons/su_rbs82;Неуправляемая авиационная ракета РБС-82;
-weapons/su_s_5k_rocket;Неуправляемая авиационная ракета С-5К;
-weapons/su_s_5k_rocket_ub16;Неуправляемая авиационная ракета С-5К;
-weapons/su_s_5kp_rocket;Неуправляемая авиационная ракета С-5КП;
-weapons/su_s_5kp_rocket/short;С-5КП;
-weapons/cn_hf5_rocket;Неуправляемая авиационная ракета С-5К;
-weapons/su_s_3k_rocket;Неуправляемая авиационная ракета С-3K;
-weapons/su_s_3k_rocket/short;С-3K;
-weapons/su_s_5m_rocket;Неуправляемая авиационная ракета С-5М;
+
+// S-21 //
 weapons/su_s_21_rocket;Неуправляемая авиационная ракета С-21;
+weapons/su_s_21_rocket/short;С-21;
+
+// S-24 //
 weapons/su_s_24_rocket;Неуправляемая авиационная ракета С-24;
+weapons/su_s_24_rocket/short;С-24;
 weapons/su_s_24b_rocket;Неуправляемая авиационная ракета С-24Б;
 weapons/su_s_24b_rocket/short;С-24Б;
+
+// S-25 //
 weapons/su_s_25l_rocket;Неуправляемая авиационная ракета С-25Л;
 weapons/su_s_25l_rocket/short;С-25Л;
 weapons/su_s_25ld;Неуправляемая авиационная ракета С-25ЛД;
 weapons/su_s_25ld/short;С-25ЛД;
-weapons/su_s_25ofm_rocket;Неуправляемая авиационная ракета С-25ОФМ;
-weapons/su_s_25ofm_rocket/short;С-25ОФМ;
-weapons/su_s_25of_rocket;Неуправляемая авиационная ракета С-25О;
-weapons/su_s_25of_rocket/short;С-25О;
 weapons/su_s_25o_rocket;Неуправляемая авиационная ракета С-25О;
 weapons/su_s_25o_rocket/short;С-25О;
-weapons/82mm_M8_rocket_launcher;М-8;
-weapons/82mm_m8_launcher_user_cannon;М-8;
-weapons/su_rs132/short;РС-132;
-weapons/su_rs82/short;РС-82;
-weapons/su_rbs132/short;РБС-132;
-weapons/su_rbs82/short;РБС-82;
-weapons/su_s_5k_rocket/short;С-5К;
-weapons/su_s_5k_rocket_ub16/short;С-5К;
-weapons/cn_hf5_rocket/short;С-5К;
-weapons/su_s_5m_rocket/short;С-5М;
-weapons/su_s_21_rocket/short;С-21;
-weapons/su_s_24_rocket/short;С-24;
-weapons/82mm_M8_rocket_launcher/short;Ракетная установка М-8-24;
-weapons/82mm_m_8/short;М-8;
-weapons/250kg_TT_rocket_launcher;ТТ-250;
-weapons/250kg_TT_rocket_launcher/short;ТТ-250;
-weapons/250kg_tt/short;ТТ-250;
-250kg_tt;TT-250;
-82mm_m_8;М-8;
-weapons/su_s_8kom_rocket;Неуправляемая авиационная ракета С-8KOМ;
-weapons/132mm_M13_rocket_launcher;М-13;
-weapons/132mm_M13_rocket_launcher/short;М-13;
-weapons/132mm_m13_m1_naval_rocket_launcher;М-13;
-weapons/132mm_m13_m1_naval_rocket_launcher/short;М-13;
-weapons/300mm_M31_rocket_launcher;М-31-УК;
-weapons/300mm_M31_rocket_launcher/short;М-31-УК;
-132mm_m_13;М-13;
-300mm_m_31_uk;М-31-УК;
-weapons/rocket_m14_launcher;Неуправляемая ракета М-14;
-weapons/rocket_m14_launcher/short;М-14;
-140mm_m_140of;М-140Ф;
-weapons/82mm_M8_naval_rocket_launcher;М-8;
-weapons/82mm_M8_naval_rocket_launcher/short;М-8;
-weapons/rocket_bm21_launcher;122-мм пусковая установка А-215 «Град-М»;
-weapons/rocket_bm21_launcher/short;А-215;
-122mm_9m22;М-21ОФ
+weapons/su_s_25of_rocket;Неуправляемая авиационная ракета С-25О;
+weapons/su_s_25of_rocket/short;С-25О;
+weapons/su_s_25ofm_rocket;Неуправляемая авиационная ракета С-25ОФМ;
+weapons/su_s_25ofm_rocket/short;С-25ОФМ;

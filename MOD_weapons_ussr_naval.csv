@@ -1,78 +1,104 @@
 <ID|readonly|noverify>;<NewLanguage>
+
+// TORPEDOES //
+
+weapons/ussr_450mm_mod1910_torpedo;456-мм торпеда обр. 1910 г.;
+weapons/ussr_450mm_mod1910_torpedo/short;обр. 1910 г.;
+weapons/ussr_450mm_mod1912_torpedo;456-мм торпеда обр. 1912 г.;
+weapons/ussr_450mm_mod1912_torpedo/short;обр. 1912 г.;
+
 weapons/su_45_36an_1939_torpedo;450-мм торпеда 45-36AН;
+weapons/su_45_36an_1939_torpedo/short;45-36AН;
 weapons/su_45_36man_1952_torpedo;450-мм торпеда 45-36МAН;
+weapons/su_45_36man_1952_torpedo/short;45-36МAН;
+weapons/ussr_450mm_45_36nu_1939_torpedo;450-мм торпеда 45-36НУ;
+weapons/ussr_450mm_45_36nu_1939_torpedo/short;45-36НУ;
 weapons/su_45_54vt_1954_torpedo;450-мм торпеда 45-54ВТ
 weapons/su_45_54vt_1954_torpedo/short;45-54ВТ
-weapons/su_45_36an_1939_torpedo/short;45-36AН;
-weapons/su_45_36man_1952_torpedo/short;45-36МAН;
-weapons/su_torpedo_ugst;533-мм универсальное глубоководное самонаведение торпеда;
-weapons/su_torpedo_ugst/short;УГСТ;
+
 weapons/su_ttka_53_183_torpedo_tube;533-мм торпеда 53-38;
 weapons/su_ttka_53_183_torpedo_tube/short;53-38;
 weapons/ussr_533mm_53_38_torpedo;533-мм торпеда 53-38;
 weapons/ussr_533mm_53_38_torpedo/short;53-38;
-weapons/depth_charge_ussr_pr_183;Бомба большая ББ-1;
-weapons/depth_charge_ussr_pr_183/short;ББ-1;
-weapons/depth_charge_ussr_bm1;Бомба маленькая БМ-1;
-weapons/depth_charge_ussr_bm1/short;БМ-1;
-weapons/depth_charge_ussr_bb1_mortar;Бомба большая ББ-1;
-weapons/depth_charge_ussr_bb1_mortar/short;ББ-1;
-weapons/ussr_533mm_53_56_torpedo;533-мм торпеда 53-56;
-weapons/ussr_533mm_53_56_torpedo/short;53-56;
-weapons/bomb_ussr_rbm;РБМ;
-weapons/bomb_ussr_rbm/short;РБМ;
-weapons/ussr_400mm_set40_torpedo;400-мм торпеда СЭТ-40;
-weapons/ussr_400mm_set40_torpedo/short;СЭТ-40;
-weapons/ussr_400mm_set72_torpedo;400-мм торпеда СЭТ-72;
-weapons/ussr_400mm_set72_torpedo/short;СЭТ-72;
-weapons/bomb_ussr_rgb25;РГБ-25;
-weapons/bomb_ussr_rgb25/short;РГБ-25;
-weapons/ussr_533mm_set65_torpedo;533-мм торпеда СЭТ-65;
-weapons/ussr_533mm_set65_torpedo/short;СЭТ-65;
-weapons/ussr_450mm_45_36nu_1939_torpedo;450-мм торпеда 45-36НУ;
-weapons/ussr_450mm_45_36nu_1939_torpedo/short;45-36НУ;
-weapons/bomb_ussr_mbu600;Бомбомёт МБУ-600;
-weapons/bomb_ussr_mbu600/short;МБУ-600;
-212mm_rgb25;РГБ-25;
-212mm_rgb60;РГБ-60;
 weapons/ussr_533mm_53_39_torpedo;533-мм торпеда 53-39;
 weapons/ussr_533mm_53_39_torpedo/short;53-39;
-weapons/bomb_ussr_rgb60;РГБ-60;
+weapons/ussr_533mm_53_56_torpedo;533-мм торпеда 53-56;
+weapons/ussr_533mm_53_56_torpedo/short;53-56;
+weapons/ussr_533mm_53_57_torpedo;533-мм торпеда 53-57;
+weapons/ussr_533mm_53_57_torpedo/short;53-57;
+weapons/de_533_53_65_torpedo;533-мм торпеда 53-65;
+weapons/de_533_53_65_torpedo/short;53-65;
+
+weapons/ussr_400mm_set40_torpedo;400-мм самонаводящаяся электрическая торпеда СЭТ-40;
+weapons/ussr_400mm_set40_torpedo/short;СЭТ-40;
+weapons/ussr_533mm_set53m_torpedo;533-мм самонаводящаяся электрическая торпеда СЭТ-53М;
+weapons/ussr_533mm_set53m_torpedo/short;СЭТ-53М;
+weapons/ussr_533mm_set65_torpedo;533-мм самонаводящаяся электрическая торпеда СЭТ-65;
+weapons/ussr_533mm_set65_torpedo/short;СЭТ-65;
+weapons/ussr_400mm_set72_torpedo;400-мм самонаводящаяся электрическая торпеда СЭТ-72;
+weapons/ussr_400mm_set72_torpedo/short;СЭТ-72;
+
+weapons/su_torpedo_ugst;533-мм универсальное глубоководное самонаведение торпеда;
+weapons/su_torpedo_ugst/short;УГСТ;
+
+// DEPTH CHARGES & BOMB THROWERS //
+
+weapons/depth_charge_ussr_pr_183;Бомба большая ББ-1;
+weapons/depth_charge_ussr_pr_183/short;ББ-1;
+weapons/depth_charge_ussr_bb1_mortar;Бомба большая ББ-1;
+weapons/depth_charge_ussr_bb1_mortar/short;ББ-1;
+
+weapons/depth_charge_ussr_bm1;Бомба маленькая БМ-1;
+weapons/depth_charge_ussr_bm1/short;БМ-1;
+
+weapons/bomb_ussr_rbm;Реактивная глубинная бомба РБМ;
+weapons/bomb_ussr_rbm/short;РБМ;
+
+weapons/bomb_ussr_mbu600;Многоствольная бомбовая установка МБУ-600;
+weapons/bomb_ussr_mbu600/short;МБУ-600;
+
+weapons/bomb_ussr_rgb12;Реактивная глубинная бомба РГБ-12;
+weapons/bomb_ussr_rgb12/short;РГБ-12;
+
+weapons/bomb_ussr_rgb25;Реактивная глубинная бомба РГБ-25;
+weapons/bomb_ussr_rgb25/short;РГБ-25;
+212mm_rgb25;РГБ-25;
+
+weapons/bomb_ussr_rgb60;Реактивная глубинная бомба РГБ-60;
 weapons/bomb_ussr_rgb60/short;РГБ-60;
+212mm_rgb60;РГБ-60;
+
+weapons/bomb_ussr_rku36u;Реактивный бомбомет РКУ-36У «Бурун»;
+weapons/bomb_ussr_rku36u/short;РКУ-36У;
+302mm_rku36;РКУ-36У
+
+// MINES //
+
 weapons/ussr_mine_1908_1939_115;Мина обр. 1908/39 г.;
 weapons/ussr_mine_1908_1939_115/short;обр. 1908/39 г.;
 weapons/ussr_mine_1912_100;Мина обр. 1912 г.;
 weapons/ussr_mine_1912_100/short;обр. 1912 г.;
+
+weapons/ussr_mine_kb1_1931;Морская мина КБ-1;
+weapons/ussr_mine_kb1_1931/short;КБ-1;
+weapons/ussr_mine_kb3_1940;Морская мина КБ-3;
+weapons/ussr_mine_kb3_1940/short;КБ-3;
+
 weapons/ussr_mine_amd_1000;Мина АМД-1000;
 weapons/ussr_mine_amd_1000/short;АМД-1000;
-weapons/ussr_mine_kb1_1931;Морская Мина КБ-1;
-weapons/ussr_mine_kb1_1931/short;КБ-1;
-weapons/ussr_mine_kb3_1940;Морская Мина КБ-3;
-weapons/ussr_mine_kb3_1940/short;КБ-3;
+
 weapons/ussr_mine_kmd2_500;Мина KМД-500;
 weapons/ussr_mine_kmd2_500/short;KМД-500;
 weapons/ussr_mine_kmd2_1000;Мина KМД-1000;
 weapons/ussr_mine_kmd2_1000/short;KМД-1000;
-weapons/ussr_mine_m26;корабельная Якорная Мина обр. 1926 г.;
-weapons/ussr_mine_m26/short;обр. 1926 г.;
-weapons/ussr_mine_r1;Речная Мина Р-1;
+
+weapons/ussr_mine_r1;Речная мина Р-1;
 weapons/ussr_mine_r1/short;Р-1;
-weapons/ussr_mine_yam43;Малая Якорная Гальваноударная Мина обр. 1943 г.;
+
+weapons/ussr_mine_m26;Якорная мина обр. 1926 г.;
+weapons/ussr_mine_m26/short;обр. 1926 г.;
+weapons/ussr_mine_yam43;Якорная мина обр. 1943 г.;
 weapons/ussr_mine_yam43/short;ЯМ-43;
-weapons/ussr_mine_mirab;Мина Индукционная Речная Авиационная для постановки с Бреющего полета;
+
+weapons/ussr_mine_mirab;Мина индукционная речная авиационная бреющего полета;
 weapons/ussr_mine_mirab/short;МИРАБ;
-weapons/ussr_450mm_mod1912_torpedo;456-мм торпеда обр. 1912 г.;
-weapons/ussr_450mm_mod1912_torpedo/short;обр. 1912 г.;
-weapons/ussr_450mm_mod1910_torpedo;456-мм торпеда обр. 1910 г.;
-weapons/ussr_450mm_mod1910_torpedo/short;обр. 1910 г.;
-weapons/bomb_ussr_rgb12;РГБ-12;
-weapons/bomb_ussr_rgb12/short;РГБ-12;
-weapons/bomb_ussr_rku36u;РКУ-36У;
-weapons/bomb_ussr_rku36u/short;РКУ-36У;
-302mm_rku36;РКУ-36У
-weapons/ussr_533mm_53_57_torpedo;533-мм торпеда 53-57;
-weapons/ussr_533mm_53_57_torpedo/short;53-57;
-weapons/ussr_533mm_set53m_torpedo;533-мм торпеда СЭТ-53М;
-weapons/ussr_533mm_set53m_torpedo/short;СЭТ-53М;
-weapons/de_533_53_65_torpedo;533-мм торпеда 53-65;
-weapons/de_533_53_65_torpedo/short;53-65;

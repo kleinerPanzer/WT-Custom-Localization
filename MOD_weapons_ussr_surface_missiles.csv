@@ -1,130 +1,194 @@
 <ID|readonly|noverify>;<NewLanguage>
 
+// 3M7 //
 weapons/180mm_2k4_rocket_launcher;Противотанковая управляемая ракета 3М7 (ТКБ-574);
-weapons/180mm_2k4_launcher_user_cannon;ПУ 3М7 для «Дракон»;
 weapons/180mm_2k4_rocket_launcher/short;ПТУР 3М7;
+weapons/180mm_2k4_launcher_user_cannon;Пусковая установка 2К4 «Дракон»;
+180mm_3m7;ПТУР 3М7;
 weapons/180mm_3m7/short;ПТУР 3М7;
+
+// Kalibr //
+weapons/rocket_rocket_3m14k_kalibr_launcher;Опытно-конструкторская работа 3М14К «Калибр»;
+weapons/rocket_rocket_3m14k_kalibr_launcher/short;ОКР 3М14К «Калибр»;
+
+// Tor //
+weapons/239mm_9M331_user_cannon;Зенитно-ракетный модуль 9М334 x2;
 239mm_9m331;ЗУР 9М331;
 weapons/239mm_9m331/short;ЗУР 9М331;
-209mm_9m33m3;Зенитная управляемая ракета 9М33М3;
+
+// Osa //
+weapons/209mm_9M33A3_launcher_user_cannon;Пусковая установка 9П35М2
+209mm_9m33m3;ЗУР 9М33М3;
 weapons/209mm_9m33m3/short;ЗУР 9М33М3;
-weapons/170mm_57E6_rocket_launcher;ПУ 95Я6;
+
+weapons/rocket_9m33_naval_rocket_launcher;Зенитный ракетный комплекс ЗиФ-122
+weapons/rocket_9m33_naval_rocket_launcher/short;ЗРК ЗиФ-122
+209mm_9m33;ЗУР 9М33
+
+// Pantsir //
+weapons/170mm_57E6_rocket_launcher;Пусковая установка 95Я6;
 weapons/170mm_57E6_rocket_launcher/short;ПУ 95Я6;
+170mm_zur_95ya6;ЗУР 57Э6;
+
 weapons/170mm_57E6/short;ЗУР 95Я6;
-170mm_zur_95ya6;ЗУР 95Я6;
-weapons/360mm_9m317m_user_cannon;ПУ 9П311М
+
+// Buk //
+weapons/360mm_9m317m_user_cannon;Пусковая установка 9П311М
 weapons/360mm_9m317m_user_cannon/short;ПУ 9П311М
 360mm_9m317ma;ЗУР 9М317МА
-weapons/130mm_9M114_rocket_launcher;ПУ 9М114 для «Штурм-С»;
-weapons/130mm_9M114_rocket_launcher/short;ПУ 9М114 для «Штурм-С»;
-weapons/130mm_9m114/short;ПТУР 9М114;
-weapons/130mm_9M120_rocket_launcher;ПУ 9М120 для «Штурм-С»;
-weapons/130mm_9M120_rocket_launcher/short;ПУ 9М120 для «Штурм-С»;
-weapons/130mm_9m120/short;ПТУР 9М120;
-152mm_9m133fm_3;УР 9М133ФМ;
-weapons/152mm_9m133fm_3/short;УР 9М133ФМ;
-152mm_9m133;ПТУР 9М133;
-weapons/152mm_9m133/short;ПТУР 9М133;
-152mm_9m123;ПТУР 9М123;
-weapons/152mm_9m123/short;ПТУР 9М123;
-152mm_9m123f;УР 9М123Ф;
-weapons/152mm_9m123f/short;УР 9М123Ф;
+
+// Shturm-Ataka //
+weapons/130mm_9M114_launcher_user_cannon;Пусковая установка для «Штурм-С»;
+weapons/130mm_9M114_rocket_launcher;Пусковая установка для «Штурм-С»;
+weapons/130mm_9M114_rocket_launcher/short;ПУ для «Штурм-С»;
+weapons/130mm_9M120_rocket_launcher;Пусковая установка для «Штурм-С»;
+weapons/130mm_9M120_rocket_launcher/short;ПУ для «Штурм-С»;
 130mm_9m114;ПТУР 9М114 «Штурм»;
+weapons/130mm_9m114/short;ПТУР 9М114;
 130mm_9m120;ПТУР 9М120 «Атака»;
+weapons/130mm_9m120/short;ПТУР 9М120;
 130mm_9m120f_1;УР 9М120Ф-1 «Атака-Ф1»;
 weapons/130mm_9m120f_1/short;УР 9М120Ф-1;
 130mm_9m220o;ЗУР 9М220O;
 weapons/130mm_9m220o/short;ЗУР 9М220O;
-180mm_3m7;ПТУР 3М7 (ТКБ-574);
-120mm_9m37m;ЗУР 9М37М;
-weapons/120mm_9m37m/short;ЗУР 9М37М;
-152mm_zur_9m311;ЗУР 9М311;
-152mm_zur_9m311_1m;ЗУР 9М311-1М;
-weapons/152mm_9M133_launcher_user_cannon;ПУ 9М133 для «Бережок»;
-weapons/152mm_9M133_btr_82at_launcher_user_cannon;ПУ 9М133
-weapons/152mm_9M123_launcher_user_cannon;ПУ 9М123 для «Хризантема»;
-weapons/120mm_9m37m_rocket_launcher;ПУ 9М37М для «Стрела-10М2»;
-weapons/120mm_9m37m_rocket_launcher/short;ПУ 9М37М для «Стрела-10М2»;
-weapons/152mm_9M311_1M_rocket_launcher;ПУ 9М311-1М для «Тунгуска-М1»;
-weapons/152mm_9M311_1M_rocket_launcher/short;ПУ 9М311-1М для «Тунгуска-М1»;
-weapons/152mm_9M311_rocket_launcher;ПУ 9М311 для «Тунгуска»;
-weapons/152mm_9M311_rocket_launcher/short;ПУ 9М311 для «Тунгуска»;
-weapons/152mm_9M311/short;ЗУР 9М311;
-weapons/152mm_zur_9m311_1m/short;ЗУР 9М311-1М;
-100mm_9m_117;ПТУР 9М117 «Кастет»;
-100mm_9m_117m1;ПТУР 9М117М1 «Аркан»;
-weapons/su_9M17M;Противотанковая управляемая ракета 9М17М;
-weapons/su_9M17M/short;ПТУР 9М17М;
-weapons/su_9m17m_default;Противотанковая управляемая ракета 9М17М;
-weapons/su_9m17m_default/short;ПТУР 9М17М;
-weapons/su_9M17P;Противотанковая управляемая ракета 9М17П;
-weapons/su_9M17P/short;ПТУР 9М17П;
+
 weapons/su_9M114;Противотанковая управляемая ракета 9М114 «Штурм»;
 weapons/su_9M114/short;ПТУР 9М114 «Штурм»;
 weapons/su_9M114_default;Противотанковая управляемая ракета 9М114 «Штурм»;
 weapons/su_9M114_default/short;ПТУР 9М114 «Штурм»;
-weapons/su_9M14M;Противотанковая управляемая ракета 9М14М;
-weapons/su_9M14M/short;ПТУР 9М14М;
-weapons/su_9m14m_default;Противотанковая управляемая ракета 9М14М;
-weapons/su_9m14m_default/short;ПТУР 9М14М;
-weapons/su_9M14-2;Противотанковая управляемая ракета 9М14-2;
-weapons/su_9M14-2/short;ПТУР 9М14-2 «Малютка-2»;
 weapons/su_9M120;Противотанковая управляемая ракета 9М120 «Атака»;
 weapons/su_9M120/short;ПТУР 9М120 «Атака»;
-weapons/su_9M123;Противотанковая управляемая ракета 9М123М «Хризантема-ВМ»;
-weapons/su_9M123/short;ПТУР 9М123М;
 weapons/su_9M120M;Противотанковая управляемая ракета 9М120-1;
 weapons/su_9M120M/short;ПТУР 9М120-1;
 weapons/su_9M120M_laser_guided;Противотанковая управляемая ракета 9М120-1;
 weapons/su_9M120M_laser_guided/short;ПТУР 9М120-1;
 weapons/su_9M120M_laser_guided_default;Противотанковая управляемая ракета 9М120-1;
 weapons/su_9M120M_laser_guided_default/short;ПТУР 9М120-1;
-weapons/su_9M39;Зенитная управляемая ракета 9М39;
-weapons/su_9M39/short;ЗУР 9М39;
-weapons/su_9M336;Зенитная управляемая ракета 9М336;
-weapons/su_9M336/short;ЗУР 9М336
+
+// Kornet //
+weapons/152mm_9M133_launcher_user_cannon;Пусковая установка для «Бережок»;
+weapons/152mm_9M133_btr_82at_launcher_user_cannon;Пусковая установка для 9М133
+152mm_9m133fm_3;УР 9М133ФМ;
+weapons/152mm_9m133fm_3/short;УР 9М133ФМ;
+152mm_9m133;ПТУР 9М133;
+weapons/152mm_9m133/short;ПТУР 9М133;
+
 weapons/su_9m133_kornet;Противотанковая управляемая ракета 9М133М-2;
 weapons/su_9m133_kornet/short;ПТУР 9М133М-2;
 weapons/su_9m133fm3_kornet;Противотанковая управляемая ракета 9М133ФМ-3
 weapons/su_9m133fm3_kornet/short;ПТУР 9М133ФМ-3;
+
+// Khrizantema //
+
+weapons/152mm_9M123_launcher_user_cannon;Пусковая установка для «Хризантема»;
+152mm_9m123;ПТУР 9М123;
+weapons/152mm_9m123/short;ПТУР 9М123;
+152mm_9m123f;УР 9М123Ф;
+weapons/152mm_9m123f/short;УР 9М123Ф;
+
+weapons/su_9M123;Противотанковая управляемая ракета 9М123М «Хризантема-ВМ»;
+weapons/su_9M123/short;ПТУР 9М123М;
+
+// Strela //
+
+weapons/120mm_9m37m_rocket_launcher;Пусковая установка для «Стрела-10М2»;
+weapons/120mm_9m37m_rocket_launcher/short;ПУ для «Стрела-10М2»;
+120mm_9m37m;ЗУР 9М37М;
+weapons/120mm_9m37m/short;ЗУР 9М37М;
+
+weapons/rocket_9k32m_strela2m_naval_rocket_launcher;Пусковая установка для «Стрела-2М»;
+weapons/rocket_9k34_strela3_naval_rocket_launcher;Пусковая установка для «Стрела-3»;
+72mm_strela2m;ЗУР 9М32М;
+72mm_strela3;ЗУР 9М36;
+
+// Tunguska //
+weapons/152mm_9M311_rocket_launcher;Пусковая установка для «Тунгуска»;
+weapons/152mm_9M311_rocket_launcher/short;ПУ для «Тунгуска»;
+weapons/152mm_9M311_1M_rocket_launcher;Пусковая установка для «Тунгуска-М1»;
+weapons/152mm_9M311_1M_rocket_launcher/short;ПУ для «Тунгуска-М1»;
+152mm_zur_9m311;ЗУР 9М311;
+weapons/152mm_9M311/short;ЗУР 9М311;
+152mm_zur_9m311_1m;ЗУР 9М311-1М;
+weapons/152mm_zur_9m311_1m/short;ЗУР 9М311-1М;
+
+// 9M117 //
+
+100mm_9m_117;ПТУР 9М117 «Кастет»;
+100mm_9m_117m1;ПТУР 9М117М1 «Аркан»;
+115mm_9m_117;ПТУР 9М117 «Кастет»;
+weapons/115mm_9m_117/short;ПТУР 9М117;
+
+// Falanga //
+
+weapons/su_9M17M;Противотанковая управляемая ракета 9М17М;
+weapons/su_9M17M/short;ПТУР 9М17М;
+weapons/su_9m17m_default;Противотанковая управляемая ракета 9М17М;
+weapons/su_9m17m_default/short;ПТУР 9М17М;
+weapons/su_9M17P;Противотанковая управляемая ракета 9М17П;
+weapons/su_9M17P/short;ПТУР 9М17П;
+
+// Malyutka //
+weapons/125mm_9M14_rocket_launcher;Противотанковая управляемая ракета 9М14;
+weapons/125mm_9M14_rocket_launcher/short;ПТУР 9М14;
+125mm_9M14;ПТУР 9М14;
+weapons/125mm_9M14/short;ПТУР 9М14;
+
+weapons/su_9M14M;Противотанковая управляемая ракета 9М14М;
+weapons/su_9M14M/short;ПТУР 9М14М;
+weapons/su_9m14m_default;Противотанковая управляемая ракета 9М14М;
+weapons/su_9m14m_default/short;ПТУР 9М14М;
+weapons/su_9M14-2;Противотанковая управляемая ракета 9М14-2;
+weapons/su_9M14-2/short;ПТУР 9М14-2 «Малютка-2»;
+
+// Igla //
+
+weapons/72mm_9s846_4_rocket_launcher;Пусковая установка 9С846;
+72mm_9m39;ЗУР 9М39;
+72mm_9m342;ЗУР 9М342
+
+weapons/su_9M39;Зенитная управляемая ракета 9М39;
+weapons/su_9M39/short;ЗУР 9М39;
+
+// Verba //
+
+weapons/su_9M336;Зенитная управляемая ракета 9М336;
+weapons/su_9M336/short;ЗУР 9М336
+
+// Vikhir //
+
 weapons/su_9M127;Противотанковая управляемая ракета 9М127-1 «Вихрь-1»;
 weapons/su_9M127/short;ПТУР 9М127-1 «Вихрь-1»;
 weapons/su_9m127_1;Противотанковая управляемая ракета 9М127-1 «Вихрь-1»;
 weapons/su_9m127_1/short;ПТУР 9М127-1 «Вихрь-1»;
-weapons/rocket_rocket_3m14k_kalibr_launcher;Опытно-Конструкторская Работа 3М14К «Калибр»;
-weapons/rocket_rocket_3m14k_kalibr_launcher/short;ОКР 3М14К «Калибр»;
-115mm_9m_117;ПТУР 9М117 «Кастет»;
-weapons/115mm_9m_117/short;ПТУР 9М117;
-weapons/130mm_9M114_launcher_user_cannon;ПУ 9М114/9М120 для «Штурм-С»;
-weapons/239mm_9M331_user_cannon;Зенитно-ракетный модуль 9М334 x2;
-weapons/209mm_9M33A3_launcher_user_cannon;Пусковая установка 9П35М2
-weapons/125mm_9M14_rocket_launcher;Противотанковая управляемая ракета 9М14;
-weapons/125mm_9M14_rocket_launcher/short;ПТУР 9М14;
-weapons/125mm_9M14/short;ПТУР 9М14;
-125mm_9m_119m1;ПТУР 9М119М1 «Инвар-М»;
+
+
+// Kobra //
+
 125mm_9m_112;ПТУР 9М112 «Кобра»;
 weapons/125mm_9m_112/short;ПТУР 9М112 «Кобра»;
+
+// 9M119 //
+
+125mm_9m_119m1;ПТУР 9М119М1 «Инвар-М»;
 125mm_9m_119;ПТУР 9М119;
 weapons/125mm_9m_119/short;ПТУР 9М119;
-125mm_9M14;ПТУР 9М14;
+
+// 9M113 //
+
+weapons/125mm_9m113_launcher_user_cannon;Пусковая установка для 9М113;
 weapons/125mm_9M113_rocket_launcher;Противотанковая управляемая ракета 9М113 «Удар»;
-weapons/125mm_9m113_launcher_user_cannon;ПУ 9М113;
 weapons/125mm_9M113_rocket_launcher/short;ПТУР 9М113;
-weapons/125mm_9M113/short;ПТУР 9М113;
 125mm_9M113;ПТУР 9М113 «Удар»;
-weapons/rocket_5v24_v600p_naval_rocket_launcher;ЗРК М-1М «Волна-М»;
+weapons/125mm_9M113/short;ПТУР 9М113;
+
+// Volna //
+
+weapons/rocket_5v24_v600p_naval_rocket_launcher;Зенитный ракетный комплекс М-1М «Волна-М»;
 weapons/rocket_5v24_v600p_naval_rocket_launcher/short;ЗРК М-1М;
 5v24;ЗУР В-600П
-weapons/rocket_9m33_naval_rocket_launcher;ЗРК ЗиФ-122
-weapons/rocket_9m33_naval_rocket_launcher/short;ЗРК ЗиФ-122
-209mm_9m33;ЗУР 9М33
-weapons/rocket_9k32m_strela2m_naval_rocket_launcher;ПУ 9М32М для «Стрела-2М»;
-weapons/rocket_9k34_strela3_naval_rocket_launcher;ПУ 9М36 для «Стрела-3»;
-72mm_strela2m;ЗУР 9М32М;
-72mm_strela3;ЗУР 9М36;
-weapons/72mm_9s846_4_rocket_launcher;ПУ 9С846;
-72mm_9m39;ЗУР 9М39;
-72mm_9m342;ЗУР 9М342
+
+// S-75 //
+
+weapons/654mm_S_75_V_755_20DS_rocket_launcher;Пусковая установка СМ-90
 V_759;В-759
 weapons/V_759/short;В-759
-weapons/654mm_S_75_V_755_20DS_rocket_launcher;ПУ СМ-90

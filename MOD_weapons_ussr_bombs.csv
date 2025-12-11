@@ -1,140 +1,163 @@
 <ID|readonly|noverify>;<NewLanguage>
+fab250_43;250-кг авиационная бомба ФАБ-250М-43;
+
+weapons/su_ao_25m_1;25-кг авиационная бомба AO-25М-1;
+weapons/su_ao_25m_1/short;AO-25;
+
+weapons/su_brab_220_1930_ap;220-кг авиационная бомба БрАБ-220;
+weapons/su_brab_220_1930_ap/short;БрАБ-220;
+
+weapons/su_brab_250_ap;250-кг авиационная бомба БрАБ-250;
+weapons/su_brab_250_ap/short;БрАБ-250;
+
+weapons/su_brab_500_1938_ap;500-кг авиационная бомба БрАБ-500;
+weapons/su_brab_500_1938_ap/short;БрАБ-500;
+weapons/su_brab_500m43_ap;500-кг авиационная бомба БрАБ-500М-43;
+weapons/su_brab_500m43_ap/short;БрАБ-500М-43;
+
+weapons/su_brab_1000_1938_ap;1000-кг авиационная бомба БрАБ-1000;
+weapons/su_brab_1000_1938_ap/short;БрАБ-1000;
+weapons/su_brab_1000m43_ap;1000-кг авиационная бомба БрАБ-1000М-43;
+weapons/su_brab_1000m43_ap/short;БрАБ-1000М-43;
+
+weapons/su_fab50;50-кг авиационная бомба ФАБ-50св;
+weapons/su_fab50/short;ФАБ-50;
+weapons/su_fab50_default;50-кг авиационная бомба ФАБ-50св;
+weapons/su_fab50_default/short;ФАБ-50св;
+weapons/su_fab50x;50-кг авиационная бомба ФАБ-50св;
+weapons/su_fab50x/short;ФАБ-50св;
+
+weapons/su_fab100x;100-кг авиационная бомба ФАБ-100св;
+weapons/su_fab100x/short;ФАБ-100св;
+weapons/su_fab100_short_fin;100-кг авиационная бомба ФАБ-100св;
+weapons/su_fab100_short_fin/short;ФАБ-100св;
+weapons/su_fab100;100-кг авиационная бомба ФАБ-100М-43;
+weapons/su_fab100/short;ФАБ-100М-43;
+weapons/su_fab100_default;100-кг авиационная бомба ФАБ-100М-43;
+weapons/su_fab100_default/short;ФАБ-100М-43;
+weapons/su_fab_100m_43;100-кг авиационная бомба ФАБ-100М-43;
+weapons/su_fab_100m_43/short;ФАБ-100М-43;
+
+weapons/su_fab250;250-кг авиационная бомба ФАБ-250св;
+weapons/su_fab250/short;ФАБ-250св;
+weapons/su_fab250x;250-кг авиационная бомба ФАБ-250св;
+weapons/su_fab250x/short;ФАБ-250св;
+weapons/su_fab_250m_43;250-кг авиационная бомба ФАБ-250М-43;
+weapons/su_fab_250m_43/short;ФАБ-250М-43;
+weapons/su_fab_250m_44;250-кг авиационная бомба ФАБ-250М-44;
+weapons/su_fab_250m_44/short;ФАБ-250М-44;
+weapons/su_fab_250m_46;250-кг авиационная бомба ФАБ-250М-46;
+weapons/su_fab_250m_46/short;ФАБ-250М-46;
+weapons/su_fab_250m_62;250-кг авиационная бомба ФАБ-250М-62;
+weapons/su_fab_250m_62/short;ФАБ-250М-62;
+weapons/su_fab250_m54;500-кг авиационная бомба ФАБ-250М-54;
+weapons/su_fab250_m54/short;ФАБ-250М-54;
+
+weapons/su_fab500;500-кг авиационная бомба ФАБ-500св;
+weapons/su_fab500/short;ФАБ-500;
+weapons/su_fab500x;500-кг авиационная бомба ФАБ-500св;
+weapons/su_fab500x/short;ФАБ-500св;
+weapons/su_fab500sh;500-кг штурмовая авиационная бомба ФАБ-500Ш;
+weapons/su_fab500sh/short;ФАБ-500Ш;
+weapons/su_fab_500m_43;500-кг авиационная бомба ФАБ-500М-43;
+weapons/su_fab_500m_43/short;ФАБ-500М-43;
+weapons/su_fab_500m_44;500-кг авиационная бомба ФАБ-500М-44;
+weapons/su_fab_500m_44/short;ФАБ-500М-44;
+weapons/su_fab_500m_46;500-кг авиационная бомба ФАБ-500М-46;
+weapons/su_fab_500m_46/short;ФАБ-500М-46;
+weapons/su_fab500_m54_china;500-кг авиационная бомба ФАБ-500М-54;
+weapons/su_fab500_m54_china/short;ФАБ-500М-54;
+weapons/su_fab500_m54;500-кг авиационная бомба ФАБ-500М-54;
+weapons/su_fab500_m54/short;ФАБ-500М-54;
+weapons/su_fab_500m_62t;500-кг авиационная бомба ФАБ-500М-62;
+weapons/su_fab_500m_62t/short;ФАБ-500М-62;
+
+weapons/su_fab1000;1000-кг авиационная бомба ФАБ-1000;
+weapons/su_fab1000/short;ФАБ-1000;
+weapons/su_fab1000x;1000-кг авиационная бомба ФАБ-1000св;
+weapons/su_fab1000x/short;ФАБ-1000св;
+weapons/su_fab_1000m_43;1000-кг авиационная бомба ФАБ-1000М-43;
+weapons/su_fab_1000m_43/short;ФАБ-1000М-43;
+weapons/su_fab_1000m_44;1000-кг авиационная бомба ФАБ-1000М-44;
+weapons/su_fab_1000m_44/short;ФАБ-1000М-44;
+
+weapons/su_fab_1500m_46;1500-кг авиационная бомба ФАБ-1500М-46;
+weapons/su_fab_1500m_46/short;ФАБ-1500;
+weapons/su_fab_1500m_54;1500-кг авиационная бомба ФАБ-1500М-54
+weapons/su_fab_1500m_54/short;ФАБ-1500М-54
+
+weapons/su_fab_3000m_46;3000-кг авиационная бомба ФАБ-3000М-46;
+weapons/su_fab_3000m_46/short;ФАБ-3000;
+weapons/su_fab_3000m_54;3000-кг авиационная бомба ФАБ-3000М-54
+weapons/su_fab_3000m_54/short;ФАБ-3000М-54
+
+weapons/su_fab5000;5000-кг авиационная бомба ФАБ-5000;
+weapons/su_fab5000/short;ФАБ-5000;
+
+weapons/su_kab_50l;50-кг коррекция авиационная бомба КАБ-50Л;
+weapons/su_kab_50l/short;КАБ-50Л;
+weapons/su_kab_50s;50-кг коррекция авиационная бомба КАБ-50С;
+weapons/su_kab_50s/short;КАБ-50С;
+weapons/su_kab_50tv;50-кг коррекция авиационная бомба КАБ-50ТВ;
+weapons/su_kab_50tv/short;КАБ-50ТВ;
+
+weapons/su_kab_250lg;250-кг коррекция авиационная бомба КАБ-250ЛГ
+weapons/su_kab_250lg/short;КАБ-250ЛГ
+weapons/su_kab_500kr_e;500-кг коррекция авиационная бомба КАБ-500Кр-Э;
+weapons/su_kab_500kr_e/short;КАБ-500Кр-Э;
+weapons/su_kab_500kr_m;500-кг коррекция авиационная бомба КАБ-500Кр-М
+weapons/su_kab_500kr_m/short;КАБ-500Кр-М
+weapons/su_kab_500kr;500-кг коррекция авиационная бомба КАБ-500Кр;
+weapons/su_kab_500kr/short;КАБ-500Кр;
+weapons/su_kab_500l;500-кг коррекция авиационная бомба КАБ-500Л;
+weapons/su_kab_500l/short;КАБ-500Л;
+weapons/su_kab_500lg;500-кг коррекция авиационная бомба КАБ-500ЛГ
+weapons/su_kab_500lg/short;КАБ-250ЛГ
+weapons/su_kab_500s;500-кг коррекция авиационная бомба КАБ-500С;
+weapons/su_kab_500s/short;КАБ-500С;
+
+weapons/su_kab_1500kr;1500-кг коррекция авиационная бомба КАБ-1500Кр;
+weapons/su_kab_1500kr/short;КАБ-1500Кр;
+weapons/su_kab_1500l;500-кг коррекция авиационная бомба КАБ-1500Л;
+weapons/su_kab_1500l/short;КАБ-1500Л;
+weapons/su_kab_1500lg;1500-кг коррекция авиационная бомба КАБ-1500ЛГ
+weapons/su_kab_1500lg/short;КАБ-1500ЛГ
+
+weapons/su_ofab_100_120;100-кг авиационная бомба OФАБ-100
+weapons/su_ofab_100_120/short;OФАБ-100
+weapons/su_ofab100_120;100-кг авиационная бомба OФАБ-100-120;
+weapons/su_ofab100_120/short;OФAB-100-120;
+weapons/su_ofab100m;100-кг авиационная бомба OФАБ-100М
+weapons/su_ofab100m/short;OФАБ-100М
+
+weapons/su_fab250_270;250-кг авиационная бомба OФАБ-250-270;
+weapons/su_fab250_270/short;OФАБ-250-270;
+weapons/su_ofab_250_270;250-кг авиационная бомба OФАБ-250-270
+weapons/su_ofab_250_270/short;OФАБ-250-270
+weapons/su_ofab250;250-кг авиационная бомба OФАБ-250св;
+weapons/su_ofab250/short;OФАБ-250св;
+weapons/su_ofab250sh;250-кг штурмовая авиационная бомба ОФАБ-250Ш;
+weapons/su_ofab250sh/short;ОФАБ-250Ш;
+
+weapons/su_umpk_500m62;3000-кг авиационная бомба ФАБ-500М-62 (УМПК)
+weapons/su_umpk_500m62/short;ФАБ-500М-62 (УМПК)
+weapons/su_umpk_3000;3000-кг авиационная бомба ФАБ-3000М-54 (УМПК)
+weapons/su_umpk_3000/short;ФАБ-3000М-54 (УМПК)
+
+weapons/su_upab_500b;500-кг управляемая планирующая авиационная бомба УПАБ-500Б
+weapons/su_upab_500b/short;УПАБ-500Б
+weapons/su_upab_1500b;1500-кг управляемая планирующая авиационная бомба УПАБ-1500Б
+weapons/su_upab_1500b/short;УПАБ-1500Б
+
+weapons/su_zab50fp;50-кг зажигательный бомба ЗАБ-50ФП;
+weapons/su_zab50fp/short;ЗАБ-50ФП;
+
+weapons/su_zb_360;360-кг зажигательный бак ЗБ-360;
+weapons/su_zb_360/short;ЗБ-360;
+weapons/su_zb_500;500-кг зажигательный бак ЗБ-500;
+weapons/su_zb_500/short;ЗБ-500;
+
 weapons/su_rds4;Ядерная бомба РДС-4;
 weapons/su_rds4/short;РДС-4;
 weapons/su_rn_28;РН-28
 weapons/su_rn_28/short;РН-28
-weapons/su_fab100;100 kg авиационная бомба ФАБ-100М-43;
-weapons/su_fab_3000m_46;3000 kg авиационная бомба ФАБ-3000М-46;
-weapons/su_fab_1500m_46;1500 kg авиационная бомба ФАБ-1500М-46;
-weapons/su_fab_1000m_44;1000 kg авиационная бомба ФАБ-1000М-44;
-weapons/su_fab_1000m_44/short;ФАБ-1000М-44;
-weapons/su_fab_1000m_43;1000 kg авиационная бомба ФАБ-1000М-43;
-weapons/su_fab_1000m_43/short;ФАБ-1000М-43;
-weapons/su_fab_500m_44;500 kg авиационная бомба ФАБ-500М-44;
-weapons/su_fab_500m_44/short;ФАБ-500М-44;
-weapons/su_fab_500m_43;500 kg авиационная бомба ФАБ-500М-43;
-weapons/su_fab_500m_43/short;ФАБ-500М-43;
-weapons/su_fab_1500m_54;1500 kg авиационная бомба ФАБ-1500М-54
-weapons/su_fab_1500m_54/short;ФАБ-1500М-54
-weapons/su_fab_3000m_54;3000 kg авиационная бомба ФАБ-3000М-54
-weapons/su_fab_3000m_54/short;ФАБ-3000М-54
-weapons/su_zb_500;500 kg зажигательный бак ЗБ-500;
-weapons/su_zb_500/short;ЗБ-500;
-weapons/su_zb_360;360 kg зажигательный бак ЗБ-360;
-weapons/su_zb_360/short;ЗБ-360;
-weapons/su_fab_250m_44;250 kg авиационная бомба ФАБ-250М-44;
-weapons/su_fab_250m_44/short;ФАБ-250М-44;
-weapons/su_fab_250m_43;250 kg авиационная бомба ФАБ-250М-43;
-weapons/su_fab_250m_43/short;ФАБ-250М-43;
-weapons/su_fab_100m_43;100 kg авиационная бомба ФАБ-100М-43;
-weapons/su_fab_100m_43/short;ФАБ-100М-43;
-weapons/su_fab_250m_46;250 kg авиационная бомба ФАБ-250М-46;
-weapons/su_fab_250m_46/short;ФАБ-250М-46;
-weapons/su_fab_500m_46;500 kg авиационная бомба ФАБ-500М-46;
-weapons/su_fab_500m_46/short;ФАБ-500М-46;
-weapons/su_fab1000;1000 kg авиационная бомба ФАБ-1000;
-weapons/su_fab250;250 kg авиационная бомба ФАБ-250св;
-weapons/su_fab50x;50 kg авиационная бомба ФАБ-50св;
-weapons/su_fab50x/short;ФАБ-50св;
-weapons/su_fab100x;100 kg авиационная бомба ФАБ-100св;
-weapons/su_fab100x/short;ФАБ-100св;
-weapons/su_fab100_short_fin;100 kg авиационная бомба ФАБ-100св;
-weapons/su_fab100_short_fin/short;ФАБ-100св;
-weapons/su_fab250x;250 kg авиационная бомба ФАБ-250св;
-weapons/su_fab250x/short;ФАБ-250св;
-weapons/su_fab500x;500 kg авиационная бомба ФАБ-500св;
-weapons/su_fab500x/short;ФАБ-500св;
-weapons/su_fab1000x;1000 kg авиационная бомба ФАБ-1000св;
-weapons/su_fab1000x/short;ФАБ-1000св;
-weapons/su_fab500_m54;500 kg авиационная бомба ФАБ-500М-54;
-weapons/su_fab500_m54/short;ФАБ-500М-54;
-weapons/su_fab250_m54;500 kg авиационная бомба ФАБ-250М-54;
-weapons/su_fab250_m54/short;ФАБ-250М-54;
-weapons/su_fab250_270;250 kg авиационная бомба OФАБ-250-270;
-weapons/su_fab250_270/short;OФАБ-250-270;
-weapons/su_fab_250m_62;250 kg авиационная бомба ФАБ-250М-62;
-weapons/su_fab_250m_62/short;ФАБ-250М-62;
-weapons/su_brab_250_ap;250 kg авиационная бомба БрАБ-250;
-weapons/su_brab_250_ap/short;БрАБ-250;
-weapons/su_brab_500m43_ap;500 kg авиационная бомба БрАБ-500М-43;
-weapons/su_brab_500m43_ap/short;БрАБ-500М-43;
-weapons/su_brab_1000m43_ap;1000 kg авиационная бомба БрАБ-1000М-43;
-weapons/su_brab_1000m43_ap/short;БрАБ-1000М-43;
-weapons/su_fab_500m_62t;500 kg авиационная бомба ФАБ-500М-62;
-weapons/su_fab_500m_62t/short;ФАБ-500М-62;
-weapons/su_fab500_m54_china;500 kg авиационная бомба ФАБ-500М-54;
-weapons/su_fab500_m54_china/short;ФАБ-500М-54;
-weapons/su_ofab100_120;100 kg авиационная бомба OФАБ-100-120;
-weapons/su_ofab100_120/short;OФAB-100-120;
-weapons/su_ofab_100_120;100 kg авиационная бомба OФАБ-100
-weapons/su_ofab_100_120/short;OФАБ-100
-weapons/su_ofab_250_270;250 kg авиационная бомба OФАБ-250-270
-weapons/su_ofab_250_270/short;OФАБ-250-270
-weapons/su_ofab100m;100 kg авиационная бомба OФАБ-100М
-weapons/su_ofab100m/short;OФАБ-100М
-weapons/su_ofab250;250 kg авиационная бомба OФАБ-250св;
-weapons/su_ao_25m_1;25 kg авиационная бомба AO-25М-1;
-weapons/su_brab_220_1930_ap;220 kg авиационная бомба БрАБ-220;
-weapons/su_brab_220_1930_ap/short;БрАБ-220;
-weapons/su_brab_500_1938_ap;500 kg авиационная бомба БрАБ-500;
-weapons/su_brab_500_1938_ap/short;БрАБ-500;
-weapons/su_brab_1000_1938_ap;1000 kg авиационная бомба БрАБ-1000;
-weapons/su_brab_1000_1938_ap/short;БрАБ-1000;
-weapons/su_fab50;50 kg авиационная бомба ФАБ-50св;
-weapons/su_fab50_default;50 kg авиационная бомба ФАБ-50св;
-weapons/su_fab50_default/short;ФАБ-50св;
-weapons/su_zab50fp;50 kg Зажигательный Бомба ЗАБ-50ФП;
-weapons/su_zab50fp/short;ЗАБ-50ФП;
-weapons/su_fab500;500 kg авиационная бомба ФАБ-500св;
-weapons/su_ofab250sh;250 kg штурмовая авиационная бомба ОФАБ-250Ш;
-weapons/su_ofab250sh/short;ОФАБ-250Ш;
-weapons/su_fab500sh;500 kg штурмовая авиационная бомба ФАБ-500Ш;
-weapons/su_fab500sh/short;ФАБ-500Ш;
-weapons/su_kab_50tv;50 kg коррекция авиационная бомба КАБ-50ТВ;
-weapons/su_kab_50tv/short;КАБ-50ТВ;
-weapons/su_kab_50s;50 kg коррекция авиационная бомба КАБ-50С;
-weapons/su_kab_50s/short;КАБ-50С;
-weapons/su_kab_50l;50 kg коррекция авиационная бомба КАБ-50Л;
-weapons/su_kab_50l/short;КАБ-50Л;
-weapons/su_kab_500kr;500 kg коррекция авиационная бомба КАБ-500Кр;
-weapons/su_kab_500kr/short;КАБ-500Кр;
-weapons/su_kab_500kr_m;500 kg коррекция авиационная бомба КАБ-500Кр-М
-weapons/su_kab_500kr_m/short;КАБ-500Кр-М
-weapons/su_kab_500kr_e;500 kg коррекция авиационная бомба КАБ-500Кр-Э;
-weapons/su_kab_500kr_e/short;КАБ-500Кр-Э;
-weapons/su_kab_500s;500 kg коррекция авиационная бомба КАБ-500С;
-weapons/su_kab_500s/short;КАБ-500С;
-weapons/su_kab_500l;500 kg коррекция авиационная бомба КАБ-500Л;
-weapons/su_kab_500l/short;КАБ-500Л;
-weapons/su_kab_500lg;500 kg коррекция авиационная бомба КАБ-500ЛГ
-weapons/su_kab_500lg/short;КАБ-250ЛГ
-weapons/su_kab_250lg;250 kg коррекция авиационная бомба КАБ-250ЛГ
-weapons/su_kab_250lg/short;КАБ-250ЛГ
-weapons/su_kab_1500kr;1500 kg коррекция авиационная бомба КАБ-1500Кр;
-weapons/su_kab_1500kr/short;КАБ-1500Кр;
-weapons/su_upab_500b;500 kg управляемая планирующая авиационная бомба УПАБ-500Б
-weapons/su_upab_500b/short;УПАБ-500Б
-weapons/su_upab_1500b;1500 kg управляемая планирующая авиационная бомба УПАБ-1500Б
-weapons/su_upab_1500b/short;УПАБ-1500Б
-weapons/su_kab_1500l;500 kg коррекция авиационная бомба КАБ-1500Л;
-weapons/su_kab_1500l/short;КАБ-1500Л;
-weapons/su_kab_1500lg;1500 kg коррекция авиационная бомба КАБ-1500ЛГ
-weapons/su_kab_1500lg/short;КАБ-1500ЛГ
-weapons/su_umpk_3000;3000 kg авиационная бомба ФАБ-3000М-54 (УМПК)
-weapons/su_umpk_3000/short;ФАБ-3000М-54 (УМПК)
-weapons/su_umpk_500m62;3000 kg авиационная бомба ФАБ-500М-62 (УМПК)
-weapons/su_umpk_500m62/short;ФАБ-500М-62 (УМПК)
-weapons/su_fab5000;5000 kg авиационная бомба ФАБ-5000;
-weapons/su_fab50/short;ФАБ-50;
-weapons/su_ao_25m_1/short;AO-25;
-weapons/su_fab100/short;ФАБ-100М-43;
-weapons/su_fab100_default;100 kg авиационная бомба ФАБ-100М-43;
-weapons/su_fab100_default/short;ФАБ-100М-43;
-weapons/su_fab250/short;ФАБ-250св;
-weapons/su_ofab250/short;OФАБ-250св;
-weapons/su_fab500/short;ФАБ-500;
-weapons/su_fab1000/short;ФАБ-1000;
-weapons/su_fab_1500m_46/short;ФАБ-1500;
-weapons/su_fab_3000m_46/short;ФАБ-3000;
-weapons/su_fab5000/short;ФАБ-5000;
-fab250_43;250 kg авиационная бомба ФАБ-250М-43;

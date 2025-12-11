@@ -266,3 +266,13 @@ weapons/152mm_6inch_45_bl_mk7_naval_user_cannon;Ordnance, B.L., 6-inch, Mk. VII;
 weapons/87_6mm_31_ordnance_qf_naval_user_cannon;Ordnance, Q.F., 25-pr, Mk. I;
 87_6mm_mk1d_he;Mk. Id HE;
 87_6mm_ap_shot;Mk. I APC;
+weapons/381mm_42_bl_mk1_naval_user_cannon;Ordnance, B.L., 15-inch, Mk. I;
+381mm_4crh_cpc;CPC;
+381mm_mark_12a_4crh_apc;Mk. XIIa APC;
+381mm_mark_1a_4crh_apc;Mk. Ia APC;
+381mm_mark_17b_6crh_apc;Mk. XVIIb APC
+381mm_mark_22b_6crh_apc;Mk. XXIIb SC APC
+weapons/406mm_45_bl_mk1_r1_naval_user_cannon;Ordnance, B.L., 16-inch, Mk. I
+weapons/406mm_45_bl_mk1_r2_naval_user_cannon;Ordnance, B.L., 16-inch, Mk. I
+406mm_uk_he;Mk. Ib HE
+406mm_mark_1a_apcbc;Mk. Ia APCBC

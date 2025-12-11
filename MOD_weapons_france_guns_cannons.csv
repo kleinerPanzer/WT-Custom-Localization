@@ -142,9 +142,9 @@ weapons/40mm_l70_bofors_mel58_naval_user_cannon;40 mm MEL 58;
 40mm_he_t_pf;HE-T-PF;
 weapons/25mm_60_hotchkiss_naval_user_cannon;25 mm Hotchkiss modèle 1938
 weapons/7_7mm_darne_mle1922_naval_user_machinegun;7,7 mm Mitrailleuse légère Darne modèle 1922;
-weapons/100mm_55_mle_1953_naval_user_cannon;100 mm/55 modèle 1953;
-100mm_oea_f1_he;OEA F1 HE;
-100mm_opf_f4_aavt;OPF F4 PFHE;
+weapons/100mm_55_mle_1953_naval_user_cannon;Canon de 100 mm modèle 1953;
+100mm_oea_f1_he;OEA F1;
+100mm_opf_f4_aavt;OPF F4;
 weapons/8mm_hotchkiss_1914_naval_user_machinegun;8 mm Hotchkiss modèle 1914;
 weapons/13_2mm_hotchkiss_naval_user_machinegun;13,2 mm Hotchkiss modèle 1930;
 weapons/138mm_40_model_1927_naval_user_cannon;Canon de 138,6 mm modèle 1927;

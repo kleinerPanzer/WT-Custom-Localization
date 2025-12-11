@@ -248,3 +248,7 @@ weapons/155mm_CN98_user_cannon;155 mm CN98;
 weapons/7_62mm_FN_MAG58_user_machinegun;7.62 mm MAG 58
 apds_sabot;APDS Sabot
 apfsds_sabot;APFSDS Sabot
+
+weapons/125mm_KBA_3_user_cannon;125-мм танкова гармата КБА-3
+weapons/7_62mm_KT_user_machinegun;7,62-мм кулемет КТ-7,62
+weapons/12_7mm_KT_user_cannon;12,7-мм кулемет КТ-12,7

@@ -1,117 +1,134 @@
 <ID|readonly|noverify>;<NewLanguage>
-weapons/su_kh_23m;Управляемая ракета «воздух-поверхность» Х-23М;
-weapons/su_kh_23m/short;Р «В-П» Х-23М;
-weapons/su_kh_66;Управляемая ракета «воздух-поверхность» Х-66;
-weapons/su_kh_66/short;Р «В-П» Х-66;
-weapons/su_kh_25;Управляемая ракета «воздух-поверхность» Х-25;
-weapons/su_kh_25/short;Р «В-П» Х-25;
-weapons/su_kh_25_haslaserchannel;Управляемая ракета «воздух-поверхность» Х-25;
-weapons/su_kh_25_haslaserchannel/short;Р «В-П» Х-25;
-weapons/su_kh_29l;Управляемая ракета «воздух-поверхность» Х-29Л;
-weapons/su_kh_29l/short;Р «В-П» Х-29Л;
-weapons/su_grom_1;Х-36 Гром-1
-weapons/su_grom_1/short;Х-36 Гром-1
-weapons/su_grom_2;Х-36 Гром-1
-weapons/su_grom_2/short;Х-36 Гром-1
-weapons/su_kh_25mr;Управляемая ракета «воздух-поверхность» Х-25МР;
-weapons/su_kh_25mr/short;Р «В-П» Х-25МР;
-weapons/su_kh_29l_notlaserchannel;Управляемая ракета «воздух-поверхность» Х-29Л;
-weapons/su_kh_29l_notlaserchannel/short;Р «В-П» Х-29Л;
-su_r_73;Управляемая ракета «воздух-воздух» Р-73;
-su_r_73/short;УР «В-В» Р-73;
 su_r_73_default;Управляемая ракета «воздух-воздух» Р-73;
 su_r_73_default/short;УР «В-В» Р-73;
-weapons/su_r_60mk;Управляемая ракета «воздух-воздух» Р-60МК;
-weapons/su_r_60mk/short;УР «В-В» Р-60МК;
-weapons/su_r_60mk_default;Управляемая ракета «воздух-воздух» Р-60МК;
-weapons/su_r_60mk_default/short;УР «В-В» Р-60МК;
-weapons/su_r_60;Управляемая ракета «воздух-воздух» Р-60;
-weapons/su_r_60/short;УР «В-В» Р-60;
-weapons/su_r_60m;Управляемая ракета «воздух-воздух» Р-60М;
-weapons/su_r_60m/short;УР «В-В» Р-60М;
-weapons/su_r_60m_default;Управляемая ракета «воздух-воздух» Р-60М;
-weapons/su_r_60m_default/short;УР «В-В» Р-60М;
-weapons/su_r_60_default;Управляемая ракета «воздух-воздух» Р-60;
-weapons/su_r_60_default/short;УР «В-В» Р-60;
-weapons/su_r_27r;Управляемая ракета «воздух-воздух» Р-27Р;
-weapons/su_r_27r/short;УР «В-В» Р-27Р;
-weapons/su_r_27r_default;Управляемая ракета «воздух-воздух» Р-27Р;
-weapons/su_r_27r_default/short;УР «В-В» Р-27Р;
-weapons/su_r_27t;Управляемая ракета «воздух-воздух» Р-27Т;
-weapons/su_r_27t/short;УР «В-В» Р-27Т;
-weapons/su_r_73;Управляемая ракета «воздух-воздух» Р-73;
-weapons/su_r_73/short;УР «В-В» Р-73;
-weapons/su_r_73_default;Управляемая ракета «воздух-воздух» Р-73;
-weapons/su_r_73_default/short;УР «В-В» Р-73;
-weapons/su_r_73e;Управляемая ракета «воздух-воздух» Р-73Э;
-weapons/su_r_73e/short;УР «В-В» Р-73Э;
-weapons/su_r_73e_default;Управляемая ракета «воздух-воздух» Р-73Э;
-weapons/su_r_73e_default/short;УР «В-В» Р-73Э;
-weapons/su_r_77;Управляемая ракета «воздух-воздух» Р-77;
-weapons/su_r_77/short;УР «В-В» Р-77;
-weapons/su_r_77_default;Управляемая ракета «воздух-воздух» Р-77;
-weapons/su_r_77_default/short;УР «В-В» Р-77;
-weapons/su_rvv_ae;Air-to-Air Missile RVV-AE;
-weapons/su_rvv_ae/short;RVV-AE;
-weapons/su_rvv_ae_default;Air-to-Air Missile RVV-AE;
-weapons/su_rvv_ae_default/short;RVV-AE;
-weapons/su_r_77_1;Управляемая ракета «воздух-воздух» Р-77-1;
-weapons/su_r_77_1/short;УР «В-В» Р-77-1
-weapons/su_r_77_1_default;Управляемая ракета «воздух-воздух» Р-77-1;
-weapons/su_r_77_1_default/short;УР «В-В» Р-77-1
-weapons/su_r_27er;Управляемая ракета «воздух-воздух» Р-27ЭР;
-weapons/su_r_27er/short;УР «В-В» Р-27ЭР;
-weapons/su_r_27er_default;Управляемая ракета «воздух-воздух» Р-27ЭР;
-weapons/su_r_27er_default/short;УР «В-В» Р-27ЭР;
-weapons/su_r_27et;Управляемая ракета «воздух-воздух» Р-27ЭТ;
-weapons/su_r_27et/short;УР «В-В» Р-27ЭТ;
-weapons/su_r_27et1;Управляемая ракета «воздух-воздух» Р-27ЭТ1;
-weapons/su_r_27et1/short;УР «В-В» Р-27ЭТ1;
-weapons/su_r_27r1;Управляемая ракета «воздух-воздух» Р-27Р1;
-weapons/su_r_27r1/short;УР «В-В» Р-27Р1;
-weapons/su_r_27r1_default;Управляемая ракета «воздух-воздух» Р-27Р1;
-weapons/su_r_27r1_default/short;УР «В-В» Р-27Р1;
-weapons/su_r_27t1;Управляемая ракета «воздух-воздух» Р-27Т1;
-weapons/su_r_27t1/short;УР «В-В» Р-27Т1;
-weapons/su_r_27er1;Управляемая ракета «воздух-воздух» Р-27ЭР1;
-weapons/su_r_27er1/short;УР «В-В» Р-27ЭР1;
-weapons/su_r_3s;Управляемая ракета «воздух-воздух» Р-3С;
-weapons/su_r_3s/short;УР «В-В» Р-3С;
-weapons/su_r_3r;Управляемая ракета «воздух-воздух» Р-3Р;
-weapons/su_r_3r/short;УР «В-В» Р-3Р;
-weapons/su_r_3r_default;Управляемая ракета «воздух-воздух» Р-3Р;
-weapons/su_r_3r_default/short;УР «В-В» Р-3Р;
-weapons/su_r_3s_default;Управляемая ракета «воздух-воздух» Р-3С;
-weapons/su_r_3s_default/short;УР «В-В» Р-3С;
-weapons/su_r_13m;Управляемая ракета «воздух-воздух» Р-13М;
-weapons/su_r_13m/short;УР «В-В» Р-13М;
-weapons/su_r_13m1;Управляемая ракета «воздух-воздух» Р-13М1;
-weapons/su_r_13m1/short;УР «В-В» Р-13М1;
-weapons/su_r_13m1_default;Управляемая ракета «воздух-воздух» Р-13М1;
-weapons/su_r_13m1_default/short;УР «В-В» Р-13М1;
-weapons/su_r_23r;Управляемая ракета «воздух-воздух» Р-23Р;
-weapons/su_r_23r/short;УР «В-В» Р-23Р;
-weapons/su_r_23t;Управляемая ракета «воздух-воздух» Р-23Т;
-weapons/su_r_23t/short;УР «В-В» Р-23Т;
-weapons/su_r_24t;Управляемая ракета «воздух-воздух» Р-24Т;
-weapons/su_r_24t/short;УР «В-В» Р-24Т;
-weapons/su_r_24r;Управляемая ракета «воздух-воздух» Р-24Р;
-weapons/su_r_24r/short;УР «В-В» Р-24Р;
+su_r_73;Управляемая ракета «воздух-воздух» Р-73;
+su_r_73/short;УР «В-В» Р-73;
+
+weapons/su_kh_23m;Управляемая ракета «воздух-поверхность» Х-23М;
+weapons/su_kh_23m/short;Р «В-П» Х-23М;
+
+weapons/su_kh_25_haslaserchannel;Управляемая ракета «воздух-поверхность» Х-25;
+weapons/su_kh_25_haslaserchannel/short;Р «В-П» Х-25;
+weapons/su_kh_25;Управляемая ракета «воздух-поверхность» Х-25;
+weapons/su_kh_25/short;Р «В-П» Х-25;
 weapons/su_kh_25ml;Управляемая ракета «воздух-поверхность» Х-25МЛ;
 weapons/su_kh_25ml/short;Х-25МЛ;
+weapons/su_kh_25mr;Управляемая ракета «воздух-поверхность» Х-25МР;
+weapons/su_kh_25mr/short;Р «В-П» Х-25МР;
+
+weapons/su_kh_29l_notlaserchannel;Управляемая ракета «воздух-поверхность» Х-29Л;
+weapons/su_kh_29l_notlaserchannel/short;Р «В-П» Х-29Л;
+weapons/su_kh_29l;Управляемая ракета «воздух-поверхность» Х-29Л;
+weapons/su_kh_29l/short;Р «В-П» Х-29Л;
 weapons/su_kh_29t;Управляемая ракета «воздух-поверхность» Х-29Т;
 weapons/su_kh_29t/short;Х-29Т;
 weapons/su_kh_29td;Управляемая ракета «воздух-поверхность» Х-29ТД;
 weapons/su_kh_29td/short;Х-29ТД;
 weapons/su_kh_29te;Управляемая ракета «воздух-поверхность» Х-29ТЭ;
 weapons/su_kh_29te/short;Х-29ТЭ;
+
+weapons/su_grom_1;Х-36 Гром-1
+weapons/su_grom_1/short;Х-36 Гром-1
+weapons/su_grom_2;Х-36 Гром-1
+weapons/su_grom_2/short;Х-36 Гром-1
+
 weapons/su_kh_38ml;Управляемая ракета «воздух-поверхность» Х-38МЛ;
 weapons/su_kh_38ml/short;Х-38МЛ;
 weapons/su_kh_38mt;Управляемая ракета «воздух-поверхность» Х-38МТ;
 weapons/su_kh_38mt/short;Х-38МТ;
+
 weapons/su_lmur;Лёгкая многоцелевая управляемая ракета Х-39
 weapons/su_lmur/short;Х-39
+
 weapons/su_kh_59m;Управляемая ракета «воздух-поверхность» Х-59М
 weapons/su_kh_59m/short;Х-59М
 weapons/su_kh_59me;Управляемая ракета «воздух-поверхность» Х-59МЭ
 weapons/su_kh_59me/short;Х-59МЭ
+
+weapons/su_kh_66;Управляемая ракета «воздух-поверхность» Х-66;
+weapons/su_kh_66/short;Р «В-П» Х-66;
+
+weapons/su_r_3r_default;Управляемая ракета «воздух-воздух» Р-3Р;
+weapons/su_r_3r_default/short;УР «В-В» Р-3Р;
+weapons/su_r_3r;Управляемая ракета «воздух-воздух» Р-3Р;
+weapons/su_r_3r/short;УР «В-В» Р-3Р;
+weapons/su_r_3s_default;Управляемая ракета «воздух-воздух» Р-3С;
+weapons/su_r_3s_default/short;УР «В-В» Р-3С;
+weapons/su_r_3s;Управляемая ракета «воздух-воздух» Р-3С;
+weapons/su_r_3s/short;УР «В-В» Р-3С;
+
+weapons/su_r_13m;Управляемая ракета «воздух-воздух» Р-13М;
+weapons/su_r_13m/short;УР «В-В» Р-13М;
+weapons/su_r_13m1_default;Управляемая ракета «воздух-воздух» Р-13М1;
+weapons/su_r_13m1_default/short;УР «В-В» Р-13М1;
+weapons/su_r_13m1;Управляемая ракета «воздух-воздух» Р-13М1;
+weapons/su_r_13m1/short;УР «В-В» Р-13М1;
+
+weapons/su_r_23r;Управляемая ракета «воздух-воздух» Р-23Р;
+weapons/su_r_23r/short;УР «В-В» Р-23Р;
+weapons/su_r_23t;Управляемая ракета «воздух-воздух» Р-23Т;
+weapons/su_r_23t/short;УР «В-В» Р-23Т;
+
+weapons/su_r_24r;Управляемая ракета «воздух-воздух» Р-24Р;
+weapons/su_r_24r/short;УР «В-В» Р-24Р;
+weapons/su_r_24t;Управляемая ракета «воздух-воздух» Р-24Т;
+weapons/su_r_24t/short;УР «В-В» Р-24Т;
+
+weapons/su_r_27r_default;Управляемая ракета «воздух-воздух» Р-27Р;
+weapons/su_r_27r_default/short;УР «В-В» Р-27Р;
+weapons/su_r_27r;Управляемая ракета «воздух-воздух» Р-27Р;
+weapons/su_r_27r/short;УР «В-В» Р-27Р;
+weapons/su_r_27t;Управляемая ракета «воздух-воздух» Р-27Т;
+weapons/su_r_27t/short;УР «В-В» Р-27Т;
+weapons/su_r_27r1_default;Управляемая ракета «воздух-воздух» Р-27Р1;
+weapons/su_r_27r1_default/short;УР «В-В» Р-27Р1;
+weapons/su_r_27r1;Управляемая ракета «воздух-воздух» Р-27Р1;
+weapons/su_r_27r1/short;УР «В-В» Р-27Р1;
+weapons/su_r_27t1;Управляемая ракета «воздух-воздух» Р-27Т1;
+weapons/su_r_27t1/short;УР «В-В» Р-27Т1;
+weapons/su_r_27er_default;Управляемая ракета «воздух-воздух» Р-27ЭР;
+weapons/su_r_27er_default/short;УР «В-В» Р-27ЭР;
+weapons/su_r_27er;Управляемая ракета «воздух-воздух» Р-27ЭР;
+weapons/su_r_27er/short;УР «В-В» Р-27ЭР;
+weapons/su_r_27er1;Управляемая ракета «воздух-воздух» Р-27ЭР1;
+weapons/su_r_27er1/short;УР «В-В» Р-27ЭР1;
+weapons/su_r_27et;Управляемая ракета «воздух-воздух» Р-27ЭТ;
+weapons/su_r_27et/short;УР «В-В» Р-27ЭТ;
+weapons/su_r_27et1;Управляемая ракета «воздух-воздух» Р-27ЭТ1;
+weapons/su_r_27et1/short;УР «В-В» Р-27ЭТ1;
+
+weapons/su_r_60_default;Управляемая ракета «воздух-воздух» Р-60;
+weapons/su_r_60_default/short;УР «В-В» Р-60;
+weapons/su_r_60;Управляемая ракета «воздух-воздух» Р-60;
+weapons/su_r_60/short;УР «В-В» Р-60;
+weapons/su_r_60m_default;Управляемая ракета «воздух-воздух» Р-60М;
+weapons/su_r_60m_default/short;УР «В-В» Р-60М;
+weapons/su_r_60m;Управляемая ракета «воздух-воздух» Р-60М;
+weapons/su_r_60m/short;УР «В-В» Р-60М;
+weapons/su_r_60mk_default;Управляемая ракета «воздух-воздух» Р-60МК;
+weapons/su_r_60mk_default/short;УР «В-В» Р-60МК;
+weapons/su_r_60mk;Управляемая ракета «воздух-воздух» Р-60МК;
+weapons/su_r_60mk/short;УР «В-В» Р-60МК;
+
+weapons/su_r_73_default;Управляемая ракета «воздух-воздух» Р-73;
+weapons/su_r_73_default/short;УР «В-В» Р-73;
+weapons/su_r_73;Управляемая ракета «воздух-воздух» Р-73;
+weapons/su_r_73/short;УР «В-В» Р-73;
+weapons/su_r_73e_default;Управляемая ракета «воздух-воздух» Р-73Э;
+weapons/su_r_73e_default/short;УР «В-В» Р-73Э;
+weapons/su_r_73e;Управляемая ракета «воздух-воздух» Р-73Э;
+weapons/su_r_73e/short;УР «В-В» Р-73Э;
+
+weapons/su_r_77_default;Управляемая ракета «воздух-воздух» Р-77;
+weapons/su_r_77_default/short;УР «В-В» Р-77;
+weapons/su_r_77;Управляемая ракета «воздух-воздух» Р-77;
+weapons/su_r_77/short;УР «В-В» Р-77;
+weapons/su_r_77_1_default;Управляемая ракета «воздух-воздух» Р-77-1;
+weapons/su_r_77_1_default/short;УР «В-В» Р-77-1
+weapons/su_r_77_1;Управляемая ракета «воздух-воздух» Р-77-1;
+weapons/su_r_77_1/short;УР «В-В» Р-77-1
+
+weapons/su_rvv_ae_default;Air-to-Air Missile RVV-AE;
+weapons/su_rvv_ae_default/short;RVV-AE;
+weapons/su_rvv_ae;Air-to-Air Missile RVV-AE;
+weapons/su_rvv_ae/short;RVV-AE;

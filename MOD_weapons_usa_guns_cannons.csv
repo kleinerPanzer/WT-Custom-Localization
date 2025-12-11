@@ -129,6 +129,7 @@ weapons/12_7mm_M2_HB_user_machinegun_for_M15;Machine Gun, Caliber .50: Browning,
 90mm_m332_da90_50;HVAP-T, M332;
 90mm_t108_da90_50;HEAT, T108;
 90mm_m313_da90_50;Smoke WP, M313;
+90mm_t142e3;HEP-T, T142E3;
 90mm_m77;AP-T, M77;
 90mm_m82;APC-T, M82;
 90mm_t41;APC-T, T41;
