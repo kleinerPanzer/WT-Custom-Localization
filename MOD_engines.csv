@@ -69,6 +69,8 @@ engine_model/tv3_117v;ТВ3-117В;
 engine_manufacturer/hpz;ХПЗ;
 engine_model/d12;D12
 engine_model/d13;D13
+engine_model/mtu_8v_199_te21;MTU 8V 199 TE21
+engine_model/mtu_8v_199_te20;MTU 8V 199 TE20
 engine_manufacturer/volvo;Volvo
 engine_model/v_2_is;В-2-ИС;
 engine_model/5tdf;5ТДФ;
@@ -115,6 +117,7 @@ engine_manufacturer/man;MAN
 engine_model/740_632_400;740.632-400;
 engine_model/740_13_300;740.13-300
 engine_model/d2066;D2066
+engine_model/6m70t4;6M70T4
 engine_model/dxi11;DXi 11
 engine_manufacturer/lycoming_engines;Lycoming Engines;
 engine_model/t53_l_11;T53-L-11;
@@ -203,6 +206,7 @@ engine_model/1710-91;V-1710-91;
 engine_model/1710-113;V-1710-113;
 engine_model/1710-27;V-1710-27;
 engine_model/1710-51;V-1710-51;
+engine_model/1710-55;V-1710-55
 engine_model/1710-89;V-1710-89;
 engine_model/1710-111;V-1710-111;
 engine_model/1710-95;V-1710-95;
@@ -234,6 +238,7 @@ engine_model/r-1820-33;Cyclone R-1820-33;
 engine_model/r-1820-34;Cyclone R-1820-34;
 engine_model/r-1820-40;Cyclone R-1820-40;
 engine_model/r-1820-62;Cyclone R-1820-62
+engine_model/r-1820-f53;Cyclone R-1820F-53
 engine_model/r1830-86;R-1830-86;
 engine_model/r1830-94;R-1830-94;
 engine_model/r2800-10;R-2800-10;
@@ -246,6 +251,7 @@ engine_model/j42-p-8;J42-P-8;
 engine_model/j42-p-5;J42-P-5;
 engine_model/j42-p-8a;J42-P-8A;
 engine_model/r985-48;R-985-48;
+engine_model/r985-an-2;R-985-AN-2
 engine_model/r-1820-52;Cyclone R-1820-52;
 engine_model/r-2600-23;R-2600-23;
 engine_model/r-2600-20;R-2600-20;
@@ -260,7 +266,7 @@ engine_model/r1830-64;R-1830-64;
 engine_model/r-1820-53;Cyclone R-1820-53;
 engine_model/r-1820-65;R-1820-65;
 engine_model/r-1820-97;R-1820-97;
-engine_model/r1830-65;R1830-65;
+engine_model/r1830-65;R-1830-65;
 engine_model/r-3350-57;R-3350-57;
 engine_model/j65-w-5;J65-W-5;
 engine_model/j65-w-16a;J65-W-16A;
@@ -463,6 +469,7 @@ engine_model/14n-48;14N-48;
 engine_model/atar_101e5;Atar 101E5;
 engine_model/tay_mk250;Tay Mk. 250;
 engine_model/r-1535-2;R-1535-2;
+engine_model/r-1535-96;R-1535-96
 engine_model/peregrine_1;Peregrine I;
 engine_model/atsuta_21;アツタ21型;
 engine_model/1710-33;V-1710-33;
@@ -499,6 +506,7 @@ engine_manufacturer/wartsila;Wärtsilä;
 engine_model/v8x_1500;V8X-1500;
 engine_manufacturer/scania;Scania;
 engine_model/dsi_14;DSI14;
+engine_model/dsc1122;DSC1122
 engine_model/ds_16;DI16;
 transmission_type/auto;Automatic;
 transmission_type/mech;Mechanical;
@@ -506,6 +514,10 @@ transmission_manufacturer/allison;Allison;
 transmission_model/x_1100_3b;X-1100-3B;
 transmission_manufacturer/perkins;Perkins;
 transmission_model/x_300;X-300;
+transmission_model/3040_mx;3040 MX
+transmission_model/hd_4070;HD4070
+transmission_model/grs900r;GRS900R
+transmission_model/hswl_256b;HSWL 256B
 transmission_manufacturer/david_brown;David Brown;
 transmission_model/tn54e;TN54E;
 transmission_manufacturer/renk;Renk;
@@ -729,6 +741,7 @@ engine_model/mk4b;火星一二型;
 engine_model/jumo_211n;Jumo 211N;
 engine_model/128_rc_18;128 RC.18;
 engine_model/sgr_1820_f_3;SGR-1820 F-3;
+engine_model/gr-1820-g3;SGR-1820 G-3
 engine_model/r-29b-300;Р-29Б-300;
 engine_model/rm8a;RM8A;
 engine_model/rm8b;RM8B;
@@ -768,6 +781,7 @@ engine_model/m53-5;M53-5;
 engine_model/m53-p2;M53-P2
 engine_model/cts800-4a;CTS800-4a;
 engine_model/avon_115;Avon Mk. 115;
+engine_model/r15bd_300;Р15БД-300
 engine_model/f100_pw_220;F100-PW-220;
 engine_model/f100_pw_229;F100-PW-229
 engine_model/rd-33;РД-33;
@@ -793,6 +807,7 @@ engine_model/ws_9;WS-9;
 engine_model/al_31f;АЛ-31Ф;
 engine_model/al_31f_m1;АЛ-31Ф-М1;
 engine_model/al_31fn;АЛ-31ФН;
+engine_model/al_31fn_series_3;АЛ-31ФН
 engine_model/f100_pw_100;F100-PW-220E;
 engine_model/f100_ihi_100;F100-IHI-100E;
 engine_model/f100_ihi_200e;F100-IHI-200E;
@@ -814,14 +829,17 @@ engine_model/viper_633_41;Viper Mk. 633-41
 engine_model/viper_633_47;Viper Mk. 633-47
 engine_model/viper_632_43;Viper Mk. 632-43
 engine_model/m88_2;M88-2
+engine_model/m88_2e4;M88-2E4
 engine_manufacturer/eurojet;EuroJet
 engine_model/ej200;EJ200
 engine_model/al_31f_series_3;АЛ-31Ф
 engine_model/14n-35;14N-35
 engine_model/al_31fp;АЛ-31ФП
+engine_model/al_41f1s;АЛ-41ФС
 engine_model/f404_ge_400;F404-GE-400
 engine_model/f404_ge_402;F404-GE-402
 engine_model/ws_10a;WS-10A
+engine_model/ws_10b;WS-10B
 engine_model/orpheus_mk_703;Orpheus Mk.703
 engine_model/f110-ihi-129;F110-IHI-129
 engine_model/ai_25tl;АИ-25ТЛ 
@@ -837,3 +855,7 @@ engine_model/sagita_i_sr;Sagitta I-SR
 engine_model/t64_ge_716;T64-GE-716
 engine_model/r2000_7;R-2000-7
 engine_model/viper_mk540;Viper Mk. 540
+engine_model/viper_11;Viper Mk. 11
+engine_model/f414_ge_400;F414-GE-400
+engine_model/f414_ge_39e_rm16;F414-GE-39E (RM16)
+engine_model/r-1820-72w;R-1820-72W

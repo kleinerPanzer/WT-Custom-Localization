@@ -294,7 +294,7 @@ modification/pe-2_dz-40;ДЗ-40;
 modification/pe-2_dz-40/desc;Allows installation of 250 kg bombs and 500 kg bombs.;
 modification/pe-2_ro-132;РО-132;
 modification/pe-2_ro-132/desc;Allows installation of 10 x РС-132 rockets.;
-modification/de_x4_ruhrstahl/desc;Allows the installation of RK 344 air-to-air missiles.
+modification/de_x4_ruhrstahl/desc;Allows installation of RK 344 air-to-air missiles.
 modification/de_x4_ruhrstahl;E.T.C. 70 A-1
 modification/sb-2_der-19;Дер-19;
 modification/sb-2_der-19/desc;Allows installation of 500 kg bombs.;
@@ -337,9 +337,9 @@ modification/sbc_mark25/desc;Allows installation of additional 250 lb bombs.;
 modification/hampden_2x500lb;SBC Mk. II;
 modification/hampden_2x500lb/desc;Allows installation of additional 500 lb bombs.;
 modification/uk_bomb_520lb;520 lb Mk. IN
-modification/uk_bomb_520lb/desc;Allows the installation of additional 520 lb bombs.
+modification/uk_bomb_520lb/desc;Allows installation of additional 520 lb bombs.
 modification/uk_bomb_1650lb;1650 lb
-modification/uk_bomb_1650lb/desc;Allows the installation of additional 1650 lb bombs.
+modification/uk_bomb_1650lb/desc;Allows installation of additional 1650 lb bombs.
 modification/yak-1-7b_bi-42;БИ-42;
 modification/yak-1-7b_bi-42/desc;Allows installation of 2 x 50 kg bombs.;
 modification/yak-1_bi-42;БИ-42;
@@ -752,7 +752,7 @@ modification/us_1000lb_anm_44/desc;Allows installation of 1000 lb bombs.;
 modification/us_2000lbs_anm34;AN/M34;
 modification/us_2000lbs_anm34/desc;Allows installation of 2000 lb bombs.;
 modification/us_2000lbs_anm66;AN/M66;
-modification/us_2000lbs_anm66/desc;Allows installatino of 2000 lb bombs.;
+modification/us_2000lbs_anm66/desc;Allows installation of 2000 lb bombs.;
 modification/speed_change;%s to max speed;
 modification/climb_change;%s to climb rate;
 modification/virage_change;%s to turn time;
@@ -975,31 +975,39 @@ modification/etc250_2_mod/desc;Allows installation of 250 kg bombs.;
 modification/su_25_x38ml;Х-38МЛ
 modification/su_25_x38ml/desc;Allows installation of Х-38МЛ missiles.;
 modification/su_25_x38mt;Х-38МТ;
-modification/su_25_x38mt/desc;Allows installatino of Х-38МТ missiles.;
+modification/su_25_x38mt/desc;Allows installation of Х-38МТ missiles.;
+modification/su_x38ml_e	Х-38МЛЭ
+modification/su_x38ml_e/desc	Allows installation of Х-38МЛЭ missiles.
+modification/su_x38mt_e	Х-38МТЭ
+modification/su_x38mt_e/desc	Allows installation of Х-38МТЭ missiles.
 modification/cn_ts_250/desc;Allows installation of TG-250 guided bombs.;
 modification/cn_ts_250;TG-250;
 modification/cn_ls_500j/desc;Allows installation of K/YJG500 guided bombs.;
 modification/cn_ls_500j;K/YJG500;
 modification/cn_ls_1000j/desc;Allows installation of TG-1000 guided bombs.;
 modification/cn_ls_1000j;TG-1000;
-modification/su_25_x29te/desc;Allows installatino of Х-29ТЕ missiles.;
+modification/su_25_x29te/desc;Allows installation of Х-29ТЕ missiles.;
 modification/su_25_x29te;Х-29ТЕ;
-modification/su_x29te_x59m/desc;Allows the installation of Х-29ТЕ and Х-59М missiles.
+modification/su_x29te_x59m/desc;Allows installation of Х-29ТЕ and Х-59М missiles.
 modification/su_x29te_x59m;Х-29ТЕ / Х-59М
 modification/su_27sm_x29td;Х-29ТД
 modification/su_27sm_x29td/desc;Allows installation of Х-29ТД missiles.;
 modification/mig_27_x29t;Х-29Т;
 modification/mig_27_x29t/desc;Allows installation of Х-29Т missiles.;
-modification/su_kh_59/desc;Allows the installation of Х-59МЭ missiles.
+modification/su_kh_59/desc;Allows installation of Х-59МЭ missiles.
 modification/su_kh_59;Х-59МЭ
 modification/su_fab_500_kab_500s/desc;Allows installation of 250 kg bombs and 500 kg bombs.;
 modification/su_fab_500_kab_500s;ФАБ-250 / ФАБ-500;
 modification/su_fab_500_upab_500b/desc;Allows installation of ФАБ-500 bombs or УПАБ-500Б guided bombs.
 modification/su_fab_500_upab_500b;ФАБ-500/УПАБ-500
 modification/su_upab_500b/desc;Allows installation of УПАБ-500Б guided bombs.
-modification/su_upab_500b;УПАБ-500
+modification/su_upab_500b;УПАБ-500Б
 modification/su_upab_1500/desc;Allows installation of УПАБ-1500Б guided bombs.
-modification/su_upab_1500;УПАБ-1500
+modification/su_upab_1500;УПАБ-1500Б
+modification/upab_500b_e/desc	Allows installation of УПАБ-500Б-Э guided bombs.
+modification/upab_500b_e	УПАБ-500Б-Э
+modification/upab_1500_e/desc	Allows installation of УПАБ-1500Б-Э guided bombs.
+modification/upab_1500_e	УПАБ-1500Б-Э
 modification/su_fab_1500_upab_1500/desc;Allows installation of ФАБ-1500 bombs or УПАБ-1500Б guided bombs.
 modification/su_fab_1500_upab_1500;ФАБ-500/УПАБ-1500
 modification/su_fab_3000_umpk_3000/desc;Allows installation of ФАБ-3000М-54 bombs or ФАБ-3000М-54 (УМПК) glide bombs.
@@ -1012,42 +1020,46 @@ modification/mig_27_kab_500l/desc;Allows installation of КАБ-500Л guided bom
 modification/mig_27_kab_500l;КАБ-500Л;
 modification/su_kab_500lg/desc;Allows installation of КАБ-500ЛГ guided bombs.
 modification/su_kab_500lg;КАБ-500ЛГ
-modification/su_kab_laser/desc;Allows the installation of КАБ-1500ЛГ or КАБ-1500ЛГ guided bombs.
+modification/su_kab_laser/desc;Allows installation of КАБ-1500ЛГ or КАБ-1500ЛГ guided bombs.
 modification/su_kab_laser;КАБ-500ЛГ / КАБ-1500ЛГ
-modification/cn_kab_laser/desc;Allows the installation of GB500 or GB1000 bombs.
+modification/cn_kab_laser/desc;Allows installation of GB500 or GB1000 bombs.
 modification/cn_kab_laser;GB500 / GB1000
 modification/su_27_kab_1500/desc;Allows installation of КАБ-1500Кр guided bombs.;
 modification/su_27_kab_1500;КАБ-1500Кр;
-modification/su_kab_tv/desc;Allows the installation of guided КАБ-500Кр / КАБ-1500Кр bombs.
+modification/su_kab_tv/desc;Allows installation of guided КАБ-500Кр / КАБ-1500Кр bombs.
 modification/su_kab_tv;КАБ-500Кр / КАБ-1500Кр
 modification/su_kab_1500l/desc;Allows installation of КАБ-1500Л guided bombs.;
 modification/su_kab_1500l;КАБ-1500Л;
-modification/su_kab_1500lg/desc;Allows the installation of guided КАБ-1500ЛГ bombs.
+modification/su_kab_1500lg/desc;Allows installation of guided КАБ-1500ЛГ bombs.
 modification/su_kab_1500lg;КАБ-1500ЛГ
 modification/us_agm_62/desc;Allows installation of AGM-62A guided bombs.;
 modification/us_agm_62;AGM-62A;
-modification/us_agm_62_2_erdl/desc;Allows the installation of AGM-62A ERDL guided bombs.
+modification/us_agm_62_2_erdl/desc;Allows installation of AGM-62A ERDL guided bombs.
 modification/us_agm_62_2_erdl;AGM-62A ERDL
 modification/us_gbu_15v1/desc;Allows installation of GBU-15(V)1/B guided bombs.
 modification/us_gbu_15v1;GBU-15(V)1/B;
 modification/us_gbu_8_15/desc;Allows installation of GBU-8/B & GBU-15(V)1/B guided bombs.;
 modification/us_gbu_8_15;GBU-8 / GBU-15;
+modification/cn_ls_6_250_ir/desc	Allows installation of LS-6/250 (IR) guided bombs.
+modification/cn_ls_6_250_ir	LS-6/250 (IR)
 modification/jp_gbu38_jdam/desc;Allows installation of GBU-38/B JDAM guided bombs;
 modification/jp_gbu38_jdam;GBU-38 JDAM;
 modification/us_500lb_mk82_gbu38_jdam/desc;Allows installation of 500 lb bombs and GBU-38/B guided bombs.;
 modification/us_500lb_mk82_gbu38_jdam;Mk 82 / GBU-38;
-modification/us_500lb_mk82_gbu38_gbu62_jdam/desc;Allows the installation of 500 lb bombs and GBU-38/B and GBU-62(V)1/B JDAM guided bombs.
+modification/us_500lb_mk82_gbu38_gbu62_jdam/desc;Allows installation of 500 lb bombs and GBU-38/B and GBU-62(V)1/B JDAM guided bombs.
 modification/us_500lb_mk82_gbu38_gbu62_jdam;Mk 82 / GBU-38 / GBU-62
-modification/us_gbu38_gbu62_jdam/desc;Allows the installation of GBU-38/B and GBU-62(V)1/B JDAM guided bombs.
+modification/us_gbu38_gbu62_jdam/desc;Allows installation of GBU-38/B and GBU-62(V)1/B JDAM guided bombs.
 modification/us_gbu38_gbu62_jdam;GBU-38 / GBU-62
 modification/us_500lb_mk82_gbu54b/desc;Allows installation of GBU-54(V)1/B LJDAM and GBU-62(V)1/B LJDAM guided bombs.
 modification/us_500lb_mk82_gbu54b;GBU-54 / GBU-62
-modification/us_jdam/desc;Allows the installation of JDAM guided bombs.
+modification/us_jdam/desc;Allows installation of JDAM guided bombs.
 modification/us_jdam;JDAM
-modification/us_gbu54b/desc;Allows installation of GBU-54/B LJDAM guided bombs.
-modification/us_gbu54b;GBU-54
+modification/us_gbu54b/desc;Allows installation of GBU-54(V)1/B LJDAM and GBU-62(V)1/B guided bombs.
+modification/us_gbu54b;GBU-54 / GBU-62
 modification/us_gbu55b/desc;Allows installation of GBU-55/B LJDAM guided bombs.
 modification/us_gbu55b;GBU-55
+modification/cn_sns_bomb/desc	Allows installation of GB250 guided bombs.
+modification/cn_sns_bomb	GB250
 modification/gr_assta_3_0_gbu54b/desc;Allows installation of GBU-54(V)1/BB LJDAM guided bombs.
 modification/gr_assta_3_0_gbu54b;ASSTA 3.0
 modification/us_500lb_mk82_ls_6_250/desc;Allows installation of 500 lb bombs and LS-6/250 glide bombs.;
@@ -1056,15 +1068,15 @@ modification/us_1000lb_mk83_ls_6_500/desc;Allows installation of 1000 lb bombs a
 modification/us_1000lb_mk83_ls_6_500;Mk 83 / LS-6/500;
 modification/us_1000lb_mk83_gbu31_jdam/desc;Allows installation of 1000 lb bombs and GBU-31/B and GBU-64(V)1/B JDAM guided bombs.;
 modification/us_1000lb_mk83_gbu31_jdam;Mk 83 / GBU-31 / GBU-64;
-modification/us_1000lb_mk83_us_2000lb_mk84/desc;Allows the installation of 1000 lb bombs and 2000 lb bombs.
+modification/us_1000lb_mk83_us_2000lb_mk84/desc;Allows installation of 1000 lb bombs and 2000 lb bombs.
 modification/us_1000lb_mk83_us_2000lb_mk84;Mk 83 / Mk 84
 modification/us_2000lb_mk84_gbu31_jdam/desc;Allows installation of 2000 lb bombs and GBU-31/B guided bombs.;
 modification/us_2000lb_mk84_gbu31_jdam;GBU-31;
-modification/us_2000lb_mk84_gbu31_gbu64_jdam/desc;Allows the installation of 2000 lb bombs and GBU-31/B and GBU-64(V)1/B JDAM guided bombs.
+modification/us_2000lb_mk84_gbu31_gbu64_jdam/desc;Allows installation of 2000 lb bombs and GBU-31/B and GBU-64(V)1/B JDAM guided bombs.
 modification/us_2000lb_mk84_gbu31_gbu64_jdam;Mk 84 / GBU-31 / GBU-64
-modification/us_gbu31_gbu64_jdam/desc;Allows the installation of GBU-31/B and GBU-64(V)1/B JDAM guided bombs.
+modification/us_gbu31_gbu64_jdam/desc;Allows installation of GBU-31/B and GBU-64(V)1/B JDAM guided bombs.
 modification/us_gbu31_gbu64_jdam;GBU-31 / GBU-64
-modification/il_spice_2000_gbu31_jdam/desc;Allows the installation of GBU-31/B and GBU-64(V)1/B JDAM and SPICE 2000 guided bombs.
+modification/il_spice_2000_gbu31_jdam/desc;Allows installation of GBU-31/B and GBU-64(V)1/B JDAM and SPICE 2000 guided bombs.
 modification/il_spice_2000_gbu31_jdam;GBU-31 / GBU-64 / SPICE 2000
 modification/fr_bgl400/desc;Allows installation of BGL-400 guided bombs.;
 modification/fr_bgl400;BGL-400;
@@ -1076,15 +1088,17 @@ modification/fr_pgm_500/desc;ALlows installation of PGM 500 guided bombs.;
 modification/fr_pgm_500;PGM 500;
 modification/fr_pgm_2000/desc;ALlows installation of PGM 2000 guided bombs.;
 modification/fr_pgm_2000;PGM 2000;
-modification/il_spice_1000/desc;Allows the installation of SPICE 1000 guided bombs.
+modification/il_spice_250/desc	Allows installation of SPICE 250 guided bombs.
+modification/il_spice_250	SPICE 250
+modification/il_spice_1000/desc;Allows installation of SPICE 1000 guided bombs.
 modification/il_spice_1000;SPICE 1000
-modification/il_spice_250_1000/desc;Allows the installation of SPICE 250 and SPICE 1000 guided bombs.
+modification/il_spice_250_1000/desc;Allows installation of SPICE 250 and SPICE 1000 guided bombs.
 modification/il_spice_250_1000;SPICE 250 / SPICE 1000
-modification/il_spice_2000/desc;Allows the installation of SPICE 2000 guided bombs.
+modification/il_spice_2000/desc;Allows installation of SPICE 2000 guided bombs.
 modification/il_spice_2000;SPICE 2000
-modification/il_spice_1000_2000/desc;Allows the installation of SPICE 1000 and SPICE 2000 guided bombs.
+modification/il_spice_1000_2000/desc;Allows installation of SPICE 1000 and SPICE 2000 guided bombs.
 modification/il_spice_1000_2000;SPICE 1000 / SPICE 2000
-modification/de_hosbo_glide_bomb/desc;Allows the installation of HOSBO guided bombs.
+modification/de_hosbo_glide_bomb/desc;Allows installation of HOSBO guided bombs.
 modification/de_hosbo_glide_bomb;HOSBO
 modification/fr_aasm_250_sbu_38/desc;Allows installation of HAMMER 250 kg (SBU 38) guided bombs.
 modification/fr_aasm_250_sbu_38;HAMMER 250 kg (SBU 38)
@@ -1092,17 +1106,17 @@ modification/fr_aasm_250_sbu_64/desc;Allows installation of HAMMER 250 kg (SBU 6
 modification/fr_aasm_250_sbu_64;HAMMER 250 kg (SBU 64)
 modification/fr_aasm_250_sbu_54/desc;Allows installation of HAMMER 250 kg (SBU 54) guided bombs.
 modification/fr_aasm_250_sbu_54;HAMMER 250 kg (SBU 54)
-modification/fr_aj_168/desc;Allows installatino of AJ.168 missiles.;
+modification/fr_aj_168/desc;Allows installation of AJ.168 missiles.;
 modification/fr_aj_168;AJ.168;
 modification/uk_mk_13_18/desc;Allows installation of Mk. 13 and Mk. 18 guided bombs.;
 modification/uk_mk_13_18;Mk. 13 / Mk. 18;
-modification/kr_kggb/desc;Allows the installation of KGGB guided bombs.
+modification/kr_kggb/desc;Allows installation of KGGB guided bombs.
 modification/kr_kggb;KGGB
 modification/us_gbu_12/desc;Allows installation of GBU-12/B guided bombs.;
 modification/us_gbu_12;GBU-12;
 modification/us_gbu_12_22/desc;Allows installation of GBU-12/B and GBU-22/B guided bombs.
 modification/us_gbu_12_22;GBU-12 / GBU-22
-modification/us_gbu_laser/desc;Allows the installation of GBU guided bombs.
+modification/us_gbu_laser/desc;Allows installation of GBU guided bombs.
 modification/us_gbu_laser;GBU
 modification/us_gbu_12_49/desc;Allows installation of GBU-12/B and GBU-49(V)1/B guided bombs.
 modification/us_gbu_12_49;GBU-12 / GBU-49
@@ -1118,7 +1132,7 @@ modification/us_egbu_24/desc;Allows installation of GBU-24E/B guided bombs.
 modification/us_egbu_24;GBU-24E
 modification/us_gbu_10/desc;Allows installation of GBU-10/B guided bombs.;
 modification/us_gbu_10;GBU-10;
-modification/us_gbu_27/desc;Allows the installation of GBU-27/B guided bombs.
+modification/us_gbu_27/desc;Allows installation of GBU-27/B guided bombs.
 modification/us_gbu_27;GBU-27
 modification/us_gbu_10_gbu_24/desc;Allows installation of GBU-10/B and GBU-24/B guided bombs.;
 modification/us_gbu_10_gbu_24;GBU-10 / GBU-24;
@@ -1126,21 +1140,21 @@ modification/us_gbu_8/desc;Allows installation of GBU-8/B guided bombs.;
 modification/us_gbu_8;GBU-8;
 modification/us_agm_123/desc;Allows installation of AGM-123A missiles.;
 modification/us_agm_123;AGM-123A;
-modification/us_agm_119a/desc;Allows the installation of AGM-119A missiles.
+modification/us_agm_119a/desc;Allows installation of AGM-119A missiles.
 modification/us_agm_119a;AGM-119A
 modification/us_gbu_38/desc;Allows installation of GBU-38(V)2/B guided bombs.;
 modification/us_gbu_38;GBU-38;
-modification/us_gbu_38_62/desc;Allows the installation of GBU-38(V)2/B and GBU-62(V)1/B JDAM guided bombs.
+modification/us_gbu_38_62/desc;Allows installation of GBU-38(V)2/B and GBU-62(V)1/B JDAM guided bombs.
 modification/us_gbu_38_62;GBU-38 / GBU-62
-modification/us_gbu_32/desc;Allows the installation of GBU-32(V)1/B guided bombs.
+modification/us_gbu_32/desc;Allows installation of GBU-32(V)1/B guided bombs.
 modification/us_gbu_32;GBU-32
-modification/us_gbu_31/desc;Allows the installation of GBU-31(V)1/B guided bombs.
+modification/us_gbu_31/desc;Allows installation of GBU-31(V)1/B guided bombs.
 modification/us_gbu_31;GBU-31
-modification/us_gbu_31_62/desc;Allows the installation of GBU-31(V)1/B and GBU-62(V)1/B JDAM guided bombs.
+modification/us_gbu_31_62/desc;Allows installation of GBU-31(V)1/B and GBU-62(V)1/B JDAM guided bombs.
 modification/us_gbu_31_62;GBU-31 / GBU-62
-modification/us_gbu_31_64/desc;Allows the installation of GBU-31(V)1/B and GBU-64(V)1/B JDAM guided bombs.
+modification/us_gbu_31_64/desc;Allows installation of GBU-31(V)1/B and GBU-64(V)1/B JDAM guided bombs.
 modification/us_gbu_31_64;GBU-31 / GBU-64
-modification/us_gbu_32_31/desc;Allows the installation of GBU-31(V)1/B and GBU-38(V)2/B and GBU-64(V)1/B JDAM guided bombs.
+modification/us_gbu_32_31/desc;Allows installation of GBU-31(V)1/B and GBU-38(V)2/B and GBU-64(V)1/B JDAM guided bombs.
 modification/us_gbu_32_31;GBU-31 / GBU-32 / GBU-64
 modification/us_gbu39/desc;Allows installation of GBU-39/B guided bombs.
 modification/us_gbu39;GBU-39
@@ -1158,11 +1172,11 @@ modification/fr_atlis2/desc;Allows installation of ALTIS II targeting pod.;
 modification/fr_atlis2;ALTIS II;
 modification/it_pdlct_s_pod/desc;Allows installation of CLDP targeting pod.;
 modification/it_pdlct_s_pod;CLDP;
-modification/j_aaq_2_pod/desc;Allows the installation of J/AAQ-2 targeting pod.
+modification/j_aaq_2_pod/desc;Allows installation of J/AAQ-2 targeting pod.
 modification/j_aaq_2_pod;J/AAQ-2
 modification/gr_litening_pod/desc;ALlows installation of LITENING II targeting pod.;
 modification/gr_litening_pod;LITENING II;
-modification/us_sniper_pod/desc;Allows the installation of AN/AAQ-33 SNIPER ATP targeting pod.
+modification/us_sniper_pod/desc;Allows installation of AN/AAQ-33 SNIPER ATP targeting pod.
 modification/us_sniper_pod;AN/AAQ-33
 modification/gr_litening_iii_pod/desc;Allows installation of LITENING III targeting pod.
 modification/gr_litening_iii_pod;LITENING III
@@ -1170,11 +1184,11 @@ modification/us_an_aas_38_pod/desc;Allows installation of AN/AAS-38 targeting po
 modification/us_an_aas_38_pod;AN/AAS-38
 modification/us_an_aas_38a_pod/desc;Allows installation of AN/AAS-38A targeting pod.
 modification/us_an_aas_38a_pod;AN/AAS-38A
-modification/us_an_aas_38b_pod/desc;Allows the installation of AN/AAS-38B targeting pod.
+modification/us_an_aas_38b_pod/desc;Allows installation of AN/AAS-38B targeting pod.
 modification/us_an_aas_38b_pod;AN/AAS-38B
 modification/us_an_asq_228_pod/desc;Allows installation of AN/ASQ-228 targeting pod.
 modification/us_an_asq_228_pod;AN/ASQ-228
-modification/sniper_atp_pod/desc;Allows the installation of SNIPER ATP targeting pod.
+modification/sniper_atp_pod/desc;Allows installation of SNIPER ATP targeting pod.
 modification/sniper_atp_pod;SNIPER ATP
 modification/uk_tiald/desc;Allows installation of TIALD targeting pod.
 modification/uk_tiald;TIALD;
@@ -1184,6 +1198,8 @@ modification/cn_k_pzs_01/desc;Allows installation of K/PZS-01 targeting pod.;
 modification/cn_k_pzs_01;K/PZS-01;
 modification/cn_k_adc03a/desc;Allows installation of K/JDC03A targeting pod.;
 modification/cn_k_adc03a;K/JDC03A;
+modification/cn_yings_3a/desc	Allows installation of a YINGS-IIIA targeting pod.
+modification/cn_yings_3a	YINGS-IIIA
 modification/tr_aselpod/desc;Allows installation of ASELPOD targeting pod.;
 modification/tr_aselpod;ASELPOD;
 modification/us_lantirn_pod/desc;Allows installation of LANTIRN targeting pod.;
@@ -1196,6 +1212,8 @@ modification/fr_damocles_pod/desc;Allows installation of Damocles targeting pod.
 modification/fr_damocles_pod;Damocles;
 modification/t_220/desc;Allows installation of T 220 targeting pod.
 modification/t_220;T 220
+modification/fr_talios_pod/desc	Allows installation of a TALIOS targeting pod.
+modification/fr_talios_pod	TALIOS
 elite/elite;Elite aircraft rank I;
 elite/sub_elite;Elite aircraft rank II;
 elite/elite/desc;To unlock Elite rank I, you have to purchase all modifications for this aircraft.;
@@ -1290,6 +1308,8 @@ modification/new_tank_vertical_aiming;Elevation Mechanism;
 modification/new_tank_vertical_aiming/desc;Maintenance and cleaning of the gun elevation mechanism increases its elevation speed. Gaps elimination improves pointing accuracy of the gun.;
 modification/modern_tank_stereo_rangefinder;Rangefinder;
 modification/modern_tank_stereo_rangefinder/desc;Installation of Rangefinder. Allows for more precise measurement of distance to a target.;
+modification/laser_rangefinder_lws_sep	LWS & LR
+modification/laser_rangefinder_lws_sep/desc	Installation of Laser Warning System and Laser Rangefinder. Allows for more precise measurement of distance to a target and detection of incoming lasers.;
 modification/laser_rangefinder_lws;LWS & LR;
 modification/laser_rangefinder_lws/desc;Installation of Laser Warning System and Laser Rangefinder. Allows for more precise measurement of distance to a target and detection of incoming lasers.;
 modification/laser_rangefinder_ircm_lws_t_90a;LWS & LR;
@@ -1308,7 +1328,7 @@ modification/tank_smoke_screen_system_mod;Smoke Grenade;
 modification/tank_smoke_screen_system_mod/desc;Allows use of smoke grenade launchers.;
 modification/thermal_vision_system;Thermal Imagers;
 modification/night_vision_system_panther_2;NVD
-modification/night_vision_system_panther_2/desc;Allows the use of night vision devices.
+modification/night_vision_system_panther_2/desc;Allows use of night vision devices.
 modification/night_vision_system;NVD;
 modification/night_vision_system/desc;Allows use of thermal imaging devices.;
 modification/night_vision_system_upgrade_nv_to_thermal;Thermal Imagers;
@@ -1381,6 +1401,8 @@ modification/t_64b_protection_improvement;T-64БВ 1987;
 modification/t_64b_protection_improvement/desc;Upgrading T-64Б to T-64БВ 1987 standard by installing Контакт-I ERA packages.;
 modification/t_80b_protection_improvement;T-80БВ 1985;
 modification/t_80b_protection_improvement/desc;Upgrading T-80Б to T-80БВ 1985 standard by installing Контакт-I ERA packages.;
+modification/bmpt_protection_improvement	Additional ERA
+modification/bmpt_protection_improvement/desc	Additional ERA.
 modification/t_80bvm_protection_improvement;Additional ERA;
 modification/t_80bvm_protection_improvement/desc;Upgrading Т-80БВМ to Army standard by installing additional ERA protection.;
 modification/t_90m_protection_improvement;Additional ERA;
@@ -1526,9 +1548,9 @@ modification/spitfire_sbc;SMBC Mk. 2;
 modification/spitfire_sbc/desc;Allows installation of 250 lb bombs.;
 modification/spitfire_sbc_additional;SMBC Mk. 3;
 modification/spitfire_sbc_additional/desc;Allows installation of additional 250 lb bomb.;
-modification/spitfire_mbc;SMBC Mk. 2;
+modification/spitfire_mbc;MBC Mk. 2;
 modification/spitfire_mbc/desc;Allows installation of 500 lb bombs.;
-modification/spitfire_mbc_additional;SMBC Mk. 3;
+modification/spitfire_mbc_additional;MBC Mk. 3;
 modification/spitfire_mbc_additional/desc;Allows installation of additional 500 lb bombs.;
 modification/spitfire_rc;HRC Mk. 8;
 modification/spitfire_rc/desc;Allows installation of RP-3 rockets.;
@@ -1537,7 +1559,7 @@ modification/fr_matra_t_10/desc;Allows installation of T10 140 rockets.;
 modification/fr_matra_t_10_150;Matra T10 151;
 modification/fr_matra_t_10_150/desc;Allows installation of T10 151 rockets.;
 modification/fr_matra_t_10_121;Matra T10 121
-modification/fr_matra_t_10_121/desc;Allows the installation of T10 121 rockets.
+modification/fr_matra_t_10_121/desc;Allows installation of T10 121 rockets.
 modification/fr_matra_sneb;Matra SNEB;
 modification/fr_matra_sneb/desc;Allows installation of SNEB rockets.;
 modification/fr_jl_100r;Matra JL-100R;
@@ -1582,6 +1604,8 @@ modification/su_x25l_29l;Х-25 / Х-29Л
 modification/su_x25l_29l/desc;Allows installation of Х-25 and Х-29Л missiles.
 modification/su_grom;Х-36 Гром-2
 modification/su_grom/desc;Allows installation of Х-36 Гром-2 guided bombs.
+modification/su_grom_e	Х-36 Гром-Э2
+modification/su_grom_e/desc	Allows installation of Х-36 Гром-Э2 guided bombs.
 modification/mig_21_x66;Х-66;
 modification/mig_21_x66/desc;Allows installation of Х-66 missiles.;
 modification/fr_as_30l;AS.30L;
@@ -1589,17 +1613,17 @@ modification/fr_as_30l/desc;Allows installation of AS.30L missiles.;
 modification/fr_as_30;AS.30;
 modification/fr_as_30/desc;Allows installation of AS.30 missiles.;
 modification/flz_lwf_lb_66;Flz.Lwf. LB 66
-modification/flz_lwf_lb_66/desc;Allows the installation of Flz.Lwf. LB 66  missiles.
+modification/flz_lwf_lb_66/desc;Allows installation of Flz.Lwf. LB 66  missiles.
 modification/gr_as_34;AS.34;
 modification/gr_as_34/desc;Allows installation of AS.34 Kormoran missiles.;
 modification/jp_asm1;ASM-1
-modification/jp_asm1/desc;Allows the installation of ASM-1 missiles.
+modification/jp_asm1/desc;Allows installation of ASM-1 missiles.
 modification/jp_asm2;ASM-2
-modification/jp_asm2/desc;Allows the installation of ASM-2 missiles.
+modification/jp_asm2/desc;Allows installation of ASM-2 missiles.
 modification/uk_sea_eagle;Sea Eagle
-modification/uk_sea_eagle/desc;Allows the installation of Sea Eagle missiles.
+modification/uk_sea_eagle/desc;Allows installation of Sea Eagle missiles.
 modification/cn_yj_81k;YJ-81
-modification/cn_yj_81k/desc;Allows the installation of YJ-81 missiles.
+modification/cn_yj_81k/desc;Allows installation of YJ-81 missiles.
 modification/fj_4b_agm_12b;AGM-12B;
 modification/fj_4b_agm_12b/desc;Allows installation of AGM-12B missiles.;
 modification/fj_4b_agm_12c;AGM-12C;
@@ -1736,6 +1760,8 @@ modification/EERC_mark_1;EERC No. 3 Mk. 1;
 modification/EERC_mark_1/desc;Allows installation of 5” HVAR rockets.;
 modification/EERC_mark_2;EERC No. 3 Mk. 2;
 modification/EERC_mark_2/desc;Allows installation of additional 5” HVAR rockets.;
+modification/uk_hvar	HVAR
+modification/uk_hvar/desc	Allows installation of 5” HVAR rockets.
 modification/Bf-109G-14_R5;Bf 109 G-14/R5;
 modification/Bf-109G-14_R5/desc;Allows installation of 2 x Flugzeugmaschinengewehr 108 cannons under the wings.;
 modification/Bf-109G-14_SC250;ETC 500 IXb I;
@@ -1761,7 +1787,9 @@ modification/su_sppu_6_gunpod/desc;Allows installation of СППУ-6 gun pod.;
 modification/fr_mirage_f1c_cc_420_gunpod;CC-420;
 modification/fr_mirage_f1c_cc_420_gunpod/desc;Allows installation of CC-420 gun pods.;
 modification/it_macchi_39a_940_gunpod;39A-940-31/32
-modification/it_macchi_39a_940_gunpod/desc;Allows the installation of 39A-940-31/32 gun pods.
+modification/it_macchi_39a_940_gunpod/desc;Allows installation of 39A-940-31/32 gun pods.
+modification/it_macchi_m_910_gunpod	M-910-21/22-10
+modification/it_macchi_m_910_gunpod/desc	Allows installation of M-910-21/22-10 gun pods.
 modification/fr_cc630_gun_pod;CC-630;
 modification/fr_cc630_gun_pod/desc;Allows installation of CC-630 gun pods.;
 modification/fr_cc422_gun_pod;CC-422
@@ -2078,21 +2106,25 @@ modification/cn_type_250_ls_6/desc;Allows installation of 250 kg bombs and LS-6/
 modification/cn_type_250_ls_6;250 kg / LS-6/250;
 modification/cn_type_500_ls_6/desc;Allows installation of 500 kg bombs and LS-6/500;
 modification/cn_type_500_ls_6;500 kg / LS-6/500;
-modification/su_17_ofab_100/desc;Allows installatino of 100 kg bombs.;
+modification/cn_gb_laser_bomb/desc	Allows installation of GB250, LT-2, and GB1000 guided bombs.
+modification/cn_gb_laser_bomb	GB250 / LT-2 / GB1000
+modification/cn_glide_bomb/desc	Allows installation of LS-6 guided bombs.
+modification/cn_glide_bomb	LS-6
+modification/su_17_ofab_100/desc;Allows installation of 100 kg bombs.;
 modification/su_17_ofab_100;ОФАБ-100-120;
-modification/ofab_100m_mb/desc;Allows the installation of 100 kg bombs.
+modification/ofab_100m_mb/desc;Allows installation of 100 kg bombs.
 modification/ofab_100m_mb;ОФАБ-100М / МВ
-modification/fab_250m_54/desc;Allows the installation of 250 kg bombs.
+modification/fab_250m_54/desc;Allows installation of 250 kg bombs.
 modification/fab_250m_54;ФАБ-250М-54
-modification/fab_500m_54/desc;Allows the installation of 500 kg bombs.
+modification/fab_500m_54/desc;Allows installation of 500 kg bombs.
 modification/fab_500m_54;ФАБ-500М-54
 modification/mi_24_fab_250/desc;Allows installation of 250 kg bombs.;
 modification/mi_24_fab_250;ФАБ-250;
-modification/su_fab_250_us_mk82/desc;Allows the installation of 250 kg and 500 lb bombs.
+modification/su_fab_250_us_mk82/desc;Allows installation of 250 kg and 500 lb bombs.
 modification/su_fab_250_us_mk82;ФАБ-250 / Mk 82
 modification/mi_24_fab_500/desc;Allows installation of 500 kg bombs.;
 modification/mi_24_fab_500;ФАБ-500;
-modification/su_fab_500_us_mk83/desc;Allows the installation of 500 kg and 1000 lb bombs.
+modification/su_fab_500_us_mk83/desc;Allows installation of 500 kg and 1000 lb bombs.
 modification/su_fab_500_us_mk83;ФАБ-500 / Mk 83
 modification/mi_4_fab_100/desc;Allows installation of 100 kg bombs.;
 modification/mi_4_fab_100;ФАБ-100;
@@ -2114,7 +2146,7 @@ modification/ah_1g_M129/desc;Allows installation of 40 mm M129 automatic grenade
 modification/ah_1g_M129;M129;
 modification/ah_1g_M75/desc;Allows installation of 40 mm M75 automatic grenade launchers.;
 modification/ah_1g_M75;M5;
-modification/as_12_atgm/desc;Allows installatino of AS.12 missiles.;
+modification/as_12_atgm/desc;Allows installation of AS.12 missiles.;
 modification/as_12_atgm;AS.12;
 modification/ah_1_TOW/desc;Allows installation of BGM-71C missiles.;
 modification/ah_1_TOW;BGM-71C;
@@ -2136,9 +2168,9 @@ modification/cn_akd_9/desc;Allows installation of AKD-9 missiles.;
 modification/cn_akd_9;AKD-9;
 modification/cn_akd_10/desc;Allows installation of AKD-10 missiles.;
 modification/cn_akd_10;AKD-10;
-modification/cn_cm_502kg/desc;Allows the installation of CM-502KG missiles.
+modification/cn_cm_502kg/desc;Allows installation of CM-502KG missiles.
 modification/cn_cm_502kg;CM-502KG
-modification/cn_ba_11/desc;Allows the installation of Blue Arrow 11A missiles.
+modification/cn_ba_11/desc;Allows installation of Blue Arrow 11A missiles.
 modification/cn_ba_11;BA-11A
 modification/ah_1_m200_2/desc;Allows installation of 2.75” FFAR rockets.;
 modification/ah_1_m200_2;M200A1;
@@ -2222,12 +2254,12 @@ modification/swe_rb71/desc;Allows installation of Rb 71 air-to-air missiles.;
 modification/swe_rb71;Rb 71;
 modification/swd_rb99/desc;Allows installation of Rb 99 air-to-air missiles.
 modification/swd_rb99;Rb 99;
-modification/sws_flz_lwf_ll_64/desc;Allows the installation of Flz.Lwf. LL 64/79 missiles.
+modification/sws_flz_lwf_ll_64/desc;Allows installation of Flz.Lwf. LL 64/79 missiles.
 modification/sws_flz_lwf_ll_64;Flz.Lwf. LL 64/79
 modification/us_aim_7d/desc;Allows installation of AIM-7D air-to-air missiles.;
 modification/us_aim_7d;AIM-7D;
 modification/us_aim_7c/desc;AIM-7C;
-modification/us_aim_7c;Allows installatino of AIM-7C air-to-air missiles.;
+modification/us_aim_7c;Allows installation of AIM-7C air-to-air missiles.;
 modification/us_aim_7e/desc;Allows installation of AIM-7E air-to-air missiles.;
 modification/us_aim_7e;AIM-7E;
 modification/us_aim_7e2/desc;Allows installation of AIM-7E-2 air-to-air missiles.;
@@ -2264,9 +2296,9 @@ modification/uk_skyflash/desc;Allows installation of Skyflash air-to-air missile
 modification/uk_skyflash;Skyflash;
 modification/uk_skyflash_temp/desc;Allows installation of Skyflash SuperTEMP air-to-air missiles.;
 modification/uk_skyflash_temp;Skyflash SuperTEMP;
-modification/us_aim_4g/desc;Allows the installation of AIM-4G air-to-air missiles.
+modification/us_aim_4g/desc;Allows installation of AIM-4G air-to-air missiles.
 modification/us_aim_4g;AIM-4G
-modification/us_aim_4f/desc;Allows the installation of AIM-4F air-to-air missiles.
+modification/us_aim_4f/desc;Allows installation of AIM-4F air-to-air missiles.
 modification/us_aim_4f;AIM-4F
 modification/us_aim_9b/desc;Allows installation of AIM-9B air-to-air missiles.;
 modification/us_aim_9b;AIM-9B;
@@ -2320,9 +2352,9 @@ modification/uk_fireflash/desc;Allows installation of Fireflash air-to-air missi
 modification/uk_fireflash;Fireflash;
 modification/uk_aim_sraam/desc;Allows installation of SRAAM air-to-air missiles.;
 modification/uk_aim_sraam;SRAAM;
-modification/us_agm_179/desc;Allows the installation of AGM-179 (SAL) missiles.
+modification/us_agm_179/desc;Allows installation of AGM-179 (SAL) missiles.
 modification/us_agm_179;AGM-179 (SAL)
-modification/us_agm_179_ir/desc;Allows the installation of AGM-179 (IR) missiles.
+modification/us_agm_179_ir/desc;Allows installation of AGM-179 (IR) missiles.
 modification/us_agm_179_ir;AGM-179 (IR)
 modification/ah_1_AIM_9_LTC/desc;Allows installation of AIM-9 air-to-air missiles and MAW.;
 modification/ah_1_AIM_9_LTC;AIM-9/MAW;
@@ -2464,9 +2496,9 @@ modification/us_blu27_b/desc;Allows installation of BLU-27/B incendiary bombs.
 modification/us_blu27_b;BLU-27/B;
 modification/us_blu_1/desc;Allows installation of BLU-1 incendiary bombs.;
 modification/us_blu_1;BLU-1;
-modification/br_binc_300/desc;Allows installatino of BINC-300 incendiary bombs.
+modification/br_binc_300/desc;Allows installation of BINC-300 incendiary bombs.
 modification/br_binc_300;BINC-300;
-modification/sws_400kg_febb_napalmbombe/desc;Allows installatino of FeBb incendiary bombs.;
+modification/sws_400kg_febb_napalmbombe/desc;Allows installation of FeBb incendiary bombs.;
 modification/sws_400kg_febb_napalmbombe;FeBb Napalmbombe;
 modification/zb_500/desc;Allows installation of ЗБ-500 incendiary bombs.;
 modification/zb_500;ЗБ-500
@@ -2599,12 +2631,12 @@ modification/tiger_trigat_lr;TRIGAT-LR
 modification/tr_cirit_x4/desc;Allows installation of CIRIT missiles.;
 modification/tr_cirit_x4;CIRIT;
 modification/il_gatr;GATR;
-modification/il_gatr/desc;Allows installatino of GATR missiles.;
+modification/il_gatr/desc;Allows installation of GATR missiles.;
 modification/us_apkws/desc;Allows installation of AGR-20 APKWS missiles.;
 modification/us_apkws;AGR-20 APKWS;
 modification/cn_fire_snake_90a/desc;Allows installation of FS90A missiles.;
 modification/cn_fire_snake_90a;FS90A;
-modification/cn_fire_snake_70a/desc;Allows the installation of FS70A missiles.
+modification/cn_fire_snake_70a/desc;Allows installation of FS70A missiles.
 modification/cn_fire_snake_70a;FS70A
 modification/atgm_spike_x2/desc;Allows installation of Spike-ER missiles.;
 modification/atgm_spike_x2;Spike-ER;
@@ -2618,7 +2650,7 @@ modification/tiger_rmp_lc;FN RMP LC;
 modification/tiger_rmp_lc/desc;Allows installation of gun pods FN RMP LC.;
 modification/ka_9K121/desc;Allows installation of 9М127 missiles.;
 modification/ka_9K121;9К121;
-modification/su_lmur/desc;Allows the installation of Х-39 missiles.
+modification/su_lmur/desc;Allows installation of Х-39 missiles.
 modification/su_lmur;Х-39
 modification/a_129_hl_19_70/desc;Allows installation of Hydra-70 rockets.;
 modification/a_129_hl_19_70;HL-19-70;
@@ -2630,7 +2662,7 @@ modification/8_cm_flz_rakete;8 cm Flz.-Rakete;
 modification/8_cm_flz_rakete/desc;Allows installation of 8 cm Flz.-Rakete Oerlikon rockets.;
 modification/sws_flz_lwf_63_80/desc;Allows installation of Flz.Lwf. LL 63/80 air-to-air missiles.;
 modification/sws_flz_lwf_63_80;Flz.Lwf. LL 63/80;
-modification/sws_flz_lwf_63_75/desc;Allows the installation of Flz.Lwf. LL 63/75 air-to-air missiles.
+modification/sws_flz_lwf_63_75/desc;Allows installation of Flz.Lwf. LL 63/75 air-to-air missiles.
 modification/sws_flz_lwf_63_75;Flz.Lwf. LL 63/75
 modification/sws_flz_lwf_63/desc;Allows installation of Flz.Lwf. LL 63 air-to-air missiles.;
 modification/sws_flz_lwf_63;Flz.Lwf. LL 63;
@@ -2732,6 +2764,8 @@ modification/350mm_germ_skl_45_navy_apcbc;Panzergranate L/3,6
 modification/350mm_germ_skl_45_navy_apcbc_ammo_pack;Panzergranate L/3,6
 modification/305mm_ussr_54_b_50_navy_ap;APCBC;
 modification/305mm_ussr_54_b_50_navy_ap_ammo_pack;APCBC;
+modification/305mm_ussr_64_sm_33_navy_ap	APCBC
+modification/305mm_ussr_64_sm_33_navy_ap_ammo_pack	APCBC
 modification/tank_support_ucav;Scout UAV;
 modification/tank_support_ucav/desc;Ability to carry and launch a scout UAV.;
 modification/152mm_it_45cal_schneider_naval_he;Dirompente;
@@ -2753,6 +2787,10 @@ modification/mig_29_r_73e/desc;Allows installation of Р-73Э air-to-air missile
 modification/mig_29_r_73e;Р-73Э;
 modification/mig_29_r_27r/desc;Allows installation of Р-27Р air-to-air missiles.;
 modification/mig_29_r_27r;АПУ-470;
+modification/mig_25_r_40rd/desc	Allows installation of Р-40РД air-to-air missiles.
+modification/mig_25_r_40rd	Р-40РД
+modification/mig_25_r_40td/desc	Allows installation of Р-40ТД air-to-air missiles.
+modification/mig_25_r_40td	Р-40ТД
 modification/mig_29_r_27t/desc;Allows installation of Р-27Т air-to-air missiles.;
 modification/mig_29_r_27t;АПУ-470;
 modification/su_27sm_r_27t_r_27et/desc;Allows installation of Р-27ЭТ air-to-air missiles.;
@@ -2779,9 +2817,11 @@ modification/yak_141_r_77/desc;Allows installation of Р-77 air-to-air missiles.
 modification/yak_141_r_77;Р-77;
 modification/su_r_77_1/desc;Allows installation of Р-77-1 air-to-air missiles.
 modification/su_r_77_1;Р-77-1
+modification/su_rvv_sd/desc	Allows installation of RVV-SD air-to-air missiles.
+modification/su_rvv_sd	RVV-SD
 modification/j_11a_rvv_ae/desc;Allows instalaltino of RVV-AE air-to-air missiles.;
 modification/j_11a_rvv_ae;RVV-AE;
-modification/mig_21_bison_r_77e/desc;Allows installatino of Р-77Э air-to-air missiles.;
+modification/mig_21_bison_r_77e/desc;Allows installation of Р-77Э air-to-air missiles.;
 modification/mig_21_bison_r_77e;Р-77Э;
 modification/128mm_ger_c41_naval_HE;Sprengranate L/4,5 Kz. m.Hb.;
 modification/128mm_ger_c41_naval_HE_base_fuze;Sprengranate L/4,5 Bd.Z. m.Hb.;
@@ -2852,6 +2892,8 @@ modification/406mm_us_mk5_navy_apcbc;APCBC Mk 5
 modification/406mm_us_mk5_navy_apcbc_ammo_pack;APCBC Mk 5
 modification/406mm_us_mk8_mod6_navy_apcbc;APCBC Mk 8 Mod 6
 modification/406mm_us_mk8_mod6_navy_apcbc_ammo_pack;APCBC Mk 8 Mod 6
+modification/406mm_us_mk8_mod0_navy_apcbc	APCBC Mk 8 Mod 0
+modification/406mm_us_mk8_mod0_navy_apcbc_ammo_pack	APCBC Mk 8 Mod 0
 modification/87_6mm_uk_navy_apc_ammo_pack;Mk. I APC;
 modification/406mm_ussr_navy_sapcbc;обр. 1928 г.
 modification/406mm_ussr_navy_apcbc;обр. 1928 г.
