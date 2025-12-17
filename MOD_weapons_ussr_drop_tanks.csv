@@ -42,12 +42,22 @@ weapons/su_800l_su_25_left_wing_1;Подвесной топливный бак �
 weapons/su_800l_su_25_left_wing_1/short;ПТБ-800;
 weapons/su_800l_mig_23_27_silver_fuse;Подвесной топливный бак ПТБ-800;
 weapons/su_800l_mig_23_27_silver_fuse/short;ПТБ-800;
-weapons/su_800l_mig_21_silver_fuse;FYX-800;
-weapons/su_800l_mig_21_silver_fuse/short;FYX-800;
+weapons/su_800l_mig_21_silver_fuse;Подвесной топливный бак ПТБ-800;
+weapons/su_800l_mig_21_silver_fuse/short;ПТБ-800;
 weapons/su_800l_mig_23m_silver_fuse;Подвесной топливный бак ПТБ-800;
 weapons/su_800l_mig_23m_silver_fuse/short;ПТБ-800;
 weapons/su_800l_mig_23ml_silver_fuse;Подвесной топливный бак ПТБ-800;
 weapons/su_800l_mig_23ml_silver_fuse/short;ПТБ-800;
+weapons/su_800l_su_7b_silver_fuse_1;Подвесной топливный бак ПТБ-800
+weapons/su_800l_su_7b_silver_fuse_1/short;ПТБ-800
+weapons/su_800l_su_7b_silver_fuse_2;Подвесной топливный бак ПТБ-800
+weapons/su_800l_su_7b_silver_fuse_2/short;ПТБ-800
+weapons/su_800l_su_7b_silver_wing_1;Подвесной топливный бак ПТБ-800
+weapons/su_800l_su_7b_silver_wing_1/short;ПТБ-800
+weapons/su_800l_su_7b_silver_wing_2;Подвесной топливный бак ПТБ-800
+weapons/su_800l_su_7b_silver_wing_2/short;ПТБ-800
+weapons/su_5280l_mig_25pd_drop_tank_central;5280-л подвесной топливный бак
+weapons/su_5280l_mig_25pd_drop_tank_central/short;5280-л ПТБ
 
 weapons/su_490l_mig_21;Подвесной топливный бак ПТБ-500;
 weapons/su_490l_mig_21/short;ПТБ-500;

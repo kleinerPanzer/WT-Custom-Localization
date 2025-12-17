@@ -103,6 +103,8 @@ weapons/su_kab_50tv/short;КАБ-50ТВ;
 
 weapons/su_kab_250lg;250-кг коррекция авиационная бомба КАБ-250ЛГ
 weapons/su_kab_250lg/short;КАБ-250ЛГ
+weapons/su_kab_250lg_e;250-кг коррекция авиационная бомба КАБ-250ЛГ-Э
+weapons/su_kab_250lg_e/short;КАБ-250ЛГ-Э
 weapons/su_kab_500kr_e;500-кг коррекция авиационная бомба КАБ-500Кр-Э;
 weapons/su_kab_500kr_e/short;КАБ-500Кр-Э;
 weapons/su_kab_500kr_m;500-кг коррекция авиационная бомба КАБ-500Кр-М
@@ -112,16 +114,20 @@ weapons/su_kab_500kr/short;КАБ-500Кр;
 weapons/su_kab_500l;500-кг коррекция авиационная бомба КАБ-500Л;
 weapons/su_kab_500l/short;КАБ-500Л;
 weapons/su_kab_500lg;500-кг коррекция авиационная бомба КАБ-500ЛГ
-weapons/su_kab_500lg/short;КАБ-250ЛГ
+weapons/su_kab_500lg/short;КАБ-500ЛГ
+weapons/su_kab_500lg_e;500-кг коррекция авиационная бомба КАБ-500ЛГ-Э
+weapons/su_kab_500lg_e/short;КАБ-500ЛГ-Э
 weapons/su_kab_500s;500-кг коррекция авиационная бомба КАБ-500С;
 weapons/su_kab_500s/short;КАБ-500С;
 
 weapons/su_kab_1500kr;1500-кг коррекция авиационная бомба КАБ-1500Кр;
 weapons/su_kab_1500kr/short;КАБ-1500Кр;
-weapons/su_kab_1500l;500-кг коррекция авиационная бомба КАБ-1500Л;
+weapons/su_kab_1500l;1500-кг коррекция авиационная бомба КАБ-1500Л;
 weapons/su_kab_1500l/short;КАБ-1500Л;
 weapons/su_kab_1500lg;1500-кг коррекция авиационная бомба КАБ-1500ЛГ
 weapons/su_kab_1500lg/short;КАБ-1500ЛГ
+weapons/su_kab_1500lg_e;1500-кг коррекция авиационная бомба КАБ-1500ЛГ-Э
+weapons/su_kab_1500lg_e/short;КАБ-1500ЛГ-Э
 
 weapons/su_ofab_100_120;100-кг авиационная бомба OФАБ-100
 weapons/su_ofab_100_120/short;OФАБ-100
@@ -146,8 +152,12 @@ weapons/su_umpk_3000/short;ФАБ-3000М-54 (УМПК)
 
 weapons/su_upab_500b;500-кг управляемая планирующая авиационная бомба УПАБ-500Б
 weapons/su_upab_500b/short;УПАБ-500Б
+weapons/su_upab_500b_e;500-кг управляемая планирующая авиационная бомба УПАБ-500Б-Э
+weapons/su_upab_500b_e/short;УПАБ-500Б-Э
 weapons/su_upab_1500b;1500-кг управляемая планирующая авиационная бомба УПАБ-1500Б
 weapons/su_upab_1500b/short;УПАБ-1500Б
+weapons/su_upab_1500b_e;1500-кг управляемая планирующая авиационная бомба УПАБ-1500Б-Э
+weapons/su_upab_1500b_e/short;УПАБ-1500Б-Э
 
 weapons/su_zab50fp;50-кг зажигательный бомба ЗАБ-50ФП;
 weapons/su_zab50fp/short;ЗАБ-50ФП;

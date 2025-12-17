@@ -29,13 +29,19 @@ weapons/su_kh_29te/short;Х-29ТЭ;
 
 weapons/su_grom_1;Х-36 Гром-1
 weapons/su_grom_1/short;Х-36 Гром-1
-weapons/su_grom_2;Х-36 Гром-1
-weapons/su_grom_2/short;Х-36 Гром-1
+weapons/su_grom_2;Х-36 Гром-2
+weapons/su_grom_2/short;Х-36 Гром-2
+weapons/su_grom_e2;Х-36 Гром-Э2
+weapons/su_grom_e2/short;Х-36 Гром-Э2
 
 weapons/su_kh_38ml;Управляемая ракета «воздух-поверхность» Х-38МЛ;
 weapons/su_kh_38ml/short;Х-38МЛ;
 weapons/su_kh_38mt;Управляемая ракета «воздух-поверхность» Х-38МТ;
 weapons/su_kh_38mt/short;Х-38МТ;
+weapons/su_kh_38mle;Управляемая ракета «воздух-поверхность» Х-38МЛЭ
+weapons/su_kh_38mle/short;Х-38МЛЭ
+weapons/su_kh_38mte;Управляемая ракета «воздух-поверхность» Х-38МТЭ
+weapons/su_kh_38mte/short;Х-38МТЭ
 
 weapons/su_lmur;Лёгкая многоцелевая управляемая ракета Х-39
 weapons/su_lmur/short;Х-39
@@ -97,6 +103,15 @@ weapons/su_r_27et/short;УР «В-В» Р-27ЭТ;
 weapons/su_r_27et1;Управляемая ракета «воздух-воздух» Р-27ЭТ1;
 weapons/su_r_27et1/short;УР «В-В» Р-27ЭТ1;
 
+weapons/su_r_40rd;Управляемая ракета «воздух-воздух» Р-40РД
+weapons/su_r_40rd/short;УР «В-В» Р-40РД
+weapons/su_r_40rd_default;Управляемая ракета «воздух-воздух» Р-40РД
+weapons/su_r_40rd_default/short;УР «В-В» Р-40РД
+weapons/su_r_40td;Управляемая ракета «воздух-воздух» Р-40ТД
+weapons/su_r_40td/short;УР «В-В» Р-40ТД
+weapons/su_r_40td_default;Управляемая ракета «воздух-воздух» Р-40ТД
+weapons/su_r_40td_default/short;УР «В-В» Р-40ТД
+
 weapons/su_r_60_default;Управляемая ракета «воздух-воздух» Р-60;
 weapons/su_r_60_default/short;УР «В-В» Р-60;
 weapons/su_r_60;Управляемая ракета «воздух-воздух» Р-60;
@@ -132,3 +147,8 @@ weapons/su_rvv_ae_default;Air-to-Air Missile RVV-AE;
 weapons/su_rvv_ae_default/short;RVV-AE;
 weapons/su_rvv_ae;Air-to-Air Missile RVV-AE;
 weapons/su_rvv_ae/short;RVV-AE;
+
+weapons/su_rvv_sd;Air-to-Air Missile RVV-SD
+weapons/su_rvv_sd/short;RVV-SD
+weapons/su_rvv_sd_default;Air-to-Air Missile RVV-SD
+weapons/su_rvv_sd_default/short;RVV-SD

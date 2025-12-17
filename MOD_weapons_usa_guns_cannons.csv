@@ -75,6 +75,7 @@ weapons/zippo_flamethrower;Flame Thrower, Mechanized, Main Armament: APC-Mounted
 weapons/120mm_M58_user_cannon;Gun, 120-mm, M58;
 weapons/105mm_M68A1_user_cannon;Cannon, 105-mm Gun: M68A1;
 weapons/105mm_M68A1_IP_user_cannon;Cannon, 105-mm Gun: M68A1;
+weapons/105mm_m35_user_cannon;Cannon, 105-mm Gun: M35
 weapons/12_7mm_M85_user_machinegun;Machine Gun, Caliber .50, Fixed, M85;
 weapons/12_7mm_M2_HB_user_machinegun;Machine Gun, Caliber .50: Browning, M2, Heavy Barrel;
 weapons/12_7mm_M2_HB_user_machinegun_for_400;Machine Gun, Caliber .50: Browning, M2, Heavy Barrel
@@ -245,7 +246,9 @@ weapons/105mm_XM_35_user_cannon;Cannon, 105-mm Gun: XM35;
 weapons/120mm_M256_user_cannon;Cannon, 120-mm Gun: M256;
 weapons/120mm_M256_M1A2_user_cannon;Cannon, 120-mm Gun: M256;
 weapons/120mm_M256_KE_W_user_cannon;Cannon, 120-mm Gun: M256;
+weapons/120mm_m256_m1a2t_user_cannon;Cannon, 120-mm Gun: M256
 120mm_ke_w;APFSDS-T, KE-W A1;
+120mm_ke_w_a2;APFSDS-T, KE-W A2
 120mm_m830a1;HEAT-T-MP, M830A1;
 120mm_m908;HE-OR-T, M908;
 120mm_m830;HEAT-T-MP, M830;

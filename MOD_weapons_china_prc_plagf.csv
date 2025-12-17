@@ -184,6 +184,9 @@ weapons/72mm_HN_6_launcher_user_cannon;SK-6便携式地对空导弹发射器 x4;
 72mm_hn_6;HN-6便携式地对空导弹
 weapons/72mm_hn_6/short;HN-6;
 
+weapons/250mm_FM_3000_user_cannon;ADK11地对空导弹发射器
+cn_fm_3000;ADK11
+
 weapons/239mm_HQ_17_user_cannon;ADK17地对空导弹发射器
 239mm_hq17;ADK17地对空导弹
 weapons/239mm_hq17/short;ADK17

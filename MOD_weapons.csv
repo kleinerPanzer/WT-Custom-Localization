@@ -432,6 +432,10 @@ weapons/countermeasure_split_launcher_jet_bol_pod_aim9l;Flares/Chaff;
 weapons/countermeasure_split_launcher_jet_bol_pod_aim9l/short;Flares/Chaff;
 weapons/countermeasure_split_launcher_jet_bol_pod_aim9m;Flares/Chaff;
 weapons/countermeasure_split_launcher_jet_bol_pod_aim9m/short;Flares/Chaff;
+weapons/countermeasure_split_launcher_jet_with_chaff;Flares/Chaff
+weapons/countermeasure_split_launcher_jet_with_chaff/short;Flares/Chaff
+weapons/countermeasure_large_split_launcher_jet_with_chaff;Flares/Chaff
+weapons/countermeasure_large_split_launcher_jet_with_chaff/short;Flares/Chaff
 13mm_hotckiss_AP/name;Cartouche calibre 13,2 à balle traceuse perforante;
 13mm_hotckiss_AP/name/short;AP-T;
 12mm_usa_M2HB_common/name;Default;

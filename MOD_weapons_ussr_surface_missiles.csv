@@ -51,6 +51,9 @@ weapons/130mm_9m120/short;ПТУР 9М120;
 weapons/130mm_9m120f_1/short;УР 9М120Ф-1;
 130mm_9m220o;ЗУР 9М220O;
 weapons/130mm_9m220o/short;ЗУР 9М220O;
+130mm_9m120_1;ПТУР 9М120-1
+130mm_9m120_1f;УР 9М120-1Ф
+weapons/130mm_9M120_BMPT_launcher_user_cannon;Пусковая установка для «Атака»
 
 weapons/su_9M114;Противотанковая управляемая ракета 9М114 «Штурм»;
 weapons/su_9M114/short;ПТУР 9М114 «Штурм»;

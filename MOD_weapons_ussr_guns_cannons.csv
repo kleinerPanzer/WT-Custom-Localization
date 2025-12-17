@@ -84,6 +84,7 @@ weapons/23mm_2a14_naval_user_cannon;23-мм автоматическая зен�
 
 weapons/25mm_72K_user_cannon;25-мм автоматическая зенитная пушка обр. 1940 г. (72-К);
 weapons/25mm_79_2m3_naval_user_cannon;25-мм спаренное универсальное оружие 2М-3М;
+weapons/25mm_79_110pm_naval_user_cannon;25-мм автоматическая пушка 110-ПМ;
 
 weapons/30mm_AG_30_user_cannon;30-мм автоматический гранатомёт АГС-30 (6Г25);
 weapons/30mm_bp_30_mortar_naval_user_cannon;30-мм aвтоматический станковый гранатомёт БП-30;
@@ -92,6 +93,7 @@ weapons/30mm_2A38M_user_cannon;30-мм автоматическая зенитн
 weapons/30mm_2A38M1_user_cannon;30-мм автоматическая зенитная пушка 2А38М1;
 weapons/cannon2A42;30-мм автоматическая пушка 2А42;
 weapons/cannon2A42/short;2А42;
+weapons/30mm_2A42_BMPT_user_cannon;30-мм автоматическая пушка 2А42
 weapons/30mm_2A42_user_cannon;30-мм автоматическая пушка 2А42;
 weapons/30mm_2a42_md_user_cannon;30-mm konetykkiin 2A42
 weapons/30mm_2A72_user_cannon;30-мм автоматическая пушка 2А72;
@@ -146,6 +148,8 @@ weapons/57mm_AU_220_user_cannon;57-мм автоматическая зенит�
 weapons/57mm_AU_220M_user_cannon;57-мм автоматическая зенитная пушка 2А90;
 weapons/57mm_ak_725_naval_user_cannon;57-мм спаренная автоматическая корабельная артиллерийская установка AK-725;
 weapons/57mm_ak_725_naval_user_cannon/short;AK-725;
+weapons/57mm_ak_157_naval_user_cannon;57-мм автоматическая корабельная артиллерийская установка AK-157
+weapons/57mm_ak_157_naval_user_cannon/short;AK-157
 
 weapons/63mm_38_obr1916_naval_user_cannon;63-мм пушка Обуховского завода;
 
@@ -257,6 +261,7 @@ weapons/130mm_B13_user_cannon;130-мм корабельная пушка обр.
 weapons/130mm_58_sm_2_1_naval_user_cannon;130-мм корабельная пушка СМ-2-1;
 weapons/130mm_M65_user_cannon;130-мм танковая пушка М-65;
 weapons/130mm_C70_user_cannon;130-мм танковая пушка C-70;
+weapons/130mm_58_bl_109a_naval_user_cannon;130-мм корабельная пушка обр. 1957 г.
 
 weapons/152mm_ML20S_user_cannon;152-мм самоходная гаубица-пушка обр. 1937 г. (МЛ-20С);
 weapons/152mm_M10T_user_cannon;152-мм танковая гаубица обр. 1938 г. (М-10T);
@@ -278,6 +283,7 @@ weapons/305mm_54_b_50_naval_user_cannon;305-мм корабельная пушк
 weapons/305mm_52_obr1907_naval_user_cannon;12” пушка Обуховского завода;
 weapons/305mm_52_obr1907_mariya_naval_user_cannon;12” пушка Обуховского завода
 weapons/305mm_52_obr1907_1941_naval_user_cannon;12” пушка Обуховского завода;
+weapons/305mm_62_sm_33_obr1948_naval_user_cannon;305-мм корабельная пушка СМ-31;
 
 weapons/356mm_52_obr1913_naval_user_cannon;356-мм корабельная пушка;
 
@@ -472,6 +478,8 @@ weapons/152mm_3c1/short;3C1;
 305mm_obr1911_he;ОФ обр. 1911 г.;
 305mm_obr1911_sap;ПБ обр. 1911 г.;
 305mm_obr1928_er_he;ОФ обр. 1928 г.;
+305mm_sm_33_ap;ББ
+305mm_sm_33_he;ПБ
 
 // 30mm autocannon//
 30mm_3ubr_11;3УБР11;
@@ -479,6 +487,7 @@ weapons/152mm_3c1/short;3C1;
 30mm_UBR6;3УБР6;
 30mm_UOF8;3УОФ8;
 30mm_UOR6;3УОР6;
+30mm_UOF23;3УОФ23
 
 // 30mm ??
 30mm_br_83;53-БР-83;

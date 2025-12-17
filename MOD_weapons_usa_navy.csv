@@ -15,11 +15,13 @@ weapons/bomb_mark36_srboc_launcher/short;130 mm Mk 36 Mod 0 SRBOC;
 30mm_mk258;APFSDS-T, Mk 258 Mod 1;
 30mm_mk_266;HEI-T, Mk 266 Mod 0;
 30mm_mk320;APDS-T, Mk 320 Mod 0
+30mm_mk_310;PABM-T, Mk 310 Mod 0
 weapons/30mm_Bushmaster_2_Mk_44_user_cannon;30 mm Mk44 Bushmaster II Chain Gun;
 weapons/30mm_Bushmaster_2_Mk_44_9030_user_cannon;30 mm Mk44 Bushmaster II Chain Gun;
 weapons/30mm_Bushmaster_2_Mk_44_NAMER_user_cannon;30 mm Mk44 Bushmaster II Chain Gun;
 weapons/30mm_Bushmaster_2_Mk_44_MCT30_user_cannon;30 mm Mk44 Bushmaster II Chain Gun;
 weapons/30mm_Bushmaster_2_Mk_44_VILKAS_user_cannon;30 mm Mk44 Bushmaster II Chain Gun;
+weapons/30mm_Bushmaster_2_Mk_44_freccia_ows_user_cannon;30mm Mk44 Bushmaster II Chain Gun
 weapons/30mm_Bushmaster_2_Mk_44_efv_p1_user_cannon;Gun, Automatic, 30-mm, Mk 44 Mod 1
 40mm_HF_MKII_TL;HF Mk. II;
 weapons/81mm_mk_2_mortar_naval_user_cannon;81 mm Mortar Mk 2 Mod 0;
@@ -170,6 +172,8 @@ weapons/356mm_50_14inch_mk11_naval_user_cannon;14”/50 Caliber Gun Mk 11 Mod 0;
 weapons/127mm_25_5inch_mk11_naval_user_cannon;5”/25 Caliber Gun Mk 11 Mod 0;
 weapons/rocket_mk11_naval_rocket_launcher;Guided Missile Launcher Mk 11 Mod 0
 weapons/rocket_mk11_naval_rocket_launcher/short;Mk 11 Mod 0
+weapons/rocket_mk13_naval_rocket_launcher;Guided Missile Launcher Mk 13 Mod 0
+weapons/rocket_mk13_naval_rocket_launcher/short;Mk 13 Mod 0
 weapons/305mm_50_12inch_mk8_naval_user_cannon;12”/50 Caliber Gun Mk 8 Mod 0;
 305mm_mk17_he;HC Mk 17 Mod 1;
 weapons/25mm_87_mark_38_naval_user_cannon;25 mm/87 Caliber Machine Gun Mk 38 Mod 0
@@ -185,3 +189,6 @@ weapons/us_depth_charge_mk_6;Depth Charge Mk 9 Mod 0
 weapons/us_depth_charge_mk_6/short;Mk 6 Mod 0
 weapons/406mm_50_mk7_naval_user_cannon;16”/50 Caliber Gun Mk 7 Mod 0
 406mm_mk8_mod6_apcbc;APCBC Mk 8 Mod 6
+weapons/406mm_45_mk6_naval_user_cannon;16”/45 Caliber Gun Mk 6 Mod 0
+weapons/406mm_45_mk6_naval_user_cannon/short;16”/45 Caliber Gun Mk 6 Mod 0
+406mm_mk8_mod0_apcbc;APCBC Mk 8 Mod 0

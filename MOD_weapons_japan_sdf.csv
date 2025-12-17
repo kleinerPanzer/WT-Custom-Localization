@@ -44,6 +44,8 @@ weapons/160mm_sam_1c/short;SAM-1(C) (光波弾)
 weapons/80mm_Type_91_launcher_user_cannon;93式近距離地対空誘導弾発射装置;
 80mm_type_91;93式近距離地対空誘導弾;
 weapons/80mm_type_91/short;SAM-3;
+weapons/320mm_type_03_user_cannon;03式中距離地対空誘導弾発射装置
+jp_type_03;03式中距離地対空誘導弾
 
 weapons/cannonJM61A1;20mm機関砲 JM61A1
 weapons/cannonJM61A1_pgu_28;20mm機関砲 JM61A1
@@ -61,6 +63,7 @@ weapons/12_7mm_Type_60B_user_machinegun;60式口径50スポットライフル(B)
 weapons/106mm_Type_60B_user_cannon;60式26口径106mm無反動砲(B);
 
 weapons/90mm_Type61_user_cannon;61式90mm戦車砲(C);
+weapons/90mm_Type61_b_user_cannon;61式90mm戦車砲(C)
 weapons/105mm_L7A3_STB_user_cannon;L7A3 51口径105mm戦車砲;
 weapons/105mm_L7A3_Type74_user_cannon;74式105mm戦車砲;
 weapons/105mm_L7A3_Type74kai_user_cannon;74式105mm戦車砲;

@@ -31,6 +31,7 @@ weapons/7_92mm_BESA_AA_user_machinegun;Machine Gun, Besa, 7.92 mm, Mk. III*;
 weapons/churchill_flamethrower;Crocodile;
 weapons/7_62mm_L3A1_user_machinegun;Machine Gun, Browning, Caliber .30-in, L3A1;
 weapons/7_7mm_Vikkers_user_machinegun;Machine Gun, .303”, Vickers Mk. I;
+weapons/7_7mm_vickers_k_user_machinegun;Machine Gun, .303”, Vickers K
 weapons/7_7mm_vickers_go_no5_naval_user_machinegun;Machine Gun, .303”, Vickers, GO, No. 5, Mk. I;
 weapons/40mm_QF_2pdr_user_cannon;Ordnance, Q.F., 2-pr, Mk. IX;
 weapons/76mm_17pdr_QF_user_cannon;Ordnance, Q.F., 17-pr, Mk. IV/VI/VII;
@@ -276,3 +277,6 @@ weapons/406mm_45_bl_mk1_r1_naval_user_cannon;Ordnance, B.L., 16-inch, Mk. I
 weapons/406mm_45_bl_mk1_r2_naval_user_cannon;Ordnance, B.L., 16-inch, Mk. I
 406mm_uk_he;Mk. Ib HE
 406mm_mark_1a_apcbc;Mk. Ia APCBC
+weapons/356mm_45_14inch_mark7_naval_user_cannon;Ordnance, B.L., 14-inch, Mk. VII
+356mm_mark_1b_6crh_apc;Mk. Ib APC
+356mm_mark_5b_6crh_he;Mk. Vb HE

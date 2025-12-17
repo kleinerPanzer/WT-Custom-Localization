@@ -302,3 +302,9 @@ rim_24;RIM-24A;
 162mm_losat;MGM-166A LOSAT;
 weapons/162mm_losat/short;MGM-166A LOSAT;
 weapons/162mm_MGM166_launcher_user_cannon;LOSAT Launcher;
+
+weapons/178mm_nasams_user_cannon;NASAMS Multi-Missile Launcher
+weapons/sw_nasams_launcher_common;NASAMS Multi-Missile Launcher
+weapons/us_amraam_er;AMRAAM-Extended Range
+weapons/us_amraam_er/short;AMRAAM-ER
+us_amraam_er;AMRAAM-Extended Range

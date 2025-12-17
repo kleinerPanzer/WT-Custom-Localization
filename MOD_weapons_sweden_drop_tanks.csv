@@ -27,3 +27,11 @@ weapons/sw_275gal_drop_tank_1;275 gal Drop Tank
 weapons/sw_275gal_drop_tank_1/short;Drop Tank
 weapons/sw_275gal_drop_tank_2;275 gal Drop Tank
 weapons/sw_275gal_drop_tank_2/short;Drop Tank
+weapons/sw_a21_drop_tank_l;400 L Fällbar extratank
+weapons/sw_a21_drop_tank_l/short;Fälltank
+weapons/sw_a21_drop_tank_r;400 L Fällbar extratank
+weapons/sw_a21_drop_tank_r/short;Fälltank
+weapons/sw_a21rb_drop_tank_l;400 L Fällbar extratank
+weapons/sw_a21rb_drop_tank_l/short;Fälltank
+weapons/sw_a21rb_drop_tank_r;400 L Fällbar extratank
+weapons/sw_a21rb_drop_tank_r/short;Fälltank
