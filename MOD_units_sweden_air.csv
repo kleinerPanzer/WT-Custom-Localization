@@ -120,32 +120,32 @@ vampire_fb5_j28b_1;J 28B
 vampire_fb5_j28b_2;J 28
 
 saab_j29a_shop;J 29A
-saab_j29a_0;Jakt 29A
+saab_j29a_0;Jakt 29A Tunnan
 saab_j29a_1;J 29A
 saab_j29a_2;J 29
 saab_j29b_shop;J 29B
-saab_j29b_0;Jakt 29B
+saab_j29b_0;Jakt 29B Tunnan
 saab_j29b_1;J 29B
 saab_j29b_2;J 29
 saab_j29d_shop;J 29D
-saab_j29d_0;Jakt 29D alt 2
+saab_j29d_0;Jakt 29D Tunnan alt 2
 saab_j29d_1;J 29D
 saab_j29d_2;J 29
 saab_j29f_shop;J 29F
-saab_j29f_0;Jakt 29F
+saab_j29f_0;Jakt 29F Tunnan
 saab_j29f_1;J 29F
 saab_j29f_2;J 29
 
 saab_a32a_shop;A 32A
-saab_a32a_0;Attack 32A
+saab_a32a_0;Attack 32A Lansen
 saab_a32a_1;A 32A
 saab_a32a_2;A 32
 saab_a32a_red_adam_shop;A 32A (F 17)
-saab_a32a_red_adam_0;Attack 32A (Blekinge flygflottilj (F 17))
+saab_a32a_red_adam_0;Attack 32A Lansen (Blekinge flygflottilj (F 17))
 saab_a32a_red_adam_1;A 32A
 saab_a32a_red_adam_2;A 32
 saab_j32b_shop;J 32B
-saab_j32b_0;Jakt 32B
+saab_j32b_0;Jakt 32B Lansen
 saab_j32b_1;J 32B
 saab_j32b_2;J 32
 
@@ -155,47 +155,51 @@ hunter_f50_sweden_1;J 34
 hunter_f50_sweden_2;J 34
 
 saab_j35a_shop;J 35A (k) (F 13)
-saab_j35a_0;Jakt 35A (kort) (Bråvalla flygflottilj (F 13))
+saab_j35a_0;Jakt 35A Draken (kort) (Bråvalla flygflottilj (F 13))
 saab_j35a_1;J 35A
 saab_j35a_2;J 35
 saab_j35d_shop;J 35D
-saab_j35d_0;Jakt 35D
+saab_j35d_0;Jakt 35D Draken
 saab_j35d_1;J 35D
 saab_j35d_2;J 35
 
 saab_aj37_shop;AJ 37
-saab_aj37_0;Attack-Jakt 37
+saab_aj37_0;Attack-jakt 37 Viggen
 saab_aj37_1;AJ 37
 saab_aj37_2;AJ 37
 saab_ajs37_shop;AJS 37
-saab_ajs37_0;Attack-Jakt-Spaning 37
+saab_ajs37_0;Attack-jakt-spaning 37 Viggen
 saab_ajs37_1;AJS 37
 saab_ajs37_2;AJS 37
 saab_ja37_shop;JA 37C
-saab_ja37_0;Jakt-Attack 37C
+saab_ja37_0;Jakt-attack 37C Viggen
 saab_ja37_1;JA 37C
 saab_ja37_2;JA 37
 saab_ja37d_shop;JA 37D
-saab_ja37d_0;Jakt-Attack 37D
+saab_ja37d_0;Jakt-attack 37D Viggen
 saab_ja37d_1;JA 37D
 saab_ja37d_2;JA 37
 saab_ja37di_shop;JA 37DI
-saab_ja37di_0;Jakt-Attack 37DI
+saab_ja37di_0;Jakt-attack 37DI Viggen
 saab_ja37di_1;JA 37DI
 saab_ja37di_2;JA 37
 saab_ja37di_f21_shop;JA 37DI (F 21)
-saab_ja37di_f21_0;Jakt-Attack 37DI (Norrbottens flygflottilj (F 21))
+saab_ja37di_f21_0;Jakt-attack 37DI Viggen (Norrbottens flygflottilj (F 21))
 saab_ja37di_f21_1;JA 37DI
 saab_ja37di_f21_2;JA 37
 
 saab_jas39a_shop;JAS 39A
-saab_jas39a_0;JAS 39A
+saab_jas39a_0;Jakt-attack-spaning 39A Gripen
 saab_jas39a_1;JAS 39A
 saab_jas39a_2;JAS 39
 saab_jas39c_shop;JAS 39C
-saab_jas39c_0;JAS 39C
+saab_jas39c_0;Jakt-attack-spaning 39C Gripen
 saab_jas39c_1;JAS 39C
 saab_jas39c_2;JAS 39
+saab_jas39e_shop;JAS 39E
+saab_jas39e_0;Jakt-attack-spaning 39E Gripen
+saab_jas39e_1;JAS 39E
+saab_jas39e_2;JAS 39
 
 saab_sk60b_shop;SK 60B
 saab_sk60b_0;Skol 60B

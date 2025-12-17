@@ -311,6 +311,12 @@ us_destroyer_gearing_frank_knox_0;DD 710 Class Destroyer, USS Frank Knox (DD 742
 us_destroyer_gearing_frank_knox_1;Frank Knox
 us_destroyer_gearing_frank_knox_2;DD 710 Class
 
+// Forrest Sherman //
+us_destroyer_forrestsherman_class_shop;Forrest Sherman (DD 931)
+us_destroyer_forrestsherman_class_0;DD 931 Class Destroyer, USS Forrest Sherman (DD 931)
+us_destroyer_forrestsherman_class_1;Forrest Sherman
+us_destroyer_forrestsherman_class_2;DD 931 Class
+
 // CF Adams //
 us_destroyer_cf_adams_class_cf_adams_shop;Charles F. Adams (DDG 2)
 us_destroyer_cf_adams_class_cf_adams_0;DDG 2 Class Guided Missile Destroyer, USS Charles F. Adams (DDG 2) (1961)
@@ -491,6 +497,12 @@ us_battleship_colorado_class_maryland_shop;Maryland (BB 46)
 us_battleship_colorado_class_maryland_0;BB 45 Class Battleship, USS Maryland (BB 46) (1945)
 us_battleship_colorado_class_maryland_1;Maryland
 us_battleship_colorado_class_maryland_2;BB 45 Class
+
+// South Dakota //
+us_battleship_south_dakota_shop;South Dakota (BB 57)
+us_battleship_south_dakota_0;BB 57 Class Battleship, USS South Dakota (BB 57) (1943)
+us_battleship_south_dakota_1;South Dakota
+us_battleship_south_dakota_2;BB 57 Class
 
 // Iowa //
 us_battleship_iowa_class_iowa_shop;Iowa (BB 61)

@@ -11,6 +11,8 @@ shop/group/il_merkava_3_group;ז״ב ׳ב3 הבכרמ / 3 הבכרמ
 shop/group/il_merkava_4_group;LIC ׳ב4 הבכרמ / ׳ב4 הבכרמ
 shop/group/il_magach_6_6a_group;׳א6 חגמ / 6 חגמ
 shop/group/il_magach_6_group;(M162) ׳ר6 חגמ / ׳ב6 חגמ / ׳ר6 חגמ
+shop/group/il_gimel_tiran_group;6 ןריט‎׳ג לק טוש / 
+
 us_magach_3_shop;(1989) 3 חגמ ▃
 us_magach_3_0;(1989) 3 חגמ קנט ▃
 us_magach_3_1;3 חגמ ▃
@@ -88,6 +90,10 @@ il_ss_11_halftrack_shop;(SS.11) ם״לחז
 il_ss_11_halftrack_0;SS.11 םע הצחמל ילחז
 il_ss_11_halftrack_1;(SS.11) ם״לחז
 il_ss_11_halftrack_2;ם״לחז
+il_merkava_mk_1_shop;1 הבכרמ
+il_merkava_mk_1_0;1 ןמיס הבכרמ קנט
+il_merkava_mk_1_1;1 הבכרמ
+il_merkava_mk_1_2;הבכרמ
 il_merkava_mk_1b_shop;׳מ 1 הבכרמ
 il_merkava_mk_1b_0;רפושמ 1 ןמיס הבכרמ קנט
 il_merkava_mk_1b_1;׳מ 1 הבכרמ

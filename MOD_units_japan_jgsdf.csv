@@ -61,6 +61,10 @@ jp_type_61_shop;61TK(C)
 jp_type_61_0;61式戦車C型
 jp_type_61_1;61TK(C)
 jp_type_61_2;61式
+jp_type_61_mod_shop;61TK(C) (13戦-3)
+jp_type_61_mod_0;61式戦車C型 (第13戦車大隊, 第3戦車中隊)
+jp_type_61_mod_1;61TK(C)
+jp_type_61_mod_2;61式
 
 jp_type_74_c_shop;74TK(C)
 jp_type_74_c_0;74式戦車C型 「ナナヨン」
@@ -176,6 +180,16 @@ jp_type_93_shop;SAM-3
 jp_type_93_0;93式近距離地対空誘導弾発射装置 「クローズドアロー」
 jp_type_93_1;SAM-3
 jp_type_93_2;SAM-3
+
+shop/group/jp_type_03_chusam_fcs_group;SAM-4
+jp_type_03_chusam_launcher_shop;SAM-4発射装置
+jp_type_03_chusam_launcher_0;03式中距離地対空誘導弾発射装置
+jp_type_03_chusam_launcher_1;SAM-4発射装置
+jp_type_03_chusam_launcher_2;SAM-4
+jp_type_03_chusam_fcs_shop;SAM-4撃統制装置
+jp_type_03_chusam_fcs_0;03式中距離地対空誘導弾撃統制装置
+jp_type_03_chusam_fcs_1;SAM-4撃統制装置
+jp_type_03_chusam_fcs_2;SAM-4
 
 jp_sub_i_ii_20mm_shop;SUB-I-II
 jp_sub_i_ii_20mm_0;新型装甲車B-I型 II

@@ -64,10 +64,14 @@ tornado_ids_de_assta3_sle_0;Mehrzweckkampfflugzeug IDS-Tornado ASSTA 3.1
 tornado_ids_de_assta3_sle_1;IDS-Tornado
 tornado_ids_de_assta3_sle_2;Tornado
 
-ef_2000_block_10_shop;Eurofighter
-ef_2000_block_10_0;EF2000 Eurofighter (Tranche 2 Block 10) (P1A)
-ef_2000_block_10_1;Eurofighter
+ef_2000_block_10_shop;Eurofighter (P1Ea)
+ef_2000_block_10_0;EF2000 Eurofighter (Tranche 2 Block 10) (Phase 1 Enhancement A)
+ef_2000_block_10_1;Eurofighter (P1Ea)
 ef_2000_block_10_2;Eurofighter
+ef_2000_aesa_shop;Eurofighter (P4E)
+ef_2000_aesa_0;EF2000 Eurofighter (Tranche 4) (Phase 4 Enhancement)
+ef_2000_aesa_1;Eurofighter (P4E)
+ef_2000_aesa_2;Eurofighter
 
 alpha_jet_a_shop;Alpha Jet A
 alpha_jet_a_0;Alpha Jet A

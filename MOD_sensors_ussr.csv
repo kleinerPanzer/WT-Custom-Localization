@@ -49,13 +49,16 @@ sensors/su_mr_352_pozitiv;РЛС МР-352 «Позитив»;
 sensors/su_mr_510_kil_u;РЛС МР-510 «Киль-У»;
 sensors/su_n_001;РЛС Н001 «Меч»;
 sensors/su_n_001;РЛС Н001К;
+sensors/su_n_001ve;РЛС Н001ВЭ;
 sensors/su_n_001vep;РЛС Н001ВЭП;
 sensors/su_n_010;РЛС Н001 «Жук»;
 sensors/su_n_010m;РЛС Н001М «Жук-М»;
 sensors/su_n_011m;РЛС Н011М «Барс-29»
 sensors/su_n_019;РЛС Н019;
-sensors/su_n_019eРЛС Н019Э;
+sensors/su_n_019me;РЛС Н019МЭ;
+sensors/su_n_019e;РЛС Н019Э;
 sensors/su_n_025;РЛС Н025;
+sensors/su_n_035e;РЛС Н035Э;
 sensors/su_orion;РЛС «Орион-А»
 sensors/su_p_10_volga_a;РЛС П-10 «Волга-А»;
 sensors/su_p_12ma;РЛС П-12МА
@@ -73,6 +76,7 @@ sensors/su_sapphire_23e;РЛС РП-23Э «Сапфир-23Э»;
 sensors/su_sapphire_23ml;РЛС РП-23МЛ «Сапфир-23МЛ»;
 sensors/su_sapphire_23mla;РЛС РП-23МЛА «Сапфир-2ЗМЛА»;
 sensors/su_sapphire_23mla_2;РЛС РП-23МЛА-2 «Сапфир-2ЗМЛА-2»;
+sensors/su_sapphire_25;РЛС РП-25 «Сапфир-25»;
 sensors/su_satellite_m2;АРТЗ «Сателлит-М2»;
 sensors/su_snr_75;РЛС СНР-75
 sensors/su_spo-10;СПО-10 «Сирена-3»;
@@ -80,6 +84,8 @@ sensors/su_spo-15;СПО-15 «Берёза»;
 sensors/su_spo-150-14;Л-150-14;
 sensors/su_spo-150-16m;СПО-150-16М;
 sensors/su_spo-150-28m;СПО-150-28М
+sensors/su_spo-150-30;СПО-150-30
+sensors/su_spo-150-30m;СПО-150-30М
 sensors/su_spo-150-30m1;СПО-150-30М1
 sensors/su_spo-150;СПО-150;
 sensors/su_spo-150-30sm;СПО-150-30СМ;

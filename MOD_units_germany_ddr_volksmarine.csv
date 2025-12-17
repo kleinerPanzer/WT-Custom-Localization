@@ -1,8 +1,13 @@
 <ID|readonly|noverify>;<NewLanguage>
-germ_skr_pr50_karl_marx_shop;Friedrich Engels
-germ_skr_pr50_karl_marx_0;Küstenschutzschiff Projekt 50, Friedrich Engels
-germ_skr_pr50_karl_marx_1;Friedrich Engels
+germ_skr_pr50_karl_marx_shop;Karl Marx
+germ_skr_pr50_karl_marx_0;Küstenschutzschiff Projekt 50 (1. Bauausführung), Karl Marx (1962)
+germ_skr_pr50_karl_marx_1;Karl Marx
 germ_skr_pr50_karl_marx_2;Pr. 50
+
+germ_pr1331_shop;Parchim (242)
+germ_pr1331_0;Küstenschutzschiff-3.Ranges Projekt 1331, Parchim (242)
+germ_pr1331_1;Parchim
+germ_pr1331_2;Pr. 1331
 
 germ_kondor2_class_shop;Bernau (343)
 germ_kondor2_class_0;Hochsee-Minenabwehrschiff Projekt 89.2 UR2, Bernau (343) (1985)

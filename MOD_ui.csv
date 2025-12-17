@@ -377,10 +377,15 @@ hints/wait_launcher_ready;Launcher is deploying
 hints/commander_view_with_nv_on;Switching to commander view with night vision
 hints/commander_is_unconscious;Commander is unconscious, commander sight is unavailable
 hints/support_plane_hit;Auxiliary vehicle is under attack
+hints/support_owner_hit;Primary vehicle is under attack
 hints/support_plane_drown;Auxiliary vehicle is sinking
+hints/support_owner_drown;Primary vehicle is sinking
 hints/support_plane_burn;Auxiliary vehicle is on fire
+hints/support_owner_burn;Primary vehicle is on fire
 hints/support_plane_out_of_map;Auxiliary vehicle has left the combat zone
+hints/support_owner_out_of_map;Primary vehicle has left the combat zone
 hints/support_plane_repair_needed;Auxiliary vehicle requires repairs
+hints/support_owner_repair_needed;Primary vehicle requires repairs
 HUD/TXT_ARTILLERY_MAP;Call for artillery strike on tactical map
 HUD/TXT_ARTILLERY_MAP_NOKEY;Call for artillery strike on tactical map (key not assigned)
 HUD/TXT_BUILDING_EXIT;Exit build mode
@@ -391,6 +396,7 @@ HUD/TXT_BUILDING_FORBIDDEN_RANGE;Construction is impossible, too far away
 HUD/TXT_SLAVE_FORBIDDEN_OBSTACLES;Installation of vehicle is impossible, unsuitable location
 HUD/TXT_SPAWN_FORBIDDEN_RANGE;Installation of vehicle is impossible, too far away
 HUD/TXT_SLAVE_FORBIDDEN_FIRE;Warning! There may be obstacles on the missile's flight path. Press the fire button again to launch.
+HUD/BLOCKED_FIRE_BY_GUIDANCE;Attention! Obstacles in the direction of the target prevent target lock-on. Missile launch is not possible.
 hints/use_artillery;Call for artillery strike
 hints/use_artillery_no_key;Call for artillery strike (key not assigned)
 hints/extinguish_fire;Activate extinguisher
@@ -1965,6 +1971,8 @@ hud/rafale;RFAL
 hud/draken;SB35
 hud/viggen;SB37
 hud/gripen;SB39
+hud/mig_25;MG25
+hud/hawk;HAWK
 hud/iog;IOG
 hud/iog_dl;IOG+DL
 hud/commanderViewAimMode;OVERRIDE
@@ -2203,6 +2211,8 @@ ils/jp_asm2;ASM
 ils/il_pyton_3/f15mfd;P3
 ils/il_pyton_3_default/f15mfd;P3
 ils/il_pyton_4/f15mfd;P4
+ils/cn_pl12/f15mfd;PL12
+ils/cn_pl8b/f15mfd;PL8
 ils/il_pyton_3;P3
 ils/il_pyton_3_default;P3
 ils/su_r_60;60
@@ -2218,8 +2228,16 @@ ils/su_r_73_default;73
 ils/su_r_73_default/f15mfd;73
 ils/su_r_73_default/typhoon;73
 ils/su_r_73_default/typhoon/short;73
+ils/atam_mistral_a129/typhoon;MIS
+ils/atam_mistral_a129/typhoon/short;MIS
+ils/su_pl5b_default/typhoon/short;PL5
+ils/su_pl5e2/typhoon/short;PL5
 ils/su_r_73e;73E
 ils/su_r_73e_default;73E
+ils/fr_250kg_aasm_250_hammer_ir;AASM
+ils/spike_er/typhoon;SPIKE
+ils/spike_er/typhoon/short;SPIKE
+ils/il_spice_250/typhoon/short;SPICE
 ils/su_r_77;77
 ils/su_r_77_default;77
 ils/su_r_77_1;77-1
@@ -2227,6 +2245,8 @@ ils/su_r_77_1_default;77-1
 ils/su_r_77_1_default/typhoon/short;77-1
 ils/su_rvv_ae_default;RVVAE
 ils/su_rvv_ae;RVVAE
+ils/su_rvv_sd;RVVSD
+ils/su_rvv_sd_default;RVVSD
 ils/su_r_27t;27Т
 ils/su_r_27t1;27Т1
 ils/su_r_27r;27Р
@@ -2265,6 +2285,7 @@ ils/su_s_25ld;С25ЛД
 ils/su_s_13of_rocket;С13
 ils/su_grom_1;ГРОМ
 ils/su_grom_2;ГРОМ
+ils/su_grom_e2;ГРОМ
 ils/su_ofab250sh;АБ
 ils/su_ofab250;АБ
 ils/su_kh_29t;29Т
@@ -2275,6 +2296,8 @@ ils/su_kh_59m;59М
 ils/su_kh_59me;59М
 ils/su_kh_38ml;38МЛ
 ils/su_kh_38mt;38МТ
+ils/su_kh_38mle;38МЛ
+ils/su_kh_38mte;38МТ
 ils/su_lmur;УР305
 ils/su_kh_25ml;25МЛ
 ils/su_kh_25_haslaserchannel;25
@@ -2283,15 +2306,20 @@ ils/su_kab_500kr_e;500Кр
 ils/su_kab_500kr_m;500Кр
 ils/su_kab_500l;500Л
 ils/su_kab_500lg;500ЛГ
+ils/su_kab_500lg_e;500ЛГ
 ils/su_kab_250lg;250ЛГ
+ils/su_kab_250lg_e;250ЛГ
 ils/us_500lb_gbu38_usaf;GBU38
 ils/us_500lb_gbu38_usnavy;GBU38
 ils/us_2000lb_gbu31_usaf;GBU31
 ils/us_2000lb_gbu31_usnavy;GBU31
 ils/cn_ls_6_250;LS-6-250
+ils/cn_ls_6_250_ir;LS-6-250(IR)
 ils/cn_ls_6_500;LS-6-500
 ils/cn_pl12;PL12
 ils/cn_pl12_default;PL12
+ils/cn_pl15;PL15
+ils/cn_pl15_default;PL15
 ils/cn_pl8b;PL8
 ils/cn_pl8b_default;PL8
 ils/su_su34_3000l_drop_tank;ПТБ
@@ -2301,9 +2329,12 @@ ils/su_kab_500s;500С
 ils/su_kab_1500kr;1500Кр
 ils/su_kab_1500l;1500Л
 ils/su_kab_1500lg;1500ЛГ
+ils/su_kab_1500lg_e;1500ЛГ
 ils/su_fab_1500m_54;1500М-54
 ils/su_upab_500b;500Б
+ils/su_upab_500b_e;500Б
 ils/su_upab_1500b;1500Б
+ils/su_upab_1500b_e;1500Б
 ils/su_fab_3000m_54;3000
 ils/su_umpk_3000;3000УМ
 ils/su_9M39/ils_28;ИГЛА
@@ -2338,11 +2369,14 @@ ils/us_aim9m_sidewinder/tornado;S
 ils/us_aim9m_sidewinder_default/tornado;S
 ils/us_aim9l_sidewinder_bol_pod/tornado;S
 ils/us_aim9m_sidewinder_bol_pod/tornado;S
+ils/us_aim9p4_sidewinder/tornado;S
 ils/us_1000lb_mk_83_ldgp/tornado;MK83
 ils/us_1000lb_mk_83_ldgp_default/tornado;MK83
 ils/us_250lb_mk_81_ldgp_snakeye/tornado;MK81SN
 ils/uk_skyflash_aim_7_dogfight/tornado;M
 ils/us_aim9l_i_1_sidewinder/tornado;S
+ils/uk_sea_eagle_wo_radar_designation/tornado;SE
+ils/us_2_75_in_ffar_mighty_mouse/tornado;FFAR
 ils/us_aim7f_sparrow/f_15e/1;7
 ils/us_aim7f_sparrow/f_15e/2;F
 ils/us_aim7m_sparrow_f_15/f_15e/1;7
@@ -2483,6 +2517,8 @@ ils/il_spice_2000/f_15e/1;SPICE
 ils/il_spice_2000/f_15e/2;
 ils/us_2_75_in_ffar_mighty_mouse/f_15e/1;FFAR
 ils/us_2_75_in_ffar_mighty_mouse/f_15e/2;
+ils/cn_pl8b/f_15e/1;PL
+ils/cn_pl8b/f_15e/2;8
 ils/swd_rb74_default;RB74
 ils/swd_rb74;RB74
 ils/swd_rb71_default;RB71
@@ -2585,6 +2621,8 @@ ils/us_2000lb_gbu_64_jdam_er/typhoon;GBU64
 ils/us_2000lb_gbu_64_jdam_er/typhoon/short;
 ils/gr_litening_iii_targeting_pod/typhoon;Litening III
 ils/gr_litening_iii_targeting_pod/typhoon/short;TGP
+ils/fr_talios_pod_targeting_pod/typhoon;Talios
+ils/fr_talios_pod_targeting_pod/typhoon/short;TGP
 ils/us_1000lb_mk_83_ldgp/typhoon;MK83
 ils/us_1000lb_mk_83_ldgp/typhoon/short;B
 ils/us_2000lb_mk_84_ldgp/typhoon;MK84
@@ -2606,6 +2644,12 @@ ils/us_aim9l_i_1_sidewinder_default/typhoon;SRAAM
 ils/us_2000lb_agm_130a_12/typhoon/short;130A
 ils/fr_mk18/typhoon;MK18
 ils/fr_mk18/typhoon/short;
+ils/cn_pl12_default/typhoon;PL12
+ils/cn_pl12_default/typhoon/short;PL12
+ils/cn_pl12/typhoon;PL12
+ils/cn_pl12/typhoon/short;PL12
+ils/cn_pl8b_default/typhoon;PL8
+ils/cn_pl8b_default/typhoon/short;PL8
 ils/fr_mica_em/rafale;EM
 ils/fr_mica_em_default/rafale;EM
 ils/fr_r_550_magic_2/rafale;MAG
@@ -2625,6 +2669,7 @@ ils/cn_k_adc03a_targeting_pod;K/ADC03A
 ils/il_spice_2000;SPICE
 ils/il_spice_250;SPICE
 ils/il_spice_1000;SPICE
+ils/uk_brimstone_dm;BS
 ils_mi35/su_9M120;9M120
 ils_mi35/su_9M114;9М114
 ils_mi35/su_9M114_default;9М114
@@ -2662,6 +2707,26 @@ ils/us_blu27b/targo;BLU
 ils/us_agm_65d/targo;AGM65D
 ils/us_agm_65g/targo;AGM65G
 ils/us_agm_119a_penguin/targo;AGM119
+ils/cn_pl8b_default/targo;PL8
+ils/cn_pl8b/targo;PL8
+ils/cn_pl12_default/targo;PL12
+ils/cn_pl12/targo;PL12
+ils/cn_type90_heat/targo;90-1
+ils/cn_type130_ap/targo;130-2
+ils/cn_gp_250_3/targo;250-3
+ils/cn_gp_500_3/targo;500-3
+ils/cn_gp_250_4/targo;250-4
+ils/cn_gp_500_4/targo;500-4
+ils/cn_ts_250/targo;GB250
+ils/cn_ls_500j/targo;GB500
+ils/cn_ls_1000j/targo;GB1000
+ils/cn_ls_6_250/targo;LS6
+ils/cn_ls_6_250_ir/targo;LS6(IR)
+ils/cn_ls_6_500/targo;LS6
+ils/cn_lgb_gb250_mod_laser/targo;GB3
+ils/us_2000lb_gbu_64_jdam_er;GBU64
+ils/us_500lb_gbu_62_jdam_er;GBU62
+ils/us_gbu_39;GBU39
 fire_in_tank;On fire!
 HUD/CHOICE_OF_VEHICLE;Choose a vehicle to control
 fcs/over;OVER
@@ -2834,7 +2899,7 @@ tankSight/deletePresetTooltip;Delete selected preset
 tankSight/bulletName;Name
 tankSight/bulletType;Type
 tankSight/bulletTypeElem;Projectile type
-CLIPPED_LANG_KEEP_IT_ALWAYS_FIRST;
+indicator/armorPlate;Armor
 HUD/TXT_FUSE_MODE_DISABLED;Default fuze mode
 HUD/TXT_FUSE_MODE_CONTACT;Impact fuze
 HUD/TXT_FUSE_MODE_RADIO;Radio fuze
@@ -2851,6 +2916,11 @@ mfd/f_18_wpn/us_250lb_mk_81_ldgp;81B
 mfd/f_18_wpn/us_330gal_fa_18_drop_tank_fuse;FUEL
 mfd/f_18_wpn/us_330gal_fa_18_drop_tank_wing_right;FP
 mfd/f_18_wpn/us_330gal_fa_18_drop_tank_wing_left;FP
+mfd/f_18_wpn/us_480gal_fa_18e_drop_tank_centr;FUEL
+mfd/f_18_wpn/us_480gal_fa_18e_drop_tank_wing_left_1;FP
+mfd/f_18_wpn/us_480gal_fa_18e_drop_tank_wing_left_2;FP
+mfd/f_18_wpn/us_480gal_fa_18e_drop_tank_wing_right_2;FP
+mfd/f_18_wpn/us_480gal_fa_18e_drop_tank_wing_right_1;FP
 mfd/f_18_wpn/us_500lb_gbu38_usnavy;J-82
 mfd/f_18_wpn/us_500lb_mk_82_ldgp_air;82YT
 mfd/f_18_wpn/us_500lb_mk_82_ldgp_snakeye;82XT
@@ -2904,6 +2974,7 @@ mfd/f_18_wpn/us_aim7f_sparrow_fa_18;7F
 mfd/f_18_wpn/us_apkws_m282;AGR20B
 mfd/f_18_wpn/us_apkws_m151;AGR20A
 mfd/f_18_wpn/uk_CRV7_m247;HYD
+mfd/f_18_wpn/an_asq_228_pod;ATFLIR
 mfd/f_2a_wpn/jp_aam3/full;A-AM3
 mfd/f_2a_wpn/jp_aam3/short;A3
 mfd/f_2a_wpn/jp_aam3_default/full;A-AM3
@@ -2964,11 +3035,15 @@ mfd/su_30sm_wpn/su_fab_500m_62t;500М
 mfd/su_30sm_wpn/su_fab250_270;250
 mfd/su_30sm_wpn/su_fab500sh;500Ш
 mfd/su_30sm_wpn/su_grom_2;ГР-2
+mfd/su_30sm_wpn/su_grom_e2;ГР-2
 mfd/su_30sm_wpn/su_kab_1500kr;1500КР
 mfd/su_30sm_wpn/su_kab_1500lg;1500ЛГ
+mfd/su_30sm_wpn/su_kab_1500lg_e;1500ЛГ
 mfd/su_30sm_wpn/su_kab_250lg;250ЛГ
+mfd/su_30sm_wpn/su_kab_250lg_e;250ЛГ
 mfd/su_30sm_wpn/su_kab_500kr_m;500КР
 mfd/su_30sm_wpn/su_kab_500lg;500ЛГ
+mfd/su_30sm_wpn/su_kab_500lg_e;500ЛГ
 mfd/su_30sm_wpn/su_kh_25ml;25МЛ
 mfd/su_30sm_wpn/su_kh_29l;29Л
 mfd/su_30sm_wpn/su_kh_29td;29ТД
@@ -2976,14 +3051,20 @@ mfd/su_30sm_wpn/su_kh_59m;59М
 mfd/su_30sm_wpn/su_kh_59me;59М
 mfd/su_30sm_wpn/su_kh_38ml;38МЛ
 mfd/su_30sm_wpn/su_kh_38mt;38МТ
+mfd/su_30sm_wpn/su_kh_38mle;38МЛ
+mfd/su_30sm_wpn/su_kh_38mte;38МТ
 mfd/su_30sm_wpn/su_ofab100_120;100
 mfd/su_30sm_wpn/su_ofab250sh;250Ш
 mfd/su_30sm_wpn/su_r_27er;27ЭР
+mfd/su_30sm_wpn/su_r_27er1;27ЭР
 mfd/su_30sm_wpn/su_r_27et;27ЭТ
+mfd/su_30sm_wpn/su_r_27et1;27ЭТ
 mfd/su_30sm_wpn/su_r_27r;27Р
 mfd/su_30sm_wpn/su_r_27t;27Т
 mfd/su_30sm_wpn/su_r_73;73
 mfd/su_30sm_wpn/su_r_77_1;77-1
+mfd/su_30sm_wpn/su_rvv_sd;RVVSD
+mfd/su_30sm_wpn/su_rvv_sd_default;RVVSD
 mfd/su_30sm_wpn/su_r_77;77
 mfd/su_30sm_wpn/su_s_13of_rocket;13ОФ
 mfd/su_30sm_wpn/su_s_25ld;25ЛД
@@ -2994,9 +3075,12 @@ mfd/su_30sm_wpn/su_s_8ko_rocket;8КО
 mfd/su_30sm_wpn/su_t_220_targeting_pod;200Т
 mfd/su_30sm_wpn/su_upab_1500b;1500Б
 mfd/su_30sm_wpn/su_upab_500b;500Б
+mfd/su_30sm_wpn/su_upab_1500b_e;1500Б
+mfd/su_30sm_wpn/su_upab_500b_e;500Б
 mfd/su_30sm_wpn/su_zb_500;ЗБ500
 mfd/su_30sm_wpn/su_r_73e;73
 mfd/su_30sm_wpn/su_rvv_ae;РВВ
+mfd/su_30sm_wpn/us_gbu_12_paveway_2;GBU12
 hud/sead/defend_text;Protect SAM sites:
 hud/sead/attack_text;Neutralize SAM sites:
 hud/oil_refinery_strbomb/defend_text;Protect oil refinery buildings:
@@ -3011,6 +3095,7 @@ hud/AAComplexMenu/type;Type
 hud/AAComplexMenu/IFF/header;IFF
 hud/AAComplexMenu/IFF/enemy;Enemy
 hud/AAComplexMenu/IFF/ally;Ally
+hud/AAComplexMenu/IFF/all;All
 hud/AAComplexMenu/courseDist;P
 hud/AAComplexMenu/courseDistUnknown;-
 hud/AAComplexMenu/azimuth/tooltip;Azimuth. The angle between the north direction and the target direction, from 0 to 360 degrees.
@@ -3020,6 +3105,7 @@ hud/AAComplexMenu/speed/tooltip;Speed. Radial velocity of the target is the spee
 hud/AAComplexMenu/courseDist/tooltip;The target course parameter. The shortest horizontal distance (km) from the radar to the target course line. Allows you to estimate how close the target course is to the radar at the moment.
 hud/AAComplexMenu/type/tooltip;Type. Display of the target type by parameters: size, engine type, aircraft type.
 hud/AAComplexMenu/IFF/tooltip;IFF. Displays whether the target belongs to friendly or enemy forces.
+hud/AAComplexMenu/AllowOutOfRangeTargers;Out of range
 hud/actionBar/AirRadarGuiControlMode;Radar control mode
 
 icon/hud_msg_mp_dmg/bullet;▥ ;

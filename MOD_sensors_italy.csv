@@ -3,6 +3,7 @@ sensors/it_3st_7_250;3ST7-250;
 sensors/it_ec3_ter_gufo_radar;EC-3 ter Gufo;
 sensors/it_elt_156;ELT/156;
 sensors/it_mln_1a;MLN-1A;
+sensors/it_mm_sps_702;MM/SPS-702
 sensors/it_ralm-101;RALM-101;
 sensors/it_rtn_10x;RTN-10X;
 sensors/it_rtn_150;RTN-150;

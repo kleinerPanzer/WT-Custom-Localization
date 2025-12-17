@@ -31,3 +31,23 @@ sw_leopard_1a5no_0;◢ Stridsvogn, Helbelte, Leopard 1 A5 NO
 sw_leopard_1a5no_1;◢ Leopard 1 A5
 sw_leopard_1a5no_2;Leopard 1
 cargo_ship_norbris;Norbris
+
+
+sw_nasams_launcher_shop;Scania 113H (NASAMS MML)
+sw_nasams_launcher_0;Scania 113H (NASAMS Multi-Missile Launcher)
+sw_nasams_launcher_1;Scania 113H (NASAMS MML)
+sw_nasams_launcher_2;Scania 113
+sw_nasams_fcs_shop;300GD (AN/MPQ-64)
+sw_nasams_fcs_0;300GD (Radar Set, AN/MPQ-64 Sentinel)
+sw_nasams_fcs_1;300GD (AN/MPQ-64)
+sw_nasams_fcs_2;300GD
+us_nasams_launcher_shop;Scania 113H (NASAMS MML)
+us_nasams_launcher_0;Scania 113H (NASAMS Multi-Missile Launcher)
+us_nasams_launcher_1;Scania 113H (NASAMS MML)
+us_nasams_launcher_2;Scania 113
+us_nasams_fcs_shop;M1097A2 (AN/MPQ-64)
+us_nasams_fcs_0;Truck, Utility: Heavy Variant, 4x4, M1097A2 (Trailer, Chassis, 3/4-Ton, 2-Wheel, M116A1 (Radar Set, AN/MPQ-64 Sentinel))
+us_nasams_fcs_1;M1097A2 (AN/MPQ-64)
+us_nasams_fcs_2;M1097
+shop/group/us_nasams_fcs_group;NASAMS III
+shop/group/sw_nasams_fcs_group;NASAMS III

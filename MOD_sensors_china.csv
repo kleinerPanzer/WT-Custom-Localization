@@ -4,6 +4,7 @@
 sensors/cn_jl_10a;JL-10A雷达;
 sensors/cn_jl_7a;JL-7A雷达;
 sensors/cn_klj_7;KLJ-7A雷达;
+sensors/cn_klj_10a;KLJ-10A雷达;
 
 sensors/cn_type_1473;1473型(K/LKK73)雷达;
 sensors/cn_type_1492;1492型(K/LKK92)雷达;
@@ -31,6 +32,8 @@ sensors/cn_z10_fcr;Search Radar;
 
 // PLAGF Ground Systems //
 sensors/cn_clc_1_search;CLC1低空监视雷达;
+
+sensors/cn_hq_11_search;Search Radar;
 
 sensors/cn_hq_17_search;Search Radar
 sensors/cn_hq_17_track;Tracking Radar

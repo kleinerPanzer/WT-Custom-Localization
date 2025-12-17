@@ -576,6 +576,11 @@ us_xm_8_0;105 mm Armored Gun System, XM8
 us_xm_8_1;XM8
 us_xm_8_2;XM8
 
+us_m10_booker_late_shop;M10
+us_m10_booker_late_0;Combat Vehicle, Tracked, Light Armored, M10 Booker
+us_m10_booker_late_1;M10
+us_m10_booker_late_2;M10
+
 // OTHER //
 us_xm_975_roland_shop;M975 (AN/GSG-11)
 us_xm_975_roland_0;Carrier, Air Defense Missle System, M975 with AN/GSG-11(V)2

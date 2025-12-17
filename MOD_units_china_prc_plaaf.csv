@@ -1,25 +1,25 @@
 <ID|readonly|noverify>;<NewLanguage>
 
 // SOVIET // 
-shop/group/mig-9_china_group;␗ 米格9 / ␗ И-307 «ФФ»
-shop/group/mig-15_china_group;␗ 米格15比斯 / ␗ 米格17
+shop/group/mig-9_china_group;米格9 / ␗ И-307 «ФФ»
+shop/group/mig-15_china_group;米格15比斯 / 米格17
 
-la-9_china_shop;␗ 拉9
-la-9_china_0;␗ 拉9型飞机
-la-9_china_1;␗ 拉9
+la-9_china_shop;拉9
+la-9_china_0;拉9型飞机
+la-9_china_1;拉9
 la-9_china_2;拉9
-la-11_china_shop;␗ 拉11
-la-11_china_0;␗ 拉11型飞机
-la-11_china_1;␗ 拉11
+la-11_china_shop;拉11
+la-11_china_0;拉11型飞机
+la-11_china_1;拉11
 la-11_china_2;拉11
 
-il-10_1946_china_shop;␗ 伊尔10
-il-10_1946_china_0;␗ 伊尔10型飞机
-il-10_1946_china_1;␗ 伊尔10
+il-10_1946_china_shop;伊尔10
+il-10_1946_china_0;伊尔10型飞机
+il-10_1946_china_1;伊尔10
 il-10_1946_china_2;伊尔10
-il_28_china_shop;␗ 伊尔28
-il_28_china_0;␗ 伊尔28型飞机
-il_28_china_1;␗ 伊尔28
+il_28_china_shop;伊尔28
+il_28_china_0;伊尔28型飞机
+il_28_china_1;伊尔28
 il_28_china_2;伊尔28
 
 tu-2_postwar_china_shop;␗ 杜2
@@ -31,22 +31,27 @@ tu_4_china_0;杜4型飞机
 tu_4_china_1;杜4
 tu_4_china_2;杜4
 
-mig-9_china_shop;␗ 米格9
-mig-9_china_0;␗ 米格9型飞机
-mig-9_china_1;␗ 米格9
+mig-9_china_shop;米格9
+mig-9_china_0;米格9型飞机
+mig-9_china_1;米格9
 mig-9_china_2;米格9
-mig-15bis_ns23_china_shop;␗ 米格15
-mig-15bis_ns23_china_0;␗ 米格15型飞机
-mig-15bis_ns23_china_1;␗ 米格15
+mig-15bis_ns23_china_shop;米格15
+mig-15bis_ns23_china_0;米格15型飞机
+mig-15bis_ns23_china_1;米格15
 mig-15bis_ns23_china_2;米格15
-mig-15bis_nr23_china_shop;␗ 米格15比斯
-mig-15bis_nr23_china_0;␗ 米格15比斯型飞机
-mig-15bis_nr23_china_1;␗ 米格15比斯
+mig-15bis_nr23_china_shop;米格15比斯
+mig-15bis_nr23_china_0;米格15比斯型飞机
+mig-15bis_nr23_china_1;米格15比斯
 mig-15bis_nr23_china_2;米格15
-mig-17_china_shop;␗ 米格17
-mig-17_china_0;␗ 米格17型飞机
-mig-17_china_1;␗ 米格17
+mig-17_china_shop;米格17
+mig-17_china_0;米格17型飞机
+mig-17_china_1;米格17
 mig-17_china_2;米格17
+
+su_30mkk_shop;␗ Su-30MKK
+su_30mkk_0;␗ Su-30MKK型飞机
+su_30mkk_1;␗ Su-30MKK
+su_30mkk_2;Su-30
 
 // CHINESE //
 shop/group/mig-19_china_group;J6A / J7B
@@ -114,6 +119,10 @@ j_10a_shop;J10A
 j_10a_0;J10A型飞机
 j_10a_1;J10A
 j_10a_2;J10
+j_10c_shop;J10C
+j_10c_0;J10C型飞机
+j_10c_1;J10C
+j_10c_2;J10
 
 q_5_early_shop;Q5
 q_5_early_0;Q5型飞机

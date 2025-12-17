@@ -15,6 +15,8 @@ sensors/uk_ari_5390;ARI 5390;
 sensors/uk_ari_5820;ARI 5820;
 sensors/uk_ari_5857;ARI 5857;
 sensors/uk_asdic;ASDIC
+sensors/uk_captor_ecrs_1_pirate;CAPTOR-E ECRS Mk. 1
+sensors/uk_captor_ecrs_2_pirate;CAPTOR-E ECRS Mk. 2
 sensors/uk_captor_m;CAPTOR-M
 sensors/uk_captor_m_pirate;CAPTOR-M / PIRATE
 sensors/uk_ferranti_blue_fox;Blue Fox;

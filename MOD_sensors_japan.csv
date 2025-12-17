@@ -7,6 +7,7 @@ sensors/jp_j_apr_3;レーダー警戒装置J/APR-3;
 sensors/jp_j_apr_4;レーダー警戒装置J/APR-4;
 sensors/jp_j_apr_6;レーダー警戒装置J/APR-6;
 sensors/jp_j_asq_2;用統合電子戦装置J/ASQ-2;
+sensors/jp_type_03_search;Search Radar;
 sensors/jp_ops_1_radar;OPS-1;
 sensors/jp_ops_14_radar;OPS-14;
 sensors/jp_ops_16_radar;OPS-16;

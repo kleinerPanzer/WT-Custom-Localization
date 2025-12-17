@@ -258,6 +258,38 @@ uk_a1e1_independent_shop;Independent
 uk_a1e1_independent_0;Tank, Heavy, A.1 E1, Independent
 uk_a1e1_independent_1;Independent
 uk_a1e1_independent_2;Independent
+uk_a30_challenger_shop;Challenger Mk. I
+uk_a30_challenger_0;Tank, Cruiser, Mk. VIII, A.30, Challenger Mk. I (Machine No. 41-100)
+uk_a30_challenger_1;Challenger Mk. I
+uk_a30_challenger_2;Challenger
+uk_a30_sp_avenger_shop;Avenger
+uk_a30_sp_avenger_0;17-pr, S.P.2, A.30, Avenger
+uk_a30_sp_avenger_1;Avenger
+uk_a30_sp_avenger_2;Avenger
+uk_a30_sp_avenger_kit_3rank_shop;Avenger
+uk_a30_sp_avenger_kit_3rank_0;17-pr, S.P.2, A.30, Avenger
+uk_a30_sp_avenger_kit_3rank_1;Avenger
+uk_a30_sp_avenger_kit_3rank_2;Avenger
+uk_a39_tortoise_shop;Tortoise
+uk_a39_tortoise_0;Tank, Heavy Assault, A.39, Tortoise
+uk_a39_tortoise_1;Tortoise
+uk_a39_tortoise_2;Tortoise
+uk_fv4004_conway_shop;Conway
+uk_fv4004_conway_0;FV4004 Tank, Heavy Gun, Conway
+uk_fv4004_conway_1;Conway
+uk_fv4004_conway_2;Conway
+uk_fv721_fox_shop;Fox
+uk_fv721_fox_0;FV721 Combat Vehicle, Reconnaissance, Wheeled, 30-mm Gun, Fox
+uk_fv721_fox_1;Fox
+uk_fv721_fox_2;Fox
+uk_fv107_scimitar_shop;Scimitar
+uk_fv107_scimitar_0;FV107 Combat Vehicle, Reconnaissance, Full-Tracked, Scimitar (1994)
+uk_fv107_scimitar_1;Scimitar
+uk_fv107_scimitar_2;Scimitar
+uk_fv438_swingfire_shop;FV438
+uk_fv438_swingfire_0;FV438 Launcher, Guided Missile, Carrier Mounted, Full Tracked
+uk_fv438_swingfire_1;FV438
+uk_fv438_swingfire_2;FV438
 uk_armored_car_aec_mk_2_shop;A.E.C. A.C. Mk. II
 uk_armored_car_aec_mk_2_0;Car, Armoured, A.E.C., Mk. II
 uk_armored_car_aec_mk_2_1;A.E.C. A.C. Mk. II
@@ -377,3 +409,7 @@ uk_sky_sabre_fcs_shop;SV 15t (Giraffe AMB)
 uk_sky_sabre_fcs_0;Support Vehicle, Cargo, Heavy (Medium Mobility), 15 Tonne, 8x8, Euro 4 MAN (Saab Giraffe Agile Multi Beam)
 uk_sky_sabre_fcs_1;SV 15t (Giraffe AMB)
 uk_sky_sabre_fcs_2;SV 15t
+uk_ajax_shop;Ajax
+uk_ajax_0;Combat Vehicle, Reconnaissance, Full Tracked, Ajax (Capability Drop 3)
+uk_ajax_1;Ajax
+uk_ajax_2;Ajax

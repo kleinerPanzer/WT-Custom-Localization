@@ -1,6 +1,7 @@
 <ID|readonly|noverify>;<NewLanguage>
 sensors/sw_app_f9_5;App F9/5;
 sensors/sw_asrad_search;HARD 3D;
+sensors/sw_es_05;RAVEN ES-05
 sensors/sw_giraffe_1x;Giraffe 1X;
 sensors/sw_giraffe_amb;Giraffe AMB
 sensors/sw_ps_05a;PS-05A;
