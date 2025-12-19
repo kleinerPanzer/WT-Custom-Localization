@@ -1,0 +1,266 @@
+<ID|readonly|noverify>;<NewLanguage>
+ak_12_shop;АК-12
+ak_12_0;5,45-мм автомат Калашникова АК-12 (6П70)
+ak_12_1;АК-12
+ak_12_2;АК-12
+ak_15_shop;АК-15
+ak_15_0;5,45-мм автомат Калашникова АК-15 (6П71)
+ak_15_1;АК-15
+ak_15_2;АК-15
+ak_74m_shop;АК-74М
+ak_74m_0;5,45-мм автомат Калашникова обр. 1974 г. модернизированный (6П34)
+ak_74m_1;АК-74М
+ak_74m_2;АК-74
+akm_47_shop;АКМ
+akm_47_0;7,62-мм автомат Калашникова модернизированный (6П1)
+akm_47_1;АКМ
+akm_47_2;АК
+aksu_74_shop;АКС-74У
+aksu_74_0;5,45-мм автомат Калашникова складной обр. 1974 г. укороченный (6П26)
+aksu_74_1;АКС-74У
+aksu_74_2;АК-74
+asm_val_shop;АСМ
+asm_val_0;9-мм автомат специальный модернизированный (6П30М)
+asm_val_1;АСМ
+asm_val_2;АСМ
+colt_9_mm_smg_shop;9mm SMG
+colt_9_mm_smg_0;9mm Submachine Gun
+colt_9_mm_smg_1;9mm SMG
+colt_9_mm_smg_2;9mm SMG
+kord_6p68_shop;6П68
+kord_6p68_0;7,62-мм автомат 6П68
+kord_6p68_1;6П68
+kord_6p68_2;6П68
+m110a1_sdmr_shop;M110A1
+m110a1_sdmr_0;Rifle, Sniper, 7.62mm, M110A1
+m110a1_sdmr_1;M110A1
+m110a1_sdmr_2;M110
+m16a1_shop;M16A1
+m16a1_0;Rifle, 5.56-mm, M16A1
+m16a1_1;M16A1
+m16a1_2;M16
+m16a4_shop;M16A4
+m16a4_0;Rifle, 5.56-mm, M16A4
+m16a4_1;M16A4
+m16a4_2;M16
+m249_para_shop;M249 Para
+m249_para_0;Machine Gun, 5.56-mm, M249 Para
+m249_para_1;M249 Para
+m249_para_2;M249
+m4a1_shop;M4A1
+m4a1_0;Carbine, 5.56-mm, M4A1
+m4a1_1;M4A1
+m4a1_2;M4
+mac_11_shop;MAC-11
+mac_11_0;MAC-11 9mm Submachine Gun
+mac_11_1;MAC-11
+mac_11_2;MAC-11
+mcmillan_tac_50_shop;TAC-50
+mcmillan_tac_50_0;TAC-50
+mcmillan_tac_50_1;TAC-50
+mcmillan_tac_50_2;TAC-50
+mk_14_ebr_shop;Mk 14 Mod 0
+mk_14_ebr_0;Rifle, 7.62-mm, Mk 14 Mod 0
+mk_14_ebr_1;Mk 14 Mod 0
+mk_14_ebr_2;Mk 14
+mk_48_shop;Mk 48 Mod 0
+mk_48_0;Machine Gun, 7.62-mm, Mk 48 Mod 0
+mk_48_1;Mk 48 Mod 0
+mk_48_2;Mk 48
+pp_19_bizon_shop;ПП-19
+pp_19_bizon_0;9-мм пистолет-пулемёт ПП-19
+pp_19_bizon_1;ПП-19
+pp_19_bizon_2;ПП-19
+pp_19_vityaz_shop;ПП-19-01
+pp_19_vityaz_0;9-мм пистолет-пулемёт ПП-19-01
+pp_19_vityaz_1;ПП-19-01
+pp_19_vityaz_2;ПП-19
+pp_2000_shop;ПП-2000
+pp_2000_0;9-мм пистолет-пулемёт ПП-2000
+pp_2000_1;ПП-2000
+pp_2000_2;ПП-2000
+rpk_16_shop;РПК-16
+rpk_16_0;5,45-мм ручной пулемёт Калашникова обр. 2016 г.
+rpk_16_1;РПК-16
+rpk_16_2;РПК-16
+rpk_74m_shop;РПК-74М
+rpk_74m_0;5,45-мм ручной пулемёт Калашникова обр. 1974 г. модернизированный (6П39)
+rpk_74m_1;РПК-74М
+rpk_74m_2;РПК-74
+sig_xm250_shop;XM250
+sig_xm250_0;Machine Gun, 6.8-mm, XM250
+sig_xm250_1;XM250
+sig_xm250_2;M250
+sig_xm5_shop;XM5
+sig_xm5_0;Rifle, 6.8-mm, XM5
+sig_xm5_1;XM5
+sig_xm5_2;M5
+svd_shop;СВД
+svd_0;7,62-мм снайперская винтовка Драгунова (6В1)
+svd_1;СВД
+svd_2;СВД
+svd_m_shop;СВДМ
+svd_m_0;7,62-мм снайперская винтовка Драгунова модернизированный (6В11)
+svd_m_1;СВДМ
+svd_m_2;СВД
+vssm_vintorez_shop;ВССМ
+vssm_vintorez_0;9-мм винтовка снайперская специальная модернизированный (6П29М)
+vssm_vintorez_1;ВССМ
+vssm_vintorez_2;ВСС
+uav_inf_fpv_strike_drone_shop;Strike UAV type "FPV"
+uav_inf_fpv_strike_drone_0;Strike UAV type "FPV"
+uav_inf_fpv_strike_drone_1;Strike UAV type "FPV"
+uav_inf_fpv_strike_drone_2;FPV
+uav_inf_strike_drone_shop;Strike UAV type "Wing"
+uav_inf_strike_drone_0;Strike UAV type "Wing"
+uav_inf_strike_drone_1;Strike UAV type "Wing"
+uav_inf_strike_drone_2;WING
+uav_inf_recon_drone_shop;Reconnaissance UAV
+uav_inf_recon_drone_0;Reconnaissance UAV
+uav_inf_recon_drone_1;Reconnaissance UAV
+uav_inf_recon_drone_2;Scout
+weapons/infantry_empty;Empty
+weapons/ammo_box;Ammo box
+ammo_box;Ammo box
+weapons/ammo_box/desc;Allows all allies to refill ammo in battle. Ammo is limited.
+weapons/explosives_box_item;Explosives box
+explosives_box_item;Explosives box
+weapons/explosives_box_item/desc;Allows all allies to refill explosives in battle. Refills are limited.
+weapons/frag_grenade;Frag grenade
+frag_grenade;Frag grenade
+weapons/frag_grenade/desc;An explosive munition designed to destroy infantry.
+weapons/ks_p;18,5 КС-П
+ks_p;18,5 КС-П
+weapons/ks_p/desc;A shotgun is effective against drones. It is not recommended to use it against armored infantry.
+weapons/m136_at4;M136 (AT4)
+m136_at4;M136 (AT4)
+weapons/m136_at4/desc;A hand-held anti-tank rocket launcher for destroying armoured vehicles.
+weapons/medic_box;Medkits Box
+medic_box;Medkits Box
+weapons/medic_box/desc;Allows all allies to refill medkits in battle. Refills are limited.
+weapons/mossberg_590;M590
+mossberg_590;M590
+weapons/mossberg_590/desc;A shotgun is effective against drones. It is not recommended to use it against armored infantry.
+weapons/mpads_igla;ПУ 9П39
+mpads_igla;ПУ 9П39
+weapons/mpads_igla/desc;Man-portable air-defense systems for destroying low-flying air targets.
+weapons/mpads_stinger;FIM-92A
+mpads_stinger;FIM-92A
+weapons/mpads_stinger/desc;Man-portable air-defense systems for destroying low-flying air targets.
+weapons/pkp_pecheneg;ПКП
+pkp_pecheneg;ПКП
+weapons/pkp_pecheneg/desc;A general purpose machine gun for destroying infantry. It is recommended to use it after installing it on bipods.
+weapons/pslr_1_default;PSRL-1
+pslr_1_default;PSRL-1
+weapons/pslr_1_default/desc;A hand-held anti-tank grenade launcher for destroying armoured vehicles.
+weapons/reapr;REAPR
+reapr;REAPR
+weapons/reapr/desc;A machine gun for destroying infantry. It is recommended to use it after installing it on bipods.
+weapons/rpg_7;РПГ-7
+rpg_7;РПГ-7
+weapons/rpg_7/desc;A hand-held anti-tank rocket launcher for destroying armoured vehicles.
+weapons/rpg_7_default;РПГ-7
+rpg_7_default;РПГ-7
+weapons/rpg_7_default/desc;A hand-held anti-tank rocket launcher for destroying armoured vehicles.
+weapons/smoke_grenade;Smoke grenade
+smoke_grenade;Smoke grenade
+weapons/smoke_grenade/desc;A pyrotechnic device designed to create smoke zones for camouflage purposes.
+weapons/stun_grenade;Stun grenade
+stun_grenade;Stun grenade
+weapons/stun_grenade/desc;A non-lethal weapon designed to provide light and sound effects on an enemy to temporarily incapacitate them.
+weapons/usa_fpv_drone;FPV drone
+usa_fpv_drone;FPV drone
+weapons/usa_fpv_drone/desc;A quadcopter with an attached ammo from a hand-held anti-tank rocket launcher. Use against ground vehicles.
+weapons/usa_kamikaze_drone;Loitering munition
+usa_kamikaze_drone;Loitering munition
+weapons/usa_kamikaze_drone/desc;An unmanned aerial vehicle with a warhead. Use against ground vehicles.
+weapons/usa_recon_drone;Reconnaissance drone
+usa_recon_drone;Reconnaissance drone
+weapons/usa_recon_drone/desc;A quadcopter with software for automatic enemy recognition.
+weapons/ussr_fpv_drone;FPV drone
+ussr_fpv_drone;FPV drone
+weapons/ussr_fpv_drone/desc;A quadcopter with an attached ammo from a hand-held anti-tank rocket launcher. Use against ground vehicles.
+weapons/ussr_kamikaze_drone;Loitering munition
+ussr_kamikaze_drone;Loitering munition
+weapons/ussr_kamikaze_drone/desc;An unmanned aerial vehicle with a warhead. Use against ground vehicles.
+weapons/ussr_recon_drone;Reconnaissance drone
+ussr_recon_drone;Reconnaissance drone
+weapons/ussr_recon_drone/desc;A quadcopter with software for automatic enemy recognition.
+45acp_ball;Ball
+45acp_hp;Hollow point
+12_7mm_sn;СН гл
+12_7mm_b32;Б-32 гл
+12_7mm_bs41;БС-41 гл
+12_7mm_m20;API, MN20
+14_5mm_bs41;БС-41 гл
+7_62mm_m2_ball;Ball, M2
+7_62mm_ap;AP, M2
+7_62mm_tracer;Tracer, M2
+4_6mm_ap_sx;AP SX
+5_45mm_7n24_ap;БС гс
+5_45mm_7n39_ap;ППБС гс
+5_45mm_7n6_gp;ПС гс
+5_45mm_7n6m_ep;ПС гс
+5_45mm_7n10_ep;ПП гс
+5_45mm_7n22_ep;БП гс
+5_45mm_7t3_tracer;Т гс
+5_56mm_m995_ap;AP, M995
+5_56mm_m193_ball;Ball, M193
+5_56mm_m196_tracer;Tracer, M196
+5_56mm_m855_ep;Ball, M855
+5_56mm_m855a1_ep;Ball, M855A1
+5_56mm_m856_tracer;Tracer, M856
+5_8mm_dbp_87_gp;DBP87
+6_8mm_m1186_gp;GP, M1186
+6_8mm_m1184_ap;SP, M1184
+6_8mm_m1187_t;Tracer, M1187
+7_62mm_tt;П гж
+7_62mm_57n134s;Пст гж
+7_62mm_bz_ap;БЗ гж обр. 1943 г.
+7_62mm_m1943_gp;обр. 1943 г.
+7_62mm_57n231_gp;ПС гж обр. 1943 г.
+7_62mm_57n231_ep;ПС гж обр. 1943 г.
+7_62mm_7n23_ap;БП гж обр. 1943 г.
+7_62mm_57t231_tracer;Т-45 гж обр. 1943 г.
+7_62mm_m993_ap;AP, M993
+7_62mm_m118_ball;Ball, M118
+7_62mm_m80_ball;Ball, M80
+7_62mm_m59_ball;Ball, M59
+7_62mm_m61_ap;AP, M61
+7_62mm_m62_tracer;Tracer, M62
+7_62mm_57n223s_gp;ЛПС гж
+7_62mm_57n223s_st_m2_ep;ЛПС гж
+7_62mm_57n223_gp;Л гж
+7_62mm_57b222;БЗТ гл
+7_62mm_57bz322;Б-32 гл
+7_62mm_57bzt322;БЗТ гл
+7_62mm_bs_40;БС-40 гж
+7_62mm_7n1;СнПС гж сн
+7_62mm_7n13_ap;ПП гж
+7_62mm_7n14_ap;СНБ гж сн
+7_62mm_7n26_ap;БП гж
+7_62mm_7n37_hc;БС гж
+7_62mm_7bt1_tracer;ВТ гж
+7_62mm_7t2_tracer;Т-46 гж
+7_62mm_t_30;Т-30 гл
+7_62mm_t_46;Т-46 гл
+9mm_57n181_ball;П гл
+9mm_7n15_ap;БЖТ гж
+9mm_ppe_hp;ППэ гж
+9mm_7n31_ap;ПБП гж
+9mm_7n21_ap;Пст гж
+9mm_m882_fmj;Ball, M882
+9mm_m1152_fmj;Ball, M1152
+9mm_m1153_jhp;JHP, M1153
+9mm_ppatr08;Pistolenpatrone 08 SE
+9mm_sp10_ap;ПС гж
+9mm_sp11_ball;П гж
+9mm_sp12_hp;ПЕ гж
+9mm_sp13_ap;БТ гж
+9mm_sp5_ball;СП5 гс
+9mm_sp6_ap;СП6 гс
+9mm_sp5_tracer;Т
+su_9M39;ЗУР 9М39
+rpg_2_rocket;ПГ-2
+93mm_pg_7vl;ПГ-7ВЛ
+84mm_at4;HEAT, M136

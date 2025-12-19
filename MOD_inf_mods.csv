@@ -1,0 +1,149 @@
+<ID|readonly|noverify>;<NewLanguage>
+
+modification/scope_aimpoint_pro_red_dot;Red dot
+modification/scope_aimpoint_pro_red_dot/desc;Installs a red dot sight on the main weapon.
+modification/scope_trijicon_rmr_red_dot;Micro Red dot
+modification/scope_trijicon_rmr_red_dot/desc;Installs a red dot sight on the main weapon.
+modification/scope_vzor_red_dot;Red dot
+modification/scope_vzor_red_dot/desc;Installs a red dot sight on the main weapon.
+modification/scope_aimpoint_acro_p2_red_dot;Red dot
+modification/scope_aimpoint_acro_p2_red_dot/desc;Installs a red dot sight on the main weapon.
+modification/scope_m68_cco;Red dot
+modification/scope_m68_cco/desc;Installs a red dot sight on the main weapon.
+modification/scope_1p63;Red dot
+modification/scope_1p63/desc;Installs a red dot sight on the main weapon.
+modification/scope_ekp_8_18_cobra;Red dot
+modification/scope_ekp_8_18_cobra/desc;Installs a red dot sight on the main weapon.
+modification/scope_exps3;Holo sight
+modification/scope_exps3/desc;Installs a holographic sight on the main weapon.
+modification/scope_1p87;Holo sight
+modification/scope_1p87/desc;Installs a holographic sight on the main weapon.
+modification/scope_scp_t4iecdq;Scope 4x
+modification/scope_scp_t4iecdq/desc;Installs an optical sight on the main weapon.
+modification/scope_pso1_ak_4x;Scope 4x
+modification/scope_pso1_ak_4x/desc;Installs an optical sight on the main weapon.
+modification/scope_acog_ta31;Scope 4x
+modification/scope_acog_ta31/desc;Installs an optical sight on the main weapon.
+modification/scope_vortex_lpvo;LPVO
+modification/scope_vortex_lpvo/desc;Installs low-power variable optics on the main weapon.
+modification/scope_sig_tango6_x6;LPVO
+modification/scope_sig_tango6_x6/desc;Installs low-power variable optics on the main weapon.
+modification/scope_an_pas;Thermal
+modification/scope_an_pas/desc;Installs a thermal imaging sight on the main weapon.
+modification/scope_scotopia_s350f;Thermal
+modification/scope_scotopia_s350f/desc;Installs a thermal imaging sight on the main weapon.
+modification/scope_shakhin;Thermal
+modification/scope_shakhin/desc;Installs a thermal imaging sight on the main weapon.
+modification/tactical_flashlight;Flashlight
+modification/tactical_flashlight/desc;Installs a tactical flashlight on the main weapon.
+modification/tactical_laser_us;Laser
+modification/tactical_laser_us/desc;Installs a tactical laser pointer on the main weapon.
+modification/tactical_laser_ussr;Laser
+modification/tactical_laser_ussr/desc;Installs a tactical laser pointer on the main weapon.
+modification/tactical_block_us;Advanced target pointer
+modification/tactical_block_us/desc;Installs an advanced target pointer on the main weapon.
+modification/tactical_block_ussr;Advanced target pointer
+modification/tactical_block_ussr/desc;Installs an advanced target pointer on the main weapon.
+modification/muzzle_223cb_compensator;Muzzle brake
+modification/muzzle_223cb_compensator/desc;Installs a muzzle brake on the main weapon.
+modification/muzzle_m11_sd_compensator;Muzzle brake
+modification/muzzle_m11_sd_compensator/desc;Installs a muzzle brake on the main weapon.
+modification/muzzle_vector_vr_13_compensator;Muzzle brake
+modification/muzzle_vector_vr_13_compensator/desc;Installs a muzzle brake on the main weapon.
+modification/muzzle_zenith_dtk_3_compensator;Muzzle brake
+modification/muzzle_zenith_dtk_3_compensator/desc;Installs a muzzle brake on the main weapon.
+modification/muzzle_socom556_suppressor;Suppressor
+modification/muzzle_socom556_suppressor/desc;Installs a suppressor on the main weapon.
+modification/muzzle_xm5_suppressor;Suppressor
+modification/muzzle_xm5_suppressor/desc;Installs a suppressor on the main weapon.
+modification/muzzle_m110a1_suppressor;Suppressor
+modification/muzzle_m110a1_suppressor/desc;Installs a suppressor on the main weapon.
+modification/muzzle_gls_mac_supressor;Suppressor
+modification/muzzle_gls_mac_supressor/desc;Installs a muzzle brake on the main weapon.
+modification/muzzle_hexagon_suppressor;Suppressor
+modification/muzzle_hexagon_suppressor/desc;Installs a suppressor on the main weapon.
+modification/muzzle_rotor43_svdm_suppressor;Suppressor
+modification/muzzle_rotor43_svdm_suppressor/desc;Installs a suppressor on the main weapon.
+modification/muzzle_pp_19_suppressor;Suppressor
+modification/muzzle_pp_19_suppressor/desc;Installs a suppressor on the main weapon.
+modification/grip_vertical_tangodown;Vertical front grip
+modification/grip_vertical_tangodown/desc;Installs a vertical front grip on the main weapon.
+modification/grip_vertical_utg_5_position;Vertical front grip
+modification/grip_vertical_utg_5_position/desc;Installs a vertical front grip on the main weapon.
+modification/grip_vertical_rk2;Vertical front grip
+modification/grip_vertical_rk2/desc;Installs a vertical front grip on the main weapon.
+modification/grip_vertical_utg_qd;Vertical front grip
+modification/grip_vertical_utg_qd/desc;Installs a vertical front grip on the main weapon.
+modification/grip_vertical_molot;Vertical front grip
+modification/grip_vertical_molot/desc;Installs a vertical front grip on the main weapon.
+modification/grip_angled_magpul;Angled front grip
+modification/grip_angled_magpul/desc;Installs an angled front grip on the main weapon.
+modification/grenade_launcher_m320;M320
+modification/grenade_launcher_m320/desc;Installs a grenade launcher on the main weapon.
+modification/grenade_launcher_gp_34;ГП-34
+modification/grenade_launcher_gp_34/desc;Installs a grenade launcher on the main weapon.
+modification/5_56mm_tracer_ammo_belt;Tracers
+modification/5_56mm_tracer_ammo_belt/desc;Loads magazines with additional tracer cartridges.
+modification/5_56mm_ap_ammo_belt;Armor-piercing
+modification/5_56mm_ap_ammo_belt/desc;Loads magazines with additional armor-piercing cartridges.
+modification/magazine_magpul_pmag_30_round;Magazine 30
+modification/magazine_magpul_pmag_30_round/desc;Installs a light plastic magazine with 30-round capacity on the main weapon.
+modification/magazine_magpul_pmag_40_round;Magazine 40
+modification/magazine_magpul_pmag_40_round/desc;Installs a light plastic magazine with 40-round capacity on the main weapon.
+modification/magazine_magpul_pmag_60_round;Magazine 60
+modification/magazine_magpul_pmag_60_round/desc;Installs a light plastic magazine with 60-round capacity on the main weapon.
+modification/shotgun_mossberg_590;M590
+modification/shotgun_mossberg_590/desc;Allows you to additionally arm one of the soldiers in your squad with a shotgun.
+modification/shotgun_ks_p;18,5 КС-П
+modification/shotgun_ks_p/desc;Allows you to additionally arm one of the soldiers in your squad with a shotgun.
+modification/machinegun_m240;M240B
+modification/machinegun_m240/desc;Allows you to additionally arm one of the soldiers in your squad with a general purpose machine gun.
+modification/machinegun_reapr;REAPR
+modification/machinegun_reapr/desc;Allows you to additionally arm one of the soldiers in your squad with a general purpose machine gun.
+modification/machinegun_pkp_pecheneg;ПКП
+modification/machinegun_pkp_pecheneg/desc;Allows you to additionally arm one of the soldiers in your squad with a general purpose machine gun.
+modification/at_laucher_rpg_7;РПГ-7
+modification/at_laucher_rpg_7/desc;Allows you to additionally arm one of the soldiers in your squad with an anti-tank grenade launcher.
+modification/at_laucher_at_4;M136 (AT4)
+modification/at_laucher_at_4/desc;Allows you to additionally arm one of the soldiers in your squad with an anti-tank grenade launcher.
+modification/mpads_igla;ПУ 9П39
+modification/mpads_igla/desc;Allows you to additionally arm one of the soldiers in your squad with a man-portable air-defence system.
+modification/mpads_stinger;FIM-92A
+modification/mpads_stinger/desc;Allows you to additionally arm one of the soldiers in your squad with a man-portable air-defence system.
+modification/strike_drone;Loitering munition
+modification/strike_drone/desc;Allows you to additionally arm one of the soldiers in your squad with a kamikaze drone.
+modification/fpv_drone;FPV drone
+modification/fpv_drone/desc;Allows you to additionally arm one of the soldiers in your squad with a FPV drone.
+modification/stun_grenade;Stun grenade
+modification/stun_grenade/desc;Allows you to equip soldiers in your squad with stun grenades.
+modification/smoke_grenade;Smoke grenade
+modification/smoke_grenade/desc;Allows you to equip soldiers in your squad with smoke grenades.
+modification/explosive_charge;Explosive charge
+modification/explosive_charge/desc;Allows you to equip soldiers in your squad with remote detonation charges.
+modification/sidearms_pistol_mp_443;МП-443
+modification/sidearms_pistol_mp_443/desc;Adds pistols to the soldiers' equipment.
+modification/sidearms_pistol_beretta_m9;M9
+modification/sidearms_pistol_beretta_m9/desc;Adds pistols to the soldiers' equipment.
+modification/human_medkit;Extra medkit
+modification/human_medkit/desc;Increases the number of individual first aid kits for each soldier in the squad.
+modification/bulletproof_vest_empty;No armor
+modification/bulletproof_vest_default;Default armor
+modification/bulletproof_vest_default/desc;
+modification/bulletproof_vest_light;Light armor
+modification/bulletproof_vest_light_ghillie;Ghillie suit
+modification/bulletproof_vest_medium;Medium armor
+modification/bulletproof_vest_heavy;Heavy armor
+modification/category/equipment_grenade;Grenades
+modification/category/equipment_special;Special
+modification/category/equipment_common;Equipment
+modification/item__weight;{value} to weight
+modification/gun__adsSpeedMult;{value} to aiming speed
+modification/gun__recoilAmount;{value} to recoil impulse
+modification/gun__recoilDirAmount;{value} to recoil predictability
+modification/gun__recoilControlMult;{value} to recoil control
+modification/weap__sprintLerpFactor;{value} to speed up running
+infantry/squad/member;Soldier
+infantry/squad/member_inactive_advice;train your crew
+infantry/squad/member_inactive;Inactive
+infantry/squad/members;Soldiers
+weapons/infantry_empty;Empty
