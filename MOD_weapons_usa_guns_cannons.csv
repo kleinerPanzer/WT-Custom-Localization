@@ -1,8 +1,8 @@
 <ID|readonly|noverify>;<NewLanguage>
 weapons/cannonT15E1;Gun, 75-mm, T15E1;
-weapons/gunBrowning30_usaaf;Machine Gun, Caliber .50: AN/M2, Aircraft, Basic;
-weapons/gunBrowning30_usaaf_1935;Machine Gun, Caliber .50: AN/M2, Aircraft, Basic;
-weapons/gunBrowning30_turret;Machine Gun, Caliber .50: AN/M2, Aircraft, Basic;
+weapons/gunBrowning30_usaaf;Machine Gun, Caliber .30: AN/M2, Aircraft, Basic;
+weapons/gunBrowning30_usaaf_1935;Machine Gun, Caliber .30: AN/M2, Aircraft, Basic;
+weapons/gunBrowning30_turret;Machine Gun, Caliber .30: AN/M2, Aircraft, Basic;
 weapons/gunBrowning50_M3;Machine Gun, Caliber .50: AN/M3, Aircraft, Basic;
 weapons/gunBrowning50_M3_underwing;Machine Gun, Caliber .50: AN/M3, Aircraft, Basic;
 weapons/gunBrowning50_early;Machine Gun, Caliber .50: AN/M2, Aircraft, Basic;
