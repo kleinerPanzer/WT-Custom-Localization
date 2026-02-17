@@ -1,37 +1,38 @@
 <ID|readonly|noverify>;<NewLanguage>
 shop/group/fr_samp_t_fcs_group;Mamba SAMP/T
-shop/group/fr_mars_hot_group;MARS 15 (TS 90) / AMX 13 (HOT)
+shop/group/fr_mars_hot_group;MARS 15 (TS 90) / AMX 13t (HOT)
 shop/group/fr_amx_sk_group;AMX 10 RC / ⚜ Jpz. Kürassier A2
 shop/group/fr_lorraine_bat_group;Char 40t / Char 25t
-shop/group/fr_amx_30_group;AMX 30 B2 / AMX 30 B2 Brennus
+shop/group/fr_amx_30_group;AMX 30 B2 / AMX 30 B2 Brenus
 shop/group/fr_leclerc_group;Leclerc S1 T3 / Leclerc S2 T9
 shop/group/fr_b1_2c_group;B1 bis / 2C
 shop/group/fr_arl_jumbo_group;ARL 44 / ⚜ M4A3E2 (75) W
-shop/group/fr_aml_amx_group;AML 90 / AMX 13-90 mle 52
+shop/group/fr_aml_amx_group;AML 90 / AMX 13t–90
 shop/group/fr_auf_acra_group;Auto-canon de 120 / AMX 10 M
 shop/group/fr_amx_32_group;AMX 32 P1 / AMX 32 P2
 shop/group/fr_lorraine_elc_group;CA 100 / ELC bis
 shop/group/fr_hotchkiss_fcm_group;AMC 34 (APX 1) / H 35 / FCM 36
-us_amx_13_75_shop;▃ AMX 13-75 mle 51
-us_amx_13_75_0;▃ Char de 13t-75 modèle 51
-us_amx_13_75_1;▃ AMX 13-75
-us_amx_13_75_2;AMX 13
-us_amx_13_90_shop;▃ AMX 13-90 mle 52
-us_amx_13_90_0;▃ Char de 13t-90 modèle 52
-us_amx_13_90_1;▃ AMX 13-90
-us_amx_13_90_2;AMX 13
-uk_saint_chamond_event_shop;Saint Chamond
-uk_saint_chamond_event_0;Char d'assaut Saint Chamond mle 1917
-uk_saint_chamond_event_1;Saint Chamond
-uk_saint_chamond_event_2;Saint Chamond
-fr_saint_chamond_shop;Saint Chamond
-fr_saint_chamond_0;Char d'assaut Saint Chamond mle 1917
-fr_saint_chamond_1;Saint Chamond
-fr_saint_chamond_2;Saint Chamond
-uk_saint_chamond_shop;Saint Chamond
-uk_saint_chamond_0;Char d'assaut Saint Chamond mle 1917
-uk_saint_chamond_1;Saint Chamond
-uk_saint_chamond_2;Saint Chamond
+shop/group/fr_foch_acra_group;Auto-canon de 120 / AMX 10 M
+us_amx_13_75_shop;▃ AMX 13t–75 mle 51
+us_amx_13_75_0;▃ Char AMX de 13t–75 modèle 51 (châssis type 2D et tourelle F.L. 10 type D)
+us_amx_13_75_1;▃ AMX 13t–75 mle 51
+us_amx_13_75_2;AMX 13t
+us_amx_13_90_shop;▃ AMX 13t–90
+us_amx_13_90_0;▃ Char AMX de 13t–90 (châssis type 1R 2R)
+us_amx_13_90_1;▃ AMX 13t–90
+us_amx_13_90_2;AMX 13t
+uk_saint_chamond_event_shop;St Chamond mle 1918
+uk_saint_chamond_event_0;Char d'assaut Saint Chamond modèle 1918
+uk_saint_chamond_event_1;St Chamond mle 1918
+uk_saint_chamond_event_2;St Chamond
+fr_saint_chamond_shop;St Chamond mle 1918
+fr_saint_chamond_0;Char d'assaut Saint Chamond modèle 1918
+fr_saint_chamond_1;St Chamond mle 1918
+fr_saint_chamond_2;St Chamond
+uk_saint_chamond_shop;St Chamond mle 1918
+uk_saint_chamond_0;Char d'assaut Saint Chamond modèle 1918
+uk_saint_chamond_1;St Chamond mle 1918
+uk_saint_chamond_2;St Chamond
 fr_m4a3_105_sherman_shop;⚜ M4A3 (105) HVSS
 fr_m4a3_105_sherman_0;⚜ Char moyen M4A3 (105) HVSS
 fr_m4a3_105_sherman_1;⚜ M4A3 (105)
@@ -52,9 +53,9 @@ fr_tpk_641_vpc_shop;TPK 6.41 VPC
 fr_tpk_641_vpc_0;TPK 6.41 Véhicule protection de convoi
 fr_tpk_641_vpc_1;TPK 6.41 VPC
 fr_tpk_641_vpc_2;TPK 6.41
-fr_amx_10p_shop;AMX 10P
-fr_amx_10p_0;Véhicule de combat d'infanterie AMX 10P
-fr_amx_10p_1;AMX 10P
+fr_amx_10p_shop;AMX 10 P
+fr_amx_10p_0;Engin blindé léger version personnel AMX 10 P
+fr_amx_10p_1;AMX 10 P
 fr_amx_10p_2;AMX 10
 fr_vextra_105_shop;Vextra (TML 105)
 fr_vextra_105_0;Vextra (TML 105)
@@ -69,76 +70,76 @@ fr_m4a1_sherman_0;⚜ Char moyen M4A1 (75) (Août 1942) (PSC)
 fr_m4a1_sherman_1;⚜ M4A1 (75)
 fr_m4a1_sherman_2;M4
 fr_crusader_mk_2_shop;⚜ Crusader Mk. II
-fr_crusader_mk_2_0;⚜ Char léger Crusader Mk. II
+fr_crusader_mk_2_0;⚜ Char Crusader Mk. II
 fr_crusader_mk_2_1;⚜ Crusader Mk. II
 fr_crusader_mk_2_2;Crusader
-fr_m4a1_sherman_fl_10_shop;⚜ M4A1 (FL-10)
-fr_m4a1_sherman_fl_10_0;⚜ Char moyen M4A1 (PSC) de 75 v 1000° (tourelle FL-10)
-fr_m4a1_sherman_fl_10_1;⚜ M4A1 (FL-10)
+fr_m4a1_sherman_fl_10_shop;⚜ M4A1 (FL 10)
+fr_m4a1_sherman_fl_10_0;⚜ Char moyen M4A1 (PSC) (tourelle FL 10 type D)
+fr_m4a1_sherman_fl_10_1;⚜ M4A1 (FL 10)
 fr_m4a1_sherman_fl_10_2;M4
 fr_fcm_36_shop;FCM 36
 fr_fcm_36_0;Char léger modèle 1936 FCM
 fr_fcm_36_1;FCM 36
 fr_fcm_36_2;FCM 36
 fr_vbci_shop;VBCI VCI
-fr_vbci_0;Véhicule blindé de combat d'infanterie, Version véhicule de combat de l'infanterie
+fr_vbci_0;Véhicule blindé de combat d'infanterie version véhicule de combat de l'infanterie
 fr_vbci_1;VBCI VCI
 fr_vbci_2;VBCI
-fr_lvt_bofors_shop;⚜ LVT(4) (Bofors)
-fr_lvt_bofors_0;⚜ LVT(4) avec canon de 40 Bofors
-fr_lvt_bofors_1;⚜ LVT(4) (Bofors)
+fr_lvt_bofors_shop;⚜ LVT(4) (M1)
+fr_lvt_bofors_0;⚜ Véhicule de débarquement à chenilles Mk. 4 LVT(4) (canon automatique de 40 mm M1)
+fr_lvt_bofors_1;⚜ LVT(4) (M1)
 fr_lvt_bofors_2;LVT
-fr_panhard_ebr_1951_shop;EBR 75 mle 51
-fr_panhard_ebr_1951_0;Engin blindé de reconnaissance modèle 1951
-fr_panhard_ebr_1951_1;EBR 75
+fr_panhard_ebr_1951_shop;EBR 75 type 55-11
+fr_panhard_ebr_1951_0;Engin blindé de reconnaissance EBR 75 modèle 1951 type 1955-11
+fr_panhard_ebr_1951_1;EBR 75 type 55-11
 fr_panhard_ebr_1951_2;EBR
-fr_panhard_ebr_1963_shop;EBR 90 mle 63
-fr_panhard_ebr_1963_0;Engin blindé de reconnaissance modèle 1963
-fr_panhard_ebr_1963_1;EBR 90
+fr_panhard_ebr_1963_shop;EBR 90 F1
+fr_panhard_ebr_1963_0;Engin blindé de reconnaissance EBR 90 modèle F1
+fr_panhard_ebr_1963_1;EBR 90 F1
 fr_panhard_ebr_1963_2;EBR
-fr_panhard_ebr_1954_shop;EBR 75 mle 54
-fr_panhard_ebr_1954_0;Engin blindé de reconnaissance modèle 1954
-fr_panhard_ebr_1954_1;EBR 75
+fr_panhard_ebr_1954_shop;EBR 75 type 55-10
+fr_panhard_ebr_1954_0;Engin blindé de reconnaissance E.B.R. 75 modèle 1954-10 (tourelle FL 10 type D)
+fr_panhard_ebr_1954_1;EBR 75 type 55-10
 fr_panhard_ebr_1954_2;EBR
-fr_amx_10rc_shop;AMX 10RC
-fr_amx_10rc_0;Engin blindé de reconnaissance-feu AMX 10RC
-fr_amx_10rc_1;AMX 10RC
+fr_amx_10rc_shop;AMX 10 RC
+fr_amx_10rc_0;Engin blindé léger version roues-canon AMX 10 RC (1988)
+fr_amx_10rc_1;AMX 10 RC
 fr_amx_10rc_2;AMX 10
-fr_vab_santal_shop;VDAA SANTAL
-fr_vab_santal_0;Véhicule de défense anti-aérienne, Systeme anti-aerien autonome leger
-fr_vab_santal_1;VDAA SANTAL
-fr_vab_santal_2;VDAA SANTAL
-fr_vcac_mephisto_shop;VCAC MEPHISTO
-fr_vcac_mephisto_0;Véhicule de combat anti-char, Module élévateur panoramique HOT installé sur tourelle orientable
-fr_vcac_mephisto_1;VCAC MEPHISTO
-fr_vcac_mephisto_2;VCAC MEPHISTO
+fr_vab_santal_shop;VAB VDAA SANTAL
+fr_vab_santal_0;VAB VDAA SANTAL
+fr_vab_santal_1;VAB VDAA SANTAL
+fr_vab_santal_2;VAB
+fr_vcac_mephisto_shop;VAB HOT MEPHISTO
+fr_vcac_mephisto_0;Véhicule de l'avant blindé HOT MEPHISTO sur châssis 4 x 4
+fr_vcac_mephisto_1;VAB HOT MEPHISTO
+fr_vcac_mephisto_2;VAB
 fr_mars_15_shop;MARS 15 (TS 90)
-fr_mars_15_0;MARS 15 avec tourelle TS 90
+fr_mars_15_0;MARS 15 (TS 90)
 fr_mars_15_1;MARS 15 (TS 90)
 fr_mars_15_2;MARS 15
-fr_amx_30_auf_1_shop;CN 155 Au F1
-fr_amx_30_auf_1_0;Canon de 155 mm automoteur modèle F1
+fr_amx_30_auf_1_shop;CN 155 Au F1 H
+fr_amx_30_auf_1_0;Canon de 155 mm automoteur modèle F1 H
 fr_amx_30_auf_1_1;CN 155 Au F1
 fr_amx_30_auf_1_2;CN 155
-fr_amx_10m_acra_shop;AMX 10M
-fr_amx_10m_acra_0;Anti-char rapide autopropulsé AMX 10M
-fr_amx_10m_acra_1;AMX 10M
+fr_amx_10m_acra_shop;AMX 10 M
+fr_amx_10m_acra_0;Engin blindé léger version missile AMX 10 M
+fr_amx_10m_acra_1;AMX 10 M
 fr_amx_10m_acra_2;AMX 10
-fr_amx_30_ACRA_shop;AMX 30 (ACRA)
-fr_amx_30_ACRA_0;Char moyen de combat AMX 30 (arme Anti-char rapide autopropulsé, montée sur tourelle prototype T 142)
-fr_amx_30_ACRA_1;AMX 30 (ACRA)
+fr_amx_30_ACRA_shop;AMX 30 (T 142)
+fr_amx_30_ACRA_0;Char moyen de combat AMX 30 (tourelle prototype T 142)
+fr_amx_30_ACRA_1;AMX 30 (T 142)
 fr_amx_30_ACRA_2;AMX 30
 fr_amx_30_super_shop;Super AMX 30
-fr_amx_30_super_0;Char moyen de combat Super AMX 30
+fr_amx_30_super_0;Super AMX 30
 fr_amx_30_super_1;Super AMX 30
 fr_amx_30_super_2;AMX 30
-fr_amx_30_roland_shop;AMX 30 Roland
-fr_amx_30_roland_0;Engin principal de antiaérien AMX 30 Roland
-fr_amx_30_roland_1;AMX 30 Roland
+fr_amx_30_roland_shop;AMX 30 Roland I
+fr_amx_30_roland_0;Système d'arme Roland I monté sur châssis AMX 30
+fr_amx_30_roland_1;AMX 30 Roland I
 fr_amx_30_roland_2;AMX 30
-fr_leclerc_azur_shop;Leclerc S2 T9 AZUR P1
-fr_leclerc_azur_0;Char Leclerc série 2 tranche 9 Action en Zone Urbaine Prototype 1
-fr_leclerc_azur_1;Leclerc S2 AZUR
+fr_leclerc_azur_shop;Leclerc S2 T9 (AZUR P1)
+fr_leclerc_azur_0;Char Leclerc série 2 tranche 9 (Action en Zone URbaine prototype 1)
+fr_leclerc_azur_1;Leclerc S2 (AZUR)
 fr_leclerc_azur_2;Leclerc
 fr_leclerc_sxxi_shop;Leclerc S21 T11
 fr_leclerc_sxxi_0;Char Leclerc série 21 tranche 11
@@ -148,120 +149,120 @@ fr_leclerc_s2_shop;Leclerc S2 T9
 fr_leclerc_s2_0;Char Leclerc série 2 tranche 9
 fr_leclerc_s2_1;Leclerc S2
 fr_leclerc_s2_2;Leclerc
-fr_leclerc_s1_shop;Leclerc S1 RT5
-fr_leclerc_s1_0;Char Leclerc série 1 reconversion tranche 5
+fr_leclerc_s1_shop;Leclerc S1 T3
+fr_leclerc_s1_0;Char Leclerc série 1 tranche 3
 fr_leclerc_s1_1;Leclerc S1
 fr_leclerc_s1_2;Leclerc
 fr_msc_shop;MSC
-fr_msc_0;Mulet Systéme Complet
+fr_msc_0;Mulet systéme complet
 fr_msc_1;MSC
 fr_msc_2;MSC
-fr_amx_30_shop;AMX 30A
-fr_amx_30_0;Char moyen de combat AMX 30A
-fr_amx_30_1;AMX 30A
+fr_amx_30_shop;AMX 30 (T 105-12)
+fr_amx_30_0;Char moyen de combat AMX 30 (tourelle T 105-12)
+fr_amx_30_1;AMX 30
 fr_amx_30_2;AMX 30
-fr_amx_30_1972_shop;AMX 30B
-fr_amx_30_1972_0;Char moyen de combat AMX 30B
-fr_amx_30_1972_1;AMX 30B
+fr_amx_30_1972_shop;AMX 30 (T 105-20)
+fr_amx_30_1972_0;Char moyen de combat AMX 30 (tourelle T 105-20)
+fr_amx_30_1972_1;AMX 30
 fr_amx_30_1972_2;AMX 30
-fr_amx_30_dca_shop;AMX 30S DCA
-fr_amx_30_dca_0;AMX 30S Défense contre avions
-fr_amx_30_dca_1;AMX 30S DCA
-fr_amx_30_dca_2;AMX 30 DCA
-fr_amx_13_dca_40_shop;AMX 13 DCA 40
-fr_amx_13_dca_40_0;Char de 13t défense contre avions avec canon de 40
-fr_amx_13_dca_40_1;AMX 13 DCA 40
-fr_amx_13_dca_40_2;AMX 13 DCA
-fr_amx_30_b2_shop;AMX 30B2
-fr_amx_30_b2_0;Char moyen de combat AMX 30B2
-fr_amx_30_b2_1;AMX 30B2
+fr_amx_30_dca_shop;AMX 30 SA (S 401 A)
+fr_amx_30_dca_0;AMX 30 SA bitube de 30 mm (prototype tourelle S 401 A)
+fr_amx_30_dca_1;AMX 30 SA (S 401 A)
+fr_amx_30_dca_2;AMX 30
+fr_amx_13_dca_40_shop;AMX 13t–DCA 40
+fr_amx_13_dca_40_0;Char AMX de 13t–DCA 40 Bofors
+fr_amx_13_dca_40_1;AMX 13t–DCA 40
+fr_amx_13_dca_40_2;AMX 13t
+fr_amx_30_b2_shop;AMX 30 B2
+fr_amx_30_b2_0;Char moyen de combat AMX 30 B2
+fr_amx_30_b2_1;AMX 30 B2
 fr_amx_30_b2_2;AMX 30
-fr_amx_30_b2_brenus_shop;AMX 30B2 Brennus
-fr_amx_30_b2_brenus_0;Char moyen de combat AMX 30B2 Brennus
-fr_amx_30_b2_brenus_1;AMX 30B2 Brennus
+fr_amx_30_b2_brenus_shop;AMX 30 B2 Brenus
+fr_amx_30_b2_brenus_0;Char moyen de combat AMX 30 B2 Brenus (1996)
+fr_amx_30_b2_brenus_1;AMX 30 B2 Brenus
 fr_amx_30_b2_brenus_2;AMX 30
 fr_amx_50_1950_shop;Char 50t (TO 90/930)
-fr_amx_50_1950_0;Char de 50 tonnes AMX avec TO 90/930
+fr_amx_50_1950_0;Char moyen de 50 tonnes AMX (tourelle oscillant de 90/v° 930)
 fr_amx_50_1950_1;Char 50t (TO 90/930)
 fr_amx_50_1950_2;Char 50t
-fr_somua_sm_shop;SOMUA SM
-fr_somua_sm_0;Char lourd SOMUA SM
-fr_somua_sm_1;SOMUA SM
-fr_somua_sm_2;SOMUA SM
+fr_somua_sm_shop;SM
+fr_somua_sm_0;SM
+fr_somua_sm_1;SM
+fr_somua_sm_2;SM
 fr_amx_50_shop;Char 50t (TOA 100)
-fr_amx_50_0;Char de 50 tonnes AMX avec TOA 100
+fr_amx_50_0;Char moyen de 50 tonnes AMX (tourelle oscillante allégée de 100)
 fr_amx_50_1;Char 50t (TOA 100)
 fr_amx_50_2;Char 50t
-fr_amx_m4_shop;Char M4
-fr_amx_m4_0;Char M4
-fr_amx_m4_1;Char M4
-fr_amx_m4_2;Char M4
-fr_amx_50_surblinde_shop;Char moyen surblindé
-fr_amx_50_surblinde_0;Char moyen surblindé
-fr_amx_50_surblinde_1;Char moyen surblindé
-fr_amx_50_surblinde_2;Char moyen
-fr_amx_50_surbaisse_shop;Char moyen surbaissé
-fr_amx_50_surbaisse_0;Char moyen surbaissé
-fr_amx_50_surbaisse_1;Char moyen surbaissé
-fr_amx_50_surbaisse_2;Char moyen
+fr_amx_m4_shop;Char 50t (TO 90)
+fr_amx_m4_0;Char moyen de 50 tonnes AMX (prototype I) (tourelle oscillante de 90)
+fr_amx_m4_1;Char 50t (TO 90)
+fr_amx_m4_2;Char 50t
+fr_amx_50_surblinde_shop;Char 70t
+fr_amx_50_surblinde_0;Char de 70 tonnes AMX
+fr_amx_50_surblinde_1;Char 70t
+fr_amx_50_surblinde_2;Char 70t
+fr_amx_50_surbaisse_shop;Char 50t surbaissé
+fr_amx_50_surbaisse_0;Char moyen de 50 tonnes AMX surbaissé (tourelle oscillant basse de 120)
+fr_amx_50_surbaisse_1;Char 50t surbaissé
+fr_amx_50_surbaisse_2;Char 50t
 fr_amx_50_foch_shop;Auto-canon de 120
-fr_amx_50_foch_0;Auto-canon de 120
+fr_amx_50_foch_0;Auto-canon de 120 mm
 fr_amx_50_foch_1;Auto-canon de 120
 fr_amx_50_foch_2;Auto-canon de 120
-fr_pzkpfw_V_panther_dauphine_shop;«Panther» (EAC Besnier)
-fr_pzkpfw_V_panther_dauphine_0;Char «Panther» (l'Escadron autonome de chars Besnier)
-fr_pzkpfw_V_panther_dauphine_1;«Panther»
-fr_pzkpfw_V_panther_dauphine_2;«Panther»
-fr_lorraine_155_shop;CA 155 mle 50
-fr_lorraine_155_0;Canon automoteur Lorraine de 155 mm modèle 1950
-fr_lorraine_155_1;CA 155 mle 50
-fr_lorraine_155_2;CA 155
-fr_lorraine_100_shop;CA 100
-fr_lorraine_100_0;Canon d'assaut Lorraine de 100 mm
-fr_lorraine_100_1;CA 100
-fr_lorraine_100_2;CA 100
+fr_pzkpfw_V_panther_dauphine_shop;Panther (EAC Besnier)
+fr_pzkpfw_V_panther_dauphine_0;Char Panther (l'Escadron autonome de chars Besnier)
+fr_pzkpfw_V_panther_dauphine_1;Panther
+fr_pzkpfw_V_panther_dauphine_2;Panther
+fr_lorraine_155_shop;Automoteur №1
+fr_lorraine_155_0;Obusier automoteur de 155 mm Lorraine – Version 1 №1
+fr_lorraine_155_1;Automoteur №1
+fr_lorraine_155_2;Automoteur №1
+fr_lorraine_100_shop;Canon d'assaut de 100
+fr_lorraine_100_0;Canon d'assaut de 100 mm v° 1000
+fr_lorraine_100_1;Canon d'assaut de 100
+fr_lorraine_100_2;Canon d'assaut de 100
 fr_lorraine_40t_shop;Char 40t
-fr_lorraine_40t_0;Char de bataille Lorraine de 40 tonnes
+fr_lorraine_40t_0;Char de 40 tonnes Lorraine (tourelle oscillante allégée de 100)
 fr_lorraine_40t_1;Char 40t
 fr_lorraine_40t_2;Char 40t
-fr_citroen_kegresse_p4t_shop;P.7.T. AA
-fr_citroen_kegresse_p4t_0;P.7.T. avec mitrailleuse Hotchkiss de 13,2 mm modèle 1929
-fr_citroen_kegresse_p4t_1;P.7.T. AA
-fr_citroen_kegresse_p4t_2;P.7.T.
-fr_amx_vtt_dca_shop;AMX VCI (M45)
-fr_amx_vtt_dca_0;AMX véhicule de combat d'infanterie avec tourelle M45
-fr_amx_vtt_dca_1;AMX VCI (M45)
-fr_amx_vtt_dca_2;AMX VCI
+fr_citroen_kegresse_p4t_shop;P7T (CAQ mle 29 13,2)
+fr_citroen_kegresse_p4t_0;P7T (affût contre-avions quadruple modèle 1929 de 13,2 mm)
+fr_citroen_kegresse_p4t_1;P7T (CAQ mle 29 13,2)
+fr_citroen_kegresse_p4t_2;P7T
+fr_amx_vtt_dca_shop;VTT mle 56 (M45)
+fr_amx_vtt_dca_0;Vehicule transport de troupe chenille modèle 1956 (affût tourelle M45 à quatre mitrailleuses 12,7 mm)
+fr_amx_vtt_dca_1;VTT mle 56 (M45)
+fr_amx_vtt_dca_2;VTT
 fr_cckw_353_bofors_shop;⚜ CCKW-353 (M1)
-fr_cckw_353_bofors_0;⚜ Camion de 2,5 tonnes 6 x 6 GMC, CCKW-353 (Canon automatique de 40 mm M1)
+fr_cckw_353_bofors_0;⚜ Camion de 2,5 tonnes 6 x 6 GMC, CCKW-353 (canon automatique de 40 mm M1)
 fr_cckw_353_bofors_1;⚜ CCKW-353 (M1)
 fr_cckw_353_bofors_2;CCKW 353
 fr_somua_s35_shop;S 35
-fr_somua_s35_0;Char de cavalerie modèle 1935 S
+fr_somua_s35_0;Char moyen modèle 1935 S
 fr_somua_s35_1;S 35
 fr_somua_s35_2;S 35
 fr_hotchkiss_h35_shop;H 35
 fr_hotchkiss_h35_0;Char léger modèle 1935 H
 fr_hotchkiss_h35_1;H 35
 fr_hotchkiss_h35_2;H 35
-fr_hotchkiss_h39_cambronne_shop;H 35 modifié 39 (14ème Bat.Ch.Com.)
-fr_hotchkiss_h39_cambronne_0;Char léger modèle 193 H5 modifié 39 (14ème Bataillon de chars de combat)
-fr_hotchkiss_h39_cambronne_1;H 35 modifié 39
+fr_hotchkiss_h39_cambronne_shop;H 35 M 39 (14ème BCC)
+fr_hotchkiss_h39_cambronne_0;Char léger modèle 1935 H modifié 39 (14ème bataillon de chars de combat)
+fr_hotchkiss_h39_cambronne_1;H 35 M 39
 fr_hotchkiss_h39_cambronne_2;H 35
-fr_hotchkiss_h39_shop;H 35 modifié 39
+fr_hotchkiss_h39_shop;H 35 M 39
 fr_hotchkiss_h39_0;Char léger modèle 1935 H modifié 39
-fr_hotchkiss_h39_1;H 35 modifié 39
+fr_hotchkiss_h39_1;H 35 M 39
 fr_hotchkiss_h39_2;H 35
-fr_somua_sau40_shop;SAu 40
-fr_somua_sau40_0;Canon automoteur de 75 mm SOMUA modèle 1940
-fr_somua_sau40_1;SAu 40
-fr_somua_sau40_2;SAu 40
+fr_somua_sau40_shop;SA 40
+fr_somua_sau40_0;Canon de 75 mm automoteur SOMUA modèle 1940
+fr_somua_sau40_1;SA 40
+fr_somua_sau40_2;SA 40
 fr_m36b2_cefeo_shop;⚜ M36B2
-fr_m36b2_cefeo_0;⚜ Affût automteur M36B2 pour canon de 90 mm
+fr_m36b2_cefeo_0;⚜ Affût automoteur pour canon de 90 mm M36B2
 fr_m36b2_cefeo_1;⚜ M36B2
 fr_m36b2_cefeo_2;M36
 fr_m10_shop;⚜ M10
-fr_m10_0;⚜ Affût automteur M36B2 pour canon de 3 pouces
+fr_m10_0;⚜ Affût automoteur pour canon de 3 pouces (76,2 mm) M10
 fr_m10_1;⚜ M10
 fr_m10_2;M10
 fr_m4a3e2_sherman_jumbo_shop;⚜ M4A3E2 (75) W
@@ -269,107 +270,107 @@ fr_m4a3e2_sherman_jumbo_0;⚜ Char d'assaut M4A3E2 (75) W (Mai 1944) (Fisher)
 fr_m4a3e2_sherman_jumbo_1;⚜ M4A3E2 (75) W
 fr_m4a3e2_sherman_jumbo_2;M4
 fr_amd_35_shop;AMD 35
-fr_amd_35_0;Automitrailleuse de découverte modèle 1935 Panhard
+fr_amd_35_0;Automitrailleuse de découverte modèle 1935
 fr_amd_35_1;AMD 35
 fr_amd_35_2;AMD 35
 fr_amd_35_kwk39_shop;AMD 35 (5 cm Pa.K. 39)
-fr_amd_35_kwk39_0;Automitrailleuse de découverte modèle 1935 Panhard (5 cm-Panzerabwehrkanone 39 (L/60))
+fr_amd_35_kwk39_0;Automitrailleuse de découverte modèle 1935 (5 cm-Panzerabwehrkanone 39 (L/60))
 fr_amd_35_kwk39_1;AMD 35 (5 cm Pa.K. 39)
 fr_amd_35_kwk39_2;AMD 35
 fr_amc_34_shop;AMC 34 (APX 1)
-fr_amc_34_0;Automitrailleuse de combat modèle 1934 R avec tourelle APX 1
+fr_amc_34_0;Automitrailleuse de combat modèle 1934 (tourelle APX 1)
 fr_amc_34_1;AMC 34 (APX 1)
 fr_amc_34_2;AMC 34
 fr_arl_44_acl1_shop;ARL 44 (ACL 1)
-fr_arl_44_acl1_0;Char ARL 44 avec tourelle ACL 1
+fr_arl_44_acl1_0;Char de transition ARL 44 (tourelle ACL 1)
 fr_arl_44_acl1_1;ARL 44 (ACL 1)
 fr_arl_44_acl1_2;ARl 44
 fr_arl_44_shop;ARL 44
-fr_arl_44_0;Char ARL 44
+fr_arl_44_0;Chasseur de chars de 48 tonnes ARL 44
 fr_arl_44_1;ARL 44
 fr_arl_44_2;ARL 44
-fr_lorraine_37l_shop;CC Lorraine
-fr_lorraine_37l_0;Chasseur de chars Lorraine
-fr_lorraine_37l_1;CC Lorraine
-fr_lorraine_37l_2;CC Lorraine
+fr_lorraine_37l_shop;TRC 37 L (47 mle 1937)
+fr_lorraine_37l_0;Tracteur de ravitaillement pour chars modèle 1937 L (canon de 47 mm modèle 1937)
+fr_lorraine_37l_1;TRC 37 L (47 mle 1937)
+fr_lorraine_37l_2;TRC 37 L
 fr_amr_35_zt3_shop;AMR 35 ZT 3
-fr_amr_35_zt3_0;Automitrailleuse de reconnaissance modèle 1935 R type ZT 3
+fr_amr_35_zt3_0;Automitrailleuse de reconnaissance modèle 1935 type ZT 3
 fr_amr_35_zt3_1;AMR 35 ZT 3
 fr_amr_35_zt3_2;AMR 35
-fr_renault_r39_shop;R 35 modifié 39
-fr_renault_r39_0;Char léger d'Accompagnement 1935 R modifié 39
-fr_renault_r39_1;R 35 modifié 39
+fr_renault_r39_shop;R 35 (37 SA mle 1938)
+fr_renault_r39_0;Char léger modèle 1935 R (canon de 37 mm SA modèle 1938)
+fr_renault_r39_1;R 35 (37 SA mle 1938)
 fr_renault_r39_2;R 35
 fr_renault_d2_shop;D2
-fr_renault_d2_0;Char moyen D2
+fr_renault_d2_0;Char D2
 fr_renault_d2_1;D2
 fr_renault_d2_2;D2
-fr_m4a4_cn_75_50_shop;⚜ M4A4T (CN 75-50)
-fr_m4a4_cn_75_50_0;⚜ Char moyen M4A4 Transformé avec canon de 75 V ° 1000
-fr_m4a4_cn_75_50_1;⚜ M4A4T (CN 75-50)
+fr_m4a4_cn_75_50_shop;⚜ M4A4T (75 SA 50)
+fr_m4a4_cn_75_50_0;⚜ Char moyen M4A4T Sherman (canon de 75 mm SA modèle 50)
+fr_m4a4_cn_75_50_1;⚜ M4A4T (75 SA 50)
 fr_m4a4_cn_75_50_2;M4
 fr_amx_elc_bis_shop;ELC bis
-fr_amx_elc_bis_0;Engin léger de combat bis avec tourelle-casemate de 90
+fr_amx_elc_bis_0;Engin léger de combat ELC bis avec tourelle-casemate de 90
 fr_amx_elc_bis_1;ELC bis
 fr_amx_elc_bis_2;ELC
-fr_amx_13_chaffee_shop;AMX US
-fr_amx_13_chaffee_0;Char de 13t-75 modèle 1951 (tourelle M24) 1ère série
-fr_amx_13_chaffee_1;AMX US
-fr_amx_13_chaffee_2;AMX 13
-fr_amx_13_fl_11_shop;AMX 13-75 (FL-11)
-fr_amx_13_fl_11_0;Char de 13t-75 modèle 1951 (tourelle FL-11) 1ère série
-fr_amx_13_fl_11_1;AMX 13 (FL-11)
-fr_amx_13_fl_11_2;AMX 13
-fr_amx_13_90_shop;AMX 13-90 mle 52
-fr_amx_13_90_0;Char de 13t-90 modèle 1952
-fr_amx_13_90_1;AMX 13-90
-fr_amx_13_90_2;AMX 13
-fr_amx_13_75_shop;AMX 13-75 mle 51
-fr_amx_13_75_0;Char de 13t-75 modèle 1951
-fr_amx_13_75_1;AMX 13-75
-fr_amx_13_75_2;AMX 13
-fr_amx_13_75_ss11_shop;AMX 13-75 mle 51 (SS.11)
-fr_amx_13_75_ss11_0;Char de 13t-75 modèle 1951 avec missiles SS.11
-fr_amx_13_75_ss11_1;AMX 13-75 (SS.11)
-fr_amx_13_75_ss11_2;AMX 13
-fr_amx_13_hot_shop;AMX 13-75 mle 51 (HOT)
-fr_amx_13_hot_0;Char de 13t-75 modèle 1951 (HOT)
-fr_amx_13_hot_1;AMX 13-75 (HOT)
-fr_amx_13_hot_2;AMX 13
+fr_amx_13_chaffee_shop;AMX 13t–75 (M24)
+fr_amx_13_chaffee_0;Char à tourelle M24 sur châssis AMX de 13t–75 modèle 1951 (châssis type 1R)
+fr_amx_13_chaffee_1;AMX 13t–75 (M24)
+fr_amx_13_chaffee_2;AMX 13t
+fr_amx_13_fl_11_shop;AMX 13t–75 (FL 11)
+fr_amx_13_fl_11_0;Char AMX de 13t–75 (tourelle FL 11) (châssis type 2A)
+fr_amx_13_fl_11_1;AMX 13t–75 (FL 11)
+fr_amx_13_fl_11_2;AMX 13t
+fr_amx_13_90_shop;AMX 13t–90
+fr_amx_13_90_0;Char AMX de 13t–90 (châssis type 1R 2R)
+fr_amx_13_90_1;AMX 13t–90
+fr_amx_13_90_2;AMX 13t
+fr_amx_13_75_shop;AMX 13t–75 mle 51
+fr_amx_13_75_0;Char AMX de 13t–75 modèle 51 (châssis type 2D et tourelle F.L. 10 type D)
+fr_amx_13_75_1;AMX 13t–75 mle 51
+fr_amx_13_75_2;AMX 13t
+fr_amx_13_75_ss11_shop;AMX 13t–75 mle 51 (SS.11)
+fr_amx_13_75_ss11_0;Char AMX de 13t–75 modèle 51 (lance SS.11) (châssis type 2D et tourelle F.L. 10 type D)
+fr_amx_13_75_ss11_1;AMX 13t–75 mle 51 (SS.11)
+fr_amx_13_75_ss11_2;AMX 13t
+fr_amx_13_hot_shop;AMX 13t–75 mle 51 (HOT)
+fr_amx_13_hot_0;Char AMX de 13t–75 modèle 51 (lance HOT) (châssis type 1R et tourelle F.L. 10 type D)
+fr_amx_13_hot_1;AMX 13t–75 mle 51 (HOT)
+fr_amx_13_hot_2;AMX 13t
 fr_amc_35_shop;AMC 35
-fr_amc_35_0;Automitrailleuse de combat modèle 1935 R
+fr_amc_35_0;Automitrailleuse de combat modèle 1935 (canon de 47 mm SA mle 1935)
 fr_amc_35_1;AMC 35
 fr_amc_35_2;AMC 35
 fr_char_2c_shop;2C
-fr_char_2c_0;Char FCM 2C
+fr_char_2c_0;Char 2C
 fr_char_2c_1;2C
 fr_char_2c_2;2C
 fr_char_2c_bis_shop;2C bis
-fr_char_2c_bis_0;Char FCM 2C bis
+fr_char_2c_bis_0;Char 2C bis
 fr_char_2c_bis_1;2C bis
 fr_char_2c_bis_2;2C
 fr_b1_ter_shop;B1 ter
-fr_b1_ter_0;Char de bataille Renault B1 ter
+fr_b1_ter_0;Char B1 ter
 fr_b1_ter_1;B1 ter
 fr_b1_ter_2;B1
 fr_b1_bis_shop;B1 bis
-fr_b1_bis_0;Char de bataille Renault B1 bis
+fr_b1_bis_0;Char B1 bis
 fr_b1_bis_1;B1 bis
 fr_b1_bis_2;B1
-fr_amx_32_shop;AMX 32 P2
-fr_amx_32_0;Engin principal de combat AMX 32 P2
-fr_amx_32_1;AMX 32 P2
+fr_amx_32_shop;AMX 32 (P2)
+fr_amx_32_0;AMX 32 (prototype 2)
+fr_amx_32_1;AMX 32 (P2)
 fr_amx_32_2;AMX 32
-fr_amx_32_105_shop;AMX 32 P1
-fr_amx_32_105_0;Engin principal de combat AMX 32 P1
-fr_amx_32_105_1;AMX 32 P1
+fr_amx_32_105_shop;AMX 32 (P1)
+fr_amx_32_105_0;AMX 32 (prototype 1)
+fr_amx_32_105_1;AMX 32 (P1)
 fr_amx_32_105_2;AMX 32
-fr_amx_40_shop;AMX 40 P4
-fr_amx_40_0;Engin principal de combat AMX 40 P4
-fr_amx_40_1;AMX 40 P4
+fr_amx_40_shop;AMX 40 (P02)
+fr_amx_40_0;AMX 40 (présérie, prototype 02)
+fr_amx_40_1;AMX 40 (P02)
 fr_amx_40_2;AMX 40
 fr_bat_chat_25t_shop;Char 25t
-fr_bat_chat_25t_0;Char Batignolles-Châtillon de 25 tonnes
+fr_bat_chat_25t_0;Char de 25 tonnes Batignolles-Châtillon
 fr_bat_chat_25t_1;Char 25t
 fr_bat_chat_25t_2;Char 25t
 
@@ -414,16 +415,16 @@ fr_aml_90_shop;AML 90
 fr_aml_90_0;Automitrailleuse légère AML 90
 fr_aml_90_1;AML 90
 fr_aml_90_2;AML
-fr_amd_35_sa35_shop;AMD 35 (SA 35)
-fr_amd_35_sa35_0;Automitrailleuse de Découverte modèle 1935 R avec tourelle Renault de 47
-fr_amd_35_sa35_1;AMD 35 (SA 35)
+fr_amd_35_sa35_shop;AMD 35 (47 SA mle 1935)
+fr_amd_35_sa35_0;Automitrailleuse de Découverte modèle 1935 (tourelle Renault de 47 mm SA modèle 1935)
+fr_amd_35_sa35_1;AMD 35 (47 SA mle 1935)
 fr_amd_35_sa35_2;AMD 35
 fr_samp_t_launcher_shop;Mamba SAMP/T (MLT)
-fr_samp_t_launcher_0;Mamba Sol-Air Moyenne-Portée/Terrestre
+fr_samp_t_launcher_0;Mamba Sol-Air Moyenne-Portée/Terrestre (module de lancement terrestre)
 fr_samp_t_launcher_1;Mamba SAMP/T (MLT)
 fr_samp_t_launcher_2;SAMP/T
 fr_samp_t_fcs_shop;Mamba SAMP/T (MRI)
-fr_samp_t_fcs_0;Mamba Sol-Air Moyenne-Portée/Terrestre (Module Radar et IFF)
+fr_samp_t_fcs_0;Mamba Sol-Air Moyenne-Portée/Terrestre (module radar et IFF)
 fr_samp_t_fcs_1;Mamba SAMP/T (MRI)
 fr_samp_t_fcs_2;SAMP/T
 fr_jaguar_ebrc_shop;Jaguar
