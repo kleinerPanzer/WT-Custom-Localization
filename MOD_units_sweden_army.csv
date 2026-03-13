@@ -234,10 +234,10 @@ sw_pvkv_m43_1946_shop;Pvkv m/43 (1946)
 sw_pvkv_m43_1946_0;Pansarvärnskanonvagn m/43 (1946)
 sw_pvkv_m43_1946_1;Pvkv m/43
 sw_pvkv_m43_1946_2;Pvkv m/43
-sw_strv_103_0_shop;Strv 103-0
-sw_strv_103_0_0;Stridsvagn 103-0
-sw_strv_103_0_1;Strv 103-0
-sw_strv_103_0_2;Strv 103
+sw_strv_103_0_shop;Strv S
+sw_strv_103_0_0;Stridsvagn S 0-serie
+sw_strv_103_0_1;Strv S
+sw_strv_103_0_2;Strv S
 sw_kungstiger_shop;♛ Tiger II
 sw_kungstiger_0;♛ Stridsvagn Tiger II
 sw_kungstiger_1;♛ Tiger II
