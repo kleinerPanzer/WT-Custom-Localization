@@ -40,6 +40,7 @@ sensors/us_an_alr_67_v_3;Radar Warning Receiver, AN/ALR-67(V)(3);
 sensors/us_an_alr_68_v;Advanced Radar Warning System, AN/ALR-68(V);
 sensors/us_an_alr_68_v_3;Advanced Radar Warning System, AN/ALR-68(V)3;
 sensors/us_an_alr_69;Radar Warning Receiver, AN/ALR-69;
+sensors/us_an_alr_69a_v;Radar Warning Receiver, AN/ALR-69A(V);
 sensors/us_an_alr_87;Radar Warning Receiver, AN/ALR-87
 sensors/us_an_apg_26;Radar Set, AN/APG-26;
 sensors/us_an_apg_30;Radar Set, AN/APG-30;
@@ -80,6 +81,7 @@ sensors/us_an_apg_76_an_asx_1;Radar Set, AN/APG-76;
 sensors/us_an_apg_78;Radar Set, AN/APG-78;
 sensors/us_an_apg_78_v6;Radar Set, AN/APG-78(V)6;
 sensors/us_an_apg_79;Radar Set, AN/APG-79;
+sensors/us_an_apg_83;Radar Set, AN/APG-83
 sensors/us_an_apq_100;Radar Set, AN/APQ-100;
 sensors/us_an_apq_100;Radar Set, AN/APQ-100;
 sensors/us_an_apq_104;Radar Set, AN/APQ-104;

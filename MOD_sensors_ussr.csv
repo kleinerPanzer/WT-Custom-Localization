@@ -15,7 +15,9 @@ sensors/su_1rl33;РЛС 1РЛ133;
 sensors/su_1rl33rt;РЛС 1РЛ33;
 sensors/su_1rl34;РЛС 1РЛ34;
 sensors/su_1rs1;РЛС 1РС1;
+sensors/su_1rs1_4;РЛС 1РС1-4
 sensors/su_1rs2;РЛС 1РС2;
+sensors/su_1rs2_3;РЛС 1РС2-3
 sensors/su_4r_90_yatagan;РЛС 4Р90 «Ятаган»;
 sensors/su_9k_330_search;Search Radar;
 sensors/su_9k_330_track;Tracking Radar;
@@ -54,6 +56,7 @@ sensors/su_n_001vep;РЛС Н001ВЭП;
 sensors/su_n_010;РЛС Н001 «Жук»;
 sensors/su_n_010m;РЛС Н001М «Жук-М»;
 sensors/su_n_011m;РЛС Н011М «Барс-29»
+sensors/su_n_011r;РЛС Н011Р «Барс»
 sensors/su_n_019;РЛС Н019;
 sensors/su_n_019me;РЛС Н019МЭ;
 sensors/su_n_019e;РЛС Н019Э;

@@ -5,6 +5,7 @@ sensors/sw_es_05;RAVEN ES-05
 sensors/sw_giraffe_1x;Giraffe 1X;
 sensors/sw_giraffe_amb;Giraffe AMB
 sensors/sw_ps_05a;PS-05A;
+sensors/sw_ps_20;PS-20;
 sensors/sw_ps-011a_71h_ir;PS-01/011 (71H);
 sensors/sw_ps-03;PS-03;
 sensors/sw_ps-371a;PS-371A;

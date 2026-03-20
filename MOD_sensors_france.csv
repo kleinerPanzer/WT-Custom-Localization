@@ -26,7 +26,9 @@ sensors/fr_draa_3d;DRAA 3D;
 sensors/fr_drac_25;DRAC 25;
 sensors/fr_drac_32a;DRAC 32A;
 sensors/fr_drbv11;DRBV 11;
+sensors/fr_drbv15;DRBV 15;
 sensors/fr_drbv20a;DRBV 20A;
+sensors/fr_drbv23b;DRBV 23B;
 sensors/fr_me140_mr126;ME 140 / MR 126;
 sensors/fr_mirage_3e_detecteur;Détecteur
 sensors/fr_ralm01;RALM-01;
