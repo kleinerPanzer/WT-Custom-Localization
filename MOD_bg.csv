@@ -28,10 +28,13 @@ loading_bg/login_layer_ah_6m;AH-6M
 loading_bg/login_layer_air_finland;Update "Fire and Ice" — Finnish Air Forces
 loading_bg/login_layer_air_marathon_2024;IAR 93 B
 loading_bg/login_layer_air_superiority;Update "Air Superiority"
+loading_bg/login_layer_aircraft_marathon_workhorse;◗ F-16A-5
 loading_bg/login_layer_amx_50_1950;Char 50t (TO 90/930)
+loading_bg/login_layer_amx_elc_901;E.L.C./A.M.X. (T.C. 901)
 loading_bg/login_layer_apex_predators;Update "Apex Predators"
 loading_bg/login_layer_arizona_1931;Arizona (BB-39)
 loading_bg/login_layer_armored_vehicles;Update "La Royale" — Wheeled IFVs
+loading_bg/login_layer_armoured_fighting_vehicles;Update "Ninth Wave" — Wheeled Vehicles
 loading_bg/login_layer_art_ukdest;Matapan (I 43)
 loading_bg/login_layer_atomic_tank;Centurion Mk. 5/1
 loading_bg/login_layer_atomic_thunder;Atomic Thunder
@@ -87,6 +90,7 @@ loading_bg/login_layer_fokker_g1a;G.I Mercury
 loading_bg/login_layer_football;Tank Football
 loading_bg/login_layer_football_event_2025;Tank Football — What a Kick!
 loading_bg/login_layer_forrestal;Forrestal (CVA 59) &  A-4B
+loading_bg/login_layer_football_event_2026;Tank Football — Team Dragons
 loading_bg/login_layer_fr_1_73;Update 1.73 "Vive la France" — French Air Forces
 loading_bg/login_layer_fr_amx;AMX 40 P4
 loading_bg/login_layer_g1;キ84-I乙
@@ -98,6 +102,7 @@ loading_bg/login_layer_harrier_gr1;Harrier GR.1
 loading_bg/login_layer_hawk_200;Hawk 200
 loading_bg/login_layer_he_177a_3;He 177 A-3/R3
 loading_bg/login_layer_helicopters_it;Update "Hot Tracks" — Italian Helicopters
+loading_bg/login_layer_hungarian_aircrafts;Update "Ninth Wave" — Hungarian Air Forces
 loading_bg/login_layer_hungary_aircrafts;Update "Alpha Strike" — Hungarian Air Forces
 loading_bg/login_layer_hungary_ground_vehicles;Update "Sons of Attila" — Hungarian Ground Forces
 loading_bg/login_layer_i1;F-84B-26
@@ -107,6 +112,7 @@ loading_bg/login_layer_it_cent;Centauro
 loading_bg/login_layer_it_g91;G.91 R/4 (Es. 301)
 loading_bg/login_layer_it_gg;G.91 R/1
 loading_bg/login_layer_j1;Spitfire Mk. Ia & Bf 109 E-4
+loading_bg/login_layer_j_15t;J15T
 loading_bg/login_layer_j_8f;J8F
 loading_bg/login_layer_jaguar;Jaguar GR.1
 loading_bg/login_layer_jaguar_a;Jaguar A
@@ -169,6 +175,7 @@ loading_bg/login_layer_saab_j35;J 35D
 loading_bg/login_layer_saab_ja37;JA 37C
 loading_bg/login_layer_seek_and_destroy;Update "Seek & Destroy"
 loading_bg/login_layer_ship_marathon_hiburi;四阪
+loading_bg/login_layer_ship_marathon_oklakhoma;Oklahoma (BB 37)
 loading_bg/login_layer_ship_marathon_strasbourg;Strasbourg
 loading_bg/login_layer_sholef;V1 ףלוש
 loading_bg/login_layer_spz_12_3;SPz lang (LGS)
