@@ -11,8 +11,24 @@ weapons/fr_750lb_m117_cone_90/short;750-lb M117;
 weapons/fr_750lb_m117_cone_45/short;750-lb M117;
 weapons/us_750lb_m117_cone_45;Bomb, General Purpose: 750-lb, M117;
 weapons/us_750lb_m117_cone_45/short;750-lb M117;
+weapons/us_750lb_m117_cone_90;Bomb, General Purpose: 750-lb, M117;
+weapons/us_750lb_m117_cone_90/short;750-lb M117;
+weapons/us_750lb_m117_air;Bomb, General Purpose: 750-lb, M117 (BSU-93/B);
+weapons/us_750lb_m117_air/short;750-lb M117 (BSU-93);
+
 weapons/us_b61;B61
 weapons/us_b61/short;B61
+weapons/us_b83;B83
+weapons/us_b83/short;B83
+weapons/us_b28;B28
+weapons/us_b28/short;B28
+weapons/us_b28_ang45;B28
+weapons/us_b28_ang45/short;B28
+weapons/us_b61_5kt;B61
+weapons/us_b61_5kt/short;B61
+weapons/us_b61_30kt;B61
+weapons/us_b61_30kt/short;B61
+
 weapons/us_blu27b;Bomb, Fire: 750-lb, BLU-27/B;
 weapons/us_blu27b/short;BLU-27/B;
 weapons/us_blu_1;Bomb, Fire: 750-lb, BLU-1/B;
@@ -47,7 +63,7 @@ weapons/us_1000lbs;Bomb, General Purpose: 1000-lb, AN/M65A1;
 weapons/us_100lbs;Bomb, General Purpose: 100-lb, AN/M30A1;
 weapons/us_2000lbs;Bomb, General Purpose: 2000-lb, AN/M66A2;
 weapons/us_500lbs;Bomb, General Purpose: 500-lb, AN/M64A1;
-weapons/us_500lb_mk_82_ldgp_air;Bomb, Low-Drag, Mk 82 Mod 1 (BSU-49);
+weapons/us_500lb_mk_82_ldgp_air;Bomb, Low-Drag, Mk 82 Mod 1 (BSU-49/B);
 weapons/us_500lb_mk_82_ldgp_air/short;500-lb Mk 82 (BSU-49);
 weapons/us_250lb_mk_81_ldgp_snakeye;Bomb, Low-Drag, Mk 81 Mod 1 Snakeye;
 weapons/us_250lb_mk_81_ldgp_snakeye/short;250-lb Mk 81 Snakeye;
@@ -55,7 +71,7 @@ weapons/us_500lb_mk_82_ldgp_snakeye;Bomb, Low-Drag, Mk 82 Mod 1 Snakeye;
 weapons/us_500lb_mk_82_ldgp_snakeye/short;500-lb Mk 82 Snakeye;
 weapons/us_500lb_mk_82_ldgp_snakeye_default;Bomb, Low-Drag, Mk 82 Mod 1 Snakeye;
 weapons/us_500lb_mk_82_ldgp_snakeye_default/short;500-lb Mk 82 Snakeye;
-weapons/us_1000lb_mk_83_ldgp_air;Bomb, Low-Drag, Mk 83 Mod 1 (BSU-49);
+weapons/us_1000lb_mk_83_ldgp_air;Bomb, Low-Drag, Mk 83 Mod 1 (BSU-49/B);
 weapons/us_1000lb_mk_83_ldgp_air/short;1000-lb Mk 83 (BSU-49);
 weapons/us_1000lb_anm65a1;Bomb, General Purpose: 1000-lb, AN/M65A1;
 weapons/us_1000lb_anm65a1_default;Bomb, General Purpose: 1000-lb, AN/M65A1;
@@ -85,7 +101,9 @@ weapons/us_500lb_mk_82_ldgp_default/short;500-lb Mk 82;
 weapons/us_1000lb_mk_83_ldgp/short;1000-lb Mk 83;
 weapons/us_1000lb_mk_83_ldgp_default/short;1000-lb Mk 83;
 weapons/us_2000lb_mk_84_ldgp/short;2000-lb Mk 84;
-weapons/us_2000lb_mk_84_ldgp_air;Bomb, Low-Drag, Mk 84 Mod 1 (BSU-50);
+weapons/us_2000lb_mk_84_ldgp_cone_90;Bomb, Low-Drag, Mk 84 Mod 1
+weapons/us_2000lb_mk_84_ldgp_cone_90/short;2000-lb Mk 84
+weapons/us_2000lb_mk_84_ldgp_air;Bomb, Low-Drag, Mk 84 Mod 1 (BSU-50/B);
 weapons/us_2000lb_mk_84_ldgp_air/short;2000-lb Mk 84 (BSU-50);
 weapons/china_250kg_mk_82;Bomb, Low-Drag, Mk 82 Mod 1;
 weapons/china_250kg_mk_82/short;500-lb Mk 82;

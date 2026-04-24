@@ -41,6 +41,8 @@ weapons/360mm_9m317m_user_cannon;Пусковая установка 9П311М
 weapons/360mm_9m317m_user_cannon/short;ПУ 9П311М
 360mm_9m317ma;ЗУР 9М317МА
 
+400mm_9m38m1;ЗУР 9М38М1
+
 // Shturm-Ataka //
 weapons/130mm_9M114_launcher_user_cannon;Пусковая установка для «Штурм-С»;
 weapons/130mm_9M114_rocket_launcher;Пусковая установка для «Штурм-С»;
@@ -199,3 +201,10 @@ weapons/rocket_5v24_v600p_naval_rocket_launcher/short;ЗРК М-1М;
 weapons/654mm_S_75_V_755_20DS_rocket_launcher;Пусковая установка СМ-90
 V_759;В-759
 weapons/V_759/short;В-759
+
+// S-300 //
+
+508mm_5v55r;ЗУР 5В55Р
+
+// Tokcha //
+650mm_9m79;УР 9М79

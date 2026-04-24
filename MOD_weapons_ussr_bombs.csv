@@ -93,6 +93,11 @@ weapons/su_fab_3000m_54/short;ФАБ-3000М-54
 
 weapons/su_fab5000;5000-кг авиационная бомба ФАБ-5000;
 weapons/su_fab5000/short;ФАБ-5000;
+weapons/su_fab5000_m54;5000-кг авиационная бомба ФАБ-5000М-54
+weapons/su_fab5000_m54/short;ФАБ-5000М-54
+
+weapons/su_fab9000;9000-кг авиационная бомба ФАБ-9000;
+weapons/su_fab9000/short;ФАБ-9000
 
 weapons/su_kab_50l;50-кг коррекция авиационная бомба КАБ-50Л;
 weapons/su_kab_50l/short;КАБ-50Л;
@@ -169,5 +174,11 @@ weapons/su_zb_500/short;ЗБ-500;
 
 weapons/su_rds4;Ядерная бомба РДС-4;
 weapons/su_rds4/short;РДС-4;
-weapons/su_rn_28;РН-28
+weapons/su_rn_28;Ядерная бомба РН-28
 weapons/su_rn_28/short;РН-28
+weapons/su_rds37;Ядерная бомба РДС-37
+weapons/su_rds37/short;РДС-37
+weapons/su_rn_28_nt;Ядерная бомба РН-28
+weapons/su_rn_28_nt/short;РН-28
+weapons/su_rn_40;Ядерная бомба РН-40
+weapons/su_rn_40/short;РН-40

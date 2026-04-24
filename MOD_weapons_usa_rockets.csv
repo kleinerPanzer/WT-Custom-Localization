@@ -79,3 +79,6 @@ weapons/110mm_M8_naval_rocket_launcher;Rocket, HE, 4.5”, M8;
 weapons/110mm_M8_naval_rocket_launcher/short;4.5” M8;
 weapons/114mm_m7_naval_rocket_launcher;4.5” Barrage Rocket (Head Mk 3);
 weapons/114mm_m7_naval_rocket_launcher/short;4.5” BR (Mk 3);
+weapons/227mm_m270_rocket_launcher;Rocket Pod, 298-mm: M26A2
+weapons/227mm_m270_rocket_launcher/short;M26A2
+227mm_m26a2;Rocket, 227-mm, MLRS, M26A2 ER-MLRS

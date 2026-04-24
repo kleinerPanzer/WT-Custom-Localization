@@ -39,6 +39,10 @@ weapons/127mm_MIM_72_launcher_user_cannon;Guided Missile System, Aerial-Intercep
 weapons/127mm_MIM_72_launcher_user_cannon/short;M54A2;
 weapons/127mm_MIM_72G_launcher_user_cannon;Guided Missile System, Aerial-Intercept, M54A2;
 weapons/127mm_MIM_72G_launcher_user_cannon/short;M54A2;
+410mm_mim104b;MIM-104B
+us_mim_23b;MIM-23B
+557mm_mgm_52;MGM-52C
+
 152mm_mim14;MIM-146;
 weapons/us_127mm_TOW2;BGM-71D TOW 2;
 weapons/us_127mm_TOW2/short;BGM-71D;
@@ -269,6 +273,10 @@ weapons/us_agm_65l;AGM-65L Maverick;
 weapons/us_agm_65l/short;AGM-65L;
 weapons/us_agm_84h_slam_er;AGM-84H SLAM-ER
 weapons/us_agm_84h_slam_er/short;AGM-84H
+weapons/us_agm_45b_10;AGM-45B-10 Shrike
+weapons/us_agm_45b_10/short;AGM-45B-10
+weapons/us_agm_88a;AGM-88A HARM
+weapons/us_agm_88a/short;AGM-88A
 weapons/152mm_19M220_rocket_launcher;Mobile Intercept-Aerial Guided Missile, MIM-220;
 weapons/rocket_tomahawk_bgm109_launcher;BGM-109 TLAM;
 weapons/rocket_tomahawk_bgm109_launcher/short;BGM-109;
@@ -311,6 +319,7 @@ weapons/127_bgm_71_itow/short;BGM-71C;
 weapons/rocket_rim_24_a_naval_rocket_launcher;RIM-24A Tartar;
 weapons/rocket_rim_24_a_naval_rocket_launcher/short;RIM-24A;
 rim_24;RIM-24A;
+rim_24b;RIM-24B
 162mm_losat;MGM-166A LOSAT;
 weapons/162mm_losat/short;MGM-166A LOSAT;
 weapons/162mm_MGM166_launcher_user_cannon;LOSAT Launcher;

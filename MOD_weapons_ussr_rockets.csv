@@ -39,6 +39,13 @@ weapons/rocket_bm21_launcher;Неуправляемая ракета М-21ОФ
 weapons/rocket_bm21_launcher/short;М-21ОФ
 122mm_9m22;М-21ОФ
 
+// M-30 //
+
+// Smerch //
+weapons/300mm_9k58_rocket_launcher;Пусковая установка для «Смерч»;
+weapons/300mm_9k58_rocket_launcher/short;ПУ для «Смерч»
+300mm_9m55f;Р 9М55Ф
+
 // M-31 //
 weapons/300mm_M31_rocket_launcher;Неуправляемая ракета М-31УК;
 weapons/300mm_M31_rocket_launcher/short;М-31УК;

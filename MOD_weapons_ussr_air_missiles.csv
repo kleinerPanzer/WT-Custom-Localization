@@ -1,58 +1,78 @@
 <ID|readonly|noverify>;<NewLanguage>
-su_r_73_default;Управляемая ракета «воздух-воздух» Р-73;
-su_r_73_default/short;УР «В-В» Р-73;
-su_r_73;Управляемая ракета «воздух-воздух» Р-73;
-su_r_73/short;УР «В-В» Р-73;
 
 weapons/su_kh_23m;Управляемая ракета «воздух-поверхность» Х-23М;
-weapons/su_kh_23m/short;Р «В-П» Х-23М;
+weapons/su_kh_23m/short;УР «В-П» Х-23М;
 
 weapons/su_kh_25_haslaserchannel;Управляемая ракета «воздух-поверхность» Х-25;
-weapons/su_kh_25_haslaserchannel/short;Р «В-П» Х-25;
+weapons/su_kh_25_haslaserchannel/short;УР «В-П» Х-25;
 weapons/su_kh_25;Управляемая ракета «воздух-поверхность» Х-25;
-weapons/su_kh_25/short;Р «В-П» Х-25;
+weapons/su_kh_25/short;УР «В-П» Х-25;
 weapons/su_kh_25ml;Управляемая ракета «воздух-поверхность» Х-25МЛ;
-weapons/su_kh_25ml/short;Х-25МЛ;
+weapons/su_kh_25ml/short;УР «В-П» Х-25МЛ;
 weapons/su_kh_25mr;Управляемая ракета «воздух-поверхность» Х-25МР;
-weapons/su_kh_25mr/short;Р «В-П» Х-25МР;
+weapons/su_kh_25mr/short;УР «В-П» Х-25МР;
+weapons/su_kh_25mp;Управляемая ракета «воздух-поверхность» Х-25МП (ПРГС-2ВП)
+weapons/su_kh_25mp/short;УР «В-П» Х-25МП (ПРГС-2ВП)
+weapons/su_kh_25mp_cw;Управляемая ракета «воздух-поверхность» Х-25МП (ПРГС-1ВП)
+weapons/su_kh_25mp_cw/short;УР «В-П» Х-25МП (ПРГС-1ВП)
+weapons/su_kh_25mpu;Управляемая ракета «воздух-поверхность» Х-25МПУ
+weapons/su_kh_25mpu/short;УР «В-П» Х-25МПУ
+
+weapons/su_kh_27ps;Управляемая ракета «воздух-поверхность» Х-27ПС (ПРГС-2ВП)
+weapons/su_kh_27ps/short;УР «В-П» Х-27ПС (ПРГС-2ВП)
+weapons/su_kh_27ps_cw;Управляемая ракета «воздух-поверхность» Х-27ПС (ПРГС-1ВП)
+weapons/su_kh_27ps_cw/short;УР «В-П» Х-27ПС (ПРГС-1ВП)
 
 weapons/su_kh_29l_notlaserchannel;Управляемая ракета «воздух-поверхность» Х-29Л;
-weapons/su_kh_29l_notlaserchannel/short;Р «В-П» Х-29Л;
+weapons/su_kh_29l_notlaserchannel/short;УР «В-П» Х-29Л;
 weapons/su_kh_29l;Управляемая ракета «воздух-поверхность» Х-29Л;
-weapons/su_kh_29l/short;Р «В-П» Х-29Л;
+weapons/su_kh_29l/short;УР «В-П» Х-29Л;
 weapons/su_kh_29t;Управляемая ракета «воздух-поверхность» Х-29Т;
-weapons/su_kh_29t/short;Х-29Т;
+weapons/su_kh_29t/short;УР «В-П» Х-29Т;
 weapons/su_kh_29td;Управляемая ракета «воздух-поверхность» Х-29ТД;
-weapons/su_kh_29td/short;Х-29ТД;
+weapons/su_kh_29td/short;УР «В-П» Х-29ТД;
 weapons/su_kh_29te;Управляемая ракета «воздух-поверхность» Х-29ТЭ;
-weapons/su_kh_29te/short;Х-29ТЭ;
+weapons/su_kh_29te/short;УР «В-П» Х-29ТЭ;
 
-weapons/su_grom_1;Х-36 Гром-1
-weapons/su_grom_1/short;Х-36 Гром-1
-weapons/su_grom_2;Х-36 Гром-2
-weapons/su_grom_2/short;Х-36 Гром-2
-weapons/su_grom_e2;Х-36 Гром-Э2
-weapons/su_grom_e2/short;Х-36 Гром-Э2
+weapons/su_grom_1;Управляемая ракета «воздух-поверхность» Х-36 Гром-1
+weapons/su_grom_1/short;УР «В-П» Х-36 Гром-1
+weapons/su_grom_2;Управляемая ракета «воздух-поверхность» Х-36 Гром-2
+weapons/su_grom_2/short;УР «В-П» Х-36 Гром-2
+weapons/su_grom_e2;Управляемая ракета «воздух-поверхность» Х-36 Гром-Э2
+weapons/su_grom_e2/short;УР «В-П» Х-36 Гром-Э2
 
 weapons/su_kh_38ml;Управляемая ракета «воздух-поверхность» Х-38МЛ;
-weapons/su_kh_38ml/short;Х-38МЛ;
+weapons/su_kh_38ml/short;УР «В-П» Х-38МЛ;
 weapons/su_kh_38mt;Управляемая ракета «воздух-поверхность» Х-38МТ;
-weapons/su_kh_38mt/short;Х-38МТ;
+weapons/su_kh_38mt/short;УР «В-П» Х-38МТ;
 weapons/su_kh_38mle;Управляемая ракета «воздух-поверхность» Х-38МЛЭ
-weapons/su_kh_38mle/short;Х-38МЛЭ
+weapons/su_kh_38mle/short;УР «В-П» Х-38МЛЭ
 weapons/su_kh_38mte;Управляемая ракета «воздух-поверхность» Х-38МТЭ
-weapons/su_kh_38mte/short;Х-38МТЭ
+weapons/su_kh_38mte/short;УР «В-П» Х-38МТЭ
 
 weapons/su_lmur;Лёгкая многоцелевая управляемая ракета Х-39
-weapons/su_lmur/short;Х-39
+weapons/su_lmur/short;ЛМУР Х-39
 
+weapons/su_kh_58u_a_band;Управляемая ракета «воздух-поверхность» Х-58У (ПРГС-58М)
+weapons/su_kh_58u_a_band/short;УР «В-П» Х-58У (ПРГС-58М)
+weapons/su_kh_58u_a_band_cw;Управляемая ракета «воздух-поверхность» Х-58У (ПРГС-58М)
+weapons/su_kh_58u_a_band_cw/short;УР «В-П» Х-58У (ПРГС-58М)
+weapons/su_kh_58u_b_band;Управляемая ракета «воздух-поверхность» Х-58У (ПРГС-58М)
+weapons/su_kh_58u_b_band/short;УР «В-П» Х-58У (ПРГС-58М)
+weapons/su_kh_58u_c_band;Управляемая ракета «воздух-поверхность» Х-58У (ПРГС-58М)
+weapons/su_kh_58u_c_band/short;УР «В-П» Х-58У (ПРГС-58М)
+weapons/su_kh_58ushk;Управляемая ракета «воздух-поверхность» Х-58УШК
+weapons/su_kh_58ushk/short;УР «В-П» Х-58УШК
+
+weapons/su_kh_59;Управляемая ракета «воздух-поверхность» Х-59
+weapons/su_kh_59/short;УР «В-П» Х-59
 weapons/su_kh_59m;Управляемая ракета «воздух-поверхность» Х-59М
-weapons/su_kh_59m/short;Х-59М
+weapons/su_kh_59m/short;УР «В-П» Х-59М
 weapons/su_kh_59me;Управляемая ракета «воздух-поверхность» Х-59МЭ
-weapons/su_kh_59me/short;Х-59МЭ
+weapons/su_kh_59me/short;УР «В-П» Х-59МЭ
 
 weapons/su_kh_66;Управляемая ракета «воздух-поверхность» Х-66;
-weapons/su_kh_66/short;Р «В-П» Х-66;
+weapons/su_kh_66/short;УР «В-П» Х-66;
 
 weapons/su_r_3r_default;Управляемая ракета «воздух-воздух» Р-3Р;
 weapons/su_r_3r_default/short;УР «В-В» Р-3Р;
@@ -133,6 +153,10 @@ weapons/su_r_73e_default;Управляемая ракета «воздух-во
 weapons/su_r_73e_default/short;УР «В-В» Р-73Э;
 weapons/su_r_73e;Управляемая ракета «воздух-воздух» Р-73Э;
 weapons/su_r_73e/short;УР «В-В» Р-73Э;
+su_r_73_default;Управляемая ракета «воздух-воздух» Р-73;
+su_r_73_default/short;УР «В-В» Р-73;
+su_r_73;Управляемая ракета «воздух-воздух» Р-73;
+su_r_73/short;УР «В-В» Р-73;
 
 weapons/su_r_77_default;Управляемая ракета «воздух-воздух» Р-77;
 weapons/su_r_77_default/short;УР «В-В» Р-77;

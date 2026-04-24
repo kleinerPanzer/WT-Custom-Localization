@@ -420,6 +420,8 @@ weapons/countermeasure_large_split_launcher_jet_maw;Flares/Chaff;
 weapons/countermeasure_large_split_launcher_jet_maw/short;Flares/Chaff;
 weapons/countermeasure_split_large_launcher_jet_add_pod;Flares/Chaff;
 weapons/countermeasure_split_large_launcher_jet_add_pod/short;Flares/Chaff;
+weapons/countermeasure_split_launcher_am_23;Flares/Chaff
+weapons/countermeasure_split_launcher_am_23/short;Flares/Chaff
 weapons/countermeasure_split_launcher_jet;Flares/Chaff;
 weapons/countermeasure_split_launcher_jet/short;Flares/Chaff;
 weapons/countermeasure_split_launcher_jet_pids;Flares/Chaff;
@@ -694,6 +696,7 @@ explosiveType/tetryl;Tetryl;
 explosiveType/tritonal;Tritonal;
 explosiveType/pbxn_110;PBXN-110;
 explosiveType/pbxn_109;PBXN-109;
+explosiveType/pbxn_107;PBXN-107
 explosiveType/pbxn_102;PBXN-102;
 explosiveType/pbxn_5;PBXN-5;
 explosiveType/pbxn_4;PBXN-4;

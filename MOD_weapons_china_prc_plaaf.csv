@@ -190,3 +190,11 @@ weapons/cn_1600l_drop_tank_1;FYX-1600标准副油箱;
 weapons/cn_1600l_drop_tank_1/short;FYX-1600;
 weapons/cn_1600l_drop_tank_2;FYX-1600标准副油箱;
 weapons/cn_1600l_drop_tank_2/short;FYX-1600;
+
+weapons/cn_760l_f_6c_drop_tank_l;760升亚音速副油箱
+weapons/cn_760l_f_6c_drop_tank_l/short;副油箱
+weapons/cn_760l_f_6c_drop_tank_r;760升亚音速副油箱
+weapons/cn_760l_f_6c_drop_tank_r/short;副油箱
+
+weapons/f_6c_pakistan_fuse_tank;Conformal Fuel Tank
+weapons/f_6c_pakistan_fuse_tank/short;CFT
