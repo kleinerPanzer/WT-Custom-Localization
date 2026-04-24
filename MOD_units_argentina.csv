@@ -5,19 +5,22 @@ shop/group/germ_tam_sk_group;VC TAM / VC Tan SK 105
 germ_sk105_a2_shop;VC Tan SK 105
 germ_sk105_a2_0;Vehículo de combate tanque SK 105
 germ_sk105_a2_1;VC Tan SK 105
-germ_sk105_a2_2;VC Tan SK 105
+germ_sk105_a2_2;SK 105
+
 germ_thyssen_henschel_tam_2ip_shop;VC TAM 2IP
 germ_thyssen_henschel_tam_2ip_0;Vehículo de combate tanque argentino mediano 2IP
 germ_thyssen_henschel_tam_2ip_1;VC TAM 2IP
-germ_thyssen_henschel_tam_2ip_2;VC TAM 2
+germ_thyssen_henschel_tam_2ip_2;TAM 2
+
 germ_thyssen_henschel_tam_2c_shop;VC TAM 2C
 germ_thyssen_henschel_tam_2c_0;Vehículo de combate tanque argentino mediano 2C
 germ_thyssen_henschel_tam_2c_1;VC TAM 2C
-germ_thyssen_henschel_tam_2c_2;VC TAM 2
+germ_thyssen_henschel_tam_2c_2;TAM 2
+
 germ_thyssen_henschel_tam_shop;VC TAM
 germ_thyssen_henschel_tam_0;Vehículo de combate tanque argentino mediano
 germ_thyssen_henschel_tam_1;VC TAM
-germ_thyssen_henschel_tam_2;VC TAM
+germ_thyssen_henschel_tam_2;TAM
 
 // AIR //
 

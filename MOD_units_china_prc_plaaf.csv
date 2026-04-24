@@ -3,6 +3,7 @@
 // SOVIET // 
 shop/group/mig-9_china_group;米格9 / ␗ И-307 «ФФ»
 shop/group/mig-15_china_group;米格15比斯 / 米格17
+shop/group/j_11_group;J11 / J11A
 
 la-9_china_shop;拉9
 la-9_china_0;拉9型飞机
@@ -106,7 +107,6 @@ j_15t_shop;J15T (WS10B)
 j_15t_0;J15T型飞机 (WS10B)
 j_15t_1;J15T
 j_15t_2;J15
-shop/group/j_11_group;J11 / J11A
 
 jh_7_shop;JH7
 jh_7_0;JH7型飞机
