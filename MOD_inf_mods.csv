@@ -80,6 +80,8 @@ modification/grip_angled_magpul;Angled front grip
 modification/grip_angled_magpul/desc;Installs an angled front grip on the main weapon.
 modification/grenade_launcher_m320;M320
 modification/grenade_launcher_m320/desc;Installs a grenade launcher on the main weapon.
+modification/grenade_launcher_gp_25;ГП-25
+modification/grenade_launcher_gp_25/desc;Installs a grenade launcher on the main weapon.
 modification/grenade_launcher_gp_34;ГП-34
 modification/grenade_launcher_gp_34/desc;Installs a grenade launcher on the main weapon.
 modification/5_56mm_tracer_ammo_belt;Tracers
@@ -87,18 +89,24 @@ modification/5_56mm_tracer_ammo_belt/desc;Loads magazines with additional tracer
 modification/5_56mm_ap_ammo_belt;Armor-piercing
 modification/5_56mm_ap_ammo_belt/desc;Loads magazines with additional armor-piercing cartridges.
 modification/magazine_magpul_pmag_30_round;Magazine 30
-modification/magazine_magpul_pmag_30_round/desc;Installs a light plastic magazine with 30-round capacity on the main weapon.
+modification/magazine_magpul_pmag_30_round/desc;Installs a light plastic 30-round magazine on the main weapon.
 modification/magazine_magpul_pmag_40_round;Magazine 40
-modification/magazine_magpul_pmag_40_round/desc;Installs a light plastic magazine with 40-round capacity on the main weapon.
+modification/magazine_magpul_pmag_40_round/desc;Installs a light plastic 40-round magazine on the main weapon.
 modification/magazine_magpul_pmag_60_round;Magazine 60
-modification/magazine_magpul_pmag_60_round/desc;Installs a light plastic magazine with 60-round capacity on the main weapon.
+modification/magazine_magpul_pmag_60_round/desc;Installs a light plastic 60-round magazine on the main weapon.
+modification/magazine_mod_rpk_45_round;Magazine 45
+modification/magazine_mod_rpk_45_round/desc;Installs a light plastic 45-round magazine on the main weapon.
+modification/magazine_mod_ak_60_round;Magazine 60
+modification/magazine_mod_ak_60_round/desc;Installs a light plastic 60-round magazine on the main weapon.
+modification/magazine_mod_as_val_30_round;Magazine 30
+modification/magazine_mod_as_val_30_round/desc;Installs a light plastic 30-round magazine on the main weapon.
 modification/shotgun_mossberg_590;M590
 modification/shotgun_mossberg_590/desc;Allows you to additionally arm one of the soldiers in your squad with a shotgun.
 modification/shotgun_ks_p;18,5 КС-П
 modification/shotgun_ks_p/desc;Allows you to additionally arm one of the soldiers in your squad with a shotgun.
 modification/machinegun_m240;M240B
 modification/machinegun_m240/desc;Allows you to additionally arm one of the soldiers in your squad with a general purpose machine gun.
-modification/machinegun_reapr;REAPR
+modification/machinegun_reapr;M240B
 modification/machinegun_reapr/desc;Allows you to additionally arm one of the soldiers in your squad with a general purpose machine gun.
 modification/machinegun_pkp_pecheneg;ПКП
 modification/machinegun_pkp_pecheneg/desc;Allows you to additionally arm one of the soldiers in your squad with a general purpose machine gun.
@@ -142,8 +150,3 @@ modification/gun__recoilAmount;{value} to recoil impulse
 modification/gun__recoilDirAmount;{value} to recoil predictability
 modification/gun__recoilControlMult;{value} to recoil control
 modification/weap__sprintLerpFactor;{value} to speed up running
-infantry/squad/member;Soldier
-infantry/squad/member_inactive_advice;train your crew
-infantry/squad/member_inactive;Inactive
-infantry/squad/members;Soldiers
-weapons/infantry_empty;Empty

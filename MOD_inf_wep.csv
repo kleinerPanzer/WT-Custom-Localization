@@ -27,6 +27,10 @@ colt_9_mm_smg_shop;9mm SMG
 colt_9_mm_smg_0;9mm Submachine Gun
 colt_9_mm_smg_1;9mm SMG
 colt_9_mm_smg_2;9mm SMG
+kord_6p67_shop;6П67
+kord_6p67_0;7,62-мм автомат 6П67
+kord_6p67_1;6П67
+kord_6p67_2;6П67
 kord_6p68_shop;6П68
 kord_6p68_0;7,62-мм автомат 6П68
 kord_6p68_1;6П68
@@ -95,6 +99,10 @@ sig_xm5_shop;XM5
 sig_xm5_0;Rifle, 6.8-mm, XM5
 sig_xm5_1;XM5
 sig_xm5_2;M5
+fn_scar_shop;SCAR-L
+fn_scar_0;SCAR-L
+fn_scar_1;SCAR-L
+fn_scar_2;SCAR
 svd_shop;СВД
 svd_0;7,62-мм снайперская винтовка Драгунова (6В1)
 svd_1;СВД
@@ -126,7 +134,9 @@ weapons/ammo_box/desc;Allows all allies to refill ammo in battle. Ammo is limite
 weapons/explosives_box_item;Explosives box
 explosives_box_item;Explosives box
 weapons/explosives_box_item/desc;Allows all allies to refill explosives in battle. Refills are limited.
-weapons/frag_grenade;Frag grenade
+weapons/frag_grenade;Frag grenade x4
+weapons/frag_grenade_medium;Frag grenade x2
+weapons/frag_grenade_light;Frag grenade x1
 frag_grenade;Frag grenade
 weapons/frag_grenade/desc;An explosive munition designed to destroy infantry.
 weapons/ks_p;18,5 КС-П
@@ -153,8 +163,8 @@ weapons/pkp_pecheneg/desc;A general purpose machine gun for destroying infantry.
 weapons/pslr_1_default;PSRL-1
 pslr_1_default;PSRL-1
 weapons/pslr_1_default/desc;A hand-held anti-tank grenade launcher for destroying armoured vehicles.
-weapons/reapr;REAPR
-reapr;REAPR
+weapons/reapr;M240B
+reapr;M240B
 weapons/reapr/desc;A machine gun for destroying infantry. It is recommended to use it after installing it on bipods.
 weapons/rpg_7;РПГ-7
 rpg_7;РПГ-7
@@ -162,7 +172,8 @@ weapons/rpg_7/desc;A hand-held anti-tank rocket launcher for destroying armoured
 weapons/rpg_7_default;РПГ-7
 rpg_7_default;РПГ-7
 weapons/rpg_7_default/desc;A hand-held anti-tank rocket launcher for destroying armoured vehicles.
-weapons/smoke_grenade;Smoke grenade
+weapons/smoke_grenade;Smoke grenade x2
+weapons/smoke_grenade_light;Smoke grenade x1
 smoke_grenade;Smoke grenade
 weapons/smoke_grenade/desc;A pyrotechnic device designed to create smoke zones for camouflage purposes.
 weapons/stun_grenade;Stun grenade
@@ -186,8 +197,9 @@ weapons/ussr_kamikaze_drone/desc;An unmanned aerial vehicle with a warhead. Use 
 weapons/ussr_recon_drone;Reconnaissance drone
 ussr_recon_drone;Reconnaissance drone
 weapons/ussr_recon_drone/desc;A quadcopter with software for automatic enemy recognition.
-45acp_ball;Ball
-45acp_hp;Hollow point
+45acp_m1911_fmj;Ball, M1911
+45acp_m26_fmj_t;Tracer, M26
+45acp_jhp;P+ JHP
 12_7mm_sn;СН гл
 12_7mm_b32;Б-32 гл
 12_7mm_bs41;БС-41 гл
@@ -244,9 +256,12 @@ weapons/ussr_recon_drone/desc;A quadcopter with software for automatic enemy rec
 7_62mm_7t2_tracer;Т-46 гж
 7_62mm_t_30;Т-30 гл
 7_62mm_t_46;Т-46 гл
-9mm_57n181_ball;П гл
-9mm_7n15_ap;БЖТ гж
-9mm_ppe_hp;ППэ гж
+9mm_57n181_fmj;П гл
+9mm_57n181s_sc;Пс гл
+9mm_57t181_sc_t;ППТ гж
+9mm_7n16_ap;ПстМ гж
+9mm_7n25_ap;ПБМ гж
+9mm_ppe_jhp;ППэ гж
 9mm_7n31_ap;ПБП гж
 9mm_7n21_ap;Пст гж
 9mm_m882_fmj;Ball, M882
@@ -259,7 +274,9 @@ weapons/ussr_recon_drone/desc;A quadcopter with software for automatic enemy rec
 9mm_sp13_ap;БТ гж
 9mm_sp5_ball;СП5 гс
 9mm_sp6_ap;СП6 гс
-9mm_sp5_tracer;Т
+9mm_pab_9_ap;ПАБ-9
+9mm_bp_ap;БП гс
+9mm_spp_ap;СПП гс
 su_9M39;ЗУР 9М39
 rpg_2_rocket;ПГ-2
 93mm_pg_7vl;ПГ-7ВЛ

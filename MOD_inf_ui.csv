@@ -1,4 +1,4 @@
-<ID|readonly|noverify>;<NewLanguage>
+<ID|readonly|noverify>;<English>
 hotkeys/ID_HUMAN_JUMP;Jump
 hotkeys/ID_HUMAN_SPRINT;Fast run
 hotkeys/ID_HUMAN_FIRE_HEADER;Weaponry
@@ -30,14 +30,15 @@ hotkeys/ID_SHIPS_TOGGLE_HYDROPHONE_MODE;Hydrophone mode on/off
 hotkeys/ID_ENABLE_TARGET_TRACKING_TANK;Enable ATT
 hotkeys/ID_HUMAN_ORDERS_MENU;Squad orders menu
 hotkeys/ID_HUMAN_WEAPON_MENU;Weapon control menu: switching fire modes, using modules (underbarrel weapon, laser sight, flashlight)
-hotkeys/ID_HUMAN_MAIN_WEAPON;Switching between main weapon and module
-hotkeys/ID_HUMAN_SELECT_PREV_SOLDIER;Select previos soldier
+hotkeys/ID_HUMAN_MAIN_WEAPON;Switching between the main weapon and a module
+hotkeys/ID_HUMAN_SELECT_PREV_SOLDIER;Select previous soldier
 hotkeys/ID_HUMAN_SELECT_NEXT_SOLDIER;Select next soldier
 hotkeys/ID_HUMAN_CONTEXT_COMMAND_NEXT_SOLDIER;Select next soldier
 hotkeys/ID_HUMAN_CONTEXT_COMMAND_NEXT_POSE;Change selected soldier pose
 hotkeys/ID_HUMAN_CONTEXT_COMMAND;(hold the button) choose the location of the soldier. Order will be given if you release the button.
 hotkeys/ID_CREW_SWITCH_CONTROL_NEXT;Switch member
 hotkeys/ID_GRENADE_THROW_HEADER;Throw grenade
+hotkeys/ID_SPECIAL_UNITS_HEADER;Special units
 hotkeys/ID_HUMAN_WEAP_MOD_TOGGLE;Underbarrel grenade launcher mode on/off
 hotkeys/ID_HUMAN_LASER_TOGGLE;Laser mode on/off
 hotkeys/ID_HUMAN_FLASH_LIGHT_TOGGLE;Flashlight mode on/off
@@ -53,12 +54,14 @@ hotkeys/ID_HUMAN_BIPODTOGGLE;Mount on bipod
 hotkeys/ID_HUMAN_NEXT_ZOOM;Change zoom
 hotkeys/ID_HUMAN_THROW;Throw grenade
 hotkeys/ID_HUMAN_WEAP_AMMO_TOGGLE;Change ammunition
+hotkeys/ID_HUMAN_SIGHT_NEXT;Next sight
+hotkeys/ID_HUMAN_SIGHT_PREV;Previous sight
 hotkeys/ID_CONTROL_MODE_HUMAN_UAV;Hover mode
 hotkeys/ID_LOCK_TARGETING_AT_POINT_HUMAN_UAV;Sight stabilization
 hotkeys/ID_UNLOCK_TARGETING_AT_POINT_HUMAN_UAV;Disable sight stabilization
 hotkeys/ID_HUMAN_UAV;UAV
 hotkeys/ID_TOGGLE_VIEW_HUMAN_UAV;Toggle View
-hotkeys/ID_HUMAN_NEXT_AFTER_DEATH;Switch to next
+hotkeys/ID_HUMAN_NEXT_AFTER_DEATH;Switch to the next
 hotkeys/ID_REPAIR_HUMAN;Repair
 hotkeys/ID_HUMAN_SHOOT_MELEE;Melee strike
 hotkeys/ID_HUMAN_USE_MEDKIT;Use medkit
@@ -95,10 +98,10 @@ hotkeys/ID_HUMAN_CONTROL_HEADER;Infantry
 controls/human_walk;Move axis
 controls/human_strafe;Strafe axis
 infantry_camouflage;Soldiers camouflage
-exp_reasons/kill_human;Infantry neutralized
+exp_reasons/kill_human;Hostile eliminated
 unit_type/human;Infantry
-flightmenu/btnBailoutHuman;Get rid of the soldier
-flightmenu/questionBailoutHuman;Are you sure you want to get rid of the soldier?
+flightmenu/btnBailoutHuman;Send the soldier to the rear
+flightmenu/questionBailoutHuman;Are you sure you want to send the soldier to the rear?
 mainmenu/firearms;Firearms
 mainmenu/type_human;Firearm
 crew/vision;Attentiveness
@@ -139,8 +142,9 @@ crew/weapon_handling/weaponTurningSpeedMult/tooltip;
 crew/weapon_handling/weaponSwayForceMult/tooltip;
 crew/groundService/squadAdditionalSoldierCount/tooltip;
 multiplayer/human_kills;Infantry Neutralized
+multiplayer/squadRespawnUnavailable;Respawn near a squadmate is currently unavailable.
 expEventScore/killHuman;Neutralization of infantry
-msgbox/applyToAllInfantrySkins;"Are you sure you want to apply camouflage
+msgbox/applyToAllInfantrySkins;"Are you sure you want to apply the camouflage
  {skin} for BR({br}) {location}, {team}
  to all firearms?"
 mainmenu/changeFirearm;Change firearm
@@ -148,6 +152,7 @@ hint/humanPickUpWeaponAmmo;Pick up ammo
 hint/humanUse;Use
 hint/humanPickUp;Pick Up
 hint/humanThrowBack;Throw grenade back
+hint/humanHandsFull;Can't throw a grenade with the current equipment in hands
 hint/humanSwitchWeapons;Switch Weapons
 hint/humanOpenDoor;Open Door
 hint/humanCloseDoor;Close Door
@@ -171,6 +176,7 @@ hint/personal_context_command_canceled/too_far;Personal order cancelled. You are
 hint/squad/next_soldier_after_death;Next soldier
 hint/hold_breath_to_aim;{{ID_HUMAN_HOLD_BREATH}} hold breath
 hint/next_variable_zoom_tip;Change magnification
+hint/change_grenade_launcher_sight;Change grenade launcher sight
 squad_orders/frag_grenade;Frag
 squad_orders/smoke_grenade;Smoke
 squad_orders/flash_grenade;Flash
@@ -208,11 +214,14 @@ death/nearbyExplosion;Nearby explosion
 death/humanDrown;Drowned
 death/mapArea;Left the battlefield
 hint/miningWall;Mine the wall
+hint/reanimationAvailable;Revive an ally
+hint/declineReanimation;Go to respawn
 hint/reassemblingWall;Reassemble the wall
 hints/gun_needs_bipod;Bipod required
 hints/place_bipod;Mount weapon
 hints/drone/respawn_is_missing;No spawn point for the drone
 hints/drone/bleeding_warning;Operator injured
+hints/drone/no_launches_remaining;There are no launches remaining
 hints/drone/not_availble_in_mission;Not available in the mission
 hints/drone/lost_signal;Signal lost
 hints/drone/out_of_area;Out of signal range
@@ -226,6 +235,14 @@ hints/resupply/explosive_box_refill;Refill explosives
 hints/resupply/ammo_box_refill;Refill ammo
 hints/resupply/armor_box_refill;Restore armor
 hints/resupply/ammo_full;Ammo is full
+hints/resupply/cooldown_for_use;Cooldown: {seconds} seconds
+hint/askForReanimation;Call for help
+hits/area/header;Your hits
+hits/area/armor;armor
+hits/area/torso;body
+hits/area/leg;leg
+hits/area/head;head
+hits/area/hand;arm
 armor_parameters/composition;Armor composition and parameters
 armor_parameters/weight;Armor weight
 armorSegment/helmet/name;Helmet
@@ -295,6 +312,8 @@ unit/bulletEnergy;Bullet energy
 unit/bulletArmorPower;Armor power
 unit/weaponShotFreq;Rate of fire
 unit/weaponWeight;Weight (empty)
+unit/weight;Weight
+unit/speed;Speed
 unit/weaponRecoil;Recoil impulse
 unit/weaponAmmoHolders;Ammunition
 location/hvg_granitograd;Granitograd
@@ -302,6 +321,7 @@ location/hvg_training_ground;Training ground
 missions/testRun;Test mission
 missions/granitograd_infdom;Granitograd
 infantry/squad/member;Soldier
+infantry/squad/member_inactive_for_event;in current battle
 infantry/squad/member_inactive_advice;train your crew
 infantry/squad/member_inactive;Inactive
 infantry/squad/members;Soldiers

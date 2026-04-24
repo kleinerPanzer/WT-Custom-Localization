@@ -639,5 +639,14 @@ attachables/decor_disco_sphere;Christmas Disco Ball
 attachables/decor_christmas_dodge;Christmas Pickup Truck
 attachables/decor_christmas_backpack;Christmas backpack
 attachables/decor_firework;Firework mortar
+attachables/decor_firework/desc;Launches fireworks when destroying enemy vehicles
 attachables/decor_christmas_gazebo;Christmas gazebo
+attachables/decor_blunderbuss;Blunderbuss
+attachables/decor_pistol;Pistol
+attachables/decor_paintball_mask;Paintball helmet
+attachables/decor_paintball_marker;Paintball marker
+attachables/decor_fire_horse;Horse figurine
+attachables/helmet_sh_36;СШ-36
+attachables/decor_cheer_heybox_guai;Cheer fors
+attachables/decor_tank_match_cup;Tank of the Match
 CLIPPED_LANG_KEEP_IT_ALWAYS_FIRST;;
