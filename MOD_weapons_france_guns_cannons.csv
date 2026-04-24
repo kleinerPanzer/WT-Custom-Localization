@@ -49,6 +49,7 @@ weapons/120mm_giat_cn120_26_f1_msc_user_cannon;Canon de 120 mm modèle F1
 weapons/120mm_GIAT_CN120_25_G1_user_cannon;Canon de 120 mm modèle G1
 120mm_occ_120_g1;OCC 120 G1;
 120mm_ofl_120_g1;OFL 120 G1;
+120mm_f1_he;OE 120 F1
 75mm_mle1917;mle 1917;
 164mm_nord_ss11;SS.11;
 47mm_mle1892g;mle 1892G;
@@ -274,3 +275,5 @@ weapons/380mm_45_mle_1935_mod_naval_user_cannon/short;380 mm mle 1935
 weapons/100mm_45_mle_1933_naval_user_cannon;Canon de 100 mm modèle 1933
 weapons/100mm_45_mle_1933_naval_user_cannon/short;100 mm mle 1933
 100mm_oea1945_he_df;OEA mle 1945
+weapons/138mm_40_model_1923_naval_user_cannon;Canon de 138 mm modèle 1923
+weapons/138mm_40_model_1923_naval_user_cannon/short;138 mm mle 1923

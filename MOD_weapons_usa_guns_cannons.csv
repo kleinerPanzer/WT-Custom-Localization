@@ -68,6 +68,7 @@ weapons/90mm_M3_open_turret_without_MB_user_cannon;Gun, 90-mm, M3;
 weapons/90mm_M3A1_user_cannon;Gun, 90-mm, M3A1;
 weapons/90mm_M36_user_cannon;Gun, 90-mm, M36;
 weapons/7_62mm_M1919A4_user_machinegun;Machine Gun, Caliber .30: Browning, M1919A4;
+weapons/7_62mm_M1919A4E1_user_machinegun;Machine Gun, Caliber .30: Browning, M1919A4E1;
 weapons/7_62mm_M73_user_machinegun;Machine Gun, 7.62 mm: M73;
 weapons/7_62mm_M60D_user_machinegun;Machine Gun, 7,62-mm: M60D;
 weapons/7_62mm_M240_user_machinegun;Machine Gun, 7,62-mm: M240;

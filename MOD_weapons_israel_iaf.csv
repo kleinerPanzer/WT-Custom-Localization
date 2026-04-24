@@ -39,6 +39,11 @@ weapons/il_derby_sam;SR יברדI
 weapons/il_derby_sam/short;SR יברדI
 weapons/il_derby_default;יברד
 weapons/il_derby_default/short;יברד
+il_derby_sam;SR יברדI
+il_python_5_sam;5 ןותיפ
+il_derby_er_sam;ER יברדI
+weapons/il_derby_er_sam;ER יברדI
+weapons/il_derby_er_sam/short;ER יברדI
 weapons/r_darter;Radar Darter;
 weapons/r_darter/short;R-Darter;
 weapons/r_darter_default;Radar Darter;

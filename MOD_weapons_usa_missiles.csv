@@ -1,4 +1,6 @@
 <ID|readonly|noverify>;<NewLanguage>
+weapons/us_agm_154a1_jsow;AGM-154A1 JSOW
+weapons/us_agm_154a1_jsow/short;AGM-154A1
 weapons/us_2000lb_agm_130a;AGM-130A;
 weapons/us_2000lb_agm_130a/short;AGM-130A;
 weapons/us_2000lb_agm_130a_12;AGM-130A-12;
@@ -186,8 +188,15 @@ weapons/us_aim_120c_7;AIM-120C-7 AMRAAM
 weapons/us_aim_120c_7/short;AIM-120C-7
 weapons/us_aim_120c_7_sam;AIM-120C-7 AMRAAM
 weapons/us_aim_120c_7_sam/short;AIM-120C-7
+weapons/us_aim_120c_7_default;AIM-120C-7 AMRAAM
+weapons/us_aim_120c_7_default/short;AIM-120C-7
+us_aim_120c_7_sam;AIM-120C-7
 weapons/us_aim_120c_5_default;AIM-120C-5 AMRAAM
 weapons/us_aim_120c_5_default/short;AIM-120C-5
+weapons/us_aim_120d;AIM-120D AMRAAM
+weapons/us_aim_120d/short;AIM-120D
+weapons/us_aim_120d_default;AIM-120D AMRAAM
+weapons/us_aim_120d_default/short;AIM-120D
 us_aim9b_sidewinder;AIM-9B Sidewinder;
 us_aim9c_sidewinder;AIM-9C Sidewinder;
 us_aim9d_sidewinder;AIM-9D Sidewinder;
@@ -209,6 +218,7 @@ weapons/us_aim_9x;AIM-9X Sidewinder
 weapons/us_aim_9x/short;AIM-9X
 weapons/us_aim_9x_block_2;AIM-9X-2 Sidewinder
 weapons/us_aim_9x_block_2/short;AIM-9X-2
+us_aim_9x_block_2;AIM-9X-2
 weapons/us_aim9l_sidewinder;AIM-9L Sidewinder;
 weapons/us_aim9l_sidewinder/short;AIM-9L;
 weapons/us_aim9l_i_sidewinder;Luft-Luft-Rakete AIM-9L/I Sidewinder;
@@ -257,6 +267,8 @@ weapons/us_agm_65h;AGM-65H Maverick;
 weapons/us_agm_65h/short;AGM-65H;
 weapons/us_agm_65l;AGM-65L Maverick;
 weapons/us_agm_65l/short;AGM-65L;
+weapons/us_agm_84h_slam_er;AGM-84H SLAM-ER
+weapons/us_agm_84h_slam_er/short;AGM-84H
 weapons/152mm_19M220_rocket_launcher;Mobile Intercept-Aerial Guided Missile, MIM-220;
 weapons/rocket_tomahawk_bgm109_launcher;BGM-109 TLAM;
 weapons/rocket_tomahawk_bgm109_launcher/short;BGM-109;

@@ -74,6 +74,10 @@ weapons/120mm_Schneider_Canet_1898_user_cannon;斯加式十二糎速射加農砲
 
 weapons/150mm_Type_38_user_cannon;三八式十五糎榴弾砲
 
+weapons/105mm_type_91_user_cannon;九一式十糎榴弾砲
+105mm_type91_he;九一式榴弾
+105mm_type91_heat;三式穿甲榴弾
+
 20mm_type100_ap;一〇〇式徹甲弾;
 20mm_type100_he;一〇〇式榴弾;
 

@@ -249,7 +249,14 @@ weapons/7_62mm_FN_MAG58_user_machinegun;7.62 mm MAG 58
 apds_sabot;APDS Sabot
 apfsds_sabot;APFSDS Sabot
 snowball_tank;Snowball
+snowball_tank/name/short;Snowball
+snowball_tank/name;A snowy projectile that's sure to leave enemies freezing cold!
 
 weapons/125mm_KBA_3_user_cannon;125-мм танкова гармата КБА-3
 weapons/7_62mm_KT_user_machinegun;7,62-мм кулемет КТ-7,62
 weapons/12_7mm_KT_user_cannon;12,7-мм кулемет КТ-12,7
+130mm_r2;Р-2С
+weapons/130mm_r2/short;Р-2С
+weapons/30mm_AG_17_user_cannon;30-мм автоматичний гранатомет КБА-117
+weapons/130mm_barrier_launcher_user_cannon;ТПК-2С
+weapons/30mm_ztm1_BTR_user_cannon;30-мм автоматична гармата ЗТМ-1

@@ -96,14 +96,24 @@ weapons/cn_akd_9_default;AKD-9空地导弹;
 weapons/cn_akd_9_default/short;AKD-9;
 weapons/cn_akd_10;AKD-10空地导弹;
 weapons/cn_akd_10/short;AKD-10;
+weapons/ch_kd_88_missile_ir;K/AKD88A反舰导弹
+weapons/ch_kd_88_missile_ir/short;K/AKD88A
+weapons/ch_kd_88_missile_tv;K/AKD88反舰导弹
+weapons/ch_kd_88_missile_tv/short;K/AKD88
 
 weapons/cn_sd10a;SD-10A Air-to-Air Missile;
 weapons/cn_sd10a/short;SD-10A;
 weapons/cn_sd10a_default;SD-10A Air-to-Air Missile;
 weapons/cn_sd10a_default/short;SD-10A;
+weapons/cn_pl12a;PL-12AE Air-to-Air Missile;
+weapons/cn_pl12a/short;PL-12AE
+weapons/cn_pl12a_default;PL-12AE Air-to-Air Missile;
+weapons/cn_pl12a_default/short;PL-12AE
 
 weapons/cn_yj_81k;YJ-81反舰导弹
-weapons/cn_yj_81k/short;YJ-81(k)
+weapons/cn_yj_81k/short;YJ-81
+weapons/ch_yj_83k_missile;YJ-83K反舰导弹
+weapons/ch_yj_83k_missile/short;YJ-83K
 
 weapons/cn_cm_502kg_he;CM-502KG Light-Weight Short-Range Air-to-Surface Missile;CM-502KG轻型近程空面导弹
 weapons/cn_cm_502kg_he/short;CM-502KG
@@ -128,6 +138,8 @@ weapons/cn_ls_6_250_ir;LS-6 250 kg Guided Glide Bomb (IR);
 weapons/cn_ls_6_250_ir/short;LS-6/250 (IR)
 weapons/cn_ls_6_500;LS-6 500 kg Guided Glide Bomb;
 weapons/cn_ls_6_500/short;LS-6/500;
+weapons/cn_ls_6_500_ir;LS-6 500 kg Guided Glide Bomb (IR);
+weapons/cn_ls_6_500_ir/short;LS-6/500 (IR)
 weapons/cn_fs_70;Fire Snake 70 Aerial Rocket;
 weapons/cn_fs_70/short;FS70;
 weapons/cn_fire_snake_70a;Fire Snake 70A Guided Aerial Rocket

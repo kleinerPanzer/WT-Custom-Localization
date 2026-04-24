@@ -78,6 +78,10 @@ weapons/cannonGSh_23L_upk_23_250;23-мм авиационная пушка ГШ-
 weapons/cannonGSh_23L;23-мм авиационная пушка ГШ-23Л;
 weapons/cannonGSh_6_23M;23-мм авиационная пушка ГШ-6-23М;
 weapons/cannonGSh_6_23M/short;ГШ-6-23М;
+weapons/cannonGSh_6_23M_gun_pod;23-мм авиационная пушка ГШ-6-23М
+weapons/cannonGSh_6_23M_gun_pod/short;ГШ-6-23М
+weapons/cannonGSh_6_23M_gun_pod_turret;23-мм авиационная пушка ГШ-6-23М
+weapons/cannonGSh_6_23M_gun_pod_turret/short;ГШ-6-23М
 weapons/23mm_2A7_user_cannon;23-мм автоматическая зенитная пушка 2А7;
 weapons/23mm_2A14_user_cannon;23-мм автоматическая зенитная пушка 2А14;
 weapons/23mm_2a14_naval_user_cannon;23-мм автоматическая зенитная пушка 2А14;
@@ -161,8 +165,8 @@ weapons/76mm_1902_30_user_cannon;76-мм дивизионная пушка об�
 weapons/76mm_1910_16_user_cannon;76-мм противоштурмовая пушка обр. 1910 г.
 weapons/76mm_1914_lender_naval_user_cannon;76-мм зенитная пушка обр. 1914/15 г.;
 weapons/76mm_1914_lender_naval_user_cannon/short;обр. 1914/15 г.;
-weapons/76mm_KT28_for_T26_user_cannon;76-мм танковая пушка обр. 1927/32 г. (KT-28);
-weapons/76mm_KT28_user_cannon;76-мм танковая пушка обр. 1927/32 г. (KT-28);
+weapons/76mm_KT28_for_T26_user_cannon;76-мм танковая пушка обр. 1927/32 г. (КТ-28);
+weapons/76mm_KT28_user_cannon;76-мм танковая пушка обр. 1927/32 г. (КТ-28);
 weapons/76mm_3K_user_cannon;76-мм зенитная пушка обр. 1931 г. (3-К);
 weapons/76mm_55_34k_naval_user_cannon;76-мм зенитная пушка обр. 1935 г. (34-К);
 weapons/76mm_55_39k_naval_user_cannon;76-мм зенитная пушка 39-К;

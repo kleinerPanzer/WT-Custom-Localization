@@ -280,3 +280,5 @@ weapons/406mm_45_bl_mk1_r2_naval_user_cannon;Ordnance, B.L., 16-inch, Mk. I
 weapons/356mm_45_14inch_mark7_naval_user_cannon;Ordnance, B.L., 14-inch, Mk. VII
 356mm_mark_1b_6crh_apc;Mk. Ib APC
 356mm_mark_5b_6crh_he;Mk. Vb HE
+weapons/155mm_L_39_user_cannon;155 mm 39-calibre ordnance
+weapons/155mm_L_31_user_cannon;Gun, 155mm Howitzer, L31A1

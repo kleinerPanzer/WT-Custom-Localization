@@ -23,6 +23,7 @@ weapons/30mm_Bushmaster_2_Mk_44_MCT30_user_cannon;30 mm Mk44 Bushmaster II Chain
 weapons/30mm_Bushmaster_2_Mk_44_VILKAS_user_cannon;30 mm Mk44 Bushmaster II Chain Gun;
 weapons/30mm_Bushmaster_2_Mk_44_freccia_ows_user_cannon;30mm Mk44 Bushmaster II Chain Gun
 weapons/30mm_Bushmaster_2_Mk_44_efv_p1_user_cannon;Gun, Automatic, 30-mm, Mk 44 Mod 1
+weapons/30mm_xm_813_user_cannon;Gun, Automatic, 30-mm, XM813
 40mm_HF_MKII_TL;HF Mk. II;
 weapons/81mm_mk_2_mortar_naval_user_cannon;81 mm Mortar Mk 2 Mod 0;
 weapons/81mm_mk_2_mortar_naval_user_cannon/short;Mortar Mk 2 Mod 0;
@@ -147,6 +148,8 @@ weapons/76mm_3_50_mk10_ww1_mk11_mount_naval_user_cannon;3”/50 Caliber Gun Mk 1
 76mm_aa_mk23_he_tf;HE-TF Mk 23 Mod 0;
 weapons/us_533mm_21in_bliss_leavitt_mk1_torpedo;21” Bliss-Leavitt Torpedo Mk 1 Mod 0;
 weapons/us_533mm_21in_bliss_leavitt_mk1_torpedo/short;Mk 1 Mod 0;
+weapons/us_533mm_21in_bliss_leavitt_mk9_torpedo;21” Bliss-Leavitt Torpedo Mk 9 Mod 0
+weapons/us_533mm_21in_bliss_leavitt_mk9_torpedo/short;Mk 9 Mod 0
 305mm_mk18_ap;AP Mk 18 Mod 0;
 305mm_mk7_apcbc;APCBC Mk 7 Mod 0;
 weapons/203mm_55_8inch_mk12_naval_user_cannon;8”/55 Caliber Gun Mk 12 Mod 0;
@@ -161,6 +164,7 @@ weapons/127mm_54_mk18_turret_mk42_single_naval_user_cannon;5”/54 Caliber Dual 
 weapons/76mm_70_mark_37_naval_user_cannon;3”/70 Caliber Gun Mk 26 Mod 0 (Mount Mk 37 Mod 0);
 76mm_mk34_mod1_navy_he;HEMk 34 Mod 1;
 76mm_mk34_mod1_navy_he_vt;HE-VT Mk 34 Mod 1;
+weapons/356mm_45_14inch_mk1_naval_user_cannon;14”/45 Caliber Gun Mk 1 Mod 0;
 weapons/356mm_45_14inch_mk8_naval_user_cannon;14”/45 Caliber Gun Mk 8 Mod 0;
 weapons/356mm_45_14inch_mk12_naval_user_cannon;14”/45 Caliber Gun Mk 12 Mod 0;
 weapons/356mm_50_14inch_mk11_naval_user_cannon;14”/50 Caliber Gun Mk 11 Mod 0;

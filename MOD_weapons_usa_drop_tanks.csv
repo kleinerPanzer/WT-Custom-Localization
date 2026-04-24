@@ -15,6 +15,8 @@ weapons/us_130gal_drop_tank_1;130 gal. Drop Tank
 weapons/us_130gal_drop_tank_1/short;Drop Tank
 weapons/us_130gal_drop_tank_2;130 gal. Drop Tank
 weapons/us_130gal_drop_tank_2/short;Drop Tank
+weapons/us_340gal_irst_fa_18e_drop_tank_centr;AN/ASG-34A(V)1 IRST + FPU-13/A External Fuel Tank
+weapons/us_340gal_irst_fa_18e_drop_tank_centr/short;AN/ASG-34A(V)1 + FPU-13/A
 weapons/us_480gal_fa_18e_drop_tank_centr;480 gal. Drop Tank
 weapons/us_480gal_fa_18e_drop_tank_centr/short;Drop Tank
 weapons/us_480gal_fa_18e_drop_tank_wing_left_1;480 gal. Drop Tank

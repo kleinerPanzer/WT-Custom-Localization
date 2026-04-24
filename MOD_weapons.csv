@@ -412,6 +412,8 @@ weapons/countermeasure_chaff_only;Chaff;
 weapons/countermeasure_chaff_only/short;Chaff;
 weapons/countermeasure_chaff_only_large;Chaff;
 weapons/countermeasure_chaff_only_large/short;Chaff;
+weapons/countermeasure_chaff_only_large_a32a;Chaff;
+weapons/countermeasure_chaff_only_large_a32a/short;Chaff
 weapons/countermeasure_large_split_launcher_jet;Flares/Chaff;
 weapons/countermeasure_large_split_launcher_jet/short;Flares/Chaff;
 weapons/countermeasure_large_split_launcher_jet_maw;Flares/Chaff;
@@ -763,6 +765,7 @@ nr23_turret_apit/name/short;APIT;
 23mm_ussr_HEIT/name/short;HEFI-T;
 23mm_ussr_APIT/name;23 mm Armor-Piercing Incendiary shells with tracers;
 23mm_ussr_APIT/name/short;APIT;
+55mm_germ_heit/name;55 mm HEI-T
 football_kick;Kick;
 football_kick/name/short;SF;
 football_kick/name;Special football kick;

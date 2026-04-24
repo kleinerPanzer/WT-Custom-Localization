@@ -29,6 +29,10 @@ weapons/rocket_9m33_naval_rocket_launcher/short;ЗРК ЗиФ-122
 weapons/170mm_57E6_rocket_launcher;Пусковая установка 95Я6;
 weapons/170mm_57E6_rocket_launcher/short;ПУ 95Я6;
 170mm_zur_95ya6;ЗУР 57Э6;
+weapons/170mm_57E6M_launcher_user_cannon;Пусковая установка 95Я6М;
+weapons/170mm_57E6M_launcher_user_cannon/short;ПУ 95Я6М;
+170mm_57e6m;ЗУР 57Э6М
+170mm_tkb_1055;ТКБ-1055
 
 weapons/170mm_57E6/short;ЗУР 95Я6;
 
