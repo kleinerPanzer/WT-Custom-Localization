@@ -60,6 +60,10 @@ jp_destroyer_akizuki_2;秋月型
 jp_destroyer_akizuki_EC_0;秋月
 jp_destroyer_akizuki_EC_1;秋月
 jp_destroyer_akizuki_EC_2;秋月型
+jp_destroyer_suzutsuki_shop;涼月
+jp_destroyer_suzutsuki_0;秋月型型乙型駆逐艦 涼月 (1945)
+jp_destroyer_suzutsuki_1;涼月
+jp_destroyer_suzutsuki_2;秋月型
 jp_cruiser_kuma_shop;多摩
 jp_cruiser_kuma_0;球磨型軽巡洋艦 多摩 (1942)
 jp_cruiser_kuma_1;多摩
@@ -218,6 +222,14 @@ jp_destroyer_momi_shop;樅
 jp_destroyer_momi_0;樅型駆逐艦 樅
 jp_destroyer_momi_1;樅
 jp_destroyer_momi_2;樅型
+jp_destroyer_kagero_shop;陽炎
+jp_destroyer_kagero_0;陽炎型駆逐艦 陽炎 (1943)
+jp_destroyer_kagero_1;陽炎
+jp_destroyer_kagero_2;陽炎型
+jp_destroyer_tade_shop;蓼
+jp_destroyer_tade_0;樅型 蓼 (1930)
+jp_destroyer_tade_1;蓼
+jp_destroyer_tade_2;樅型
 shop/group/jp_cruiser_furutaka_aoba_group;古鷹 / 青葉
 jp_armoredcruiser_kurama_shop;鞍馬
 jp_armoredcruiser_kurama_0;鞍馬型巡洋戦艦 鞍馬

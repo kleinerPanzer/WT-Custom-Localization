@@ -1109,6 +1109,70 @@ structures/chemical_processing_unit;Processing unit
 structures/cooling_tower;Cooling tower
 structures/fan_cooling_tower;Fan cooling tower
 structures/chimney;Chimney
+structures/fuel_storage;Fuel Depot
+structures/ammo_storage;Ammo Depot
+structures/tank_storage;Armored Vehicle Depot
 uk_ai_sam_rapier_0;Tracked Rapier
 uk_ai_sam_rapier_1;Tracked Rapier
 uk_ai_sam_rapier_2;Tracked Rapier
+wheeled_vehicles/ussr_kamaz_4310_awning_ammo_carrier_0;КамАЗ-4310
+wheeled_vehicles/ussr_kamaz_4310_awning_ammo_carrier_1;КамАЗ-4310
+wheeled_vehicles/ussr_kamaz_4310_awning_ammo_carrier_2;КамАЗ-4310
+wheeled_vehicles/us_m939_awning_ammo_carrier_0;M939
+wheeled_vehicles/us_m939_awning_ammo_carrier_1;M939
+wheeled_vehicles/us_m939_awning_ammo_carrier_2;M939
+wheeled_vehicles/us_m978_fuel_carrier_0;M978
+wheeled_vehicles/us_m978_fuel_carrier_1;M978
+wheeled_vehicles/us_m978_fuel_carrier_2;M978
+us_m8_scott_snowball_shop;Snowballer
+us_m8_scott_snowball_0;Snowballer
+us_m8_scott_snowball_1;Snowballer
+us_m8_scott_snowball_2;Snowballer
+us_ai_aew_radar_tps_59_0;Radar Set, AN/TPS-59
+us_ai_aew_radar_tps_59_1;AN/TPS-59
+us_ai_aew_radar_tps_59_2;AN/TPS-59
+us_ai_sam_radar_cwar_0;Radar Set, Guided Missile System, HAWK Air Defense, AN/MPQ-34
+us_ai_sam_radar_cwar_1;AN/MPQ-34
+us_ai_sam_radar_cwar_2;AN/MPQ-34
+us_ai_sam_radar_an_mpq_53_0;Radar Set, Semitrailer Mounted, AN/MPQ-53
+us_ai_sam_radar_an_mpq_53_1;AN/MPQ-53
+us_ai_sam_radar_an_mpq_53_2;AN/MPQ-53
+us_ai_sam_radar_an_mpq_46_0;Radar Set, High-Powered, AN/MPQ-46
+us_ai_sam_radar_an_mpq_46_1;AN/MPQ-46
+us_ai_sam_radar_an_mpq_46_2;AN/MPQ-46
+ussr_ai_aew_radar_55j6_0;Радиолокационная станция 55Ж6
+ussr_ai_aew_radar_55j6_1;55Ж6
+ussr_ai_aew_radar_55j6_2;55Ж6
+ussr_ai_sam_radar_5n64s_0;Радиолокатор обнаружения 5Н64С
+ussr_ai_sam_radar_5n64s_1;5Н64С
+ussr_ai_sam_radar_5n64s_2;5Н64С
+ussr_ai_sam_radar_5n63s_0;Радиолокатор подсвета и наведения 5Н63С
+ussr_ai_sam_radar_5n63s_1;5Н63С
+ussr_ai_sam_radar_5n63s_2;5Н63С
+ussr_ai_sam_radar_9s18_0;Станция обнаружения и целеуказания 9С18
+ussr_ai_sam_radar_9s18_1;9С18
+ussr_ai_sam_radar_9s18_2;9С18
+us_ai_mlrs_m270_0;Launcher, Rocket, Armored Vehicle Mounted, M270
+us_ai_mlrs_m270_1;M270
+us_ai_mlrs_m270_2;M270
+ussr_ai_mlrs_9a52_2_smerch_0;Боевая машина 9А52-2
+ussr_ai_mlrs_9a52_2_smerch_1;9А52-2
+ussr_ai_mlrs_9a52_2_smerch_2;9А52
+ussr_ai_tbm_9k79_tochka_0;Самоходная пусковая установка 9П129
+ussr_ai_tbm_9k79_tochka_1;9П129
+ussr_ai_tbm_9k79_tochka_2;9П129
+us_ai_tbm_m752_lance_0;Launcher, Guided Missile, Carrier Mounted, M752
+us_ai_tbm_m752_lance_1;M752
+us_ai_tbm_m752_lance;M752
+us_ai_sam_launcher_m901_0;Launching Station, Guided Missile, Semitrailer Mounted, M901
+us_ai_sam_launcher_m901_1;M901
+us_ai_sam_launcher_m901_2;M901
+us_ai_sam_launcher_m192_0;Launcher, Zero-Length, Guided Missile, M192
+us_ai_sam_launcher_m192_1;M192
+us_ai_sam_launcher_m192_2;M192
+ussr_ai_sam_launcher_5p85se_0;Самоходная пусковая установка 5П85СЕ
+ussr_ai_sam_launcher_5p85se_1;5П85СЕ
+ussr_ai_sam_launcher_5p85se_2;5П85
+ussr_ai_sam_launcher_9a310_0;Боевая машина 9А310
+ussr_ai_sam_launcher_9a310_1;9А310
+ussr_ai_sam_launcher_9a310_2;9А310

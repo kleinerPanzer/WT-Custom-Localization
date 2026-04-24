@@ -1,14 +1,49 @@
 <ID|readonly|noverify>;<NewLanguage>
-bf-109f-4_hungary_shop;◐ Bf 109 F-4
-bf-109f-4_hungary_0;◐ Bf 109 F-4
-bf-109f-4_hungary_1;◐ Bf 109 F
+
+wm_21_shop;◔ WM-21
+wm_21_0;◔ WM-21
+wm_21_1;◔ WM-21
+wm_21_2;◔ WM-21
+wm_23_shop;◔ WM-23
+wm_23_0;◔ WM-23
+wm_23_1;◔ WM-23
+wm_23_2;◔ WM-23
+
+re_2000_heja_1_shop;◔ Héja
+re_2000_heja_1_0;◔ Héja
+re_2000_heja_1_1;◔ Héja
+re_2000_heja_1_2;◔ Héja
+re_2000_heja_2_shop;◔ Héja II
+re_2000_heja_2_0;◔ Héja II
+re_2000_heja_2_1;◔ Héja II
+re_2000_heja_2_2;◔ Héja
+
+bf-109f-4_hungary_shop;◔ Bf 109 F-4
+bf-109f-4_hungary_0;◔ Bf 109 F-4
+bf-109f-4_hungary_1;◔ Bf 109 F
 bf-109f-4_hungary_2;Bf 109
-bf-109g-2_hungary_shop;◐ Bf 109 G-2
-bf-109g-2_hungary_0;◐ Bf 109 G-2
-bf-109g-2_hungary_1;◐ Bf 109 G
+bf-109g-2_hungary_shop;◔ Bf 109 G-2
+bf-109g-2_hungary_0;◔ Bf 109 G-2
+bf-109g-2_hungary_1;◔ Bf 109 G
 bf-109g-2_hungary_2;Bf 109
 
-bf_110g_4_hungary_shop;◐ Bf 110 G-4/U5/R6/R8
-bf_110g_4_hungary_0;◐ Bf 110 G-4/U5/R6/R8
-bf_110g_4_hungary_1;◐ Bf 110 G
+bf_110g_4_hungary_shop;◔ Bf 110 G-4/U5/R6/R8
+bf_110g_4_hungary_0;◔ Bf 110 G-4/U5/R6/R8
+bf_110g_4_hungary_1;◔ Bf 110 G
 bf_110g_4_hungary_2;Bf 110
+
+fw_190f_8_hungary_shop;◔ Fw 190 F-8
+fw_190f_8_hungary_0;◔ Fw 190 F-8
+fw_190f_8_hungary_1;◔ Fw 190 F
+fw_190f_8_hungary_2;◔ Fw 190
+
+me_210ca_1_hungary_shop;◔ Me 210 Ca-1
+me_210ca_1_hungary_0;◔ Me 210 Ca-1
+me_210ca_1_hungary_1;◔ Me 210 Ca
+me_210ca_1_hungary_2;◔ Me 210
+me_210ca_1_40_mm_hungary_shop;◔ Me 210 Ca-1 (36 M.)
+me_210ca_1_40_mm_hungary_0;◔ Me 210 Ca-1 (36 M.)
+me_210ca_1_40_mm_hungary_1;◔ Me 210 Ca
+me_210ca_1_40_mm_hungary_2;◔ Me 210
+
+shop/group/me_210ca_1_hungary_group;◔ Me 210 Ca-1 / ◔ Me 210 Ca-1 (36 M.)

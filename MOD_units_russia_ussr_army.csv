@@ -15,8 +15,12 @@ ussr_pantsyr_s1_shop;72В6
 ussr_pantsyr_s1_0;Боевая машина 72В6
 ussr_pantsyr_s1_1;72В6
 ussr_pantsyr_s1_2;72В6
+ussr_pantsyr_sm_sv_shop;БМ Панцирь-СМ-СВ
+ussr_pantsyr_sm_sv_0;Боевая машина для Панцирь-СМ-СВ
+ussr_pantsyr_sm_sv_1;БМ Панцирь-СМ-СВ
+ussr_pantsyr_sm_sv_2;БМ Панцирь-СМ
 ussr_buk_m3_launcher_shop;9А317М
-ussr_buk_m3_launcher_0;БМ 9А317М
+ussr_buk_m3_launcher_0;Боевая машина 9А317М
 ussr_buk_m3_launcher_1;9А317М
 ussr_buk_m3_launcher_2;9А317
 ussr_buk_m3_fcs_shop;9С18М3
@@ -55,6 +59,10 @@ ussr_t_72b3_2011_shop;Т-72Б3М (2016)
 ussr_t_72b3_2011_0;Танк Т-72Б3М обр. 2016 г.
 ussr_t_72b3_2011_1;Т-72Б3М
 ussr_t_72b3_2011_2;Т-72
+ussr_t_72b3_arena_shop;Т-72Б3 (Арена-Э)
+ussr_t_72b3_arena_0;Танк Т-72Б3 (Арена-Э)
+ussr_t_72b3_arena_1;Т-72Б3
+ussr_t_72b3_arena_2;Т-72
 ussr_t_72b3_arena_m_shop;Т-72Б3А
 ussr_t_72b3_arena_m_0;Танк Т-72Б3А
 ussr_t_72b3_arena_m_1;Т-72Б3А
@@ -87,6 +95,10 @@ mi_35m_shop;Ми-35М
 mi_35m_0;Ми-35М
 mi_35m_1;Ми-35М
 mi_35m_2;Ми-35
+mi_35m_killstreak_shop;Ми-35М
+mi_35m_killstreak_0;Ми-35М
+mi_35m_killstreak_1;Ми-35М
+mi_35m_killstreak_2;Ми-35
 ussr_9p157_shop;9П157-2
 ussr_9p157_0;Боевая машина 9П157-2
 ussr_9p157_1;9П157-2
@@ -135,6 +147,10 @@ mi_28n_shop;Ми-28Н
 mi_28n_0;Ми-28Н
 mi_28n_1;Ми-28Н
 mi_28n_2;Ми-28
+mi_28n_killstreak_shop;Ми-28Н
+mi_28n_killstreak_0;Ми-28Н
+mi_28n_killstreak_1;Ми-28Н
+mi_28n_killstreak_2;Ми-28
 mi_28nm_shop;Ми-28НМ
 mi_28nm_0;Ми-28НМ
 mi_28nm_1;Ми-28НМ
@@ -229,6 +245,7 @@ shop/group/ussr_t_34_85_group;Т-34-85 (авг. 1944) / Т-34-85 (март 1945)
 shop/group/ussr_9a33_35_group;9А33БМ3 / 9А35М2
 shop/group/ussr_it_9p149_group;ИТ-1 / 9П149М
 shop/group/ussr_su_object_group;СУ-122 (1954) / Об. 268
+shop/group/ussr_t_64_t_80_group;Т-64БВ (1987) / Т-80Б (1985)
 ussr_m4a2_76w_sherman_shop;▂ М4-А2 (76-мм)
 ussr_m4a2_76w_sherman_0;▂ Танк М4-А2 «Генерал Шерман» (с пушкой 76,2-мм американский)
 ussr_m4a2_76w_sherman_1;▂ М4-А2 (76-мм)

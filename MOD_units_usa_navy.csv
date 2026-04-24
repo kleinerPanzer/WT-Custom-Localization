@@ -276,6 +276,10 @@ us_destroyer_bagley_class_bagley_shop;Bagley (DD 386)
 us_destroyer_bagley_class_bagley_0;DD 386 Class Destroyer, USS Bagley (DD 386) (1941)
 us_destroyer_bagley_class_bagley_1;Bagley
 us_destroyer_bagley_class_bagley_2;DD 386 Class
+us_destroyer_bagley_class_helm_shop;Helm (DD 388)
+us_destroyer_bagley_class_helm_0;DD 386 Class Destroyer, USS Helm (DD 388) (1944)
+us_destroyer_bagley_class_helm_1;Helm
+us_destroyer_bagley_class_helm_2;DD 386 Class
 
 // Fletcher //
 us_destroyer_fletcher_shop;Fletcher (DD 445)
@@ -469,6 +473,10 @@ us_battleship_nevada_shop;Nevada (BB 36)
 us_battleship_nevada_0;BB 36 Class Battleship, USS Nevada (BB 36) (1944)
 us_battleship_nevada_1;Nevada
 us_battleship_nevada_2;BB 36 Class
+us_battleship_oklahoma_shop;Oklahoma (BB 37)
+us_battleship_oklahoma_0;BB 36 Class Battleship, USS Oklahoma (BB 37) (1922)
+us_battleship_oklahoma_1;Oklahoma
+us_battleship_oklahoma_2;BB 36 Class
 
 // Pennsylvania //
 us_battleship_arizona_1931_shop;Pennsylvania (BB 39)

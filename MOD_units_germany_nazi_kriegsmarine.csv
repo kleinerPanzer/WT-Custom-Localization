@@ -55,6 +55,10 @@ germ_destroyer_class1936_z20_karlgalster_shop;Karl Galster (Z 20)
 germ_destroyer_class1936_z20_karlgalster_0;Zerstörer Typ 1936 Z 20 Karl Galster (1945)
 germ_destroyer_class1936_z20_karlgalster_1;Karl Galster
 germ_destroyer_class1936_z20_karlgalster_2;Zerstörer Typ 1936
+germ_s30_s61_shop;S 61
+germ_s30_s61_0;Schnellboot Typ 1939/40 S 61
+germ_s30_s61_1;S 61
+germ_s30_s61_2;Schnellboot Typ 1939/40
 germ_s38b_shop;S 62
 germ_s38b_0;Schnellboot Typ 1939/40 S 62
 germ_s38b_1;S 62
@@ -245,3 +249,7 @@ germ_destroyer_class1942_z51_shop;Z 51
 germ_destroyer_class1942_z51_0;Zerstörer Typ 1942 Z 51
 germ_destroyer_class1942_z51_1;Z 51
 germ_destroyer_class1942_z51_2;Zerstörer Typ 1942
+germ_destroyer_class1944_z52_shop;Z 52
+germ_destroyer_class1944_z52_0;Zerstörer Typ 1944 Z 52
+germ_destroyer_class1944_z52_1;Z 52
+germ_destroyer_class1944_z52_2;Zerstörer Typ 1944

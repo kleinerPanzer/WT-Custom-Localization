@@ -55,7 +55,7 @@ bf-109f-2_2;Bf 109
 bf-109f-4_shop;Bf 109 F-4
 bf-109f-4_0;Bf 109 F-4
 bf-109f-4_1;Bf 109 F
-bf-109f-4_2;Bf 109109
+bf-109f-4_2;Bf 109
 bf-109g-2_shop;Bf 109 G-2 trop
 bf-109g-2_0;Bf 109 G-2 Tropenausrüstung
 bf-109g-2_1;Bf 109 G
@@ -249,6 +249,10 @@ me-210_shop;Me 210
 me-210_0;Me 210
 me-210_1;Me 210
 me-210_2;Me 210
+me_210a_1_shop;Me 210A-1
+me_210a_1_0;Me 210 A-1 Hornisse
+me_210a_1_1;Me 210 A
+me_210a_1_2;Me 210
 me-410_shop;Me 410
 me-410_0;Me 410
 me-410_1;Me 410

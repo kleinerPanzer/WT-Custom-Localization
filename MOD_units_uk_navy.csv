@@ -22,14 +22,18 @@ uk_mtb_1series_shop;MTB 1
 uk_mtb_1series_0;Motor Torpedo Boat, BPB 60’, HMS MTB 1
 uk_mtb_1series_1;MTB 1
 uk_mtb_1series_2;BPB 60’
-uk_mtb_vosper_1series_shop;MTB 396
-uk_mtb_vosper_1series_0;Motor Torpedo Boat, 73’ Vosper Type I, HMS MTB 396
-uk_mtb_vosper_1series_1;MTB 396
-uk_mtb_vosper_1series_2;73’ Vosper
+uk_mtb_vosper_1series_shop;MTB 22
+uk_mtb_vosper_1series_0;Motor Torpedo Boat, 70’ Vosper Type I, HMS MTB 22
+uk_mtb_vosper_1series_1;MTB 22
+uk_mtb_vosper_1series_2;70’ Vosper
 uk_mtb_vosper_2series_shop;MTB 379
-uk_mtb_vosper_2series_0;Motor Torpedo Boat, 73’ Vosper Type II, HMS MTB 379
+uk_mtb_vosper_2series_0;Motor Torpedo Boat, 70’ Vosper Type II, HMS MTB 379
 uk_mtb_vosper_2series_1;MTB 379
-uk_mtb_vosper_2series_2;73’ Vosper
+uk_mtb_vosper_2series_2;70’ Vosper
+uk_73ft_vosper_type1_shop;MTB 234
+uk_73ft_vosper_type1_0;Motor Torpedo Boat, 72’6” Vosper Type II, HMS MTB 234
+uk_73ft_vosper_type1_1;MTB 234
+uk_73ft_vosper_type1_2;72’6” Vosper
 uk_sgb_304_shop;Grey Fox (SGB 4)
 uk_sgb_304_0;Steam Gun Boat, HMS Grey Fox (SGB 4)
 uk_sgb_304_1;Grey Fox

@@ -555,6 +555,11 @@ us_m1128_wolfpack_0;Stryker Mobile Gun System, M1128 (3rd Squadron, 2nd Cavalry 
 us_m1128_wolfpack_1;M1128 MGS
 us_m1128_wolfpack_2;M1128
 
+us_m1296_dragoon_shop;M1296 ICV-D
+us_m1296_dragoon_0;Infantry Combat Vehicle, M1296 Stryker Dragoon
+us_m1296_dragoon_1;M1296 ICV
+us_m1296_dragoon_2;M1296
+
 // AGS PROGRAM //
 
 us_ags_teledyne_shop;Expeditionary Tank
@@ -685,6 +690,10 @@ ah_64a_shop;AH-64A
 ah_64a_0;Helicopter, Attack, AH-64A Apache
 ah_64a_1;AH-64A
 ah_64a_2;AH-64
+ah_64a_killstreak_shop;AH-64A
+ah_64a_killstreak_0;Helicopter, Attack, AH-64A Apache
+ah_64a_killstreak_1;AH-64A
+ah_64a_killstreak_2;AH-64
 ah_64d_shop;AH-64D
 ah_64d_0;Helicopter, Attack, AH-64D Apache Longbow
 ah_64d_1;AH-64D

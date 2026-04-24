@@ -5,6 +5,7 @@ shop/group/saab_t18b_group;T 18B / T 18B (Akan m/45)
 shop/group/saab_j21a_group;J 21A-1 / J 21A-2
 shop/group/vampire_fb_group;J 28B / ☩ Vampire FB.52a
 shop/group/gladiator_j8a_group;J 8A / J 6B
+shop/group/saab_jas39_group;JAS 39
 
 he_115a_2_sweden_shop;T 2
 he_115a_2_sweden_0;Torped 2
@@ -136,6 +137,11 @@ saab_j29f_0;Jakt 29F Tunnan
 saab_j29f_1;J 29F
 saab_j29f_2;J 29
 
+mosquito_j30_sweden_shop;J 30
+mosquito_j30_sweden_0;Jakt 30
+mosquito_j30_sweden_1;J 30
+mosquito_j30_sweden_2;J 30
+
 saab_a32a_shop;A 32A
 saab_a32a_0;Attack 32A Lansen
 saab_a32a_1;A 32A
@@ -196,6 +202,10 @@ saab_jas39c_shop;JAS 39C
 saab_jas39c_0;Jakt-attack-spaning 39C Gripen
 saab_jas39c_1;JAS 39C
 saab_jas39c_2;JAS 39
+saab_jas39d_shop;JAS 39D
+saab_jas39d_0;Jakt-attack-spaning 39D Gripen
+saab_jas39d_1;JAS 39D
+saab_jas39d_2;JAS 39
 saab_jas39e_shop;JAS 39E
 saab_jas39e_0;Jakt-attack-spaning 39E Gripen
 saab_jas39e_1;JAS 39E

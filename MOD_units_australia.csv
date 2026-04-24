@@ -54,10 +54,13 @@ wirraway_1;Wirraway Mk. I
 wirraway_2;Wirraway
 
 // CW/Modern //
+shop/group/f_111c_tornado_group;▄ F-111C / Tornado GR.1
 f_111c_raaf_shop;▄ F-111C
 f_111c_raaf_0;▄ F-111C (Block Upgrade Programme C2/C3)
 f_111c_raaf_1;▄ F-111C
 f_111c_raaf_2;F-111
+
+shop/group/fa_18a_raaf_group;▄ F/A-18A / ▄ F/A-18A (HUG 2.4)
 fa_18a_raaf_shop;▄ F/A-18A
 fa_18a_raaf_0;▄ F/A-18A Hornet
 fa_18a_raaf_1;▄ F/A-18A
@@ -66,6 +69,10 @@ fa_18a_hug_2_raaf_shop;▄ F/A-18A (HUG 2.4)
 fa_18a_hug_2_raaf_0;▄ F/A-18A Hornet (Hornet Upgrade Phase 2.4)
 fa_18a_hug_2_raaf_1;▄ F/A-18A
 fa_18a_hug_2_raaf_2;F/A-18
+fa_18f_block_2_raaf_shop;▄ F/A-18F-2 (AIR 5349)
+fa_18f_block_2_raaf_0;▄ F/A-18F-2 MC Super Hornet (Lot 33) (AIR 5349 Phase 2)
+fa_18f_block_2_raaf_1;▄ F/A-18F
+fa_18f_block_2_raaf_2;▄ F/A-18F
 
 // RAN //
 // WWII //

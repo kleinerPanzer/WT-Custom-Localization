@@ -22,6 +22,7 @@ shop/group/p-47_ealy_group;P-47D-22 / P-47D-25
 shop/group/b-17_late_group;B-17G-60 / B-24D-25
 shop/group/p-38_group;P-38E / P-38G-1
 shop/group/p-38_late_group;P-38J-15 / P-38L-5
+shop/group/f_18_group;F/A-18A-18 / F/A-18C-48
 
 // PURSUIT-FIGHTER //
 p-26a_33_shop;P-26A
@@ -359,6 +360,10 @@ f-4e_event_shop;F-4E-48
 f-4e_event_0;F-4E-48 MC Phantom II
 f-4e_event_1;F-4E
 f-4e_event_2;F-4
+nt_f_4e_shop;F-4E-48 Phantom II
+nt_f_4e_0;F-4E-48 MC Phantom II
+nt_f_4e_1;F-4E
+nt_f_4e_2;F-4E
 f-4j_shop;F-4J-34
 f-4j_0;F-4J-34 MC Phantom II
 f-4j_1;F-4J
@@ -442,6 +447,10 @@ f_16c_block_50_shop;F-16C-50 CCIP
 f_16c_block_50_0;F-16C-50 CF CCIP Fighting Falcon (2007)
 f_16c_block_50_1;F-16C
 f_16c_block_50_2;F-16
+f_16c_block_52_aesa_shop;F-16C-52 PoBIT
+f_16c_block_52_aesa_0;F-16C-52Q CF PoBIT Fighting Falcon
+f_16c_block_52_aesa_1;F-16C
+f_16c_block_52_aesa_2;F-16
 
 fa_18a_shop;F/A-18A-18
 fa_18a_0;F/A-18A-18 Hornet
@@ -521,6 +530,10 @@ a_6e_tram_shop;A-6E WCSI (VA-52)
 a_6e_tram_0;A-6E WCSI Intruder (Attack Squadron 52 (VA-52) "Night Riders")
 a_6e_tram_1;A-6E
 a_6e_tram_2;A-6
+nt_a_6e_tram_shop;A-6E WCSI
+nt_a_6e_tram_0;A-6E WCSI Intruder
+nt_a_6e_tram_1;A-6E
+nt_a_6e_tram_2;A-6E
 
 a_7d_shop;A-7D-8
 a_7d_0;A-7D-8 CV Corsair II
@@ -530,6 +543,10 @@ a_7e_shop;A-7E-4
 a_7e_0;A-7E-4 CV Corsair II
 a_7e_1;A-7E
 a_7e_2;A-7
+nt_a_7e_shop;A-7E-4
+nt_a_7e_0;A-7E-4 CV Corsair II
+nt_a_7e_1;A-7E
+nt_a_7e_2;A-7E
 a_7k_shop;A-7K (156th TFG)
 a_7k_0;A-7K CV Corsair II (156th Tactical Fighter Group)
 a_7k_1;A-7K
@@ -539,6 +556,10 @@ a_10a_early_shop;A-10A (23rd TFW)
 a_10a_early_0;A-10A Thunderbolt II (23rd Tactical Fighter Wing)
 a_10a_early_1;A-10A
 a_10a_early_2;A-10
+nt_a_10a_early_shop;A-10A
+nt_a_10a_early_0;A-10A Thunderbolt II
+nt_a_10a_early_1;A-10A
+nt_a_10a_early_2;A-10
 a_10a_late_shop;A-10A
 a_10a_late_0;A-10A Thunderbolt II
 a_10a_late_1;A-10A
@@ -612,6 +633,15 @@ b_34_shop;B-34
 b_34_0;B-34 Ventura
 b_34_1;B-34
 b_34_2;B-34
+
+b_52h_shop;B-52H-140
+b_52h_0;B-52H-140 BW (EVS) (Rivet Ace)
+b_52h_1;B-52H
+b_52h_2;B-52H
+nt_b_52h_shop;B-52H-140
+nt_b_52h_0;B-52H-140 BW (EVS) (Rivet Ace)
+nt_b_52h_1;B-52H
+nt_b_52h_2;B-52H
 
 b-57_shop;B-57A
 b-57_0;B-57A MA Canberra
