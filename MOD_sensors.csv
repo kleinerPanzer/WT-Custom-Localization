@@ -51,6 +51,7 @@ radar_iff;IFF;
 radar_bvr_mode;BVR;
 radar_acm_mode;ACM;
 radar_hms_mode;HMD;
+radar_hms_mode/desc;Helmet Mounted Display
 radar_nctr;NCTR, types
 radar_sarh;SARH;
 radar_mg;Missile Guidance;
@@ -80,15 +81,24 @@ avionics_sight_vision/tv;TV;
 avionics_sight_vision/lltv;LLTV;
 avionics_sight_vision/flir;FLIR;
 avionics_sensor_radar;Radar;
+avionics_sensor_radar/desc;Radar
 avionics_sensor_irst;IRST;
+avionics_sensor_irst/desc;Infrared search and track system
 avionics_sensor_tv;TV;
 avionics_sensor_radar_irst;Radar/IRST;
+avionics_sensor_radar_irst/desc;Radar/Infrared search and track system
 avionics_sensor_rwr;RWR;
+avionics_sensor_rwr/desc;Radar warning receiver
 avionics_sensor_lws;LWS;
+avionics_sensor_lws/desc;Laser Warning Receiver
 avionics_sensor_mlws;MAW;
+avionics_sensor_mlws/des;Missile approach warning system
 avionics_aim_spi;SPI;
+avionics_aim_spi/desc;Aiming point for the selected weapon
 avionics_hmd;HMD;
+avionics_hmd/desc;Helmet Mounted Display
 avionics_aim_laser_designator;Laser Designator;
+avionics_aim_laser_designator/desc;Laser designator
 avionics_countermeasure_ircm;IRCM;
 avionics_auto_cm;Auto CM
 avionics_auto_cm_by_rwr;RWR
@@ -96,5 +106,8 @@ avionics_auto_cm_by_mlws;MAW
 avionics_auto_cm_sensors;Sensors
 avionics_auto_cm_programs;Programs
 CCIP;CCIP;
+CCIP/desc;Constantly computed impact point for the selected weapon
 sight_AUTO;EEGS;
+sight_AUTO/desc;Ballistic computer for cannon weapons for air-ti-air mod
 CCRP;CCRP;
+CCRP/desc;Continuously computed release point

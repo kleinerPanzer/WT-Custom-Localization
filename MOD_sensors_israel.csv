@@ -3,6 +3,7 @@
 // Export
 
 aps/iron_fist;Iron Fist;
+aps/iron_fist_ld;Iron Fist Light Decoupled
 aps/trophy_hv;TROPHY;
 sensors/il_paws_2;PAWS-2
 sensors/il_sps_20v;SPS-20V;
