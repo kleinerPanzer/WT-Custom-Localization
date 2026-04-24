@@ -35,11 +35,11 @@ cn_type_97_kai_2;97式
 shop/group/cn_m3_m5_stuart_group;☀ M3A3 / ☀ M5A1
 
 cn_m3a3_stuart_shop;☀ M3A3
-cn_m3a3_stuart_0;☀ M3A3戰車
+cn_m3a3_stuart_0;☀ Tank, Light, M3A3
 cn_m3a3_stuart_1;☀ M3A3
 cn_m3a3_stuart_2;M3
 cn_m3a3_stuart_1st_ptg_shop;☀ M3A3 (1st Pr.T.Gr.)
-cn_m3a3_stuart_1st_ptg_0;☀ M3A3戰車 (Chinese-American 1st Provisional Tank Group)
+cn_m3a3_stuart_1st_ptg_0;☀ Tank, Light, M3A3 (Chinese-American 1st Provisional Tank Group)
 cn_m3a3_stuart_1st_ptg_1;☀ M3A3
 cn_m3a3_stuart_1st_ptg_2;M3
 
@@ -48,13 +48,13 @@ cn_m5a1_stuart_0;☀ M5A1戰車
 cn_m5a1_stuart_1;☀ M5A1
 cn_m5a1_stuart_2;M5
 
-cn_m4a4_sherman_shop;☀ M4A4 75
-cn_m4a4_sherman_0;☀ M4A4 75戰車
-cn_m4a4_sherman_1;☀ M4A4 75
+cn_m4a4_sherman_shop;☀ M4A4 (75)
+cn_m4a4_sherman_0;☀ Tank, Medium, M4A4 (75-mm Gun) (May 1943) (Chrysler)
+cn_m4a4_sherman_1;☀ M4A4 (75)
 cn_m4a4_sherman_2;M4
-cn_m4a4_sherman_1st_ptg_shop;☀ M4A4 75 (1st Pr.T.Gr.)
-cn_m4a4_sherman_1st_ptg_0;☀ M4A4 75戰車 (Chinese-American 1st Provisional Tank Group)
-cn_m4a4_sherman_1st_ptg_1;☀ M4A4 75
+cn_m4a4_sherman_1st_ptg_shop;☀ M4A4 (75) (1st Pr.T.Gr.)
+cn_m4a4_sherman_1st_ptg_0;☀ Tank, Medium, M4A4 (75-mm Gun) (May 1943) (Chrysler) (Chinese-American 1st Provisional Tank Group)
+cn_m4a4_sherman_1st_ptg_1;☀ M4A4 (75)
 cn_m4a4_sherman_1st_ptg_2;M4
 
 cn_m8_scott_shop;☀ M8 75

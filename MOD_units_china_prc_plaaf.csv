@@ -1,10 +1,12 @@
 <ID|readonly|noverify>;<NewLanguage>
 
 // SOVIET // 
+// GROUPS //
 shop/group/mig-9_china_group;米格9 / ␗ И-307 «ФФ»
 shop/group/mig-15_china_group;米格15比斯 / 米格17
 shop/group/j_11_group;J11 / J11A
 
+// Lavochkin //
 la-9_china_shop;拉9
 la-9_china_0;拉9型飞机
 la-9_china_1;拉9
@@ -14,6 +16,7 @@ la-11_china_0;拉11型飞机
 la-11_china_1;拉11
 la-11_china_2;拉11
 
+// Ilyushin //
 il-10_1946_china_shop;伊尔10
 il-10_1946_china_0;伊尔10型飞机
 il-10_1946_china_1;伊尔10
@@ -23,6 +26,7 @@ il_28_china_0;伊尔28型飞机
 il_28_china_1;伊尔28
 il_28_china_2;伊尔28
 
+// Tupolev //
 tu-2_postwar_china_shop;␗ 杜2
 tu-2_postwar_china_0;␗ 杜2型飞机
 tu-2_postwar_china_1;␗ 杜2
@@ -32,6 +36,7 @@ tu_4_china_0;杜4型飞机
 tu_4_china_1;杜4
 tu_4_china_2;杜4
 
+// MiG //
 mig-9_china_shop;米格9
 mig-9_china_0;米格9型飞机
 mig-9_china_1;米格9
@@ -49,6 +54,7 @@ mig-17_china_0;米格17型飞机
 mig-17_china_1;米格17
 mig-17_china_2;米格17
 
+// Sukhoi //
 su_30mkk_shop;␗ Su-30MKK
 su_30mkk_0;␗ Su-30MKK型飞机
 su_30mkk_1;␗ Su-30MKK
@@ -58,16 +64,19 @@ su_30mkk_2;Su-30
 shop/group/mig-19_china_group;J6A / J7B
 shop/group/j_11_group;J11 / J11A
 
+// Qing 6 //
 quing_6_shop;青6
 quing_6_0;青6型飞机
 quing_6_1;青6
 quing_6_2;青6
 
+// J6 //
 mig-19j_6a_shop;J6A
 mig-19j_6a_0;J6A型飞机 (1977年型)
 mig-19j_6a_1;J6A
 mig-19j_6a_2;J6
 
+// J7 //
 j_7_mk2_shop;J7B
 j_7_mk2_0;J7B型飞机
 j_7_mk2_1;J7B
@@ -81,6 +90,7 @@ j_7e_0;J7E型飞机
 j_7e_1;J7E
 j_7e_2;J7
 
+// J8 //
 j_8b_shop;J8B
 j_8b_0;J8B型飞机
 j_8b_1;J8B
@@ -90,6 +100,17 @@ j_8f_0;J8F型飞机
 j_8f_1;J8F
 j_8f_2;J8
 
+// J10 //
+j_10a_shop;J10A
+j_10a_0;J10A型飞机
+j_10a_1;J10A
+j_10a_2;J10
+j_10c_shop;J10C
+j_10c_0;J10C型飞机
+j_10c_1;J10C
+j_10c_2;J10
+
+// J11 //
 j_11_shop;J11
 j_11_0;J11型飞机
 j_11_1;J11
@@ -103,11 +124,13 @@ j_11b_0;J11B型飞机 (2009年型)
 j_11b_1;J11B
 j_11b_2;J11
 
+// J15 //
 j_15t_shop;J15T (WS10B)
 j_15t_0;J15T型飞机 (WS10B)
 j_15t_1;J15T
 j_15t_2;J15
 
+// JH7 //
 jh_7_shop;JH7
 jh_7_0;JH7型飞机
 jh_7_1;JH7
@@ -121,15 +144,7 @@ jh_7a_0;JH7A型飞机
 jh_7a_1;JH7A
 jh_7a_2;JH7
 
-j_10a_shop;J10A
-j_10a_0;J10A型飞机
-j_10a_1;J10A
-j_10a_2;J10
-j_10c_shop;J10C
-j_10c_0;J10C型飞机
-j_10c_1;J10C
-j_10c_2;J10
-
+// Q5 //
 q_5_early_shop;Q5
 q_5_early_0;Q5型飞机
 q_5_early_1;Q5
@@ -160,7 +175,7 @@ mig-9_late_china_1;␗ И-307 «ФФ»
 mig-9_late_china_2;И-307
 
 // HELI //
-
+// Z9 //
 z_9w_shop;Z9W
 z_9w_0;Z9W型武装直升机
 z_9w_1;Z9W
@@ -170,6 +185,7 @@ z_9wa_0;Z9WA型武装直升机
 z_9wa_1;Z9WA
 z_9wa_2;Z9
 
+// Z10 //
 z_10_shop;Z10
 z_10_0;Z10型武装直升机
 z_10_1;Z10
@@ -179,16 +195,19 @@ z_10a_0;Z10型武装直升机 (2018年型)
 z_10a_1;Z10
 z_10a_2;Z10
 
+// Z11 //
 z_11wa_shop;Z11WA
 z_11wa_0;Z11WA型武装直升机
 z_11wa_1;Z11WA
 z_11wa_2;Z11
 
+// Z19 //
 z_19_shop;Z19
 z_19_0;Z19型武装直升机
 z_19_1;Z19
 z_19_2;Z19
 
+// SA 342L //
 sa_342l_china_shop;␗ SA 342L1
 sa_342l_china_0;␗ SA 342L1型武装直升机
 sa_342l_china_1;␗ SA 342L

@@ -4,6 +4,7 @@
 shop/group/db_3_china_group;☀ ДБ-3A / СБ
 shop/group/i-16_china_group;忠-28-甲 / 伊-16-1
 
+// I-15 //
 i-15bis_china_shop;E-15
 i-15bis_china_0;E-15戰鬥機
 i-15bis_china_1;E-15
@@ -13,6 +14,7 @@ i-153_m62_china_0;E-15-3戰鬥機
 i-153_m62_china_1;E-15-3
 i-153_m62_china_2;E-15
 
+// I-16 //
 i-16_chung_28_shop;忠-28-甲
 i-16_chung_28_0;忠-28-甲戰鬥機
 i-16_chung_28_1;忠-28-甲
@@ -30,11 +32,13 @@ i-16_type17_china_0;E-16-3戰鬥機
 i-16_type17_china_1;E-16-3
 i-16_type17_china_2;E-16
 
+// SB //
 sb_2m_103u_china_shop;СБ
 sb_2m_103u_china_0;СБ (М-103У)輕轟炸機
 sb_2m_103u_china_1;СБ
 sb_2m_103u_china_2;СБ
 
+// DB-3 //
 db_3a_china_shop;☀ ДБ-3
 db_3a_china_0;☀ ДБ-3遠程轟炸機
 db_3a_china_1;☀ ДБ-3
@@ -44,11 +48,13 @@ db_3a_china_2;ДБ-3
 shop/group/p_40_china_group;☀ P-40E / ☀ P-43A
 shop/group/p_47_china_group;☀ P-47D-23 / ☀ P-47D-28
 
+// P-26 //
 p-26a_35_shop;▆ 波音281
 p-26a_35_0;▆ 波音281戰鬥機
 p-26a_35_1;▆ 波音281
 p-26a_35_2;波音
 
+// P-40 //
 p-40c_china_shop;霍克81A-3 (1st AVG)
 p-40c_china_0;霍克81A-3戰鬥機 (1st American Volunteer Group "Flying Tigers")
 p-40c_china_1;霍克81A
@@ -58,16 +64,19 @@ p-40e_china_0;☀ P-40E戰鬥機
 p-40e_china_1;☀ P-40E
 p-40e_china_2;P-40
 
+// P-38 //
 p-38l_1_china_rocaf_shop;☀ P-38L-1
 p-38l_1_china_rocaf_0;☀ P-38L-1 LO戰鬥機
 p-38l_1_china_rocaf_1;☀ P-38L
 p-38l_1_china_rocaf_2;P-38
 
+// P-43 //
 p-43a-1_china_shop;☀ P-43A
 p-43a-1_china_0;☀ P-43A戰鬥機
 p-43a-1_china_1;☀ P-43A
 p-43a-1_china_2;P-43
 
+// P-47 //
 p-47d_23_ra_china_rocaf_shop;☀ P-47D-23
 p-47d_23_ra_china_rocaf_0;☀ P-47D-23 RA戰鬥機
 p-47d_23_ra_china_rocaf_1;☀ P-47D
@@ -77,31 +86,37 @@ p-47d_30_china_0;☀ P-47D-28 RA戰鬥機
 p-47d_30_china_1;☀ P-47D
 p-47d_30_china_2;P-47
 
+// P-51 //
 p-51c-11-nt_china_shop;☀ P-51C-11
 p-51c-11-nt_china_0;☀ P-51C-11 NT野馬式戰鬥機
 p-51c-11-nt_china_1;☀ P-51C
 p-51c-11-nt_china_2;P-51
 
-b_25j_30_china_shop;☀ B-25J-30
-b_25j_30_china_0;☀ B-25J-30中轟炸機
-b_25j_30_china_1;☀ B-25J
-b_25j_30_china_2;B-25
-
-a_29_hudson_shop;☀ A-29
-a_29_hudson_0;☀ A-29 LO轟炸機
-a_29_hudson_1;☀ A-29
-a_29_hudson_2;A-29
-
-cw_21_shop;☀ CW-21
-cw_21_0;☀ CW-21戰鬥機
-cw_21_1;☀ CW-21
-cw_21_2;CW-21
-
+// P-66 //
 p-66_shop;P-48-C
 p-66_0;P-48-C戰鬥機
 p-66_1;P-48-C
 p-66_2;P-48
 
+// B-25 //
+b_25j_30_china_shop;☀ B-25J-30
+b_25j_30_china_0;☀ B-25J-30中轟炸機
+b_25j_30_china_1;☀ B-25J
+b_25j_30_china_2;B-25
+
+// A-29 //
+a_29_hudson_shop;☀ A-29
+a_29_hudson_0;☀ A-29 LO轟炸機
+a_29_hudson_1;☀ A-29
+a_29_hudson_2;A-29
+
+// CW-21 //
+cw_21_shop;☀ CW-21
+cw_21_0;☀ CW-21戰鬥機
+cw_21_1;☀ CW-21
+cw_21_2;CW-21
+
+// V-11/V-12 //
 v_11g_shop;☀ V-11-G
 v_11g_0;☀ V-11-G轟炸機
 v_11g_1;☀ V-11-G
@@ -111,6 +126,13 @@ v_12d_0;☀ V-12-D轟炸機
 v_12d_1;☀ V-12-D
 v_12d_2;V-12
 
+// Hawk III //
+hawk_iii_shop;霍克III
+hawk_iii_0;霍克III戰鬥機
+hawk_iii_1;霍克III
+hawk_iii_2;霍克
+
+// Hawk 75 //
 h-75a-5_shop;霍克75A-5
 h-75a-5_0;霍克75A-5
 h-75a-5_1;霍克75A
@@ -124,11 +146,7 @@ h-75m_china_0;霍克75N
 h-75m_china_1;霍克75N
 h-75m_china_2;霍克75
 
-hawk_iii_shop;霍克III
-hawk_iii_0;霍克III戰鬥機
-hawk_iii_1;霍克III
-hawk_iii_2;霍克
-
+// Marin 139 //
 martin_139wc_shop;马丁139WC
 martin_139wc_0;马丁139WC轟炸機
 martin_139wc_1;马丁139WC
@@ -137,32 +155,37 @@ martin_139wc_2;马丁 139
 // JAPAN //
 shop/group/ki_27_group;☀ 九七式乙型 / ☀ 一式三甲型
 
-
+// Ki 27 //
 ki-27_otsu_china_shop;☀ 九七式乙型
 ki-27_otsu_china_0;☀ 九七式戰鬥機乙型
 ki-27_otsu_china_1;☀ 九七式
 ki-27_otsu_china_2;九七式
 
+// Ki 43 //
 ki_43_3_ko_shop;☀ 一式三甲型
 ki_43_3_ko_0;☀ 一式戰鬥機三甲型
 ki_43_3_ko_1;☀ 一式三型
 ki_43_3_ko_2;一式二式
 
+// Ki 44 //
 ki_44_2_hei_china_shop;☀ 二式二丙型
 ki_44_2_hei_china_0;☀ 二式單座戰鬥機二丙型
 ki_44_2_hei_china_1;☀ 二式二型
 ki_44_2_hei_china_2;二式
 
+// Ki 61 //
 ki_61_1a_otsu_china_shop;☀ 三式一乙型
 ki_61_1a_otsu_china_0;☀ 三式戰鬥機一乙型
 ki_61_1a_otsu_china_1;☀ 三式一型
 ki_61_1a_otsu_china_2;三式
 
+// Ki 84 //
 ki_84_ko_china_shop;☀ 四式一甲型
 ki_84_ko_china_0;☀ 四式戰鬥機一甲型
 ki_84_ko_china_1;☀ 四式一型
 ki_84_ko_china_2;四式
 
+// A6M //
 a6m2_zero_china_shop;☀ A6M2b
 a6m2_zero_china_0;☀ 零式艦載戰鬥機二一型
 a6m2_zero_china_1;☀ A6M2
@@ -172,6 +195,7 @@ a6m5_zero_china_0;☀ 零式艦載戰鬥機五二型
 a6m5_zero_china_1;☀ A6M5
 a6m5_zero_china_2;A6M
 
+// P1Y //
 p1y1_mod11_china_shop;☀ P1Y1
 p1y1_mod11_china_0;☀ 星系陸地轟炸機一一型
 p1y1_mod11_china_1;☀ P1Y1
