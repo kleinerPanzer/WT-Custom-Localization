@@ -32,12 +32,12 @@ weapons/163mm_roland_3/short;Roland 3;
 163mm_roland_1;Roland 1;
 136mm_k3s_hot;HOT;
 150mm_k3s_hot_2;HOT-2;
-weapons/164mm_lfk_ss11_rocket_launcher_user_cannon;SS.11;
-weapons/164mm_lfk_ss11_rocket_launcher;SS.11;
-weapons/164mm_lfk_ss11_rocket_launcher/short;SS.11;
-weapons/164mm_lfk_ss_11/short;SS.11;
-164mm_lfk_ss_11;LFK SS.11;
-164mm_lfk_ss_11b;LFK SS.11B;
+weapons/164mm_lfk_ss11_rocket_launcher_user_cannon;SS 11;
+weapons/164mm_lfk_ss11_rocket_launcher;SS 11;
+weapons/164mm_lfk_ss11_rocket_launcher/short;SS 11;
+weapons/164mm_lfk_ss_11/short;SS 11;
+164mm_lfk_ss_11;LFK SS 11;
+164mm_lfk_ss_11b;LFK SS 11B;
 weapons/105mm_Rh105_30_user_cannon;Rheinmetall 105-30
 weapons/105mm_L7A3_Radpanzer_user_cannon;Bordkanone 105 mm, L7 A3;
 weapons/106mm_M40A1_LGS_user_cannon;105 mm Leichtgeschütz M 40 A1;

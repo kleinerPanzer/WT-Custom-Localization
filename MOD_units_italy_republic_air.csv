@@ -1,26 +1,73 @@
 <ID|readonly|noverify>;<NewLanguage>
-p-47d_30_italy_shop;⛨ F-47D-30
-p-47d_30_italy_0;⛨ Velivolo F-47D-30 RA
-p-47d_30_italy_1;⛨ F-47D
-p-47d_30_italy_2;F-47
+shop/group/fiat_g91_group;G.91 / G.91 R/1
+shop/group/fiat_g91y_group;G.91 Y / G.91 YS
+shop/group/tornado_ids_it_group;A-200A (1995) / A-200C (RET 8)
+
 spitfire_mk5b_italy_shop;⛨ Spitfire F. Mk. Vb (Trop) (20° Gr.)
 spitfire_mk5b_italy_0;⛨ Spitfire F. Mk. Vb (Tropicale) (20° Gruppo)
 spitfire_mk5b_italy_1;⛨ Spitfire Mk. V
 spitfire_mk5b_italy_2;Spitfire
-f-104g_italy_shop;⛨ F-104G
-f-104g_italy_0;⛨ Velivolo F-104G
-f-104g_italy_1;⛨ F-104G
-f-104g_italy_2;F-104
+
 vampire_fb52a_italy_shop;⛨ Vampire FB.52a
 vampire_fb52a_italy_0;⛨ Velivolo Vampire FB. Mk. 52a
 vampire_fb52a_italy_1;⛨ Vampire Mk. 52
 vampire_fb52a_italy_2;Vampire
-shop/group/fiat_g91_group;G.91 / G.91 R/1
-shop/group/fiat_g91y_group;G.91 Y / G.91 YS
+
+p-47d_30_italy_shop;⛨ F-47D-30
+p-47d_30_italy_0;⛨ Velivolo F-47D-30 RA
+p-47d_30_italy_1;⛨ F-47D
+p-47d_30_italy_2;F-47
+
+f-84g_italy_shop;⛨ F-84G-21
+f-84g_italy_0;⛨ Velivolo Caccia-Bombardiere F-84G-21 RE
+f-84g_italy_1;⛨ F-84G
+f-84g_italy_2;F-84
+f-84f_italy_shop;⛨ F-84F-66
+f-84f_italy_0;⛨ Velivolo Caccia-Bombardiere F-84F-66 RE
+f-84f_italy_1;⛨ F-84F
+f-84f_italy_2;F-84
+
+f-86k_late_italy_shop;⛨ F-86K
+f-86k_late_italy_0;⛨ Velivolo Intercettore F-86K (1962)
+f-86k_late_italy_1;⛨ F-86K
+f-86k_late_italy_2;F-86
+
+f-104g_italy_shop;⛨ F-104G
+f-104g_italy_0;⛨ Velivolo F-104G
+f-104g_italy_1;⛨ F-104G
+f-104g_italy_2;F-104
+f-104s_cb_shop;⛨ F-104S/CB
+f-104s_cb_0;⛨ Velivolo F-104S/CB
+f-104s_cb_1;⛨ F-104S
+f-104s_cb_2;F-104
+f-104s_shop;⛨ F-104S/CI
+f-104s_0;⛨ Velivolo F-104S/CI
+f-104s_1;⛨ F-104S
+f-104s_2;F-104
+f-104s_asa_shop;⛨ F-104S/ASA
+f-104s_asa_0;⛨ Velivolo F-104S/ASA
+f-104s_asa_1;⛨ F-104S
+f-104s_asa_2;F-104
+
+f_16a_block_15_adf_italy_shop;⛨ F-16A-15 ADF
+f_16a_block_15_adf_italy_0;⛨ Velivolo F-16A-15 CF ADF
+f_16a_block_15_adf_italy_1;⛨ F-16A
+f_16a_block_15_adf_italy_2;F-16
+
 f-86_cl_13_mk4_italy_shop;⛨ Sabre Mk. 4
 f-86_cl_13_mk4_italy_0;⛨ Velivolo CL-13 Sabre Mk. 4
 f-86_cl_13_mk4_italy_1;⛨ Sabre Mk. 4
 f-86_cl_13_mk4_italy_2;Sabre
+
+sagittario_2_shop;Sagittario 2
+sagittario_2_0;Sagittario 2
+sagittario_2_1;Sagittario 2
+sagittario_2_2;Sagittario 2
+ariete_shop;Ariete
+ariete_0;Ariete
+ariete_1;Ariete
+ariete_2;Ariete
+
 fiat_g91_ps_shop;G.91
 fiat_g91_ps_0;Velivolo G.91
 fiat_g91_ps_1;G.91
@@ -37,47 +84,11 @@ fiat_g91_ys_shop;G.91 YS
 fiat_g91_ys_0;G.91 YS
 fiat_g91_ys_1;G.91 YS
 fiat_g91_ys_2;G.91
-sagittario_2_shop;Sagittario 2
-sagittario_2_0;Sagittario 2
-sagittario_2_1;Sagittario 2
-sagittario_2_2;Sagittario 2
-ariete_shop;Ariete
-ariete_0;Ariete
-ariete_1;Ariete
-ariete_2;Ariete
-f-84g_italy_shop;⛨ F-84G-21
-f-84g_italy_0;⛨ Velivolo Caccia-Bombardiere F-84G-21 RE
-f-84g_italy_1;⛨ F-84G
-f-84g_italy_2;F-84
-f-84f_italy_shop;⛨ F-84F-66
-f-84f_italy_0;⛨ Velivolo Caccia-Bombardiere F-84F-66 RE
-f-84f_italy_1;⛨ F-84F
-f-84f_italy_2;F-84
-f-104s_cb_shop;⛨ F-104S/CB
-f-104s_cb_0;⛨ Velivolo F-104S/CB
-f-104s_cb_1;⛨ F-104S
-f-104s_cb_2;F-104
-f-104s_shop;⛨ F-104S/CI
-f-104s_0;⛨ Velivolo F-104S/CI
-f-104s_1;⛨ F-104S
-f-104s_2;F-104
-f-104s_asa_shop;⛨ F-104S/ASA
-f-104s_asa_0;⛨ Velivolo F-104S/ASA
-f-104s_asa_1;⛨ F-104S
-f-104s_asa_2;F-104
-f-86k_late_italy_shop;⛨ F-86K
-f-86k_late_italy_0;⛨ Velivolo Intercettore F-86K (1962)
-f-86k_late_italy_1;⛨ F-86K
-f-86k_late_italy_2;F-86
-f_16a_block_15_adf_italy_shop;⛨ F-16A-15 ADF
-f_16a_block_15_adf_italy_0;⛨ Velivolo F-16A-15 CF ADF
-f_16a_block_15_adf_italy_1;⛨ F-16A
-f_16a_block_15_adf_italy_2;F-16
+
 tornado_ids_it_shop;A-200A
 tornado_ids_it_0;Velivolo A-200A Tornado (Batch 1)
 tornado_ids_it_1;A-200A
 tornado_ids_it_2;A-200
-shop/group/tornado_ids_it_group;A-200A (1995) / A-200C (RET 8)
 tornado_ids_it_mod95_shop;A-200A (1995)
 tornado_ids_it_mod95_0;Velivolo A-200A Tornado (Batch 2) (1995)
 tornado_ids_it_mod95_1;A-200A
@@ -89,7 +100,8 @@ tornado_ids_it_ret8_2;A-200
 tornado_adv_shop;⛨ Tornado ADV
 tornado_adv_0;⛨ Velivolo Tornado ADV (Stage 2)
 tornado_adv_1;⛨ Tornado ADV
-tornado_adv_2;⛨ Tornado
+tornado_adv_2;Tornado
+
 ef_2000a_shop;F-2000A (P1Ea)
 ef_2000a_0;Velivolo F-2000A Typhoon (Tranche 2 Block 10) (Phase 1 Enhancement A)
 ef_2000a_1;F-2000A (P1Ea)
@@ -98,10 +110,12 @@ ef_2000a_aesa_shop;F-2000A (P4E)
 ef_2000a_aesa_0;Velivolo F-2000A (Tranche 4) (Phase 4 Enhancement)
 ef_2000a_aesa_1;F-2000A (P4E)
 ef_2000a_aesa_2;F-2000
+
 av_8b_plus_italy_shop;⛨ Harrier II Plus
 av_8b_plus_italy_0;⛨ Velivolo AV-8B Harrier II Plus
 av_8b_plus_italy_1;⛨ Harrier II
 av_8b_plus_italy_2;Harrier II
+
 amx_shop;A-11A
 amx_0;A-11A Ghibli
 amx_1;A-11A

@@ -1,55 +1,82 @@
 <ID|readonly|noverify>;<NewLanguage>
 
-shop/group/uk_marksman_za_group;Chieftain Marksman / Rooikat ZA-35
+shop/group/uk_marksman_za_group;LLADGT Demonstrator / Rooikat ZA-35
 shop/group/uk_stormer_group;Stormer Air Defence / FV4333
 shop/group/uk_stormer_9a33_group;Stormer Air Defence / Osa-A K
-shop/group/uk_vickers_olifant_group;Vickers Mk. 3 MBT / Olifant Mk. 1A
-shop/group/uk_vickers_rooikat_group;Vickers Mk. 11 LRPV / Rooikat Mk. 1D
-shop/group/uk_vfm_mttd_group;Vickers Mk. 5 BT / MTTD
-uk_vickers_mk_11_shop;Vickers Mk. 11 LRPV
-uk_vickers_mk_11_0;Vickers Mk. 11 Long Range Patrol Vehicle
-uk_vickers_mk_11_1;Vickers Mk. 11 LRPV
-uk_vickers_mk_11_2;Vickers Mk. 11
-uk_vickers_mk7_shop;Vickers Mk. 7 MBT
-uk_vickers_mk7_0;Vickers Mk. 7 Main Battle Tank
-uk_vickers_mk7_1;Vickers Mk. 7 MBT
-uk_vickers_mk7_2;Vickers Mk. 7
-uk_vickers_mbt_mk_1_shop;Vickers Mk. 1 MBT
-uk_vickers_mbt_mk_1_0;Vickers Mk. 1 Main Battle Tank
-uk_vickers_mbt_mk_1_1;Vickers Mk. 1 MBT
-uk_vickers_mbt_mk_1_2;Vickers Mk. 1
-uk_chieftain_marksman_shop;Chieftain Marksman
-uk_chieftain_marksman_0;Marconi Electronic Systems Chieftain Marksman
-uk_chieftain_marksman_1;Chieftain Marksman
-uk_chieftain_marksman_2;Chieftain Marksman
-uk_challenger_2e_shop;Challenger 2E
-uk_challenger_2e_0;Challenger 2E
-uk_challenger_2e_1;Challenger 2E
-uk_challenger_2e_2;Challenger 2
-uk_stormer_air_defence_shop;Stormer Air Defence
-uk_stormer_air_defence_0;Stormer Air Defence
-uk_stormer_air_defence_1;Stormer Air Defence
-uk_stormer_air_defence_2;Stormer
-g_lynx_shop;Lynx Demonstrator
-g_lynx_0;Westland Lynx Demonstrator
-g_lynx_1;Lynx Demonstrator
-g_lynx_2;Lynx
-uk_vfm_5_shop;Vickers Mk. 5 BT
-uk_vfm_5_0;Vickers/FMC Mk. 5 Battle Tank
-uk_vfm_5_1;Vickers Mk. 5 BT
-uk_vfm_5_2;Vickers Mk. 5
-uk_vickers_mbt_mk_3_shop;Vickers Mk. 3 MBT
-uk_vickers_mbt_mk_3_0;Vickers Mk. 3 Main Battle Tank
-uk_vickers_mbt_mk_3_1;Vickers Mk. 3 MBT
-uk_vickers_mbt_mk_3_2;Vickers Mk. 3
-uk_vickers_gbt_155_shop;SP 155
-uk_vickers_gbt_155_0;SP 155
-uk_vickers_gbt_155_1;SP 155
-uk_vickers_gbt_155_2;SP 155
+shop/group/uk_vickers_olifant_group;Mk. 3 MBT / Olifant Mk. 1A
+shop/group/uk_vickers_rooikat_group;Mk. 11 LRPV / Rooikat Mk. 1D
+shop/group/uk_vfm_mttd_group;Mk. 5 BT / MTTD
+
+// VICKERS //
+
+uk_vickers_mbt_mk_1_shop;Mk. 1 MBT
+uk_vickers_mbt_mk_1_0;Mark 1 Main Battle Tank
+uk_vickers_mbt_mk_1_1;Mk. 1 MBT
+uk_vickers_mbt_mk_1_2;Mk. 1
+
+uk_vickers_mbt_mk_3_shop;Mk. 3 MBT
+uk_vickers_mbt_mk_3_0;Mark 3 Main Battle Tank
+uk_vickers_mbt_mk_3_1;Mk. 3 MBT
+uk_vickers_mbt_mk_3_2;Mk. 3
+
+uk_vfm_5_shop;Mk. 5 BT
+uk_vfm_5_0;Mark 5 Battle Tank
+uk_vfm_5_1;Mk. 5 BT
+uk_vfm_5_2;Mk. 5
+
+uk_vickers_mk7_shop;Mk. 7 MBT
+uk_vickers_mk7_0;Mark 7 Main Battle Tank
+uk_vickers_mk7_1;Mk. 7 MBT
+uk_vickers_mk7_2;Mk. 7
+
+uk_vickers_mk_11_shop;Mk. 11 LRPV
+uk_vickers_mk_11_0;Mark 11 Long Range Patrol Vehicle
+uk_vickers_mk_11_1;Mk. 11 LRPV
+uk_vickers_mk_11_2;Mk. 11
+
+// CHIEFTAIN //
+
+uk_chieftain_marksman_shop;LLADGT Demonstrator
+uk_chieftain_marksman_0;Low Level Air Defence Gun Turret Demonstrator
+uk_chieftain_marksman_1;LLADGT Demonstrator
+uk_chieftain_marksman_2;LLADGT Demonstrator
+
 uk_chieftain_900_shop;Chieftain 900
 uk_chieftain_900_0;Chieftain 900
 uk_chieftain_900_1;Chieftain 900
 uk_chieftain_900_2;Chieftain
+
+// CHALLENGER //
+
+uk_challenger_2_bn_shop;Challenger 2 Mk 2
+uk_challenger_2_bn_0;Challenger 2 Mk 2
+uk_challenger_2_bn_1;Challenger 2 Mk 2
+uk_challenger_2_bn_2;Challenger 2
+uk_challenger_2_lep_shop;Challenger 2 ATD
+uk_challenger_2_lep_0;Challenger 2 Advanced Technology Demonstrator
+uk_challenger_2_lep_1;Challenger 2 ATD
+uk_challenger_2_lep_2;Challenger 2
+uk_challenger_2e_shop;Challenger 2E
+uk_challenger_2e_0;Challenger 2E
+uk_challenger_2e_1;Challenger 2E
+uk_challenger_2e_2;Challenger 2
+
+// OTHER AFV  //
+uk_stormer_air_defence_shop;Stormer Air Defence
+uk_stormer_air_defence_0;Stormer Air Defence
+uk_stormer_air_defence_1;Stormer Air Defence
+uk_stormer_air_defence_2;Stormer
+
+uk_vickers_gbt_155_shop;SP 155
+uk_vickers_gbt_155_0;SP 155
+uk_vickers_gbt_155_1;SP 155
+uk_vickers_gbt_155_2;SP 155
+
+// AIRCRAFT //
+g_lynx_shop;Lynx Demonstrator
+g_lynx_0;Westland Lynx Demonstrator
+g_lynx_1;Lynx Demonstrator
+g_lynx_2;Lynx
 
 shop/group/hawk_200_group;Hawk 200
 hawk_200_shop;Hawk 200

@@ -83,12 +83,23 @@ fa_18a_hug_2_raaf_2;F/A-18
 fa_18f_block_2_raaf_shop;▄ F/A-18F-2 (AIR 5349/2)
 fa_18f_block_2_raaf_0;▄ F/A-18F-2 MC Super Hornet (Lot 33) (AIR 5349 Phase 2)
 fa_18f_block_2_raaf_1;▄ F/A-18F
-fa_18f_block_2_raaf_2;▄ F/A-18
+fa_18f_block_2_raaf_2;F/A-18
 
 // RAN //
 // WWII //
-
 uk_destroyer_battle_tobruk_shop;Tobruk (D 37)
 uk_destroyer_battle_tobruk_0;Australian Battle-Class Destroyer, HMAS Tobruk (D 37) (1944)
 uk_destroyer_battle_tobruk_1;Tobruk
 uk_destroyer_battle_tobruk_2;Battle-Class
+
+// MODERN //
+
+uk_attack_class_arrow_shop;Arrow (P 88)
+uk_attack_class_arrow_0;Attack-Class Patrol Boat, HMAS Arrow (P 88)
+uk_attack_class_arrow_1;Arrow
+uk_attack_class_arrow_2;Attack-Class
+
+uk_fremantle_class_shop;Fremantle (P 203)
+uk_fremantle_class_0;Fremantle-Class Patrol Boat, HMAS Fremantle (P 203)
+uk_fremantle_class_1;Fremantle
+uk_fremantle_class_2;Fremantle-Class

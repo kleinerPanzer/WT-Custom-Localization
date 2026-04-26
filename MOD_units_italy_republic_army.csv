@@ -5,26 +5,40 @@ shop/group/it_of_leo_group;OF 40 Mk. 1 / ⛨ Leopard 1 A2
 shop/group/it_centauro_105_group;Centauro / Centauro (ROMOR)
 shop/group/it_ariete_group;Ariete PSO / Ariete WAR
 shop/group/it_dardo_group;VCC Dardo / Dardo (HITFIST 30)
-it_m55_shop;⛨ 203/25 M55
-it_m55_0;⛨ Obice da 203/25 semovente M55
-it_m55_1;⛨ 203/25 M55
-it_m55_2;M55
+
+
+
+
+
+
+it_leopard_1a2_shop;⛨ Leopard 1 A2
+it_leopard_1a2_0;⛨ Carro armato medio Leopard 1 A2
+it_leopard_1a2_1;⛨ Leopard 1 A2
+it_leopard_1a2_2;Leopard 1
 it_leopard_1a5_shop;⛨ Leopard 1 A5
 it_leopard_1a5_0;⛨ Carro armato medio Leopard 1 A5
 it_leopard_1a5_1;⛨ Leopard 1 A5
 it_leopard_1a5_2;Leopard 1
+it_leopard_bofors_shop;⛨ Semovente 40/70 Leopard
+it_leopard_bofors_0;⛨ Semovente controaerei da 40/70 su scafo Leopard 1 A2
+it_leopard_bofors_1;⛨ Semovente 40/70 Leopard
+it_leopard_bofors_2;Leopard 1
+
 it_dardo_vcc_shop;VCC Dardo
 it_dardo_vcc_0;Veicolo cingolato da combattimento Dardo
 it_dardo_vcc_1;VCC Dardo
 it_dardo_vcc_2;Dardo
+
 it_freccia_shop;VBM Freccia C/C
 it_freccia_0;Veicolo blindato medio 8x8 Freccia contro-carro
 it_freccia_1;VBM Freccia C/C
 it_freccia_2;VBM Freccia
+
 it_vbc_pt2_shop;VBC Centauro PT2
 it_vbc_pt2_0;Veicolo blindato da combattimento Centauro prototipo 2
 it_vbc_pt2_1;VBC Centauro PT2
 it_vbc_pt2_2;VBC Centauro
+
 it_b1_centauro_romor_shop;Centauro (ROMOR)
 it_b1_centauro_romor_0;Blindato armata Centauro (ROMOR)
 it_b1_centauro_romor_1;Centauro (ROMOR)
@@ -37,70 +51,82 @@ it_fiat_cm52_shop;CM 52 (M55)
 it_fiat_cm52_0;Autocarro medio CM 52 (4x4) (Trailer Mount: Multiple Caliber .50 Machine Gun, M55)
 it_fiat_cm52_1;CM 52 (M55)
 it_fiat_cm52_2;CM 52
+
 it_sherman_75_37_shop;⛨ Sherman tipo I ibrido
 it_sherman_75_37_0;⛨ Carro armato medio Sherman tipo I ibrido (Agosto 1943) (Chrysler)
 it_sherman_75_37_1;⛨ Sherman tipo I
 it_sherman_75_37_2;Sherman
-it_sherman_vc_firefly_shop;⛨ Sherman tipo VC
-it_sherman_vc_firefly_0;⛨ Carro armato medio Sherman tipo VC (Maggio 1943) (Chrysler)
-it_sherman_vc_firefly_1;⛨ Sherman tipo VC
-it_sherman_vc_firefly_2;Sherman
-it_m18_hellcat_shop;⛨ 76/52 M18
-it_m18_hellcat_0;⛨ Cannone da 76/52 semovente M18
-it_m18_hellcat_1;⛨ 76/52 M18
-it_m18_hellcat_2;M18
-it_m24_chaffee_shop;⛨ M24
-it_m24_chaffee_0;⛨ Carro armato leggero M24 (Ottobre 1944)
-it_m24_chaffee_1;⛨ M24
-it_m24_chaffee_2;M24
-it_m3a3_stuart_shop;⛨ M3A3
-it_m3a3_stuart_0;⛨ Carro armato leggero M3A3 (Gennaio 1943)
-it_m3a3_stuart_1;⛨ M3A3
-it_m3a3_stuart_2;M3
-it_m4a4_sherman_shop;⛨ Sherman tipo V
-it_m4a4_sherman_0;⛨ Carro armato medio Sherman tipo V (Maggio 1943) (Chrysler)
-it_m4a4_sherman_1;⛨ Sherman tipo V
-it_m4a4_sherman_2;Sherman
-it_m26a1_pershing_shop;⛨ M26A1
-it_m26a1_pershing_0;⛨ Carro armato medio M26A1
-it_m26a1_pershing_1;⛨ M26A1
-it_m26a1_pershing_2;M26
-it_m60a1_ariete_shop;⛨ M60A1 (132a DC)
-it_m60a1_ariete_0;⛨ Carro armato medio M60A1 (132a Divisione corazzata “Ariete”)
-it_m60a1_ariete_1;⛨ M60A1
-it_m60a1_ariete_2;M60
-it_m47_105_shop;⛨ Rhino
-it_m47_105_0;⛨ Rhino Tank
-it_m47_105_1;⛨ Rhino
-it_m47_105_2;M47
-it_m109g_shop;⛨ 155/23 M109G
-it_m109g_0;⛨ Obice da 155/23 semovente M109G
-it_m109g_1;⛨ 155/23 M109G
-it_m109g_2;M109
-it_m44_shop;⛨ 155/23 M44
-it_m44_0;⛨ Obice da 155/23 semovente M44
-it_m44_1;⛨ 155/23 M44
-it_m44_2;M44
-it_m36b1_shop;⛨ 90/50 M36B1
-it_m36b1_0;⛨ Cannone da 90/50 semovente M36B1
-it_m36b1_1;⛨ 90/50 M36B1
-it_m36b1_2;M36
-it_m113a1_tow_shop;⛨ VTT M113A1 (TOW)
-it_m113a1_tow_0;⛨ Veicolo transporto truppe M113 con sistema missilistico controcarri TOW
-it_m113a1_tow_1;⛨ VTT M113A1 (TOW)
-it_m113a1_tow_2;M113
-it_leopard_bofors_shop;⛨ Semovente 40/70 Leopard
-it_leopard_bofors_0;⛨ Semovente controaerei da 40/70 su scafo Leopard 1 A2
-it_leopard_bofors_1;⛨ Semovente 40/70 Leopard
-it_leopard_bofors_2;Leopard
 it_sherman_VII_shop;⛨ Sherman tipo IC ibrido
 it_sherman_VII_0;⛨ Carro armato medio Sherman tipo IC ibrido (Agosto 1943) (Chrysler)
 it_sherman_VII_1;⛨ Sherman tipo IC
 it_sherman_VII_2;Sherman
-it_ariete_amv_pt1_shop;Ariete AMV PT1
-it_ariete_amv_pt1_0;Carro armato Ariete ammodernamento di mezza vita prototipo 1
-it_ariete_amv_pt1_1;Ariete AMV
-it_ariete_amv_pt1_2;Ariete
+it_m4a4_sherman_shop;⛨ Sherman tipo V
+it_m4a4_sherman_0;⛨ Carro armato medio Sherman tipo V (Maggio 1943) (Chrysler)
+it_m4a4_sherman_1;⛨ Sherman tipo V
+it_m4a4_sherman_2;Sherman
+it_sherman_vc_firefly_shop;⛨ Sherman tipo VC
+it_sherman_vc_firefly_0;⛨ Carro armato medio Sherman tipo VC (Maggio 1943) (Chrysler)
+it_sherman_vc_firefly_1;⛨ Sherman tipo VC
+it_sherman_vc_firefly_2;Sherman
+
+it_m18_hellcat_shop;⛨ 76/52 M18
+it_m18_hellcat_0;⛨ Cannone da 76/52 semovente M18
+it_m18_hellcat_1;⛨ 76/52 M18
+it_m18_hellcat_2;M18
+
+it_m3a3_stuart_shop;⛨ M3A3
+it_m3a3_stuart_0;⛨ Carro armato leggero M3A3 (Gennaio 1943)
+it_m3a3_stuart_1;⛨ M3A3
+it_m3a3_stuart_2;M3
+
+it_m24_chaffee_shop;⛨ M24
+it_m24_chaffee_0;⛨ Carro armato leggero M24 (Ottobre 1944)
+it_m24_chaffee_1;⛨ M24
+it_m24_chaffee_2;M24
+
+it_m26_ariete_shop;⛨ M26 (132a DC)
+it_m26_ariete_0;⛨ Carro armato medio M26 (132a Divisione corazzata “Ariete”)
+it_m26_ariete_1;⛨ M26
+it_m26_ariete_2;M26
+it_m26a1_pershing_shop;⛨ M26A1
+it_m26a1_pershing_0;⛨ Carro armato medio M26A1
+it_m26a1_pershing_1;⛨ M26A1
+it_m26a1_pershing_2;M26
+
+it_m60a1_ariete_shop;⛨ M60A1 (132a DC)
+it_m60a1_ariete_0;⛨ Carro armato medio M60A1 (132a Divisione corazzata “Ariete”)
+it_m60a1_ariete_1;⛨ M60A1
+it_m60a1_ariete_2;M60
+
+it_m36b1_shop;⛨ 90/50 M36B1
+it_m36b1_0;⛨ Cannone da 90/50 semovente M36B1
+it_m36b1_1;⛨ 90/50 M36B1
+it_m36b1_2;M36
+
+it_m44_shop;⛨ 155/23 M44
+it_m44_0;⛨ Obice da 155/23 semovente M44
+it_m44_1;⛨ 155/23 M44
+it_m44_2;M44
+
+it_m55_shop;⛨ 203/25 M55
+it_m55_0;⛨ Obice da 203/25 semovente M55
+it_m55_1;⛨ 203/25 M55
+it_m55_2;M55
+
+it_m109g_shop;⛨ 155/23 M109G
+it_m109g_0;⛨ Obice da 155/23 semovente M109G
+it_m109g_1;⛨ 155/23 M109G
+it_m109g_2;M109
+
+it_m113a1_tow_shop;⛨ VTT M113A1 TOW
+it_m113a1_tow_0;⛨ Veicolo transporto truppe M113A1 versione TOW
+it_m113a1_tow_1;⛨ VTT M113A1 TOW
+it_m113a1_tow_2;M113
+
+it_c1_ariete_preserie_shop;Ariete (P)
+it_c1_ariete_preserie_0;Carro armato Ariete (Preserie)
+it_c1_ariete_preserie_1;Ariete
+it_c1_ariete_preserie_2;Ariete
 it_c1_ariete_pso_shop;Ariete PSO
 it_c1_ariete_pso_0;Carro armato Ariete Peace Support Operation
 it_c1_ariete_pso_1;Ariete PSO
@@ -113,34 +139,16 @@ it_c1_ariete_certezza_shop;Ariete WAR (20° Corso)
 it_c1_ariete_certezza_0;Carro armato Ariete WAR (20° Corso “Certezza”)
 it_c1_ariete_certezza_1;Ariete WAR
 it_c1_ariete_certezza_2;Ariete
-it_c1_ariete_preserie_shop;Ariete (P)
-it_c1_ariete_preserie_0;Carro armato Ariete (Preserie)
-it_c1_ariete_preserie_1;Ariete
-it_c1_ariete_preserie_2;Ariete
-a_129_cbt_shop;RAH-129C
-a_129_cbt_0;Elicottero RAH-129C
-a_129_cbt_1;RAH-129C
-a_129_cbt_2;AH-129
-a_129_d_shop;AH-129D
-a_129_d_0;Elicottero AH-129D
-a_129_d_1;AH-129D
-a_129_d_2;AH-129
-a_109_eoa2_shop;MRH-109A
-a_109_eoa2_0;Elicottero MRH-109A
-a_109_eoa2_1;MRH-109A
-a_109_eoa2_2;MRH-109
-ab_205a_1_shop;UH-205A
-ab_205a_1_0;Elicottero UH-205A
-ab_205a_1_1;UH-205A
-ab_205a_1_2;UH-205
-it_m26_ariete_shop;⛨ M26 (132a DC)
-it_m26_ariete_0;⛨ Carro armato medio M26 (132a Divisione corazzata “Ariete”)
-it_m26_ariete_1;⛨ M26
-it_m26_ariete_2;M26
-it_leopard_1a2_shop;⛨ Leopard 1 A2
-it_leopard_1a2_0;⛨ Carro armato medio Leopard 1 A2
-it_leopard_1a2_1;⛨ Leopard 1 A2
-it_leopard_1a2_2;MBT
+it_ariete_amv_pt1_shop;Ariete AMV PT1
+it_ariete_amv_pt1_0;Carro armato Ariete ammodernamento di mezza vita prototipo 1
+it_ariete_amv_pt1_1;Ariete AMV
+it_ariete_amv_pt1_2;Ariete
+
+it_otobreda_sidam_25_shop;SIDAM 25
+it_otobreda_sidam_25_0;Sistema d'arma semovente controaerei a cortissima portata, SIDAM
+it_otobreda_sidam_25_1;SIDAM 25
+it_otobreda_sidam_25_2;SIDAM
+
 it_samp_t_launcher_shop;SAMP/T (MLT)
 it_samp_t_launcher_0;Surface to Air Missile Platform/Terrain (Modulo di Lancio Terrestre)
 it_samp_t_launcher_1;SAMP/T (MLT)
@@ -149,3 +157,22 @@ it_samp_t_fcs_shop;SAMP/T (MRI)
 it_samp_t_fcs_0;Surface to Air Missile Platform/Terrain (Modulo Radar Identificazione)
 it_samp_t_fcs_1;SAMP/T (MRI)
 it_samp_t_fcs_2;SAMP/T
+
+a_109_eoa2_shop;MRH-109A
+a_109_eoa2_0;Elicottero MRH-109A
+a_109_eoa2_1;MRH-109A
+a_109_eoa2_2;MRH-109
+
+a_129_cbt_shop;RAH-129C
+a_129_cbt_0;Elicottero RAH-129C
+a_129_cbt_1;RAH-129C
+a_129_cbt_2;AH-129
+a_129_d_shop;AH-129D
+a_129_d_0;Elicottero AH-129D
+a_129_d_1;AH-129D
+a_129_d_2;AH-129
+
+ab_205a_1_shop;UH-205A
+ab_205a_1_0;Elicottero UH-205A
+ab_205a_1_1;UH-205A
+ab_205a_1_2;UH-205

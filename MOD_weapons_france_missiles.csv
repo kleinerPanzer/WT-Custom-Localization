@@ -1,8 +1,8 @@
 <ID|readonly|noverify>;<NewLanguage>
-weapons/fr_aj_168;AJ.168 Martel;
-weapons/fr_aj_168/short;AJ.168;
-weapons/fr_as20;AS.20;
-weapons/fr_as20/short;AS.20;
+weapons/fr_aj_168;AJ 168 Martel;
+weapons/fr_aj_168/short;AJ 168;
+weapons/fr_as20;AS 20;
+weapons/fr_as20/short;AS 20;
 weapons/fr_as30;AS.30;
 weapons/fr_as30/short;AS.30;
 weapons/fr_as30l;AS.30L;
@@ -26,18 +26,18 @@ weapons/euro_hot_default;HOT-1;
 weapons/euro_hot_default/short;HOT-1;
 weapons/euro_hot2;HOT-2;
 weapons/euro_hot2/short;HOT-2;
-weapons/fr_ss_11;AS.11;
-weapons/fr_ss_11/short;AS.11;
-weapons/fr_ss_12;AS.12;
-weapons/fr_ss_12/short;AS.12;
+weapons/fr_ss_11;AS 11;
+weapons/fr_ss_11/short;AS 11;
+weapons/fr_ss_12;AS 12;
+weapons/fr_ss_12/short;AS 12;
 weapons/atam_mistral;Mistral;
 weapons/atam_mistral/short;Mistral;
 weapons/atam_mistral_sam;Mistral;
 weapons/atam_mistral_sam/short;Mistral;
 weapons/atam_mistral_a129;Mistral;
 weapons/atam_mistral_a129/short;Mistral;
-weapons/fr_aa20;AA.20;
-weapons/fr_aa20/short;AA.20;
+weapons/fr_aa20;AA 20;
+weapons/fr_aa20/short;AA 20;
 weapons/fr_r_550_magic;Matra R550 Magic I;
 weapons/fr_r_550_magic/short;Matra R550 Magic I;
 weapons/fr_r_550_magic_2;Matra R550 Mk. 2 Magic II;
@@ -68,8 +68,8 @@ weapons/fr_mica_em_default;Missile d'Interception, de Combat et d'Auto-défense 
 weapons/fr_mica_em_default/short;MICA-EM;
 weapons/euro_hot3;HOT-3;
 weapons/euro_hot3/short;HOT-3;
-weapons/164mm_nord_s11_rocket_launcher;SS.11;
-weapons/164mm_nord_s11_rocket_launcher/short;SS.11;
+weapons/164mm_nord_s11_rocket_launcher;SS 11;
+weapons/164mm_nord_s11_rocket_launcher/short;SS 11;
 weapons/103mm_milan_launcher_user_cannon;MILAN;
 weapons/103mm_MILAN_rocket_launcher;MILAN;
 weapons/103mm_MILAN_rocket_launcher/short;MILAN;
@@ -79,8 +79,8 @@ weapons/115mm_MILAN_2_rocket_launcher;MILAN 2;
 weapons/115mm_MILAN_2_rocket_launcher/short;MILAN 2;
 weapons/115_milan_2/short;MILAN 2;
 115_milan_2;MILAN 2;
-weapons/rocket_ss11_naval_rocket_launcher;SS.11;
-weapons/rocket_ss11_naval_rocket_launcher/short;SS.11;
+weapons/rocket_ss11_naval_rocket_launcher;SS 11;
+weapons/rocket_ss11_naval_rocket_launcher/short;SS 11;
 140mm_akeron_mp;MMP
 weapons/140mm_akeron_mp_rocket_launchr_user_cannon;Missile Moyenne Portée
 weapons/140mm_akeron_mp_rocket_launchr_user_cannon/short;MMP

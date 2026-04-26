@@ -331,6 +331,18 @@ f_111f_shop;F-111F
 f_111f_0;F-111F
 f_111f_1;F-111F
 f_111f_2;F-111
+f_111f_killstreak_shop;F-111F
+f_111f_killstreak_0;F-111F
+f_111f_killstreak_1;F-111F
+f_111f_killstreak_2;F-111
+f_111f_iaf_killstreak_shop;F-111F
+f_111f_iaf_killstreak_0;F-111F
+f_111f_iaf_killstreak_1;F-111F
+f_111f_iaf_killstreak_2;F-111
+f_111f_japan_killstreak_shop;F-111F
+f_111f_japan_killstreak_0;F-111F
+f_111f_japan_killstreak_1;F-111F
+f_111f_japan_killstreak_2;F-111
 
 f_117_shop;F-117A OCIP II
 f_117_0;F-117A OCIP II Nighthawk
@@ -628,6 +640,38 @@ b-29_shop;B-29A-20
 b-29_0;B-29A-20 BN Superfortress
 b-29_1;B-29A
 b-29_2;B-29
+b-29_killstreak_shop;B-29A-20
+b-29_killstreak_0;B-29A-20 BN Superfortress
+b-29_killstreak_1;B-29A
+b-29_killstreak_2;B-29
+b-29_france_killstreak_shop;B-29A-20
+b-29_france_killstreak_0;B-29A-20 BN Superfortress
+b-29_france_killstreak_1;B-29A
+b-29_france_killstreak_2;B-29
+b-29_japan_killstreak_shop;B-29A-20
+b-29_japan_killstreak_0;B-29A-20 BN Superfortress
+b-29_japan_killstreak_1;B-29A
+b-29_japan_killstreak_2;B-29
+b-29_sweden_killstreak_shop;B-29A-20
+b-29_sweden_killstreak_0;B-29A-20 BN Superfortress
+b-29_sweden_killstreak_1;B-29A
+b-29_sweden_killstreak_2;B-29
+b-29_uk_killstreak_shop;B-29A-20
+b-29_uk_killstreak_0;B-29A-20 BN Superfortress
+b-29_uk_killstreak_1;B-29A
+b-29_uk_killstreak_2;B-29
+b-29_italy_killstreak_shop;B-29A-20
+b-29_italy_killstreak_0;B-29A-20 BN Superfortress
+b-29_italy_killstreak_1;B-29A
+b-29_italy_killstreak_2;B-29
+b-29_germany_killstreak_shop;B-29A-20
+b-29_germany_killstreak_0;B-29A-20 BN Superfortress
+b-29_germany_killstreak_1;B-29A
+b-29_germany_killstreak_2;B-29
+b-29_iaf_killstreak_shop;B-29A-20
+b-29_iaf_killstreak_0;B-29A-20 BN Superfortress
+b-29_iaf_killstreak_1;B-29A
+b-29_iaf_killstreak_2;B-29
 
 b_34_shop;B-34
 b_34_0;B-34 Ventura
@@ -675,6 +719,44 @@ av_8b_plus_shop;AV-8B Radar
 av_8b_plus_0;AV-8B Radar Harrier II Plus
 av_8b_plus_1;AV-8B
 av_8b_plus_2;AV-8
+
+// DRONE //
+ucav_mq_1_predator_shop;MQ-1A
+ucav_mq_1_predator_0;MQ-1A Predator
+ucav_mq_1_predator_1;MQ-1A
+ucav_mq_1_predator_2;MQ-1
+ucav_mq_1_predator_france_killstreak_shop;MQ-1A
+ucav_mq_1_predator_france_killstreak_0;MQ-1A Predator
+ucav_mq_1_predator_france_killstreak_1;MQ-1A
+ucav_mq_1_predator_france_killstreak_2;MQ-1
+ucav_mq_1_predator_germany_killstreak_shop;MQ-1A
+ucav_mq_1_predator_germany_killstreak_0;MQ-1A Predator
+ucav_mq_1_predator_germany_killstreak_1;MQ-1A
+ucav_mq_1_predator_germany_killstreak_2;MQ-1
+ucav_mq_1_predator_iaf_killstreak_shop;MQ-1A
+ucav_mq_1_predator_iaf_killstreak_0;MQ-1A Predator
+ucav_mq_1_predator_iaf_killstreak_1;MQ-1A
+ucav_mq_1_predator_iaf_killstreak_2;MQ-1
+ucav_mq_1_predator_italy_killstreak_shop;MQ-1A
+ucav_mq_1_predator_italy_killstreak_0;MQ-1A Predator
+ucav_mq_1_predator_italy_killstreak_1;MQ-1A
+ucav_mq_1_predator_italy_killstreak_2;MQ-1
+ucav_mq_1_predator_japan_killstreak_shop;MQ-1A
+ucav_mq_1_predator_japan_killstreak_0;MQ-1A Predator
+ucav_mq_1_predator_japan_killstreak_1;MQ-1A
+ucav_mq_1_predator_japan_killstreak_2;MQ-1
+ucav_mq_1_predator_sweden_killstreak_shop;MQ-1A
+ucav_mq_1_predator_sweden_killstreak_0;MQ-1A Predator
+ucav_mq_1_predator_sweden_killstreak_1;MQ-1A
+ucav_mq_1_predator_sweden_killstreak_2;MQ-1
+ucav_mq_1_predator_uk_killstreak_shop;MQ-1A
+ucav_mq_1_predator_uk_killstreak_0;MQ-1A Predator
+ucav_mq_1_predator_uk_killstreak_1;MQ-1A
+ucav_mq_1_predator_uk_killstreak_2;MQ-1
+ucav_mq_1_predator_usa_killstreak_shop;MQ-1A
+ucav_mq_1_predator_usa_killstreak_0;MQ-1A Predator
+ucav_mq_1_predator_usa_killstreak_1;MQ-1A
+ucav_mq_1_predator_usa_killstreak_2;MQ-1
 
 // OTHER //
 c-47_shop;C-47

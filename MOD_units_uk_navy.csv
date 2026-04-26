@@ -1,376 +1,69 @@
 <ID|readonly|noverify>;<NewLanguage>
+shop/group/uk_destroyer_battle_group;Matapan (I 43) / Tobruk (D 37)
+shop/group/uk_destroyer_daring_group;Diana (D 126) / Daring (D 05)
+shop/group/uk_cruiser_kent_norfolk_group;Kent (54) / Norfolk (78)
 
-uk_cargo_ship_liberty_shop;Assistance (F 173)
-uk_cargo_ship_liberty_0;Liberty-Class Cargo Ship, HMS Assistance (F 173)
-uk_cargo_ship_liberty_1;Assistance
-uk_cargo_ship_liberty_2;Liberty-Class
-uk_cargo_ship_liberty_EC_0;Assistance (F 173)
-uk_cargo_ship_liberty_EC_1;Assistance
-uk_cargo_ship_liberty_EC_2;Liberty-Class
-uk_cruiser_enterprise_d52_shop;Enterprise (D 52)
-uk_cruiser_enterprise_d52_0;Emerald-Class Light Cruiser, HMS Enterprise (D 52) (1944)
-uk_cruiser_enterprise_d52_1;Enterprise
-uk_cruiser_enterprise_d52_2;Emerald-Class
-uk_cruiser_enterprise_d52_EC_0;Enterprise (D 52)
-uk_cruiser_enterprise_d52_EC_1;Enterprise
-uk_cruiser_enterprise_d52_EC_2;Emerald-Class
-uk_70ft_mgb_shop;MGB 61
-uk_70ft_mgb_0;Motor Gun Boat, BPB 70’, HMS MGB 61 (1941)
-uk_70ft_mgb_1;MGB 61
-uk_70ft_mgb_2;BPB 70’
-uk_mtb_1series_shop;MTB 1
-uk_mtb_1series_0;Motor Torpedo Boat, BPB 60’, HMS MTB 1
-uk_mtb_1series_1;MTB 1
-uk_mtb_1series_2;BPB 60’
-uk_mtb_vosper_1series_shop;MTB 22
-uk_mtb_vosper_1series_0;Motor Torpedo Boat, 70’ Vosper Type I, HMS MTB 22
-uk_mtb_vosper_1series_1;MTB 22
-uk_mtb_vosper_1series_2;70’ Vosper
-uk_mtb_vosper_2series_shop;MTB 379
-uk_mtb_vosper_2series_0;Motor Torpedo Boat, 70’ Vosper Type II, HMS MTB 379
-uk_mtb_vosper_2series_1;MTB 379
-uk_mtb_vosper_2series_2;70’ Vosper
-uk_73ft_vosper_type1_shop;MTB 234
-uk_73ft_vosper_type1_0;Motor Torpedo Boat, 72’6” Vosper Type II, HMS MTB 234
-uk_73ft_vosper_type1_1;MTB 234
-uk_73ft_vosper_type1_2;72’6” Vosper
-uk_sgb_304_shop;Grey Fox (SGB 4)
-uk_sgb_304_0;Steam Gun Boat, HMS Grey Fox (SGB 4)
-uk_sgb_304_1;Grey Fox
-uk_sgb_304_2;SGB
-uk_sgb_309_shop;Grey Goose (SGB 9)
-uk_sgb_309_0;Steam Gun Boat, HMS Grey Goose (SGB 9)
-uk_sgb_309_1;Grey Goose
-uk_sgb_309_2;SGB
-uk_brave_borderer_shop;Brave Borderer (P 1011)
-uk_brave_borderer_0;Brave-Class, HMS Brave Borderer (P 1011)
-uk_brave_borderer_1;Brave Borderer
-uk_brave_borderer_2;Brave-Class
-uk_dark_class_shop;Dark Adventurer (P 1101)
-uk_dark_class_0;Dark-Class, HMS Dark Adventurer (P 1101)
-uk_dark_class_1;Dark Adventurer
-uk_dark_class_2;Dark-Class
-uk_dark_class_mtb_shop;Dark Aggressor (P 1102)
-uk_dark_class_mtb_0;Dark-Class, HMS Dark Aggressor (P 1102)
-uk_dark_class_mtb_1;Dark Aggressor
-uk_dark_class_mtb_2;Dark-Class
-uk_isles_class_trawler_shop;Liscomb (T 285)
-uk_isles_class_trawler_0;Isles-Class, HMT Liscomb (T 285)
-uk_isles_class_trawler_1;Liscomb
-uk_isles_class_trawler_2;Isles-CLass
-uk_fairmile_a_ml100_shop;ML 100
-uk_fairmile_a_ml100_0;Motor Launch Boat, Fairmile Type A, HMS ML 100
-uk_fairmile_a_ml100_1;ML 100
-uk_fairmile_a_ml100_2;Fairmile A
-uk_fairmile_b_ml345_shop;ML 345
-uk_fairmile_b_ml345_0;Motor Launch Boat, Fairmile Type B, HMS ML 345
-uk_fairmile_b_ml345_1;ML 345
-uk_fairmile_b_ml345_2;Fairmile B
-uk_destroyer_g_grafton_shop;Grafton (H 89)
-uk_destroyer_g_grafton_0;G-Class Destroyer, HMS Grafton (H 89)
-uk_destroyer_g_grafton_1;Grafton
-uk_destroyer_g_grafton_2;G-Class
-uk_destroyer_g_grafton_EC_0;Grafton (H 89)
-uk_destroyer_g_grafton_EC_1;Grafton
-uk_destroyer_g_grafton_EC_2;G-Class
-uk_destroyer_tribal_shop;Eskimo (F 75)
-uk_destroyer_tribal_0;Tribal-Class Destroyer, HMS Eskimo (F 75)
-uk_destroyer_tribal_1;Eskimo
-uk_destroyer_tribal_2;Tribal-Class
-uk_destroyer_tribal_EC_0;Eskimo (F 75)
-uk_destroyer_tribal_EC_1;Eskimo
-uk_destroyer_tribal_EC_2;Tribal-Class
-uk_fairmile_c_332_shop;MGB 332
-uk_fairmile_c_332_0;Motor Gun Boat, Fairmile Type C, HMS MGB 332
-uk_fairmile_c_332_1;MGB 332
-uk_fairmile_c_332_2;Fairmile C
-uk_fairmile_d_697_800_shop;MTB 697
-uk_fairmile_d_697_800_0;Motor Torpedo Boat, Fairmile Type D, HMS MTB 697
-uk_fairmile_d_697_800_1;MTB 697
-uk_fairmile_d_697_800_2;Fairmile D
-uk_fairmile_c_shop;MGB 312
-uk_fairmile_c_0;Motor Gun Boat, Fairmile Type C, HMS MGB 312
-uk_fairmile_c_1;MGB 312
-uk_fairmile_c_2;Fairmile C
-uk_fairmile_d_617_632_shop;MTB 617
-uk_fairmile_d_617_632_0;Motor Torpedo Boat, Fairmile Type D, HMS MTB 617
-uk_fairmile_d_617_632_1;MTB 617
-uk_fairmile_d_617_632_2;Fairmile D
-uk_fairmile_d_601_616_shop;MGB 601
-uk_fairmile_d_601_616_0;Motor Gun Boat, Fairmile Type D, HMS MGB 601
-uk_fairmile_d_601_616_1;MGB 601
-uk_fairmile_d_601_616_2;Fairmile D
-uk_destroyer_clemson_churchill_shop;Churchill (I 45)
-uk_destroyer_clemson_churchill_0;Town-Class Destroyer Type A, HMS Churchill (I 45)
-uk_destroyer_clemson_churchill_1;Churchill
-uk_destroyer_clemson_churchill_2;Town-Class
-uk_destroyer_clemson_churchill_EC_0;Churchill (I 45)
-uk_destroyer_clemson_churchill_EC_1;Churchill
-uk_destroyer_clemson_churchill_EC_2;Town-Class
-uk_destroyer_battle_2series_shop;Matapan (I 43)
-uk_destroyer_battle_2series_0;Battle-Class Destroyer Type II, HMS Matapan (I 43)
-uk_destroyer_battle_2series_1;Matapan
-uk_destroyer_battle_2series_2;Battle-Class
-uk_destroyer_j_class_shop;Jervis (G 00)
-uk_destroyer_j_class_0;J-Class Destroyer, HMS Jervis (G 00) (1944)
-uk_destroyer_j_class_1;Jervis
-uk_destroyer_j_class_2;J-Class
-uk_destroyer_k_class_shop;Kelvin (F 37)
-uk_destroyer_k_class_0;K-Class Destroyer, HMS Kelvin (F 37) (1939)
-uk_destroyer_k_class_1;Kelvin
-uk_destroyer_k_class_2;K-Class
-uk_destroyer_n_class_shop;Nepal (G 25)
-uk_destroyer_n_class_0;N-Class Destroyer, HMAS Nepal (G 25) (1942)
-uk_destroyer_n_class_1;Nepal
-uk_destroyer_n_class_2;N-Class
-uk_destroyer_n_class_EC_0;Nepal (G 25)
-uk_destroyer_n_class_EC_1;Nepal
-uk_destroyer_n_class_EC_2;N-Class
-uk_destroyer_hunt_2series_shop;Calpe (L 71)
-uk_destroyer_hunt_2series_0;Hunt-Class Destroyer Type II, HMS Calpe (L 71)
-uk_destroyer_hunt_2series_1;Calpe
-uk_destroyer_hunt_2series_2;Hunt-Class
-uk_destroyer_hunt_4series_shop;Brissenden (L 79)
-uk_destroyer_hunt_4series_0;Hunt-Class Destroyer Type IV, HMS Brissenden (L 79)
-uk_destroyer_hunt_4series_1;Brissenden
-uk_destroyer_hunt_4series_2;Hunt-Class
-uk_frigate_river_shop;Spey (K 246)
-uk_frigate_river_0;River-Class Frigate, HMS Spey (K 246)
-uk_frigate_river_1;Spey
-uk_frigate_river_2;River-Class
-uk_fairmile_d_5001_5029_shop;MTB 5001
-uk_fairmile_d_5001_5029_0;Motor Torpedo Boat, Fairmile Type D, HMS MTB 5001
-uk_fairmile_d_5001_5029_1;MTB 5001
-uk_fairmile_d_5001_5029_2;Fairmile D
-uk_mtb_2series_shop;MTB 2
-uk_mtb_2series_0;Motor Torpedo Boat, BPB 60’, HMS MTB 2
-uk_mtb_2series_1;MTB 2
-uk_mtb_2series_2;BPB 60’
-uk_cruiser_dido_shop;Dido (C 37)
-uk_cruiser_dido_0;Dido-Class Light Cruiser, HMS Dido (37) (1941)
-uk_cruiser_dido_1;Dido
-uk_cruiser_dido_2;Dido-Class
-uk_cruiser_dido_EC_0;Dido (C 37)
-uk_cruiser_dido_EC_1;Dido
-uk_cruiser_dido_EC_2;Dido-Class
-uk_cruiser_tiger_shop;Tiger (C 20)
-uk_cruiser_tiger_0;Tiger-Class Light Cruiser, HMS Tiger (C 20) (1960)
-uk_cruiser_tiger_1;Tiger
-uk_cruiser_tiger_2;Tiger-Class
-uk_cruiser_southampton_shop;Southampton (C 83)
-uk_cruiser_southampton_0;Town-Class Light Cruiser, HMS Southampton (C 83) (1940)
-uk_cruiser_southampton_1;Southampton
-uk_cruiser_southampton_2;Town-Class
-uk_cruiser_arethusa_shop;Arethusa (26)
-uk_cruiser_arethusa_0;Arethusa-Class Light Cruiser, HMS Arethusa (26)
-uk_cruiser_arethusa_1;Arethusa
-uk_cruiser_arethusa_2;Arethusa-Class
-uk_cruiser_arethusa_EC_0;Arethusa (26)
-uk_cruiser_arethusa_EC_1;Arethusa
-uk_cruiser_arethusa_EC_2;Arethusa-Class
-uk_71ft_mgb_shop;MGB 75
-uk_71ft_mgb_0;Motor Gun Boat, BPB 72’, HMS MGB 75
-uk_71ft_mgb_1;MGB 75
-uk_71ft_mgb_2;BPB 72’
-uk_cruiser_belfast_shop;Belfast (C 35)
-uk_cruiser_belfast_0;Town-Class Light Cruiser, HMS Belfast (C 35) (1959)
-uk_cruiser_belfast_1;Belfast
-uk_cruiser_belfast_2;Town-Class
-uk_cruiser_hawkins_shop;Hawkins (D 86)
-uk_cruiser_hawkins_0;Hawkins-Class Heavy Cruiser, HMS Hawkins (D 86)
-uk_cruiser_hawkins_1;Hawkins
-uk_cruiser_hawkins_2;Hawkins-Class
-uk_cruiser_kent_shop;Kent (54)
-uk_cruiser_kent_0;County-Class Heavy Cruiser, HMS Kent (54) (1934)
-uk_cruiser_kent_1;Kent
-uk_cruiser_kent_2;County-Class
-uk_cruiser_london_shop;London (69)
-uk_cruiser_london_0;County-Class Heavy Cruiser, HMS London (69) (1945)
-uk_cruiser_london_1;London
-uk_cruiser_london_2;County-Class
-uk_cruiser_york_shop;York (90)
-uk_cruiser_york_0;York-Class Heavy Cruiser, HMS York (90) (1941)
-uk_cruiser_york_1;York
-uk_cruiser_york_2;York-Class
-uk_corvette_peacock_shop;Peacock (P 239)
-uk_corvette_peacock_0;Peacock-Class Corvette, HMS Peacock (P 239)
-uk_corvette_peacock_1;Peacock
-uk_corvette_peacock_2;Peacock-Class
-uk_battleship_dreadnought_shop;Dreadnought
-uk_battleship_dreadnought_0;Dreadnought-Class Battleship, HMS Dreadnought (1917)
-uk_battleship_dreadnought_1;Dreadnought
-uk_battleship_dreadnought_2;Dreadnought-Class
-uk_aircraftcarrier_ark_royal_shop;Ark Royal (R 09)
-uk_aircraftcarrier_ark_royal_0;Audacious-Class Aircraft Carrier, HMS Ark Royal (R 09)
-uk_aircraftcarrier_ark_royal_1;Ark Royal
-uk_aircraftcarrier_ark_royal_2;Audacious-Class
-uk_battleship_colossus_shop;Colossus
-uk_battleship_colossus_0;Colossus-Class Battleship, HMS Colossus (1918)
-uk_battleship_colossus_1;Colossus
-uk_battleship_colossus_2;Colossus-Class
-uk_dark_class_mtb_td_shop;Dark Aggressor (P 1102) (TD)
-uk_dark_class_mtb_td_0;Dark-Class, HMS Dark Aggressor (P 1102) (Twitch Drop)
-uk_dark_class_mtb_td_1;Dark Aggressor
-uk_dark_class_mtb_td_2;Dark-Class
-uk_battlecruiser_invincible_shop;Invincible
-uk_battlecruiser_invincible_0;Invincible-Class Battlecruiser, HMS Invincible (1916)
-uk_battlecruiser_invincible_1;Invincible
-uk_battlecruiser_invincible_2;Invincible-Class
-uk_frigate_whitby_blackpool_shop;Blackpool (F 77)
-uk_frigate_whitby_blackpool_0;Whitby-Class Frigate, HMS Blackpool (F 77)
-uk_frigate_whitby_blackpool_1;Blackpool
-uk_frigate_whitby_blackpool_2;Whitby-Class
-uk_cruiser_liverpool_shop;Liverpool (11)
-uk_cruiser_liverpool_0;Town-Class Cruiser, HMS Liverpool (11) (1945)
-uk_cruiser_liverpool_1;Liverpool
-uk_cruiser_liverpool_2;Town-Class
-uk_frigate_leopard_shop;Leopard (F 14)
-uk_frigate_leopard_0;Leopard-Class Frigate, HMS Leopard (F 14)
-uk_frigate_leopard_1;Leopard
-uk_frigate_leopard_2;Leopard-Class
-uk_destroyer_v_class_vega_shop;Vega (L 41)
-uk_destroyer_v_class_vega_0;V-Class Destroyer, Admiralty Design, HMS Vega (L 41) (1942)
-uk_destroyer_v_class_vega_1;Vega
-uk_destroyer_v_class_vega_2;V-Class
-uk_fairmile_lcs_l_h_mk2_shop;LCS (L) 257
-uk_fairmile_lcs_l_h_mk2_0;Landing Craft Support, Fairmile Type H, HMS LCS (L) 257
-uk_fairmile_lcs_l_h_mk2_1;LCS (L) 257)
-uk_fairmile_lcs_l_h_mk2_2;Fairmile H
-uk_cruiser_norfolk_shop;Norfolk (78)
-uk_cruiser_norfolk_0;County-Class Heavy Cruiser, Norfolk Sub-Class, HMS Norfolk (78) (1943)
-uk_cruiser_norfolk_1;Norfolk
-uk_cruiser_norfolk_2;County-Class
-uk_destroyer_v_class_verdun_shop;Verdun (L 93)
-uk_destroyer_v_class_verdun_0;V-Class Destroyer, Admiralty Design, HMS Verdun (L 93) (1941)
-uk_destroyer_v_class_verdun_1;Verdun
-uk_destroyer_v_class_verdun_2;V-Class
-uk_destroyer_tribal_mohawk_shop;Mohawk (F 31)
-uk_destroyer_tribal_mohawk_0;Tribal-Class Destroyer, HMS Mohawk (F 31)
-uk_destroyer_tribal_mohawk_1;Mohawk
-uk_destroyer_tribal_mohawk_2;Tribal-Class
-uk_battleship_marlborough_shop;Marlborough (79)
-uk_battleship_marlborough_0;Iron Duke-Class Dreadnought, HMS Marlborough (79)
-uk_battleship_marlborough_1;Marlborough
-uk_battleship_marlborough_2;Iron Duke-Class
-uk_higgins_78ft_mtb422_shop;▄ MTB 422
-uk_higgins_78ft_mtb422_0;▄ Motor Torpedo Boat, Higgins 78’, HMS MTB 422
-uk_higgins_78ft_mtb422_1;▄ MTB 422
-uk_higgins_78ft_mtb422_2;Higgins 78’
-uk_destroyer_v_class_valhalla_shop;Valhalla (L 41)
-uk_destroyer_v_class_valhalla_0;V-Class Destroyer, Admiralty Design, HMS Valhalla (G 45) (1924)
-uk_destroyer_v_class_valhalla_1;Valhalla
-uk_destroyer_v_class_valhalla_2;V-Class
-uk_destroyer_battle_cadiz_shop;Cadiz (D 79)
-uk_destroyer_battle_cadiz_0;Battle-Class Destroyer Type I, HMS Cadiz (D 79) (1948)
-uk_destroyer_battle_cadiz_1;Cadiz
-uk_destroyer_battle_cadiz_2;Battle-Class
-uk_battlecruiser_hood_shop;Hood (51)
-uk_battlecruiser_hood_0;Admiral-Class Battlecruiser, HMS Hood (51) (1940)
-uk_battlecruiser_hood_1;Hood
-uk_battlecruiser_hood_2;Admiral-Class
-uk_hdml_ml1383_shop;ML 1383
-uk_hdml_ml1383_0;Harbour Defence Motor Launch 1383-Class, HMS ML 1383
-uk_hdml_ml1383_1;ML 1383
-uk_hdml_ml1383_2;HDML
-uk_attack_class_arrow_shop;Arrow (P 88)
-uk_attack_class_arrow_0;Attack-Class, HMAS Arrow (P 88)
-uk_attack_class_arrow_1;Arrow
-uk_attack_class_arrow_2;Attack-Class
-uk_battlecruiser_glorious_shop;Glorious (77)
-uk_battlecruiser_glorious_0;Courageous-Class Battlecruiser, HMS Glorious (77) (1919)
-uk_battlecruiser_glorious_1;Glorious
-uk_battlecruiser_glorious_2;Courageous-Class
-uk_destroyer_daring_class_diana_shop;Diana (D 126)
-uk_destroyer_daring_class_diana_0;Daring-Class Destroyer, HMS Diana (D 126) (1958)
-uk_destroyer_daring_class_diana_1;Diana
-uk_destroyer_daring_class_diana_2;Daring-Class
+// CARRIERS //
 uk_aircraftcarrier_illustrious_shop;Illustrious (87)
 uk_aircraftcarrier_illustrious_0;Illustrious-Class Aircraft Carrier, HMS Illustrious (87)
 uk_aircraftcarrier_illustrious_1;Illustrious
 uk_aircraftcarrier_illustrious_2;Illustrious-Class
-uk_minelayer_abdiel_class_abdiel_shop;Abdiel (M 39)
-uk_minelayer_abdiel_class_abdiel_0;Abdiel-Class Minelayer, HMS Abdiel (M 39)
-uk_minelayer_abdiel_class_abdiel_1;Abdiel
-uk_minelayer_abdiel_class_abdiel_2;Abdiel-Class
-uk_frigate_whitby_shop;Whitby (F 36)
-uk_frigate_whitby_0;Whitby-Class Frigate, HMS Whitby (F 36)
-uk_frigate_whitby_1;Whitby
-uk_frigate_whitby_2;Whitby-Class
-uk_centurion_mk_2_shop;Centurion Mk. II
-uk_centurion_mk_2_0;Tank, Cruiser, A.41A, Centurion Mk. II
-uk_centurion_mk_2_1;Centurion Mk. II
-uk_centurion_mk_2_2;Centurion
-uk_destroyer_daring_class_daring_shop;Daring (D 05)
-uk_destroyer_daring_class_daring_0;Daring-Class Destroyer, HMS Daring (D 05)
-uk_destroyer_daring_class_daring_1;Daring
-uk_destroyer_daring_class_daring_2;Daring-Class
-uk_battlecruiser_renown_shop;Renown (72)
-uk_battlecruiser_renown_0;Renown-Class Battlecruiser, HMS Renown (72) (1944)
-uk_battlecruiser_renown_1;Renown
-uk_battlecruiser_renown_2;Renown-Class
-shop/group/uk_destroyer_battle_group;Matapan (I 43) / Tobruk (D 37)
-shop/group/uk_destroyer_daring_group;Diana (D 126) / Daring (D 05)
-shop/group/uk_cruiser_kent_norfolk_group;Kent (54) / Norfolk (78)
-uk_battleship_iron_duke_shop;Iron Duke (18)
-uk_battleship_iron_duke_0;Iron Duke-Class Battleship, HMS Iron Duke (18) (1928)
-uk_battleship_iron_duke_1;Iron Duke
-uk_battleship_iron_duke_2;Iron Duke-Class
-uk_gay_class_archer_shop;Gay Archer (P 1041)
-uk_gay_class_archer_0;Gay-Class, HMS Gay Archer (P 1041)
-uk_gay_class_archer_1;Gay Archer
-uk_gay_class_archer_2;Gay-Class
-uk_battleship_orion_shop;Orion (52)
-uk_battleship_orion_0;Orion-Class Battleship, HMS Orion (52)
-uk_battleship_orion_1;Orion
-uk_battleship_orion_2;Orion-Class
-uk_destroyer_daring_class_diamond_shop;Diamond (D 35)
-uk_destroyer_daring_class_diamond_0;Daring-Class Destroyer, HMS Diamond (D 35) (1958)
-uk_destroyer_daring_class_diamond_1;Diamond
-uk_destroyer_daring_class_diamond_2;Daring-Class
-uk_battlecruiser_queen_mary_shop;Queen Mary (14)
-uk_battlecruiser_queen_mary_0;HMS Queen Mary (14)
-uk_battlecruiser_queen_mary_1;Queen Mary
-uk_battlecruiser_queen_mary_2;Queen Mary
+
+uk_aircraftcarrier_ark_royal_shop;Ark Royal (R 09)
+uk_aircraftcarrier_ark_royal_0;Audacious-Class Aircraft Carrier, HMS Ark Royal (R 09)
+uk_aircraftcarrier_ark_royal_1;Ark Royal
+uk_aircraftcarrier_ark_royal_2;Audacious-Class
+
+// BATTLESHIPS //
+
+uk_battleship_dreadnought_shop;Dreadnought
+uk_battleship_dreadnought_0;Dreadnought-Class Battleship, HMS Dreadnought (1917)
+uk_battleship_dreadnought_1;Dreadnought
+uk_battleship_dreadnought_2;Dreadnought-Class
+
 uk_battleship_q_elizabet_class_barham_shop;Barham (04)
 uk_battleship_q_elizabet_class_barham_0;Queen Elizabeth-Class Dreadnought, HMS Barham (04) (1917)
 uk_battleship_q_elizabet_class_barham_1;Barham
 uk_battleship_q_elizabet_class_barham_2;Queen Elizabeth-Class
-uk_fremantle_class_shop;Fremantle (P 203)
-uk_fremantle_class_0;Fremantle-Class Patrol Boat, HMAS Fremantle (P 203)
-uk_fremantle_class_1;Fremantle
-uk_fremantle_class_2;Fremantle-Class
-uk_battlecruiser_repulse_shop;Repulse (34)
-uk_battlecruiser_repulse_0;Renown-Class Battlecruiser, HMS Repulse (34) (1941)
-uk_battlecruiser_repulse_1;Repulse
-uk_battlecruiser_repulse_2;Renown-Class
-uk_battleship_rodney_shop;Rodney (29)
-uk_battleship_rodney_0;Nelson-Class Battleship, HMS Rodney (29) (1940)
-uk_battleship_rodney_1;Rodney
-uk_battleship_rodney_2;Nelson-Class
-uk_battleship_q_elizabet_class_warspite_shop;Warspite (03)
-uk_battleship_q_elizabet_class_warspite_0;Queen Elizabeth-Class Battleship, HMS Warspite (03) (1942)
-uk_battleship_q_elizabet_class_warspite_1;Warspite
-uk_battleship_q_elizabet_class_warspite_2;Queen Elizabeth-Class
-uk_mtb35_vosper_shop;MTB 35
-uk_mtb35_vosper_0;Motor Torpedo Boat, 70' Vosper, HMS MTB 35
-uk_mtb35_vosper_1;MTB 35
-uk_mtb35_vosper_2;70' Vosper
+
+uk_battleship_colossus_shop;Colossus
+uk_battleship_colossus_0;Colossus-Class Battleship, HMS Colossus (1918)
+uk_battleship_colossus_1;Colossus
+uk_battleship_colossus_2;Colossus-Class
+
+uk_battleship_iron_duke_shop;Iron Duke (18)
+uk_battleship_iron_duke_0;Iron Duke-Class Battleship, HMS Iron Duke (18) (1928)
+uk_battleship_iron_duke_1;Iron Duke
+uk_battleship_iron_duke_2;Iron Duke-Class
+uk_battleship_marlborough_shop;Marlborough (79)
+uk_battleship_marlborough_0;Iron Duke-Class Dreadnought, HMS Marlborough (79)
+uk_battleship_marlborough_1;Marlborough
+uk_battleship_marlborough_2;Iron Duke-Class
+
 uk_battleship_vanguard_shop;Vanguard (23)
 uk_battleship_vanguard_0;Vanguard-Class Battleship, HMS Vanguard (23) (1946)
 uk_battleship_vanguard_1;Vanguard
 uk_battleship_vanguard_2;Vanguard-Class
+
 uk_battleship_nelson_shop;Nelson (28)
 uk_battleship_nelson_0;Nelson-Class Battleship, HMS Nelson (28) (1945)
 uk_battleship_nelson_1;Nelson
 uk_battleship_nelson_2;Nelson-Class
-uk_destroyer_st_class_saumarez_shop;Saumarez (G 12)
-uk_destroyer_st_class_saumarez_0;S-Class Destroyer, HMS Saumarez (G 12) (1945)
-uk_destroyer_st_class_saumarez_1;Saumarez
-uk_destroyer_st_class_saumarez_2;S-Class
-uk_destroyer_clemson_montgomery_g95_shop;Montgomery (G 95)
-uk_destroyer_clemson_montgomery_g95_0;Town-Class Destroyer Type B, HMS Montgomery (G 95)
-uk_destroyer_clemson_montgomery_g95_1;Montgomery
-uk_destroyer_clemson_montgomery_g95_2;Town-Class
+uk_battleship_rodney_shop;Rodney (29)
+uk_battleship_rodney_0;Nelson-Class Battleship, HMS Rodney (29) (1940)
+uk_battleship_rodney_1;Rodney
+uk_battleship_rodney_2;Nelson-Class
+
+uk_battleship_orion_shop;Orion (52)
+uk_battleship_orion_0;Orion-Class Battleship, HMS Orion (52)
+uk_battleship_orion_1;Orion
+uk_battleship_orion_2;Orion-Class
+
+uk_battleship_q_elizabet_class_warspite_shop;Warspite (03)
+uk_battleship_q_elizabet_class_warspite_0;Queen Elizabeth-Class Battleship, HMS Warspite (03) (1942)
+uk_battleship_q_elizabet_class_warspite_1;Warspite
+uk_battleship_q_elizabet_class_warspite_2;Queen Elizabeth-Class
+
 uk_battleship_centurion_shop;Centurion (12)
 uk_battleship_centurion_0;King George V-Class Battleship, HMS Centurion (12) (1913)
 uk_battleship_centurion_1;Centurion
@@ -379,7 +72,376 @@ uk_battleship_prince_of_wales_shop;Prince of Wales (53)
 uk_battleship_prince_of_wales_0;King George V-Class Battleship, HMS Prince of Wales (53) (1941)
 uk_battleship_prince_of_wales_1;Prince of Wales
 uk_battleship_prince_of_wales_2;King George V-Class
+
+// BATTLECRUISERS //
+
+uk_battlecruiser_invincible_shop;Invincible
+uk_battlecruiser_invincible_0;Invincible-Class Battlecruiser, HMS Invincible (1916)
+uk_battlecruiser_invincible_1;Invincible
+uk_battlecruiser_invincible_2;Invincible-Class
+
+uk_battlecruiser_queen_mary_shop;Queen Mary (14)
+uk_battlecruiser_queen_mary_0;Battlecruiser HMS Queen Mary (14)
+uk_battlecruiser_queen_mary_1;Queen Mary
+uk_battlecruiser_queen_mary_2;Queen Mary
+
+uk_battlecruiser_glorious_shop;Glorious (77)
+uk_battlecruiser_glorious_0;Courageous-Class Battlecruiser, HMS Glorious (77) (1919)
+uk_battlecruiser_glorious_1;Glorious
+uk_battlecruiser_glorious_2;Courageous-Class
+
+uk_battlecruiser_hood_shop;Hood (51)
+uk_battlecruiser_hood_0;Admiral-Class Battlecruiser, HMS Hood (51) (1940)
+uk_battlecruiser_hood_1;Hood
+uk_battlecruiser_hood_2;Admiral-Class
+
+uk_battlecruiser_renown_shop;Renown (72)
+uk_battlecruiser_renown_0;Renown-Class Battlecruiser, HMS Renown (72) (1944)
+uk_battlecruiser_renown_1;Renown
+uk_battlecruiser_renown_2;Renown-Class
+uk_battlecruiser_repulse_shop;Repulse (34)
+uk_battlecruiser_repulse_0;Renown-Class Battlecruiser, HMS Repulse (34) (1941)
+uk_battlecruiser_repulse_1;Repulse
+uk_battlecruiser_repulse_2;Renown-Class
+
+// HEAVY CRUISERS //
+uk_cruiser_hawkins_shop;Hawkins (D 86)
+uk_cruiser_hawkins_0;Hawkins-Class Heavy Cruiser, HMS Hawkins (D 86)
+uk_cruiser_hawkins_1;Hawkins
+uk_cruiser_hawkins_2;Hawkins-Class
+
+uk_cruiser_kent_shop;Kent (54)
+uk_cruiser_kent_0;County-Class Heavy Cruiser, HMS Kent (54) (1934)
+uk_cruiser_kent_1;Kent
+uk_cruiser_kent_2;County-Class
+uk_cruiser_london_shop;London (69)
+uk_cruiser_london_0;County-Class Heavy Cruiser, HMS London (69) (1945)
+uk_cruiser_london_1;London
+uk_cruiser_london_2;County-Class
+uk_cruiser_norfolk_shop;Norfolk (78)
+uk_cruiser_norfolk_0;County-Class Heavy Cruiser, Norfolk Sub-Class, HMS Norfolk (78) (1943)
+uk_cruiser_norfolk_1;Norfolk
+uk_cruiser_norfolk_2;County-Class
+
+uk_cruiser_york_shop;York (90)
+uk_cruiser_york_0;York-Class Heavy Cruiser, HMS York (90) (1941)
+uk_cruiser_york_1;York
+uk_cruiser_york_2;York-Class
+
+// LIGHT CRUISERS //
+uk_cruiser_dido_shop;Dido (C 37)
+uk_cruiser_dido_0;Dido-Class Light Cruiser, HMS Dido (37) (1941)
+uk_cruiser_dido_1;Dido
+uk_cruiser_dido_2;Dido-Class
+uk_cruiser_dido_EC_0;Dido (C 37)
+uk_cruiser_dido_EC_1;Dido
+uk_cruiser_dido_EC_2;Dido-Class
+
+uk_cruiser_tiger_shop;Tiger (C 20)
+uk_cruiser_tiger_0;Tiger-Class Light Cruiser, HMS Tiger (C 20) (1960)
+uk_cruiser_tiger_1;Tiger
+uk_cruiser_tiger_2;Tiger-Class
+
+uk_cruiser_arethusa_shop;Arethusa (26)
+uk_cruiser_arethusa_0;Arethusa-Class Light Cruiser, HMS Arethusa (26)
+uk_cruiser_arethusa_1;Arethusa
+uk_cruiser_arethusa_2;Arethusa-Class
+uk_cruiser_arethusa_EC_0;Arethusa (26)
+uk_cruiser_arethusa_EC_1;Arethusa
+uk_cruiser_arethusa_EC_2;Arethusa-Class
+
+uk_cruiser_southampton_shop;Southampton (C 83)
+uk_cruiser_southampton_0;Town-Class Light Cruiser, HMS Southampton (C 83) (1940)
+uk_cruiser_southampton_1;Southampton
+uk_cruiser_southampton_2;Town-Class
+uk_cruiser_belfast_shop;Belfast (C 35)
+uk_cruiser_belfast_0;Town-Class Light Cruiser, HMS Belfast (C 35) (1959)
+uk_cruiser_belfast_1;Belfast
+uk_cruiser_belfast_2;Town-Class
+uk_cruiser_liverpool_shop;Liverpool (11)
+uk_cruiser_liverpool_0;Town-Class Light Cruiser, HMS Liverpool (11) (1945)
+uk_cruiser_liverpool_1;Liverpool
+uk_cruiser_liverpool_2;Town-Class
+
+uk_cruiser_enterprise_d52_shop;Enterprise (D 52)
+uk_cruiser_enterprise_d52_0;Emerald-Class Light Cruiser, HMS Enterprise (D 52) (1944)
+uk_cruiser_enterprise_d52_1;Enterprise
+uk_cruiser_enterprise_d52_2;Emerald-Class
+uk_cruiser_enterprise_d52_EC_0;Enterprise (D 52)
+uk_cruiser_enterprise_d52_EC_1;Enterprise
+uk_cruiser_enterprise_d52_EC_2;Emerald-Class
+
 uk_cruiser_fiji_class_fiji_shop;Fiji (58)
 uk_cruiser_fiji_class_fiji_0;Fiji-Class Light Cruiser, HMS Fiji (58) (1940)
 uk_cruiser_fiji_class_fiji_1;Fiji
 uk_cruiser_fiji_class_fiji_2;Fiji-Class
+
+// DESTROYERS //
+uk_destroyer_g_grafton_shop;Grafton (H 89)
+uk_destroyer_g_grafton_0;G-Class Destroyer, HMS Grafton (H 89)
+uk_destroyer_g_grafton_1;Grafton
+uk_destroyer_g_grafton_2;G-Class
+uk_destroyer_g_grafton_EC_0;Grafton (H 89)
+uk_destroyer_g_grafton_EC_1;Grafton
+uk_destroyer_g_grafton_EC_2;G-Class
+
+uk_destroyer_tribal_mohawk_shop;Mohawk (F 31)
+uk_destroyer_tribal_mohawk_0;Tribal-Class Destroyer, HMS Mohawk (F 31)
+uk_destroyer_tribal_mohawk_1;Mohawk
+uk_destroyer_tribal_mohawk_2;Tribal-Class
+uk_destroyer_tribal_shop;Eskimo (F 75)
+uk_destroyer_tribal_0;Tribal-Class Destroyer, HMS Eskimo (F 75)
+uk_destroyer_tribal_1;Eskimo
+uk_destroyer_tribal_2;Tribal-Class
+uk_destroyer_tribal_EC_0;Eskimo (F 75)
+uk_destroyer_tribal_EC_1;Eskimo
+uk_destroyer_tribal_EC_2;Tribal-Class
+
+uk_destroyer_clemson_churchill_shop;Churchill (I 45)
+uk_destroyer_clemson_churchill_0;Town-Class Destroyer Type A, HMS Churchill (I 45)
+uk_destroyer_clemson_churchill_1;Churchill
+uk_destroyer_clemson_churchill_2;Town-Class
+uk_destroyer_clemson_churchill_EC_0;Churchill (I 45)
+uk_destroyer_clemson_churchill_EC_1;Churchill
+uk_destroyer_clemson_churchill_EC_2;Town-Class
+uk_destroyer_clemson_montgomery_g95_shop;Montgomery (G 95)
+uk_destroyer_clemson_montgomery_g95_0;Town-Class Destroyer Type B, HMS Montgomery (G 95)
+uk_destroyer_clemson_montgomery_g95_1;Montgomery
+uk_destroyer_clemson_montgomery_g95_2;Town-Class
+
+uk_destroyer_battle_2series_shop;Matapan (I 43)
+uk_destroyer_battle_2series_0;Battle-Class Destroyer Type II, HMS Matapan (I 43)
+uk_destroyer_battle_2series_1;Matapan
+uk_destroyer_battle_2series_2;Battle-Class
+
+uk_destroyer_j_class_shop;Jervis (G 00)
+uk_destroyer_j_class_0;J-Class Destroyer, HMS Jervis (G 00) (1944)
+uk_destroyer_j_class_1;Jervis
+uk_destroyer_j_class_2;J-Class
+
+uk_destroyer_k_class_shop;Kelvin (F 37)
+uk_destroyer_k_class_0;K-Class Destroyer, HMS Kelvin (F 37) (1939)
+uk_destroyer_k_class_1;Kelvin
+uk_destroyer_k_class_2;K-Class
+
+uk_destroyer_n_class_shop;Nepal (G 25)
+uk_destroyer_n_class_0;N-Class Destroyer, HMAS Nepal (G 25) (1942)
+uk_destroyer_n_class_1;Nepal
+uk_destroyer_n_class_2;N-Class
+uk_destroyer_n_class_EC_0;Nepal (G 25)
+uk_destroyer_n_class_EC_1;Nepal
+uk_destroyer_n_class_EC_2;N-Class
+
+uk_destroyer_hunt_2series_shop;Calpe (L 71)
+uk_destroyer_hunt_2series_0;Hunt-Class Destroyer Type II, HMS Calpe (L 71)
+uk_destroyer_hunt_2series_1;Calpe
+uk_destroyer_hunt_2series_2;Hunt-Class
+uk_destroyer_hunt_4series_shop;Brissenden (L 79)
+uk_destroyer_hunt_4series_0;Hunt-Class Destroyer Type IV, HMS Brissenden (L 79)
+uk_destroyer_hunt_4series_1;Brissenden
+uk_destroyer_hunt_4series_2;Hunt-Class
+
+uk_destroyer_v_class_vega_shop;Vega (L 41)
+uk_destroyer_v_class_vega_0;V-Class Destroyer, Admiralty Design, HMS Vega (L 41) (1942)
+uk_destroyer_v_class_vega_1;Vega
+uk_destroyer_v_class_vega_2;V-Class
+uk_destroyer_v_class_verdun_shop;Verdun (L 93)
+uk_destroyer_v_class_verdun_0;V-Class Destroyer, Admiralty Design, HMS Verdun (L 93) (1941)
+uk_destroyer_v_class_verdun_1;Verdun
+uk_destroyer_v_class_verdun_2;V-Class
+uk_destroyer_v_class_valhalla_shop;Valhalla (G 45)
+uk_destroyer_v_class_valhalla_0;V-Class Destroyer, Admiralty Design, HMS Valhalla (G 45) (1924)
+uk_destroyer_v_class_valhalla_1;Valhalla
+uk_destroyer_v_class_valhalla_2;V-Class
+
+uk_destroyer_daring_class_daring_shop;Daring (D 05)
+uk_destroyer_daring_class_daring_0;Daring-Class Destroyer, HMS Daring (D 05)
+uk_destroyer_daring_class_daring_1;Daring
+uk_destroyer_daring_class_daring_2;Daring-Class
+uk_destroyer_daring_class_diamond_shop;Diamond (D 35)
+uk_destroyer_daring_class_diamond_0;Daring-Class Destroyer, HMS Diamond (D 35) (1958)
+uk_destroyer_daring_class_diamond_1;Diamond
+uk_destroyer_daring_class_diamond_2;Daring-Class
+uk_destroyer_daring_class_diana_shop;Diana (D 126)
+uk_destroyer_daring_class_diana_0;Daring-Class Destroyer, HMS Diana (D 126) (1958)
+uk_destroyer_daring_class_diana_1;Diana
+uk_destroyer_daring_class_diana_2;Daring-Class
+
+uk_destroyer_st_class_saumarez_shop;Saumarez (G 12)
+uk_destroyer_st_class_saumarez_0;S-Class Destroyer, HMS Saumarez (G 12) (1945)
+uk_destroyer_st_class_saumarez_1;Saumarez
+uk_destroyer_st_class_saumarez_2;S-Class
+
+uk_destroyer_battle_cadiz_shop;Cadiz (D 79)
+uk_destroyer_battle_cadiz_0;Battle-Class Destroyer Type I, HMS Cadiz (D 79) (1948)
+uk_destroyer_battle_cadiz_1;Cadiz
+uk_destroyer_battle_cadiz_2;Battle-Class
+
+// FRIGATES //
+uk_frigate_river_shop;Spey (K 246)
+uk_frigate_river_0;River-Class Frigate, HMS Spey (K 246)
+uk_frigate_river_1;Spey
+uk_frigate_river_2;River-Class
+
+uk_frigate_whitby_blackpool_shop;Blackpool (F 77)
+uk_frigate_whitby_blackpool_0;Whitby-Class Frigate, HMS Blackpool (F 77)
+uk_frigate_whitby_blackpool_1;Blackpool
+uk_frigate_whitby_blackpool_2;Whitby-Class
+
+uk_frigate_leopard_shop;Leopard (F 14)
+uk_frigate_leopard_0;Leopard-Class Frigate, HMS Leopard (F 14)
+uk_frigate_leopard_1;Leopard
+uk_frigate_leopard_2;Leopard-Class
+
+// CORVETTES //
+uk_corvette_peacock_shop;Peacock (P 239)
+uk_corvette_peacock_0;Peacock-Class Corvette, HMS Peacock (P 239)
+uk_corvette_peacock_1;Peacock
+uk_corvette_peacock_2;Peacock-Class
+
+// MOTOR LAUNCHES //
+uk_fairmile_a_ml100_shop;ML 100
+uk_fairmile_a_ml100_0;Motor Launch Boat, Fairmile Type A, HM ML 100
+uk_fairmile_a_ml100_1;ML 100
+uk_fairmile_a_ml100_2;Fairmile A
+
+uk_fairmile_b_ml345_shop;ML 345
+uk_fairmile_b_ml345_0;Motor Launch Boat, Fairmile Type B, HM ML 345
+uk_fairmile_b_ml345_1;ML 345
+uk_fairmile_b_ml345_2;Fairmile B
+
+uk_hdml_ml1383_shop;ML 1383
+uk_hdml_ml1383_0;Harbour Defence Motor Launch 1383-Class, HM ML 1383
+uk_hdml_ml1383_1;ML 1383
+uk_hdml_ml1383_2;HDML
+
+// MOTOR GUN BOATS //
+uk_70ft_mgb_shop;MGB 61
+uk_70ft_mgb_0;Motor Gun Boat, BPB 70’, HM MGB 61 (1941)
+uk_70ft_mgb_1;MGB 61
+uk_70ft_mgb_2;BPB 70’
+
+uk_71ft_mgb_shop;MGB 75
+uk_71ft_mgb_0;Motor Gun Boat, BPB 72’, HM MGB 75
+uk_71ft_mgb_1;MGB 75
+uk_71ft_mgb_2;BPB 72’
+
+uk_fairmile_c_shop;MGB 312
+uk_fairmile_c_0;Motor Gun Boat, Fairmile Type C, HM MGB 312
+uk_fairmile_c_1;MGB 312
+uk_fairmile_c_2;Fairmile C
+uk_fairmile_c_332_shop;MGB 332
+uk_fairmile_c_332_0;Motor Gun Boat, Fairmile Type C, HM MGB 332
+uk_fairmile_c_332_1;MGB 332
+uk_fairmile_c_332_2;Fairmile C
+
+uk_fairmile_d_601_616_shop;MGB 601
+uk_fairmile_d_601_616_0;Motor Gun Boat, Fairmile Type D, HM MGB 601
+uk_fairmile_d_601_616_1;MGB 601
+uk_fairmile_d_601_616_2;Fairmile D
+
+// MOTOR TORPEDO BOATS //
+uk_mtb_1series_shop;MTB 1
+uk_mtb_1series_0;Motor Torpedo Boat, BPB 60’, HM MTB 1
+uk_mtb_1series_1;MTB 1
+uk_mtb_1series_2;BPB 60’
+uk_mtb_2series_shop;MTB 2
+uk_mtb_2series_0;Motor Torpedo Boat, BPB 60’, HM MTB 2
+uk_mtb_2series_1;MTB 2
+uk_mtb_2series_2;BPB 60’
+
+uk_mtb_vosper_1series_shop;MTB 22
+uk_mtb_vosper_1series_0;Motor Torpedo Boat, 70’ Vosper Type I, HM MTB 22
+uk_mtb_vosper_1series_1;MTB 22
+uk_mtb_vosper_1series_2;70’ Vosper
+uk_mtb35_vosper_shop;MTB 34
+uk_mtb35_vosper_0;Motor Torpedo Boat, 70' Vosper Type II, HM MTB 34
+uk_mtb35_vosper_1;MTB 34
+uk_mtb35_vosper_2;70' Vosper
+uk_mtb_vosper_2series_shop;MTB 379
+uk_mtb_vosper_2series_0;Motor Torpedo Boat, 70’ Vosper Type II, HM MTB 379
+uk_mtb_vosper_2series_1;MTB 379
+uk_mtb_vosper_2series_2;70’ Vosper
+
+uk_73ft_vosper_type1_shop;MTB 234
+uk_73ft_vosper_type1_0;Motor Torpedo Boat, 72’6” Vosper Type II, HM MTB 234
+uk_73ft_vosper_type1_1;MTB 234
+uk_73ft_vosper_type1_2;72’6” Vosper
+
+uk_fairmile_d_617_632_shop;MTB 617
+uk_fairmile_d_617_632_0;Motor Torpedo Boat, Fairmile Type D, HM MTB 617
+uk_fairmile_d_617_632_1;MTB 617
+uk_fairmile_d_617_632_2;Fairmile D
+uk_fairmile_d_697_800_shop;MTB 697
+uk_fairmile_d_697_800_0;Motor Torpedo Boat, Fairmile Type D, HM MTB 697
+uk_fairmile_d_697_800_1;MTB 697
+uk_fairmile_d_697_800_2;Fairmile D
+uk_fairmile_d_5001_5029_shop;MTB 5001
+uk_fairmile_d_5001_5029_0;Motor Torpedo Boat, Fairmile Type D, HM MTB 5001
+uk_fairmile_d_5001_5029_1;MTB 5001
+uk_fairmile_d_5001_5029_2;Fairmile D
+
+uk_higgins_78ft_mtb422_shop;▄ MTB 422
+uk_higgins_78ft_mtb422_0;▄ Motor Torpedo Boat, Higgins 78’, HM MTB 422
+uk_higgins_78ft_mtb422_1;▄ MTB 422
+uk_higgins_78ft_mtb422_2;Higgins 78’
+
+
+// PATROL BOATS //
+
+uk_brave_borderer_shop;Brave Borderer (P 1011)
+uk_brave_borderer_0;Brave-Class Patrol Boat, HMS Brave Borderer (P 1011)
+uk_brave_borderer_1;Brave Borderer
+uk_brave_borderer_2;Brave-Class
+
+uk_dark_class_shop;Dark Adventurer (P 1101)
+uk_dark_class_0;Dark-Class Patrol Boat, HMS Dark Adventurer (P 1101)
+uk_dark_class_1;Dark Adventurer
+uk_dark_class_2;Dark-Class
+uk_dark_class_mtb_shop;Dark Aggressor (P 1102)
+uk_dark_class_mtb_0;Dark-Class Patrol Boat, HMS Dark Aggressor (P 1102)
+uk_dark_class_mtb_1;Dark Aggressor
+uk_dark_class_mtb_2;Dark-Class
+uk_dark_class_mtb_td_shop;Dark Aggressor (P 1102) (TD)
+uk_dark_class_mtb_td_0;Dark-Class Patrol Boat, HMS Dark Aggressor (P 1102) (Twitch Drop)
+uk_dark_class_mtb_td_1;Dark Aggressor
+uk_dark_class_mtb_td_2;Dark-Class
+
+uk_gay_class_archer_shop;Gay Archer (P 1041)
+uk_gay_class_archer_0;Gay-Class Patrol Boat, HMS Gay Archer (P 1041)
+uk_gay_class_archer_1;Gay Archer
+uk_gay_class_archer_2;Gay-Class
+
+// STEAM GUN BOATS //
+uk_sgb_304_shop;Grey Fox (SGB 4)
+uk_sgb_304_0;Steam Gun Boat, HMS Grey Fox (SGB 4)
+uk_sgb_304_1;Grey Fox
+uk_sgb_304_2;SGB
+uk_sgb_309_shop;Grey Goose (SGB 9)
+uk_sgb_309_0;Steam Gun Boat, HMS Grey Goose (SGB 9)
+uk_sgb_309_1;Grey Goose
+uk_sgb_309_2;SGB
+
+// OTHER //
+uk_isles_class_trawler_shop;Liscomb (T 285)
+uk_isles_class_trawler_0;Isles-Class Trawler, HMT Liscomb (T 285)
+uk_isles_class_trawler_1;Liscomb
+uk_isles_class_trawler_2;Isles-Class
+
+uk_minelayer_abdiel_class_abdiel_shop;Abdiel (M 39)
+uk_minelayer_abdiel_class_abdiel_0;Abdiel-Class Minelayer, HMS Abdiel (M 39)
+uk_minelayer_abdiel_class_abdiel_1;Abdiel
+uk_minelayer_abdiel_class_abdiel_2;Abdiel-Class
+
+uk_fairmile_lcs_l_h_mk2_shop;LCS (L) 257
+uk_fairmile_lcs_l_h_mk2_0;Landing Craft Support, Fairmile Type H, HM LCS (L) 257
+uk_fairmile_lcs_l_h_mk2_1;LCS (L) 257)
+uk_fairmile_lcs_l_h_mk2_2;Fairmile H
+
+uk_cargo_ship_liberty_shop;Assistance (F 173)
+uk_cargo_ship_liberty_0;Liberty-Class Cargo Ship, HMS Assistance (F 173)
+uk_cargo_ship_liberty_1;Assistance
+uk_cargo_ship_liberty_2;Liberty-Class
+uk_cargo_ship_liberty_EC_0;Assistance (F 173)
+uk_cargo_ship_liberty_EC_1;Assistance
+uk_cargo_ship_liberty_EC_2;Liberty-Class

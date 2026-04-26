@@ -1,69 +1,5 @@
 <ID|readonly|noverify>;<NewLanguage>
-ju-87d-3_italy_shop;⛨ Ju 87 D-3
-ju-87d-3_italy_0;⛨ Ju 87 D-3
-ju-87d-3_italy_1;⛨ Ju 87 D
-ju-87d-3_italy_2;Ju 87
-ju-87r-2_italy_shop;⛨ Ju 87 R-2
-ju-87r-2_italy_0;⛨ Ju 87 R-2
-ju-87r-2_italy_1;⛨ Ju 87 R
-ju-87r-2_italy_2;Ju 87
-mc-202_shop;▀ C.202 VII
-mc-202_0;▀ C.202 serie VII
-mc-202_1;▀ C.202
-mc-202_2;▀ C.202
-fiat_cr42_shop;▀ CR.42 bis
-fiat_cr42_0;▀ CR.42 bis
-fiat_cr42_1;▀ CR.42 bis
-fiat_cr42_2;▀ CR.42
-fiat_g50_seria2_shop;▀ G.50 II
-fiat_g50_seria2_0;▀ G.50 serie II
-fiat_g50_seria2_1;▀ G.50
-fiat_g50_seria2_2;▀ G.50
-fiat_g50_seria7as_shop;▀ G.50 VII AS
-fiat_g50_seria7as_0;▀ G.50 AS serie VII
-fiat_g50_seria7as_1;▀ G.50
-fiat_g50_seria7as_2;▀ G.50
-mc200_serie3_shop;▀ C.200 III
-mc200_serie3_0;▀ C.200 serie III
-mc200_serie3_1;▀ C.200
-mc200_serie3_2;▀ C.200
-mc200_serie7_shop;▀ C.200 VII
-mc200_serie7_0;▀ C.200 serie VII
-mc200_serie7_1;▀ C.200
-mc200_serie7_2;▀ C.200
-ro_43_shop;Ro.43
-ro_43_0;Ro.43
-ro_43_1;Ro.43
-ro_43_2;Ro.43
-sm_79_1936_shop;▀ SM.79 I
-sm_79_1936_0;▀ SM.79 serie I (1936)
-sm_79_1936_1;▀ SM.79
-sm_79_1936_2;▀ SM.79
-sm_79_1937_shop;▀ SM.79 IV
-sm_79_1937_0;▀ SM.79 serie IV (1937)
-sm_79_1937_1;▀ SM.79
-sm_79_1937_2;▀ SM.79
-sm_79_1939_shop;▀ SM.79 VIII
-sm_79_1939_0;▀ SM.79 serie VIII (1939)
-sm_79_1939_1;▀ SM.79
-sm_79_1939_2;▀ SM.79
-sm_79_1941_shop;▀ SM.79 AS
-sm_79_1941_0;▀ SM.79 AS (1941)
-sm_79_1941_1;▀ SM.79
-sm_79_1941_2;▀ SM.79
-sm_79_1942_shop;▀S M.79 bis N
-sm_79_1942_0;▀ SM.79 bis N (1942)
-sm_79_1942_1;▀ SM.79
-sm_79_1942_2;▀ SM.79
-sm_79_1943_shop;▀ SM.79 bis TM
-sm_79_1943_0;▀ SM.79 bis TM (1943)
-sm_79_1943_1;▀ SM.79
-sm_79_1943_2;▀ SM.79
 shop/group/sm_79_group;▀ SM.79 I / ▀ SM.79 VIII / ▀ SM.79 AS / ▀ SM.79 bis TM / ▀ S-79B / ▀ SM.79 IV / ▀ SM.79 bis N
-fiat_cr42_marcolin_shop;▀ CR.42 CN (377ª Sq.Aut.)
-fiat_cr42_marcolin_0;▀ CR.42 CN (Luciano Marcolin, 377ª Squadriglia Autonoma)
-fiat_cr42_marcolin_1;▀ CR.42 CN
-fiat_cr42_marcolin_2;▀ CR.42
 shop/group/fiat_group;▀ CR.42 bis / ▀ G.50 II / ▀ G.50 VII AS
 shop/group/mc200_group;▀ C.200 III / ▀ C.200 VII / ▀ C.202 VII
 shop/group/ba_65_group;Ba.65 (K-14) (L) / ⛨ Ju 87 R-2
@@ -73,79 +9,81 @@ shop/group/mc_202_italy_group;C.202 VII / C.205 I
 shop/group/z_1007_group;Z.1007 bis III / Z.1007 bis V
 shop/group/p_108_group;P.108B I / P.108B II
 shop/group/g_55_serie_group;G.55 I / Re.2005
-br_20_dr_shop;BR.20 (DR)
-br_20_dr_0;BR.20 (DR)
-br_20_dr_1;BR.20 (DR)
-br_20_dr_2;BR.20
-br_20m_m1_shop;BR.20 M
-br_20m_m1_0;BR.20 M
-br_20m_m1_1;BR.20 M
-br_20m_m1_2;BR.20
-sm_79_1936_italy_shop;SM.79 I
-sm_79_1936_italy_0;SM.79 serie I (1936)
-sm_79_1936_italy_1;SM.79
-sm_79_1936_italy_2;SM.79
-sm_79_1937_italy_shop;SM.79 IV
-sm_79_1937_italy_0;SM.79 serie IV (1937)
-sm_79_1937_italy_1;SM.79
-sm_79_1937_italy_2;SM.79
-sm_79_1939_italy_shop;SM.79 VIII
-sm_79_1939_italy_0;SM.79 serie VIII (1939)
-sm_79_1939_italy_1;SM.79
-sm_79_1939_italy_2;SM.79
-sm_79_1941_italy_shop;SM.79 AS
-sm_79_1941_italy_0;SM.79 AS (1941)
-sm_79_1941_italy_1;SM.79
-sm_79_1941_italy_2;SM.79
-sm_79_1942_italy_shop;SM.79 bis N
-sm_79_1942_italy_0;SM.79 bis N (1942)
-sm_79_1942_italy_1;SM.79
-sm_79_1942_italy_2;SM.79
-sm_79_1943_italy_shop;SM.79 bis TM
-sm_79_1943_italy_0;SM.79 bis TM (1943)
-sm_79_1943_italy_1;SM.79
-sm_79_1943_italy_2;SM.79
 shop/group/sm_79_1941_group;SM.79 AS / SM.79 bis TM / ⛨ S-79B
-mc-202_italy_shop;C.202 VII
-mc-202_italy_0;C.202 serie VII
-mc-202_italy_1;C.202
-mc-202_italy_2;C.202
-mc-202_ec_shop;C.202 III EC
-mc-202_ec_0;C.202 serie III EC
-mc-202_ec_1;C.202 EC
-mc-202_ec_2;C.202
-mc-202_d_shop;C.202 D
-mc-202_d_0;C.202 D
-mc-202_d_1;C.202 D
-mc-202_d_2;C.202
-s_81_ar125_shop;SM.81 (AR 125)
-s_81_ar125_0;SM.81 (Alfa-Romeo 125)
-s_81_ar125_1;SM.81
-s_81_ar125_2;SM.81
+shop/group/re_2000_group;Re.2000 I / Re.2000 III GA
+shop/group/re_2001_group;Re.2001 I / Re.2000 I CB
+shop/group/cr_32_group;CR.32 / CR.32 quater
+shop/group/fiat_g50_italy_group;G.50 II / G.50 VII AS
+shop/group/mc_200_italy_group;C.200 III / C.200 VII
+shop/group/sm_79_italy_group;SM.79 I / SM.79 VIII
+shop/group/mc_205_group;C.205 I / C.205 III
+
+// MESSERSCHMITT //
+bf-109g-14as_shop;⛨ Bf 109 G-14/AS
+bf-109g-14as_0;⛨ Bf 109 G-14/AS
+bf-109g-14as_1;⛨ Bf 109 G
+bf-109g-14as_2;Bf 109
+
+// JUNKERS //
+ju-87d-3_italy_shop;⛨ Ju 87 D-3
+ju-87d-3_italy_0;⛨ Ju 87 D-3
+ju-87d-3_italy_1;⛨ Ju 87 D
+ju-87d-3_italy_2;Ju 87
+ju-87r-2_italy_shop;⛨ Ju 87 R-2
+ju-87r-2_italy_0;⛨ Ju 87 R-2
+ju-87r-2_italy_1;⛨ Ju 87 R
+ju-87r-2_italy_2;Ju 87
+
+// MACCHI //
+
 mc200_serie3_italy_shop;C.200 III
 mc200_serie3_italy_0;C.200 serie III
 mc200_serie3_italy_1;C.200
 mc200_serie3_italy_2;C.200
+mc200_serie3_shop;▀ C.200 III
+mc200_serie3_0;▀ C.200 serie III
+mc200_serie3_1;▀ C.200
+mc200_serie3__2;C.200
 mc200_serie7_italy_shop;C.200 VII
 mc200_serie7_italy_0;C.200 serie VII
 mc200_serie7_italy_1;C.200
 mc200_serie7_italy_2;C.200
-fiat_cr42_italy_shop;CR.42 bis
-fiat_cr42_italy_0;CR.42 bis
-fiat_cr42_italy_1;CR.42 bis
-fiat_cr42_italy_2;CR.42
-fiat_g50_seria2_italy_shop;G.50 II
-fiat_g50_seria2_italy_0;G.50 serie II
-fiat_g50_seria2_italy_1;G.50
-fiat_g50_seria2_italy_2;G.50
-fiat_g50_seria7as_italy_shop;G.50 VII AS
-fiat_g50_seria7as_italy_0;G.50 serie VII AS
-fiat_g50_seria7as_italy_1;G.50 AS
-fiat_g50_seria7as_italy_2;G.50
-fiat_cr42_marcolin_italy_shop;CR.42 CN (377ª Sq.Aut.)
-fiat_cr42_marcolin_italy_0;CR.42 CN (Luciano Marcolin, 377ª Squadriglia Autonoma)
-fiat_cr42_marcolin_italy_1;CR.42 CN
-fiat_cr42_marcolin_italy_2;CR.42
+mc200_serie7_shop;▀ C.200 VII
+mc200_serie7_0;▀ C.200 serie VII
+mc200_serie7_1;▀ C.200
+mc200_serie7__2;C.200
+
+mc-202_ec_shop;C.202 III EC
+mc-202_ec_0;C.202 serie III EC
+mc-202_ec_1;C.202 EC
+mc-202_ec_2;C.202
+mc-202_italy_shop;C.202 VII
+mc-202_italy_0;C.202 serie VII
+mc-202_italy_1;C.202
+mc-202_italy_2;C.202
+mc-202_shop;▀ C.202 VII
+mc-202_0;▀ C.202 serie VII
+mc-202_1;▀ C.202
+mc-202__2;C.202
+mc-202_d_shop;C.202 D
+mc-202_d_0;C.202 D
+mc-202_d_1;C.202 D
+mc-202_d_2;C.202
+
+mc-205_serie1_shop;C.205 I
+mc-205_serie1_0;C.205 serie I
+mc-205_serie1_1;C.205
+mc-205_serie1_2;C.205
+mc-205_serie3_shop;C.205 III
+mc-205_serie3_0;C.205 serie III
+mc-205_serie3_1;C.205
+mc-205_serie3_2;C.205
+mc-205_n2_shop;C.205 N2
+mc-205_n2_0;C.205 N2
+mc-205_n2_1;C.205 N
+mc-205_n2_2;C.205
+
+// FIAT //
 cr_32_shop;CR.32
 cr_32_0;CR.32
 cr_32_1;CR.32
@@ -158,44 +96,182 @@ cr_32_quater_shop;CR.32 quater
 cr_32_quater_0;CR.32 quater
 cr_32_quater_1;CR.32 quater
 cr_32_quater_2;CR.32
-ro_44_shop;Ro. 44
-ro_44_0;Ro. 44
-ro_44_1;Ro. 44
-ro_44_2;Ro. 44
-g_55_serie1_shop;G.55 I
-g_55_serie1_0;G.55 serie I
-g_55_serie1_1;G.55
-g_55_serie1_2;G.55
+
+fiat_cr42_italy_shop;CR.42 bis
+fiat_cr42_italy_0;CR.42 bis
+fiat_cr42_italy_1;CR.42 bis
+fiat_cr42_italy_2;CR.42
+fiat_cr42_shop;▀ CR.42 bis
+fiat_cr42_0;▀ CR.42 bis
+fiat_cr42_1;▀ CR.42 bis
+fiat_cr42__2;CR.42
+fiat_cr42_marcolin_italy_shop;CR.42 CN (377ª Sq.Aut.)
+fiat_cr42_marcolin_italy_0;CR.42 CN (Luciano Marcolin, 377ª Squadriglia Autonoma)
+fiat_cr42_marcolin_italy_1;CR.42 CN
+fiat_cr42_marcolin_italy_2;CR.42
+fiat_cr42_marcolin_shop;▀ CR.42 CN (377ª Sq.Aut.)
+fiat_cr42_marcolin_0;▀ CR.42 CN (Luciano Marcolin, 377ª Squadriglia Autonoma)
+fiat_cr42_marcolin_1;▀ CR.42 CN
+fiat_cr42_marcolin__2;CR.42
+
+fiat_g50_seria2_italy_shop;G.50 II
+fiat_g50_seria2_italy_0;G.50 serie II
+fiat_g50_seria2_italy_1;G.50
+fiat_g50_seria2_italy_2;G.50
+fiat_g50_seria2_shop;▀ G.50 II
+fiat_g50_seria2_0;▀ G.50 serie II
+fiat_g50_seria2_1;▀ G.50
+fiat_g50_seria2__2;G.50
+fiat_g50_seria7as_italy_shop;G.50 VII AS
+fiat_g50_seria7as_italy_0;G.50 serie VII AS
+fiat_g50_seria7as_italy_1;G.50 AS
+fiat_g50_seria7as_italy_2;G.50
+fiat_g50_seria7as_shop;▀ G.50 VII AS
+fiat_g50_seria7as_0;▀ G.50 AS serie VII AS
+fiat_g50_seria7as_1;▀ G.50
+fiat_g50_seria7as__2;G.50
+
 g_55_serie1_ss0_shop;G.55 0
 g_55_serie1_ss0_0;Fiat G.55 serie 0
 g_55_serie1_ss0_1;G.55
 g_55_serie1_ss0_2;G.55
+g_55_serie1_shop;G.55 I
+g_55_serie1_0;G.55 serie I
+g_55_serie1_1;G.55
+g_55_serie1_2;G.55
 g_55s_shop;G.55 I S
 g_55s_0;G.55 serie I S
 g_55s_1;G.55 S
 g_55s_2;G.55
-breda_88_shop;Ba.88 (P.XI)
-breda_88_0;Ba.88 (P.XI)
-breda_88_1;Ba.88
-breda_88_2;Ba.88
-fc_20_bis_shop;F.C.20 bis
-fc_20_bis_0;F.C.20 bis
-fc_20_bis_1;F.C.20 bis
-fc_20_bis_2;F.C.20
+
+g_56_shop;G.56
+g_56_0;G.56
+g_56_1;G.56
+g_56_2;G.56
+
+br_20_dr_shop;BR.20 (DR)
+br_20_dr_0;BR.20 (DR)
+br_20_dr_1;BR.20 (DR)
+br_20_dr_2;BR.20
+br_20m_m1_shop;BR.20 M
+br_20m_m1_0;BR.20 M
+br_20m_m1_1;BR.20 M
+br_20m_m1_2;BR.20
+
+// IMAM //
+ro_43_shop;Ro.43
+ro_43_0;Ro.43
+ro_43_1;Ro.43
+ro_43_2;Ro.43
+
+ro_44_shop;Ro. 44
+ro_44_0;Ro. 44
+ro_44_1;Ro. 44
+ro_44_2;Ro. 44
+
 ro_57_quadriarma_shop;Ro.57
 ro_57_quadriarma_0;Ro.57
 ro_57_quadriarma_1;Ro.57
 ro_57_quadriarma_2;Ro.57
-z_1007_bis_serie5_shop;Z.1007 bis V
-z_1007_bis_serie5_0;Z.1007 bis serie V
-z_1007_bis_serie5_1;Z.1007 bis
-z_1007_bis_serie5_2;Z.1007
+
+// SAVOIA-MARCHETTI //
+sm_79_1936_italy_shop;SM.79 I
+sm_79_1936_italy_0;SM.79 serie I (1936)
+sm_79_1936_italy_1;SM.79
+sm_79_1936_italy_2;SM.79
+sm_79_1936_shop;▀ SM.79 I
+sm_79_1936_0;▀ SM.79 serie I (1936)
+sm_79_1936_1;▀ SM.79
+sm_79_1936__2;SM.79
+sm_79_1937_italy_shop;SM.79 IV
+sm_79_1937_italy_0;SM.79 serie IV (1937)
+sm_79_1937_italy_1;SM.79
+sm_79_1937_italy_2;SM.79
+sm_79_1937_shop;▀ SM.79 IV
+sm_79_1937_0;▀ SM.79 serie IV (1937)
+sm_79_1937_1;▀ SM.79
+sm_79_1937__2;SM.79
+sm_79_1939_italy_shop;SM.79 VIII
+sm_79_1939_italy_0;SM.79 serie VIII (1939)
+sm_79_1939_italy_1;SM.79
+sm_79_1939_italy_2;SM.79
+sm_79_1939_shop;▀ SM.79 VIII
+sm_79_1939_0;▀ SM.79 serie VIII (1939)
+sm_79_1939_1;▀ SM.79
+sm_79_1939__2;SM.79
+sm_79_1941_italy_shop;SM.79 AS
+sm_79_1941_italy_0;SM.79 AS (1941)
+sm_79_1941_italy_1;SM.79
+sm_79_1941_italy_2;SM.79
+sm_79_1941_shop;▀ SM.79 AS
+sm_79_1941_0;▀ SM.79 AS (1941)
+sm_79_1941_1;▀ SM.79
+sm_79_1941__2;SM.79
+sm_79_1942_italy_shop;SM.79 bis N
+sm_79_1942_italy_0;SM.79 bis N (1942)
+sm_79_1942_italy_1;SM.79
+sm_79_1942_italy_2;SM.79
+sm_79_1942_shop;▀S M.79 bis N
+sm_79_1942_0;▀ SM.79 bis N (1942)
+sm_79_1942_1;▀ SM.79
+sm_79_1942__2;SM.79
+sm_79_1943_italy_shop;SM.79 bis TM
+sm_79_1943_italy_0;SM.79 bis TM (1943)
+sm_79_1943_italy_1;SM.79
+sm_79_1943_italy_2;SM.79
+sm_79_1943_shop;▀ SM.79 bis TM
+sm_79_1943_0;▀ SM.79 bis TM (1943)
+sm_79_1943_1;▀ SM.79
+sm_79_1943__2;SM.79
+
+s_81_ar125_shop;SM.81 (AR 125)
+s_81_ar125_0;SM.81 (Alfa-Romeo 125)
+s_81_ar125_1;SM.81
+s_81_ar125_2;SM.81
+
+sm_91_shop;SM.91
+sm_91_0;SM.91
+sm_91_1;SM.91
+sm_91_2;SM.91
+
+sm_92_shop;SM.92
+sm_92_0;SM.92
+sm_92_1;SM.92
+sm_92_2;SM.92
+
+// BREDA //
+ba_65_a80_shop;Ba.65 (A.80)
+ba_65_a80_0;Ba.65 (A.80)
+ba_65_a80_1;Ba.65
+ba_65_a80_2;Ba.65
+ba_65_k14_l_shop;Ba.65 (K-14) (L)
+ba_65_k14_l_0;Ba.65 (K-14) (L)
+ba_65_k14_l_1;Ba.65
+ba_65_k14_l_2;Ba.65
+
+breda_88_shop;Ba.88 (P.XI)
+breda_88_0;Ba.88 (P.XI)
+breda_88_1;Ba.88
+breda_88_2;Ba.88
+
+// CANSA //
+fc_20_bis_shop;F.C.20 bis
+fc_20_bis_0;F.C.20 bis
+fc_20_bis_1;F.C.20 bis
+fc_20_bis_2;F.C.20
+
+// CANT //
+
 z_1007_bis_serie3_shop;Z.1007 bis III
 z_1007_bis_serie3_0;Z.1007 bis serie III
 z_1007_bis_serie3_1;Z.1007 bis
 z_1007_bis_serie3_2;Z.1007
-shop/group/re_2000_group;Re.2000 I / Re.2000 III GA
-shop/group/re_2001_group;Re.2001 I / Re.2000 I CB
+z_1007_bis_serie5_shop;Z.1007 bis V
+z_1007_bis_serie5_0;Z.1007 bis serie V
+z_1007_bis_serie5_1;Z.1007 bis
+z_1007_bis_serie5_2;Z.1007
+
+// REGGIANE //
 re_2000_int_shop;Re.2000 I
 re_2000_int_0;Re.2000 serie I
 re_2000_int_1;Re.2000
@@ -208,6 +284,7 @@ re_2000_ga_ep_shop;Re.2000 III GA (377ª Sq.)
 re_2000_ga_ep_0;Re.2000 serie III GA (377ª Squadriglia Autonoma Caccia Terrestre)
 re_2000_ga_ep_1;Re.2000 GA
 re_2000_ga_ep_2;Re.2000
+
 re_2001_serie1_shop;Re.2001 I
 re_2001_serie1_0;Re.2001 serie I
 re_2001_serie1_1;Re.2001
@@ -224,10 +301,12 @@ re_2001_cn_shop;Re.2001 III CN
 re_2001_cn_0;Re.2001 serie III CN
 re_2001_cn_1;Re.2001 CN
 re_2001_cn_2;Re.2001
+
 re_2002_early_shop;Re.2002
 re_2002_early_0;Re.2002
 re_2002_early_1;Re.2002
 re_2002_early_2;Re.2002
+
 re_2005_serie0_shop;Re.2005 0
 re_2005_serie0_0;Re.2005 serie 0
 re_2005_serie0_1;Re.2005
@@ -236,18 +315,8 @@ re_2005_vdm_shop;Re.2005 (MM.495)
 re_2005_vdm_0;Re.2005 (MM.495) (VDM Luftschrauben 9-12087A)
 re_2005_vdm_1;Re.2005
 re_2005_vdm_2;Re.2005
-sm_91_shop;SM.91
-sm_91_0;SM.91
-sm_91_1;SM.91
-sm_91_2;SM.91
-sm_92_shop;SM.92
-sm_92_0;SM.92
-sm_92_1;SM.92
-sm_92_2;SM.92
-shop/group/cr_32_group;CR.32 / CR.32 quater
-shop/group/fiat_g50_italy_group;G.50 II / G.50 VII AS
-shop/group/mc_200_italy_group;C.200 III / C.200 VII
-shop/group/sm_79_italy_group;SM.79 I / SM.79 VIII
+
+// PIAGGIO //
 p_108a_serie2_shop;P.108A II
 p_108a_serie2_0;P.108A serie II
 p_108a_serie2_1;P.108A
@@ -260,32 +329,3 @@ p_108b_serie2_shop;P.108B II
 p_108b_serie2_0;P.108B serie II
 p_108b_serie2_1;P.108B
 p_108b_serie2_2;P.108
-g_56_shop;G.56
-g_56_0;G.56
-g_56_1;G.56
-g_56_2;G.56
-ba_65_k14_l_shop;Ba.65 (K-14) (L)
-ba_65_k14_l_0;Ba.65 (K-14) (L)
-ba_65_k14_l_1;Ba.65
-ba_65_k14_l_2;Ba.65
-ba_65_a80_shop;Ba.65 (A.80)
-ba_65_a80_0;Ba.65 (A.80)
-ba_65_a80_1;Ba.65
-ba_65_a80_2;Ba.65
-mc-205_serie3_shop;C.205 III
-mc-205_serie3_0;C.205 serie III
-mc-205_serie3_1;C.205
-mc-205_serie3_2;C.205
-mc-205_serie1_shop;C.205 I
-mc-205_serie1_0;C.205 serie I
-mc-205_serie1_1;C.205
-mc-205_serie1_2;C.205
-mc-205_n2_shop;C.205 N2
-mc-205_n2_0;C.205 N2
-mc-205_n2_1;C.205 N
-mc-205_n2_2;C.205
-shop/group/mc_205_group;C.205 I / C.205 III
-bf-109g-14as_shop;⛨ Bf 109 G-14/AS
-bf-109g-14as_0;⛨ Bf 109 G-14/AS
-bf-109g-14as_1;⛨ Bf 109 G
-bf-109g-14as_2;Bf 109

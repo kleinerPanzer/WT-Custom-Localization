@@ -1,5 +1,54 @@
 <ID|readonly|noverify>;<NewLanguage>
+
 fr_vbci2_mct30_shop;VBCI MK2 (MCT-30)
 fr_vbci2_mct30_0;VBCI MK2 (MCT-30)
 fr_vbci2_mct30_1;VBCI MK2 (MCT-30)
 fr_vbci2_mct30_2;VBCI MK2
+
+fr_tpk_641_vpc_shop;TPK 6.41 VPC
+fr_tpk_641_vpc_0;TPK 6.41 Véhicule protection de convoi
+fr_tpk_641_vpc_1;TPK 6.41 VPC
+fr_tpk_641_vpc_2;TPK 6.41
+
+fr_vextra_105_shop;Vextra (TML 105)
+fr_vextra_105_0;Vextra (TML 105)
+fr_vextra_105_1;Vextra (TML 105)
+fr_vextra_105_2;Vextra
+
+fr_vab_santal_shop;VAB VDAA SANTAL
+fr_vab_santal_0;VAB VDAA SANTAL
+fr_vab_santal_1;VAB VDAA SANTAL
+fr_vab_santal_2;VAB
+
+fr_mars_15_shop;MARS 15 (TS 90)
+fr_mars_15_0;MARS 15 (TS 90)
+fr_mars_15_1;MARS 15 (TS 90)
+fr_mars_15_2;MARS 15
+
+fr_leclerc_azur_shop;Leclerc S2 T9 (AZUR P1)
+fr_leclerc_azur_0;Char Leclerc série 2 tranche 9 (Action en Zone URbaine prototype 1)
+fr_leclerc_azur_1;Leclerc S2 (AZUR)
+fr_leclerc_azur_2;Leclerc
+
+fr_amx_30_dca_shop;AMX 30 SA (S 401 A)
+fr_amx_30_dca_0;AMX 30 SA bitube de 30 mm (prototype tourelle S 401 A)
+fr_amx_30_dca_1;AMX 30 SA (S 401 A)
+fr_amx_30_dca_2;AMX 30
+fr_amx_30_super_shop;Super AMX 30
+fr_amx_30_super_0;Super AMX 30
+fr_amx_30_super_1;Super AMX 30
+fr_amx_30_super_2;AMX 30
+
+fr_amx_32_105_shop;AMX 32 (P1)
+fr_amx_32_105_0;AMX 32 (prototype 1)
+fr_amx_32_105_1;AMX 32 (P1)
+fr_amx_32_105_2;AMX 32
+fr_amx_32_shop;AMX 32 (P2)
+fr_amx_32_0;AMX 32 (prototype 2)
+fr_amx_32_1;AMX 32 (P2)
+fr_amx_32_2;AMX 32
+
+fr_amx_40_shop;AMX 40 (P02)
+fr_amx_40_0;AMX 40 (présérie, prototype 02)
+fr_amx_40_1;AMX 40 (P02)
+fr_amx_40_2;AMX 40

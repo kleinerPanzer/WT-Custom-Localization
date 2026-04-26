@@ -7,6 +7,12 @@ it_vcc_80_hitfist_30_shop;Dardo (HITFIST 30)
 it_vcc_80_hitfist_30_0;Dardo AIFV (HITFIST 30)
 it_vcc_80_hitfist_30_1;Dardo (HITFIST 30)
 it_vcc_80_hitfist_30_2;Dardo
+
+it_freccia_hitfist_ows_shop;Freccia (OWS 30)
+it_freccia_hitfist_ows_0;Freccia AIFV (OWS 30)
+it_freccia_hitfist_ows_1;Freccia (OWS 30)
+it_freccia_hitfist_ows_2;Freccia
+
 it_centauro_mgs_120_shop;Centauro I 120
 it_centauro_mgs_120_0;Centauro I 120
 it_centauro_mgs_120_1;Centauro I 120
@@ -15,14 +21,12 @@ it_centauro_2_shop;Centauro II 120
 it_centauro_2_0;Centauro II 120
 it_centauro_2_1;Centauro II 120
 it_centauro_2_2;Centauro II
+
 it_otomatic_shop;OTOMATIC
 it_otomatic_0;OTO Main Anti-aircraft Tank for Intercept and Combat
 it_otomatic_1;OTOMATIC
 it_otomatic_2;OTOMATIC
-it_of_40_mtca_shop;OF 40 Mk. 2 (MTCA)
-it_of_40_mtca_0;Carro armato OF 40 Mk. 2 (MTCA)
-it_of_40_mtca_1;OF 40 Mk. 2
-it_of_40_mtca_2;OF 40
+
 it_of_40_mk_1_shop;OF 40 Mk. 1
 it_of_40_mk_1_0;Carro armato OF 40 Mk. 1
 it_of_40_mk_1_1;OF 40 Mk. 1
@@ -31,6 +35,11 @@ it_of_40_mk_2a_shop;OF 40 Mk. 2
 it_of_40_mk_2a_0;Carro armato OF 40 Mk. 2
 it_of_40_mk_2a_1;OF 40 Mk. 2
 it_of_40_mk_2a_2;OF 40
+it_of_40_mtca_shop;OF 40 Mk. 2 (MTCA)
+it_of_40_mtca_0;Carro armato OF 40 Mk. 2 (MTCA)
+it_of_40_mtca_1;OF 40 Mk. 2
+it_of_40_mtca_2;OF 40
+
 it_oto_r3_106sr_shop;R3 (T106 FA)
 it_oto_r3_106sr_0;R3 (T106 FA)
 it_oto_r3_106sr_1;R3 (T106 FA)
@@ -39,6 +48,7 @@ it_oto_r3_t20_fa_shop;R3 (T20 FA-HS)
 it_oto_r3_t20_fa_0;R3 (T20 FA-HS)
 it_oto_r3_t20_fa_1;R3 (T20 FA-HS)
 it_oto_r3_t20_fa_2;R3
+
 it_fiat_6614_firos_shop;6614 (FIROS 6)
 it_fiat_6614_firos_0;Tipo 6614 (FIROS 6)
 it_fiat_6614_firos_1;6614 (FIROS 6)
@@ -55,18 +65,13 @@ it_aubl_74_60_70m_shop;6616 (T60M)
 it_aubl_74_60_70m_0;Tipo 6616 con torretta T60M da 60/70 HVMS
 it_aubl_74_60_70m_1;6616 (T60M)
 it_aubl_74_60_70m_2;6616
-a_129_a_shop;A129 International
-a_129_a_0;A129 International
-a_129_a_1;A129 International
-a_129_a_2;A129
-it_otobreda_sidam_25_shop;SIDAM 25
-it_otobreda_sidam_25_0;Sistema italiano difesa aerea mobile, 25 mm
-it_otobreda_sidam_25_1;SIDAM 25
-it_otobreda_sidam_25_2;SIDAM
+
+
 it_otobreda_sidam_25_mistral_shop;SIDAM 25 (Mistral)
 it_otobreda_sidam_25_mistral_0;Sistema italiano difesa aerea mobile, 25 mm Mistral
 it_otobreda_sidam_25_mistral_1;SIDAM 25 (Mistral)
 it_otobreda_sidam_25_mistral_2;SIDAM 25
+
 it_c13_t90_shop;C13 (T90)
 it_c13_t90_0;C13 con torreta T90 CKL
 it_c13_t90_1;C13 (T90)
@@ -75,15 +80,17 @@ it_c13_tua_shop;C13 (TUA)
 it_c13_tua_0;C13 con torretta TOW Under Armor
 it_c13_tua_1;C13 (TUA)
 it_c13_tua_2;C13
-mb_326k_shop;MB-326K
-mb_326k_0;MB-326K
-mb_326k_1;MB-326K
-mb_326k_2;MB-326
+
+a_129_a_shop;A129 International
+a_129_a_0;A129 International
+a_129_a_1;A129 International
+a_129_a_2;A129
+
 mb_326b_shop;MB-326B
 mb_326b_0;MB-326B
 mb_326b_1;MB-326B
 mb_326b_2;MB-326
-it_freccia_hitfist_ows_shop;Freccia (OWS 30)
-it_freccia_hitfist_ows_0;Freccia AIFV (OWS 30)
-it_freccia_hitfist_ows_1;Freccia (OWS 30)
-it_freccia_hitfist_ows_2;Freccia
+mb_326k_shop;MB-326K
+mb_326k_0;MB-326K
+mb_326k_1;MB-326K
+mb_326k_2;MB-326

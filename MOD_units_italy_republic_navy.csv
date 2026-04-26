@@ -1,4 +1,22 @@
 <ID|readonly|noverify>;<NewLanguage>
+
+// MOTOCANNONIERI //
+
+it_mc_485_shop;MC 485
+it_mc_485_0;Motocannoniera, Lürssen S 26 da 135t, MC 485
+it_mc_485_1;MC 485
+it_mc_485_2;MC 485
+
+it_mc490_folgore_shop;MC 490
+it_mc490_folgore_0;Motocannoniera, C.R.D.A. 167t, MC 490
+it_mc490_folgore_1;MC 490
+it_mc490_folgore_2;MC 490
+
+it_mc492_baleno_shop;Baleno (MC 492)
+it_mc492_baleno_0;Motocannoniera convertibili classe Lampo, Baleno (MC 492)
+it_mc492_baleno_1;Baleno
+it_mc492_baleno_2;Classe Lampo
+
 it_p493_freccia_shop;Freccia (P 493)
 it_p493_freccia_0;Motocannoniera classe MC 590 Freccia, Freccia (P 493)
 it_p493_freccia_1;Freccia
@@ -6,60 +24,65 @@ it_p493_freccia_2;MC classe 590
 it_p494_saetta_shop;Saetta (P 494)
 it_p494_saetta_0;Motocannoniera classe MC 590 Freccia, Saetta (P 494)
 it_p494_saetta_1;Saetta
-it_p494_saetta_2;MC classe 591
-it_a1_vosper_shop;MS 461
-it_a1_vosper_0;Motosilurante classe GIS, Vosper 70', MS 461
-it_a1_vosper_1;MS 461
-it_a1_vosper_2;Classe GIS
-it_ms471_1a_shop;MV 611
-it_ms471_1a_0;Motosilurante classe MS 472, C.R.D.A. 60t 1° & 2° serie, MV 611
-it_ms471_1a_1;MV 611
-it_ms471_1a_2;Classe MS 472
-it_mc490_folgore_shop;MC 490
-it_mc490_folgore_0;Motocannoniera, C.R.D.A. 167t, MC 490
-it_mc490_folgore_1;MC 490
-it_mc490_folgore_2;MC 490
-it_p420_sparviero_shop;Sparviero (P 420)
-it_p420_sparviero_0;Aliscafo Sparviero (P 420)
-it_p420_sparviero_1;Sparviero
-it_p420_sparviero_2;Sparviero
-it_albatros_class_f543_shop;Albatros (F 543)
-it_albatros_class_f543_0;Corvetta antisom classe Albatros, Albatros (F 543)
-it_albatros_class_f543_1;Albatros
-it_albatros_class_f543_2;Classe Albatros
-it_destroyer_fletcher_geniere_shop;Geniere (D 555)
-it_destroyer_fletcher_geniere_0;Cacciatopediniere classe Fante, Geniere (D 555)
-it_destroyer_fletcher_geniere_1;Geniere
-it_destroyer_fletcher_geniere_2;Classe Fante
-it_gabbiano_class_c16_shop;Folaga (C 16)
-it_gabbiano_class_c16_0;Corvetta cacciasommergibili classe Gabbiano, Folaga (C 16) (1953)
-it_gabbiano_class_c16_1;Folaga
-it_gabbiano_class_c16_2;Classe Gabbiano
-it_mc_485_shop;MC 485
-it_mc_485_0;Motocannoniera, Lürssen S 26 da 135t, MC 485
-it_mc_485_1;MC 485
-it_mc_485_2;MC 485
-it_destroyer_impetuoso_class_impetuoso_shop;Impetuoso (D 558)
-it_destroyer_impetuoso_class_impetuoso_0;Cacciatorpediniere classe Indomito, Impetuoso (D 558)
-it_destroyer_impetuoso_class_impetuoso_1;Impetuoso
-it_destroyer_impetuoso_class_impetuoso_2;Classe Indomito
-it_alano_9851_shop;Alano (L 9851)
-it_alano_9851_0;Cannoniera d'appoggio classe Alano, Alano (L 9851)
-it_alano_9851_1;Alano
-it_alano_9851_2;Classe Alano
-it_albatros_class_f544_shop;Alcione (F 544)
-it_albatros_class_f544_0;Corvetta antisom classe Albatros, Alcione (F 544)
-it_albatros_class_f544_1;Classe Albatros
-it_albatros_class_f544_2;Corvette
+it_p494_saetta_2;MC classe 590
+
+// MOTOSILURANTI //
 it_ms444_shop;MS 444
 it_ms444_0;Motosilurante classe GIS, Higgins 78', MS 444
 it_ms444_1;MS 444
 it_ms444_2;Classe GIS
+
+it_a1_vosper_shop;MS 461
+it_a1_vosper_0;Motosilurante classe GIS, Vosper 70', MS 461
+it_a1_vosper_1;MS 461
+it_a1_vosper_2;Classe GIS
+
+it_ms471_1a_shop;MV 611
+it_ms471_1a_0;Motosilurante classe MS 472, C.R.D.A. 60t 1° & 2° serie, MV 611
+it_ms471_1a_1;MV 611
+it_ms471_1a_2;Classe MS 472
+
+// ALISCAFO //
+
+it_p420_sparviero_shop;Sparviero (P 420)
+it_p420_sparviero_0;Aliscafo Sparviero (P 420)
+it_p420_sparviero_1;Sparviero
+it_p420_sparviero_2;Sparviero
+
+// CANNONIERA //
+
+it_alano_9851_shop;Alano (L 9851)
+it_alano_9851_0;Cannoniera d'appoggio classe Alano, Alano (L 9851)
+it_alano_9851_1;Alano
+it_alano_9851_2;Classe Alano
+
+// CORVETTA //
+it_albatros_class_f543_shop;Albatros (F 543)
+it_albatros_class_f543_0;Corvetta antisom classe Albatros, Albatros (F 543)
+it_albatros_class_f543_1;Albatros
+it_albatros_class_f543_2;Classe Albatros
+it_albatros_class_f544_shop;Alcione (F 544)
+it_albatros_class_f544_0;Corvetta antisom classe Albatros, Alcione (F 544)
+it_albatros_class_f544_1;Alcione
+it_albatros_class_f544_2;Classe Albatros
+
+it_gabbiano_class_c16_shop;Folaga (C 16)
+it_gabbiano_class_c16_0;Corvetta cacciasommergibili classe Gabbiano, Folaga (C 16) (1953)
+it_gabbiano_class_c16_1;Folaga
+it_gabbiano_class_c16_2;Classe Gabbiano
+
+// CACCIATORPEDINIERI //
+it_destroyer_fletcher_geniere_shop;Geniere (D 555)
+it_destroyer_fletcher_geniere_0;Cacciatopediniere classe Fante, Geniere (D 555)
+it_destroyer_fletcher_geniere_1;Geniere
+it_destroyer_fletcher_geniere_2;Classe Fante
+
+it_destroyer_impetuoso_class_impetuoso_shop;Impetuoso (D 558)
+it_destroyer_impetuoso_class_impetuoso_0;Cacciatorpediniere classe Indomito, Impetuoso (D 558)
+it_destroyer_impetuoso_class_impetuoso_1;Impetuoso
+it_destroyer_impetuoso_class_impetuoso_2;Classe Indomito
+
 it_destroyer_maestrale_class_grecale_shop;Grecale
 it_destroyer_maestrale_class_grecale_0;Cacciatorpediniere classe Maestrale, Grecale (1949)
 it_destroyer_maestrale_class_grecale_1;Classe Maestrale
 it_destroyer_maestrale_class_grecale_2;Grecale
-it_mc492_baleno_shop;Baleno (MC 492)
-it_mc492_baleno_0;Motocannoniera convertibili classe Lampo, Baleno (MC 492)
-it_mc492_baleno_1;Baleno
-it_mc492_baleno_2;Classe Lampo

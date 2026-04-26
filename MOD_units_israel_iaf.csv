@@ -1,26 +1,33 @@
 <ID|readonly|noverify>;<NewLanguage>
 shop/group/f_4e_f_15_iaf_group;F-15A-18  / 2000 סנרוק
 shop/group/f_16d_iaf_group;F-16I  / F-16D-40 
+shop/group/a_4_iaf_group;A-4E (AFC 418-II)  / A-4H 
+shop/group/so_4050_vautour_iaf_group;IIN (C) רוטוו  / IIA רוטוו 
+shop/group/md_460_iaf_group;רעס / B2 רטסימ-רפוס 
+
 b-17g_iaf_shop;B-17G-60 
 b-17g_iaf_0;ףפועמ רצבמ B-17G-60 VE 
 b-17g_iaf_1;B-17G 
 b-17g_iaf_2;B-17
+
 s_199_shop;S-199 
 s_199_0;S-199 
 s_199_1;S-199 
 s_199_2;S-199
-spitfire_lf_mk9e_weisman_shop;(101 תסייט) LF Mk. IX (e) רייפטיפס 
-spitfire_lf_mk9e_weisman_0;(101 תסייט ,ןָמְציַו רֶזֵע) LF. Mk. IX (e) רייפטיפס 
-spitfire_lf_mk9e_weisman_1;Mk. IX רייפטיפס 
+
+spitfire_lf_mk9e_weisman_shop;(101 תסייט) LF.-9 (e) רייפטיפס 
+spitfire_lf_mk9e_weisman_0;(101 תסייט ,ןָמְציַו רֶזֵע) LF.-9 (e) רייפטיפס 
+spitfire_lf_mk9e_weisman_1;LF.-9 רייפטיפס 
 spitfire_lf_mk9e_weisman_2;רייפטיפס
-spitfire_lf_mk9e_iaf_shop;LF. Mk. IX (e) (CW) רייפטיפס 
-spitfire_lf_mk9e_iaf_0;LF. Mk. IX (e) (Clipped Wing) רייפטיפס 
-spitfire_lf_mk9e_iaf_1;Mk. IX רייפטיפס 
+spitfire_lf_mk9e_iaf_shop;LF.-9 (e) (CW) רייפטיפס 
+spitfire_lf_mk9e_iaf_0;LF.-9 (e) (Clipped Wing) רייפטיפס 
+spitfire_lf_mk9e_iaf_1;LF.-9 רייפטיפס 
 spitfire_lf_mk9e_iaf_2;רייפטיפס
-spitfire_mk9c_iaf_shop;F. Mk. IX רייפטיפס 
-spitfire_mk9c_iaf_0;F. Mk. IX (August 1942) רייפטיפס 
-spitfire_mk9c_iaf_1;Mk. IX רייפטיפס 
+spitfire_mk9c_iaf_shop;F.-9 רייפטיפס 
+spitfire_mk9c_iaf_0;F.-9 (August 1942) רייפטיפס 
+spitfire_mk9c_iaf_1;F.-9 רייפטיפס 
 spitfire_mk9c_iaf_2;רייפטיפס
+
 meteor_fmk8_iaf_shop;F.-8 רואטמ 
 meteor_fmk8_iaf_0;F.-8 רואטמ 
 meteor_fmk8_iaf_1;F.-8 רואטמ 
@@ -33,10 +40,12 @@ meteor_nfmk13_shop;NF.-13 רואטמ 
 meteor_nfmk13_0;NF.-13 רואטמ 
 meteor_nfmk13_1;NF.-13 רואטמ 
 meteor_nfmk13_2;רואטמ
+
 p-51d-20-na_iaf_shop;P-51D-20 
 p-51d-20-na_iaf_0;גנטסומ P-51D-20 NA 
 p-51d-20-na_iaf_1;P-51D 
 p-51d-20-na_iaf_2;P-51
+
 a_4e_late_iaf_shop;(140 תסייט) A-4E (AFC-482) 
 a_4e_late_iaf_0;(140 תסייט) קוהייקס A-4E (AFC-482) 
 a_4e_late_iaf_1;A-4E 
@@ -53,21 +62,34 @@ a_4n_shop;A-4N 
 a_4n_0; קוהייקס A-4N 
 a_4n_1;A-4N 
 a_4n_2;A-4
-shop/group/a_4_iaf_group;A-4E (AFC 418-II)  / A-4H 
-shop/group/so_4050_vautour_iaf_group;IIN (C) רוטוו  / IIA רוטוו 
-shop/group/md_460_iaf_group;רעס / B2 רטסימ-רפוס 
-so_4050_vautour_2a_iaf_shop;(110 תסייט) IIA רוטוו 
-so_4050_vautour_2a_iaf_0;(110 תסייט) IIA רוטוו S.O.4050 
-so_4050_vautour_2a_iaf_1;AII רוטוו 
-so_4050_vautour_2a_iaf_2;II רוטוו
-so_4050_vautour_2a_israel_iaf_shop;IIA רוטוו 
-so_4050_vautour_2a_israel_iaf_0;IIA רוטוו S.O.4050 
-so_4050_vautour_2a_israel_iaf_1;IIA רוטוו 
-so_4050_vautour_2a_israel_iaf_2;II רוטוו
-so_4050_vautour_2n_iaf_shop;IIN (C) רוטוו 
-so_4050_vautour_2n_iaf_0;IIN (C) רוטוו S.O.4050 
-so_4050_vautour_2n_iaf_1;IIN רוטוו 
-so_4050_vautour_2n_iaf_2;II רוטוו
+
+so_4050_vautour_2a_iaf_shop;(110 תסייט) A רוטוו 
+so_4050_vautour_2a_iaf_0;(110 תסייט) A רוטוו S.O.4050 
+so_4050_vautour_2a_iaf_1;A רוטוו 
+so_4050_vautour_2a_iaf_2;רוטוו
+so_4050_vautour_2a_israel_iaf_shop;A רוטוו 
+so_4050_vautour_2a_israel_iaf_0;A רוטוו S.O.4050 
+so_4050_vautour_2a_israel_iaf_1;A רוטוו 
+so_4050_vautour_2a_israel_iaf_2;רוטוו
+so_4050_vautour_2n_iaf_shop;N (C) רוטוו 
+so_4050_vautour_2n_iaf_0;N (C) רוטוו S.O.4050 
+so_4050_vautour_2n_iaf_1;N רוטוו 
+so_4050_vautour_2n_iaf_2;רוטוו
+
+md_450b_ouragan_iaf_shop;ןגארוא 
+md_450b_ouragan_iaf_0;ןגארוא M.D.450 
+md_450b_ouragan_iaf_1;ןגארוא 
+md_450b_ouragan_iaf_2;ןגארוא
+md_450b_ouragan_iaf_29_shop;ןגארוא (תסייט 113) 
+md_450b_ouragan_iaf_29_0;ןגארוא (תסייט 113) M.D.450 
+md_450b_ouragan_iaf_29_1;ןגארוא 
+md_450b_ouragan_iaf_29_2;ןגארוא
+
+md_454_mystere_4a_iaf_shop;IVA רטסימ 
+md_454_mystere_4a_iaf_0;IVA רטסימ M.D.454 
+md_454_mystere_4a_iaf_1;IVA רטסימ 
+md_454_mystere_4a_iaf_2;רטסימ
+
 md_460_sambad_shop;B2 רטסימ-רפוס 
 md_460_sambad_0;B2 רטסימ-רפוס M.D.460 
 md_460_sambad_1;B2 רטסימ-רפוס 
@@ -76,10 +98,17 @@ md_460_saar_shop;רעס
 md_460_saar_0;רעס
 md_460_saar_1;רעס
 md_460_saar_2;רעס
+
 mirage_3cj_shop;IIICJ ׳זארימ 
 mirage_3cj_0;IIICJ ׳זארימ 
 mirage_3cj_1;IIICJ ׳זארימ 
 mirage_3cj_2;III ׳זארימ
+
+nesher_shop;רשנ
+nesher_0;רשנ
+nesher_1;רשנ
+nesher_2;רשנ
+
 kfir_canard_shop;(109 תסייט) תורדג ריפכ
 kfir_canard_0;(109 תסייט) תורדג ריפכ
 kfir_canard_1;תורדג ריפכ
@@ -92,18 +121,7 @@ kfir_c7_shop;C7 ריפכ
 kfir_c7_0;C7 ריפכ
 kfir_c7_1;C7 ריפכ
 kfir_c7_2;ריפכ
-md_450b_ouragan_iaf_shop;ןגארוא 
-md_450b_ouragan_iaf_0;ןגארוא M.D.450 
-md_450b_ouragan_iaf_1;ןגארוא 
-md_450b_ouragan_iaf_2;ןגארוא
-md_450b_ouragan_iaf_29_shop;ןגארוא (תסייט 113) 
-md_450b_ouragan_iaf_29_0;ןגארוא (תסייט 113) M.D.450 
-md_450b_ouragan_iaf_29_1;ןגארוא 
-md_450b_ouragan_iaf_29_2;ןגארוא
-md_454_mystere_4a_iaf_shop;IVA רטסימ 
-md_454_mystere_4a_iaf_0;IVA רטסימ M.D.454 
-md_454_mystere_4a_iaf_1;IVA רטסימ 
-md_454_mystere_4a_iaf_2;רטסימ
+
 f-4e_iaf_shop;F-4E-48 
 f-4e_iaf_0;םוטנאפ F-4E-48 
 f-4e_iaf_1;F-4E 
@@ -112,6 +130,7 @@ f-4e_kurnass_2000_shop;2000 סנרוק
 f-4e_kurnass_2000_0;2000 סנרוק
 f-4e_kurnass_2000_1;2000 סנרוק
 f-4e_kurnass_2000_2;2000 סנרוק
+
 f_15a_iaf_shop;F-15A-18 
 f_15a_iaf_0; לגיא F-15A-18 MC 
 f_15a_iaf_1;F-15A 
@@ -124,6 +143,7 @@ f_15i_raam_shop;F-15I 
 f_15i_raam_0;F-15I 
 f_15i_raam_1;F-15I 
 f_15i_raam_2;F-15
+
 f_16a_block_10_iaf_shop;F-16A-10 
 f_16a_block_10_iaf_0;ןוקלאפ גניטייפ F-16A-10 CF 
 f_16a_block_10_iaf_1;F-16A 
@@ -144,7 +164,3 @@ f_16c_block_40_barak_2_shop;F-16C-40 
 f_16c_block_40_barak_2_0;ןוקלאפ גניטייפ F-16C-40 CF 
 f_16c_block_40_barak_2_1;F-16C 
 f_16c_block_40_barak_2_2;F-16
-nesher_shop;רשנ
-nesher_0;רשנ
-nesher_1;רשנ
-nesher_2;רשנ
