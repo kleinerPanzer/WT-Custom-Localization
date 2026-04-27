@@ -1,11 +1,23 @@
 <ID|readonly|noverify>;<NewLanguage>
+weapons/fr_450mm_1909_torpedo;45 cm Torpille 1909R;
+weapons/fr_450mm_1909_torpedo/short;1909R;
+
+weapons/fr_550mm_mod1919v_torpedo;Torpille de 550 mm modèle 1919V;
+weapons/fr_550mm_mod1919v_torpedo/short;19V;
+
+weapons/fr_550mm_mod1923dt_torpedo;Torpille de 550 mm modèle 1923DT;
+weapons/fr_550mm_mod1923dt_torpedo/short;23DT;
+
 weapons/fr_400_mle_1926da_torpedo;40 cm Torpille 1926DA;
 weapons/fr_400_mle_1926da_torpedo/short;1926DA;
 weapons/fr_400mm_mle1926v_torpedo;40 cm Torpille 1926V;
 weapons/fr_400mm_mle1926v_torpedo/short;1926V;
-weapons/fr_450mm_1909_torpedo;45 cm Torpille 1909R;
-weapons/fr_450mm_1909_torpedo/short;1909R;
+
+weapons/fr_550mm_l3_torpedo;Torpille L3;
+weapons/fr_550mm_l3_torpedo/short;L3;
+
 weapons/depth_charge_fr_guiraud_100;Guiraud 100 kg;
 weapons/depth_charge_fr_guiraud_100/short;Guiraud 100 kg;
+
 weapons/fr_mine_b4m;B4M;
 weapons/fr_mine_b4m/short;B4M;

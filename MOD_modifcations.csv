@@ -1622,10 +1622,10 @@ modification/su_grom_e;Х-36 Гром-Э2
 modification/su_grom_e/desc;Allows installation of Х-36 Гром-Э2 guided bombs.
 modification/mig_21_x66;Х-66;
 modification/mig_21_x66/desc;Allows installation of Х-66 missiles.;
-modification/fr_as_30l;AS.30L;
-modification/fr_as_30l/desc;Allows installation of AS.30L missiles.;
-modification/fr_as_30;AS.30;
-modification/fr_as_30/desc;Allows installation of AS.30 missiles.;
+modification/fr_as_30l;AS 30L;
+modification/fr_as_30l/desc;Allows installation of AS 30L missiles.;
+modification/fr_as_30;AS 30;
+modification/fr_as_30/desc;Allows installation of AS 30 missiles.;
 modification/flz_lwf_lb_66;Flz.Lwf. LB 66
 modification/flz_lwf_lb_66/desc;Allows installation of Flz.Lwf. LB 66  missiles.
 modification/gr_as_34;AS.34;
@@ -1646,8 +1646,8 @@ modification/fj_4b_agm_12c;AGM-12C;
 modification/fj_4b_agm_12c/desc;Allows installation of AGM-12C missiles.;
 modification/nord_as_20;AS 20;
 modification/nord_as_20/desc;Allows installation of AS 20 missiles.;
-modification/nord_as_30;AS.30;
-modification/nord_as_30/desc;Allows installation of AS.30 missiles.;
+modification/nord_as_30;AS 30;
+modification/nord_as_30/desc;Allows installation of AS 30 missiles.;
 modification/us_2_75_in_ffar_aero_7d;Aero 7D;
 modification/us_2_75_in_ffar_aero_7d/desc;Allows installation of 2.75” FFAR rockets.;
 modification/us_2_75_in_ffar_aero_6a;Aero 6A;

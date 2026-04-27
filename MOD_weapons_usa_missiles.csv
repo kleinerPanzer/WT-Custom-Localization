@@ -218,6 +218,12 @@ us_aim9p_sidewinder;AIM-9P-1 Sidewinder;
 us_aim9m_sidewinder;AIM-9M-4 Sidewinder;
 us_aim9m_sidewinder_default;AIM-9M-4 Sidewinder;
 us_aim9m_sidewinder_bol_pod;AIM-9M-4 Sidewinder;
+weapons/swd_rb74m;AIM-9M-4 Sidewinder;
+weapons/swd_rb74m/short;AIM-9M;
+weapons/swd_rb74m_default;AIM-9M-4 Sidewinder;
+weapons/swd_rb74m_default/short;AIM-9M;
+weapons/swd_rb74m_bol_pod;AIM-9M Sidewinder;
+weapons/swd_rb74m_bol_pod/short;AIM-9M;
 weapons/us_aim_9x;AIM-9X Sidewinder
 weapons/us_aim_9x/short;AIM-9X
 weapons/us_aim_9x_block_2;AIM-9X-2 Sidewinder

@@ -1,10 +1,12 @@
 <ID|readonly|noverify>;<NewLanguage>
-weapons/swd_m41_torpedo;Torped m/41;
-weapons/swd_m41_torpedo/short;m/41;
+
 weapons/swd_m36_torpedo;Torped m/36;
 weapons/swd_m36_torpedo/short;m/36;
 weapons/swd_m38_torpedo;Torped m/38;
 weapons/swd_m38_torpedo/short;m/38;
-375mm_erika;37,5 cm Bofors anti-ubåt raketgevär m/50;
+weapons/swd_m41_torpedo;Torped m/41;
+weapons/swd_m41_torpedo/short;m/41;
+
 weapons/bomb_de_375mm_erika;37,5 cm Bofors anti-ubåt raket;
-weapons/bomb_de_375mm_erika/short;37,5 cm Bofors Anti-Ubåt Raket;
+weapons/bomb_de_375mm_erika/short;37,5 cm Bofors anti-ubåt raket;
+375mm_erika;37,5 cm Bofors anti-ubåt raketgevär m/50;

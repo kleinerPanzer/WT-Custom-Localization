@@ -259,6 +259,7 @@ locTable{
   file:t="%lang/MOD_weapons_uk_naval.csv"
   file:t="%lang/MOD_weapons_uk_rockets.csv"
   file:t="%lang/MOD_weapons_uk_tgps.csv"
+  file:t="%lang/MOD_weapons_ukraine.csv"
   file:t="%lang/MOD_weapons_usa_bombs.csv"
   file:t="%lang/MOD_weapons_usa_drop_tanks.csv"
   file:t="%lang/MOD_weapons_usa_gbus.csv"

@@ -1,86 +1,100 @@
 <ID|readonly|noverify>;<NewLanguage>
+
+weapons/164mm_nord_s11_rocket_launcher;Engin téléguidé SS 11
+weapons/164mm_nord_s11_rocket_launcher/short;SS 11;
+weapons/rocket_ss11_naval_rocket_launcher;Engin téléguidé SS 11
+weapons/rocket_ss11_naval_rocket_launcher/short;SS 11;
+164mm_nord_ss11;SS 11;
+
+weapons/fr_ss_11;Engin téléguidé AS 11;
+weapons/fr_ss_11/short;AS 11;
+weapons/fr_ss_12;Engin téléguidé AS 12;
+weapons/fr_ss_12/short;AS 12;
+weapons/fr_as20;Missile AS 20;
+weapons/fr_as20/short;AS 20;
+weapons/fr_as30;Missile AS 30;
+weapons/fr_as30/short;AS 30;
+weapons/fr_as30l;Missile AS 30 Laser;
+weapons/fr_as30l/short;AS 30 L;
 weapons/fr_aj_168;AJ 168 Martel;
 weapons/fr_aj_168/short;AJ 168;
-weapons/fr_as20;AS 20;
-weapons/fr_as20/short;AS 20;
-weapons/fr_as30;AS.30;
-weapons/fr_as30/short;AS.30;
-weapons/fr_as30l;AS.30L;
-weapons/fr_as30l/short;AS.30L;
-weapons/gr_as34_kormoran;AS.34 Kormoran;
-weapons/gr_as34_kormoran/short;AS.34;
-weapons/136mm_mephisto_launcher_user_cannon;HOT;
-weapons/136mm_HOT_rocket_launcher;HOT;
+
+weapons/fr_aa20;Missile AA 20;
+weapons/fr_aa20/short;AA 20;
+
+weapons/136mm_mephisto_launcher_user_cannon;MEPHISTO;
+weapons/136mm_HOT_rocket_launcher;Missile à tête active modèle F1 136 mm (HOT 1)
 weapons/136mm_HOT_rocket_launcher/short;HOT;
-weapons/380mm_aster_30_user_cannon;Eurosam SAMP/T Vertical Launcher
+weapons/euro_hot;Missile à tête active modèle F1 136 mm (HOT 1)
+weapons/euro_hot/short;HOT-1;
+weapons/euro_hot_default;Missile à tête active modèle F1 136 mm (HOT 1)
+weapons/euro_hot_default/short;HOT-1;
+weapons/euro_hot2;Missile à tête active modèle F2 150 mm (HOT 2)
+weapons/euro_hot2/short;HOT-2;
+weapons/euro_hot3;Missile à tête active modèle F3 150 mm (HOT 3)
+weapons/euro_hot3/short;HOT-3;
+
+weapons/380mm_aster_30_user_cannon;SAMP/T Vertical Launcher
 weapons/380mm_aster_30_user_cannon/short;SAMP/T VL
 380mm_aster_30;Aster 30
+
 weapons/90mm_atam_mistral_rocket_launcher;Mistral SATCP;
 weapons/90mm_atam_mistral_rocket_launcher/short;Mistral SATCP;
 weapons/90mm_atam_mistral_user_cannon;Mistral SATCP;
 weapons/90mm_atam_mistral_user_cannon/short;Mistral SATCP;
 atam_mistral;Mistral SATCP;
-weapons/euro_hot;HOT-1;
-weapons/euro_hot/short;HOT-1;
-weapons/euro_hot_default;HOT-1;
-weapons/euro_hot_default/short;HOT-1;
-weapons/euro_hot2;HOT-2;
-weapons/euro_hot2/short;HOT-2;
-weapons/fr_ss_11;AS 11;
-weapons/fr_ss_11/short;AS 11;
-weapons/fr_ss_12;AS 12;
-weapons/fr_ss_12/short;AS 12;
 weapons/atam_mistral;Mistral;
 weapons/atam_mistral/short;Mistral;
 weapons/atam_mistral_sam;Mistral;
 weapons/atam_mistral_sam/short;Mistral;
 weapons/atam_mistral_a129;Mistral;
 weapons/atam_mistral_a129/short;Mistral;
-weapons/fr_aa20;AA 20;
-weapons/fr_aa20/short;AA 20;
+
+weapons/fr_r_511_matra;Matra R511;
+weapons/fr_r_511_matra/short;R511;
+
+weapons/fr_r_530_matra_ir;Matra R530 IR;
+weapons/fr_r_530_matra_ir/short;R530 IR;
+weapons/fr_r_530_matra_radar;Matra R530 EM;
+weapons/fr_r_530_matra_radar/short;R530 EM;
+
+weapons/fr_matra_super_530d;Matra Super 530D;
+weapons/fr_matra_super_530d/short;Super 530D;
+weapons/fr_matra_super_530d_default;Matra Super 530D;
+weapons/fr_matra_super_530d_default/short;Super 530D;
+
+weapons/fr_matra_super_530f_default;Matra Super 530F;
+weapons/fr_matra_super_530f_default/short;Super 530F;
+weapons/fr_matra_super_530f;Matra Super 530F;
+weapons/fr_matra_super_530f/short;Super 530F;
+weapons/fr_matra_super_530f_mirage_2000;Matra Super 530F;
+weapons/fr_matra_super_530f_mirage_2000/short;Super 530F;
+weapons/fr_matra_super_530f_mirage_2000_default;Matra Super 530F;
+weapons/fr_matra_super_530f_mirage_2000_default/short;Super 530F;
+
 weapons/fr_r_550_magic;Matra R550 Magic I;
 weapons/fr_r_550_magic/short;Matra R550 Magic I;
-weapons/fr_r_550_magic_2;Matra R550 Mk. 2 Magic II;
-weapons/fr_r_550_magic_2/short;Matra R550 Mk. 2 Magic II;
+weapons/fr_r_550_magic_2;R550 Mk. 2 Magic II;
+weapons/fr_r_550_magic_2/short;R550 Mk. 2 Magic II;
 weapons/fr_r_550_magic_2_default;Matra R550 Mk. 2 Magic II;
-weapons/fr_r_550_magic_2_default/short;Matra R550 Mk. 2 Magic II;
-weapons/fr_r_530_matra_ir;Matra R530 IR;
-weapons/fr_r_530_matra_ir/short;Matra R530 IR;
-weapons/fr_r_530_matra_radar;Matra R530 EM;
-weapons/fr_r_530_matra_radar/short;Matra R530 EM;
-weapons/fr_r_511_matra;Matra R511;
-weapons/fr_r_511_matra/short;Matra R511;
-weapons/fr_matra_super_530f_default;Matra Super 530F;
-weapons/fr_matra_super_530f_default/short;Matra Super 530F;
-weapons/fr_matra_super_530f;Matra Super 530F;
-weapons/fr_matra_super_530f/short;Matra Super 530F;
-weapons/fr_matra_super_530f_mirage_2000;Matra Super 530F;
-weapons/fr_matra_super_530f_mirage_2000/short;Matra Super 530F;
-weapons/fr_matra_super_530f_mirage_2000_default;Matra Super 530F;
-weapons/fr_matra_super_530f_mirage_2000_default/short;Matra Super 530F;
-weapons/fr_matra_super_530d;Matra Super 530D;
-weapons/fr_matra_super_530d/short;Matra Super 530D;
-weapons/fr_matra_super_530d_default;Matra Super 530D;
-weapons/fr_matra_super_530d_default/short;Matra Super 530D;
-weapons/fr_mica_em;Missile d'Interception, de Combat et d'Auto-défense - Électromagnétique;
+weapons/fr_r_550_magic_2_default/short;R550 Mk. 2 Magic II;
+
+weapons/fr_mica_em;MICA-EM;
 weapons/fr_mica_em/short;MICA-EM;
-weapons/fr_mica_em_default;Missile d'Interception, de Combat et d'Auto-défense - Électromagnétique;
+weapons/fr_mica_em_default;MICA-EM;
 weapons/fr_mica_em_default/short;MICA-EM;
-weapons/euro_hot3;HOT-3;
-weapons/euro_hot3/short;HOT-3;
-weapons/164mm_nord_s11_rocket_launcher;SS 11;
-weapons/164mm_nord_s11_rocket_launcher/short;SS 11;
+
+weapons/140mm_akeron_mp_rocket_launchr_user_cannon;Missile Moyenne Portée
+weapons/140mm_akeron_mp_rocket_launchr_user_cannon/short;MMP
+140mm_akeron_mp;MMP
+
 weapons/103mm_milan_launcher_user_cannon;MILAN;
 weapons/103mm_MILAN_rocket_launcher;MILAN;
 weapons/103mm_MILAN_rocket_launcher/short;MILAN;
 weapons/103_milan/short;MILAN;
 103_milan;MILAN;
+
 weapons/115mm_MILAN_2_rocket_launcher;MILAN 2;
 weapons/115mm_MILAN_2_rocket_launcher/short;MILAN 2;
 weapons/115_milan_2/short;MILAN 2;
 115_milan_2;MILAN 2;
-weapons/rocket_ss11_naval_rocket_launcher;SS 11;
-weapons/rocket_ss11_naval_rocket_launcher/short;SS 11;
-140mm_akeron_mp;MMP
-weapons/140mm_akeron_mp_rocket_launchr_user_cannon;Missile Moyenne Portée
-weapons/140mm_akeron_mp_rocket_launchr_user_cannon/short;MMP

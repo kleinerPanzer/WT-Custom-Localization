@@ -1,23 +1,29 @@
 <ID|readonly|noverify>;<NewLanguage>
-weapons/7_62mm_ksp_39_Strv_user_machinegun;7,62 mm ksp 39C;
+
+// KSP //
+
+weapons/6_5mm_ksp_m14_29_user_machinegun;6,5 mm ksp m/14-29;
+weapons/8mm_ksp_m36_user_machinegun;8 mm ksp m/36;
+weapons/8mm_ksp_m39_B_user_machinegun;8 mm ksp m/39B;
+
+weapons/7_62mm_ksp_39_Strv_user_machinegun;7,62 mm ksp m/39C;
 weapons/7_62mm_ksp_58_Strv_user_machinegun;7,62 mm ksp 58;
-weapons/12_7mm_ksp_m88_user_machinegun;12,7 mm ksp 88;
+
 weapons/7_62mm_ksp_m94_user_machinegun;7,62 mm ksp 94;
-83mm_slpprj;slpprj;
-83mm_slsgr_m53;slsgr m/53;
-83mm_rokgr_m53;rökgr m/53;
-83mm_pvlng_m54;slpprj m/54;
-105mm_slspgr_m61;slsgr m/61;
-weapons/75mm_kan_strv_74_user_cannon;7,5 cm kan strv 74;
-weapons/84mm_kan_strv81_user_cannon;8,38 cm kan strv 81;
-weapons/105mm_kan_strv_101_user_cannon;10,5 cm kan strv 101;
-weapons/105mm_kan_strv_104_user_cannon;10,5 cm kan strv 104;
-weapons/105mm_kan_strv_105_user_cannon;10,5 cm kan strv 105;
-105mm_slpprj_m90c;slpprj m/90c;
-weapons/120mm_ctg_l50_user_cannon;Compact Tank Gun 120 mm L50;
-120mm_slsgr_m95;slsgr m/95;
-weapons/155mm_Bkan_user_cannon;15,5 cm kan m/60;
-155mm_sgr_m60;sgr m/60;
+
+weapons/gunksp_m22;8 mm ksp m/22;
+weapons/gunksp_m22/short;ksp m/22;
+weapons/gunksp_m22_fv;8 mm ksp m/22 Fv;
+weapons/gunksp_m22_fv/short;ksp m/22 Fv;
+weapons/gunksp_m22_fh;8 mm ksp m/22 Fh;
+weapons/gunksp_m22_fh/short;ksp m/22 Fh;
+weapons/gunksp_m22_37r_turret;8 mm ksp m/22-37 R;
+weapons/gunksp_m22_37r_turret/short;ksp m/22-37 R;
+
+weapons/12_7mm_ksp_m88_user_machinegun;12,7 mm ksp 88;
+
+// AKAN //
+
 weapons/cannonakan_m55;30 mm akan m/55;
 weapons/cannonakan_m55/short;akan m/55;
 weapons/cannonakan_m55_underwing;30 mm akan m/55;
@@ -26,8 +32,6 @@ weapons/cannonakan_m75;30 mm akan m/75;
 weapons/cannonakan_m75/short;akan m/75;
 weapons/cannonakan_m85;27 mm akan m/85;
 weapons/cannonakan_m85/short;akan m/85;
-weapons/gunksp_m22;8 mm ksp m/22;
-weapons/gunksp_m22/short;ksp m/22;
 weapons/gunakan_12_7_m45;12,7 mm akan m/45;
 weapons/gunakan_12_7_m45/short;akan m/45;
 weapons/cannonakan_m41a;20 mm akan m/41A;
@@ -54,69 +58,26 @@ weapons/gunakan_m39_turret;13,2 mm akan m/39;
 weapons/gunakan_m39_turret/short;akan m/39;
 weapons/gunakan_m40;12,7 mm akan m/40;
 weapons/gunakan_m40/short;akan m/40;
-weapons/gunksp_m22_fv;8 mm ksp m/22 Fv;
-weapons/gunksp_m22_fv/short;ksp m/22 Fv;
-weapons/gunksp_m22_fh;8 mm ksp m/22 Fh;
-weapons/gunksp_m22_fh/short;ksp m/22 Fh;
-weapons/gunksp_m22_37r_turret;8 mm ksp m/22-37 R;
-weapons/gunksp_m22_37r_turret/short;ksp m/22-37 R;
-weapons/150mm_kan_fm43_44_user_cannon;15 cm fausthaubits m/02;
 weapons/20mm_akan_m45_B_user_cannon;20 mm akan m/45B;
 weapons/20mm_akan_m47_D_user_cannon;20 mm akan m/47D;
+
 20mm_slpprj_m68;slpprj m/68;
 20mm_slsgr_71;slsgr m/71;
-150mm_sgr_m38;sgr m/38;
-weapons/37mm_kan_m38_user_cannon;3,7 cm kan m/38;
-37mm_slpprj_m38;slpprj m/38;
-37mm_slpgr_m39;slpgr m/39;
-37mm_slpprj_m49;slpprj m/49;
-75mm_slpprj_m49;slpprj m/49;
-weapons/90mm_Bofors_ikv_user_cannon;9 cm kan ikv 91;
-weapons/105mm_Bofors_ikv_user_cannon;10,5 cm kan ikv 105;
-90mm_slpsgr_m72;slpsgr m/72;
-90mm_slsgr_m72;slsgr m/72;
-weapons/40mm_Kan_Strf_user_cannon;40 mm akan m/70Bc;
-weapons/6_5mm_ksp_m14_29_user_machinegun;6,5 mm ksp m/14-29;
-weapons/8mm_ksp_m36_user_machinegun;8 mm ksp m/36;
-weapons/8mm_ksp_m39_B_user_machinegun;8 mm ksp m/39B;
-weapons/57mm_Pv_Kan_m43_user_cannon;5,7 cm pv kan m/43;
-57mm_sgr_m43;sgr m/43;
-57mm_slpgr_m43;slpgr m/43;
-57mm_slpprj_m43;slpprj m/43;
-57mm_slpprj_m49;slpprj m/49;
-weapons/75mm_Pv_Kan_m43_user_cannon;7,5 cm pv kan m/43;
-weapons/75mm_Lv_Kan_m37_A_user_cannon;7,5 cm lv kan m/37A;
-weapons/75mm_Pv_Kan_m43_1963_user_cannon;7,5 cm pv kan m/43;
-75mm_slpprj_m41;slpprj m/41;
-75mm_sgr_m38;sgr m/38;
-75mm_slpgr_m43;slpgr m/43;
-weapons/105mm_kan_ikv_user_cannon;10,5 cm kan ikv;
-105mm_slsgr_m43;slpgr m/43;
-105mm_sgr_m34_lt;sgr m/34 LT;
-105mm_rokgr_m49;rökgr m/49;
-105mm_psgr_m49;psgr m/49;
-weapons/75mm_kan_m41_user_cannon;7,5 cm kan m/41;
-weapons/75mm_kan_m41_open_turret_user_cannon;7,5 cm kan m/41;
-75mm_slpprj_m40;slpprj m/40;
-75mm_sgr_m40;sgr m/40;
-75mm_rokgr_m22;rökgr m/22;
-75mm_slpprj_m40b;slpprj m/40B;
-75mm_slpgr_m39;slpgr m/39;
-weapons/120mm_kan_Strv_121_user_cannon;12 cm kan strv 121;
-weapons/120mm_kan_Strv_122_user_cannon;12 cm kan strv 122;
-weapons/75mm_kan_m02_user_cannon;7,5 cm kan m/02;
-75mm_sgr_m22_38;sgr m/22-38;
-weapons/105mm_kan_m44_user_cannon;10,5 cm kan m/44;
-105mm_slpprj_m44;slpprj m/44;
-105mm_slpsgr_m65;slpsgr m/65;
-120mm_slpprj_m95;slpprj m/95;
+
+
 weapons/20mm_Pvlv_kan_m40_user_cannon;20 mm akan m/40;
 weapons/20mm_Lva_kan_m40_B_user_cannon;20 mm lv akan m/40B;
 20mm_slpgr_m42;slpgr m/42;
 20mm_slpprj_m40;slpprj m/40;
 20mm_slpprj_m42;slpprj m/42;
 20mm_slsgr_m42;slsgr m/42;
+
+
 weapons/40mm_Lva_kan_m36_user_cannon;40 mm lv akan m/36;
+weapons/40mm_Lva_kan_m48_user_cannon;40 mm lv akan m/48;
+weapons/40mm_l70_bofors_model48_naval_user_cannon;40 mm lv akan m/48;
+weapons/40mm_Lva_kan_m48_VEAK_user_cannon;40 mm lv akan m/48;
+weapons/40mm_Kan_Strf_user_cannon;40 mm akan m/70Bc;
 40mm_kulsgr_m90;kulsgr m/90;
 40mm_slhpgr_m43;slhpgr m/43;
 40mm_slpprj_m01;slpprj m/01 LK;
@@ -126,28 +87,104 @@ weapons/40mm_Lva_kan_m36_user_cannon;40 mm lv akan m/36;
 40mm_slsgr_m36c;slsgr m/36C;
 40mm_slsgr_m90;slsgr m/90;
 40mm_slsgr_m484;slsgr m/484;
-weapons/40mm_Lva_kan_m48_user_cannon;40 mm lv akan m/48;
-weapons/40mm_Lva_kan_m48_VEAK_user_cannon;40 mm lv akan m/48;
-weapons/120mm_akan_user_cannon;12 cm akan fm/50;
-120mm_m50z;sgr m/50z;
-120mm_m50;hpsgr m/50;
-155mm_zonar_m65;zonar m/65;
+
+weapons/57mm_Bofors_L70_Mk_1_user_cannon;Bofors 57 mm Gun L/70 Mk. 1;
+57_438mm_ap;AP-T;
+57_438mm_he;HE-T;
+57_438mm_he_vt;HE-VT;
+57_438mm_sap;SAP-T;
+
+// KAN //
+
+weapons/37mm_kan_m38_user_cannon;3,7 cm kan m/38;
+37mm_slpprj_m38;slpprj m/38;
+37mm_slpgr_m39;slpgr m/39;
+37mm_slpprj_m49;slpprj m/49;
+
+weapons/57mm_Pv_Kan_m43_user_cannon;5,7 cm pv kan m/43;
+57mm_sgr_m43;sgr m/43;
+57mm_slpgr_m43;slpgr m/43;
+57mm_slpprj_m43;slpprj m/43;
+57mm_slpprj_m49;slpprj m/49;
+
+
+weapons/75mm_kan_m02_user_cannon;7,5 cm kan m/02;
+75mm_sgr_m22_38;sgr m/22-38;
+
+weapons/75mm_kan_m41_user_cannon;7,5 cm kan m/41;
+weapons/75mm_kan_m41_open_turret_user_cannon;7,5 cm kan m/41;
+75mm_slpprj_m40;slpprj m/40;
+75mm_sgr_m40;sgr m/40;
+75mm_rokgr_m22;rökgr m/22;
+75mm_slpprj_m40b;slpprj m/40B;
+75mm_slpgr_m39;slpgr m/39;
+
+weapons/75mm_Pv_Kan_m43_user_cannon;7,5 cm pv kan m/43;
+weapons/75mm_Lv_Kan_m37_A_user_cannon;7,5 cm lv kan m/37A;
+weapons/75mm_Pv_Kan_m43_1963_user_cannon;7,5 cm pv kan m/43;
+75mm_slpprj_m41;slpprj m/41;
+75mm_sgr_m38;sgr m/38;
+75mm_slpgr_m43;slpgr m/43;
+weapons/75mm_kan_strv_74_user_cannon;7,5 cm kan strv 74;
+75mm_slpprj_m49;slpprj m/49;
+
+weapons/84mm_kan_strv81_user_cannon;8,38 cm kan strv 81;
+83mm_slpprj;slpprj;
+83mm_slsgr_m53;slsgr m/53;
+83mm_rokgr_m53;rökgr m/53;
+83mm_pvlng_m54;slpprj m/54;
+
+weapons/90mm_Bofors_ikv_user_cannon;9 cm kan ikv 91;
+90mm_slpsgr_m72;slpsgr m/72;
+90mm_slsgr_m72;slsgr m/72;
+
+weapons/105mm_kan_m44_user_cannon;10,5 cm kan m/44;
+105mm_slpprj_m44;slpprj m/44;
+105mm_slpsgr_m65;slpsgr m/65;
+
+weapons/105mm_kan_ikv_user_cannon;10,5 cm kan ikv;
+105mm_slsgr_m43;slpgr m/43;
+105mm_sgr_m34_lt;sgr m/34 LT;
+105mm_rokgr_m49;rökgr m/49;
+105mm_psgr_m49;psgr m/49;
+
+weapons/105mm_L74_103C_user_cannon;10,5 cm kan strv L74;
+weapons/105mm_L74_user_cannon;10,5 cm kan strv L74;
+weapons/105mm_kan_strv_101_user_cannon;10,5 cm kan strv 101;
+weapons/105mm_kan_strv_104_user_cannon;10,5 cm kan strv 104;
+weapons/105mm_kan_strv_105_user_cannon;10,5 cm kan strv 105;
+105mm_slspgr_m61;slsgr m/61;
+105mm_slpprj_m90c;slpprj m/90c;
 105mm_slsgr_m61;slsgr m/61;
 105mm_slpprj_m61;slpprj m/61;
 105mm_slpprj_m62;slpprj m/62;
 105mm_slpprj_m66;slpprj m/66;
 105mm_rokgr_m61;rökgr m/61;
 105mm_slpprj_m80;slpprj m/80;
-weapons/105mm_L74_103C_user_cannon;10,5 cm kan strv L74;
-weapons/105mm_L74_user_cannon;10,5 cm kan strv L74;
-weapons/57mm_Bofors_L70_Mk_1_user_cannon;Bofors 57 mm Gun L/70 Mk. 1;
-57_438mm_ap;AP-T;
-57_438mm_he;HE-T;
-57_438mm_he_vt;HE-VT;
-57_438mm_sap;SAP-T;
-weapons/120mm_l_45_mark_8_naval_user_cannon;Bofors 12 cm/45 Mk. 8;
-weapons/40mm_l70_bofors_model48_naval_user_cannon;40 mm lv akan m/48;
+
+
+weapons/120mm_akan_user_cannon;12 cm akan fm/50;
+120mm_m50z;sgr m/50z;
+120mm_m50;hpsgr m/50;
+
 weapons/120mm_50_mk4_bofors_1924_naval_user_cannon;12 cm/50 kan m/24
 weapons/120mm_50_mk4_bofors_1924_naval_user_cannon/short;m/24;
 120mm_bofors_m1924_he;Spränggranat;
 120mm_bofors_m39_sap;stgr m/39;
+
+weapons/120mm_l_45_mark_8_naval_user_cannon;Bofors 12 cm/45 Mk. 8;
+
+weapons/120mm_kan_Strv_121_user_cannon;12 cm kan strv 121;
+weapons/120mm_kan_Strv_122_user_cannon;12 cm kan strv 122;
+weapons/120mm_ctg_l50_user_cannon;Compact Tank Gun 120 mm L50;
+120mm_slsgr_m95;slsgr m/95;
+120mm_slpprj_m95;slpprj m/95;
+
+weapons/155mm_Bkan_user_cannon;15,5 cm kan m/60;
+155mm_sgr_m60;sgr m/60;
+155mm_zonar_m65;zonar m/65;
+
+// OTHER //
+
+weapons/150mm_kan_fm43_44_user_cannon;15 cm fausthaubits m/02;
+150mm_sgr_m38;sgr m/38;

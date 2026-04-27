@@ -1,8 +1,5 @@
 <ID|readonly|noverify>;<NewLanguage>
 
-105mm_imi_m413;M413;
-105mm_imi_m426;M426;
-155mm_m401_pf;M401 (PF);
 weapons/110mm_Spike_freccia_rocket_launchr_user_cannon;Spike-LR2;
 weapons/110mm_Spike_freccia_rocket_launchr_user_cannon/short;Spike-LR2;
 weapons/110mm_Spike_kf_41_rocket_launchr_user_cannon;Spike-LR2;
@@ -13,9 +10,16 @@ weapons/110mm_spike_lr2/short;Spike-LR2;
 110mm_spike_mr;Spike-MR;
 weapons/110mm_spike_mr/short;Spike-MR;
 110mm_spike_lr2;Spike-LR2;
+
+weapons/60mm_hvms_user_cannon;60 mm HVMS
+
+105mm_imi_m413;M413;
+105mm_imi_m426;M426;
+155mm_m401_pf;M401 (PF);
 105mm_imi_m156;M156;
 105mm_imi_m152;M152;
 105mm_m111;M111;
+
 weapons/120mm_IMI_MG251_user_cannon;120 mm MG251;
 weapons/120mm_IMI_MG251_LR_user_cannon;120 mm MG251-LR;
 weapons/120mm_IMI_MG253_user_cannon;120 mm MG253;
@@ -24,7 +28,8 @@ weapons/120mm_IMI_MG253_user_cannon;120 mm MG253;
 120mm_m322_idf;M322;
 120mm_m325;M325;
 120mm_m339;M339;
+
 weapons/155mm_soltam_user_cannon;155mm M-845;
 155mm_m401;M401;
+
 weapons/160mm_spyder_launcher_user_cannon;SPYDER
-weapons/60mm_hvms_user_cannon;60 mm HVMS

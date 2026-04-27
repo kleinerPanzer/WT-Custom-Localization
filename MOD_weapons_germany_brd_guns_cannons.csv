@@ -1,95 +1,130 @@
 <ID|readonly|noverify>;<NewLanguage>
+
+// MASCHINENGEWEHR + MASCHINENKANONEN //
+weapons/7_92mm_MG3_user_machinegun;Maschinengewehr 7,62 mm x 51, MG 3;
+weapons/7_62mm_mg3_naval_user_machinegun;Maschinengewehr 7,62 mm x 51, MG 3;
+weapons/gunMG3;Maschinengewehr 7,62 mm x 51, MG 3;
+weapons/5_56mm_MG4_user_machinegun;Maschinengewehr 5,56 mm x 45, MG 4;
+
+weapons/12_7mm_sMG_50_user_machinegun;12,7 mm Maschinengewehr 50;
+
+weapons/20mm_MK_20_1_user_cannon;Maschinenkanone 20 mm, MK 20;
+weapons/20mm_Rh_202_Wiesel_user_cannon;Maschinenkanone 20 mm, MK 20;
+weapons/20mm_Rh_202_Marder_user_cannon;Maschinenkanone 20 mm, MK 20;
+weapons/20mm_Rh_202_user_cannon;Maschinenkanone 20 mm, MK 20;
+weapons/20mm_luchs_a2_user_cannon;Maschinenkanone 20 mm, MK 20;
+weapons/20mm_65_rh_202_naval_user_cannon;Maschinenkanone 20 mm, MK 20;
+20mm_dm63;DM 63;
+20mm_dm43;DM 43;
+20mm_dm51a1;DM 51 A1;
+
+weapons/cannon_mauser_bk_27;Maschinenkanone BK 27 mm x 145, DM 1;
+weapons/cannon_mauser_bk_27/short;DM 1;
+
+weapons/30mm_Rheinmetall_MK_30_2_ABM_KF41_user_cannon;Maschinenkanone 30 mm, MK 30-2/ABM;
+weapons/30mm_Rheinmetall_MK_30_2_ABM_user_cannon;Maschinenkanone 30 mm, MK 30-2/ABM;
+
+// KANONEN //
+weapons/76mm_KwK_M32_user_cannon;Bordkanone 76 mm, M 32;
+
+76mm_dm261;DM 261;
+76mm_dm251;DM 251;
+
+weapons/90mm_Kanone_M41_user_cannon;Bordkanone 90 mm, M 41;
+
+weapons/90mm_BK_90_user_cannon;Bordkanone 90 mm, BK 40;
+weapons/90mm_BK90_Ru251_user_cannon;Bordkanone 90 mm, BK 40;
+90mm_dm502;DM 502;
+
+
+weapons/106mm_M40A1_LGS_user_cannon;105 mm Leichtgeschütz M 40 A1;
+
 weapons/105mm_L7A3_GA_2_user_cannon;Bordkanone 105 mm, L7 A3;
 weapons/105mm_L7A3_user_cannon;Bordkanone 105 mm, L7 A3;
-weapons/76mm_KwK_M32_user_cannon;Bordkanone 76 mm, BK M 32;
-weapons/7_92mm_MG3_user_machinegun;Maschinengewehr 7,62 mm x 51, MG 3;
-weapons/5_56mm_MG4_user_machinegun;Maschinengewehr 5,56 mm x 45, MG 4;
-weapons/gunMG3;Maschinengewehr 7,62 mm x 51, MG 3;
-weapons/12_7mm_sMG_50_user_machinegun;12,7 mm Maschinengewehr 50;
-weapons/90mm_BK_90_user_cannon;Bordkanone 90 mm, L 40;
+weapons/105mm_L7A3_Radpanzer_user_cannon;Bordkanone 105 mm, L7 A3;
 105mm_dm12;DM 12;
 105mm_dm13;DM 13;
 105mm_dm23;DM 23;
 105mm_dm33;DM 33;
 105mm_dm63;DM 63;
 105mm_dm502;DM 512;
-weapons/cannon_mauser_bk_27;Maschinenkanone BK 27 mm x 145, DM 1;
-weapons/cannon_mauser_bk_27/short;DM 1;
-weapons/90mm_Kanone_M41_user_cannon;Bordkanone 90 mm, M 41;
+
+weapons/105mm_Bofors_ikv_user_cannon;Rh 105-11
+weapons/105mm_Rh105_30_user_cannon;Rh 105-30
+
+weapons/120mm_rheinmetall_l44_can_user_cannon;120 mm L44 Tank Gun;
+weapons/120mm_Rheinmetall_L44_VT_user_cannon;Bordkanone 120 mm, L 44;
+weapons/120mm_Rheinmetall_L44_autoloader_user_cannon;Bordkanone 120 mm, L 44;
+weapons/120mm_Rheinmetall_L44_user_cannon;Bordkanone 120 mm, L 44;
+weapons/120mm_Rheinmetall_L44_2A5_user_cannon;Bordkanone 120 mm, L 44;
+weapons/120mm_Rheinmetall_L44_2PL_user_cannon;Bordkanone 120 mm, L 44;
+weapons/120mm_Rheinmetall_L55_user_cannon;Bordkanone 120 mm, L 55;
+weapons/120mm_rheinmetall_l55_a1_user_cannon;Bordkanone 120 mm, L 55 A1;
+120mm_dm13;DM 13;
+120mm_dm12;DM 12;
+120mm_dm12a1;DM 12A1;
+120mm_dm23;DM 23;
+120mm_dm33;DM 33;
+120mm_dm43;DM 43;
+120mm_dm53;DM 53;
+120mm_dm_11;DM 11;
+
+weapons/155mm_m126e1_user_cannon;Haubitze 155 mm, ROVH 155 DM 2;
+
+weapons/155mm_l52_user_cannon;155 mm L52;
+155mm_oe_f3;HE;
+
+// RAKETEN //
+
 weapons/136mm_k3s_hot/short;HOT-K3S;
 weapons/136mm_k3s_hot_launcher_user_cannon;HOT-K3S;
 weapons/136mm_k3s_hot_rocket_launcher;HOT-K3S;
 weapons/136mm_k3s_hot_rocket_launcher/short;HOT-K3S;
+136mm_k3s_hot;HOT;
+150mm_k3s_hot_2;HOT-2;
+
 weapons/163mm_roland_rocket_launcher;Roland 1;
 weapons/163mm_roland_rocket_launcher/short;Roland 1;
+163mm_roland_1;Roland 1;
 weapons/163mm_roland_1/short;Roland 1;
+
+163mm_roland_2;Roland 2;
 weapons/163mm_roland_2/short;Roland 2;
+
 weapons/163mm_roland_3_rocket_launcher;Roland 3;
 weapons/163mm_roland_3_rocket_launcher/short;Roland 3;
 163mm_roland_3;Roland 3;
 weapons/163mm_roland_3/short;Roland 3;
-163mm_roland_2;Roland 2;
-163mm_roland_1;Roland 1;
-136mm_k3s_hot;HOT;
-150mm_k3s_hot_2;HOT-2;
+
+weapons/163mm_roland_launcher_user_cannon;Roland;
+weapons/163mm_roland_2_launcher_user_cannon;Roland;
+weapons/163mm_vt_1_launcher_user_cannon;VT1;
+weapons/163mm_roland_vt_1_launcher_user_cannon;Roland;
+165mm_vt_1;VT1;
+weapons/165mm_vt_1/short;VT1;
+
 weapons/164mm_lfk_ss11_rocket_launcher_user_cannon;SS 11;
 weapons/164mm_lfk_ss11_rocket_launcher;SS 11;
 weapons/164mm_lfk_ss11_rocket_launcher/short;SS 11;
 weapons/164mm_lfk_ss_11/short;SS 11;
 164mm_lfk_ss_11;LFK SS 11;
 164mm_lfk_ss_11b;LFK SS 11B;
-weapons/105mm_Rh105_30_user_cannon;Rheinmetall 105-30
-weapons/105mm_L7A3_Radpanzer_user_cannon;Bordkanone 105 mm, L7 A3;
-weapons/106mm_M40A1_LGS_user_cannon;105 mm Leichtgeschütz M 40 A1;
-weapons/20mm_MK_20_1_user_cannon;Maschinenkanone 20;
-76mm_dm261;DM 261;
-76mm_dm251;DM 251;
+
 weapons/us_aim9l_i_1_sidewinder;Luft-Luft-Rakete AIM-9L/I-1 Sidewinder;
 weapons/us_aim9l_i_1_sidewinder/short;AIM-9L/I-1;
 weapons/us_aim9l_i_1_sidewinder_default;Luft-Luft-Rakete AIM-9L/I-1 Sidewinder;
 weapons/us_aim9l_i_1_sidewinder_default/short;AIM-9L/I-1;
+
 weapons/euro_atgw3;PARS 3 LR;
 weapons/euro_atgw3/short;PARS 3 LR;
 weapons/euro_trigat_lr;TRIGAT-LR
 weapons/euro_trigat_lr/short;TRIGAT-LR
+
 weapons/70mm_FIM_92E_Stinger_launcher_user_cannon;Fliegerfaust 2 Stinger;
-120mm_dm13;DM 13;
-120mm_dm12;DM 12;
-120mm_dm12a1;DM 12A1;
-weapons/120mm_rheinmetall_l55_a1_user_cannon;Bordkanone 120 mm, L 55 A1;
-weapons/120mm_Rheinmetall_L55_user_cannon;Bordkanone 120 mm, L 55;
-weapons/120mm_Rheinmetall_L44_VT_user_cannon;Bordkanone 120 mm, L 44;
-weapons/120mm_Rheinmetall_L44_autoloader_user_cannon;Bordkanone 120 mm, L 44;
-weapons/120mm_Rheinmetall_L44_user_cannon;Bordkanone 120 mm, L 44;
-weapons/120mm_rheinmetall_l44_can_user_cannon;120 mm L44 Tank Gun;
-weapons/120mm_Rheinmetall_L44_2A5_user_cannon;Bordkanone 120 mm, L 44;
-weapons/120mm_Rheinmetall_L44_2PL_user_cannon;Bordkanone 120 mm, L 44;
-120mm_dm23;DM 23;
-120mm_dm33;DM 33;
-120mm_dm43;DM 43;
-120mm_dm53;DM 53;
-120mm_dm_11;DM 11;
-weapons/30mm_Rheinmetall_MK_30_2_ABM_KF41_user_cannon;Maschinenkanone 30 mm, MK 30-2/ABM;
-weapons/30mm_Rheinmetall_MK_30_2_ABM_user_cannon;Maschinenkanone 30 mm, MK 30-2/ABM;
-weapons/163mm_roland_2_launcher_user_cannon;Roland;
-weapons/163mm_roland_launcher_user_cannon;Roland;
-weapons/163mm_vt_1_launcher_user_cannon;VT1;
-weapons/163mm_roland_vt_1_launcher_user_cannon;Roland;
+
 weapons/180mm_IRIS_T_SL_user_cannon;IRIS-T SLM
 us_iris_t_sl;IRIS-T SL
 weapons/us_iris_t_sl/short;IRIS-T SLM
-165mm_vt_1;VT1;
-weapons/165mm_vt_1/short;VT1;
-weapons/90mm_BK90_Ru251_user_cannon;Bordkanone 90 mm, L 40;
-90mm_dm502;DM 502;
-weapons/155mm_m126e1_user_cannon;Haubitze 155 mm, ROVH 155 DM 2;
-weapons/20mm_Rh_202_Wiesel_user_cannon;Maschinenkanone 20 mm, MK 20;
-weapons/20mm_Rh_202_Marder_user_cannon;Maschinenkanone 20 mm, MK 20;
-weapons/20mm_Rh_202_user_cannon;Maschinenkanone 20 mm, MK 20;
-weapons/20mm_luchs_a2_user_cannon;Maschinenkanone 20 mm, MK 20;
-20mm_dm63;DM 63;
-20mm_dm43;DM 43;
-20mm_dm51a1;DM 51 A1;
-weapons/20mm_65_rh_202_naval_user_cannon;Maschinenkanone 20 mm, MK 20;
-weapons/7_62mm_mg3_naval_user_machinegun;Maschinengewehr 7,62 mm x 51, MG 3;
-weapons/155mm_l52_user_cannon;155 mm L52;
+
+weapons/gr_as34_kormoran;AS.34 Kormoran;
+weapons/gr_as34_kormoran/short;AS.34;

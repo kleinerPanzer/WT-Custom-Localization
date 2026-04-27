@@ -1,37 +1,41 @@
 <ID|readonly|noverify>;<NewLanguage>
 weapons/fr_matra_t_10_121b;T10 121;
+weapons/fr_matra_t_10_121b/short;T10 121;
 weapons/fr_matra_t_10_121a;T10 121;
+weapons/fr_matra_t_10_121a/short;T10 121;
 weapons/fr_matra_t_10_140b;T10 140;
+weapons/fr_matra_t_10_140b/short;T10 140;
 weapons/fr_matra_t_10_140a;T10 140;
+weapons/fr_matra_t_10_140a/short;T10 140;
 weapons/fr_matra_t_10_151b;T10 151;
+weapons/fr_matra_t_10_151b/short;T10 151;
 weapons/fr_matra_t_10_151a;T10 151;
+weapons/fr_matra_t_10_151a/short;T10 151;
+
 weapons/fr_sneb_type23;SNEB Type 23;
+weapons/fr_sneb_type23/short;SNEB Type 23;
 weapons/fr_sneb_type23_expo;SNEB Type 23;
+weapons/fr_sneb_type23_expo/short;SNEB Type 23;
 weapons/fr_sneb_type23_late;SNEB Type 23;
 weapons/fr_sneb_type23_late/short;SNEB Type 23;
 weapons/fr_sneb_type23_md_460;SNEB Type 23;
 weapons/fr_sneb_type23_md_460/short;SNEB Type 23;
-weapons/fr_sneb_type26;SNEB Type 26;
-weapons/fr_sneb_type26/short;SNEB Type 26;
 weapons/fr_sneb_type23s;SNEB Type 23
 weapons/fr_sneb_type23s/short;SNEB Type 23
-weapons/fr_tba_ecc;TBA 100 Emploi Contre-Chars;
-weapons/fr_tba_ecc/short;TBA 100 ECC;
-weapons/fr_tba_multidart_ab;TBA Multi-Dart 100 Anti-Blindés Légers;
-weapons/fr_tba_multidart_ab/short;TBA Multi-Dart 100 ABL;
-weapons/fr_matra_t_10_121b/short;T10 121b;
-weapons/fr_matra_t_10_121a/short;T10 121;
-weapons/fr_matra_t_10_140b/short;T10 140;
-weapons/fr_matra_t_10_140a/short;T10 140;
-weapons/fr_matra_t_10_151b/short;T10 151;
-weapons/fr_matra_t_10_151a/short;T10 151;
-weapons/fr_sneb_type23/short;SNEB Type 23;
-weapons/fr_sneb_type23_expo/short;SNEB Type 23;
-weapons/fr_sneb_37;SNEB 37;
-weapons/fr_sneb_37/short;SNEB 37;
 weapons/fr_sneb_type23_4fin;SNEB Type 23;
 weapons/fr_sneb_type23_4fin/short;SNEB Type 23;
 weapons/fr_sneb_type23_TDA;SNEB Type 23;
 weapons/fr_sneb_type23_TDA/short;SNEB Type 23;
+
+weapons/fr_sneb_type26;SNEB Type 26;
+weapons/fr_sneb_type26/short;SNEB Type 26;
 weapons/fr_sneb_type26_TDA;SNEB Type 26;
 weapons/fr_sneb_type26_TDA/short;SNEB Type 26;
+
+weapons/fr_sneb_37;SNEB Type 37;
+weapons/fr_sneb_37/short;SNEB Type 37;
+
+weapons/fr_tba_ecc;TBA 100 Emploi Contre-Chars;
+weapons/fr_tba_ecc/short;TBA 100 ECC;
+weapons/fr_tba_multidart_ab;TBA Multi-Dart 100 Anti-Blindés Légers;
+weapons/fr_tba_multidart_ab/short;TBA Multi-Dart 100 ABL;

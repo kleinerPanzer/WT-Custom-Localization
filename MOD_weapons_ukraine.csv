@@ -1,0 +1,14 @@
+<ID|readonly|noverify>;<NewLanguage>
+weapons/7_62mm_KT_user_machinegun;7,62-мм кулемет КТ-7,62
+
+weapons/12_7mm_KT_user_cannon;12,7-мм кулемет КТ-12,7
+
+weapons/30mm_AG_17_user_cannon;30-мм автоматичний гранатомет КБА-117
+
+weapons/30mm_ztm1_BTR_user_cannon;30-мм автоматична гармата ЗТМ-1
+
+weapons/125mm_KBA_3_user_cannon;125-мм танкова гармата КБА-3
+
+weapons/130mm_barrier_launcher_user_cannon;ТПК-2С
+130mm_r2;Р-2С
+weapons/130mm_r2/short;Р-2С

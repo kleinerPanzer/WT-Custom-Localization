@@ -1,12 +1,12 @@
 <ID|readonly|noverify>;<NewLanguage>
-weapons/it_snia_bpd_50mm_type_arf8m_at_ap;ARF/8M3 (AP-AT);
-weapons/it_snia_bpd_50mm_type_arf8m_at_ap/short;ARF/8M3;
+
 weapons/it_aspide_control_station;Aspide (Targeting Pod);
 weapons/it_aspide_control_station/short;Aspide (TP);
 weapons/it_pdlct_s_pod_targeting_pod;Convertible Laser Designator Pod;
 weapons/it_pdlct_s_pod_targeting_pod/short;CLDP;
 weapons/it_cldp_targeting_pod;Convertible Laser Designator Pod
 weapons/it_cldp_targeting_pod/short;CLDP
+
 weapons/it_580l_amx_1;580 L Serbatoio sganciabile;
 weapons/it_580l_amx_1/short;Serbatoio sganciabile;
 weapons/it_580l_amx_2;580 L Serbatoio sganciabile;
@@ -19,55 +19,65 @@ weapons/it_330l_drop_tank_1;330 gal. Serbatoio sganciabile;
 weapons/it_330l_drop_tank_1/short;Serbatoio sganciabile;
 weapons/it_330l_drop_tank_2;330 gal. Serbatoio sganciabile;
 weapons/it_330l_drop_tank_2/short;Serbatoio sganciabile;
+
+weapons/cannonTM197B;20 mm TM197B;
+
 weapons/40mm_cannone_da_40_70_user_cannon;Cannone Controaeri da 40/70;
 40mm_im219_ap;APCBC-T;
 40mm_m2_he;HEI-T;
-weapons/90mm_90_50_M3A1_user_cannon;Cannone da 90/50 M3A1;
-weapons/60mm_OTO_HVG_user_cannon;Canonne OTO-Melara da 60/70 HVMS;
-weapons/60mm_OTO_HVG_Hitfist_user_cannon;Cannone OTO-Melara da 60/70 HVMS;
-60mm_m300;APFSDS, M300;
-60mm_oto_he;OTO HE;
-60mm_oto_he_vt;OTO HE-VT;
-weapons/120mm_OTO_Melara_120_45_MGS_user_cannon;Cannone OTO-Melara da 120/45;
-weapons/120mm_OTO_Leonardo_120_45_user_cannon;Cannone OTO-Melara da 120/45;
-weapons/105mm_OTO_Melara_user_cannon;Cannone OTO-Melara da 105/52;
-weapons/105mm_OTO_Melara_Mk_2_user_cannon;Cannone OTO-Melara da 105/52;
-weapons/105mm_OTO_Melara_ROMOR_user_cannon;Cannone OTO-Melara da 105/52;
-weapons/105mm_105_55_OTO_Melara_user_cannon;Cannone OTO-Melara da 105/55;
-weapons/76mm_OTO_Breda_76_62_user_cannon;Cannone OTO-Melara da 76/62 SR;
-76mm_he_mom;HE-MOM;
-76mm_he_mom_vt;HE-MOM VT;
-76mm_sapom_sap;SAP-OM SAP;
-76mm_oto_apfsds;APFSDS;
-weapons/106mm_106_SR_user_cannon;Cannone Senza Rinculo da 106 mm M40A1;
-weapons/90mm_Cockerill_Mk_3_user_cannon;Cannone Cockerill Mk. III da 90/38;
-90mm_m625a1;M625A1;
-90mm_m652a1;M652A1;
-90mm_m620a1;M620A1;
-90mm_m618a1;M168A1;
-weapons/76mm_62_mmi_naval_user_cannon;Cannone OTO-Melara da 76/62
-weapons/76mm_62_oto_melara_sr_naval_user_cannon;Cannone OTO-Melara da 76/62 SR;
-weapons/76mm_62_oto_melara_compact_naval_user_cannon;Cannone OTO-Melara da 76/62 C;
-weapons/cannonTM197B;20 mm TM197B;
-weapons/it_aspide_1a;Aspide 1A;
-weapons/it_aspide_1a/short;Aspide 1A;
-weapons/50mm_firos_6_user_cannon;FIROS 6
-weapons/120mm_OTO_Breda_120_44_user_cannon;Cannone OTO-Melara da 120/44;
-weapons/120mm_OTO_Breda_120_44_Ariete_user_cannon;Cannone OTO-Melara da 120/44;
-weapons/120mm_OTO_Breda_120_44_Ariete_AMV_user_cannon;Cannone OTO-Melara da 120/44;
-50mm_arf_8m3;ARF/8M3
-weapons/50mm_arf_8m3/short;ARF/8M3
+
+weapons/40mm_l70_bofors_early_breda_naval_user_cannon;Cannone Automatico Breda-Bofors da 40/70 (DARDO Tipo 107);
 weapons/40mm_l70_bofors_oto_breda_naval_user_cannon;Cannone Automatico Breda-Bofors da 40/70 (DARDO Tipo 107);
 40mm_apfs_ds;APFSDS;
 40mm_bofors_breda_hei_t;HEI-T;
 40mm_bofors_breda_he_pff;HE-PFF;
 40mm_bofors_breda_l70_he/name;HEI-T
 40mm_bofors_breda_l70_he_radio_fuse/name;HE-VT
-weapons/rocket_nettuno_mk1_naval_rocket_launcher;320 mm Nettuno;
-weapons/rocket_nettuno_mk1_naval_rocket_launcher/short;Nettuno;
-nettuno_mk1_asw;Marte Mk. 1;
+
+weapons/60mm_OTO_HVG_user_cannon;Canonne OTO-Melara da 60/70 HVMS;
+weapons/60mm_OTO_HVG_Hitfist_user_cannon;Cannone OTO-Melara da 60/70 HVMS;
+60mm_m300;APFSDS, M300;
+60mm_oto_he;OTO HE;
+60mm_oto_he_vt;OTO HE-VT;
+
+weapons/76mm_62_smp_3_naval_user_cannon;Cannone SMP 3;
 76mm_it_om1_navy_he;OM-1;
 76mm_it_om2_navy_he;OM-2;
 76mm_it_om2_navy_he_vt;OM-2;
-weapons/76mm_62_smp_3_naval_user_cannon;76 mm SMP 3;
-weapons/40mm_l70_bofors_early_breda_naval_user_cannon;Cannone Automatico Breda-Bofors da 40/70 (DARDO Tipo 107);
+
+weapons/76mm_62_mmi_naval_user_cannon;Cannone OTO-Melara da 76/62
+weapons/76mm_62_oto_melara_sr_naval_user_cannon;Cannone OTO-Melara da 76/62 SR;
+weapons/76mm_OTO_Breda_76_62_user_cannon;Cannone OTO-Melara da 76/62 SR;
+weapons/76mm_62_oto_melara_compact_naval_user_cannon;Cannone OTO-Melara da 76/62 C;
+76mm_he_mom;HE-MOM;
+76mm_he_mom_vt;HE-MOM VT;
+76mm_sapom_sap;SAP-OM SAP;
+76mm_oto_apfsds;APFSDS;
+
+weapons/90mm_90_50_M3A1_user_cannon;Cannone da 90/50 M3A1;
+
+weapons/105mm_OTO_Melara_user_cannon;Cannone OTO-Melara da 105/52;
+weapons/105mm_OTO_Melara_Mk_2_user_cannon;Cannone OTO-Melara da 105/52;
+weapons/105mm_OTO_Melara_ROMOR_user_cannon;Cannone OTO-Melara da 105/52;
+weapons/105mm_105_55_OTO_Melara_user_cannon;Cannone OTO-Melara da 105/55;
+
+weapons/106mm_106_SR_user_cannon;Cannone Senza Rinculo da 106 mm M40A1;
+
+weapons/120mm_OTO_Breda_120_44_user_cannon;Cannone OTO-Melara da 120/44;
+weapons/120mm_OTO_Breda_120_44_Ariete_user_cannon;Cannone OTO-Melara da 120/44;
+weapons/120mm_OTO_Breda_120_44_Ariete_AMV_user_cannon;Cannone OTO-Melara da 120/44;
+weapons/120mm_OTO_Melara_120_45_MGS_user_cannon;Cannone OTO-Melara da 120/45;
+weapons/120mm_OTO_Leonardo_120_45_user_cannon;Cannone OTO-Melara da 120/45;
+
+weapons/50mm_firos_6_user_cannon;FIROS 6
+weapons/it_snia_bpd_50mm_type_arf8m_at_ap;ARF/8M3 (AP-AT);
+weapons/it_snia_bpd_50mm_type_arf8m_at_ap/short;ARF/8M3;
+50mm_arf_8m3;ARF/8M3
+weapons/50mm_arf_8m3/short;ARF/8M3
+
+weapons/it_aspide_1a;Aspide 1A;
+weapons/it_aspide_1a/short;Aspide 1A;
+
+weapons/rocket_nettuno_mk1_naval_rocket_launcher;320 mm Nettuno;
+weapons/rocket_nettuno_mk1_naval_rocket_launcher/short;Nettuno;
+nettuno_mk1_asw;Marte Mk. 1;

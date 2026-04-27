@@ -126,12 +126,14 @@ weapons/cn_ba_11/short;BA-11A
 
 weapons/cn_ls_500j;LT-2 Laser Guided Bomb;LT-2激光制导炸弹;
 weapons/cn_ls_500j/short;LT-2;
-weapons/cn_ls_1000j;GB1000 Dual Mode Laser/GPS Guided Bomb;激光制导炸弹;
-weapons/cn_ls_1000j/short;GB1000;
+
 weapons/cn_ts_250;GB250 Dual Mode Laser/GPS Guided Bomb;激光制导炸弹;
 weapons/cn_ts_250/short;GB250;
 weapons/cn_lgb_gb250_mod_laser;GB250 GPS/INS Guided Bomb;
 weapons/cn_lgb_gb250_mod_laser/short;GB250
+weapons/cn_ls_1000j;GB1000 Dual Mode Laser/GPS Guided Bomb;激光制导炸弹;
+weapons/cn_ls_1000j/short;GB1000;
+
 weapons/cn_ls_6_250;LS-6 250 kg Guided Glide Bomb;
 weapons/cn_ls_6_250/short;LS-6/250;
 weapons/cn_ls_6_250_ir;LS-6 250 kg Guided Glide Bomb (IR);
@@ -140,6 +142,7 @@ weapons/cn_ls_6_500;LS-6 500 kg Guided Glide Bomb;
 weapons/cn_ls_6_500/short;LS-6/500;
 weapons/cn_ls_6_500_ir;LS-6 500 kg Guided Glide Bomb (IR);
 weapons/cn_ls_6_500_ir/short;LS-6/500 (IR)
+
 weapons/cn_fs_70;Fire Snake 70 Aerial Rocket;
 weapons/cn_fs_70/short;FS70;
 weapons/cn_fire_snake_70a;Fire Snake 70A Guided Aerial Rocket

@@ -153,6 +153,7 @@ weapons/cannonT13E1;Gun, 75-mm, T13E1;
 155mm_m107_pf;HE, M107 (PF);
 weapons/90mm_M41_user_cannon;Cannon, 90-mm Gun: M41;
 weapons/152mm_M81_user_cannon;Cannon, 152 mm Gun/Launcher: M81E1;
+weapons/152mm_m81_naval_user_cannon;Cannon, 152 mm Gun/Launcher: M81;
 152mm_m409a1;HEAT-T-MP, M409A1;
 152mm_m657a2;HE-T, M657A2;
 weapons/105mm_T5E2_user_cannon;Gun, 105-mm, T5E1;

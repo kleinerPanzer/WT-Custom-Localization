@@ -1,42 +1,51 @@
 <ID|readonly|noverify>;<NewLanguage>
+
 weapons/mirage_3c_sepr_841_rocket;SEPR 841;
 weapons/mirage_3c_sepr_841_rocket/short;SEPR 841;
-weapons/mirage_3c_fuel_tank_7_8;Oxidizer tank;
-weapons/mirage_3c_fuel_tank_7_8/short;Oxidizer;
-weapons/mirage_3c_fuel_tank_8;Oxidizer tank
-weapons/mirage_3c_fuel_tank_8/short;Oxidizer
-weapons/mirage_3e_fuel_tank_7_8;Oxidizer tank;
-weapons/mirage_3e_fuel_tank_7_8/short;Oxidizer;
-weapons/mirage_3s_fuel_tank_6;Conformal Fuel Tank
-weapons/mirage_3s_fuel_tank_6/short;CFT
+
 weapons/mirage_3s_sepr_tank_7;SEPR 844
 weapons/mirage_3s_sepr_tank_7/short;SEPR 844
 weapons/mirage_3s_sepr_tank_8;SEPR 844
 weapons/mirage_3s_sepr_tank_8/short;SEPR 844
 weapons/mirage_3c_sepr_844_rocket;SEPR 844;
 weapons/mirage_3c_sepr_844_rocket/short;SEPR 844;
-weapons/fr_1300l_rp522_mirage_2000d_r1;Réservoir Pendulaire RP 522 (1300 L);
-weapons/fr_1300l_rp522_mirage_2000d_r1/short;RP 522;
-weapons/fr_2500l_m4000_drop_tank_1;2500 L Réservoir Pendulaire;
-weapons/fr_2500l_m4000_drop_tank_1/short;Réservoir Pendulaire;
-weapons/fr_2500l_m4000_drop_tank_2;2500 L Réservoir Pendulaire;
-weapons/fr_2500l_m4000_drop_tank_2/short;Réservoir Pendulaire;
-weapons/fr_2000l_rpl_741_rafale_drop_tank_left;Réservoir Pendulaire RP 741 (2000 L)
-weapons/fr_2000l_rpl_741_rafale_drop_tank_left/short;RP 741
-weapons/fr_2000l_rpl_741_rafale_drop_tank_fuse;Réservoir Pendulaire RP 741 (2000 L)
-weapons/fr_2000l_rpl_741_rafale_drop_tank_fuse/short;RP 741
-weapons/fr_2000l_rpl_741_rafale_drop_tank_right;Réservoir Pendulaire RP 741 (2000 L)
-weapons/fr_2000l_rpl_741_rafale_drop_tank_right/short;RP 741
+
+weapons/mirage_3c_fuel_tank_7_8;Oxidizer tank;
+weapons/mirage_3c_fuel_tank_7_8/short;Oxidizer;
+weapons/mirage_3c_fuel_tank_8;Oxidizer tank
+weapons/mirage_3c_fuel_tank_8/short;Oxidizer
+weapons/mirage_3e_fuel_tank_7_8;Oxidizer tank;
+weapons/mirage_3e_fuel_tank_7_8/short;Oxidizer;
+
+weapons/mirage_3s_fuel_tank_6;Conformal Fuel Tank
+weapons/mirage_3s_fuel_tank_6/short;CFT
+
 weapons/fr_500l_m4000_drop_tank_1;500 L Réservoir Pendulaire;
 weapons/fr_500l_m4000_drop_tank_1/short;Réservoir Pendulaire;
 weapons/fr_500l_m4000_drop_tank_2;500 L Réservoir Pendulaire;
 weapons/fr_500l_m4000_drop_tank_2/short;Réservoir Pendulaire;
+weapons/fr_2500l_m4000_drop_tank_1;2500 L Réservoir Pendulaire;
+weapons/fr_2500l_m4000_drop_tank_1/short;Réservoir Pendulaire;
+weapons/fr_2500l_m4000_drop_tank_2;2500 L Réservoir Pendulaire;
+weapons/fr_2500l_m4000_drop_tank_2/short;Réservoir Pendulaire;
+
 weapons/fr_625l_drop_tank;675 L Réservoir Pendulaire;
 weapons/fr_625l_drop_tank/short;Réservoir Pendulaire;
+
 weapons/310l_alpha_jet_france_1;310 L Réservoir Pendulaire;
 weapons/310l_alpha_jet_france_1/short;Réservoir Pendulaire;
 weapons/310l_alpha_jet_france_2;310 L Réservoir Pendulaire;
 weapons/310l_alpha_jet_france_2/short;Réservoir Pendulaire;
+
+weapons/fr_1700l_rp30_drop_tank_1;Réservoir Pendulaire RP 30 (1700 L);
+weapons/fr_1700l_rp30_drop_tank_1/short;RP 30;
+weapons/fr_1700l_rp30_drop_tank_2;Réservoir Pendulaire RP 30 (1700 L);
+weapons/fr_1700l_rp30_drop_tank_2/short;RP 30;
+weapons/fr_1700l_rp30_mirage_3e_drop_tank_1;Réservoir Pendulaire RP 30 (1700 L);
+weapons/fr_1700l_rp30_mirage_3e_drop_tank_1/short;RP 30;
+weapons/fr_1700l_rp30_mirage_3e_drop_tank_2;Réservoir Pendulaire RP 30 (1700 L);
+weapons/fr_1700l_rp30_mirage_3e_drop_tank_2/short;RP 30;
+
 weapons/fr_1200l_rp35_drop_tank_1;Réservoir Pendulaire RP 35 (1200 L);
 weapons/fr_1200l_rp35_drop_tank_1/short;RP 35;
 weapons/fr_1200l_rp35_drop_tank_2;Réservoir Pendulaire RP 35 (1200 L);
@@ -55,6 +64,7 @@ weapons/fr_1200l_rp35_drop_tank_gray_2;Réservoir Pendulaire RP 35 (1200 L);
 weapons/fr_1200l_rp35_drop_tank_gray_2/short;RP 35;
 weapons/fr_1200l_rp35_drop_tank_gray_fuse;Réservoir Pendulaire RP 35 (1200 L);
 weapons/fr_1200l_rp35_drop_tank_gray_fuse/short;RP 35;
+
 weapons/fr_1200l_rp36_drop_tank_1;Réservoir Pendulaire RP 36 (1200 L);
 weapons/fr_1200l_rp36_drop_tank_1/short;RP 36;
 weapons/fr_1200l_rp36_drop_tank_2;Réservoir Pendulaire RP 36 (1200 L);
@@ -79,15 +89,21 @@ weapons/fr_1200l_rp36_drop_tank_gray_2;Réservoir Pendulaire RP 36 (1200 L);
 weapons/fr_1200l_rp36_drop_tank_gray_2/short;RP 36;
 weapons/fr_1200l_rp36_drop_tank_gray_3;Réservoir Pendulaire RP 36 (1200 L);
 weapons/fr_1200l_rp36_drop_tank_gray_3/short;RP 36;
+
 weapons/fr_1300l_rp62_drop_tank_1;Réservoir Pendulaire RP 62 (1300 L);
 weapons/fr_1300l_rp62_drop_tank_1/short;RP 62;
 weapons/fr_1300l_rp62_drop_tank_2;Réservoir Pendulaire RP 62 (1300 L);
 weapons/fr_1300l_rp62_drop_tank_2/short;RP 62;
-weapons/fr_1700l_rp30_drop_tank_1;Réservoir Pendulaire RP 30 (1700 L);
-weapons/fr_1700l_rp30_drop_tank_1/short;RP 30;
-weapons/fr_1700l_rp30_drop_tank_2;Réservoir Pendulaire RP 30 (1700 L);
-weapons/fr_1700l_rp30_drop_tank_2/short;RP 30;
-weapons/fr_1700l_rp30_mirage_3e_drop_tank_1;Réservoir Pendulaire RP 30 (1700 L);
-weapons/fr_1700l_rp30_mirage_3e_drop_tank_1/short;RP 30;
-weapons/fr_1700l_rp30_mirage_3e_drop_tank_2;Réservoir Pendulaire RP 30 (1700 L);
-weapons/fr_1700l_rp30_mirage_3e_drop_tank_2/short;RP 30;
+
+weapons/fr_1300l_rp522_mirage_2000d_r1;Réservoir Pendulaire RP 522 (1300 L);
+weapons/fr_1300l_rp522_mirage_2000d_r1/short;RP 522;
+
+weapons/fr_2000l_rpl_741_rafale_drop_tank_left;Réservoir Pendulaire RP 741 (2000 L)
+weapons/fr_2000l_rpl_741_rafale_drop_tank_left/short;RP 741
+weapons/fr_2000l_rpl_741_rafale_drop_tank_fuse;Réservoir Pendulaire RP 741 (2000 L)
+weapons/fr_2000l_rpl_741_rafale_drop_tank_fuse/short;RP 741
+weapons/fr_2000l_rpl_741_rafale_drop_tank_right;Réservoir Pendulaire RP 741 (2000 L)
+weapons/fr_2000l_rpl_741_rafale_drop_tank_right/short;RP 741
+
+weapons/fr_460l_secan_63;SECAN 63;
+weapons/fr_460l_secan_63/short;SECAN 63;
