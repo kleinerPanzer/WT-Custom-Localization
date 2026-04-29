@@ -19,7 +19,7 @@ sensors/cn_type_930;930型雷达告警接收器
 sensors/cn_kj8602a;KJ8602A雷达告警接收器;
 sensors/cn_kj_8602;KJ8602雷达告警接收器;
 
-sensors/cn_krkz2200;Radar Warning Receiver;
+sensors/cn_krkz2200;Unknown;
 
 sensors/cn_s740;S740导弹预警系统;
 

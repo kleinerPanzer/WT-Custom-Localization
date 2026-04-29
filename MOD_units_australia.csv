@@ -2,9 +2,9 @@
 
 // Army //
 // WWII // 
-uk_matilda_hedgehog_shop;Matilda Hedgehog
-uk_matilda_hedgehog_0;Matilda Projector, Hedgehog, No. 1 Mk. I
-uk_matilda_hedgehog_1;Matilda Hedgehog
+uk_matilda_hedgehog_shop;Matilda Mk. IV (Hedgehog)
+uk_matilda_hedgehog_0;Infantry Tank Mk. II, A.12, Matilda, Mk. IV (Projector, Hedgehog, (Aust), No. 1, Mk. 1)
+uk_matilda_hedgehog_1;Matilda Mk. IV (Hedgehog)
 uk_matilda_hedgehog_2;Matilda
 
 uk_ac1_sentinel_shop;Australian Cruiser Mk. I
@@ -19,7 +19,7 @@ uk_ac4_thunderbolt_2;Australian Cruiser
 
 // CW/Modern //
 uk_centurion_mk_5_raac_shop;Centurion Mk. 5/1
-uk_centurion_mk_5_raac_0;FV4017 Tank, Combat, 20-lb Gun, Centurion Mk. 5/1
+uk_centurion_mk_5_raac_0;Tank, Medium Gun, Centurion Mk. 5/1
 uk_centurion_mk_5_raac_1;Centurion Mk. 5
 uk_centurion_mk_5_raac_2;Centurion
 

@@ -17,6 +17,7 @@ sensors/tv_tracker_tgp;TV Tracker;
 sensors/tv_tracker;TV Tracker;
 
 sensors/rooikat_aa_eot_track;TV Tracker;
+sensors/uk_rooikat_za_35_search_radar;Search Radar;
 sensors/sa_d_36;D-36;
 
 counterMeasures/varta_left;Варта
