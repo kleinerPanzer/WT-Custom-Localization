@@ -8,7 +8,7 @@ wheeled_vehicles/germ_kubelwagen_2;Kübelwagen
 wheeled_vehicles/germ_motobike_0;R75
 wheeled_vehicles/germ_motobike_1;R75
 wheeled_vehicles/germ_motobike_2;R75
-wheeled_vehicles/ussr_motobike_0;▂ R75
+wheeled_vehicles/ussr_motobike_0;R75
 wheeled_vehicles/ussr_motobike_1;▂ R75
 wheeled_vehicles/ussr_motobike_2;R75
 germ_opelBlitz_radio_0;Opel Blitz Funkstation
@@ -79,7 +79,7 @@ wheeled_vehicles/us_m3_halftrack_2;M3
 wheeled_vehicles/us_m8_greyhound_0;M8
 wheeled_vehicles/us_m8_greyhound_1;M8
 wheeled_vehicles/us_m8_greyhound_2;M8
-wheeled_vehicles/us_motobike_0;▃ R75
+wheeled_vehicles/us_motobike_0;R75
 wheeled_vehicles/us_motobike_1;▃ R75
 wheeled_vehicles/us_motobike_2;R75
 wheeled_vehicles/us_willys_mb_7mm_0;MB
@@ -494,7 +494,7 @@ ships/uss_cv_enterprise_2;Yorktown-Class
 ships/uss_cv_lexington_0;Lexington (CV-2)
 ships/uss_cv_lexington_1;Lexington
 ships/uss_cv_lexington_2;Lexington-Class
-ships/hms_cargo_ship_0;▃ Assistance (F 173)
+ships/hms_cargo_ship_0;Assistance (F 173)
 ships/hms_cargo_ship_1;▃ Assistance
 ships/hms_cargo_ship_2;Liberty-Class
 ships/ijn_cargo_ship_0;樫野
@@ -650,28 +650,28 @@ air_defence/us_90mm_versus_2;M1
 air_defence/us_m16_truck_0;M16A2 MGMC
 air_defence/us_m16_truck_1;M16A2 MGMC
 air_defence/us_m16_truck_2;M16
-air_defence/ussr_25mm_72k_0;25-мм Автоматическая Зенитная Пушка обр. 1940 г. (72-К)
+air_defence/ussr_25mm_72k_0;25-мм автоматическая зенитная пушка обр. 1940 г. (72-К)
 air_defence/ussr_25mm_72k_1;72-К
 air_defence/ussr_25mm_72k_2;72-К
-air_defence/ussr_25mm_72k_airfield_0;25-мм Автоматическая Зенитная Пушка обр. 1940 г. (72-К)
+air_defence/ussr_25mm_72k_airfield_0;25-мм автоматическая зенитная пушка обр. 1940 г. (72-К)
 air_defence/ussr_25mm_72k_airfield_1;72-К
 air_defence/ussr_25mm_72k_airfield_2;72-К
-air_defence/ussr_25mm_72k_noground_0;25-мм Автоматическая Зенитная Пушка обр. 1940 г. (72-К)
+air_defence/ussr_25mm_72k_noground_0;25-мм автоматическая зенитная пушка обр. 1940 г. (72-К)
 air_defence/ussr_25mm_72k_noground_1;72-К
 air_defence/ussr_25mm_72k_noground_2;72-К
-air_defence/ussr_37mm_61k_0;37-мм Автоматическая Зенитная Пушка обр. 1939 г. (61-К)
+air_defence/ussr_37mm_61k_0;37-мм автоматическая зенитная пушка обр. 1939 г. (61-К)
 air_defence/ussr_37mm_61k_1;61-К
 air_defence/ussr_37mm_61k_2;61-К
-air_defence/ussr_37mm_61k_noground_0;37-мм Автоматическая Зенитная Пушка обр. 1939 г. (61-К)
+air_defence/ussr_37mm_61k_noground_0;37-мм автоматическая зенитная пушка обр. 1939 г. (61-К)
 air_defence/ussr_37mm_61k_noground_1;61-К
 air_defence/ussr_37mm_61k_noground_2;61-К
-air_defence/ussr_37mm_61k_airfield_0;37-мм Автоматическая Зенитная Пушка обр. 1939 г. (61-К)
+air_defence/ussr_37mm_61k_airfield_0;37-мм автоматическая зенитная пушка обр. 1939 г. (61-К)
 air_defence/ussr_37mm_61k_airfield_1;61-К
 air_defence/ussr_37mm_61k_airfield_2;61-К
-air_defence/ussr_85mm_52k_0;85-мм Зенитная Пушка обр. 1939 г. (52-К)
+air_defence/ussr_85mm_52k_0;85-мм зенитная пушка обр. 1939 г. (52-К)
 air_defence/ussr_85mm_52k_1;52-К
 air_defence/ussr_85mm_52k_2;52-К
-air_defence/ussr_85mm_52k_noground_0;85-мм Зенитная Пушка обр. 1939 г. (52-К)
+air_defence/ussr_85mm_52k_noground_0;85-мм зенитная пушка обр. 1939 г. (52-К)
 air_defence/ussr_85mm_52k_noground_1;52-К
 air_defence/ussr_85mm_52k_noground_2;52-К
 air_defence/ussr_zis5_37mm_0;ЗиС-5 (61-К)
@@ -842,13 +842,13 @@ structures/us_57mm_m1_2;M1
 structures/us_57mm_m1_noground_0;Gun, 57 mm, M1
 structures/us_57mm_m1_noground_1;M1
 structures/us_57mm_m1_noground_2;M1
-structures/ussr_152mm_ml20_0;152-мм Гаубица-Пушка обр. 1937 г. (МЛ-20)
+structures/ussr_152mm_ml20_0;152-мм гаубица-пушка обр. 1937 г. (МЛ-20)
 structures/ussr_152mm_ml20_1;МЛ-20
 structures/ussr_152mm_ml20_2;МЛ-20
-structures/ussr_152mm_ml20_large_0;152-мм Гаубица-Пушка обр. 1937 г. (МЛ-20)
+structures/ussr_152mm_ml20_large_0;152-мм гаубица-пушка обр. 1937 г. (МЛ-20)
 structures/ussr_152mm_ml20_large_1;МЛ-20
 structures/ussr_152mm_ml20_large_2;МЛ-20
-structures/ussr_152mm_d1_illum_0;152-мм Гаубица обр. 1943 г. (Д-1)
+structures/ussr_152mm_d1_illum_0;152-мм гаубица обр. 1943 г. (Д-1)
 structures/ussr_152mm_d1_illum_1;Д-1
 structures/ussr_152mm_d1_illum_2;Д-1
 wheeled_vehicles/us_m_270_mlrs_0;Launcher, Rocket, Armored Vehicle Mounted, M270
@@ -857,39 +857,39 @@ wheeled_vehicles/us_m_270_mlrs_2;M270
 wheeled_vehicles/ussr_bm_21_grad_0;Боевая машина 2Б5
 wheeled_vehicles/ussr_bm_21_grad_1;2Б5
 wheeled_vehicles/ussr_bm_21_grad_2;2Б5
-structures/ussr_quest_large_art_0;152-мм Гаубица-Пушка обр. 1937 г. (МЛ-20)
+structures/ussr_quest_large_art_0;152-мм гаубица-пушка обр. 1937 г. (МЛ-20)
 structures/ussr_quest_large_art_1;МЛ-20
 structures/ussr_quest_large_art_2;МЛ-20
-structures/ussr_quest_large_art_noground_0;152-мм Гаубица-Пушка обр. 1937 г. (МЛ-20)
+structures/ussr_quest_large_art_noground_0;152-мм гаубица-пушка обр. 1937 г. (МЛ-20)
 structures/ussr_quest_large_art_noground_1;МЛ-20
 structures/ussr_quest_large_art_noground_2;МЛ-20
-structures/ussr_57mm_zis2_0;57-мм Противотанковая Пушка обр. 1941 г. (ЗиС-2)
+structures/ussr_57mm_zis2_0;57-мм противотанковая пушка обр. 1941 г. (ЗиС-2)
 structures/ussr_57mm_zis2_1;ЗиС-2
 structures/ussr_57mm_zis2_2;ЗиС-2
-structures/ussr_57mm_zis2_noground_0;57-мм Противотанковая Пушка обр. 1941 г. (ЗиС-2)
+structures/ussr_57mm_zis2_noground_0;57-мм противотанковая пушка обр. 1941 г. (ЗиС-2)
 structures/ussr_57mm_zis2_noground_1;ЗиС-2
 structures/ussr_57mm_zis2_noground_2;ЗиС-2
-structures/ussr_76mm_zis3_0;76-мм Противотанковая Пушка обр. 1942 г. (ЗиС-3)
+structures/ussr_76mm_zis3_0;76-мм дивизионная пушка обр. 1942 г. (ЗиС-3)
 structures/ussr_76mm_zis3_1;ЗиС-3
 structures/ussr_76mm_zis3_2;ЗиС-3
-structures/ussr_76mm_zis3_noground_0;76-мм Противотанковая Пушка обр. 1942 г. (ЗиС-3)
+structures/ussr_76mm_zis3_noground_0;76-мм дивизионная пушка обр. 1942 г. (ЗиС-3)
 structures/ussr_76mm_zis3_noground_1;ЗиС-3
 structures/ussr_76mm_zis3_noground_2;ЗиС-3
-structures/ussr_122mm_m30_0;122-мм Гаубица обр. 1938 г. (М-30)
+structures/ussr_122mm_m30_0;122-мм гаубица обр. 1938 г. (М-30)
 structures/ussr_122mm_m30_1;М-30
 structures/ussr_122mm_m30_2;М-30
-structures/ussr_122mm_m30_event_0;122-мм Гаубица обр. 1938 г. (М-30)
+structures/ussr_122mm_m30_event_0;122-мм гаубица обр. 1938 г. (М-30)
 structures/ussr_122mm_m30_event_1;М-30
 structures/ussr_122mm_m30_event_2;М-30
-structures/ussr_122mm_m30_noground_0;122-мм Гаубица обр. 1938 г. (М-30)
+structures/ussr_122mm_m30_noground_0;122-мм гаубица обр. 1938 г. (М-30)
 structures/ussr_122mm_m30_noground_1;М-30
 structures/ussr_122mm_m30_noground_2;М-30
-structures/ussr_152mm_d1_0;152-мм Гаубица обр. 1943 г. (Д-1)
+structures/ussr_152mm_d1_0;152-мм гаубица обр. 1943 г. (Д-1)
 structures/ussr_152mm_d1_1;Д-1
 structures/ussr_152mm_d1_2;Д-1
 structures/203mm_artillery_event_0;Artillery
 structures/76mm_artillery_support_0;Artillery;
-radars/us_an_tps_43_radar_0;AN/TPS-43
+radars/us_an_tps_43_radar_0;Radar Set, AN/TPS-43
 radars/us_an_tps_43_radar_1;AN/TPS-43
 radars/us_an_tps_43_radar_2;AN/TPS-43
 radars/ussr_p_37_radar_0;РЛС 1РЛ139

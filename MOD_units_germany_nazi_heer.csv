@@ -50,66 +50,84 @@ germ_pzkpfw_38t_Aufklarungspanzer_2;Aufkl.Pzw. 38
 
 // PANZER II //
 germ_pzkpfw_II_ausf_C_shop;Pz.Kpfw. II C
-germ_pzkpfw_II_ausf_C_0;Panzerkampfwagen II (2 cm) Ausf. C (Januar 1942 Umbau)
+germ_pzkpfw_II_ausf_C_0;"Panzerkampfwagen II (2 cm) Ausf. C
+Januar 1942 Umbau"
 germ_pzkpfw_II_ausf_C_1;Pz.Kpfw. II C
 germ_pzkpfw_II_ausf_C_2;Pz. II
-germ_pzkpfw_II_ausf_C_DAK_shop;Pz.Kpfw. II C (Tp.) (DAK)
-germ_pzkpfw_II_ausf_C_DAK_0;Panzerkampfwagen II (2 cm) Ausf. C (Januar 1942 Umbau) (Tropenfähig) (Deutsches AfrikaKorps)
+germ_pzkpfw_II_ausf_C_DAK_shop;Pz.Kpfw. II C (DAK)
+germ_pzkpfw_II_ausf_C_DAK_0;"Panzerkampfwagen II (2 cm) Ausf. C
+Januar 1942 Umbau
+Deutsches AfrikaKorps"
 germ_pzkpfw_II_ausf_C_DAK_1;Pz.Kpfw. II C
 germ_pzkpfw_II_ausf_C_DAK_2;Pz. II
 germ_pzkpfw_II_ausf_C_td_shop;Pz.Kpfw. II C (TD)
-germ_pzkpfw_II_ausf_C_td_0;Panzerkampfwagen II (2 cm) Ausf. C (Januar 1942 Umbau) (Twitch Drop)
+germ_pzkpfw_II_ausf_C_td_0;"Panzerkampfwagen II (2 cm) Ausf. C
+Januar 1942 Umbau
+Twitch Drop"
 germ_pzkpfw_II_ausf_C_td_1;Pz.Kpfw. II C
 germ_pzkpfw_II_ausf_C_td_2;Pz. II
 germ_pzkpfw_II_ausf_F_shop;Pz.Kpfw. II F
-germ_pzkpfw_II_ausf_F_0;Panzerkampfwagen II (2 cm) Ausf. F (Januar 1942 Produktion)
+germ_pzkpfw_II_ausf_F_0;"Panzerkampfwagen II (2 cm) Ausf. F
+Januar 1942 Produktion"
 germ_pzkpfw_II_ausf_F_1;Pz.Kpfw. II F
 germ_pzkpfw_II_ausf_F_2;Pz. II
 
 
 // PANZER III //
 germ_pzkpfw_III_ausf_B_shop;Pz.Kpfw. III B
-germ_pzkpfw_III_ausf_B_0;Panzerkampfwagen III (3,7 cm) Ausf. B (November 1937 Produktion)
+germ_pzkpfw_III_ausf_B_0;"Panzerkampfwagen III (3,7 cm) Ausf. B
+November 1937 Produktion"
 germ_pzkpfw_III_ausf_B_1;Pz.Kpfw. III B
 germ_pzkpfw_III_ausf_B_2;Pz. III
 germ_pzkpfw_III_ausf_E_shop;Pz.Kpfw. III E
-germ_pzkpfw_III_ausf_E_0;Panzerkampfwagen III (3,7 cm) Ausf. E (Februar 1939 Produktion)
+germ_pzkpfw_III_ausf_E_0;"Panzerkampfwagen III (3,7 cm) Ausf. E
+Februar 1939 Produktion"
 germ_pzkpfw_III_ausf_E_1;Pz.Kpfw. III E
 germ_pzkpfw_III_ausf_E_2;Pz. III
 germ_pzkpfw_III_ausf_E_race_shop;Pz.Kpfw. III E
-germ_pzkpfw_III_ausf_E_race_0;Panzerkampfwagen III (3,7 cm) Ausf. E (Februar 1939 Produktion)
+germ_pzkpfw_III_ausf_E_race_0;"Panzerkampfwagen III (3,7 cm) Ausf. E
+Februar 1939 Produktion"
 germ_pzkpfw_III_ausf_E_race_1;Pz.Kpfw. III E
 germ_pzkpfw_III_ausf_E_race_2;Pz. III
 germ_pzkpfw_III_ausf_F_shop;Pz.Kpfw. III F
-germ_pzkpfw_III_ausf_F_0;Panzerkampfwagen III (5 cm) Ausf. F (August 1940 Produktion)
+germ_pzkpfw_III_ausf_F_0;"Panzerkampfwagen III (5 cm) Ausf. F
+August 1940 Produktion"
 germ_pzkpfw_III_ausf_F_1;Pz.Kpfw. III F
 germ_pzkpfw_III_ausf_F_2;Pz. III
 germ_pzkpfw_III_ausf_J_L42_shop;Pz.Kpfw. III J (Tp.)
-germ_pzkpfw_III_ausf_J_L42_0;Panzerkampfwagen III (5 cm) Ausf. J (Juli 1941 Produktion) (Tropenfähig)
+germ_pzkpfw_III_ausf_J_L42_0;"Panzerkampfwagen III (5 cm) Ausf. J
+Juli 1941 Produktion, Tropenfähig"
 germ_pzkpfw_III_ausf_J_L42_1;Pz.Kpfw. III J
 germ_pzkpfw_III_ausf_J_L42_2;Pz. III
 germ_pzkpfw_III_ausf_J_shop;Pz.Kpfw. III L
-germ_pzkpfw_III_ausf_J_0;Panzerkampfwagen III (5 cm Kw.K. 39 (L/60)) Ausf. L (Dezember 1941 Produktion)
+germ_pzkpfw_III_ausf_J_0;"Panzerkampfwagen III (5 cm Kw.K. 39 (L/60)) Ausf. L
+Dezember 1941 Produktion"
 germ_pzkpfw_III_ausf_J_1;Pz.Kpfw. III L
 germ_pzkpfw_III_ausf_J_2;Pz. III
 germ_pzkpfw_III_ausf_J_td_shop;Pz.Kpfw. III L (TD)
-germ_pzkpfw_III_ausf_J_td_0;Panzerkampfwagen III (5 cm Kw.K. 39 (L/60)) Ausf. L (Twitch Drop)
+germ_pzkpfw_III_ausf_J_td_0;"Panzerkampfwagen III (5 cm Kw.K. 39 (L/60)) Ausf. L
+Dezember 1941 Produktion
+Twitch Drop"
 germ_pzkpfw_III_ausf_J_td_1;Pz.Kpfw. III L
 germ_pzkpfw_III_ausf_J_td_2;Pz. III
 germ_pzkpfw_III_ausf_L_shop;Pz.Kpfw. III L (V.Pz.)
-germ_pzkpfw_III_ausf_L_0;Panzerkampfwagen III (5 cm Kw.K. 39 (L/60)) Ausf. L (Juni 1942 Produktion)
+germ_pzkpfw_III_ausf_L_0;"Panzerkampfwagen III (5 cm Kw.K. 39 (L/60)) Ausf. L
+Juni 1942 Produktion"
 germ_pzkpfw_III_ausf_L_1;Pz.Kpfw. III L
 germ_pzkpfw_III_ausf_L_2;Pz. III
 germ_pzkpfw_III_ausf_L_tutorial_shop;Pz.Kpfw. III L (V.Pz.)
-germ_pzkpfw_III_ausf_L_tutorial_0;Panzerkampfwagen III (5 cm Kw.K. 39 (L/60)) Ausf. L (Juni 1942 Produktion)
+germ_pzkpfw_III_ausf_L_tutorial_0;"Panzerkampfwagen III (5 cm Kw.K. 39 (L/60)) Ausf. L
+Juni 1942 Produktion"
 germ_pzkpfw_III_ausf_L_tutorial_1;Pz.Kpfw. III L
 germ_pzkpfw_III_ausf_L_tutorial_2;Pz. III
 germ_pzkpfw_III_ausf_M_shop;Pz.Kpfw. III M
-germ_pzkpfw_III_ausf_M_0;Panzerkampfwagen III (5 cm Kw.K. 39 (L/60)) Ausf. M (Mai 1943 Umbau)
+germ_pzkpfw_III_ausf_M_0;"Panzerkampfwagen III (5 cm Kw.K. 39 (L/60)) Ausf. M
+Mai 1943 Umbau"
 germ_pzkpfw_III_ausf_M_1;Pz.Kpfw. III M
 germ_pzkpfw_III_ausf_M_2;Pz. III
 germ_pzkpfw_III_ausf_N_shop;Pz.Kpfw. III N
-germ_pzkpfw_III_ausf_N_0;Panzerkampfwagen III (7,5 cm Kw.K. 37 (L/24)) Ausf. N (März 1943 Produktion)
+germ_pzkpfw_III_ausf_N_0;"Panzerkampfwagen III (7,5 cm Kw.K. 37 (L/24)) Ausf. N
+März 1943 Produktion"
 germ_pzkpfw_III_ausf_N_1;Pz.Kpfw. III N
 germ_pzkpfw_III_ausf_N_2;Pz. III
 
@@ -119,35 +137,43 @@ germ_nbfz_VI_0;Neubau-Panzerkampfwagen IV (3,7 cm & 7,5 cm)
 germ_nbfz_VI_1;Nb.-Pz.Kpfw. IV
 germ_nbfz_VI_2;Nb.-Pz. IV
 germ_pzkpfw_IV_ausf_C_shop;Pz.Kpfw. IV C
-germ_pzkpfw_IV_ausf_C_0;Panzerkampfwagen IV (7,5 cm) Ausf. C (März 1940 Umbau)
+germ_pzkpfw_IV_ausf_C_0;"Panzerkampfwagen IV (7,5 cm) Ausf. C
+März 1940 Umbau"
 germ_pzkpfw_IV_ausf_C_1;Pz.Kpfw. IV C
 germ_pzkpfw_IV_ausf_C_2;Pz. IV
 germ_pzkpfw_IV_ausf_E_shop;Pz.Kpfw. IV E (Tp.)
-germ_pzkpfw_IV_ausf_E_0;Panzerkampfwagen IV (7,5 cm) Ausf. E (März 1941 Produktion) (Tropenfähig)
+germ_pzkpfw_IV_ausf_E_0;"Panzerkampfwagen IV (7,5 cm) Ausf. E
+März 1941 Produktion, Tropenfähig"
 germ_pzkpfw_IV_ausf_E_1;Pz.Kpfw. IV E
 germ_pzkpfw_IV_ausf_E_2;Pz. IV
 germ_pzkpfw_IV_ausf_F_shop;Pz.Kpfw. IV F (Tp.)
-germ_pzkpfw_IV_ausf_F_0;Panzerkampfwagen IV (7,5 cm) Ausf. F (April 1941 Produktion) (Tropenfähig)
+germ_pzkpfw_IV_ausf_F_0;"Panzerkampfwagen IV (7,5 cm) Ausf. F
+April 1941 Produktion, Tropenfähig"
 germ_pzkpfw_IV_ausf_F_1;Pz.Kpfw. IV F
 germ_pzkpfw_IV_ausf_F_2;Pz. IV
 germ_pzkpfw_IV_ausf_F2_shop;Pz.Kpfw. IV G (März 1942)
-germ_pzkpfw_IV_ausf_F2_0;Panzerkampfwagen IV (7,5 cm Kw.K. 40 (L/43)) Ausf. G (März 1942 Produktion)
+germ_pzkpfw_IV_ausf_F2_0;"Panzerkampfwagen IV (7,5 cm Kw.K. 40 (L/43)) Ausf. G
+März 1942 Produktion"
 germ_pzkpfw_IV_ausf_F2_1;Pz.Kpfw. IV G
 germ_pzkpfw_IV_ausf_F2_2;Pz. IV
 germ_pzkpfw_IV_ausf_G_shop;Pz.Kpfw. IV G (Sept. 1942)
-germ_pzkpfw_IV_ausf_G_0;Panzerkampfwagen IV (7,5 cm Kw.K. 40 (L/43)) Ausf. G (September 1942 Produktion)
+germ_pzkpfw_IV_ausf_G_0;"Panzerkampfwagen IV (7,5 cm Kw.K. 40 (L/43)) Ausf. G
+September 1942 Produktion"
 germ_pzkpfw_IV_ausf_G_1;Pz.Kpfw. IV G
 germ_pzkpfw_IV_ausf_G_2;Pz. IV
 germ_pzkpfw_IV_ausf_H_shop;Pz.Kpfw. IV H
-germ_pzkpfw_IV_ausf_H_0;Panzerkampfwagen IV (7,5 cm Kw.K. 40 (L/48)) Ausf. H (Oktober 1943 Produktion)
+germ_pzkpfw_IV_ausf_H_0;"Panzerkampfwagen IV (7,5 cm Kw.K. 40 (L/48)) Ausf. H
+Oktober 1943 Produktion"
 germ_pzkpfw_IV_ausf_H_1;Pz.Kpfw. IV H
 germ_pzkpfw_IV_ausf_H_2;Pz. IV
 germ_pzkpfw_IV_ausf_J_shop;Pz.Kpfw. IV J
-germ_pzkpfw_IV_ausf_J_0;Panzerkampfwagen IV (7,5 cm Kw.K. 40 (L/48)) Ausf. J (Januar 1945 Produktion)
+germ_pzkpfw_IV_ausf_J_0;"Panzerkampfwagen IV (7,5 cm Kw.K. 40 (L/48)) Ausf. J
+Januar 1945 Produktion"
 germ_pzkpfw_IV_ausf_J_1;Pz.Kpfw. IV J
 germ_pzkpfw_IV_ausf_J_2;Pz. IV
 germ_panzerbefelhswagen_IV_ausf_J_shop;Pz.Bfw. IV J
-germ_panzerbefelhswagen_IV_ausf_J_0;Panzerbefehlswagen IV (7,5 cm Kw.K. 40 (L/48)) Ausf. J (Dezember 1944 Produktion)
+germ_panzerbefelhswagen_IV_ausf_J_0;"Panzerbefehlswagen IV (7,5 cm Kw.K. 40 (L/48)) Ausf. J
+Dezember 1944 Produktion"
 germ_panzerbefelhswagen_IV_ausf_J_1;Pz.Bfw. IV J
 germ_panzerbefelhswagen_IV_ausf_J_2;Pz.Bfw. IV
 
@@ -159,35 +185,44 @@ germ_vk_3002m_0;VK 30.02 (M)
 germ_vk_3002m_1;VK 30.02
 germ_vk_3002m_2;VK 30.02
 germ_pzkpfw_V_ausf_d_panther_shop;Panther D
-germ_pzkpfw_V_ausf_d_panther_0;Panzerkampfwagen Panther (7,5 cm) Ausf. D (Mai 1943 Produktion)
+germ_pzkpfw_V_ausf_d_panther_0;"Panzerkampfwagen Panther (7,5 cm) Ausf. D
+Mai 1943 Produktion"
 germ_pzkpfw_V_ausf_d_panther_1;Panther D
 germ_pzkpfw_V_ausf_d_panther_2;Panther
 germ_pzkpfw_V_ausf_d_panther_tutorial_shop;Panther D
-germ_pzkpfw_V_ausf_d_panther_tutorial_0;Panzerkampfwagen Panther (7,5 cm) Ausf. D (Mai 1943 Produktion)
+germ_pzkpfw_V_ausf_d_panther_tutorial_0;"Panzerkampfwagen Panther (7,5 cm) Ausf. D
+Mai 1943 Produktion"
 germ_pzkpfw_V_ausf_d_panther_tutorial_1;Panther D
 germ_pzkpfw_V_ausf_d_panther_tutorial_2;Panther
 germ_pzkpfw_V_ausf_a_panther_shop;Panther A
-germ_pzkpfw_V_ausf_a_panther_0;Panzerkampfwagen Panther (7,5 cm) Ausf. A (März 1944 Produktion)
+germ_pzkpfw_V_ausf_a_panther_0;"Panzerkampfwagen Panther (7,5 cm) Ausf. A
+März 1944 Produktion"
 germ_pzkpfw_V_ausf_a_panther_1;Panther A
 germ_pzkpfw_V_ausf_a_panther_2;Panther
 germ_pzkpfw_V_ausf_g_panther_shop;Panther G
-germ_pzkpfw_V_ausf_g_panther_0;Panzerkampfwagen Panther (7,5 cm) Ausf. G (Januar 1945 Produktion)
+germ_pzkpfw_V_ausf_g_panther_0;"Panzerkampfwagen Panther (7,5 cm) Ausf. G
+Januar 1945 Produktion"
 germ_pzkpfw_V_ausf_g_panther_1;Panther G
 germ_pzkpfw_V_ausf_g_panther_2;Panther
 germ_pzkpfw_V_ersatz_m10_shop;Panther G (Pz.Br. 150)
-germ_pzkpfw_V_ersatz_m10_0;Panzerbefehlswagen Panther (7,5 cm) Ausf. G (September 1944 Produktion) (Panzerbrigade 150)
+germ_pzkpfw_V_ersatz_m10_0;"Panzerbefehlswagen Panther (7,5 cm) Ausf. G
+September 1944 Produktion
+Panzerbrigade 150"
 germ_pzkpfw_V_ersatz_m10_1;Panther G
 germ_pzkpfw_V_ersatz_m10_2;Panther
 germ_pzkpfw_V_ausf_f_panther_shop;Panther F
-germ_pzkpfw_V_ausf_f_panther_0;Panzerkampfwagen Panther (7,5 cm) Ausf. F (Juni 1945 Produktion)
+germ_pzkpfw_V_ausf_f_panther_0;"Panzerkampfwagen Panther (7,5 cm) Ausf. F
+Juni 1945 Produktion"
 germ_pzkpfw_V_ausf_f_panther_1;Panther F
 germ_pzkpfw_V_ausf_f_panther_2;Panther
 germ_panther_II_shop;Bfw. Panther II (Kw.K. 43)
-germ_panther_II_0;Panzerbefehlswagen Panther II (8,8 cm) mit Ausf. F Schmalturm
+germ_panther_II_0;"Panzerbefehlswagen Panther II (8,8 cm)
+Ausf. F Schmalturm"
 germ_panther_II_1;Bfw. Panther II (Kw.K. 43)
 germ_panther_II_2;Bfw. Panther II
 germ_panther_II_tutorial_shop;Bfw. Panther II (Kw.K. 43)
-germ_panther_II_tutorial_0;Panzerbefehlswagen Panther II (8,8 cm) mit Ausf. F Schmalturm
+germ_panther_II_tutorial_0;"Panzerbefehlswagen Panther II (8,8 cm)
+Ausf. F Schmalturm"
 germ_panther_II_tutorial_1;Bfw. Panther II (Kw.K. 43)
 germ_panther_II_tutorial_2;Bfw. Panther II
 
@@ -201,45 +236,55 @@ germ_panzerbefelhswagen_VI_P_0;Panzerkampfwagen VI (P) (8,8 cm) als Panzerbefehl
 germ_panzerbefelhswagen_VI_P_1;Pz.Kpfw. VI (P)
 germ_panzerbefelhswagen_VI_P_2;Pz.Kpfw. VI
 germ_pzkpfw_VI_ausf_h1_tiger_shop;Tiger I (März 1943)
-germ_pzkpfw_VI_ausf_h1_tiger_0;Panzerkampfwagen Tiger (8,8 cm) Ausf. E (März 1943 Produktion)
+germ_pzkpfw_VI_ausf_h1_tiger_0;"Panzerkampfwagen Tiger (8,8 cm) Ausf. E
+März 1943 Produktion"
 germ_pzkpfw_VI_ausf_h1_tiger_1;Tiger I
 germ_pzkpfw_VI_ausf_h1_tiger_2;Tiger I
 germ_pzkpfw_VI_ausf_h1_tiger_tutorial_shop;Tiger I (März 1943)
-germ_pzkpfw_VI_ausf_h1_tiger_tutorial_0;Panzerkampfwagen Tiger (8,8 cm) Ausf. E (März 1943 Produktion)
+germ_pzkpfw_VI_ausf_h1_tiger_tutorial_0;"Panzerkampfwagen Tiger (8,8 cm) Ausf. E
+März 1943 Produktion"
 germ_pzkpfw_VI_ausf_h1_tiger_tutorial_1;Tiger I
 germ_pzkpfw_VI_ausf_h1_tiger_tutorial_2;Tiger I
 germ_pzkpfw_VI_ausf_h1_tiger_east_shop;Tiger I (März 1943)
-germ_pzkpfw_VI_ausf_h1_tiger_east_0;Panzerkampfwagen Tiger (8,8 cm) Ausf. E (März 1943 Produktion)
+germ_pzkpfw_VI_ausf_h1_tiger_east_0;"Panzerkampfwagen Tiger (8,8 cm) Ausf. E
+März 1943 Produktion"
 germ_pzkpfw_VI_ausf_h1_tiger_east_1;Tiger I
 germ_pzkpfw_VI_ausf_h1_tiger_east_2;Tiger I
 germ_pzkpfw_VI_ausf_h1_tiger_west_shop;Tiger I (März 1943)
-germ_pzkpfw_VI_ausf_h1_tiger_west_0;Panzerkampfwagen Tiger (8,8 cm) Ausf. E (März 1943 Produktion)
+germ_pzkpfw_VI_ausf_h1_tiger_west_0;"Panzerkampfwagen Tiger (8,8 cm) Ausf. E
+März 1943 Produktion"
 germ_pzkpfw_VI_ausf_h1_tiger_west_1;Tiger I
 germ_pzkpfw_VI_ausf_h1_tiger_west_2;Tiger I
 germ_pzkpfw_VI_ausf_h1_tiger_animal_version_shop;Tiger I (f)
-germ_pzkpfw_VI_ausf_h1_tiger_animal_version_0;Panzerkampfwagen Tiger (8,8 cm) Ausf. E (Anfang 1943 Produktion)
+germ_pzkpfw_VI_ausf_h1_tiger_animal_version_0;"Panzerkampfwagen Tiger (8,8 cm) Ausf. E
+März 1943 Produktion"
 germ_pzkpfw_VI_ausf_h1_tiger_animal_version_1;Tiger I
 germ_pzkpfw_VI_ausf_h1_tiger_animal_version_2;Tiger I
 germ_pzkpfw_VI_ausf_e_tiger_shop;Tiger I (Apr. 1944)
-germ_pzkpfw_VI_ausf_e_tiger_0;Panzerkampfwagen Tiger (8,8 cm) Ausf. E (April 1944 Produktion)
+germ_pzkpfw_VI_ausf_e_tiger_0;"Panzerkampfwagen Tiger (8,8 cm) Ausf. E
+April 1944 Produktion"
 germ_pzkpfw_VI_ausf_e_tiger_1;Tiger I
 germ_pzkpfw_VI_ausf_e_tiger_2;Tiger I
 
 // TIGER II //
 germ_pzkpfw_VI_ausf_b_tiger_IIp_shop;Tiger II (1-47)
-germ_pzkpfw_VI_ausf_b_tiger_IIp_0;Panzerkampfwagen Tiger (8,8 cm) Ausf. B (Fgst.Nr. 1-47)
+germ_pzkpfw_VI_ausf_b_tiger_IIp_0;"Panzerkampfwagen Tiger (8,8 cm) Ausf. B
+Fgst.Nr. 1-47"
 germ_pzkpfw_VI_ausf_b_tiger_IIp_1;Tiger II
 germ_pzkpfw_VI_ausf_b_tiger_IIp_2;Tiger II
 germ_pzkpfw_VI_ausf_b_tiger_IIh_shop;Tiger II
-germ_pzkpfw_VI_ausf_b_tiger_IIh_0;Panzerkampfwagen Tiger (8,8 cm) Ausf. B (Dezember 1944 Umbau)
+germ_pzkpfw_VI_ausf_b_tiger_IIh_0;"Panzerkampfwagen Tiger (8,8 cm) Ausf. B
+Dezember 1944 Umbau"
 germ_pzkpfw_VI_ausf_b_tiger_IIh_1;Tiger II
 germ_pzkpfw_VI_ausf_b_tiger_IIh_2;Tiger II
 germ_pzkpfw_VI_ausf_b_tiger_IIh_sla_shop;Tiger II (Sla. 16)
-germ_pzkpfw_VI_ausf_b_tiger_IIh_sla_0;Panzerkampfwagen Tiger (8,8 cm) Ausf. B (Dezember 1944 Umbau) mit Simmering-Graz-Pauker Sla. 16
+germ_pzkpfw_VI_ausf_b_tiger_IIh_sla_0;"Panzerkampfwagen Tiger (8,8 cm) Ausf. B
+Dezember 1944 Umbau, Sla. 16"
 germ_pzkpfw_VI_ausf_b_tiger_IIh_sla_1;Tiger II
 germ_pzkpfw_VI_ausf_b_tiger_IIh_sla_2;Tiger II
 germ_pzkpfw_VI_ausf_b_tiger_IIh_kwk46_shop;Tiger II (Kw.K. L/68)
-germ_pzkpfw_VI_ausf_b_tiger_IIh_kwk46_0;Panzerkampfwagen Tiger (10,5 cm) Ausf. B (Juli 1945 Production)
+germ_pzkpfw_VI_ausf_b_tiger_IIh_kwk46_0;"Panzerkampfwagen Tiger (10,5 cm) Ausf. B
+Juli 1945 Production"
 germ_pzkpfw_VI_ausf_b_tiger_IIh_kwk46_1;Tiger II (Kw.K. L/68)
 germ_pzkpfw_VI_ausf_b_tiger_IIh_kwk46_2;Tiger II
 
@@ -249,45 +294,55 @@ germ_pzkpfw_e_100_0;Panzerkampfwagen E 100
 germ_pzkpfw_e_100_1;E 100
 germ_pzkpfw_e_100_2;E 100
 germ_pzkpfw_Maus_shop;Maus
-germ_pzkpfw_Maus_0;Panzerkampfwagen Maus Versuchs-Fahrgestell Nr. 2 mit Versuchs-Turm Nr. 1
+germ_pzkpfw_Maus_0;"Panzerkampfwagen Maus Versuchs-Fahrgestell Nr. 2
+Versuchs-Turm Nr. 1"
 germ_pzkpfw_Maus_1;Maus
 germ_pzkpfw_Maus_2;Maus
 
 // JAGDPANZER //
 germ_jgdpz_38t_shop;Jagdpanzer 38
-germ_jgdpz_38t_0;Panzerjäger 38 (September 1944 Produktion)
+germ_jgdpz_38t_0;"Panzerjäger 38
+September 1944 Produktion"
 germ_jgdpz_38t_1;Jagdpanzer 38
 germ_jgdpz_38t_2;Jagdpanzer 38
 germ_pz_IV_L70_A_shop;Pz. IV/70 (A)
-germ_pz_IV_L70_A_0;Panzerwagen 604/9 mit 7,5 cm Pa.K. 42 L/70 (September 1944 Produktion)
+germ_pz_IV_L70_A_0;"Panzerwagen 604/9 mit 7,5 cm Pa.K. 42 L/70
+September 1944 Produktion"
 germ_pz_IV_L70_A_1;Pz. IV/70 (A)
 germ_pz_IV_L70_A_2;Pz. IV/70
 germ_pz_IV_L70_shop;Pz. IV/70 (V)
-germ_pz_IV_L70_0;Panzerwagen 604/10 mit 7,5 cm Pa.K. 42 L/70 (Oktober 1944 Produktion)
+germ_pz_IV_L70_0;"Panzerwagen 604/10 mit 7,5 cm Pa.K. 42 L/70
+Oktober 1944 Produktion"
 germ_pz_IV_L70_1;Pz. IV/70 (V)
 germ_pz_IV_L70_2;Pz. IV/70
 germ_jgdpz_IV_L48_shop;Jagdpanzer IV
-germ_jgdpz_IV_L48_0;Panzerjäger IV (7,5 cm Pa.K. 39 L/48) Ausf. F (Januar 1944 Produktion)
+germ_jgdpz_IV_L48_0;"Panzerjäger IV (7,5 cm Pa.K. 39 L/48) Ausf. F
+Januar 1944 Produktion"
 germ_jgdpz_IV_L48_1;Jagdpanzer IV
 germ_jgdpz_IV_L48_2;Jagdpanzer IV
 germ_panzerjager_panther_shop;Jagdpanther G1
-germ_panzerjager_panther_0;Panzerjäger Panther (8,8 cm) Ausf. G1 (September 1944 Produktion)
+germ_panzerjager_panther_0;"Panzerjäger Panther (8,8 cm) Ausf. G1
+September 1944 Produktion"
 germ_panzerjager_panther_1;Jagdpanther
 germ_panzerjager_panther_2;Jagdpanther
 germ_panzerbefelhswagen_jagdpanther_shop;Bfw. Jagdpanther G1
-germ_panzerbefelhswagen_jagdpanther_0;Befehlswagen Panzerjäger Panther (8,8 cm) Ausf. G1 (Juli 1944 Produktion)
+germ_panzerbefelhswagen_jagdpanther_0;"Befehlswagen Panzerjäger Panther (8,8 cm) Ausf. G1
+Juli 1944 Produktion"
 germ_panzerbefelhswagen_jagdpanther_1;Bfw. Jagdpanther
 germ_panzerbefelhswagen_jagdpanther_2;Bfw. Jagdpanther
 germ_panzerjager_tiger_P_elefant_shop;Elefant
-germ_panzerjager_tiger_P_elefant_0;Panzerjäger Tiger (P) (8,8 cm Pa.K. 43/2 (L/71)) (März 1944 Umbau)
+germ_panzerjager_tiger_P_elefant_0;"Panzerjäger Tiger (P) (8,8 cm Pa.K. 43/2 (L/71))
+März 1944 Umbau"
 germ_panzerjager_tiger_P_elefant_1;Elefant
 germ_panzerjager_tiger_P_elefant_2;Elefant
 germ_panzerjager_tiger_P_ferdinand_shop;Ferdinand
-germ_panzerjager_tiger_P_ferdinand_0;Panzerjäger Tiger (P) (8,8 cm Pa.K. 43/2 (L/71)) (April 1943 Produktion)
+germ_panzerjager_tiger_P_ferdinand_0;"Panzerjäger Tiger (P) (8,8 cm Pa.K. 43/2 (L/71))
+April 1943 Produktion"
 germ_panzerjager_tiger_P_ferdinand_1;Ferdinand
 germ_panzerjager_tiger_P_ferdinand_2;Ferdinand
 germ_panzerjager_tiger_shop;Jagdtiger
-germ_panzerjager_tiger_0;Panzerjäger Tiger (12,8 cm Pa.K. 80 (L/55)) (Februar 1945 Produktion)
+germ_panzerjager_tiger_0;"Panzerjäger Tiger (12,8 cm Pa.K. 80 (L/55))
+Februar 1945 Produktion"
 germ_panzerjager_tiger_1;Jagdtiger
 germ_panzerjager_tiger_2;Jagdtiger
 
@@ -297,11 +352,13 @@ germ_pzkpfw_38t_Marder_III_ausf_H_0;Panzerjäger 38 für 7,5 cm Pa.K. 40/3 Ausf.
 germ_pzkpfw_38t_Marder_III_ausf_H_1;Panzerjäger 38 H
 germ_pzkpfw_38t_Marder_III_ausf_H_2;Panzerjäger 38
 germ_pzkpfw_38t_Marder_III_shop;Panzerjäger 38
-germ_pzkpfw_38t_Marder_III_0;Panzerjäger 38 für 7,62 cm Pa.K. 36 (2. Serie)
+germ_pzkpfw_38t_Marder_III_0;"Panzerjäger 38 für 7,62 cm Pa.K. 36
+2. Serie"
 germ_pzkpfw_38t_Marder_III_1;Panzerjäger 38
 germ_pzkpfw_38t_Marder_III_2;Panzerjäger 38
 germ_panzerjager_1_shop;Panzerjäger I
-germ_panzerjager_1_0;4,7 cm Pa.K.(t) (Sfl.) auf Pz.Kpfw. I ohne Turm (2. Serie)
+germ_panzerjager_1_0;"4,7 cm Pa.K.(t) (Sfl.) auf Pz.Kpfw. I ohne Turm
+2. Serie"
 germ_panzerjager_1_1;Panzerjäger I
 germ_panzerjager_1_2;Panzerjäger I
 germ_pzkpfw_II_ausf_H_shop;Pz.Sfl. Ic
@@ -309,7 +366,8 @@ germ_pzkpfw_II_ausf_H_0;5 cm Pa.K. 38 auf Pz.Kpfw. II Sonderfahrgestell 901
 germ_pzkpfw_II_ausf_H_1;Pz.Sfl. Ic
 germ_pzkpfw_II_ausf_H_2;Pz.Sfl. I
 germ_panzerjager_nashorn_shop;Nashorn
-germ_panzerjager_nashorn_0;8,8 cm Pa.K. 43/1 L/71 auf Fahrgestell Pz.Kpfw. III/IV (Sfl.) (Februar 1943 Produktion)
+germ_panzerjager_nashorn_0;"8,8 cm Pa.K. 43/1 L/71 auf Fahrgestell Pz.Kpfw. III/IV (Sfl.)
+Februar 1943 Produktion"
 germ_panzerjager_nashorn_1;Nashorn
 germ_panzerjager_nashorn_2;Nashorn
 germ_pzsfl_IVa_dickermax_shop;Pz.Sfl. IVa
@@ -327,19 +385,23 @@ germ_waffentrager_krupp_steyr_2;Waffenträger
 
 // STURMPANZER //
 germ_stug_III_ausf_A_shop;Sturmgeschütz A
-germ_stug_III_ausf_A_0;gepanzerte Selbstfahrlafette für Sturmgeschütz 7,5 cm K. Ausf. A (1. Serie)
+germ_stug_III_ausf_A_0;"gepanzerte Selbstfahrlafette für Sturmgeschütz 7,5 cm K. Ausf. A
+1. Serie"
 germ_stug_III_ausf_A_1;Sturmgeschütz A
 germ_stug_III_ausf_A_2;Sturmgeschütz
 germ_stug_III_ausf_F_shop;Sturmgeschütz F
-germ_stug_III_ausf_F_0;gepanzerte Selbstfahrlafette für Sturmgeschütz 40 Ausf. F (März 1942 Produktion)
+germ_stug_III_ausf_F_0;"gepanzerte Selbstfahrlafette für Sturmgeschütz 40 Ausf. F
+März 1942 Produktion"
 germ_stug_III_ausf_F_1;Sturmgeschütz F
 germ_stug_III_ausf_F_2;Sturmgeschütz
 germ_stug_III_ausf_G_shop;Sturmgeschütz G
-germ_stug_III_ausf_G_0;Sturmgeschütz III für 7,5 cm Stu.K. 40 L/48 Ausf. G (April 1943 Produktion)
+germ_stug_III_ausf_G_0;"Sturmgeschütz III für 7,5 cm Stu.K. 40 L/48 Ausf. G
+April 1943 Produktion"
 germ_stug_III_ausf_G_1;Sturmgeschütz G
 germ_stug_III_ausf_G_2;Sturmgeschütz
 germ_stuh_III_ausf_G_shop;Sturmhaubitze G
-germ_stuh_III_ausf_G_0;Sturmhaubitze mit 10,5 cm Stu.H. 42 Ausf. G (April 1943 Produktion)
+germ_stuh_III_ausf_G_0;"Sturmhaubitze mit 10,5 cm Stu.H. 42 Ausf. G
+April 1943 Produktion"
 germ_stuh_III_ausf_G_1;Sturmhaubitze G
 germ_stuh_III_ausf_G_2;Sturmhaubitze
 germ_sturmpanzer_IV_brummbar_shop;Sturmpanzer
@@ -361,27 +423,33 @@ germ_flakpanzer_38t_Gepard_0;Flakpanzer 38 auf Selbstfahrlafette 38 Ausf. L
 germ_flakpanzer_38t_Gepard_1;Flakpanzer 38
 germ_flakpanzer_38t_Gepard_2;Flakpanzer 38
 germ_flakpanzer_I_ausf_A_shop;Pz.Kpfw. I A (2 cm Fla.K. 38)
-germ_flakpanzer_I_ausf_A_0;Panzerkampfwagen I Ausf. A (Juni 1939 Umbau) ohne Aufbau als Munitions-Schlepper mit 2 cm Flugabwehrkanone 38 (L/65)
+germ_flakpanzer_I_ausf_A_0;"Panzerkampfwagen I Ausf. A ohne Aufbau als Munitions-Schlepper
+Juni 1939 Umbau, 2 cm Flugabwehrkanone 38 (L/65)"
 germ_flakpanzer_I_ausf_A_1;Pz.Kpfw. I A (2 cm Fla.K. 38)
 germ_flakpanzer_I_ausf_A_2;Pz. I
 germ_flakpanzer_IV_Wirbelwind_shop;Wirbelwind
-germ_flakpanzer_IV_Wirbelwind_0;Flakpanzerkampfwagen IV (2 cm Fla.K.-Vierling 38) auf Ausf. H Fahrgestell (Oktober 1943 Produktion)
+germ_flakpanzer_IV_Wirbelwind_0;"Flakpanzerkampfwagen IV (2 cm Fla.K.-Vierling 38)
+Ausf. H Fahrgestell, Oktober 1943 Produktion"
 germ_flakpanzer_IV_Wirbelwind_1;Wirbelwind
 germ_flakpanzer_IV_Wirbelwind_2;Wirbelwind
 germ_flakpanzer_IV_Ostwind_shop;Ostwind
-germ_flakpanzer_IV_Ostwind_0;Flakpanzerkampfwagen IV (3,7 cm Fla.K. 43) auf Ausf. J Fahrgestell (Januar 1945 Produktion)
+germ_flakpanzer_IV_Ostwind_0;"Flakpanzerkampfwagen IV (3,7 cm Fla.K. 43)
+Ausf. J Fahrgestell, Januar 1945 Produktion"
 germ_flakpanzer_IV_Ostwind_1;Ostwind
 germ_flakpanzer_IV_Ostwind_2;Ostwind
 germ_flakpanzer_IV_Ostwind_2_net_shop;Ostwind II
-germ_flakpanzer_IV_Ostwind_2_net_0;Flakpanzerkampfwagen IV (3,7 cm Fla.K.-Zwilling 43) auf Ausf. J Fahrgestell (Januar 1945 Produktion)
+germ_flakpanzer_IV_Ostwind_2_net_0;"Flakpanzerkampfwagen IV (3,7 cm Fla.K.-Zwilling 43)
+Ausf. J Fahrgestell, Januar 1945 Produktion"
 germ_flakpanzer_IV_Ostwind_2_net_1;Ostwind II
 germ_flakpanzer_IV_Ostwind_2_net_2;Ostwind
 germ_flakpanzer_IV_Ostwind_2_shop;Ostwind II
-germ_flakpanzer_IV_Ostwind_2_0;Flakpanzerkampfwagen IV (3,7 cm Fla.K.-Zwilling 43) auf Ausf. J Fahrgestell (Januar 1945 Produktion)
+germ_flakpanzer_IV_Ostwind_2_0;"Flakpanzerkampfwagen IV (3,7 cm Fla.K.-Zwilling 43)
+Ausf. J Fahrgestell, Januar 1945 Produktion"
 germ_flakpanzer_IV_Ostwind_2_1;Ostwind II
 germ_flakpanzer_IV_Ostwind_2_2;Ostwind
 germ_flakpanzer_zerstorer_45_shop;Zerstörer 45
-germ_flakpanzer_zerstorer_45_0;Flakpanzerkampfwagen IV (3 cm Fla.K.-Vierling) auf Ausf. J Fahrgestell (Oktober 1944 Produktion)
+germ_flakpanzer_zerstorer_45_0;"Flakpanzerkampfwagen IV (3 cm Fla.K.-Vierling)
+Ausf. J Fahrgestell, Oktober 1944 Produktion"
 germ_flakpanzer_zerstorer_45_1;Zerstörer 45
 germ_flakpanzer_zerstorer_45_2;Zerstörer 45
 germ_flakpanzer_IV_Kugelblitz_shop;Kugelblitz
@@ -389,11 +457,12 @@ germ_flakpanzer_IV_Kugelblitz_0;leichter Flakpanzer IV mit 3 cm M.K. 103 als Zwi
 germ_flakpanzer_IV_Kugelblitz_1;Kugelblitz
 germ_flakpanzer_IV_Kugelblitz_2;Kugelblitz
 germ_vsw_flak_41_shop;Pz.Sfl. IVc
-germ_vsw_flak_41_0;8,8 cm Fla.K. auf Sonderfahrgestell (Panzerselbstfahrlafette IVc)
+germ_vsw_flak_41_0;8,8 cm Fla.K. auf Sonderfahrgestell
 germ_vsw_flak_41_1;Pz.Sfl. IVc
 germ_vsw_flak_41_2;Pz.Sfl. IV
 germ_flakpanzer_V_Coelian_shop;Gerät 554
-germ_flakpanzer_V_Coelian_0;3,7 cm Fla.K.-Zwilling auf Panther Ausf. G Fahrgestell (Januar 1945 Produktion)
+germ_flakpanzer_V_Coelian_0;"3,7 cm Fla.K.-Zwilling auf Panther Ausf. G Fahrgestell
+Januar 1945 Produktion"
 germ_flakpanzer_V_Coelian_1;Gerät 554
 germ_flakpanzer_V_Coelian_2;Gerät 554
 germ_sdkfz_9_flak37_shop;8,8 cm Fla.K. 37 Sfl.
@@ -413,11 +482,13 @@ germ_sturmpanzer_II_2;s.I.G. 33B Sfl.
 
 // PANZERSPAHWAGEN //
 germ_sdkfz_221_s_pz_b_41_shop;le.Pz.Spw. (s.Pz.B. 41)
-germ_sdkfz_221_s_pz_b_41_0;leichter Panzerspähwagen (2,8 cm s.Pz.B. 41) (3. Serie, März 1942 Umbau)
+germ_sdkfz_221_s_pz_b_41_0;"leichter Panzerspähwagen (2,8 cm s.Pz.B. 41)
+3. Serie, März 1942 Umbau"
 germ_sdkfz_221_s_pz_b_41_1;le.Pz.Spw. (s.Pz.B. 41)
 germ_sdkfz_221_s_pz_b_41_2;le.Pz.Spw.
 germ_sdkfz_222_shop;le.Pz.Spw. (2 cm) B
-germ_sdkfz_222_0;leichter Panzerspähwagen (2 cm) Ausf. B (5. Serie) (Mai 1942 Produktion)
+germ_sdkfz_222_0;"leichter Panzerspähwagen (2 cm) Ausf. B
+5. Serie, Mai 1942 Produktion"
 germ_sdkfz_222_1;le.Pz.Spw. (2 cm) B
 germ_sdkfz_222_2;le.Pz.Spw.
 germ_sdkfz_234_1_shop;s.Pz.Spw. (2 cm)
@@ -433,7 +504,8 @@ germ_sdkfz_234_2_td_0;schwerer Panzerspähwagen (5 cm) (Twitch Drop)
 germ_sdkfz_234_2_td_1;s.Pz.Spw. (5 cm)
 germ_sdkfz_234_2_td_2;s.Pz.Spw.
 germ_sdkfz_234_2_mod_shop;s.Pz.Spw. (5 cm) (Pz.Aufkl.Abt. 20)
-germ_sdkfz_234_2_mod_0;schwerer Panzerspähwagen (5 cm) (Stab, Panzer-Aufklärungs-Abteilung 20)
+germ_sdkfz_234_2_mod_0;"schwerer Panzerspähwagen (5 cm)
+Stab, Panzer-Aufklärungs-Abteilung 20"
 germ_sdkfz_234_2_mod_1;s.Pz.Spw. (5 cm)
 germ_sdkfz_234_2_mod_2;s.Pz.Spw.
 germ_sdkfz_234_3_shop;s.Pz.Spw. (7,5 cm)
@@ -455,7 +527,8 @@ germ_sdkfz_251_10_0;mittlerer Schützenpanzerwagen (3,7 cm Pa.K.) Ausf. D
 germ_sdkfz_251_10_1;m.Spw. (3,7 cm Pa.K.) D
 germ_sdkfz_251_10_2;m.Spw.
 germ_sdkfz_251_21_shop;m.Spw. (Drilling) D
-germ_sdkfz_251_21_0;mittlerer Schützenpanzerwagen (Drilling M.G. 151 S) Ausf. D (Oktober 1944 Produktion)
+germ_sdkfz_251_21_0;"mittlerer Schützenpanzerwagen (Drilling M.G. 151 S) Ausf. D
+Oktober 1944 Produktion"
 germ_sdkfz_251_21_1;m.Spw. (Drilling) D
 germ_sdkfz_251_21_2;m.Spw.
 germ_sdkfz_251_22_shop;m.Spw. (7,5 cm Pa.K.) D
@@ -466,11 +539,13 @@ germ_sdkfz_251_22_2;m.Spw.
 
 // BEUTEPANZER //
 germ_amd_35_kwk39_shop;Pz.Spw. 178 (5 cm Pa.K. 39)
-germ_amd_35_kwk39_0;Panzerspähwagen Panhard 178 mit 5 cm Panzerabwehrkanone 39 (L/60)
+germ_amd_35_kwk39_0;"Panzerspähwagen Panhard 178
+5 cm Panzerabwehrkanone 39 (L/60)"
 germ_amd_35_kwk39_1;Pz.Spw. 178 (5 cm Pa.K. 39)
 germ_amd_35_kwk39_2;Pz.Spw. 178
 germ_amd_35_kwk_shop;Pz.Spw. 178 (5 cm Kw.K. 38)
-germ_amd_35_kwk_0;Panzerspähwagen Panhard 178 mit 5 cm Kampfwagenkanone 38 (L/42)
+germ_amd_35_kwk_0;"Panzerspähwagen Panhard 178
+5 cm Kampfwagenkanone 38 (L/42)"
 germ_amd_35_kwk_1;Pz.Spw. 178 (5 cm Kw.K. 38)
 germ_amd_35_kwk_2;Pz.Spw. 178
 germ_t_34_747_shop;Pz.Kpfw. T 43
@@ -478,7 +553,8 @@ germ_t_34_747_0;29-Tonner Panzerkampfwagen T 34 neuer Art (T 43)
 germ_t_34_747_1;Pz.Kpfw. T 43
 germ_t_34_747_2;Pz. T 43
 germ_kv_1_kwk_40_shop;Pz.Kpfw. KW I C (Kw.K. 40)
-germ_kv_1_kwk_40_0;44-Tonner Panzerkampfwagen KW I Ausf. C mit 7,5 cm Kw.K. 40 L/48
+germ_kv_1_kwk_40_0;"44-Tonner Panzerkampfwagen KW I Ausf. C
+7,5 cm Kw.K. 40 L/48"
 germ_kv_1_kwk_40_1;Pz.Kpfw. KW I C (Kw.K. 40)
 germ_kv_1_kwk_40_2;Pz. KW I
 germ_kv_2_754r_shop;Pz.Kpfw. KW II

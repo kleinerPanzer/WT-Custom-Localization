@@ -1,6 +1,7 @@
 <ID|readonly|noverify>;<NewLanguage>
 it_44m_zrinyi_1_shop;Zrínyi 75 (Sorozatvető)
-it_44m_zrinyi_1_0;7,5 cm 44 M. Zrínyi 75 rohamágyű (43 M. sorozatvető)
+it_44m_zrinyi_1_0;"7,5 cm 44 M. Zrínyi 75 rohamágyű
+43 M. sorozatvető"
 it_44m_zrinyi_1_1;Zrínyi 75
 it_44m_zrinyi_1_2;Zrínyi
 it_40_43m_zrinyi_2_shop;Zrínyi 105
@@ -32,6 +33,7 @@ it_39m_csaba_1;Csaba
 it_39m_csaba_2;Csaba
 
 it_pzkpfw_VI_ausf_e_tiger_shop;◐ Tiger I
-it_pzkpfw_VI_ausf_e_tiger_0;◐ Panzerkampfwagen Tiger (8,8 cm) Ausf. E (April 1944 Produktion)
+it_pzkpfw_VI_ausf_e_tiger_0;"Panzerkampfwagen Tiger (8,8 cm) Ausf. E
+April 1944 Produktion"
 it_pzkpfw_VI_ausf_e_tiger_1;◐ Tiger I
 it_pzkpfw_VI_ausf_e_tiger_2;Tiger I

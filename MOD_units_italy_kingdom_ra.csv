@@ -20,17 +20,17 @@ shop/group/mc_205_group;C.205 I / C.205 III
 
 // MESSERSCHMITT //
 bf-109g-14as_shop;⛨ Bf 109 G-14/AS
-bf-109g-14as_0;⛨ Bf 109 G-14/AS
+bf-109g-14as_0;Bf 109 G-14/AS
 bf-109g-14as_1;⛨ Bf 109 G
 bf-109g-14as_2;Bf 109
 
 // JUNKERS //
 ju-87d-3_italy_shop;⛨ Ju 87 D-3
-ju-87d-3_italy_0;⛨ Ju 87 D-3
+ju-87d-3_italy_0;Ju 87 D-3
 ju-87d-3_italy_1;⛨ Ju 87 D
 ju-87d-3_italy_2;Ju 87
 ju-87r-2_italy_shop;⛨ Ju 87 R-2
-ju-87r-2_italy_0;⛨ Ju 87 R-2
+ju-87r-2_italy_0;Ju 87 R-2
 ju-87r-2_italy_1;⛨ Ju 87 R
 ju-87r-2_italy_2;Ju 87
 
@@ -41,7 +41,7 @@ mc200_serie3_italy_0;C.200 serie III
 mc200_serie3_italy_1;C.200
 mc200_serie3_italy_2;C.200
 mc200_serie3_shop;▀ C.200 III
-mc200_serie3_0;▀ C.200 serie III
+mc200_serie3_0;C.200 serie III
 mc200_serie3_1;▀ C.200
 mc200_serie3__2;C.200
 mc200_serie7_italy_shop;C.200 VII
@@ -49,7 +49,7 @@ mc200_serie7_italy_0;C.200 serie VII
 mc200_serie7_italy_1;C.200
 mc200_serie7_italy_2;C.200
 mc200_serie7_shop;▀ C.200 VII
-mc200_serie7_0;▀ C.200 serie VII
+mc200_serie7_0;C.200 serie VII
 mc200_serie7_1;▀ C.200
 mc200_serie7__2;C.200
 
@@ -62,7 +62,7 @@ mc-202_italy_0;C.202 serie VII
 mc-202_italy_1;C.202
 mc-202_italy_2;C.202
 mc-202_shop;▀ C.202 VII
-mc-202_0;▀ C.202 serie VII
+mc-202_0;C.202 serie VII
 mc-202_1;▀ C.202
 mc-202__2;C.202
 mc-202_d_shop;C.202 D
@@ -89,7 +89,8 @@ cr_32_0;CR.32
 cr_32_1;CR.32
 cr_32_2;CR.32
 cr_32_bis_shop;CR.32 bis (4º St.)
-cr_32_bis_0;CR.32 bis (4º Stormo)
+cr_32_bis_0;"CR.32 bis
+4º Stormo"
 cr_32_bis_1;CR.32 bis
 cr_32_bis_2;CR.32
 cr_32_quater_shop;CR.32 quater
@@ -102,15 +103,17 @@ fiat_cr42_italy_0;CR.42 bis
 fiat_cr42_italy_1;CR.42 bis
 fiat_cr42_italy_2;CR.42
 fiat_cr42_shop;▀ CR.42 bis
-fiat_cr42_0;▀ CR.42 bis
+fiat_cr42_0;CR.42 bis
 fiat_cr42_1;▀ CR.42 bis
 fiat_cr42__2;CR.42
 fiat_cr42_marcolin_italy_shop;CR.42 CN (377ª Sq.Aut.)
-fiat_cr42_marcolin_italy_0;CR.42 CN (Luciano Marcolin, 377ª Squadriglia Autonoma)
+fiat_cr42_marcolin_italy_0;"CR.42 CN
+Luciano Marcolin, 377ª Squadriglia Autonoma"
 fiat_cr42_marcolin_italy_1;CR.42 CN
 fiat_cr42_marcolin_italy_2;CR.42
 fiat_cr42_marcolin_shop;▀ CR.42 CN (377ª Sq.Aut.)
-fiat_cr42_marcolin_0;▀ CR.42 CN (Luciano Marcolin, 377ª Squadriglia Autonoma)
+fiat_cr42_marcolin_0;"CR.42 CN
+Luciano Marcolin, 377ª Squadriglia Autonoma"
 fiat_cr42_marcolin_1;▀ CR.42 CN
 fiat_cr42_marcolin__2;CR.42
 
@@ -119,7 +122,7 @@ fiat_g50_seria2_italy_0;G.50 serie II
 fiat_g50_seria2_italy_1;G.50
 fiat_g50_seria2_italy_2;G.50
 fiat_g50_seria2_shop;▀ G.50 II
-fiat_g50_seria2_0;▀ G.50 serie II
+fiat_g50_seria2_0;G.50 serie II
 fiat_g50_seria2_1;▀ G.50
 fiat_g50_seria2__2;G.50
 fiat_g50_seria7as_italy_shop;G.50 VII AS
@@ -127,7 +130,7 @@ fiat_g50_seria7as_italy_0;G.50 serie VII AS
 fiat_g50_seria7as_italy_1;G.50 AS
 fiat_g50_seria7as_italy_2;G.50
 fiat_g50_seria7as_shop;▀ G.50 VII AS
-fiat_g50_seria7as_0;▀ G.50 AS serie VII AS
+fiat_g50_seria7as_0;G.50 AS serie VII AS
 fiat_g50_seria7as_1;▀ G.50
 fiat_g50_seria7as__2;G.50
 
@@ -176,56 +179,57 @@ ro_57_quadriarma_2;Ro.57
 
 // SAVOIA-MARCHETTI //
 sm_79_1936_italy_shop;SM.79 I
-sm_79_1936_italy_0;SM.79 serie I (1936)
+sm_79_1936_italy_0;SM.79 serie I
 sm_79_1936_italy_1;SM.79
 sm_79_1936_italy_2;SM.79
 sm_79_1936_shop;▀ SM.79 I
-sm_79_1936_0;▀ SM.79 serie I (1936)
+sm_79_1936_0;SM.79 serie I
 sm_79_1936_1;▀ SM.79
 sm_79_1936__2;SM.79
 sm_79_1937_italy_shop;SM.79 IV
-sm_79_1937_italy_0;SM.79 serie IV (1937)
+sm_79_1937_italy_0;SM.79 serie IV
 sm_79_1937_italy_1;SM.79
 sm_79_1937_italy_2;SM.79
 sm_79_1937_shop;▀ SM.79 IV
-sm_79_1937_0;▀ SM.79 serie IV (1937)
+sm_79_1937_0;SM.79 serie IV
 sm_79_1937_1;▀ SM.79
 sm_79_1937__2;SM.79
 sm_79_1939_italy_shop;SM.79 VIII
-sm_79_1939_italy_0;SM.79 serie VIII (1939)
+sm_79_1939_italy_0;SM.79 serie VIII
 sm_79_1939_italy_1;SM.79
 sm_79_1939_italy_2;SM.79
 sm_79_1939_shop;▀ SM.79 VIII
-sm_79_1939_0;▀ SM.79 serie VIII (1939)
+sm_79_1939_0;SM.79 serie VIII
 sm_79_1939_1;▀ SM.79
 sm_79_1939__2;SM.79
 sm_79_1941_italy_shop;SM.79 AS
-sm_79_1941_italy_0;SM.79 AS (1941)
+sm_79_1941_italy_0;SM.79 AS
 sm_79_1941_italy_1;SM.79
 sm_79_1941_italy_2;SM.79
 sm_79_1941_shop;▀ SM.79 AS
-sm_79_1941_0;▀ SM.79 AS (1941)
+sm_79_1941_0;SM.79 AS
 sm_79_1941_1;▀ SM.79
 sm_79_1941__2;SM.79
 sm_79_1942_italy_shop;SM.79 bis N
-sm_79_1942_italy_0;SM.79 bis N (1942)
+sm_79_1942_italy_0;SM.79 bis N
 sm_79_1942_italy_1;SM.79
 sm_79_1942_italy_2;SM.79
 sm_79_1942_shop;▀S M.79 bis N
-sm_79_1942_0;▀ SM.79 bis N (1942)
+sm_79_1942_0;SM.79 bis N
 sm_79_1942_1;▀ SM.79
 sm_79_1942__2;SM.79
 sm_79_1943_italy_shop;SM.79 bis TM
-sm_79_1943_italy_0;SM.79 bis TM (1943)
+sm_79_1943_italy_0;SM.79 bis TM
 sm_79_1943_italy_1;SM.79
 sm_79_1943_italy_2;SM.79
 sm_79_1943_shop;▀ SM.79 bis TM
-sm_79_1943_0;▀ SM.79 bis TM (1943)
+sm_79_1943_0;SM.79 bis TM
 sm_79_1943_1;▀ SM.79
 sm_79_1943__2;SM.79
 
 s_81_ar125_shop;SM.81 (AR 125)
-s_81_ar125_0;SM.81 (Alfa-Romeo 125)
+s_81_ar125_0;"SM.81
+Alfa-Romeo 125"
 s_81_ar125_1;SM.81
 s_81_ar125_2;SM.81
 
@@ -241,16 +245,19 @@ sm_92_2;SM.92
 
 // BREDA //
 ba_65_a80_shop;Ba.65 (A.80)
-ba_65_a80_0;Ba.65 (A.80)
+ba_65_a80_0;"Ba.65
+A.80"
 ba_65_a80_1;Ba.65
 ba_65_a80_2;Ba.65
 ba_65_k14_l_shop;Ba.65 (K-14) (L)
-ba_65_k14_l_0;Ba.65 (K-14) (L)
+ba_65_k14_l_0;"Ba.65 (L)
+K-14"
 ba_65_k14_l_1;Ba.65
 ba_65_k14_l_2;Ba.65
 
 breda_88_shop;Ba.88 (P.XI)
-breda_88_0;Ba.88 (P.XI)
+breda_88_0;"Ba.88
+P.XI"
 breda_88_1;Ba.88
 breda_88_2;Ba.88
 
@@ -281,7 +288,8 @@ re_2000_ga_0;Re.2000 serie III GA
 re_2000_ga_1;Re.2000 GA
 re_2000_ga_2;Re.2000
 re_2000_ga_ep_shop;Re.2000 III GA (377ª Sq.)
-re_2000_ga_ep_0;Re.2000 serie III GA (377ª Squadriglia Autonoma Caccia Terrestre)
+re_2000_ga_ep_0;"Re.2000 serie III GA
+377ª Squadriglia Autonoma Caccia Terrestre"
 re_2000_ga_ep_1;Re.2000 GA
 re_2000_ga_ep_2;Re.2000
 
@@ -290,7 +298,8 @@ re_2001_serie1_0;Re.2001 serie I
 re_2001_serie1_1;Re.2001
 re_2001_serie1_2;Re.2001
 re_2001_serie1_ep_shop;Re.2001 I (22º Gr.Aut.)
-re_2001_serie1_ep_0;Re.2001 serie I (22º Gruppo Autonomo Caccia Terrestre)
+re_2001_serie1_ep_0;"Re.2001 serie I
+22º Gruppo Autonomo Caccia Terrestre"
 re_2001_serie1_ep_1;Re.2001
 re_2001_serie1_ep_2;Re.2001
 re_2001_cb_shop;Re.2001 I CB
@@ -312,7 +321,8 @@ re_2005_serie0_0;Re.2005 serie 0
 re_2005_serie0_1;Re.2005
 re_2005_serie0_2;Re.2005
 re_2005_vdm_shop;Re.2005 (MM.495)
-re_2005_vdm_0;Re.2005 (MM.495) (VDM Luftschrauben 9-12087A)
+re_2005_vdm_0;"Re.2005
+MM.495, VDM Luftschrauben 9-12087A"
 re_2005_vdm_1;Re.2005
 re_2005_vdm_2;Re.2005
 

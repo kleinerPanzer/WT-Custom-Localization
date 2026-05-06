@@ -10,12 +10,14 @@ germ_cruiser_elbing_2;Pillau-Klasse
 // GROSSER KREUZER //
 
 germ_battlecruiser_von_der_tann_shop;Von der Tann
-germ_battlecruiser_von_der_tann_0;Von der Tann-Klasse Großer Kreuzer, Von der Tann (1914)
+germ_battlecruiser_von_der_tann_0;"Von der Tann-Klasse Großer Kreuzer, Von der Tann
+1914"
 germ_battlecruiser_von_der_tann_1;Von der Tann
 germ_battlecruiser_von_der_tann_2;Von der Tann-Klasse
 
 germ_battlecruiser_derfflinger_shop;Derfflinger
-germ_battlecruiser_derfflinger_0;Derfflinger-Klasse Großer Kreuzer, Derfflinger (1917)
+germ_battlecruiser_derfflinger_0;"Derfflinger-Klasse Großer Kreuzer, Derfflinger
+1917"
 germ_battlecruiser_derfflinger_1;Derfflinger
 germ_battlecruiser_derfflinger_2;Derfflinger-Klasse
 
@@ -32,25 +34,30 @@ germ_battlecruiser_ersatz_yorck_2;Ersatz Yorck
 // GROSSLINENSCHIFF //
 
 germ_battleship_westfalen_shop;Westfalen
-germ_battleship_westfalen_0;Nassau-Klasse Großlinienschiff, Westfalen (1916)
+germ_battleship_westfalen_0;"Nassau-Klasse Großlinienschiff, Westfalen
+1916"
 germ_battleship_westfalen_1;Westfalen
 germ_battleship_westfalen_2;Nassau-Klasse
 germ_battleship_nassau_shop;Nassau
-germ_battleship_nassau_0;Nassau-Klasse Großlinienschiff, Nassau (1910)
+germ_battleship_nassau_0;"Nassau-Klasse Großlinienschiff, Nassau
+1910"
 germ_battleship_nassau_1;Nassau
 germ_battleship_nassau_2;Nassau-Klasse
 
 germ_battleship_helgoland_shop;Helgoland
-germ_battleship_helgoland_0;Helgoland-Klasse Großlinienschiff, Helgoland (1911)
+germ_battleship_helgoland_0;"Helgoland-Klasse Großlinienschiff, Helgoland
+1911"
 germ_battleship_helgoland_1;Helgoland
 germ_battleship_helgoland_2;Helgoland-Klasse
 germ_battleship_ostfriesland_shop;Ostfriesland
-germ_battleship_ostfriesland_0;Helgoland-Klasse Großlinienschiff, Ostfriesland (1917)
+germ_battleship_ostfriesland_0;"Helgoland-Klasse Großlinienschiff, Ostfriesland
+1917"
 germ_battleship_ostfriesland_1;Ostfriesland
 germ_battleship_ostfriesland_2;Helgoland-Klasse
 
 germ_battleship_kaiser_shop;Kaiser
-germ_battleship_kaiser_0;Kaiser-Klasse Großlinienschiff, Kaiser (1911)
+germ_battleship_kaiser_0;"Kaiser-Klasse Großlinienschiff, Kaiser
+1911"
 germ_battleship_kaiser_1;Kaiser
 germ_battleship_kaiser_2;Kaiser-Klasse
 
@@ -68,6 +75,7 @@ germ_battleship_baden_1;Baden
 germ_battleship_baden_2;Bayern-Klasse
 
 germ_battleship_konig_shop;König
-germ_battleship_konig_0;König-Klasse Großlinienschiff König (1916)
+germ_battleship_konig_0;"König-Klasse Großlinienschiff König
+1916"
 germ_battleship_konig_1;König
 germ_battleship_konig_2;König-Klasse

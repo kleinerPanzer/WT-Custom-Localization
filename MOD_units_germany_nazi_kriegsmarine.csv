@@ -104,7 +104,8 @@ germ_rboot_r301_2;Minenräumboot Typ 1942
 
 // MINENLEGER //
 germ_minelayer_drache_shop;Drache
-germ_minelayer_drache_0;Minenleger Drache (1942)
+germ_minelayer_drache_0;"Minenleger Drache
+1942"
 germ_minelayer_drache_1;Drache
 germ_minelayer_drache_2;Drache
 
@@ -121,7 +122,8 @@ germ_escort_typem1943_2;Minensuchboot Typ 1943
 
 // FLUGSICHERUNGSSCHIFF //
 germ_rdm242_shop;Krischan der Große
-germ_rdm242_0;Flugsicherungsschiff Krischan der Große (1943)
+germ_rdm242_0;"Flugsicherungsschiff Krischan der Große
+1943"
 germ_rdm242_1;Krischan der Große
 germ_rdm242_2;Krischan der Große
 
@@ -149,7 +151,8 @@ germ_kanonenboot_k2_2;Kanonenboot Typ 1937
 
 // TORPEDOBOOT //
 germ_destroyer_class1924_jaguar1941_shop;Wolf (WL)
-germ_destroyer_class1924_jaguar1941_0;Torpedoboot Typ 1924 WL Wolf (1938)
+germ_destroyer_class1924_jaguar1941_0;"Torpedoboot Typ 1924 WL Wolf
+1938"
 germ_destroyer_class1924_jaguar1941_1;Wolf
 germ_destroyer_class1924_jaguar1941_2;Torpedoboot Typ 1924
 
@@ -168,27 +171,32 @@ germ_destroyer_class1939_t31_2;Flottentorpedoboot Typ 1939
 // ZERSTORER //
 
 germ_destroyer_class1934a_1940_shop;Erich Giese (Z 12)
-germ_destroyer_class1934a_1940_0;Zerstörer Typ 1934A Z 12 Erich Giese (1940)
+germ_destroyer_class1934a_1940_0;"Zerstörer Typ 1934A Z 12 Erich Giese
+1940"
 germ_destroyer_class1934a_1940_1;Erich Giese
 germ_destroyer_class1934a_1940_2;Zerstörer Typ 1934
 germ_destroyer_class1934a_1940_EC_0;Erich Giese (Z 12)
 germ_destroyer_class1934a_1940_EC_1;Erich Giese
 germ_destroyer_class1934a_1940_EC_2;Zerstörer Typ 1934
 germ_destroyer_class1934a_1944_shop;Erich Steinbrinck (Z 15)
-germ_destroyer_class1934a_1944_0;Zerstörer Typ 1934A Z 15 Erich Steinbrinck (1945)
+germ_destroyer_class1934a_1944_0;"Zerstörer Typ 1934A Z 15 Erich Steinbrinck
+1945"
 germ_destroyer_class1934a_1944_1;Erich Steinbrinck
 germ_destroyer_class1934a_1944_2;Zerstörer Typ 1934
 
 germ_destroyer_class1936_z20_karlgalster_shop;Karl Galster (Z 20)
-germ_destroyer_class1936_z20_karlgalster_0;Zerstörer Typ 1936 Z 20 Karl Galster (1945)
+germ_destroyer_class1936_z20_karlgalster_0;"Zerstörer Typ 1936 Z 20 Karl Galster
+1945"
 germ_destroyer_class1936_z20_karlgalster_1;Karl Galster
 germ_destroyer_class1936_z20_karlgalster_2;Zerstörer Typ 1936
 germ_destroyer_class1936_z20_shop;Anton Schmidtt (Z 22)
-germ_destroyer_class1936_z20_0;Zerstörer Typ 1936 Z 22 Anton Schmidtt (1940)
+germ_destroyer_class1936_z20_0;"Zerstörer Typ 1936 Z 22 Anton Schmidtt
+1940"
 germ_destroyer_class1936_z20_1;Anton Schmidtt
 germ_destroyer_class1936_z20_2;Zerstörer Typ 1936
 germ_destroyer_class1936_z20_tutorial_shop;Anton Schmidtt (Z 22)
-germ_destroyer_class1936_z20_tutorial_0;Zerstörer Typ 1936 Z 22 Anton Schmidtt (1940)
+germ_destroyer_class1936_z20_tutorial_0;"Zerstörer Typ 1936 Z 22 Anton Schmidtt
+1940"
 germ_destroyer_class1936_z20_tutorial_1;Anton Schmidtt
 germ_destroyer_class1936_z20_tutorial_2;Zerstörer Typ 1936
 germ_destroyer_class1936_z20_EC_0;Anton Schmidtt (Z 22)
@@ -196,7 +204,8 @@ germ_destroyer_class1936_z20_EC_1;Anton Schmidtt
 germ_destroyer_class1936_z20_EC_2;Zerstörer Typ 1936
 
 germ_destroyer_class1936a_z25_shop;Z 25
-germ_destroyer_class1936a_z25_0;Zerstörer Typ 1936A Z 25 (1945)
+germ_destroyer_class1936a_z25_0;"Zerstörer Typ 1936A Z 25
+1945"
 germ_destroyer_class1936a_z25_1;Z 25
 germ_destroyer_class1936a_z25_2;Zerstörer Typ 1936
 
@@ -231,7 +240,8 @@ germ_destroyer_class1944_z52_2;Zerstörer Typ 1944
 
 // KREUZER //
 germ_cruiser_emden_1944_shop;Emden
-germ_cruiser_emden_1944_0;Emden-Klasse Kreuzer, Emden (1944)
+germ_cruiser_emden_1944_0;"Emden-Klasse Kreuzer, Emden
+1944"
 germ_cruiser_emden_1944_1;Emden
 germ_cruiser_emden_1944_2;Emden-Klasse
 germ_cruiser_emden_1944_EC_0;Emden
@@ -239,23 +249,27 @@ germ_cruiser_emden_1944_EC_1;Emden
 germ_cruiser_emden_1944_EC_2;Emden-Klasse
 
 germ_cruiser_koln_shop;Köln
-germ_cruiser_koln_0;Königsberg-Klasse Kreuzer, Köln (1938)
+germ_cruiser_koln_0;"Königsberg-Klasse Kreuzer, Köln
+1938"
 germ_cruiser_koln_1;Köln
 germ_cruiser_koln_2;Königsberg-Klasse
 germ_cruiser_koln_EC_0;Köln
 germ_cruiser_koln_EC_1;Köln
 germ_cruiser_koln_EC_2;Königsberg-Klasse
 germ_cruiser_karlsruhe_shop;Karlsruhe
-germ_cruiser_karlsruhe_0;Königsberg-Klasse Kreuzer, Karlsruhe (1940)
+germ_cruiser_karlsruhe_0;"Königsberg-Klasse Kreuzer, Karlsruhe
+1940"
 germ_cruiser_karlsruhe_1;Karlsruhe
 germ_cruiser_karlsruhe_2;Königsberg-Klasse
 
 germ_cruiser_leipzig_shop;Leipzig
-germ_cruiser_leipzig_0;Leipzig-Klasse Kreuzer, Leipzig (1944)
+germ_cruiser_leipzig_0;"Leipzig-Klasse Kreuzer, Leipzig
+1944"
 germ_cruiser_leipzig_1;Leipzig
 germ_cruiser_leipzig_2;Leipzig-Klasse
 germ_cruiser_nurnberg_shop;Nürnberg
-germ_cruiser_nurnberg_0;Leipzig-Klasse Kreuzer, Nürnberg (1944)
+germ_cruiser_nurnberg_0;"Leipzig-Klasse Kreuzer, Nürnberg
+1944"
 germ_cruiser_nurnberg_1;Nürnberg
 germ_cruiser_nurnberg_2;Leipzig-Klasse
 germ_cruiser_nurnberg_EC_0;Nürnberg
@@ -264,37 +278,44 @@ germ_cruiser_nurnberg_EC_2;Leipzig-Klasse
 
 // SCHWERER KREUZER //
 germ_cruiser_admiral_graf_spee_shop;Admiral Graf Spee
-germ_cruiser_admiral_graf_spee_0;Deutschland-Klasse schwerer Kreuzer, Admiral Graf Spee (1939)
+germ_cruiser_admiral_graf_spee_0;"Deutschland-Klasse schwerer Kreuzer, Admiral Graf Spee
+1939"
 germ_cruiser_admiral_graf_spee_1;Admiral Graf Spee
 germ_cruiser_admiral_graf_spee_2;Deutschland-Klasse
 
 germ_cruiser_admiral_hipper_shop;Admiral Hipper
-germ_cruiser_admiral_hipper_0;Admiral Hipper-Klasse schwerer Kreuzer, Admiral Hipper (1942)
+germ_cruiser_admiral_hipper_0;"Admiral Hipper-Klasse schwerer Kreuzer, Admiral Hipper
+1942"
 germ_cruiser_admiral_hipper_1;Admiral Hipper
 germ_cruiser_admiral_hipper_2;Admiral Hipper-Klasse
 germ_cruiser_prinz_eugen_shop;Prinz Eugen
-germ_cruiser_prinz_eugen_0;Admiral Hipper-Klasse schwerer Kreuzer, Prinz Eugen (1945)
+germ_cruiser_prinz_eugen_0;"Admiral Hipper-Klasse schwerer Kreuzer, Prinz Eugen
+1945"
 germ_cruiser_prinz_eugen_1;Prinz Eugen
 germ_cruiser_prinz_eugen_2;Admiral Hipper-Klasse
 
 // SCHLACHTSCHIFF //
 germ_battleship_scharnhorst_shop;Scharnhorst
-germ_battleship_scharnhorst_0;Scharnhorst-Klasse Schlachtschiff, Scharnhorst (1943)
+germ_battleship_scharnhorst_0;"Scharnhorst-Klasse Schlachtschiff, Scharnhorst
+1943"
 germ_battleship_scharnhorst_1;Scharnhorst
 germ_battleship_scharnhorst_2;Scharnhorst-Klasse
 germ_battleship_gneisenau_380mm_shop;Gneisenau
-germ_battleship_gneisenau_380mm_0;Scharnhorst-Klasse Schlachtschiff, Gneisenau (1945)
+germ_battleship_gneisenau_380mm_0;"Scharnhorst-Klasse Schlachtschiff, Gneisenau
+1945"
 germ_battleship_gneisenau_380mm_1;Gneisenau
 germ_battleship_gneisenau_380mm_2;Scharnhorst-Klasse
 
 germ_battleship_bismarck_shop;Bismarck
-germ_battleship_bismarck_0;Bismarck-Klasse Schlatschiff, Bismarck (1941)
+germ_battleship_bismarck_0;"Bismarck-Klasse Schlatschiff, Bismarck
+1941"
 germ_battleship_bismarck_1;Bismarck
 germ_battleship_bismarck_2;Bismarck-Klasse
 
 // U-BOOTE //
 germ_sub_type_7_shop;U 995
-germ_sub_type_7_0;Unterseeboot Typ VII C/41 U 995 (1945)
+germ_sub_type_7_0;"Unterseeboot Typ VII C/41 U 995
+1945"
 germ_sub_type_7_1;U 995
 germ_sub_type_7_2;U-Boot Typ VII
 

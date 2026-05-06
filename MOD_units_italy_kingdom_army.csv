@@ -52,7 +52,8 @@ it_semovente_m43_75_34_0;Semovente da 75/34 M 43
 it_semovente_m43_75_34_1;Semovente 75/34 M 43
 it_semovente_m43_75_34_2;Semovente 75/34
 it_semovente_m43_75_bersaglieri_shop;Semovente 75/34 M 43 (III Rgt.Bers.)
-it_semovente_m43_75_bersaglieri_0;Semovente da 75/34 M 43 (III Reggimenti Bersaglieri di Alessandria)
+it_semovente_m43_75_bersaglieri_0;"Semovente da 75/34 M 43
+III Reggimenti Bersaglieri di Alessandria"
 it_semovente_m43_75_bersaglieri_1;Semovente 75/34 M 43
 it_semovente_m43_75_bersaglieri_2;Semovente 75/34
 
@@ -71,7 +72,8 @@ it_semovente_m43_105_0;Semovente da 105/25 M 43
 it_semovente_m43_105_1;Semovente 105/25 M 43
 it_semovente_m43_105_2;Semovente 105/25
 it_semovente_m43_105_leoncello_shop;Semovente 105/25 M 43 (Gr.Cor.Leon.)
-it_semovente_m43_105_leoncello_0;Semovente da 105/25 M 43 (Gruppo corazzato “Leoncello”)
+it_semovente_m43_105_leoncello_0;"Semovente da 105/25 M 43
+Gruppo corazzato “Leoncello”"
 it_semovente_m43_105_leoncello_1;Semovente 105/25 M 43
 it_semovente_m43_105_leoncello_2;Semovente 105/25
 
@@ -85,7 +87,8 @@ it_l6_0;Carro armato leggero 40
 it_l6_1;L 40
 it_l6_2;L 40
 it_l6_leone_shop;L 40 (31º Rgt.Car.)
-it_l6_leone_0;Carro armato leggero 40 (31º Reggimento carri)
+it_l6_leone_0;"Carro armato leggero 40
+31º Reggimento carri"
 it_l6_leone_1;L 40
 it_l6_leone_2;L 40
 
@@ -112,7 +115,8 @@ it_m14_41_0;Carro armato medio 41
 it_m14_41_1;M 41
 it_m14_41_2;M 41
 it_m14_41_47_40_shop;M 41 (47/40)
-it_m14_41_47_40_0;Carro armato medio 41 (47/40)
+it_m14_41_47_40_0;"Carro armato medio 41
+47/40"
 it_m14_41_47_40_1;M 41
 it_m14_41_47_40_2;M 41
 
@@ -126,7 +130,8 @@ it_p_40_0;Carro armato pesante 40
 it_p_40_1;P 40
 it_p_40_2;P 40
 it_p_26_40_shop;P 40 (Gr.Cor.Leon.)
-it_p_26_40_0;Carro armato pesante 40 (Gruppo corazzato “Leoncello”)
+it_p_26_40_0;"Carro armato pesante 40
+Gruppo corazzato “Leoncello”"
 it_p_26_40_1;P 40
 it_p_26_40_2;P 40
 
@@ -136,15 +141,18 @@ it_sahariano_1;Celere Sahariano
 it_sahariano_2;Celere Sahariano
 
 it_pzkpfw_III_ausf_N_shop;⛨ Pz.Kpfw. III N
-it_pzkpfw_III_ausf_N_0;⛨ Panzerkampfwagen III (7,5 cm Kw.K. 37 (L/24)) Ausf. N (Mai 1943 Umbau)
+it_pzkpfw_III_ausf_N_0;"Panzerkampfwagen III (7,5 cm Kw.K. 37 (L/24)) Ausf. N
+Mai 1943 Umbau"
 it_pzkpfw_III_ausf_N_1;⛨ Pz.Kpfw. III N
 it_pzkpfw_III_ausf_N_2;Pz.Kpfw. III
 it_pzkpfw_IV_ausf_G_shop;⛨ Pz.Kpfw. IV G
-it_pzkpfw_IV_ausf_G_0;⛨ Panzerkampfwagen IV (7,5 cm Kw.K. 40 (L/48)) Ausf. G (April 1943 Umbau)
+it_pzkpfw_IV_ausf_G_0;"Panzerkampfwagen IV (7,5 cm Kw.K. 40 (L/48)) Ausf. G
+April 1943 Umbau"
 it_pzkpfw_IV_ausf_G_1;⛨ Pz.Kpfw. IV G
 it_pzkpfw_IV_ausf_G_2;Pz.kpfw. IV
 it_stug_III_ausf_G_shop;⛨ Sturmgeschütz G
-it_stug_III_ausf_G_0;⛨ Sturmgeschütz III für 7,5 cm Stu.K. 40 L/48 Ausf. G (April 1943 Produktion)
+it_stug_III_ausf_G_0;"Sturmgeschütz III für 7,5 cm Stu.K. 40 L/48 Ausf. G
+April 1943 Produktion"
 it_stug_III_ausf_G_1;⛨ Sturmgeschütz G
 it_stug_III_ausf_G_2;Sturmgeschütz G
 

@@ -22,7 +22,8 @@ sw_vickers_mk_e_45_0;9-tonnin panssarivaunu T 26 E
 sw_vickers_mk_e_45_1;9 psv. T 26 E
 sw_vickers_mk_e_45_2;T 26
 sw_vickers_mk_e_37_shop;9 psv. Vickers (psv.k./36)
-sw_vickers_mk_e_37_0;9-tonnin panssarivaunu Vickers-Armstrongs 6-Ton Tank Alternate B (panssarivaunukanuuna m/36)
+sw_vickers_mk_e_37_0;"9-tonnin panssarivaunu Vickers
+panssarivaunukanuuna m/36"
 sw_vickers_mk_e_37_1;9 psv. Vickers (psv.k./36)
 sw_vickers_mk_e_37_2;Vickers
 
@@ -112,15 +113,18 @@ sw_itpsv_90_1;it.psv. 90
 sw_itpsv_90_2;it.psv. 90
 
 fr_crotale_ng_shop;☩ XA-181 (it.o. 90 M)
-fr_crotale_ng_0;☩ Panssariajoneuvoalustalle XA-181 (ilmatorjuntaohjus m/90 M)
+fr_crotale_ng_0;"Panssariajoneuvoalustalle XA-181
+ilmatorjuntaohjus m/90 M"
 fr_crotale_ng_1;☩ XA-181 (it.o. 90 M)
 fr_crotale_ng_2;XA-181
 sw_crotale_ng_shop;XA-181 (it.o. 90 M)
-sw_crotale_ng_0;Panssariajoneuvoalustalle XA-181 (ilmatorjuntaohjus m/90 M)
+sw_crotale_ng_0;"Panssariajoneuvoalustalle XA-181
+ilmatorjuntaohjus m/90 M"
 sw_crotale_ng_1;XA-181 (it.o. 90 M)
 sw_crotale_ng_2;XA-181
 
 sw_patria_amv_ctcv_105_shop;AMV HWP (CT-CV)
-sw_patria_amv_ctcv_105_0;Advanced Modular Vehicle Heavy Weapons Platform (CT-CV 105HP)
+sw_patria_amv_ctcv_105_0;"Advanced Modular Vehicle Heavy Weapons Platform
+CT-CV 105HP"
 sw_patria_amv_ctcv_105_1;AMV HWP (CT-CV)
 sw_patria_amv_ctcv_105_2;AMV

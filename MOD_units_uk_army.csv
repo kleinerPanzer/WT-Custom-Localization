@@ -179,7 +179,7 @@ uk_mk1_grant_0;Tank, Medium, Grant Mk. I (January 1942)
 uk_mk1_grant_1;Grant Mk. I
 uk_mk1_grant_2;Grant
 us_mk1_grant_shop;▃ Grant Mk. I
-us_mk1_grant_0;▃ Tank, Medium, Grant Mk. I (January 1942)
+us_mk1_grant_0;Tank, Medium, Grant Mk. I (January 1942)
 us_mk1_grant_1;▃ Grant Mk. I
 us_mk1_grant_2;Grant
 
@@ -329,12 +329,12 @@ uk_fv4005_2;Centaur
 
 // HOWITZER //
 uk_m44_shop;▄ M44
-uk_m44_0;▄ Howitzer, Medium, Self-Propelled, Full-Tracked: 155-mm, M44
+uk_m44_0;Howitzer, Medium, Self-Propelled, Full-Tracked: 155-mm, M44
 uk_m44_1;▄ M44
 uk_m44_2;M44
 
 uk_m109a1_shop;▄ M109A1
-uk_m109a1_0;▄ Howitzer, Medium, Self-Propelled: 155-mm, M109A1
+uk_m109a1_0;Howitzer, Medium, Self-Propelled: 155-mm, M109A1
 uk_m109a1_1;▄ M109A1
 uk_m109a1_2;M109
 

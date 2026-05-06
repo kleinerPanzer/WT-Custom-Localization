@@ -26,7 +26,8 @@ it_ms473_2a_art_2;Classe MS 472
 
 // MOTOSCAFI //
 it_mas441_shop;MAS 441
-it_mas441_0;Motoscafo antisommergibile classe MAS 438, Baglietto tipo 1934 antisom, MAS 441 (1942)
+it_mas441_0;"Motoscafo antisommergibile classe MAS 438, Baglietto tipo 1934 antisom, MAS 441
+1942"
 it_mas441_1;MAS 441
 it_mas441_2;Classe MAS 438
 
@@ -65,7 +66,8 @@ it_cassiopea_p401_2;Classe Cassiopea
 
 // CORVETTA //
 it_gabbiano_class_shop;Gabbiano (C 11)
-it_gabbiano_class_0;Corvetta cacciasommergibili classe Gabbiano, Gabbiano (C 11) (1946)
+it_gabbiano_class_0;"Corvetta cacciasommergibili classe Gabbiano, Gabbiano (C 11)
+1946"
 it_gabbiano_class_1;Gabbiano
 it_gabbiano_class_2;Classe Gabbiano
 
@@ -77,34 +79,41 @@ it_ciclone_class_ghibli_2;Classe Orsa
 
 // ESPLORATORE //
 it_destroyer_leone_class_shop;Leone (LE)
-it_destroyer_leone_class_0;Esploratore leggero classe Leone, Leone (LE) (1938)
+it_destroyer_leone_class_0;"Esploratore leggero classe Leone, Leone (LE)
+1938"
 it_destroyer_leone_class_1;Leone
 it_destroyer_leone_class_2;Classe Leone
 it_destroyer_leone_class_tigre_shop;Tigre (TI)
-it_destroyer_leone_class_tigre_0;Esploratore leggero classe Leone, Tigre (TI) (1931)
+it_destroyer_leone_class_tigre_0;"Esploratore leggero classe Leone, Tigre (TI)
+1931"
 it_destroyer_leone_class_tigre_1;Tigre
 it_destroyer_leone_class_tigre_2;Classe Leone
-it_destroyer_navigatori_class_verazzano_shop;Giovanni di Verazzano
-it_destroyer_navigatori_class_verazzano_0;Esploratore leggero classe Navigatori, Giovanni di Verazzano (DV) (1940)
-it_destroyer_navigatori_class_verazzano_1;Giovanni di Verazzano
+it_destroyer_navigatori_class_verazzano_shop;Giovanni da Verazzano (DV)
+it_destroyer_navigatori_class_verazzano_0;"Esploratore leggero classe Navigatori, Giovanni da Verazzano (DV)
+1940"
+it_destroyer_navigatori_class_verazzano_1;Giovanni da Verazzano
 it_destroyer_navigatori_class_verazzano_2;Classe Navigatori
 it_destroyer_vifor_class_aquila_shop;Aquila (AQ)
-it_destroyer_vifor_class_aquila_0;Esploratore leggero classe Aquila, Aquila (AQ) (1917)
+it_destroyer_vifor_class_aquila_0;"Esploratore leggero classe Aquila, Aquila (AQ)
+1917"
 it_destroyer_vifor_class_aquila_1;Aquila
 it_destroyer_vifor_class_aquila_2;Classe Vifor
 
 // CACCIATORPEDINIERE //
 
 it_destroyer_soldati_serie1_shop;Aviere (AV)
-it_destroyer_soldati_serie1_0;Cacciatorpediniere classe Soldati 1ª serie, Aviere (AV) (1942)
+it_destroyer_soldati_serie1_0;"Cacciatorpediniere classe Soldati 1ª serie, Aviere (AV)
+1942"
 it_destroyer_soldati_serie1_1;Aviere
 it_destroyer_soldati_serie1_2;Classe Soldati
 it_destroyer_soldati_serie1_geniere_shop;Geniere (GE)
-it_destroyer_soldati_serie1_geniere_0;Cacciatorpediniere classe Soldati 1ª serie, Geniere (GE) (1942)
+it_destroyer_soldati_serie1_geniere_0;"Cacciatorpediniere classe Soldati 1ª serie, Geniere (GE)
+1942"
 it_destroyer_soldati_serie1_geniere_1;Geniere
 it_destroyer_soldati_serie1_geniere_2;Classe Soldati
 it_destroyer_soldati_serie1_camicianera_shop;Camicia Nera (CN)
-it_destroyer_soldati_serie1_camicianera_0;Cacciatorpediniere classe Soldati 1ª serie, Camicia Nera (CN) (1942)
+it_destroyer_soldati_serie1_camicianera_0;"Cacciatorpediniere classe Soldati 1ª serie, Camicia Nera (CN)
+1942"
 it_destroyer_soldati_serie1_camicianera_1;Camicia Nera
 it_destroyer_soldati_serie1_camicianera_2;Classe Soldati
 
@@ -122,7 +131,8 @@ it_destroyer_dardo_0;Cacciatorpediniere classe Dardo 1ª serie, Dardo (DR)
 it_destroyer_dardo_1;Dardo
 it_destroyer_dardo_2;Classe Dardo
 it_destroyer_saetta_shop;Saetta (SA)
-it_destroyer_saetta_0;Cacciatorpediniere classe Dardo 1ª serie, Saetta (SA) (1943)
+it_destroyer_saetta_0;"Cacciatorpediniere classe Dardo 1ª serie, Saetta (SA)
+1943"
 it_destroyer_saetta_1;Saetta
 it_destroyer_saetta_2;Classe Dardo
 
@@ -132,14 +142,16 @@ it_destroyer_comandanti_medaglie_doro_1;Comandante Margottini
 it_destroyer_comandanti_medaglie_doro_2;Classe Comandanti Medaglie d'Oro
 
 it_destroyer_oriani_class_gioberti_shop;Vincenzo Gioberti (GB)
-it_destroyer_oriani_class_gioberti_0;Cacciatorpediniere classe Alfredo Oriani, Vincenzo Gioberti (GB) (1942)
+it_destroyer_oriani_class_gioberti_0;"Cacciatorpediniere classe Alfredo Oriani, Vincenzo Gioberti (GB)
+1942"
 it_destroyer_oriani_class_gioberti_1;Vincenzo Gioberti
 it_destroyer_oriani_class_gioberti_2;Classe Alfredo Oriani
 
 // INCROCIATORI LEGGERO //
 
 it_cruiser_bartolomeocolleoni_1940_shop;Bartolomeo Colleoni
-it_cruiser_bartolomeocolleoni_1940_0;Incrociatore leggero classe Alberto di Guissano, Bartolomeo Colleoni (1940)
+it_cruiser_bartolomeocolleoni_1940_0;"Incrociatore leggero classe Alberto di Guissano, Bartolomeo Colleoni
+1940"
 it_cruiser_bartolomeocolleoni_1940_1;Bartolomeo Colleoni
 it_cruiser_bartolomeocolleoni_1940_2;Classe Alberto di Guissano
 
@@ -152,17 +164,20 @@ it_cruiser_capitani_romani_class_attilio_regolo_EC_1;Attilio Regolo
 it_cruiser_capitani_romani_class_attilio_regolo_EC_2;Classe Capitani Romani
 
 it_cruiser_eugenio_di_savoia_shop;Eugenio di Savoia
-it_cruiser_eugenio_di_savoia_0;Incrociatore leggero classe Emanuele Filiberto Duca d'Aosta, Eugenio di Savoia (1943)
+it_cruiser_eugenio_di_savoia_0;"Incrociatore leggero classe Emanuele Filiberto Duca d'Aosta, Eugenio di Savoia
+1943"
 it_cruiser_eugenio_di_savoia_1;Eugenio di Savoia
 it_cruiser_eugenio_di_savoia_2;Classe Emanuele Filiberto Duca d'Aosta
 
 it_cruiser_garibaldi_class_abruzzi_shop;Luigi di Savoia Duca degli Abruzzi
-it_cruiser_garibaldi_class_abruzzi_0;Incrociatore leggero classe Luigi di Savoia Duca degli Abruzzi, Luigi di Savoia Duca degli Abruzzi (1943)
+it_cruiser_garibaldi_class_abruzzi_0;"Incrociatore leggero classe Luigi di Savoia Duca degli Abruzzi, Luigi di Savoia Duca degli Abruzzi
+1943"
 it_cruiser_garibaldi_class_abruzzi_1;Luigi di Savoia Duca degli Abruzzi
 it_cruiser_garibaldi_class_abruzzi_2;Classe Luigi di Savoia Duca degli Abruzzi
 
 it_cruiser_cadorna_class_cadorna_shop;Luigi Cadorna
-it_cruiser_cadorna_class_cadorna_0;Incrociatore leggero classe Luigi Cadorna, Luigi Cadorna (1944)
+it_cruiser_cadorna_class_cadorna_0;"Incrociatore leggero classe Luigi Cadorna, Luigi Cadorna
+1944"
 it_cruiser_cadorna_class_cadorna_1;Luigi Cadorna
 it_cruiser_cadorna_class_cadorna_2;Classe Luigi Cadorna
 it_cruiser_cadorna_class_diaz_shop;Armando Diaz
@@ -192,14 +207,16 @@ it_cruiser_zara_class_pola_1;Pola
 it_cruiser_zara_class_pola_2;Classe Zara
 
 it_cruiser_bolzano_shop;Bolzano
-it_cruiser_bolzano_0;Incrociatore pesante Bolzano (1937)
+it_cruiser_bolzano_0;"Incrociatore pesante Bolzano
+1937"
 it_cruiser_bolzano_1;Bolzano
 it_cruiser_bolzano_2;Bolzano
 
 // INCROCIATORI TORPEDINIERE //
 
 it_cruiser_montecuccoli_shop;Raimondo Montecuccoli
-it_cruiser_montecuccoli_0;Incrociatore torpediniere classe Raimondo Montecuccoli, Raimondo Montecuccoli (1943)
+it_cruiser_montecuccoli_0;"Incrociatore torpediniere classe Raimondo Montecuccoli, Raimondo Montecuccoli
+1943"
 it_cruiser_montecuccoli_1;Raimondo Montecuccoli
 it_cruiser_montecuccoli_2;Classe Raimondo Montecuccoli
 it_cruiser_montecuccoli_EC_0;Raimondo Montecuccoli
@@ -214,21 +231,25 @@ it_cruiser_etna_class_2;Classe Etna
 
 // NAVE DA BATTAGLIA //
 it_battleship_dante_alighieri_shop;Dante Alighieri
-it_battleship_dante_alighieri_0;Nave da battaglia Dante Alighieri (1923)
+it_battleship_dante_alighieri_0;"Nave da battaglia Dante Alighieri
+1923"
 it_battleship_dante_alighieri_1;Dante Alighieri
 it_battleship_dante_alighieri_2;Dante Alighieri
 
 it_battleship_andrea_doria_shop;Andrea Doria
-it_battleship_andrea_doria_0;Nave da battaglia classe Caio Duilio, Andrea Doria (1925)
+it_battleship_andrea_doria_0;"Nave da battaglia classe Caio Duilio, Andrea Doria
+1925"
 it_battleship_andrea_doria_1;Andrea Doria
 it_battleship_andrea_doria_2;Classe Caio Duilio
 it_battleship_caio_duilio_shop;Caio Duilio
-it_battleship_caio_duilio_0;Nave da battaglia classe Caio Duilio, Caio Duilio (1942)
+it_battleship_caio_duilio_0;"Nave da battaglia classe Caio Duilio, Caio Duilio
+1942"
 it_battleship_caio_duilio_1;Caio Duilio
 it_battleship_caio_duilio_2;Classe Caio Duilio
 
 it_battleship_conte_di_cavour_shop;Conte di Cavour
-it_battleship_conte_di_cavour_0;Nave da battaglia classe Conte di Cavour, Conte di Cavour (1944)
+it_battleship_conte_di_cavour_0;"Nave da battaglia classe Conte di Cavour, Conte di Cavour
+1944"
 it_battleship_conte_di_cavour_1;Conte di Cavour
 it_battleship_conte_di_cavour_2;Classe Conte di Cavour
 it_battleship_leonardo_da_vinci_shop;Leonardo da Vinci
@@ -243,10 +264,12 @@ it_battleship_francesco_caracciolo_2;Classe Francesco Caracciolo
 
 // CORAZZATA //
 it_battleship_littorio_class_roma_shop;Roma
-it_battleship_littorio_class_roma_0;Corazzata classe Littorio, Roma (1943)
+it_battleship_littorio_class_roma_0;"Corazzata classe Littorio, Roma
+1943"
 it_battleship_littorio_class_roma_1;Roma
 it_battleship_littorio_class_roma_2;Classe Littorio
 it_battleship_littorio_class_littorio_shop;Italia
-it_battleship_littorio_class_littorio_0;Corazzata classe Littorio, Italia (1943)
+it_battleship_littorio_class_littorio_0;"Corazzata classe Littorio, Italia
+1943"
 it_battleship_littorio_class_littorio_1;Italia
 it_battleship_littorio_class_littorio_2;Classe Littorio

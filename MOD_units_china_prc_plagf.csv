@@ -7,15 +7,19 @@ shop/group/cn_tor_hq_group;␗ 9А331-1 / ADK17发射车
 
 // T-34-85 //
 cn_t_34_85_d_5t_shop;特34 (1944)
-cn_t_34_85_d_5t_0;特34中型坦克 (1944年型)
+cn_t_34_85_d_5t_0;"特34中型坦克
+1944年型"
 cn_t_34_85_d_5t_1;特34
 cn_t_34_85_d_5t_2;特34
 cn_t_34_85_zis_53_no215_shop;特34 (1944) (坦克2师)
-cn_t_34_85_zis_53_no215_0;特34中型坦克 (1944年型) (坦克2师)
+cn_t_34_85_zis_53_no215_0;"特34中型坦克
+1944年型
+坦克2师"
 cn_t_34_85_zis_53_no215_1;特34
 cn_t_34_85_zis_53_no215_2;特34
 cn_type_58_shop;特34 (1960)
-cn_type_58_0;特34中型坦克 (1960年型)
+cn_type_58_0;"特34中型坦克
+1960年型"
 cn_type_58_1;特34
 cn_type_58_2;特34
 
@@ -25,11 +29,13 @@ cn_is_2_1943_0;斯2重型坦克
 cn_is_2_1943_1;斯2
 cn_is_2_1943_2;斯2
 cn_is_2_1943_no402_shop;斯2 (坦克3师)
-cn_is_2_1943_no402_0;斯2重型坦克 (坦克3师)
+cn_is_2_1943_no402_0;"斯2重型坦克
+坦克3师"
 cn_is_2_1943_no402_1;斯2
 cn_is_2_1943_no402_2;斯2
 cn_is_2_1944_shop;斯2 (直鼻)
-cn_is_2_1944_0;斯2重型坦克 (直鼻)
+cn_is_2_1944_0;"斯2重型坦克
+直鼻"
 cn_is_2_1944_1;斯2
 cn_is_2_1944_2;斯2
 
@@ -58,7 +64,7 @@ cn_su_100_1945_2;100自行火炮
 
 // Tor //
 cn_tor_m1_shop;␗ 9А331-1
-cn_tor_m1_0;␗ Боевая машина 9А331-1
+cn_tor_m1_0;Боевая машина 9А331-1
 cn_tor_m1_1;␗ 9А331-1
 cn_tor_m1_2;9А331
 
@@ -73,7 +79,7 @@ shop/group/cn_76_211_group;211 (四期/A) / ␗ ПТ-76 (1951)
 
 // Type 62 //
 ussr_type_62_shop;▂ ZTQ62
-ussr_type_62_0;▂ ZTQ1962式轻型坦克
+ussr_type_62_0;ZTQ1962式轻型坦克
 ussr_type_62_1;▂ ZTQ62
 ussr_type_62_2;ZTQ62
 cn_type_62_shop;ZTQ62
@@ -87,7 +93,8 @@ cn_type_63_I_0;ZTS1963式水陆坦克
 cn_type_63_I_1;ZTS63
 cn_type_63_I_2;ZTS63
 cn_zts_63_1980_shop;ZTS63 (1980)
-cn_zts_63_1980_0;ZTS1963式水陆坦克 (1980年型)
+cn_zts_63_1980_0;"ZTS1963式水陆坦克
+1980年型"
 cn_zts_63_1980_1;ZTS63
 cn_zts_63_1980_2;ZTS63
 
@@ -127,7 +134,8 @@ cn_ztz_96_0;ZTZ1996式主战坦克
 cn_ztz_96_1;ZTZ96
 cn_ztz_96_2;ZTZ96
 cn_ztz_96a_prot_shop;ZTZ96改 (一期)
-cn_ztz_96a_prot_0;ZTZ1996式主战坦克改 (一期实验车)
+cn_ztz_96a_prot_0;"ZTZ1996式主战坦克改
+一期实验车"
 cn_ztz_96a_prot_1;ZTZ96改
 cn_ztz_96a_prot_2;ZTZ96
 cn_ztz_96a_shop;ZTZ96A
@@ -139,7 +147,8 @@ cn_ztz_96a_race_0;ZTZ1996A式主战坦克
 cn_ztz_96a_race_1;ZTZ96A
 cn_ztz_96a_race_2;ZTZ96
 cn_ztz_96b_shop;ZTZ96B
-cn_ztz_96b_0;ZTZ1996B式主战坦克 (2016年型)
+cn_ztz_96b_0;"ZTZ1996B式主战坦克
+2016年型"
 cn_ztz_96b_1;ZTZ96B
 cn_ztz_96b_2;ZTZ96
 
@@ -149,13 +158,15 @@ cn_ztz_99_w_0;ZTZ1999式指挥坦克
 cn_ztz_99_w_1;ZTZ99
 cn_ztz_99_w_2;ZTZ99
 cn_ztz_99a_shop;ZTZ99A
-cn_ztz_99a_0;ZTZ1999A式指挥坦克 (2015年型)
+cn_ztz_99a_0;"ZTZ1999A式指挥坦克
+2015年型"
 cn_ztz_99a_1;ZTZ99A
 cn_ztz_99a_2;ZTZ99A
 
 // Type 86 //
 cn_type_86_shop;ZBD86
-cn_type_86_0;ZBD1986式履带步兵战车 (2022年型)
+cn_type_86_0;"ZBD1986式履带步兵战车
+2022年型"
 cn_type_86_1;ZBD86
 cn_type_86_2;ZBD86
 
@@ -167,7 +178,8 @@ cn_zbd_04a_2;ZBD04
 
 // Type 63 //
 cn_zsd63_pg87_shop;ZSD63 (PG87)
-cn_zsd63_pg87_0;ZSD1963式履带装甲输送车 (PG87式双管25毫米高射机关炮)
+cn_zsd63_pg87_0;"ZSD1963式履带装甲输送车
+PG87式双管25毫米高射机关炮"
 cn_zsd63_pg87_1;ZSD63 (PG87)
 cn_zsd63_pg87_2;ZSD63
 
@@ -245,7 +257,8 @@ cn_object_122tm_1;1221
 cn_object_122tm_2;122
 
 cn_wz_141_shop;141 (一期)
-cn_wz_141_0;141装甲空降战车 (一期实验车)
+cn_wz_141_0;"141装甲空降战车
+一期实验车"
 cn_wz_141_1;141
 cn_wz_141_2;141
 
@@ -265,27 +278,31 @@ cn_wz_1001_2;WZ123
 
 // OTHER //
 us_lvt_4_zis_2_shop;▃ LVT(A)(4) (ЗиС-2)
-us_lvt_4_zis_2_0;▃ LVT(A)(4)水陆坦克 (ЗиС-2)
+us_lvt_4_zis_2_0;"LVT(A)(4)水陆坦克
+ЗиС-2"
 us_lvt_4_zis_2_1;▃ LVT(A)(4) (ЗиС-2)
 us_lvt_4_zis_2_2;LVT
 cn_lvt_4_zis_2_shop;␗ LVT(A)(4) (ЗиС-2)
-cn_lvt_4_zis_2_0;␗ LVT(A)(4)水陆坦克 (ЗиС-2)
+cn_lvt_4_zis_2_0;"LVT(A)(4)水陆坦克
+ЗиС-2"
 cn_lvt_4_zis_2_1;␗ LVT(A)(4) (ЗиС-2)
 cn_lvt_4_zis_2_2;LVT
 
 cn_t_62_shop;␗ Т-62
-cn_t_62_0;␗ Т-62中型坦克
+cn_t_62_0;Т-62中型坦克
 cn_t_62_1;␗ Т-62
 cn_t_62_2;Т-62
 
 cn_pt_76_shop;␗ ПТ-76 (1951)
-cn_pt_76_0;␗ Танк ПТ-76 обр. 1951 г.
+cn_pt_76_0;"Танк ПТ-76
+обр. 1951 г."
 cn_pt_76_1;␗ ПТ-76
 cn_pt_76_2;ПТ-76
 
 
 shop/group/cn_t_34_m4_group;␗ Т-34 (сент. 1942) / ☀ M4A1 75
 cn_t_34_1942_shop;␗ Т-34 (сент. 1942)
-cn_t_34_1942_0;␗ Танк Т-34 обр. сентябрь 1942 г. (УТЗ)
+cn_t_34_1942_0;"Танк Т-34
+УТЗ обр. сентябрь 1942 г."
 cn_t_34_1942_1;␗ Т-34
 cn_t_34_1942_2;Т-34

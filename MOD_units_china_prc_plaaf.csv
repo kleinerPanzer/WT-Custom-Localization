@@ -27,9 +27,9 @@ il_28_china_1;伊尔28
 il_28_china_2;伊尔28
 
 // Tupolev //
-tu-2_postwar_china_shop;␗ 杜2
-tu-2_postwar_china_0;␗ 杜2型飞机
-tu-2_postwar_china_1;␗ 杜2
+tu-2_postwar_china_shop;杜2
+tu-2_postwar_china_0;杜2型飞机
+tu-2_postwar_china_1;杜2
 tu-2_postwar_china_2;杜2
 tu_4_china_shop;杜4
 tu_4_china_0;杜4型飞机
@@ -56,7 +56,7 @@ mig-17_china_2;米格17
 
 // Sukhoi //
 su_30mkk_shop;␗ Su-30MKK
-su_30mkk_0;␗ Su-30MKK型飞机
+su_30mkk_0;Su-30MKK型飞机
 su_30mkk_1;␗ Su-30MKK
 su_30mkk_2;Su-30
 
@@ -72,7 +72,8 @@ quing_6_2;青6
 
 // J6 //
 mig-19j_6a_shop;J6A
-mig-19j_6a_0;J6A型飞机 (1977年型)
+mig-19j_6a_0;"J6A型飞机
+1977年型"
 mig-19j_6a_1;J6A
 mig-19j_6a_2;J6
 
@@ -116,17 +117,20 @@ j_11_0;J11型飞机
 j_11_1;J11
 j_11_2;J11
 j_11a_shop;J11A
-j_11a_0;J11A型飞机 (2014年型)
+j_11a_0;"J11A型飞机
+2014年型"
 j_11a_1;J11A
 j_11a_2;J11
 j_11b_shop;J11B
-j_11b_0;J11B型飞机 (2009年型)
+j_11b_0;"J11B型飞机
+2009年型"
 j_11b_1;J11B
 j_11b_2;J11
 
 // J15 //
 j_15t_shop;J15T (WS10B)
-j_15t_0;J15T型飞机 (WS10B)
+j_15t_0;"J15T型飞机
+WS10B"
 j_15t_1;J15T
 j_15t_2;J15
 
@@ -136,7 +140,8 @@ jh_7_0;JH7型飞机
 jh_7_1;JH7
 jh_7_2;JH7
 jh_7a_prototype_shop;JH7A (811)
-jh_7a_prototype_0;JH7A型飞机 (811)
+jh_7a_prototype_0;"JH7A型飞机
+811"
 jh_7a_prototype_1;JH7A
 jh_7a_prototype_2;JH7
 jh_7a_shop;JH7A
@@ -161,16 +166,16 @@ q_5l_2;Q5
 // OTHER //
 
 ki-45_hei_tei_china_shop;␗ 二式丙型丁装備
-ki-45_hei_tei_china_0;␗ 二式複座戦闘機丙型丁装備
+ki-45_hei_tei_china_0;二式複座戦闘機丙型丁装備
 ki-45_hei_tei_china_1;␗ 二式
 ki-45_hei_tei_china_2;二式
 
 pe-2-359_china_shop;␗ Пе-2-359
-pe-2-359_china_0;␗ Пе-2 серия 359
+pe-2-359_china_0;Пе-2 серия 359
 pe-2-359_china_1;␗ Пе-2
 pe-2-359_china_2;Пе-2
 mig-9_late_china_shop;␗ И-307 «ФФ»
-mig-9_late_china_0;␗ И-307 «ФФ» с бронестекло и ПТБ
+mig-9_late_china_0;И-307 «ФФ» с бронестекло и ПТБ
 mig-9_late_china_1;␗ И-307 «ФФ»
 mig-9_late_china_2;И-307
 
@@ -191,7 +196,8 @@ z_10_0;Z10型武装直升机
 z_10_1;Z10
 z_10_2;Z10
 z_10a_shop;Z10 (2018)
-z_10a_0;Z10型武装直升机 (2018年型)
+z_10a_0;"Z10型武装直升机
+2018年型"
 z_10a_1;Z10
 z_10a_2;Z10
 
@@ -209,6 +215,6 @@ z_19_2;Z19
 
 // SA 342L //
 sa_342l_china_shop;␗ SA 342L1
-sa_342l_china_0;␗ SA 342L1型武装直升机
+sa_342l_china_0;SA 342L1型武装直升机
 sa_342l_china_1;␗ SA 342L
 sa_342l_china_2;SA 342

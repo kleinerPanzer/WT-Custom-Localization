@@ -134,7 +134,8 @@ d_371_0;D.371-C1
 d_371_1;D.371-C1
 d_371_2;D.371
 d_371_hs9_shop;D.371 (2 canons)
-d_371_hs9_0;D.371 (2 canons à l'étude)
+d_371_hs9_0;"D.371
+2 canons à l'étude"
 d_371_hs9_1;D.371 (2 canons)
 d_371_hs9_2;D.371
 d_373_shop;D.373-C1
@@ -151,7 +152,8 @@ d_501_0;D.501-C1
 d_501_1;D.501-C1
 d_501_2;D.501
 d_510_shop;D.510-C1 (GC I/1)
-d_510_0;D.510-C1 (Gabriel Pallier, Groupe de Chasse I/1)
+d_510_0;"D.510-C1
+Gabriel Pallier, Groupe de Chasse I/1"
 d_510_1;D.510-C1
 d_510_2;D.510
 
@@ -160,11 +162,11 @@ d_520_france_0;D.520-C1
 d_520_france_1;D.520-C1
 d_520_france_2;D.520
 d_520_shop;▄ D.520-C1
-d_520_0;▄ D.520-C1
+d_520_0;D.520-C1
 d_520_1;▄ D.520-C1
 d_520_2;D.520
 d_521_shop;▄ D.521-01
-d_521_0;▄ D.521-01
+d_521_0;D.521-01
 d_521_1;▄ D.521-01
 d_521_2;D.521
 
@@ -178,30 +180,35 @@ caudron_cr714_2;CR.714
 // Douglas //
 
 db_7_shop;▄ DB-7-B3
-db_7_0;▄ DB-7-B3
+db_7_0;DB-7-B3
 db_7_1;▄ DB-7-B3
 db_7_2;DB-7
 
 // Curtiss //
 
 h-75a-1_france_shop;H75-C1
-h-75a-1_france_0;H75-C1 (№1 à 100)
+h-75a-1_france_0;"H75-C1
+№1 à 100"
 h-75a-1_france_1;H75-C1
 h-75a-1_france_2;H75
 h-75a-1_france39_shop;H75-C1
-h-75a-1_france39_0;H75-C1 (№1 à 100)
+h-75a-1_france39_0;"H75-C1
+№1 à 100"
 h-75a-1_france39_1;H75-C
 h-75a-1_france39_2;H75
 h-75a-1_france40_shop;H75-C1
-h-75a-1_france40_0;H75-C1 (№1 à 100)
+h-75a-1_france40_0;"H75-C1
+№1 à 100"
 h-75a-1_france40_1;H75-C
 h-75a-1_france40_2;H75
 h-75a-2_france_shop;H75-C1 (2ème)
-h-75a-2_france_0;H75-C1 (2ème série)
+h-75a-2_france_0;"H75-C1
+2ème série"
 h-75a-2_france_1;H75-C
 h-75a-2_france_2;H75
 h-75a-3_france_shop;H75-C1 (3ème)
-h-75a-3_france_0;H75-C1 (3ème série)
+h-75a-3_france_0;"H75-C1
+3ème série"
 h-75a-3_france_1;H75-C
 h-75a-3_france_2;H75
 h-75a-4_france_shop;H751-C1
@@ -227,7 +234,7 @@ late_298d_1;Latécoère 298D
 late_298d_2;Latécoère 298
 
 v_156_f_shop;⚜ V-156-F
-v_156_f_0;⚜ V-156-F
+v_156_f_0;V-156-F
 v_156_f_1;⚜ V-156-F
 v_156_f_2;V-156
 
@@ -243,145 +250,156 @@ shop/group/md_450b_group;Ouragan / Barougan
 // American //
 
 p-39q_25_france_shop;⚜ P-39Q-25
-p-39q_25_france_0;⚜ P-39Q-25 BE
+p-39q_25_france_0;P-39Q-25 BE
 p-39q_25_france_1;⚜ P-39Q
 p-39q_25_france_2;P-39
 
 p-40f-5_france_ep_shop;⚜ P-40F-5 (GC II/5)
-p-40f-5_france_ep_0;⚜ P-40F-5 CU (Constantin Rozanoff, Groupe de Chasse II/5 "Lafayette")
+p-40f-5_france_ep_0;"P-40F-5 CU
+Constantin Rozanoff, Groupe de Chasse II/5 ""Lafayette"""
 p-40f-5_france_ep_1;⚜ P-40F
 p-40f-5_france_ep_2;P-40
 
 p-47d_22_re_france_shop;⚜ P-47D-22 (GC II/3)
-p-47d_22_re_france_0;⚜ P-47D-22 RE (Groupe de Chasse II/3 "Dauphiné")
+p-47d_22_re_france_0;"P-47D-22 RE
+Groupe de Chasse II/3 ""Dauphiné"""
 p-47d_22_re_france_1;⚜ P-47D
 p-47d_22_re_france_2;P-47
 
 p-51c-10_france_shop;⚜ F-6C-10 (GR II/33)
-p-51c-10_france_0;⚜ F-6C-10 NT (Groupe de Reconnaissance II/33 "Savoie")
+p-51c-10_france_0;"F-6C-10 NT
+Groupe de Reconnaissance II/33 ""Savoie"""
 p-51c-10_france_1;⚜ F-6C
 p-51c-10_france_2;F-6
 
 p-63c-5_france_shop;⚜ P-63C-5
-p-63c-5_france_0;⚜ P-63C-5
+p-63c-5_france_0;P-63C-5
 p-63c-5_france_1;⚜ P-63C
 p-63c-5_france_2;P-63
 
 f-84f_france_shop;⚜ F-84F-51
-f-84f_france_0;⚜ F-84F-51 GK
+f-84f_france_0;F-84F-51 GK
 f-84f_france_1;⚜ F-84F
 f-84f_france_2;F-84
 f-84f_iaf_shop;⚜ F-84F-51 (EC 1/1)
-f-84f_iaf_0;⚜ F-84F-51 GK (Escadron de Chasse 1/1 "Corse")
+f-84f_iaf_0;"F-84F-51 GK
+Escadron de Chasse 1/1 ""Corse"""
 f-84f_iaf_1;⚜ F-84F
 f-84f_iaf_2;F-84
 f-84f_israel_iaf_shop; F-84F-51 (EC 1/1)
-f-84f_israel_iaf_0; F-84F-51 GK (Escadron de Chasse 1/1 "Corse")
+f-84f_israel_iaf_0;"F-84F-51 GK
+Escadron de Chasse 1/1 ""Corse"""
 f-84f_israel_iaf_1; F-84F
 f-84f_israel_iaf_2;F-84
 f-84g_france_shop;⚜ F-84G-26
-f-84g_france_0;⚜ F-84G-26 RE
+f-84g_france_0;F-84G-26 RE
 f-84g_france_1;⚜ F-84G
 f-84g_france_2;F-84
 
 f-86k_late_shop;⚜ F-86K
-f-86k_late_0;⚜ F-86K (1962)
+f-86k_late_0;"F-86K
+1962"
 f-86k_late_1;⚜ F-86K
 f-86k_late_2;F-86
 
 f-100d_france_shop;⚜ F-100D-10
-f-100d_france_0;⚜ F-100D-10 NA
+f-100d_france_0;F-100D-10 NA
 f-100d_france_1;⚜ F-100D
 f-100d_france_2;F-100
 
 f-8e_fn_shop;⚜ F-8E(FN)
-f-8e_fn_0;⚜ F-8E(FN)
+f-8e_fn_0;F-8E(FN)
 f-8e_fn_1;⚜ F-8E(FN)
 f-8e_fn_2;F-8
 
 b_25j_30_france_shop;⚜ B-25J-30
-b_25j_30_france_0;⚜ B-25J-30
+b_25j_30_france_0;B-25J-30
 b_25j_30_france_1;⚜ B-25J
 b_25j_30_france_2;B-25
 
 b_26c_france_shop;⚜ B-26C-20
-b_26c_france_0;⚜ B-26C-20 MA
+b_26c_france_0;B-26C-20 MA
 b_26c_france_1;⚜ B-26C
 b_26c_france_2;B-26
 
 a-35b_shop;⚜ A-35B
-a-35b_0;⚜ A-35B
+a-35b_0;A-35B
 a-35b_1;⚜ A-35B
 a-35b_2;A-35
 
 f6f-5_france_shop;⚜ F6F-5
-f6f-5_france_0;⚜ F6F-5
+f6f-5_france_0;F6F-5
 f6f-5_france_1;⚜ F6F-5
 f6f-5_france_2;F6F
 f6f-5n_france_shop;⚜ F6F-5N
-f6f-5n_france_0;⚜ F6F-5N
+f6f-5n_france_0;F6F-5N
 f6f-5n_france_1;⚜ F6F-5
 f6f-5n_france_2;F6F
 
 f4u-7_shop;⚜ F4U-7
-f4u-7_0;⚜ F4U-7
+f4u-7_0;F4U-7
 f4u-7_1;⚜ F4U-7
 f4u-7_2;F4U
 
 f8f1b_france_shop;⚜ F8F-1B
-f8f1b_france_0;⚜ F8F-1B
+f8f1b_france_0;F8F-1B
 f8f1b_france_1;⚜ F8F-1
 f8f1b_france_2;F8F
 
 douglas_ad_4_france_shop;⚜ AD-4NA
-douglas_ad_4_france_0;⚜ AD-4NA
+douglas_ad_4_france_0;AD-4NA
 douglas_ad_4_france_1;⚜ AD-4NA
 douglas_ad_4_france_2;AD
 douglas_ad_4na_france_shop;⚜ AD-4NA (EC 1/20)
-douglas_ad_4na_france_0;⚜ AD-4NA (Escadron de Chasse 1/20 Aurès Nementcha)
+douglas_ad_4na_france_0;"AD-4NA
+Escadron de Chasse 1/20 ""Aurès Nementcha"""
 douglas_ad_4na_france_1;⚜ AD-4NA
 douglas_ad_4na_france_2;AD
 
-pby-5a_late_france_shop;⚜ PBY-5A (t)
-pby-5a_late_france_0;⚜ PBY-5A (BuNo 46580-46638)
+pby-5a_late_france_shop;⚜ PBY-5A
+pby-5a_late_france_0;"PBY-5A
+BuNo 46580-46638"
 pby-5a_late_france_1;⚜ PBY-5
 pby-5a_late_france_2;PBY
 
 pb4y-2_france_shop;⚜ PB4Y-2
-pb4y-2_france_0;⚜ PB4Y-2
+pb4y-2_france_0;PB4Y-2
 pb4y-2_france_1;⚜ PB4Y-2
 pb4y-2_france_2;PB4Y
 
 sbd-5_france_shop;⚜ SBD-5
-sbd-5_france_0;⚜ SBD-5
+sbd-5_france_0;SBD-5
 sbd-5_france_1;⚜ SBD-5
 sbd-5_france_2;SBD
 
 sb2c_5_france_shop;⚜ SB2C-5
-sb2c_5_france_0;⚜ SB2C-5
+sb2c_5_france_0;SB2C-5
 sb2c_5_france_1;⚜ SB2C-5
 sb2c_5_france_2;SB2C
 
 // Soviet //
 
 yak-3_france_shop;⚜ Yak-3 (RC 2/30)
-yak-3_france_0;⚜ Yak-3 (Régiment de Chasse 2/30 "Normandie-Niémen")
+yak-3_france_0;"Yak-3
+Régiment de Chasse 2/30 ""Normandie-Niémen"""
 yak-3_france_1;⚜ Yak-3
 yak-3_france_2;Yak-3
 yak-9t_france_shop;⚜ Yak-9T (RC 2/30)
-yak-9t_france_0;⚜ Yak-9T (René Challe, Régiment de Chasse 2/30 "Normandie-Niémen")
+yak-9t_france_0;"Yak-9T
+René Challe, Régiment de Chasse 2/30 ""Normandie-Niémen"""
 yak-9t_france_1;⚜ Yak-9T
 yak-9t_france_2;Yak-9
 
 // British //
 
 lancaster_mr7_france_shop;⚜ Lancaster Mk. VII WU
-lancaster_mr7_france_0;⚜ Lancaster Mk. VII Western Union (1957)
+lancaster_mr7_france_0;"Lancaster Mk. VII Western Union
+1957"
 lancaster_mr7_france_1;⚜ Lancaster Mk. VII
 lancaster_mr7_france_2;Lancaster
 
 seafire_mk3_france_shop;⚜ Seafire LF. Mk. III
-seafire_mk3_france_0;⚜ Seafire LF. Mk. III
+seafire_mk3_france_0;Seafire LF. Mk. III
 seafire_mk3_france_1;⚜ Seafire Mk. III
 seafire_mk3_france_2;Seafire
 
@@ -439,7 +457,8 @@ md_460_usa_0;M.D.460 Super Mystère B2
 md_460_usa_1;Super Mystère B
 md_460_usa_2;Super Mystère
 md_460_yt_cup_2019_shop;Super Mystère B2 (YTC)
-md_460_yt_cup_2019_0;M.D.460 Super Mystère B2 (YouTube Cup)
+md_460_yt_cup_2019_0;"M.D.460 Super Mystère B2
+YouTube Cup"
 md_460_yt_cup_2019_1;Super Mystère B
 md_460_yt_cup_2019_2;Super Mystère
 
@@ -450,7 +469,8 @@ etndard_4m_0;Étendard IVM
 etndard_4m_1;Étendard IVM
 etndard_4m_2;Étendard IV
 super_etendard_97_shop;Super Étendard
-super_etendard_97_0;Super Étendard (SEM 4)
+super_etendard_97_0;"Super Étendard
+SEM 4"
 super_etendard_97_1;Super Étendard
 super_etendard_97_2;Super Étendard
 
@@ -480,7 +500,8 @@ mirage_f1c_0;Mirage F1 C
 mirage_f1c_1;Mirage F1
 mirage_f1c_2;Mirage F1
 mirage_f1c_200_shop;Mirage F1 C-200 (EC 4/30)
-mirage_f1c_200_0;Mirage F1 C-200 (Escadron de Chasse 4/30 Vexin)
+mirage_f1c_200_0;"Mirage F1 C-200
+Escadron de Chasse 4/30 ""Vexin"""
 mirage_f1c_200_1;Mirage F1
 mirage_f1c_200_2;Mirage F1
 mirage_f1ct_shop;Mirage F1 CT
@@ -503,7 +524,8 @@ mirage_2000_5f_1;Mirage 2000-5
 mirage_2000_5f_2;Mirage 2000
 
 mirage_2000d_r1_shop;Mirage 2000D R1
-mirage_2000d_r1_0;Mirage 2000D R1 (ECLAIR-M)
+mirage_2000d_r1_0;"Mirage 2000D R1
+ECLAIR-M"
 mirage_2000d_r1_1;Mirage 2000D
 mirage_2000d_r1_2;Mirage 2000
 mirage_2000d_rmv_shop;Mirage 2000D RMV
@@ -512,7 +534,8 @@ mirage_2000d_rmv_1;Mirage 2000D
 mirage_2000d_rmv_2;Mirage 2000
 
 mirage_4000_shop;Mirage 4000
-mirage_4000_0;Mirage 4000 (1986)
+mirage_4000_0;"Mirage 4000
+1986"
 mirage_4000_1;Mirage 4000
 mirage_4000_2;Mirage 4000
 
@@ -541,49 +564,50 @@ md_450b_barougan_2;Barougan
 // Jaguar //
 
 jaguar_a_shop;Jaguar A
-jaguar_a_0;Jaguar Type A
+jaguar_a_0;Jaguar type A
 jaguar_a_1;Jaguar A
 jaguar_a_2;Jaguar
 jaguar_a_killstreak_shop;Jaguar A
-jaguar_a_killstreak_0;Jaguar Type A
+jaguar_a_killstreak_0;Jaguar type A
 jaguar_a_killstreak_1;Jaguar A
 jaguar_a_killstreak_2;Jaguar
 jaguar_a_germany_killstreak_shop;Jaguar A
-jaguar_a_germany_killstreak_0;Jaguar Type A
+jaguar_a_germany_killstreak_0;Jaguar type A
 jaguar_a_germany_killstreak_1;Jaguar A
 jaguar_a_germany_killstreak_2;Jaguar
 jaguar_a_italy_killstreak_shop;Jaguar A
-jaguar_a_italy_killstreak_0;Jaguar Type A
+jaguar_a_italy_killstreak_0;Jaguar type A
 jaguar_a_italy_killstreak_1;Jaguar A
 jaguar_a_italy_killstreak_2;Jaguar
 jaguar_a_japan_killstreak_shop;Jaguar A
-jaguar_a_japan_killstreak_0;Jaguar Type A
+jaguar_a_japan_killstreak_0;Jaguar type A
 jaguar_a_japan_killstreak_1;Jaguar A
 jaguar_a_japan_killstreak_2;Jaguar
 jaguar_a_sweden_killstreak_shop;Jaguar A
-jaguar_a_sweden_killstreak_0;Jaguar Type A
+jaguar_a_sweden_killstreak_0;Jaguar type A
 jaguar_a_sweden_killstreak_1;Jaguar A
 jaguar_a_sweden_killstreak_2;Jaguar
 jaguar_a_uk_killstreak_shop;Jaguar A
-jaguar_a_uk_killstreak_0;Jaguar Type A
+jaguar_a_uk_killstreak_0;Jaguar type A
 jaguar_a_uk_killstreak_1;Jaguar A
 jaguar_a_uk_killstreak_2;Jaguar
 jaguar_a_usa_killstreak_shop;Jaguar A
-jaguar_a_usa_killstreak_0;Jaguar Type A
+jaguar_a_usa_killstreak_0;Jaguar type A
 jaguar_a_usa_killstreak_1;Jaguar A
 jaguar_a_usa_killstreak_2;Jaguar
 jaguar_a_iaf_killstreak_shop;Jaguar A
-jaguar_a_iaf_killstreak_0;Jaguar Type A
+jaguar_a_iaf_killstreak_0;Jaguar type A
 jaguar_a_iaf_killstreak_1;Jaguar A
 jaguar_a_iaf_killstreak_2;Jaguar
 jaguar_e_shop;Jaguar E (EC 2/7)
-jaguar_e_0;Jaguar Type E (Escadron de Chasse 2/7 Argonne)
+jaguar_e_0;"Jaguar type E
+Escadron de Chasse 2/7 ""Argonne"""
 jaguar_e_1;Jaguar E
 jaguar_e_2;Jaguar
 
 // Alpha Jet //
 
 alpha_jet_e_shop;Alpha Jet E
-alpha_jet_e_0;Alpha Jet E
+alpha_jet_e_0;Alpha Jet type E
 alpha_jet_e_1;Alpha Jet E
 alpha_jet_e_2;Alpha Jet
