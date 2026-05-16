@@ -30,7 +30,8 @@ p-26a_33_0;P-26A Peashooter
 p-26a_33_1;P-26A
 p-26a_33_2;P-26
 p-26a_34_m2_shop;P-26A (M2)
-p-26a_34_m2_0;P-26A Peashooter (Browning M2)
+p-26a_34_m2_0;"P-26A Peashooter
+Browning M2"
 p-26a_34_m2_1;P-26A (M2)
 p-26a_34_m2_2;P-26
 p-26b_35_shop;P-26B
@@ -43,11 +44,13 @@ p-36a_0;P-36A Hawk
 p-36a_1;P-36A
 p-36a_2;P-36
 p-36a_rasmussen_shop;P-36A (46th PS)
-p-36a_rasmussen_0;P-36A Hawk (Philip Rasmussen, 46th Pursuit Squadron)
+p-36a_rasmussen_0;"P-36A Hawk
+Philip Rasmussen, 46th Pursuit Squadron"
 p-36a_rasmussen_1;P-36A
 p-36a_rasmussen_2;P-36
 p-36a_brown_shop;P-36A (47th PS)
-p-36a_brown_0;P-36A Hawk (Harry Brown, 47th Pursuit Squadron)
+p-36a_brown_0;"P-36A Hawk
+Harry Brown, 47th Pursuit Squadron"
 p-36a_brown_1;P-36A
 p-36a_brown_2;P-36
 p-36c_shop;P-36C
@@ -55,7 +58,8 @@ p-36c_0;P-36C Hawk
 p-36c_1;P-36C
 p-36c_2;P-36
 p-36c_rb_shop;P-36C [TRB]
-p-36c_rb_0;P-36C Hawk [The Russian Badger]
+p-36c_rb_0;"P-36C Hawk
+The Russian Badger"
 p-36c_rb_1;P-36C
 p-36c_rb_2;P-36
 p-36g_shop;P-36G
@@ -84,7 +88,8 @@ p-38j_0;P-38J-15 LO Lightning
 p-38j_1;P-38J
 p-38j_2;P-38
 p-38j_marge_shop;P-38J-15 (9th FS)
-p-38j_marge_0;P-38J-15 LO Lightning (Richard Bong, 9th Fighter Squadron)
+p-38j_marge_0;"P-38J-15 LO Lightning
+Richard Bong, 9th Fighter Squadron"
 p-38j_marge_1;P-38J
 p-38j_marge_2;P-38
 p-38k_shop;P-38K-1
@@ -118,7 +123,8 @@ p-40e_0;P-40E Warhawk
 p-40e_1;P-40E
 p-40e_2;P-40
 p-40e_td_shop;P-40E (TD)
-p-40e_td_0;P-40E Warhawk (Twitch Drop)
+p-40e_td_0;"P-40E Warhawk
+Twitch Drop"
 p-40e_td_1;P-40E
 p-40e_td_2;P-40
 p-40f_10_shop;P-40F-10
@@ -148,11 +154,13 @@ p-47d-28_0;P-47D-28 RA Thunderbolt
 p-47d-28_1;P-47D
 p-47d-28_2;P-47
 p-47m-1-re_shop;P-47M-1 (56th FG)
-p-47m-1-re_0;P-47M-1 RE Thunderbolt (George Bostwick, 56th Fighter Group)
+p-47m-1-re_0;"P-47M-1 RE Thunderbolt
+George Bostwick, 56th Fighter Group"
 p-47m-1-re_1;P-47M
 p-47m-1-re_2;P-47
 p-47m-1-re_boxted_shop;P-47M-1 (56th FG)
-p-47m-1-re_boxted_0;P-47M-1 RE Thunderbolt (Witold Łanowski, 56th Fighter Group)
+p-47m-1-re_boxted_0;"P-47M-1 RE Thunderbolt
+Witold Łanowski, 56th Fighter Group"
 p-47m-1-re_boxted_1;P-47M
 p-47m-1-re_boxted_2;P-47
 p-47n-15_shop;F-47N-15
@@ -174,7 +182,8 @@ p-51_mk1_0;P-51 NA Mustang
 p-51_mk1_1;P-51
 p-51_mk1_2;P-51
 p-51a_tl_shop;P-51A-1 (TL)
-p-51a_tl_0;P-51A-1 Mustang (Thunder League)
+p-51a_tl_0;"P-51A-1 Mustang
+Thunder League"
 p-51a_tl_1;P-51A
 p-51a_tl_2;P-51
 p-51c-10-nt_shop;P-51C-10
@@ -186,7 +195,8 @@ p-51d-5_0;P-51D-5 NA Mustang
 p-51d-5_1;P-51D
 p-51d-5_2;P-51
 p-51d-10_shop;P-51D-10 (359th FG)
-p-51d-10_0;P-51D-10 NA Mustang (Ray Wetmore, 359th Fighter Group)
+p-51d-10_0;"P-51D-10 NA Mustang
+Ray Wetmore, 359th Fighter Group"
 p-51d-10_1;P-51D
 p-51d-10_2;P-51
 p-51d-20-na_shop;P-51D-20
@@ -286,16 +296,19 @@ f-86f-25_0;F-86F-25 NH Sabre
 f-86f-25_1;F-86F
 f-86f-25_2;F-86
 f-86f-35_shop;F-86F-35 (48th FBW)
-f-86f-35_0;F-86F-35 NA Sabre (48th Fighter-Bomber Wing "Statue de la Liberté")
+f-86f-35_0;"F-86F-35 NA Sabre
+48th Fighter-Bomber Wing ""Statue de la Liberté"""
 f-86f-35_1;F-86F
 f-86f-35_2;F-86
 
 f-89b_shop;F-89B-1 (126th FIS)
-f-89b_0;F-89B-1 NO Scorpion (126th Fighter-Interceptor Squadron)
+f-89b_0;"F-89B-1 NO Scorpion
+126th Fighter-Interceptor Squadron"
 f-89b_1;F-89B
 f-89b_2;F-89
 f-89d_shop;F-89D-65 (321st FIS)
-f-89d_0;F-89D-65 NO Scorpion (321st Fighter-Interceptor Squadron)
+f-89d_0;"F-89D-65 NO Scorpion
+321st Fighter-Interceptor Squadron"
 f-89d_1;F-89D
 f-89d_2;F-89
 
@@ -319,7 +332,8 @@ f-105d_1;F-105D
 f-105d_2;F-105
 
 f_106a_1972_shop;F-106A
-f_106a_1972_0;F-106A Delta Dart (Six Shooter) (Speedline) (Polhemus FCS)
+f_106a_1972_0;"F-106A Delta Dart
+Six Shooter, Speedline, Polhemus FCS"
 f_106a_1972_1;F-106A
 f_106a_1972_2;F-106
 
@@ -345,7 +359,8 @@ f_111f_japan_killstreak_1;F-111F
 f_111f_japan_killstreak_2;F-111
 
 f_117_shop;F-117A OCIP II
-f_117_0;F-117A OCIP II Nighthawk
+f_117_0;"F-117A Nighthawk
+OCIP II"
 f_117_1;F-117A
 f_117_2;F-117
 
@@ -381,7 +396,8 @@ f-4j_0;F-4J-34 MC Phantom II
 f-4j_1;F-4J
 f-4j_2;F-4
 f-4s_shop;F-4S-33 (VF-301)
-f-4s_0;F-4S-33 MC Phantom II (Fighter Squadron 301 (VF-301) "Devil's Disciples")
+f-4s_0;"F-4S-33 MC Phantom II
+Fighter Squadron 301 (VF-301) ""Devil's Disciples"""
 f-4s_1;F-4S
 f-4s_2;F-4
 
@@ -390,7 +406,8 @@ f-5a_0;YF-5A NO
 f-5a_1;YF-5A
 f-5a_2;YF-5
 f-5c_shop;F-5C (4503rd TFS(P))
-f-5c_0;F-5C NO Freedom Fighter (4503rd Tactical Fighter Squadron (Provisional))
+f-5c_0;"F-5C NO Freedom Fighter
+4503rd Tactical Fighter Squadron (Provisional)"
 f-5c_1;F-5C
 f-5c_2;F-5
 f-5e_shop;F-5E
@@ -399,11 +416,13 @@ f-5e_1;F-5E
 f-5e_2;F-5
 
 f8u-2_shop;F-8C (AFC 493)
-f8u-2_0;F-8C Crusader (AFC 493)
+f8u-2_0;"F-8C Crusader
+AFC 493"
 f8u-2_1;F-8C
 f8u-2_2;F-8
 f-8e_shop;F-8E (AFC 493)
-f-8e_0;F-8E Crusader (AFC 493)
+f-8e_0;"F-8E Crusader
+AFC 493"
 f-8e_1;F-8E
 f-8e_2;F-8
 
@@ -435,11 +454,13 @@ f_15a_0;F-15A-18 MC (1997)
 f_15a_1;F-15A
 f_15a_2;F-15
 f_15c_msip2_shop;F-15C-40 (2005)
-f_15c_msip2_0;F-15C-40 MC (2005) (AN/APG-63(V)1 Radar Upgrade)
+f_15c_msip2_0;"F-15C-40 MC
+2005, AN/APG-63(V)1 Radar Upgrade"
 f_15c_msip2_1;F-15C
 f_15c_msip2_2;F-15
 f_15c_golden_eagle_shop;F-15C-40 (2018)
-f_15c_golden_eagle_0;F-15C-40 MC (2018)
+f_15c_golden_eagle_0;"F-15C-40 MC
+2018"
 f_15c_golden_eagle_1;F-15C
 f_15c_golden_eagle_2;F-15
 f_15e_shop;F-15E-43
@@ -456,11 +477,13 @@ f_16a_block_15_adf_0;F-16A-15 CF ADF Fighting Falcon
 f_16a_block_15_adf_1;F-16A
 f_16a_block_15_adf_2;F-16
 f_16c_block_50_shop;F-16C-50 CCIP
-f_16c_block_50_0;F-16C-50 CF CCIP Fighting Falcon (2007)
+f_16c_block_50_0;"F-16C-50 CF Fighting Falcon
+CCIP, 2007"
 f_16c_block_50_1;F-16C
 f_16c_block_50_2;F-16
 f_16c_block_52_aesa_shop;F-16C-52 PoBIT
-f_16c_block_52_aesa_0;F-16C-52Q CF PoBIT Fighting Falcon
+f_16c_block_52_aesa_0;"F-16C-52Q CF Fighting Falcon
+PoBIT"
 f_16c_block_52_aesa_1;F-16C
 f_16c_block_52_aesa_2;F-16
 
@@ -477,7 +500,8 @@ fa_18c_late_0;F/A-18C-48 Hornet
 fa_18c_late_1;F/A-18C
 fa_18c_late_2;F/A-18
 fa_18e_block_2_shop;F/A-18E Block 2
-fa_18e_block_2_0;F/A-18E Block 2 (Lot 30) Super Hornet
+fa_18e_block_2_0;"F/A-18E Block 2 Super Hornet
+Lot 30"
 fa_18e_block_2_1;F/A-18E
 fa_18e_block_2_2;F/A-18
 
@@ -501,15 +525,18 @@ a-26b_0;A-26B-50 DL Invader
 a-26b_1;A-26B
 a-26b_2;A-26
 a-26c-45-dt_shop;B-26B-45 (17th Bomb Gp.)
-a-26c-45-dt_0;B-26B-45 DL Invader (17th Bombardment Group)
+a-26c-45-dt_0;"B-26B-45 DL Invader
+17th Bombardment Group"
 a-26c-45-dt_1;B-26B
 a-26c-45-dt_2;A-26
 a_26c_shop;B-26B-45 (17th Bomb Gp.)
-a_26c_0;B-26B-45 DL Invader (17th Bombardment Group)
+a_26c_0;"B-26B-45 DL Invader
+17th Bombardment Group"
 a_26c_1;B-26B
 a_26c_2;A-26
 a-26c_shop;B-26B-45 (17th Bomb Gp.)
-a-26c_0;B-26B-45 DL Invader (17th Bombardment Group)
+a-26c_0;"B-26B-45 DL Invader
+17th Bombardment Group"
 a-26c_1;B-26B
 a-26c_2;A-26
 
@@ -525,7 +552,8 @@ xa_38_2;XA-38
 
 // ATTACKER NEW SERIES //
 douglas_a_1h_shop;A-1H (VA-145)
-douglas_a_1h_0;A-1H Skyraider (Attack Squadron 145 (VA-145) "Swordsmen")
+douglas_a_1h_0;"A-1H Skyraider
+Attack Squadron 145 (VA-145) ""Swordsmen"""
 douglas_a_1h_1;A-1H
 douglas_a_1h_2;A-1
 
@@ -534,16 +562,18 @@ a_4b_0;A-4B Skyhawk
 a_4b_1;A-4B
 a_4b_2;A-4
 a_4e_early_shop;A-4E (AFC 418-II)
-a_4e_early_0;A-4E (AFC 418-II) Skyhawk
+a_4e_early_0;"A-4E Skyhawk
+AFC 418-II"
 a_4e_early_1;A-4E
 a_4e_early_2;A-4
 
 a_6e_tram_shop;A-6E WCSI (VA-52)
-a_6e_tram_0;A-6E WCSI Intruder (Attack Squadron 52 (VA-52) "Night Riders")
+a_6e_tram_0;"A-6E Intruder WCSI
+Attack Squadron 52 (VA-52) ""Night Riders"""
 a_6e_tram_1;A-6E
 a_6e_tram_2;A-6
 nt_a_6e_tram_shop;A-6E WCSI
-nt_a_6e_tram_0;A-6E WCSI Intruder
+nt_a_6e_tram_0;A-6E Intruder WCSI
 nt_a_6e_tram_1;A-6E
 nt_a_6e_tram_2;A-6E
 
@@ -560,12 +590,14 @@ nt_a_7e_0;A-7E-4 CV Corsair II
 nt_a_7e_1;A-7E
 nt_a_7e_2;A-7E
 a_7k_shop;A-7K (156th TFG)
-a_7k_0;A-7K CV Corsair II (156th Tactical Fighter Group)
+a_7k_0;"A-7K CV Corsair II
+156th Tactical Fighter Group"
 a_7k_1;A-7K
 a_7k_2;A-7
 
 a_10a_early_shop;A-10A (23rd TFW)
-a_10a_early_0;A-10A Thunderbolt II (23rd Tactical Fighter Wing)
+a_10a_early_0;"A-10A Thunderbolt II
+23rd Tactical Fighter Wing"
 a_10a_early_1;A-10A
 a_10a_early_2;A-10
 nt_a_10a_early_shop;A-10A
@@ -588,11 +620,13 @@ b_10b_1;B-10B
 b_10b_2;B-10
 
 b-17e_shop;B-17E (e)
-b-17e_0;B-17E Flying Fortress (Sperry No. 645705-D)
+b-17e_0;"B-17E Flying Fortress
+Sperry No. 645705-D"
 b-17e_1;B-17E
 b-17e_2;B-17
 b-17e_late_shop;B-17E (l)
-b-17e_late_0;B-17E Flying Fortress (Sperry No. 645849-J)
+b-17e_late_0;"B-17E Flying Fortress
+Sperry No. 645849-J"
 b-17e_late_1;B-17E
 b-17e_late_2;B-17
 b-17g_shop;B-17G-60
@@ -679,11 +713,13 @@ b_34_1;B-34
 b_34_2;B-34
 
 b_52h_shop;B-52H-140
-b_52h_0;B-52H-140 BW (EVS) (Rivet Ace)
+b_52h_0;"B-52H-140 BW
+EVS, Rivet Ace"
 b_52h_1;B-52H
 b_52h_2;B-52H
 nt_b_52h_shop;B-52H-140
-nt_b_52h_0;B-52H-140 BW (EVS) (Rivet Ace)
+nt_b_52h_0;"B-52H-140 BW
+EVS, Rivet Ace"
 nt_b_52h_1;B-52H
 nt_b_52h_2;B-52H
 
@@ -704,7 +740,8 @@ b_66b_2;B-66
 // VTOL //
 
 av_8a_shop;AV-8A (VMA-513)
-av_8a_0;AV-8A Harrier (Marine Attack Squadron VMA-513 "The Flying Nightmares")
+av_8a_0;"AV-8A Harrier
+Marine Attack Squadron VMA-513 ""The Flying Nightmares"""
 av_8a_1;AV-8A
 av_8a_2;AV-8
 av_8c_shop;AV-8C
@@ -765,7 +802,8 @@ c-47_1;C-47
 c-47_2;C-47
 
 spitfire_ix_usa_shop;▃ Spitfire LF. Mk. IX
-spitfire_ix_usa_0;Spitfire LF. Mk. IX (1943)
+spitfire_ix_usa_0;"Spitfire LF. Mk. IX
+1943"
 spitfire_ix_usa_1;▃ Spitfire Mk. IX
 spitfire_ix_usa_2;Spitfire
 

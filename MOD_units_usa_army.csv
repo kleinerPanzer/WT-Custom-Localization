@@ -32,12 +32,14 @@ us_m2a4_0;Tank, Light, M2A4
 us_m2a4_1;M2A4
 us_m2a4_2;M2
 us_m2a4_1st_armor_div_shop;M2A4 (1st Armd. Div.)
-us_m2a4_1st_armor_div_0;Tank, Light, M2A4 (1st Armored Division)
+us_m2a4_1st_armor_div_0;"Tank, Light, M2A4
+1st Armored Division"
 us_m2a4_1st_armor_div_1;M2A4
 us_m2a4_1st_armor_div_2;M2
 
 us_m3_stuart_shop;M3
-us_m3_stuart_0;Tank, Light, M3 (D37812)
+us_m3_stuart_0;"Tank, Light, M3
+D37812"
 us_m3_stuart_1;M3
 us_m3_stuart_2;M3
 us_m3a1_stuart_shop;M3A1
@@ -45,7 +47,8 @@ us_m3a1_stuart_0;Tank, Light, M3A1
 us_m3a1_stuart_1;M3A1
 us_m3a1_stuart_2;M3
 us_m3a1_stuart_usmc_shop;M3A1 (USMC)
-us_m3a1_stuart_usmc_0;Tank, Light, M3A1 (United States Marine Corps)
+us_m3a1_stuart_usmc_0;"Tank, Light, M3A1
+United States Marine Corps"
 us_m3a1_stuart_usmc_1;M3A1
 us_m3a1_stuart_usmc_2;M3
 

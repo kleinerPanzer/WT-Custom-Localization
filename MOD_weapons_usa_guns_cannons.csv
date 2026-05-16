@@ -25,6 +25,7 @@ weapons/cannonM9;Gun, 37-mm, Automatic: AN/M9;
 weapons/cannonM10;Gun, 37-mm, Automatic: M10 (Aircraft);
 weapons/105mm_M4_user_cannon;Howitzer, 105-mm, M4;
 weapons/105mm_M68A1_E8_user_cannon;Cannon, 105-mm Gun: M68A1E8;
+weapons/105mm_M68A1_AGS_user_cannon;Cannon, 105-mm Gun: M68A1
 105mm_m900;APFSDS-T, M900;
 weapons/105mm_M68_XM_user_cannon;Cannon, 105-mm Gun: M68;
 weapons/105mm_M68_user_cannon;Cannon, 105-mm Gun: M68;

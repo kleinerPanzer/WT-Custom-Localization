@@ -1,28 +1,29 @@
 <ID|readonly|noverify>;<NewLanguage>
+
+weapons/7_62mm_ss77_user_machinegun;7.62 mm SS-77
+
+weapons/7_62mm_Browning_MG4_user_machinegun;7.62 mm L3;
+
 weapons/90mm_GT_2_user_cannon;90 mm GT2;
+
 weapons/105mm_GT3_user_cannon;105 mm GT3;
 weapons/105mm_GT3_TTD_user_cannon;105 mm GT3;
 weapons/105mm_GT3B_user_cannon;105 mm GT3B;
+
 weapons/76mm_GT_4_user_cannon;76,2 mm GT4;
+76mm_gt4_he;HE;
+
 weapons/105mm_GT_7_user_cannon;105 mm GT7;
 weapons/105mm_GT_8_user_cannon;105 mm GT8;
 
 weapons/20mm_GI_2_user_cannon;20 mm GI2;
 weapons/cannonGI_2;20 mm GI2;
-weapons/30mm_denel_gi30_user_cannon;30 mm GI30
 
-weapons/35mm_GA_35_user_cannon;35 mm GA35;
+weapons/30mm_denel_gi30_user_cannon;30 mm GI-30
+
+weapons/35mm_GA_35_user_cannon;35 mm GA-35;
 
 weapons/155mm_G6_L45_user_cannon;155 mm G5-45;
-
-weapons/7_62mm_Browning_MG4_user_machinegun;7.62 mm L3;
-
-weapons/7_62mm_ss77_user_machinegun;7.62 mm SS-77
-
-// 76mm_GT_4_user_cannon
-76mm_gt4_he;HE;
-
-// 155mm_G6_L45_user_cannon
 155mm_m1;M1;
 155mm_m1_pf;M1 (PF);
 155mm_g6_smoke;Smoke;
