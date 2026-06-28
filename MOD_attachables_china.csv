@@ -1,0 +1,31 @@
+<ID|readonly|noverify>;<NewLanguage>;
+
+// WEAPONS //
+attachables/cn_type_63_ar;63式;
+attachables/cn_type_63_ar/desc;1963年式7.62毫米自动步枪;
+
+attachables/cn_qbz_95;QBZ95;
+attachables/cn_qbz_95/desc;QBZ1995式5.8毫米自动步枪;
+attachables/cn_qbz_95_ag;QBZ95 (QLG91B);
+attachables/cn_qbz_95_ag/desc;QBZ1995式5.8毫米自动步枪 (QLG1991B式35毫米榴弹发射器).
+
+attachables/type_88;QJY88;
+attachables/type_88/desc;QJY1988式5.8毫米通用机枪
+attachables/cn_qjy_88;QJY88;
+attachables/cn_qjy_88/desc;QJY1988式5.8毫米通用机枪
+
+attachables/pf_98;PF98;
+attachables/pf_98;PF1998式120毫米反坦克火箭筒;
+
+// EQUIPMENT //
+
+attachables/helmet_gk80a_steel;GK80;
+attachables/helmet_gk80a_steel/desc;GK80型钢盔
+
+attachables/helmet_chinese_summer;TMT95;
+attachables/helmet_chinese_summer/desc;TMT95式坦克工作帽
+
+
+
+
+

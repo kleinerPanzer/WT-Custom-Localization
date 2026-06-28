@@ -1,0 +1,91 @@
+<ID|readonly|noverify>;<NewLanguage>;
+
+// MISC //
+
+attachables/star_soviet;Red Star;
+
+// WEAPONS //
+attachables/mg_ppsh;ППШ-41;
+attachables/mg_ppsh/desc;The famous Soviet ППШ-41 was one of the most numerous SMGs ever produced, iconic for its high rate of fire.;
+mg_ppsh/name;ППШ-41;
+mg_ppsh/ame/desc;The famous Soviet ППШ-41 was one of the most numerous SMGs ever produced, iconic for its high rate of fire.;
+attachables/mg_pps;ППС-43;
+attachables/mg_pps/desc;A Soviet modification of the previous ППС-42 and simplified version of the PPSh-41.;
+attachables/mg_ppsh_42;ППШ-42;
+attachables/mg_ppsh_42/desc;The 1942 production block of the famous ППШ submachine gun.
+attachables/svt_40;СВТ-40;
+attachables/svt_40/desc;A Soviet semi-automatic rifle developed in 1940.;
+attachables/ppd_3438;ППД-34/38;
+attachables/rgd_33_pack;Bundle of РГД-33;
+attachables/rgd_33_pack/desc;A collection of РГД-33 anti-personnel grenades strapped together to make a more powerful explosive.;
+attachables/akm_47;АКМ;
+attachables/akm_47/desc;A Soviet assault rifle first produced in 1959.;
+attachables/dp_27;ДП-27;
+attachables/dp_27/desc;A Soviet light machine gun known for its pan magazine.
+attachables/rpk;РПК;
+attachables/rpk/desc;A Soviet machine gun based on the АКМ assault rifle.;
+attachables/akms;АКМС;
+attachables/akms/desc;A Soviet АКМ modification for use with paratroopers and tank crews.;
+attachables/akms_premium;Golden АКМС;
+attachables/akms_premium/desc;A gold-plated version of the Soviet АКМС.;
+attachables/ak_103;АК-103;
+attachables/ak_103/desc;A Soviet modernization of various АК-series rifles.;
+attachables/cat_decor;Baby tiger;
+attachables/akms_ag;СГК-12;
+attachables/akms_ag/desc;A Soviet АКМ rifle with a ГП-34 grenade launcher;
+attachables/53k;53-К;
+attachables/53k/desc;A Soviet 45 mm anti-tank gun developed in the late 1930s.;
+attachables/roks_flamethrowers;РОКС-3;
+attachables/aks_74u;АКС-74У;
+attachables/aks_74u/desc;A Soviet compact version of the AK-74 developed for vehicle crews, guards, and other positions requiring a compact weapon.;
+attachables/aps;АПС;
+attachables/aps/desc;A Soviet underwater assault rifle designed to be fired while submerged.;
+attachables/ida_71_u;ИДА-71У;
+attachables/maxim_gun;ПМ-10;
+attachables/maxim_gun/desc;A Soviet water-cooled machine gun on a wheeled frame.;
+attachables/ak_bi_7_5;БИ 7-5, исп.04;
+attachables/ak_bi_7_5/desc;A Russian air rifle used for biathlon events.;
+attachables/ubt;УБТ;
+attachables/ubt/desc;A Soviet aircraft machine gun, in its turret-mounted configuration.;
+attachables/sg43;СГ-43;
+attachables/sg43/desc;A Soviet machine gun designed primarily to replace the aging ПМ-10, the Maxim.;
+attachables/decor_ampulomet;125-мм ампуломёт обр. 1941 г.;
+attachables/decor_ampulomet/desc;The ампуломёт was the only mass-produced Soviet Ampulomet (lit. vial thrower) of World War II. It was an improvised anti-tank weapon intended to launch incendiary projectiles.;
+attachables/pm_38;120-мм полковой миномёт обр. 1938 г. (ПМ-38);
+attachables/pm_38/desc;A Soviet 120 mm mortar, an upscaled version of the 81 mm PM-37 mortar, which saw widespread use during WWII and beyond.;
+attachables/mg_maxim_tokarev;Пулемёт Максима-Токарева;
+attachables/mg_maxim_tokarev/desc;The first light machine gun domestically developed and adopted by the USSR, a derivative of the earlier Пулемёт Максима обр. 1910 г.;
+attachables/helmet_phv57e;ПНВ-57Е;
+attachables/rm_40;50-мм ротный миномёт обр. 1940 г. (РМ-40);
+attachables/rm_40/desc;The РМ-40 was a Soviet 50 mm mortar based on the earlier РМ-38. It simplified many components and improved shock absorption and gas expulsion, among other improvements.
+attachables/maxim_gun_blockade;Пулемёт Максима обр. 1910 г.;
+attachables/maxim_gun_blockade;A simplified version of the Пулемёт Максима обр. 1910 г. produced during the Siege of Leningrad.;
+attachables/ak_46_1;АК-46
+attachables/rpg2;РПГ-2
+attachables/b_10;Б-10
+attachables/ds_39;ДС-39
+
+// EQUIPMENT //
+attachables/gazmask;Gas Mask;
+gazmask/name;Gas Mask;
+ussr_tank_helmet/name;Steel Helmet (USSR);
+attachables/headset;Intercom headset (USSR);
+attachables/ussr_body_armor_6b43;6Б43;
+attachables/ussr_body_armor_6b43/desc;A Russian assault body armor kit used by the VDV, Naval Infantry, Spetznaz, and tank crews.;
+attachables/ussr_ammunition_wwii;Ammunition of the Soviet Army, 1941;
+attachables/ussr_ammunition_wwii/desc;"Ammunition" collection;
+attachables/ussr_tank_helmet;СШ-39;
+attachables/ussr_tank_helmet/desc;A Soviet infantry helmet developed in 1939.;
+attachables/soviet_star_ship;Red Star;
+attachables/gagarin_helmet;Cosmonaut's Helmet;
+attachables/vostok_lander;The "Vostok" capsule;
+attachables/snowmobile_nkl16;НКЛ-16/41;
+attachables/helmet_6b48;6Б48;
+attachables/helmet_6b48/desc;A modern Russian tank crewman helmet.;
+attachables/red_army_hat;Будёновка;
+attachables/tanks_general_hat;Tank Forces General's Cap (USSR);
+attachables/he_fs_gold;HE-FS;
+attachables/lad;LAD
+attachables/tkb_059;ТКБ-059
+attachables/decor_kubanka_hat;Папаха
+attachables/helmet_sh_36;СШ-36

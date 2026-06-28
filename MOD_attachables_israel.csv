@@ -1,0 +1,9 @@
+<ID|readonly|noverify>;<NewLanguage>;
+attachables/galil_arm;IMI Galil ARM;
+attachables/galil_arm/desc;Israeli light machine gun conversion of the Galil rifle.
+attachables/israeli_601_afv_helmet;OR-601;
+attachables/israeli_601_afv_helmet/desc;An Israeli helmet designed for armored vehicle crews.;
+attachables/or_201_helmet;OR-201;
+attachables/or_201_helmet/desc;An Israeli helmet designed for infantry and artillery crews.
+attachables/atrl_light_west_launcher;Spike-SR;
+attachables/atrl_light_west_launcher/desc;A fire-and-forget top-attack anti-tank missile designed by Israel's Rafael Advanced Defense Systems.;

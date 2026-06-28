@@ -1,0 +1,34 @@
+<ID|readonly|noverify>;<NewLanguage>;
+
+// WEAPONS //
+
+decals/mac_31;MAC 31;
+attachables/mac_31;MAC 31;
+attachables/mac_31/desc;Mitrailleuse MAC modèle 1931
+decals/fr_mas_36;MAS 36;
+attachables/fr_mas_36;MAS 36;
+attachables/fr_mas_36/desc;Fusil a répétition de 7,5 mm modèle 1936
+decals/fr_mas_38;MAS 38;
+attachables/fr_mas_38;MAS 38;
+attachables/fr_mas_38/desc;Pistolet-mitrailleur de 7,65 mm modèle 1938
+attachables/mat_49;MAT 49;
+attachables/mat_49/desc;Pistolet-mitrailleur de 9 mm modèle 1949
+attachables/mas_49_56;Fusil semi-automatique de 7,5 mm modèle 1949/1956
+attachables/mas_49_56/desc;Fusil semi-automatique de 7,5 mm modèle 1949/1956
+attachables/famas_f1;FA MAS 5,56 F1
+attachables/famas_f1/desc;Fusil automatique MAS de 5,56 mm modèle F1
+
+attachables/lrac_f1;LRAC F1
+attachables/lrac_f1/desc;Lance-roquettes antichar de 89 mm modèle F1
+
+attachables/mo_120_rt_f1;MO 120 RT F1
+attachables/mo_120_rt_f1/desc;Mortier de 120 mm rayé tracté modèle F1
+
+// EQUIPMENT //
+
+attachables/helmet_wz35;Tank helmet mle 35 (France);
+attachables/helmet_wz35/name;Tank helmet mle 35 (France);
+attachables/helmet_m26;Infantry helmet Mle. 26 (France);
+attachables/helmet_m26/desc;"Helmets" collection;
+attachables/helmet_m51;Mle. 51/57;
+attachables/paris_general_hat;General's Kepi (France);

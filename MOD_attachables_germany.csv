@@ -1,0 +1,43 @@
+<ID|readonly|noverify>;<NewLanguage>;
+attachables/german_cross;Eisenkreuz;
+attachables/german_cross/desc;A large steel badge commonly used in German and former Prussian military medals and iconography.;
+attachables/jerrycan;Jerrycan;
+jerrycan/name;Jerrycan;
+german_tank_helmet/name;Steel Helmet (Germany);
+attachables/grenades;Rack of Sti.Gr. 24;
+attachables/mg_mp40;Maschinenpistole 40;
+attachables/mg_mp40/desc;The iconic German submachine gun, the face of Nazism.
+attachables/mg_stg_44;Sturmgewehr 44;
+attachables/mg_stg_44/desc;A German automatic rifle first introduced in 1944.;
+attachables/panzerfaust_60;Panzerfaust 60;
+attachables/panzerfaust_60/desc;A German single-use anti-tank rocket launcher first serviced in 1944.;
+attachables/mg_42;MG 3;
+attachables/mg_42/desc;The MG 3 is a German postwar development based on the iconic MG 42.
+attachables/ger_ammunition_wwii;Wehrmacht ammunition (Germany);
+attachables/ger_ammunition_wwii/desc;"Ammunition" collection;
+attachables/hk_psg1;HK PSG 1;
+attachables/hk_psg1/desc;A German marksman rifle derived from the G3 battle rifle.;
+attachables/mg3_kws;MG 3 KWS;
+attachables/mg3_kws/desc;A German modernization of the MG 3 machine gun.;
+attachables/g41;Gewehr 41(W);
+attachables/g41/desc;A German semi-automatic rifle produced in 1941.;
+attachables/mauser_98k;Karabiner 98k.;
+attachables/mauser_98k/desc;A German compact modification of the Gewehr 98.;
+attachables/g36k;HK G 36 KR;
+attachables/g36k/desc;A German shortened modification of the G 36 rifle.;
+attachables/german_tank_helmet;Stahlhelm 35;
+attachables/german_tank_helmet/desc;A German steel helmet in service since 1935.;
+attachables/g36k_ag;HK G 36 KR (AG 36);
+attachables/g36k_ag/desc;A German HK G 36 KR rifle with a HK AG 36 grenade launcher.;
+attachables/german_cross_ship;Eisenkreuz;
+attachables/waffenhalter;Container "Waffenhalter";
+attachables/mp5n;MP 5 N A3;
+attachables/mp5n/desc;A naval version of the German MP 5 submachine gun with a collapsible stock.;
+attachables/mg_8mm;SIG Sauer MG 338;
+attachables/mg_8mm/desc;A .338 machine gun designed by SIG Sauer for use on the I-PARMS Powered Armor Suits.;
+attachables/dsr_1;DSR-1
+attachables/luftfaust_b;Luftfaust-B
+attachables/enzian;Enzian
+attachables/pickelhelm;Pickelhaube
+attachables/decor_gneisenau_heraldic_shield;Gneisenau ship crest
+attachables/decor_hk_g11;G 11

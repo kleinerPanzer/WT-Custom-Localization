@@ -1,0 +1,54 @@
+<ID|readonly|noverify>;<NewLanguage>;
+attachables/star_alliance;White Star;
+attachables/mg_thompson;Submachine Gun, Caliber .45, M1928A1;
+attachables/mg_thompson/desc;An American submachine gun, a variant of the famous "Tommy Gun".;
+attachables/mg_m3;Submachine Gun, Caliber .45, M3;
+attachables/m50_Reising;Submachine Gun, Caliber .45, M50;
+attachables/mcculloch_47;McColloch 47;
+attachables/mcculloch_47/desc;A popular American chainsaw manufactured by McColloch.;
+attachables/mg_m60;Machine Gun, 7.62mm, M60;
+attachables/mg_m60/desc;An American general-purpose machine gun developed in the 1950s.;
+attachables/usa_ciras_land;CIRAS Land;
+attachables/usa_ciras_land/desc;Combat Integrated Releasable Armor System Land is an American modular body armor vest.;
+attachables/iotv_body_armor;IOTV;
+attachables/iotv_body_armor/desc;Improved Outer tactical Vest is an American modular armored vest.;
+attachables/m249;Machine Gun, 5.56mm, M249;
+attachables/m249/desc;An American license copy of the FN Minimi light machine gun.;
+attachables/m1_carabine;Carbine, Caliber .30, M1;
+attachables/m1_carabine/desc;An American light semi-automatic rifle which saw widepsread service.;
+attachables/helmet_m1;Helmet, M1;
+attachables/helmet_m1/desc;An American steel helmet which saw service until modern ballistic helmets replaced it.;
+attachables/helmet_m1_late;Helmet, M1 «Born to Kill»;
+attachables/helmet_m1_late/desc;An M1 helmet with ERDL 'Highland' camouflage, 'Born to Kill' text, and six 7.62x51mm cartridges.;
+attachables/m4_carbine;Carbine, 5.56mm, M4A1;
+attachables/m4_carbine/desc;An American assault rifle developed from the M16.;
+attachables/m4_carbine_ag;Carbine, 5.56mm, M4A1 (M203);
+attachables/m4_carbine_ag/desc;An American M4 Carbine with a M203 grenade launcher.;
+attachables/uss_north_carolina_anchor;Anchor of the USS North Carolina;
+attachables/usn_emblem;Emblem of the United States Navy;
+attachables/m1_garand;Rifle, Caliber .30, M1;
+attachables/m1_garand/desc;The famous American Garand, the M1 was the primary US Military rifle of WWII.;
+attachables/m1a1_carbine;Carbine, Caliber .30, M1A1;
+attachables/m1a1_carbine/desc;An American light semi-automatic rifle with a folding stock.;
+attachables/m4_late;Medium Tank, M4;
+attachables/willys_mb_dec;Willys MB;
+attachables/decor_dukw;DUKW-353;
+attachables/us_browning_m1919a6;M1919A6;
+attachables/us_browning_m1919a6/desc;An American 7.62 mm light infantry machine gun.;
+attachables/m9a1_7_flamethrower;M9A1-7;
+attachables/m9a1_7_flamethrower/desc;The M9 flamethrower was the most common American modification fielded in the Vietnam War.;
+attachables/decor_lewis_gun;Lewis Automatic Machine Rifle;
+attachables/decor_lewis_gun/desc;A water-cooled machine gun dating to the First World War, the Lewis gun was an American design adopted in massive numbers by the UK.;
+attachables/us_browning_m1918;Rifle, Caliber .30, Automatic, Browning, M1918A2;
+attachables/us_browning_m1918/desc;The classic Browning Automatic Rifle (B.A.R.). This weapon was intended to provide automatic fire to squads that lacked automatic firepower.;
+attachables/colt_browning_m1895;Colt-Browning Model 1895;
+attachables/colt_browning_m1895/desc;The Colt-Browning M1895 was an early machine gun and the first successful gas-operated machine gun in the world.
+attachables/helmet_nvg;FAST XP (GPNVG);
+attachables/helmet_nvg/desc;The Ops-Core FAST XP High-Cut Helmet System with an L3Harris GPNVG.;
+attachables/mk19_grenade_launcher;Mk 19;
+attachables/mk19_grenade_launcher/desc;An American 40 mm automatic grenade launcher, the Mk 19 replaced the older, hand-cranked Mk 18 in service.
+attachables/m1921_thompson;Colt Model 1921A;
+attachables/xm_29;XM29 OICW;
+attachables/decor_lldr_an_ped_1b;LLDR, AN/PED-1B
+attachables/decor_davy_crockett;Davy Crockett;
+attachables/decor_m1941_johnson;Johnson M1941

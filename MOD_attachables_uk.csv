@@ -1,0 +1,26 @@
+<ID|readonly|noverify>;<NewLanguage>;
+attachables/uk_tank_helmet;Tank Helmet (UK);
+uk_early_helmet/name;Steel Helmet (UK);
+uk_tank_helmet/name;Tank Helmet;
+attachables/mg_sten;Carbine, Machine, 9mm, Sten Mk. II;
+attachables/mg_sten/desc;A British submachine gun designed to be simple and and cheap.;
+attachables/mg_lanchester_mk1;Submachine Gun, 9mm, Lanchester Mk. 1;
+attachables/lee_enfield;Rifle, .303, No. 4, Mk. I;
+attachables/lee_enfield/desc;A British development of the earlier SMLE Rifle, .303, No. 1.;
+attachables/l85a1;Rifle, 5.56mm, L85A1;
+attachables/l85a1/desc;A British assault rifle which saw service in Operation Desert Storm.;
+attachables/uk_early_helmet;Helmet, Steel, Mk. I;
+attachables/uk_early_helmet/desc;A British steel helmet developed in 1915, often called the "Brodie" helmet.;
+attachables/l85a1_ag;L85A1 (AG 36);
+attachables/l85a1_ag/desc;A British L85A1 rifle with a HK AG 36 grenade launcher.;
+attachables/bren_mk2;Machine Gun, .303, Bren Mk. II;
+attachables/bsa_bicycle_fold;BSA Bicycle;
+attachables/piat;Projector, Infantry, Anti-Tank, Mk. I;
+attachables/piat/desc;A British anti-tank launcher, fitted with the Mk. IV HEAT warhead.
+attachables/decor_tank_matilda;Matilda Mk. II;
+attachables/sterling;Carbine, Machine, 9mm, Patchett, Mk. I, No. 1;
+attachables/sterling/desc;The Patchett was an early predecessor to the British Sterling submachine gun.;
+attachables/mg_vickers;Gun, Machine, .303, Vickers, Mk. I;
+attachables/mg_vickers/desc;The Vickers machine gun saw widespread use from its introduction in 1912 until well-after WWII as both an infantry heavy machine gun and early form of offensive aircraft armament.;
+attachables/mk1a_flight_helmet;Mk. 1A;
+attachables/decor_demolition_bomb;Bomb, Demolition, No. 1;

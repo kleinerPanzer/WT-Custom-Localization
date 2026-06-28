@@ -68,6 +68,17 @@ locTable{
   file:t="%lang/pc_UiMessages.csv"
 
   // mod 
+  file:t="%lang/MOD_attachables_china.csv"
+  file:t="%lang/MOD_attachables_france.csv"
+  file:t="%lang/MOD_attachables_germany.csv"
+  file:t="%lang/MOD_attachables_israel.csv"
+  file:t="%lang/MOD_attachables_italy.csv"
+  file:t="%lang/MOD_attachables_japan.csv"
+  file:t="%lang/MOD_attachables_other.csv"
+  file:t="%lang/MOD_attachables_russia.csv"
+  file:t="%lang/MOD_attachables_sweden.csv"
+  file:t="%lang/MOD_attachables_uk.csv"
+  file:t="%lang/MOD_attachables_usa.csv"
   file:t="%lang/MOD_attachables.csv"
   file:t="%lang/MOD_bg.csv"
   file:t="%lang/MOD_cardicons.csv"

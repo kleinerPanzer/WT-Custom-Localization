@@ -1,0 +1,14 @@
+<ID|readonly|noverify>;<NewLanguage>;
+attachables/owen_machine_carbine;Owen Machine Carbine;
+attachables/owen_machine_carbine/desc;An Australian submachine gun produced in 1942.;
+attachables/fn_mag;FN MAG;
+attachables/fn_mag/desc;A Belgian general-purpose machine gun found on a variety of armored vehicles.;
+attachables/decor_skoda_morser_m16;30,5cm Mörser M.11/16;
+attachables/decor_skoda_morser_m16/desc;A Czech siege howitzer developed in the 1900s.;
+attachables/cetme_mod_lc;CETME LC;
+attachables/cetme_mod_lc/desc;A compact version of the CETME Modello L, a Spanish assault rifle.;
+attachables/austen_mk_1;Austen Mk. I
+attachables/austen_mk_1/desc;The Austen is an Australian submachine gun derived from the British Sten.;
+attachables/fn_scar;FN SCAR-L (FN40GL);
+attachables/fn_scar/desc;A Belgian assault rifle from the SCAR family, adopted by the U.S. as the Mk 16 Mod 0, and fitted with a 40 mm grenade launcher.;
+attachables/rk_62;RK-62;

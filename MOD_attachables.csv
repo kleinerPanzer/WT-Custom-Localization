@@ -35,14 +35,8 @@ attachables/road_sign_speed_limit_60;Road Sign: "Speed Limit 60";
 attachables/road_sign_speed_limit_60/desc;A road sign indicating that a vehicle should not exceed 60 km/h.;
 attachables/road_sign_stop;Road Sign: B2a "Stop";
 attachables/road_sign_stop/desc;A road sign indicating that vehicles should stop before proceeding.;
-attachables/german_cross;Eisenkreuz;
-attachables/german_cross/desc;A large steel badge commonly used in German and former Prussian military medals and iconography.;
-attachables/star_alliance;White Star;
-attachables/star_soviet;Red Star;
 attachables/shop_sign_bar;"Bar" Sign;
 attachables/lifebuoy;Lifebuoy;
-attachables/mg_ppsh;ППШ-41;
-attachables/mg_ppsh/desc;The famous Soviet ППШ-41 was one of the most numerous SMGs ever produced, iconic for its high rate of fire.;
 attachables/mickey_ear_black;Mouse Ear;
 attachables/bush_big;Bunch of Branches, big (foliage tree);
 attachables/bush_small;Bunch of Branches (foliage tree);
@@ -51,16 +45,7 @@ attachables/palm;Bunch of Palm Leaves, big;
 attachables/palm_long;Armful of Palm Leaves;
 attachables/fir;Armful of Fir Branches;
 attachables/fir_long;Bunch of Fir Branches;
-attachables/jerrycan;Jerrycan;
-attachables/gazmask;Gas Mask;
-attachables/uk_tank_helmet;Tank Helmet (UK);
 thunder_league_skull_gold/name;Pirate Skull;
-jerrycan/name;Jerrycan;
-gazmask/name;Gas Mask;
-uk_early_helmet/name;Steel Helmet (UK);
-uk_tank_helmet/name;Tank Helmet;
-german_tank_helmet/name;Steel Helmet (Germany);
-ussr_tank_helmet/name;Steel Helmet (USSR);
 attachables/accordion;Bayan;
 attachables/balalayka;Balalaika;
 attachables/guitar;Guitar;
@@ -74,34 +59,17 @@ road_sign_no_smoking/name;"No Smoking";
 road_sign_speed_limit_10/name;"Speed Limit 10";
 road_sign_speed_limit_60/name;"Speed Limit 60";
 road_sign_stop/name;"Stop and give way";
-mg_ppsh/name;ППШ-41;
-mg_ppsh/ame/desc;The famous Soviet ППШ-41 was one of the most numerous SMGs ever produced, iconic for its high rate of fire.;
-attachables/grenades;Rack of Sti.Gr. 24;
 attachables/horseshoe;Horseshoe;
 attachables/horseshoe/desc;Horseshoe;
 attachables/gnome;"Monk";
-attachables/type98_shin_gunto;九八式軍刀;
-type98_shin_gunto/name;九八式軍刀;
-attachables/mg_pps;ППС-43;
-attachables/mg_pps/desc;A Soviet modification of the previous ППС-42 and simplified version of the PPSh-41.;
-attachables/mg_mp40;Maschinenpistole 40;
-attachables/mg_mp40/desc;The iconic German submachine gun, the face of Nazism.
-attachables/mg_sten;Carbine, Machine, 9mm, Sten Mk. II;
-attachables/mg_sten/desc;A British submachine gun designed to be simple and and cheap.;
-attachables/mg_type_99;九九式軽機関銃;
-attachables/mg_type_99/desc;The 九九式 was a Japanese light machine gun developed in the late 1930s.;
-attachables/mg_thompson;Submachine Gun, Caliber .45, M1928A1;
-attachables/mg_thompson/desc;An American submachine gun, a variant of the famous "Tommy Gun".;
 attachables/anchor_danforth;Anchor Danforth;
 attachables/anchor_matrosov;Anchor Matrosov;
 attachables/jack_o_lantern;Jack-o-lantern;
 attachables/witch_hat;Witch Hat;
 decals/anchor_danforth;Anchor Danforth;
 decals/anchor_matrosov;Anchor Matrosov;
-attachables/samurai_helmet;Samurai Helmet;
 attachables/bush_sakura;Branch of Sakura;
-decals/samurai_helmet;Samurai Helmet;
-decals/bush_sakura;Brunch of Sakura;
+decals/bush_sakura;Branch of Sakura;
 attachables/skates;Skates;
 attachables/sleigh;Sleigh;
 attachables/ski;Ski;
@@ -112,17 +80,6 @@ decals/crossout_roadsign;Sign "Run, you fools!";
 decals/crossout_wheel;Spare Wheel;
 decals/crossout_beep;Air Horn;
 attachables/decor_shield;Shield;
-attachables/mg_lanchester_mk1;Submachine Gun, 9mm, Lanchester Mk. 1;
-attachables/mg_m3;Submachine Gun, Caliber .45, M3;
-attachables/mg_ppsh_42;ППШ-42;
-attachables/mg_ppsh_42/desc;The 1942 production block of the famous ППШ submachine gun.
-attachables/mg_stg_44;Sturmgewehr 44;
-attachables/mg_stg_44/desc;A German automatic rifle first introduced in 1944.;
-attachables/mg_tp_100;一〇〇式機関短銃;
-attachables/svt_40;СВТ-40;
-attachables/svt_40/desc;A Soviet semi-automatic rifle developed in 1940.;
-attachables/panzerfaust_60;Panzerfaust 60;
-attachables/panzerfaust_60/desc;A German single-use anti-tank rocket launcher first serviced in 1944.;
 attachables/streamer_sign_yel_rus;"Recording!";
 attachables/streamer_sign_yel_eng;"Recording!";
 attachables/streamer_sign_red_rus;"Recording!";
@@ -132,31 +89,10 @@ attachables/road_sign_users_keep;"Keep trying";
 attachables/road_sign_users_distance;"Keep your distance";
 attachables/slasher_mask;Slasher’s Mask;
 attachables/slasher_hatchet;Slasher’s Hatchet;
-attachables/it_mg_breda_38;Mitragliatrice Breda da 8mm Mod. 38;
-decals/it_mg_breda_38;Mitragliatrice Breda da 8mm Mod. 38;
-attachables/mac_31;MAC 31;
-attachables/mac_31/desc;A French vehicle-mounted machine gun also known as the Rebeil machine gun.
-decals/mac_31;MAC 31;
-attachables/fr_mas_36;MAS 36;
-attachables/fr_mas_36/desc;A French bolt-action rifle developed in the 1930s and produced through the 1950s.;
-decals/fr_mas_36;MAS 36;
-attachables/fr_mas_38;MAS 38;
-attachables/fr_mas_38/desc;A French submachine gun developed in the late 1930s.;
-decals/fr_mas_38;MAS 38;
 attachables/christmas_wreath;Christmas Wreath;
 attachables/stalingrad_sword;Sword of Stalingrad;
 attachables/round_shield;Round Shield;
 attachables/param/maxSurfaceAngle;Decorator can be installed on a surface with a slope of not more than {value}°;
-attachables/ppd_3438;ППД-34/38;
-attachables/beretta_38;M.A.B. 38;
-attachables/beretta_38/desc;An Italian submachine gun developed in the late 1930s.;
-attachables/m50_Reising;Submachine Gun, Caliber .45, M50;
-attachables/owen_machine_carbine;Owen Machine Carbine;
-attachables/owen_machine_carbine/desc;An Australian submachine gun produced in 1942.;
-attachables/mcculloch_47;McColloch 47;
-attachables/mcculloch_47/desc;A popular American chainsaw manufactured by McColloch.;
-attachables/mg_m60;Machine Gun, 7.62mm, M60;
-attachables/mg_m60/desc;An American general-purpose machine gun developed in the 1950s.;
 attachables/fifa_cup;Super Cup;
 attachables/cannibal_axe;Cannibal Axe;
 attachables/golden_ball;Golden Ball;
@@ -165,126 +101,28 @@ attachables/golden_glove;Golden Glove;
 attachables/silver_ball;Silver Ball
 attachables/silver_boot;Silver Boot
 attachables/silver_glove;Silver Glove
-attachables/type98_shin_gunto_set;九八式軍刀;
-attachables/type98_shin_gunto_triad;九八式軍刀;
-attachables/type98_shin_gunto_quad;九八式軍刀;
-attachables/type98_shin_gunto_star;九八式軍刀;
-attachables/type98_shin_gunto_six;九八式軍刀;
-attachables/rgd_33_pack;Bundle of РГД-33;
-attachables/rgd_33_pack/desc;A collection of РГД-33 anti-personnel grenades strapped together to make a more powerful explosive.;
-attachables/akm_47;АКМ;
-attachables/akm_47/desc;A Soviet assault rifle first produced in 1959.;
-attachables/mg_42;MG 3;
-attachables/mg_42/desc;The MG 3 is a German postwar development based on the iconic MG 42.
-attachables/headset;Intercom headset (USSR);
 attachables/road_sign_tankers_day;Military Road Sign Traffic;
-attachables/helmet_1938;Tank helmet (Japan);
-attachables/helmet_m35;Tank helmet M35 (Italy);
-attachables/helmet_wz35;Tank helmet mle 35 (France);
-attachables/helmet_1938/name;Tank helmet (Japan);
-attachables/helmet_m35/name;Tank helmet Mod. 35 (Italy);
-attachables/helmet_wz35/name;Tank helmet mle 35 (France);
-attachables/fn_mag;FN MAG;
-attachables/fn_mag/desc;A Belgian general-purpose machine gun found on a variety of armored vehicles.;
 attachables/round_lion_shield;Round Shield (Lion);
 attachables/celtic_shield;Gallic Shield;
-attachables/dp_27;ДП-27;
-attachables/dp_27/desc;A Soviet light machine gun known for its pan magazine.
 attachables/helm_rome_gold;Gladiator helmet (Gold);
 attachables/helm_rome_silver;Gladiator helmet (Silver);
 attachables/helm_rome_black;Gladiator helmet;
-attachables/ussr_body_armor_6b43;6Б43;
-attachables/ussr_body_armor_6b43/desc;A Russian assault body armor kit used by the VDV, Naval Infantry, Spetznaz, and tank crews.;
-attachables/ussr_ammunition_wwii;Ammunition of the Soviet Army, 1941;
-attachables/ussr_ammunition_wwii/desc;"Ammunition" collection;
-attachables/ger_ammunition_wwii;Wehrmacht ammunition (Germany);
-attachables/ger_ammunition_wwii/desc;"Ammunition" collection;
-attachables/usa_ciras_land;CIRAS Land;
-attachables/usa_ciras_land/desc;Combat Integrated Releasable Armor System Land is an American modular body armor vest.;
-attachables/iotv_body_armor;IOTV;
-attachables/iotv_body_armor/desc;Improved Outer tactical Vest is an American modular armored vest.;
-attachables/sweden_ak5d;Ak 5D;
-attachables/sweden_ak5d/desc;The Automatkarbin 5D is a Swedish compact assault rifle.;
-attachables/cn_qbz_95;QBZ95式5.8毫米自动步枪;
-attachables/cn_qbz_95/desc;A Chinese bullpup assault rifle introduced in 1997.
-attachables/sweden_carl_gustaf_m45;Kpist m/45;
-attachables/sweden_carl_gustaf_m45/desc;The Swedish "Carl Gustav" Kulsprutepistol m/45 was a submachine gun developed in the 1940s.;
-attachables/sweden_gevar_m38;Gevär m/38;
-attachables/sweden_gevar_m38/desc;A Swedish carbine derived from the m/96.
-attachables/sweden_kg_m40;Kg. m/40;
-attachables/sweden_kg_m40/desc;A Swedish light automatic rifle developed in the late 1930s.;
-attachables/cn_type_63_ar;1963年式7.62毫米自动步枪;
 attachables/teddy_bear_valentine;Teddy Bear with heart;
 attachables/toilet_paper_roll_pack;Scarce goods;
-attachables/helmet_afv_crewman;A.F.V. Crewman Helmet (Sweden);
-attachables/helmet_chinese_summer;TMT95;
-attachables/helmet_chinese_summer/desc;A Chinese tanker helmet introduced in the early 1990s, succeeding the TMT-73.
 attachables/dartboard;180!;
 attachables/violet_chest;Secret chest;
-attachables/galil_arm;IMI Galil ARM;
-attachables/galil_arm/desc;Israeli light machine gun conversion of the Galil rifle.
-attachables/hk_psg1;HK PSG 1;
-attachables/hk_psg1/desc;A German marksman rifle derived from the G3 battle rifle.;
-attachables/m249;Machine Gun, 5.56mm, M249;
-attachables/m249/desc;An American license copy of the FN Minimi light machine gun.;
-attachables/rpk;РПК;
-attachables/rpk/desc;A Soviet machine gun based on the АКМ assault rifle.;
-attachables/mg3_kws;MG 3 KWS;
-attachables/mg3_kws/desc;A German modernization of the MG 3 machine gun.;
-attachables/type_88;QJY88式5.8毫米通用机枪;
-attachables/type_88/desc;A Chinese light machine gun developed in the 1980s.;
 attachables/sports_balls;Soccer ball;
 attachables/sports_balls/desc;"Spot the Ball" collection;
-attachables/arisaka_44;四四式騎銃;
-attachables/arisaka_44/desc;A Japanese short rifle developed for cavalry use.;
-attachables/g41;Gewehr 41(W);
-attachables/g41/desc;A German semi-automatic rifle produced in 1941.;
-attachables/lee_enfield;Rifle, .303, No. 4, Mk. I;
-attachables/lee_enfield/desc;A British development of the earlier SMLE Rifle, .303, No. 1.;
-attachables/m1_carabine;Carbine, Caliber .30, M1;
-attachables/m1_carabine/desc;An American light semi-automatic rifle which saw widepsread service.;
-attachables/mauser_98k;Karabiner 98k.;
-attachables/mauser_98k/desc;A German compact modification of the Gewehr 98.;
-attachables/type_99_sniper;九九式狙撃銃;
-attachables/type_99_sniper/desc;A Japanese rifle based on the 九九式短小銃 modified for sniper use.;
-attachables/akms;АКМС;
-attachables/akms/desc;A Soviet АКМ modification for use with paratroopers and tank crews.;
-attachables/akms_premium;Golden АКМС;
-attachables/akms_premium/desc;A gold-plated version of the Soviet АКМС.;
-attachables/famas_f1;FAMAS F1;
-attachables/famas_f1/desc;A French assault rifle which became the standard service weapon of France.;
 attachables/feather_hat;Hat with Feather;
 attachables/feather_hat/desc;"Hats" collection;
 attachables/foil_hat;Foil Cap;
 attachables/foil_hat/desc;The perfect headwear designed by experts used to keep out 5G and other ways 'The Man' employs to fix your mind.;
-attachables/g36k;HK G 36 KR;
-attachables/g36k/desc;A German shortened modification of the G 36 rifle.;
-attachables/german_tank_helmet;Stahlhelm 35;
-attachables/german_tank_helmet/desc;A German steel helmet in service since 1935.;
-attachables/helmet_gk80a_steel;GK80;
-attachables/helmet_gk80a_steel/desc;A Chinese steel helmet develiped in the 1970s.;
 attachables/helmet_hat;Viking Helmet;
 attachables/helmet_hat/desc;A comical representation of a 'Viking' helmet, fitted with impractical horns specifically designed to catch on low-lying foliage.;
-attachables/helmet_m1;Helmet, M1;
-attachables/helmet_m1/desc;An American steel helmet which saw service until modern ballistic helmets replaced it.;
-attachables/helmet_m1_late;Helmet, M1 «Born to Kill»;
-attachables/helmet_m1_late/desc;An M1 helmet with ERDL 'Highland' camouflage, 'Born to Kill' text, and six 7.62x51mm cartridges.;
-attachables/helmet_m21_18;Hjälm m/1921;
-attachables/helmet_m21_18/desc;A Swedish infantry helmet developed in the early 1920s.;
-attachables/helmet_m26;Infantry helmet Mle. 26 (France);
-attachables/helmet_m26/desc;"Helmets" collection;
-attachables/helmet_m33;Elmetto Mod. 33;
-attachables/helmet_m33/desc;An Italian infantry helmet developed in the early 1930s.;
-attachables/helmet_type90;九〇式鉄帽;
-attachables/helmet_type90/desc;"Helmets" collection;
 attachables/jester_hat;Cap and Bells;
 attachables/jester_hat/desc;"Hats" collection;
-attachables/l85a1;Rifle, 5.56mm, L85A1;
-attachables/l85a1/desc;A British assault rifle which saw service in Operation Desert Storm.;
 attachables/leprechaun_hat;Leprechaun's Hat;
 attachables/leprechaun_hat/desc;"Hats" collection;
-attachables/m4_carbine;Carbine, 5.56mm, M4A1;
-attachables/m4_carbine/desc;An American assault rifle developed from the M16.;
 attachables/mad_hatter_hat;Hatter;
 attachables/mad_hatter_hat/desc;"Hats" collection;
 attachables/magic_hat;The Magic Hat;
@@ -293,34 +131,13 @@ attachables/pirate_hat;Pirate's Hat;
 attachables/pirate_hat/desc;"Hats" collection;
 attachables/rabbit_hat;Rabbit's Ears;
 attachables/rabbit_hat/desc;"Hats" collection;
-attachables/scs_70_90;SCS 70/90;
-attachables/scs_70_90/desc;An Italian carbine developed from the AR 70.90.;
 attachables/sombrero_hat;Sombrero;
 attachables/sombrero_hat/desc;"Hats" collection;
-attachables/type_89f;89式5.56mm小銃;
-attachables/type_89f/desc;A Japanese compact assault rifle issued to airborne, reconnaissance, vehicle crew, and mechanized units.;
-attachables/uk_early_helmet;Helmet, Steel, Mk. I;
-attachables/uk_early_helmet/desc;A British steel helmet developed in 1915, often called the "Brodie" helmet.;
 attachables/uncle_sams_hat;Uncle Sam's Hat;
 attachables/uncle_sams_hat/desc;"Hats" collection;
-attachables/ussr_tank_helmet;СШ-39;
-attachables/ussr_tank_helmet/desc;A Soviet infantry helmet developed in 1939.;
 attachables/road_sign_tanks;"Beware of tanks";
 attachables/battlepass_box;Battlepass Box;
 attachables/anvil;Anvil;
-attachables/ak_103;АК-103;
-attachables/ak_103/desc;A Soviet modernization of various АК-series rifles.;
-attachables/cat_decor;Baby tiger;
-attachables/akms_ag;СГК-12;
-attachables/akms_ag/desc;A Soviet АКМ rifle with a ГП-34 grenade launcher;
-attachables/cn_qbz_95_ag;QBZ95 (QLG91B);
-attachables/cn_qbz_95_ag/desc;A Chinese QBZ95 rifle with a QLG91B grenade launcher.;
-attachables/g36k_ag;HK G 36 KR (AG 36);
-attachables/g36k_ag/desc;A German HK G 36 KR rifle with a HK AG 36 grenade launcher.;
-attachables/l85a1_ag;L85A1 (AG 36);
-attachables/l85a1_ag/desc;A British L85A1 rifle with a HK AG 36 grenade launcher.;
-attachables/m4_carbine_ag;Carbine, 5.56mm, M4A1 (M203);
-attachables/m4_carbine_ag/desc;An American M4 Carbine with a M203 grenade launcher.;
 attachables/bengal_light_decor;Sparkler;
 attachables/snowman_decor;Snowman;
 attachables/christmas_tree_decor;New Year Tree;
@@ -330,45 +147,15 @@ attachables/helmet_centurion;Centurion helmet;
 attachables/scutum;Scutum shield;
 attachables/anchor_danforth_ship;Anchor Danforth;
 attachables/anchor_matrosov_ship;Anchor Matrosov;
-attachables/53k;53-К;
-attachables/53k/desc;A Soviet 45 mm anti-tank gun developed in the late 1930s.;
 attachables/decor_diver_suit;Diver's suit;
-attachables/yamato_propeller;Propeller (Yamato);
-attachables/uss_north_carolina_anchor;Anchor of the USS North Carolina;
-attachables/chrysanthemum_emblem;Imperial Seal of Japan;
-attachables/german_cross_ship;Eisenkreuz;
-attachables/soviet_star_ship;Red Star;
-attachables/usn_emblem;Emblem of the United States Navy;
-attachables/gagarin_helmet;Cosmonaut's Helmet;
-attachables/vostok_lander;The "Vostok" capsule;
 attachables/dumper_wheel;Dumper wheel;
 attachables/skull_weight;Kettlebell-skull;
 attachables/husafell_stone;Húsafell Stone;
-attachables/m1_garand;Rifle, Caliber .30, M1;
-attachables/m1_garand/desc;The famous American Garand, the M1 was the primary US Military rifle of WWII.;
-attachables/roks_flamethrowers;РОКС-3;
-attachables/bren_mk2;Machine Gun, .303, Bren Mk. II;
 attachables/acs_shield;ACS shield;
 attachables/voltigeur_sign;Voltigeurs emblem;
-attachables/helmet_m51;Mle. 51/57;
-attachables/mat_49;MAT 49;
-attachables/mat_49/desc;A French submachine gun which entered service in 1949.;
-attachables/aks_74u;АКС-74У;
-attachables/aks_74u/desc;A Soviet compact version of the AK-74 developed for vehicle crews, guards, and other positions requiring a compact weapon.;
-attachables/m1a1_carbine;Carbine, Caliber .30, M1A1;
-attachables/m1a1_carbine/desc;An American light semi-automatic rifle with a folding stock.;
-attachables/m4_late;Medium Tank, M4;
-attachables/willys_mb_dec;Willys MB;
-attachables/waffenhalter;Container "Waffenhalter";
-attachables/bsa_bicycle_fold;BSA Bicycle;
 attachables/flash_mascot;The advertising mascot;
-attachables/aps;АПС;
-attachables/aps/desc;A Soviet underwater assault rifle designed to be fired while submerged.;
-attachables/ida_71_u;ИДА-71У;
 attachables/zodiac_boat;Zodiac;
 attachables/decor_scarecrow;Scarecrow;
-attachables/maxim_gun;ПМ-10;
-attachables/maxim_gun/desc;A Soviet water-cooled machine gun on a wheeled frame.;
 attachables/road_sign_airplane;Road Sign: "Low-flying Aircraft";
 attachables/road_sign_deer;Road Sign: "Wild animals";
 attachables/road_sign_overtake;Road Sign: "Overtaking is prohibited";
@@ -381,29 +168,15 @@ attachables/christmas_sock_decor;Christmas sock;
 attachables/decor_christmas_deer;Christmas deer;
 attachables/decor_snowboard;Snowboard;
 attachables/decor_snowshoes;Snowshoe;
-attachables/ak_bi_7_5;БИ 7-5, исп.04;
-attachables/ak_bi_7_5/desc;A Russian air rifle used for biathlon events.;
 attachables/ice_climber_backpack;Ice Climber’s Backpack;
-attachables/snowmobile_nkl16;НКЛ-16/41;
-attachables/decor_dukw;DUKW-353;
 attachables/road_sign_p4p_silver;Sign: Play4Peace, Silver;
 attachables/road_sign_p4p_silver/desc;A diamond sign with 'Play4Peace' written on it. Given out during the #Play4Peace 2021 Twitch Drop promotion.;
 attachables/road_sign_p4p_gold;Sign: Play4Peace, Gold;
 attachables/road_sign_p4p_gold/desc;A diamond sign with 'Play4Peace' written on it. Given out during the #Play4Peace 2021 Twitch Drop promotion.;
 attachables/decor_chinese_lamp;Sky Lantern;
-attachables/ubt;УБТ;
-attachables/ubt/desc;A Soviet aircraft machine gun, in its turret-mounted configuration.;
 attachables/bomb_box;Bomb cassette;
-attachables/decor_skoda_morser_m16;30,5cm Mörser M.11/16;
-attachables/decor_skoda_morser_m16/desc;A Czech siege howitzer developed in the 1900s.;
-attachables/israeli_601_afv_helmet;OR-601;
-attachables/israeli_601_afv_helmet/desc;An Israeli helmet designed for armored vehicle crews.;
-attachables/or_201_helmet;OR-201;
-attachables/or_201_helmet/desc;An Israeli helmet designed for infantry and artillery crews.
 attachables/shield_paveza;Pavise
 attachables/anchor_love;Anchor of Love;
-attachables/mp5n;MP 5 N A3;
-attachables/mp5n/desc;A naval version of the German MP 5 submachine gun with a collapsible stock.;
 attachables/decor_kris;Ceremonial Kris;
 attachables/decor_bread_baguette;Basket with baguettes;
 attachables/decor_megaphone;Megaphone;
@@ -411,13 +184,6 @@ attachables/decor_elephant;Armored elephant;
 attachables/elephant_helmet;Elephant helmet;
 attachables/ankus;Ankus;
 attachables/ankus/desc;A one-handed hooked blade used by Indian elephant handlers.;
-attachables/piat;Projector, Infantry, Anti-Tank, Mk. I;
-attachables/piat/desc;A British anti-tank launcher, fitted with the Mk. IV HEAT warhead.
-attachables/sg43;СГ-43;
-attachables/sg43/desc;A Soviet machine gun designed primarily to replace the aging ПМ-10, the Maxim.;
-attachables/us_browning_m1919a6;M1919A6;
-attachables/us_browning_m1919a6/desc;An American 7.62 mm light infantry machine gun.;
-attachables/decor_tank_matilda;Matilda Mk. II;
 bush_big_one_pcs/name;Foliage tree (Type A)
 bush_small_one_pcs/name;Foliage tree (Type C)
 bush_long_one_pcs/name;Foliage tree (Type B);
@@ -473,16 +239,8 @@ attachables/helmet_shin_kazama;Shin Kazama's Helmet;
 attachables/helmet_kim_aba;Kim Aba's Helmet;
 attachables/helmet_kitri;Kitri Parvaneh's Helmet;
 attachables/helmet_mickey_simon;Mickey Simon's Helmet;
-attachables/cetme_mod_lc;CETME LC;
-attachables/cetme_mod_lc/desc;A compact version of the CETME Modello L, a Spanish assault rifle.;
-attachables/helmet_6b48;6Б48;
-attachables/helmet_6b48/desc;A modern Russian tank crewman helmet.;
 attachables/decor_quadrocopter;Quadrocopter;
-attachables/austen_mk_1;Austen Mk. I
-attachables/austen_mk_1/desc;The Austen is an Australian submachine gun derived from the British Sten.;
 attachables/decor_greek_fire;Greek Fire;
-attachables/m9a1_7_flamethrower;M9A1-7;
-attachables/m9a1_7_flamethrower/desc;The M9 flamethrower was the most common American modification fielded in the Vietnam War.;
 attachables/sign_fire_danger;Sign "Flammable";
 attachables/decor_10_years_anniversary;10 Year Anniversary;
 attachables/decor_10_years_anniversary_boat;10 Year Anniversary;
@@ -496,34 +254,16 @@ attachables/decor_christmas_sleigh;Christmas Sleigh;
 attachables/decor_guard_post;Guard Post;
 attachables/decor_crown;Crown;
 attachables/scepter;Royal Scepter;
-attachables/decor_ampulomet;125-мм ампуломёт обр. 1941 г.;
-attachables/decor_ampulomet/desc;The ампуломёт was the only mass-produced Soviet Ampulomet (lit. vial thrower) of World War II. It was an improvised anti-tank weapon intended to launch incendiary projectiles.;
 attachables/trb_seal;Bajur;
 attachables/decor_heraldic_shield;Heraldic shield;
 attachables/decor_pelta_shield;Pelta shield;
 attachables/football_tank_cup;Trophy: Best Striker 2023;
-attachables/atrl_light_west_launcher;Spike-SR;
-attachables/atrl_light_west_launcher/desc;A fire-and-forget top-attack anti-tank missile designed by Israel's Rafael Advanced Defense Systems.;
-attachables/mg_8mm;SIG Sauer MG 338;
-attachables/mg_8mm/desc;A .338 machine gun designed by SIG Sauer for use on the I-PARMS Powered Armor Suits.;
 attachables/decor_black_quadrocopter;Quadcopter;
 attachables/exs_pilot_helmet;Tactical Helmet;
 attachables/decor_shako;Shako;
 attachables/decor_cavalryman_statue;Cavalry statue;
-attachables/decor_lewis_gun;Lewis Automatic Machine Rifle;
-attachables/decor_lewis_gun/desc;A water-cooled machine gun dating to the First World War, the Lewis gun was an American design adopted in massive numbers by the UK.;
-attachables/pm_38;120-мм полковой миномёт обр. 1938 г. (ПМ-38);
-attachables/pm_38/desc;A Soviet 120 mm mortar, an upscaled version of the 81 mm PM-37 mortar, which saw widespread use during WWII and beyond.;
-attachables/mg_maxim_tokarev;Пулемёт Максима-Токарева;
-attachables/mg_maxim_tokarev/desc;The first light machine gun domestically developed and adopted by the USSR, a derivative of the earlier Пулемёт Максима обр. 1910 г.;
-attachables/sterling;Carbine, Machine, 9mm, Patchett, Mk. I, No. 1;
-attachables/sterling/desc;The Patchett was an early predecessor to the British Sterling submachine gun.;
-attachables/us_browning_m1918;Rifle, Caliber .30, Automatic, Browning, M1918A2;
-attachables/us_browning_m1918/desc;The classic Browning Automatic Rifle (B.A.R.). This weapon was intended to provide automatic fire to squads that lacked automatic firepower.;
 attachables/decor_dakimakura_anime_usa;Stars and Stripes dakimakura;
 attachables/decor_dakimakura_anime_ussr;Motherland Maiden dakimakura;
-attachables/mg_vickers;Gun, Machine, .303, Vickers, Mk. I;
-attachables/mg_vickers/desc;The Vickers machine gun saw widespread use from its introduction in 1912 until well-after WWII as both an infantry heavy machine gun and early form of offensive aircraft armament.;
 attachables/decor_puzzle_lock;Puzzle Door Lock;
 attachables/decor_puzzle_lock/desc;A puzzle door lock from Atomic Heart.;
 attachables/decor_shved;Swede axe;
@@ -535,26 +275,13 @@ attachables/decor_eagle_head/desc;An eagle head decoration from Atomic Heart.;
 attachables/decor_bagpack;ILBE Rucksack;
 attachables/decor_bagpack/desc;
 attachables/decor_themis_drone;Crawler-type drone;
-attachables/cn_qjy_88;QJY88式5.8毫米通用机枪;
-attachables/cn_qjy_88/desc;A Chinese light machine gun developed in the 1980s mounted on an easel tripod.;
 attachables/decor_bmx;BMX Bicycle;
 attachables/jet_ski;Jet Ski;
-attachables/type98_shin_gunto_seven;九八式軍刀;
 attachables/decor_molotov_box;Molotov cocktail;
-attachables/helmet_phv57e;ПНВ-57Е;
-attachables/rm_40;50-мм ротный миномёт обр. 1940 г. (РМ-40);
-attachables/rm_40/desc;The РМ-40 was a Soviet 50 mm mortar based on the earlier РМ-38. It simplified many components and improved shock absorption and gas expulsion, among other improvements.
-attachables/mk1a_flight_helmet;Mk. 1A;
-attachables/beretta_ar_70_90;Beretta AR 70/90;
-attachables/beretta_ar_70_90/desc;The AR 70/90 has been the standard issue service rifle of the Italian Armed Forces since 1990.
 attachables/waka_boat;Waka;
 attachables/decor_lifeboat_carley_float;Carley float;
 attachables/decor_emergency_buoy;Emergency buoy;
-attachables/colt_browning_m1895;Colt-Browning Model 1895;
-attachables/colt_browning_m1895/desc;The Colt-Browning M1895 was an early machine gun and the first successful gas-operated machine gun in the world.
 attachables/death_valley_sign;Death Valley sign;
-attachables/helmet_nvg;FAST XP (GPNVG);
-attachables/helmet_nvg/desc;The Ops-Core FAST XP High-Cut Helmet System with an L3Harris GPNVG.;
 attachables/decor_club_night_battles;Club Night Battles sign;
 attachables/decor_christmas_board;New Year sign;
 attachables/decor_gingerbread_house;Gingerbread house;
@@ -562,78 +289,37 @@ attachables/decor_ratrack;Snowcat;
 attachables/decor_snowbike;Snowbike;
 attachables/road_sign_closed;Avalanche Danger;
 attachables/road_sign_north_pole;North Pole;
-attachables/fn_scar;FN SCAR-L (FN40GL);
-attachables/fn_scar/desc;A Belgian assault rifle from the SCAR family, adopted by the U.S. as the Mk 16 Mod 0, and fitted with a 40 mm grenade launcher.;
-attachables/mk19_grenade_launcher;Mk 19;
-attachables/mk19_grenade_launcher/desc;An American 40 mm automatic grenade launcher, the Mk 19 replaced the older, hand-cranked Mk 18 in service.
 attachables/decor_fuel_pallet;Fuel Pallet;
-attachables/maxim_gun_blockade;Пулемёт Максима обр. 1910 г.;
-attachables/maxim_gun_blockade;A simplified version of the Пулемёт Максима обр. 1910 г. produced during the Siege of Leningrad.;
 attachables/decor_new_year_dragon;Green Dragon;
 attachables/decor_dakimakura_anime_french;Liberty Belle dakimakura;
 attachables/decor_dakimakura_anime_german;Panzer Princess dakimakura;
-attachables/red_army_hat;Будёновка;
 attachables/decor_goalkeeper_cup;Golden Sheridan 2024;
 attachables/decor_wheel_spike_md;Spikes;
 attachables/decor_metal_flame_md;Iron Flame;
-attachables/pf_98;PF98;
-attachables/decor_sweden_navy_shield;Swedish Navy emblem;
-attachables/rk_62;RK-62;
-attachables/karl_gustav;8,4 cm Granatgevär m/86;
 attachables/travel_gramophone;Gramophone;
-attachables/m1921_thompson;Colt Model 1921A;
-attachables/decor_demolition_bomb;Bomb, Demolition, No. 1;
 attachables/decor_auction;Acutioneer's gavel;
 attachables/pisang;Banana;
 attachables/seikat_pisang;Bunch of Bananas;
-attachables/xm_29;XM29 OICW;
-attachables/decor_lldr_an_ped_1b;LLDR, AN/PED-1B
-attachables/decor_davy_crockett;Davy Crockett;
-attachables/type98_shin_gunto_eight;八犬伝;
-attachables/paris_general_hat;General's Kepi (France);
-attachables/tanks_general_hat;Tank Forces General's Cap (USSR);
-attachables/he_fs_gold;HE-FS;
 attachables/decor_mantelet;Mantelet;
 attachables/tuhao_heygirl;Tuhao Heygirl;
-attachables/dsr_1;DSR-1
 attachables/decor_dakimakura_anime_omaneko;Omaneko dakimakura (normal edition)
 attachables/decor_dakimakura_anime_omaneko/desc;Japan Air Self-Defense Force official mascot character "Omaneko" special sleep acceleration device type 1
 attachables/decor_dakimakura_anime_omaneko_b;Omaneko dakimakura (limited edition)
 attachables/decor_dakimakura_anime_omaneko_b/desc;Japan Air Self-Defense Force official mascot character "Omaneko" special sleep acceleration device type 1 (Kai)
-attachables/lad;LAD
-attachables/luftfaust_b;Luftfaust-B
-attachables/enzian;Enzian
-attachables/tkb_059;ТКБ-059
 attachables/decor_d_point_cup;D Point
 attachables/decor_nutcraker;Nutcracker
 attachables/decor_hut_on_chicken_legs;Baba Yaga's Hut
 attachables/christmas_gnome_girl;Christmas Miss Gnome
 attachables/decor_wooden_christmas_tree;Mini Christmas Tree
 attachables/decor_uroboros;Ouroboros
-attachables/mas_49_56;MAS 49/56
-attachables/lrac_f1;LRAC F1
-attachables/mo_120_rt_f1;MO 120 RT F1
 attachables/decor_heybox_guai;Heybox Cube Guai
 attachables/decor_bomb_on_tank;Unexploded Bomb
 attachables/decor_bomb_on_tank/desc;3... 2... 1... oops!
-attachables/decor_kubanka_hat;Папаха
-attachables/benelli_m4;M4
-attachables/pickelhelm;Pickelhaube
-attachables/ak_46_1;АК-46
-attachables/rpg2;РПГ-2
-attachables/b_10;Б-10
-attachables/ds_39;ДС-39
 attachables/decor_reddit_500k;500k and Climbing!
 attachables/decor_reddit_500k/desc;In honor of half a million subscribers on WT Reddit
-attachables/decor_gneisenau_heraldic_shield;Gneisenau ship crest
-attachables/decor_m1941_johnson;Johnson M1941
 attachables/decor_dakimakura_anime_elsa;Dakimakura "Elsa"
 attachables/decor_dakimakura_anime_kate;Dakimakura "Kate"
 attachables/decor_dakimakura_anime_maria;Dakimakura "Maria"
-attachables/decor_breda_mod30;Breda 30
-attachables/decor_brixia_model_35;Brixia Mod. 35
-attachables/decor_l3_cc;L 33 CC
-attachables/decor_hk_g11;G 11
 attachables/decor_christmas_gnome_deer;Garden gnome deer
 attachables/decor_disco_sphere;Christmas Disco Ball
 attachables/decor_christmas_dodge;Christmas Pickup Truck
@@ -646,7 +332,6 @@ attachables/decor_pistol;Pistol
 attachables/decor_paintball_mask;Paintball helmet
 attachables/decor_paintball_marker;Paintball marker
 attachables/decor_fire_horse;Horse figurine
-attachables/helmet_sh_36;СШ-36
 attachables/decor_cheer_heybox_guai;Cheer fors
 attachables/decor_tank_match_cup;Tank of the Match
 CLIPPED_LANG_KEEP_IT_ALWAYS_FIRST;;
