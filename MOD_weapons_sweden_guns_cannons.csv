@@ -153,14 +153,14 @@ weapons/105mm_L74_user_cannon;10,5 cm kan strv L74;
 weapons/105mm_kan_strv_101_user_cannon;10,5 cm kan strv 101;
 weapons/105mm_kan_strv_104_user_cannon;10,5 cm kan strv 104;
 weapons/105mm_kan_strv_105_user_cannon;10,5 cm kan strv 105;
-105mm_slspgr_m61;slsgr m/61;
-105mm_slpprj_m90c;slpprj m/90c;
-105mm_slsgr_m61;slsgr m/61;
 105mm_slpprj_m61;slpprj m/61;
 105mm_slpprj_m62;slpprj m/62;
 105mm_slpprj_m66;slpprj m/66;
-105mm_rokgr_m61;rökgr m/61;
 105mm_slpprj_m80;slpprj m/80;
+105mm_slpprj_m90c;slpprj m/90c;
+105mm_slspgr_m61;slsgr m/61;
+105mm_slsgr_m61;slsgr m/61;
+105mm_rokgr_m61;rökgr m/61;
 
 
 weapons/120mm_akan_user_cannon;12 cm akan fm/50;

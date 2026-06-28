@@ -12,7 +12,7 @@ shop/group/germ_pzkpfw_V_a_f_group;Panther A / Panther G / Panther F
 shop/group/germ_flakpanzer_1_group;Pz.Kpfw. I A (2 cm Fla.K. 38) / Flakpanzer 38
 shop/group/germ_flakpanzer_4_group;Ostwind / Wirbelwind
 shop/group/germ_tiger_east_west_group;Two Fronts Bundle
-shop/group/germ_sturmpanzer_221_group;s.I.G. 33B Sfl. / le.Pz.Spw. (s.Pz.B. 41)
+shop/group/germ_sturmpanzer_221_group;s.I.G. 33B Sfl. / le.Pz.Sp.Wg. (s.Pz.B. 41)
 shop/group/germ_panzerjager_251_group;Panzerjäger I / m.Spw. (7,5 cm K.) D
 shop/group/germ_marder_stug_a_group;Panzerjäger 38 / Sturmgeschütz A
 shop/group/germ_marder_stuh_group;Panzerjäger 38 H / Sturmhaubitze G / Sturmgeschütz F
@@ -267,19 +267,19 @@ germ_pzkpfw_VI_ausf_e_tiger_1;Tiger I
 germ_pzkpfw_VI_ausf_e_tiger_2;Tiger I
 
 // TIGER II //
-germ_pzkpfw_VI_ausf_b_tiger_IIp_shop;Tiger II (1-47)
+germ_pzkpfw_VI_ausf_b_tiger_IIp_shop;Tiger II (Apr. 1944)
 germ_pzkpfw_VI_ausf_b_tiger_IIp_0;"Panzerkampfwagen Tiger (8,8 cm) Ausf. B
-Fgst.Nr. 1-47"
+April 1944 Produktion"
 germ_pzkpfw_VI_ausf_b_tiger_IIp_1;Tiger II
 germ_pzkpfw_VI_ausf_b_tiger_IIp_2;Tiger II
-germ_pzkpfw_VI_ausf_b_tiger_IIh_shop;Tiger II
+germ_pzkpfw_VI_ausf_b_tiger_IIh_shop;Tiger II (Sep. 1944)
 germ_pzkpfw_VI_ausf_b_tiger_IIh_0;"Panzerkampfwagen Tiger (8,8 cm) Ausf. B
-Dezember 1944 Umbau"
+September 1944 Produktion"
 germ_pzkpfw_VI_ausf_b_tiger_IIh_1;Tiger II
 germ_pzkpfw_VI_ausf_b_tiger_IIh_2;Tiger II
-germ_pzkpfw_VI_ausf_b_tiger_IIh_sla_shop;Tiger II (Sla. 16)
+germ_pzkpfw_VI_ausf_b_tiger_IIh_sla_shop;Tiger II (Sep. 1944) (Sla. 16)
 germ_pzkpfw_VI_ausf_b_tiger_IIh_sla_0;"Panzerkampfwagen Tiger (8,8 cm) Ausf. B
-Dezember 1944 Umbau, Sla. 16"
+September 1944 Produktion, Sla. 16"
 germ_pzkpfw_VI_ausf_b_tiger_IIh_sla_1;Tiger II
 germ_pzkpfw_VI_ausf_b_tiger_IIh_sla_2;Tiger II
 germ_pzkpfw_VI_ausf_b_tiger_IIh_kwk46_shop;Tiger II (Kw.K. L/68)
@@ -481,41 +481,41 @@ germ_sturmpanzer_II_1;s.I.G. 33B Sfl.
 germ_sturmpanzer_II_2;s.I.G. 33B Sfl.
 
 // PANZERSPAHWAGEN //
-germ_sdkfz_221_s_pz_b_41_shop;le.Pz.Spw. (s.Pz.B. 41)
+germ_sdkfz_221_s_pz_b_41_shop;le.Pz.Sp.Wg. (s.Pz.B. 41)
 germ_sdkfz_221_s_pz_b_41_0;"leichter Panzerspähwagen (2,8 cm s.Pz.B. 41)
 3. Serie, März 1942 Umbau"
-germ_sdkfz_221_s_pz_b_41_1;le.Pz.Spw. (s.Pz.B. 41)
-germ_sdkfz_221_s_pz_b_41_2;le.Pz.Spw.
-germ_sdkfz_222_shop;le.Pz.Spw. (2 cm) B
+germ_sdkfz_221_s_pz_b_41_1;le.Pz.Sp.Wg. (s.Pz.B. 41)
+germ_sdkfz_221_s_pz_b_41_2;le.Pz.Sp.Wg.
+germ_sdkfz_222_shop;le.Pz.Sp.Wg. (2 cm) B
 germ_sdkfz_222_0;"leichter Panzerspähwagen (2 cm) Ausf. B
 5. Serie, Mai 1942 Produktion"
-germ_sdkfz_222_1;le.Pz.Spw. (2 cm) B
-germ_sdkfz_222_2;le.Pz.Spw.
-germ_sdkfz_234_1_shop;s.Pz.Spw. (2 cm)
+germ_sdkfz_222_1;le.Pz.Sp.Wg. (2 cm) B
+germ_sdkfz_222_2;le.Pz.Sp.Wg.
+germ_sdkfz_234_1_shop;s.Pz.Sp.Wg. (2 cm)
 germ_sdkfz_234_1_0;schwerer Panzerspähwagen (2 cm)
-germ_sdkfz_234_1_1;s.Pz.Spw. (2 cm)
-germ_sdkfz_234_1_2;s.Pz.Spw.
-germ_sdkfz_234_2_shop;s.Pz.Spw. (5 cm)
+germ_sdkfz_234_1_1;s.Pz.Sp.Wg. (2 cm)
+germ_sdkfz_234_1_2;s.Pz.Sp.Wg.
+germ_sdkfz_234_2_shop;s.Pz.Sp.Wg. (5 cm)
 germ_sdkfz_234_2_0;schwerer Panzerspähwagen (5 cm)
-germ_sdkfz_234_2_1;s.Pz.Spw. (5 cm)
-germ_sdkfz_234_2_2;s.Pz.Spw.
-germ_sdkfz_234_2_td_shop;s.Pz.Spw. (5 cm) (TD)
+germ_sdkfz_234_2_1;s.Pz.Sp.Wg. (5 cm)
+germ_sdkfz_234_2_2;s.Pz.Sp.Wg.
+germ_sdkfz_234_2_td_shop;s.Pz.Sp.Wg. (5 cm) (TD)
 germ_sdkfz_234_2_td_0;schwerer Panzerspähwagen (5 cm) (Twitch Drop)
-germ_sdkfz_234_2_td_1;s.Pz.Spw. (5 cm)
-germ_sdkfz_234_2_td_2;s.Pz.Spw.
-germ_sdkfz_234_2_mod_shop;s.Pz.Spw. (5 cm) (Pz.Aufkl.Abt. 20)
+germ_sdkfz_234_2_td_1;s.Pz.Sp.Wg. (5 cm)
+germ_sdkfz_234_2_td_2;s.Pz.Sp.Wg.
+germ_sdkfz_234_2_mod_shop;s.Pz.Sp.Wg. (5 cm) (Pz.Aufkl.Abt. 20)
 germ_sdkfz_234_2_mod_0;"schwerer Panzerspähwagen (5 cm)
 Stab, Panzer-Aufklärungs-Abteilung 20"
-germ_sdkfz_234_2_mod_1;s.Pz.Spw. (5 cm)
-germ_sdkfz_234_2_mod_2;s.Pz.Spw.
-germ_sdkfz_234_3_shop;s.Pz.Spw. (7,5 cm)
+germ_sdkfz_234_2_mod_1;s.Pz.Sp.Wg. (5 cm)
+germ_sdkfz_234_2_mod_2;s.Pz.Sp.Wg.
+germ_sdkfz_234_3_shop;s.Pz.Sp.Wg. (7,5 cm)
 germ_sdkfz_234_3_0;schwerer Panzerspähwagen (7,5 cm)
-germ_sdkfz_234_3_1;s.Pz.Spw. (7,5)
-germ_sdkfz_234_3_2;s.Pz.Spw.
-germ_sdkfz_234_4_shop;s.Pz.Spw. (7,5 cm Pa.K. 40)
+germ_sdkfz_234_3_1;s.Pz.Sp.Wg. (7,5)
+germ_sdkfz_234_3_2;s.Pz.Sp.Wg.
+germ_sdkfz_234_4_shop;s.Pz.Sp.Wg. (7,5 cm Pa.K. 40)
 germ_sdkfz_234_4_0;schwerer Panzerspähwagen (7,5 cm Pa.K. 40)
-germ_sdkfz_234_4_1;s.Pz.Spw. (7,5 cm Pa.K. 40)
-germ_sdkfz_234_4_2;s.Pz.Spw.
+germ_sdkfz_234_4_1;s.Pz.Sp.Wg. (7,5 cm Pa.K. 40)
+germ_sdkfz_234_4_2;s.Pz.Sp.Wg.
 
 // SCHUTZENPANZERWAGEN //
 germ_sdkfz_251_9_shop;m.Spw. (7,5 cm K.) D
@@ -538,16 +538,16 @@ germ_sdkfz_251_22_2;m.Spw.
 
 
 // BEUTEPANZER //
-germ_amd_35_kwk39_shop;Pz.Spw. 178 (5 cm Pa.K. 39)
+germ_amd_35_kwk39_shop;Pz.Sp.Wg. P. (5 cm Kw.K. 39/1)
 germ_amd_35_kwk39_0;"Panzerspähwagen Panhard 178
-5 cm Panzerabwehrkanone 39 (L/60)"
-germ_amd_35_kwk39_1;Pz.Spw. 178 (5 cm Pa.K. 39)
-germ_amd_35_kwk39_2;Pz.Spw. 178
-germ_amd_35_kwk_shop;Pz.Spw. 178 (5 cm Kw.K. 38)
+5 cm Kampfwagenkanone 39/1 (L/60)"
+germ_amd_35_kwk39_1;Pz.Sp.Wg. P. (5 cm Kw.K. 39/1)
+germ_amd_35_kwk39_2;Pz.Sp.Wg. P.
+germ_amd_35_kwk_shop;Pz.Sp.Wg. P. (5 cm Kw.K. 38)
 germ_amd_35_kwk_0;"Panzerspähwagen Panhard 178
 5 cm Kampfwagenkanone 38 (L/42)"
-germ_amd_35_kwk_1;Pz.Spw. 178 (5 cm Kw.K. 38)
-germ_amd_35_kwk_2;Pz.Spw. 178
+germ_amd_35_kwk_1;Pz.Sp.Wg. P. (5 cm Kw.K. 38)
+germ_amd_35_kwk_2;Pz.Sp.Wg. P.
 germ_t_34_747_shop;Pz.Kpfw. T 43
 germ_t_34_747_0;29-Tonner Panzerkampfwagen T 34 neuer Art (T 43)
 germ_t_34_747_1;Pz.Kpfw. T 43

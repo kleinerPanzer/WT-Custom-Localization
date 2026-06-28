@@ -3191,3 +3191,5 @@ exp_reasons/kill_from_severe_damage;Assist count as kill;
 exp_reasons/kill_helicopter_finishing_other;Helicopter Destroyed;
 exp_reasons/kill_helicopter_from_severe_damage;Super-critical hit;
 exp_reasons/kill_helicopter;Helicopter Destroyed;
+
+hint/mouseClick;
