@@ -247,9 +247,9 @@ weapons/125mm_9M115m/short;ПТУР 9М115М;
 152mm_tow_2n;BGM-71K TOW 3C;
 70mm_fim_92x;FIM-92L Stinger;
 su_9M336M;ЗУР 9М336М;
-110mm_spike_sr;Spike-SR4;
-weapons/110mm_spike_sr/short;Spike-SR4;
-110mm_spike_srme;Spike-SR4ME;
+110mm_spike_sr;Spike SR4;
+weapons/110mm_spike_sr/short;Spike SR4;
+110mm_spike_srme;Spike SR4ME;
 43mm_VK_94;VK-94;
 100mm_atomic_hedgie_missile;PC;
 weapons/100mm_atomic_hedgie_missile/short;PC;
@@ -269,7 +269,7 @@ weapons/12_7mm_exo_M2_HB_user_machinegun;Machine Gun, Caliber .50: Browning, M2,
 weapons/8_6mm_exo_MG338_user_machinegun;.338 Maschinengewehr MG 338;
 weapons/70mm_exo_FIM_92X_rocket_launcher;Stinger Launcher;
 weapons/72mm_exo_9M336M_rocket_launcher;ПУ 9М336М для 6Б55; 
-weapons/110mm_exo_spike_sr_rocket_launcher;Spike-SR Launcher;
+weapons/110mm_exo_spike_sr_rocket_launcher;Spike SR Launcher;
 weapons/130mm_exo_9M115M_rocket_launcher;ПУ 9М115М для 6Б55;
 apds_sabot;APDS Sabot
 apfsds_sabot;APFSDS Sabot

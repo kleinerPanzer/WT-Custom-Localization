@@ -1,17 +1,31 @@
 <ID|readonly|noverify>;<NewLanguage>;
-attachables/it_mg_breda_38;Mitragliatrice Breda da 8mm Mod. 38;
-decals/it_mg_breda_38;Mitragliatrice Breda da 8mm Mod. 38;
-attachables/beretta_38;M.A.B. 38;
-attachables/beretta_38/desc;An Italian submachine gun developed in the late 1930s.;
+
+// WEAPONS //
+decals/it_mg_breda_38;Breda 38;
+attachables/it_mg_breda_38;Breda 38;
+attachables/it_mg_breda_38;Mitragliatrice Breda da 8 mm modello 1938;
+
+attachables/beretta_38;MAB 38;
+attachables/beretta_38/desc;Moschetto automatico Beretta modello 1938
+
+attachables/beretta_ar_70_90;AR 70/90;
+attachables/beretta_ar_70_90/desc;AR 70/90
+attachables/scs_70_90;SCS 70/90;
+attachables/scs_70_90/desc;SCS 70/90
+attachables/benelli_m4;M4
+attachables/benelli_m4/desc;M4
+attachables/decor_breda_mod30;Breda 30
+attachables/decor_breda_mod30/desc;Fucile mitragliatore Breda modello 1930
+attachables/decor_brixia_model_35;Brixia 35
+attachables/decor_brixia_model_35/desc;Mortaio d'assalto Brixia modello 1935
+
+// EQUIPMENT //
+
 attachables/helmet_m35;Tank helmet M35 (Italy);
 attachables/helmet_m35/name;Tank helmet Mod. 35 (Italy);
 attachables/helmet_m33;Elmetto Mod. 33;
 attachables/helmet_m33/desc;An Italian infantry helmet developed in the early 1930s.;
-attachables/scs_70_90;SCS 70/90;
-attachables/scs_70_90/desc;An Italian carbine developed from the AR 70.90.;
-attachables/beretta_ar_70_90;Beretta AR 70/90;
-attachables/beretta_ar_70_90/desc;The AR 70/90 has been the standard issue service rifle of the Italian Armed Forces since 1990.
-attachables/benelli_m4;M4
-attachables/decor_breda_mod30;Breda 30
-attachables/decor_brixia_model_35;Brixia Mod. 35
+
+// VEHICLES //
 attachables/decor_l3_cc;L 33 CC
+attachables/decor_l3_cc/desc;Carro armato leggero 33 controcarro

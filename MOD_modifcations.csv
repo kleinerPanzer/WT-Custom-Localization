@@ -2664,10 +2664,10 @@ modification/cn_fire_snake_90a/desc;Allows installation of FS90A missiles.;
 modification/cn_fire_snake_90a;FS90A;
 modification/cn_fire_snake_70a/desc;Allows installation of FS70A missiles.
 modification/cn_fire_snake_70a;FS70A
-modification/atgm_spike_x2/desc;Allows installation of Spike-ER missiles.;
-modification/atgm_spike_x2;Spike-ER;
-modification/atgm_spike_x4/desc;Allows installation of additional Spike-ER missiles.;
-modification/atgm_spike_x4;Spike-ER 4;
+modification/atgm_spike_x2/desc;Allows installation of Spike ER missiles.;
+modification/atgm_spike_x2;Spike ER;
+modification/atgm_spike_x4/desc;Allows installation of additional Spike ER missiles.;
+modification/atgm_spike_x4;Spike ER 4;
 modification/tiger_tel12/desc;Allows installation additional of TDA rockets.;
 modification/tiger_tel12;TELSON 12;
 modification/tiger_hmp400_lcc;FN HMP400 LCC;

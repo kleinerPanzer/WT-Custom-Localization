@@ -1,15 +1,15 @@
 <ID|readonly|noverify>;<NewLanguage>
 
-weapons/110mm_Spike_freccia_rocket_launchr_user_cannon;Spike-LR2;
-weapons/110mm_Spike_freccia_rocket_launchr_user_cannon/short;Spike-LR2;
-weapons/110mm_Spike_kf_41_rocket_launchr_user_cannon;Spike-LR2;
-weapons/110mm_Spike_kf_41_rocket_launchr_user_cannon/short;Spike-LR2;
-weapons/110mm_mells_rocket_launchr_user_cannon;Spike-LR2;
-weapons/110mm_mells_rocket_launchr_user_cannon/short;Spike-LR2;
-weapons/110mm_spike_lr2/short;Spike-LR2;
-110mm_spike_mr;Spike-MR;
-weapons/110mm_spike_mr/short;Spike-MR;
-110mm_spike_lr2;Spike-LR2;
+weapons/110mm_Spike_freccia_rocket_launchr_user_cannon;Spike LR2;
+weapons/110mm_Spike_freccia_rocket_launchr_user_cannon/short;Spike LR2;
+weapons/110mm_Spike_kf_41_rocket_launchr_user_cannon;Spike LR2;
+weapons/110mm_Spike_kf_41_rocket_launchr_user_cannon/short;Spike LR2;
+weapons/110mm_mells_rocket_launchr_user_cannon;Spike LR2;
+weapons/110mm_mells_rocket_launchr_user_cannon/short;Spike LR2;
+weapons/110mm_spike_lr2/short;Spike LR2;
+110mm_spike_mr;Spike MR;
+weapons/110mm_spike_mr/short;Spike MR;
+110mm_spike_lr2;Spike LR2;
 
 weapons/60mm_hvms_user_cannon;60 mm HVMS
 
