@@ -82,7 +82,7 @@ weapons/120mm_TKG_user_cannon;10式120mm戦車砲;
 
 weapons/155mm_NSJ_L30_user_cannon;75式30口径155mmりゅう弾砲
 weapons/155mm_type_99_l52_user_cannon;99式52口径155mmりゅう弾砲
-155mm_type75;75式りゅう弾;;
+155mm_type75;75式りゅう弾;
 
 weapons/130mm_Type_75_rocket_launcher;75式130mmロケット弾発射機;
 weapons/130mm_Type_75_rocket_launcher/short;75式130mmロケット弾発射機;

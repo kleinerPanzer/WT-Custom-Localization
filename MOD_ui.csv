@@ -1622,8 +1622,9 @@ hints/manual_change_crew_available_driver;This vehicle has only one crew member 
 hints/manual_change_crew_necessary_gunner;Hold the "Forward" button so that the Gunner can take the Driver's place and start to move the vehicle
 hints/manual_change_crew_necessary_driver;Hold the "Fire" button so that the Driver can take the Gunner's place and man the cannon
 hint/holdBtn/short;Hold
-hint/holdBtn/postfix;to close all windows
+hint/closeByGamepad;close the window (hold to close all windows)
 hint/pressBtn/short;Press
+hint/mouseClick;;
 HUD/TXT_MACH_SHORT;MACH
 msg/textToShowInCockpit;Cockpit placeholder
 HUD/BAY_DOOR_IS_OPEN;BAY OPEN
@@ -1650,12 +1651,13 @@ HUD/TXT_CHOOSE_ALIVE_TARGET_FOR_SCOUTING;Destroyed targets cannot be scouted
 HUD/TXT_CHOOSE_GROUND_TARGET_FOR_SCOUTING;Only ground targets can be scouted
 HUD/TXT_TARGET_ALREADY_SCOUTED;This target has already been scouted
 HUD/TXT_MUST_SEE_SCOUTING_TARGET;Target is out of sight
-hints/ccrp_bomb_not_ready;Bomb release permission
+hints/ccrp_bomb_not_ready;To drop bombs, hold down the %s bomb release button and aim for the sighting line.
 hints/critical_buoyancy;Buoyancy is critical
 hints/critical_buoyancy_nokey;Buoyancy is critical
 hints/torpedo_deadzone;Torpedo tube aim in a dead zone
 hints/torpedo_sight_solution_status;Torpedo sight solution usage %s
 hints/ammo_destroyed;Ammunition lost
+hints/ammo_sharing;Ammunition rearrangement started
 hints/weapon_type_unavailable;Selected weapon type unavailable
 hints/ship_bomb_depth_set;Fuze depth set to %d m
 hud/textMissile;MSL
@@ -1802,6 +1804,8 @@ hud/rwr_threat_s_75;С-75
 hud/rwr_threat_s_75/desc;С-75 «Десна»;
 hud/rwr_threat_s_125;С-125
 hud/rwr_threat_s_125/desc;С-125 «Нева»
+hud/rwr_threat_s_300;С-300
+hud/rwr_threat_s_300/desc;С-300
 hud/lws_laser;LASER
 hud/mlws_missile;MISSILE
 TXT_WEAPON_LOCK_ON;Seeker: on
@@ -1924,6 +1928,12 @@ hud/IRST acquisition;ACQ IR
 hud/IRST ACM;ACM IR
 hud/IRST HMD;HMS IR
 hud/IRST track;TRK IR
+hud/ESM standby;ESM
+hud/ESM search;SRC ESM
+hud/ESM acquisition;ACQ ESM
+hud/ESM ACM;ACM ESM
+hud/ESM HMD;HMS ESM
+hud/ESM track;TRK ESM
 hud/air_search;A-A
 hud/ground_search;A-G
 hud/track memory;TRK MEM
@@ -1938,28 +1948,55 @@ hud/medium;MEDIUM
 hud/large;LARGE
 hud/mig_15;MG15
 hud/yak_38;YK38
+hud/l_39;L39
+hud/yak_28;YK28
+hud/yak_30;YK30
+hud/yak_130;Y130
 hud/yak_141;YK41
+hud/su_7;SU7
 hud/su_17;SU17
 hud/su_24;SU24
 hud/su_25;SU25
 hud/su_27;SU27
+hud/mig_19;MG19
 hud/mig_21;MG21
 hud/mig_23;MG23
 hud/mig_29;MG29
+hud/tu_95;TU95
+hud/p_16;P16
+hud/a_4;A4
 hud/f_4;F4
 hud/f_5;F5
+hud/a_6;A6
 hud/a_7;A7
 hud/f_8;F8
 hud/a_10;A10
+hud/f_11;F11
+hud/b_52;B52
+hud/b_66;B66
+hud/f3h_2;F3H
+hud/f4d_1;F4D
+hud/f_84;F84
+hud/f_86;F86
+hud/f_89;F89
+hud/f_100;F100
+hud/f_101;F101
 hud/f_104;F104
 hud/f_105;F105
+hud/f_106;F106
 hud/f_111;F111
+hud/f_117;F117
 hud/f_14;F14
 hud/f_15;F15
 hud/f_16;F16
 hud/f_18;F18H
 hud/f_20;F5
+hud/mq_1;Q1
+hud/hunter;HNTR
 hud/harrier;HAR
+hud/lightning;LTNG
+hud/javelin;JAVL
+hud/scimitar;SCIM
 hud/jaguar;JAG
 hud/tornado;TOR
 hud/buccanier;BUC
@@ -1969,16 +2006,75 @@ hud/jh_7;JH7
 hud/j_8;J8
 hud/j_10;J10
 hud/jf_17;JF17
+hud/f_1;F-1
+hud/wing_loong;MQ1
+hud/sagittario;SGTT
+hud/iar_93;IR93
 hud/amx;AMX
+hud/g_91;G91
+hud/mystere;MYS4
+hud/super_mystere;ETAR
+hud/etendard;ETAR
 hud/mirage_f1;MRF1
 hud/mirage_3;MIRA
 hud/mirage_2000;MIR2
 hud/mirage_4000;MIR4
 hud/rafale;RFAL
+hud/alpha_jet;AJET
+hud/tunnan;SB29
+hud/lansen;SB32
 hud/draken;SB35
 hud/viggen;SB37
 hud/gripen;SB39
 hud/mig_25;MG25
+hud/ewr;EWR
+hud/aircraft;AIR
+hud/ship;SHIP
+hud/tor;TOR
+hud/buk;BUK
+hud/buk_m3;BUK
+hud/osa;OSA
+hud/gepard;GPRD
+hud/adats;ADTS
+hud/zsu23;23-4
+hud/zsu_37_2;37-2
+hud/2s6;2S6
+hud/roland;RLND
+hud/patriot;PTRT
+hud/s300;S300
+hud/hawk;HAWK
+hud/strela_10;STRL
+hud/pantsir_s1;S1
+hud/pantsir_sm_sv;SMSV
+hud/iris_t;IRIS
+hud/m_163;M163
+hud/xm_246;M246
+hud/m_247;M247
+hud/claws;CLWS
+hud/falcon;FLKN
+hud/marksman;MKSM
+hud/za_35;ZA35
+hud/rapier;RPR
+hud/sky_sabre;SSBR
+hud/type_87;T87
+hud/type_81;T81
+hud/type_03;T03
+hud/pgz_88;PG88
+hud/pgz_09;PG09
+hud/pgz_04;PG04
+hud/antelope;ANTP
+hud/hq_17;HQ17
+hud/hq_11;HQ11
+hud/pgz_625;SA5
+hud/otomatic;OTO
+hud/samp_t;SAMP
+hud/amx_30_dca;DCA
+hud/crotale;CRTL
+hud/lvkv_9040_c;9040
+hud/asrad;ASRD
+hud/elde_98;EE98
+hud/nomads;NMDS
+hud/spyder;SPDR
 hud/hawk;HAWK
 hud/iog;IOG
 hud/iog_dl;IOG+DL
@@ -2056,6 +2152,7 @@ HUD/TXT_IRCM;IRCM
 HUD/IRCM_SHORT;IRCM
 HUD/BOMB_SIGHT_BOMB_BAY;The bomb bay is closed. Press drop to open
 HUD/BOMB_SIGHT_HIGH_SPEED;Too fast
+HUD/AGM_HIGH_SPEED;Too fast
 CONTROL_MODE_NOT_AVAILABLE;Hover absent
 CONTROL_MODE_ATTITUDE;Hover off
 CONTROL_MODE_CRUISE;Hover on
@@ -2133,6 +2230,8 @@ ils/us_aim_54a;PH
 ils/us_aim_54a_default;PH
 ils/us_aim_54c;PH
 ils/us_aim_54c_default;PH
+ils/us_aim_54c_plus;PH
+ils/us_aim_54c_plus_default;PH
 ils/ir_fakour_90;PH
 ils/ir_sedjil;PH
 ils/us_aim7e_sparrow;SP
@@ -2157,13 +2256,18 @@ ils/us_aim9g_sidewinder;SW
 ils/us_aim9l_sidewinder;SW
 ils/us_aim9m_sidewinder;SW
 ils/us_aim9m_sidewinder_default;SW
+ils/us_aim9m_sidewinder_bol_pod;SW
 ils/us_aim9h_sidewinder;SW
 ils/us_aim9p4_sidewinder;SW
 ils/us_aim9p_sidewinder_default;SW
+ils/us_aim9p_sidewinder;SW
 ils/us_aim_120a;MRM
 ils/us_aim_120a_default;MRM
 ils/us_aim_120b;MRM
 ils/us_aim_120b_default;MRM
+ils/us_agm_88a;HRM
+ils/us_agm_88c;HRM
+ils/us_agm_84d;HRP
 ils/us_aim_120c_5;MRM
 ils/us_aim_120c_5_default;MRM
 ils/us_aim_120b_switzerland;MRM
@@ -2172,6 +2276,8 @@ ils/us_aim_120c_5_switzerland;MRM
 ils/us_aim_120c_5_default_switzerland;MRM
 ils/us_aim_120d;MRM
 ils/us_aim_120d_default;MRM
+ils/us_agm_122;SA
+ils/us_agm_122/su_145;SA
 ils/fr_matra_super_530f;530
 ils/fr_matra_super_530f_default;530
 ils/fr_matra_super_530f_mirage_2000;530
@@ -2187,9 +2293,11 @@ ils/us_aim9l_sidewinder/su_145;9L
 ils/us_aim9m_sidewinder/su_145;9M
 ils/us_aim9m_sidewinder_default/su_145;9M
 ils/us_aim9l_sidewinder_default/su_145;9L
+ils/us_aim_120a/su_145;120A
 ils/us_aim9l_sidewinder_default/f_20;SW
 ils/us_aim9l_sidewinder/f_20;SW
 ils/us_blu_1/f_20;BLU
+ils/us_agm_65b/f_20;AGM65B
 ils/us_aim9l_sidewinder_default_bol_pod/su_145;9L
 ils/us_aim9l_sidewinder_bol_pod/su_145;9L
 ils/us_aim9m_sidewinder_bol_pod/su_145;9M
@@ -2223,12 +2331,14 @@ ils/il_pyton_3/f15mfd;P3
 ils/il_pyton_3_default/f15mfd;P3
 ils/il_pyton_4/f15mfd;P4
 ils/cn_pl12/f15mfd;PL12
+ils/cn_ld10/f15mfd;LD12
 ils/cn_pl8b/f15mfd;PL8
 ils/il_pyton_3;P3
 ils/il_pyton_3_default;P3
 ils/su_r_60;60
 ils/su_r_13m1_default;Р13М1
 ils/su_s_5k_rocket;С5К
+ils/su_s_5kp_rocket;C5KP
 ils/su_r_60_default;60
 ils/su_r_60m;60М
 ils/su_r_60mk;60МK
@@ -2306,6 +2416,8 @@ ils/su_kh_29td;29ТД
 ils/su_kh_29l;29Л
 ils/su_kh_59m;59М
 ils/su_kh_59me;59М
+ils/su_kh_59mk;59МК
+ils/su_kh_59mke;59МК
 ils/su_kh_38ml;38МЛ
 ils/su_kh_38mt;38МТ
 ils/su_kh_38mle;38МЛ
@@ -2313,6 +2425,9 @@ ils/su_kh_38mte;38МТ
 ils/su_lmur;УР305
 ils/su_kh_25ml;25МЛ
 ils/su_kh_25_haslaserchannel;25
+ils/su_kh_25mpu;25МПУ
+ils/su_kh_23m;23М
+ils/su_kh_27ps;23ПС
 ils/su_kab_500kr;500Кр
 ils/su_kab_500kr_e;500Кр
 ils/su_kab_500kr_m;500Кр
@@ -2329,8 +2444,20 @@ ils/cn_ls_6_250;LS-6-250
 ils/cn_ls_6_250_ir;LS-6-250(IR)
 ils/cn_ls_6_500;LS-6-500
 ils/cn_ls_6_500_ir;LS-6-500(IR)
+ils/cn_lgb_gb250_mod_laser;GB3
+ils/ch_kd_88_missile_tv;KD88
+ils/ch_kd_88_missile_ir;KD88A
+ils/cn_yj91_l_111;YJ91
+ils/cn_yj91_l_112;YJ91
+ils/cn_yj91_l_113;YJ91
+ils/cn_yj91a;YJ91A
+ils/cn_yj91as;YJ91
+ils/cn_cm_102;CM102
 ils/cn_pl12;PL12
 ils/cn_pl12_default;PL12
+ils/cn_pl12a;PL12
+ils/cn_pl12a_default;PL12
+ils/cn_ld10;LD10
 ils/cn_pl15;PL15
 ils/cn_pl15_default;PL15
 ils/cn_pl8b;PL8
@@ -2338,6 +2465,8 @@ ils/cn_pl8b_default;PL8
 ils/su_su34_3000l_drop_tank;ПТБ
 ils/su_su34_3000l_drop_tank_left;ПТБ
 ils/su_su34_3000l_drop_tank_right;ПТБ
+ils/su_500l_yak_130_drop_tank_1;ПТБ
+ils/su_500l_yak_130_drop_tank_2;ПТБ
 ils/su_kab_500s;500С
 ils/su_kab_1500kr;1500Кр
 ils/su_kab_1500l;1500Л
@@ -2351,12 +2480,19 @@ ils/su_upab_1500b_e;1500Б
 ils/su_fab_3000m_54;3000
 ils/su_umpk_3000;3000УМ
 ils/su_9M39/ils_28;ИГЛА
+ils/su_9M39/ils_28_st;ИГЛА
 ils/su_9m127_1/ils_28;УР-В
 ils/su_9m127_1/ils_28_st;В-П
 ils/su_fab_500m_62t/ils_28;АБ
+ils/su_fab_250m_62/ils_28;АБ
+ils/su_fab_250m_62/ils_28_st;АБ
+ils/su_fab_500m_62t/ils_28_st;АБ
+ils/su_ofab250/ils_28_st;АБ
 ils/su_ofab250/ils_28;АБ
 ils/su_s_8ko_rocket/ils_28;С-8
+ils/su_s_8ko_rocket/ils_28_st;С-8
 ils/su_s_13of_rocket/ils_28;С-13
+ils/su_s_13of_rocket/ils_28_st;С-13
 ils/su_9M120/ils_28;УР-А
 ils/su_9M120/ils_28_st;К
 ils/su_lmur/ils_28;УР305
@@ -2372,6 +2508,7 @@ ils/su_9M120M/ils_28_st;К
 ils/su_9M114_default/ils_28;УР-А
 ils/su_9M114_default/ils_28_st;К
 ils/su_9M114/ils_28_st;К
+ils/su_9M114/ils_28;К
 ils/uk_skyflash_aim_7_dogfight_tornado/tornado;M
 ils/uk_skyflash_aim_7_dogfight_tornado_default/tornado;M
 ils/us_aim9l_sidewinder/tornado;S
@@ -2495,6 +2632,12 @@ ils/us_agm_65f/f_15e/1;AGM65F
 ils/us_agm_65f/f_15e/2;
 ils/us_agm_84h_slam_er/f_15e/1;SLAMER
 ils/us_agm_84h_slam_er/f_15e/2;
+ils/us_agm_84d/f_15e/1;HARP
+ils/us_agm_84d/f_15e/2;
+ils/us_agm_88a/f_15e/1;HARM
+ils/us_agm_88a/f_15e/2;
+ils/us_agm_88c/f_15e/1;HARM
+ils/us_agm_88c/f_15e/2;
 ils/us_500lb_mk_82_ldgp/f_15e/1;MK82
 ils/us_500lb_mk_82_ldgp/f_15e/2;
 ils/us_500lb_mk_82_ldgp_snakeye/f_15e/1;MK82SN
@@ -2543,6 +2686,34 @@ ils/us_2_75_in_ffar_mighty_mouse/f_15e/1;FFAR
 ils/us_2_75_in_ffar_mighty_mouse/f_15e/2;
 ils/cn_pl8b/f_15e/1;PL
 ils/cn_pl8b/f_15e/2;8
+ils/us_gbu_53/f_15e/1;GBU53
+ils/us_gbu_53/f_15e/2;
+ils/us_1000lb_gbu32_navy/f_15e/1;GBU32
+ils/us_1000lb_gbu32_navy/f_15e/2;
+ils/us_agm_154a1_jsow/f_15e/1;JSOW
+ils/us_agm_154a1_jsow/f_15e/2;
+ils/il_derby/f_15e/1;DRBY
+ils/il_derby/f_15e/2;
+ils/il_derby_default/f_15e/1;DRBY
+ils/il_derby_default/f_15e/2;
+ils/uk_brimstone_dm/f_15e/1;BS
+ils/uk_brimstone_dm/f_15e/2;
+ils/uk_paveway_iv/f_15e/1;GBU49
+ils/uk_paveway_iv/f_15e/2;
+ils/us_gbu_49_paveway_2/f_15e/1;GBU
+ils/us_gbu_49_paveway_2/f_15e/2;
+ils/us_1000lb_gbu32_usaf/f_15e/1;GB32B
+ils/us_1000lb_gbu32_usaf/f_15e/2;
+ils/fr_fz49/f_15e/1;FFAR
+ils/fr_fz49/f_15e/2;
+ils/us_aim7m_sparrow_f_14/f_15e/1;SP
+ils/us_aim7m_sparrow_f_14/f_15e/2;
+ils/us_aim9m_sidewinder_bol_pod/f_15e/1;SW
+ils/us_aim9m_sidewinder_bol_pod/f_15e/2;
+ils/us_aim_54c_plus/f_15e/1;PH
+ils/us_aim_54c_plus/f_15e/2;
+ils/us_aim_54c_plus_default/f_15e/1;PH
+ils/us_aim_54c_plus_default/f_15e/2;
 ils/swd_rb74_default;RB74
 ils/swd_rb74;RB74
 ils/swd_rb71_default;RB71
@@ -2574,6 +2745,9 @@ ils/us_500lb_gbu_62_jdam_er/a_10c;GBU62
 ils/us_500lb_gbu_62_ljdam_er/a_10c;GBU62
 ils/us_2000lb_gbu_64_jdam_er/a_10c;GBU64
 ils/us_gbu_39/a_10c;GBU39
+ils/us_2000lb_gbu_8_hobos/a_10c;GBU8
+ils/us_500lb_mk_82_ldgp_snakeye/a_10c;82SN
+ils/us_agm_65b/a_10c;AGM65B
 ils/swd_rb75;RB75
 ils/swd_rb71;RB71
 ils/swd_120kg_sb_m71;M/71
@@ -2623,6 +2797,8 @@ ils/us_aim_120b_default/typhoon;MRAAM
 ils/us_aim_120b_default/typhoon/short;M
 ils/us_aim_120b/typhoon;MRAAM
 ils/us_aim_120b/typhoon/short;M
+ils/us_agm_88c/typhoon;HARM
+ils/us_agm_88c/typhoon/short;H
 ils/us_aim_120c_5/typhoon;MRAAM
 ils/us_aim_120c_5/typhoon/short;M
 ils/us_aim_120c_5_default/typhoon;MRAAM
@@ -2672,10 +2848,16 @@ ils/cn_pl12_default/typhoon;PL12
 ils/cn_pl12_default/typhoon/short;PL12
 ils/cn_pl12/typhoon;PL12
 ils/cn_pl12/typhoon/short;PL12
+ils/cn_ld10/typhoon;LD10
+ils/cn_ld10/typhoon/short;LD10
 ils/cn_pl8b_default/typhoon;PL8
 ils/cn_pl8b_default/typhoon/short;PL8
 ils/uk_1000lb_enhanced_paveway2_mk13/typhoon;EPW2
 ils/uk_1000lb_enhanced_paveway2_mk13/typhoon/short;EPW2
+ils/de_hosbo_glide_bomb/typhoon;HB
+ils/de_hosbo_glide_bomb/typhoon/short;HB
+ils/us_aim_120a_default/typhoon/short;MRM
+ils/us_aim_120a_default/typhoon;MRAAM
 ils/fr_mica_em/rafale;EM
 ils/fr_mica_em_default/rafale;EM
 ils/fr_r_550_magic_2/rafale;MAG
@@ -2738,6 +2920,7 @@ ils/cn_pl8b_default/targo;PL8
 ils/cn_pl8b/targo;PL8
 ils/cn_pl12_default/targo;PL12
 ils/cn_pl12/targo;PL12
+ils/cn_ld10/targo;LD10
 ils/cn_pl12a/targo;PL12
 ils/cn_type90_heat/targo;90-1
 ils/cn_type130_ap/targo;130-2
@@ -2752,9 +2935,32 @@ ils/cn_ls_6_250/targo;LS6
 ils/cn_ls_6_250_ir/targo;LS6(IR)
 ils/cn_ls_6_500/targo;LS6
 ils/cn_lgb_gb250_mod_laser/targo;GB3
+ils/ch_kd_88_missile_tv/targo;KD88
+ils/ch_kd_88_missile_ir/targo;KD88A
+ils/cn_yj91_l_111/targo;YJ91
+ils/cn_yj91_l_112/targo;YJ91
+ils/cn_yj91_l_113/targo;YJ91
+ils/cn_yj91a/targo;YJ91A
+ils/cn_yj91as/targo;YJ91
+ils/cn_cm_102/targo;CM102
+ils/us_500lb_gbu_54b/targo;GBU54
+ils/us_500lb_gbu_62_ljdam_er/targo;GBU62
+ils/us_aim_120a/targo;MRAAM
 ils/us_2000lb_gbu_64_jdam_er;GBU64
 ils/us_500lb_gbu_62_jdam_er;GBU62
 ils/us_gbu_39;GBU39
+ils/us_gbu_53;GBU53
+ils/su_apk_9;APK
+ils/su_kh_31ad;31AD
+ils/su_kh_31pd;31PD
+ils/su_kh_31a;31A
+ils/su_kh_31p_l_111;31П
+ils/su_kh_31p_l_112;31П
+ils/su_kh_31p_l_113;31П
+ils/su_kh_58u_a_band;58У
+ils/su_kh_58u_b_band;58У
+ils/su_kh_58u_c_band;58У
+ils/us_1000lb_mk_83_ldgp_air;83B
 fire_in_tank;On fire!
 HUD/CHOICE_OF_VEHICLE;Choose a vehicle to control
 fcs/over;OVER
@@ -2827,12 +3033,19 @@ hints/sm_how_to_change_depth_surface;Surfacing
 hints/sm_noise_on_minimap;BOAT'S NOISE ON THE MINI-MAP
 hints/sm_how_to_use_periscope;PERISCOPE {shortcut}
 hints/sm_how_to_change_torpedo_sight;TORPEDO COURSE {shortcut}
+hints/sm_search_for_noise_source;Inspect the noise source
+hints/sm_use_hydrophone;Use hydrophone
+hints/sm_inspect_noise_source;Locate the noise source
 hints/sm_automatic;Automatic
 hints/sm_manual;Manual
 hints/sm_slow_ahead;Slow ahead
+hints/ship_sonar_use_passive;Use sonar
 hints/manual_sensor_cue_control;Cyclic switching of aircraft radar targets is activated. You can change it in the settings
 hints/sensor_target_cyclic_switch;Cyclic switching of aircraft radar targets is not activated. You can change it in aircraft battle settings
 hints/manual_sensor_tilt_control;Constant elevation of radar antenna is activated. You can change it in the settings
+hints/bombs_auto_release_target_point_activated;The point of interest and navigation bombing are enabled. To drop bombs in normal mode, disable the point of interest ({{ID_UNLOCK_TARGETING_AT_POINT}}).
+hints/enable_shell_fpv_correction;Target correction mode
+hints/enable_shell_fpv_lock;Lock target
 EXTEND_GEARS;Extend landing gear
 RETRACT_GEARS;Retract landing gear
 TURN_ON_AIM_OVERRIDE_ROLL_HELICOPTER;Turn on manual roll control mode
@@ -2970,6 +3183,9 @@ mfd/f_18_wpn/us_agm_65e;MAV
 mfd/f_18_wpn/us_agm_65f;MAVF
 mfd/f_18_wpn/us_agm_65g;MAVG
 mfd/f_18_wpn/us_agm_84h_slam_er;SLAMER
+mfd/f_18_wpn/us_agm_88a;HARM
+mfd/f_18_wpn/us_agm_88c;HARM
+mfd/f_18_wpn/us_agm_84d;HARP
 mfd/f_18_wpn/us_aim_120a;AA
 mfd/f_18_wpn/us_aim_120b;AB
 mfd/f_18_wpn/us_aim_120b_default;AB
@@ -3018,6 +3234,8 @@ mfd/f_18_wpn/us_apkws_m282;AGR20B
 mfd/f_18_wpn/us_apkws_m151;AGR20A
 mfd/f_18_wpn/uk_CRV7_m247;HYD
 mfd/f_18_wpn/an_asq_228_pod;ATFLIR
+mfd/f_18_wpn/us_agm_154a1_jsow;JSOW
+mfd/f_18_wpn/us_gbu_53;GBU53
 mfd/f_2a_wpn/jp_aam3/full;A-AM3
 mfd/f_2a_wpn/jp_aam3/short;A3
 mfd/f_2a_wpn/jp_aam3_default/full;A-AM3
@@ -3092,6 +3310,8 @@ mfd/su_30sm_wpn/su_kh_29l;29Л
 mfd/su_30sm_wpn/su_kh_29td;29ТД
 mfd/su_30sm_wpn/su_kh_59m;59М
 mfd/su_30sm_wpn/su_kh_59me;59М
+mfd/su_30sm_wpn/su_kh_59mk;59МК
+mfd/su_30sm_wpn/su_kh_59mke;59МК
 mfd/su_30sm_wpn/su_kh_38ml;38МЛ
 mfd/su_30sm_wpn/su_kh_38mt;38МТ
 mfd/su_30sm_wpn/su_kh_38mle;38МЛ
@@ -3104,6 +3324,8 @@ mfd/su_30sm_wpn/su_r_27et;27ЭТ
 mfd/su_30sm_wpn/su_r_27et1;27ЭТ
 mfd/su_30sm_wpn/su_r_27r;27Р
 mfd/su_30sm_wpn/su_r_27t;27Т
+mfd/su_30sm_wpn/su_r_27p;27П
+mfd/su_30sm_wpn/su_r_27ep;27ЭП
 mfd/su_30sm_wpn/su_r_73;73
 mfd/su_30sm_wpn/su_r_77_1;77-1
 mfd/su_30sm_wpn/su_rvv_sd;RVVSD
@@ -3125,7 +3347,49 @@ mfd/su_30sm_wpn/su_r_73e;73
 mfd/su_30sm_wpn/su_rvv_ae;РВВ
 mfd/su_30sm_wpn/us_gbu_12_paveway_2;GBU12
 mfd/su_30sm_wpn/cn_pl12;PL12
+mfd/su_30sm_wpn/cn_ld10;LD10
 mfd/su_30sm_wpn/cn_pl8b;PL8
+mfd/su_30sm_wpn/su_kh_31a;31A
+mfd/su_30sm_wpn/su_kh_31ad;31AD
+mfd/su_30sm_wpn/su_kh_31pd;31PD
+mfd/su_30sm_wpn/su_kh_31p_l_111;31P
+mfd/su_30sm_wpn/su_kh_31p_l_112;31P
+mfd/su_30sm_wpn/su_kh_31p_l_113;31P
+mfd/m346_fa_wpn/us_aim9l_sidewinder;A-9L
+mfd/m346_fa_wpn/us_aim9l_sidewinder_default;A-9L
+mfd/m346_fa_wpn/us_aim_120b;A120B
+mfd/m346_fa_wpn/us_gbu_12_paveway_2;GB12PW
+mfd/m346_fa_wpn/us_gbu_16_paveway_2;GB16PW
+mfd/m346_fa_wpn/us_500lb_gbu38_usaf;GB38B
+mfd/m346_fa_wpn/us_1000lb_gbu32_usaf;GB32B
+mfd/m346_fa_wpn/us_gbu_49_paveway_2;GB49PW
+mfd/m346_fa_wpn/il_spice_250;SP
+mfd/m346_fa_wpn/br_lizard_2;LI2
+mfd/m346_fa_wpn/us_500lb_mk_82_ldgp;MK82
+mfd/m346_fa_wpn/us_500lb_mk_82_ldgp_snakeye;MK82SN
+mfd/m346_fa_wpn/us_1000lb_mk_83_ldgp;MK83
+mfd/m346_fa_wpn/it_630l_drop_tank_1;FT
+mfd/m346_fa_wpn/it_630l_drop_tank_2;FT
+mfd/m346_fa_wpn/it_630l_drop_tank_3;FT
+mfd/m346_fa_wpn/il_derby;DRBY
+mfd/m346_fa_wpn/il_derby_default;DRBY
+mfd/m346_fa_wpn/fr_fz49;FFAR
+mfd/m346_fa_wpn/uk_brimstone_dm;BS
+mfd/m346_fa_wpn/uk_paveway_iv;GBU
+mfd/yak130_wpn/su_r_73;R-73
+mfd/yak130_wpn/su_kab_500kr;KAB
+mfd/yak130_wpn/su_ofab100_120;AB
+mfd/yak130_wpn/su_fab250_m54;AB
+mfd/yak130_wpn/su_ofab_250_270;AB
+mfd/yak130_wpn/su_fab_250m_62;AB
+mfd/yak130_wpn/su_fab500_m54;AB
+mfd/yak130_wpn/su_fab_500m_62t;AB
+mfd/yak130_wpn/su_zb_500;AB
+mfd/yak130_wpn/su_s_8ko_rocket;S8
+mfd/yak130_wpn/su_s_13of_rocket;S13
+mfd/yak130_wpn/su_s_25ofm_rocket;S25
+mfd/yak130_wpn/su_500l_yak_130_drop_tank_1;ПТБ
+mfd/yak130_wpn/su_500l_yak_130_drop_tank_2;ПТБ
 hud/sead/defend_text;Protect SAM sites:
 hud/sead/attack_text;Neutralize SAM sites:
 hud/oil_refinery_strbomb/defend_text;Protect oil refinery buildings:
@@ -3155,6 +3419,31 @@ hud/actionBar/AirRadarGuiControlMode;Radar control mode
 hud/AAComplexMenu/RadarParking;Radar parking
 hud/AAComplexMenu/LiftingDown;Radar lifting down
 hud/AAComplexMenu/LiftingUp;Radar lifting up
+hud/AAComplexMenu/circularView/hint;Circular scan indicator. It displays radar-detected targets in azimuth-range coordinates. A target can be selected by clicking it. Important: only targets identified as hostile or unidentified can be selected. Friendly aircraft and helicopters cannot be selected as radar targets.
+hud/AAComplexMenu/targetList/hint;List of detected targets. A target for the radar can be selected in this element by clicking a row.
+hud/AAComplexMenu/sightView/hint;View through the combat vehicle’s optical or TV sight. This may be absent if the vehicle has no capability to detect targets and fire using optical devices. It is used for firing the artillery gun, if one is installed on the combat vehicle.
+hud/AAComplexMenu/verticalView/hint;Azimuth-elevation indicator. It displays the radar situation with the X-axis representing azimuth and the Y-axis representing target altitude.
+hud/AAComplexMenu/slaveUnitStatus/hint;Launcher status indicators. They show the number of missiles remaining on each missile launcher; clicking an indicator also disables or enables firing from that launcher.
+hud/radarFilters/composite/shortRangeSPAA;S
+hud/radarFilters/composite/mediumRangeSPAA;M
+hud/radarFilters/composite/longRangeSPAA;L
+hud/radarFilters/generic/groundTarget;G
+hud/radarFilters/generic/airTarget;A
+hud/short_range_spaa;Short-range SAM
+hud/medium_range_spaa;Medium-range SAM
+hud/long_range_spaa;Long-range SAM
+hud/nuclear_escalation/condition;Condition
+hud/nuclear_escalation/capacity;Capacity
+hud/nuclear_escalation/repairTimer;Repair
+hud/nuclear_escalation/megaton;Mt
+hud/nuclear_escalation/kiloton;kt
+hud/nuclear_escalation/tooltip;"Nuclear escalation level: {level} out of {maxLevel}
+The conflict escalates as both sides lose vehicles and gain points.
+Total team score: {score} / {nextThreshold}"
+hud/nuclear_escalation/nextLevel;Next level: {nextLevel}
+hud/nuclear_escalation/tactical_nuclear;tactical nuclear weapons up to {val}
+hud/nuclear_escalation/tactical_nuclear_over;tactical nuclear weapons over {val}
+hud/nuclear_escalation/strategic_nuclear;strategic nuclear weapons over {val}
 
 icon/hud_msg_mp_dmg/bullet;▥ ;
 icon/hud_msg_mp_dmg/shell;▦ ;
