@@ -20,12 +20,12 @@ weapons/it_330l_drop_tank_1/short;Serbatoio sganciabile;
 weapons/it_330l_drop_tank_2;330 gal. Serbatoio sganciabile;
 weapons/it_330l_drop_tank_2/short;Serbatoio sganciabile;
 
-weapons/it_630l_drop_tank_1	External Fuel Tank (630 liters)
-weapons/it_630l_drop_tank_1/short	EFT
-weapons/it_630l_drop_tank_2	External Fuel Tank (630 liters)
-weapons/it_630l_drop_tank_2/short	EFT
-weapons/it_630l_drop_tank_3	External Fuel Tank (630 liters)
-weapons/it_630l_drop_tank_3/short	EFT
+weapons/it_630l_drop_tank_1;External Fuel Tank (630 liters)
+weapons/it_630l_drop_tank_1/short;EFT
+weapons/it_630l_drop_tank_2;External Fuel Tank (630 liters)
+weapons/it_630l_drop_tank_2/short;EFT
+weapons/it_630l_drop_tank_3;External Fuel Tank (630 liters)
+weapons/it_630l_drop_tank_3/short;EFT
 
 weapons/cannonTM197B;20 mm TM197B;
 
@@ -76,9 +76,9 @@ weapons/120mm_OTO_Breda_120_44_Ariete_AMV_user_cannon;Cannone OTO-Melara da 120/
 weapons/120mm_OTO_Melara_120_45_MGS_user_cannon;Cannone OTO-Melara da 120/45;
 weapons/120mm_OTO_Leonardo_120_45_user_cannon;Cannone OTO-Melara da 120/45;
 
-weapons/155mm_FH70_L_39_user_cannon	Obice da 155/41
-155mm_p3	P3
-155mm_p5	P5
+weapons/155mm_FH70_L_39_user_cannon;Obice da 155/41
+155mm_p3;P3
+155mm_p5;P5
 
 weapons/50mm_firos_6_user_cannon;FIROS 6
 weapons/it_snia_bpd_50mm_type_arf8m_at_ap;ARF/8M3 (AP-AT);

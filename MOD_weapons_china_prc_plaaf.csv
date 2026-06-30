@@ -217,9 +217,9 @@ weapons/cn_760l_f_6c_drop_tank_r/short;副油箱
 weapons/f_6c_pakistan_fuse_tank;Conformal Fuel Tank
 weapons/f_6c_pakistan_fuse_tank/short;CFT
 
-weapons/cn_kb1	狂飙一号
-weapons/cn_kb1/short	狂飙一号
-weapons/cn_kb1_5kt	狂飙一号
-weapons/cn_kb1_5kt/short	狂飙一号
-weapons/cn_kb1_30kt	狂飙一号
-weapons/cn_kb1_30kt/short	狂飙一号
+weapons/cn_kb1;狂飙一号
+weapons/cn_kb1/short;狂飙一号
+weapons/cn_kb1_5kt;狂飙一号
+weapons/cn_kb1_5kt/short;狂飙一号
+weapons/cn_kb1_30kt;狂飙一号
+weapons/cn_kb1_30kt/short;狂飙一号

@@ -61,8 +61,8 @@ weapons/20mm_jm61_m_vulcan_naval_user_cannon/short;JM61
 weapons/7_62mm_Type74_user_machinegun;74式車載7.62mm機関銃(B);
 weapons/12_7mm_Type_60B_user_machinegun;60式口径50スポットライフル(B);
 weapons/106mm_Type_60B_user_cannon;60式26口径106mm無反動砲(B);
-106mm_type_64_heat	64式106mm対戦車りゅう弾
-106mm_type_68_hesh	68式106mm無反動砲粘着リュウ弾
+106mm_type_64_heat;64式106mm対戦車りゅう弾
+106mm_type_68_hesh;68式106mm無反動砲粘着リュウ弾
 
 weapons/90mm_Type61_user_cannon;61式90mm戦車砲(C);
 weapons/90mm_Type61_b_user_cannon;61式90mm戦車砲(C)

@@ -380,7 +380,7 @@ weapons/356mm_52_obr1913_naval_user_cannon;356-мм корабельная пу�
 weapons/406mm_50_b37_naval_user_cannon;406-мм корабельная пушка обр. 1937 г. (Б-37);
 
 weapons/ato_200_flamethrower;Автоматический танковый огнемёт АТО-200;
-weapons/ato_41_flamethrower	Автоматический танковый огнемёт АТО-41
+weapons/ato_41_flamethrower;Автоматический танковый огнемёт АТО-41
 
 
 // 100mm Naval // 
@@ -471,7 +471,7 @@ weapons/ato_41_flamethrower	Автоматический танковый огн
 125mm_3bm15;3БМ15;
 125mm_3bm22;3БМ22;
 125mm_3bm42;3БМ42;
-125mm_3bm42_2	3БМ42-2
+125mm_3bm42_2;3БМ42-2
 125mm_3bm42m;3БМ42М;
 125mm_3bm46;3БМ46;
 125mm_3bm60;3БМ60;

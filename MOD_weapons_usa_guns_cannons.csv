@@ -35,8 +35,8 @@ weapons/cannonM39;Gun, 20-mm, Automatic: M39;
 // XM301 //
 weapons/cannonXM301;Gun, 20-mm, Automatic: XM301;
 // Vulcan //
-weapons/20mm_m61_vulcan_naval_user_cannon	Gun, 20-mm, Automatic: M61
-weapons/20mm_m61_vulcan_naval_user_cannon/short	M61
+weapons/20mm_m61_vulcan_naval_user_cannon;Gun, 20-mm, Automatic: M61
+weapons/20mm_m61_vulcan_naval_user_cannon/short;M61
 weapons/cannonM61A1_low_rpm;Gun, 20-mm, Automatic: M61A1
 weapons/cannonM61A1_low_rpm/short;M61A1
 weapons/cannonM61;Gun, 20-mm, Automatic: M61;
@@ -342,7 +342,7 @@ weapons/120mm_M256_M1A3_user_cannon;Cannon, 120-mm Gun: M256
 120mm_m829a1;APFSDS-T, M829A1;
 120mm_m829a2;APFSDS-T, M829A2;
 120mm_m829a3;APFSDS-T, M829A3;
-120mm_xm1147	HE-MP-T, M1147 AMP
+120mm_xm1147;HE-MP-T, M1147 AMP
 weapons/165mm_M135_user_cannon;Cannon, 165-mm Gun: M135;
 165mm_m123;HEP, M123E1;
 weapons/75mm_XM274_Ares_user_cannon;Cannon, 75-mm Gun: XM274;

@@ -37,7 +37,7 @@ weapons/in_100gal_marut_drop_tank_r_2/short;Drop Tank
 weapons/in_nasser_240;Nasser 240
 weapons/in_nasser_240/short;Nasser 240
 
-weapons/127mm_aim_9x_nomads_user_cannon	Short Range Air Defence Module
+weapons/127mm_aim_9x_nomads_user_cannon;Short Range Air Defence Module
 120mm_im_he;IM HE-T
 
 weapons/7_62mm_sm2_v1_user_machinegun;7.62 mm SM2-V1
@@ -166,8 +166,8 @@ weapons/76mm_nato_smoke_grenade_launcher_ru251;Smoke Grenade;
 weapons/76mm_nato_smoke_grenade_launcher_ru251/short;Smoke;
 weapons/76mm_modern_smoke_grenade_launcher;Smoke Grenade;
 weapons/76mm_modern_smoke_grenade_launcher/short;Smoke;
-weapons/76mm_modern_cn_smoke_grenade_launcher	Smoke Grenade
-weapons/76mm_modern_cn_smoke_grenade_launcher/short	Smoke
+weapons/76mm_modern_cn_smoke_grenade_launcher;Smoke Grenade
+weapons/76mm_modern_cn_smoke_grenade_launcher/short;Smoke
 weapons/60mm_modern_smoke_grenade_launcher;Smoke Grenade;
 weapons/60mm_modern_smoke_grenade_launcher/short;Smoke;
 weapons/76mm_modern_germ_smoke_grenade_launcher;Smoke Grenade;

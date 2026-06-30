@@ -386,8 +386,8 @@ weapons/us_aim_120d_default;Guided Missile, Intercept-Aerial, AIM-120D Advanced 
 weapons/us_aim_120d_default/short;AIM-120D
 
 // M-122 //
-weapons/us_agm_122	Guided Missile, Surface Attack, AGM-122A Sidearm
-weapons/us_agm_122/short	AGM-122A
+weapons/us_agm_122;Guided Missile, Surface Attack, AGM-122A Sidearm
+weapons/us_agm_122/short;AGM-122A
 
 // M-123 //
 weapons/us_agm_123;Guided Missile, Surface Attack, AGM-123A Skipper II;

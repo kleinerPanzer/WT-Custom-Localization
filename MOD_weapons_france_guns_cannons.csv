@@ -249,7 +249,7 @@ weapons/100mm_45_mle_1930_naval_user_cannon;Canon de 100 mm modèle 1930
 weapons/100mm_45_mle_1930_naval_user_cannon/short;100 mm mle 1930
 weapons/100mm_45_mle_1933_naval_user_cannon;Canon de 100 mm modèle 1933
 weapons/100mm_45_mle_1933_naval_user_cannon/short;100 mm mle 1933
-weapons/100mm_55_mle_1945_naval_user_cannon	Canon de 100 mm modèle 1945
+weapons/100mm_55_mle_1945_naval_user_cannon;Canon de 100 mm modèle 1945
 100mm_45_common;mle 1902
 100mm_45_ap;mle 1913
 100mm_oea1928_he_df;OEA mle 1928

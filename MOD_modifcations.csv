@@ -2936,6 +2936,87 @@ modification/381mm_50_it_navy_apcbc_ammo_pack;Palla
 modification/381mm_uk_bl_mk1_4crh_mk1a_navy_apc;Mk. Ia APC;
 modification/381mm_uk_bl_mk1_4crh_mk1a_navy_apc_ammo_pack;Mk. Ia APC;
 counterMeasures/lsz_8vn;ЛСЗ-8ВН
+modification/su_x29td_x59m/desc;Allows installation of {unlockWeapons}
+modification/su_x29td_x59m;Х-29ТД / Х-59М 
+modification/tv_atgm/desc;Allows installation of {unlockWeapons}
+modification/tv_atgm;Х-29ТЭ / K/AKD88
+modification/su_kab_500s/desc;Allows installation of {unlockWeapons}
+modification/su_kab_500s;КАБ-500С
+modification/su_kab_gps/desc;Allows installation of {unlockWeapons}
+modification/su_kab_gps;КАБ-С
+modification/cn_ls_laser/desc;Allows the installation of {unlockWeapons}
+modification/cn_ls_laser;LGB
+modification/us_gbu_53/desc;Allows installation of {unlockWeapons}
+modification/us_gbu_53;GBU-53/B
+modification/us_pave_spike_pod/desc;Allows installation {unlockWeapons}
+modification/us_pave_spike_pod;AN/ASQ-153
+modification/asm;ASM
+modification/asm/desc;Allows the installation of {unlockWeapons}
+modification/su_s25l;С-25ЛД
+modification/su_s25l/desc;"Allows installation of {unlockWeapons}
+modification/pescador;Martin Pescador
+modification/pescador/desc;Allows installation of {unlockWeapons}
+modification/pampero;Pampero AS-105
+modification/pampero/desc;Allows installation of {unlockWeapons}
+modification/aspid;Áspid ARM AP
+modification/aspid/desc;Allows installation of {unlockWeapons}
+modification/bk_br_250;PG 250 kg / BRP-250
+modification/bk_br_250/desc;Allows installation of {unlockWeapons}
+modification/bk_br_500;PG 500 kg / BRP-500
+modification/bk_br_500/desc;Allows installation of {unlockWeapons}
+modification/inc_220;INC 220 kg
+modification/inc_220/desc;Allows installation of {unlockWeapons}
+modification/us_arm/desc;Allows the installation of {unlockWeapons}
+modification/us_arm;ARM
+modification/su_arm/desc;Allows the installation of {unlockWeapons}
+modification/su_arm;ARM
+modification/anti_radiation_missile_type_b/desc;Allows the installation of {unlockWeapons}
+modification/anti_radiation_missile_type_b;ARM
+modification/anti_radiation_missile_type_c/desc;Allows the installation of {unlockWeapons}
+modification/anti_radiation_missile_type_c;ARM
+modification/anti_radiation_missile_agm_122/desc;Allows installation of {unlockWeapons}
+modification/anti_radiation_missile_agm_122;AGM-122A
+modification/rs_fab_pgb/desc;Allows installation of {unlockWeapons}
+modification/rs_fab_pgb;FAB-250 PGB
+modification/rs_grom_b/desc;Allows installation of {unlockWeapons}
+modification/rs_grom_b;Grom-B
+modification/rs_m16d/desc;Allows installation of {unlockWeapons}
+modification/rs_m16d;M16D
+modification/rs_vrvz_240/desc;Allows installation of {unlockWeapons}
+modification/rs_vrvz_240;VRVZ-240
+modification/kosava_3_tm/desc;Allows installation of {unlockWeapons}
+modification/kosava_3_tm;Košava 3 TM
+modification/br_vz_128_m15/desc;Allows installation of {unlockWeapons}
+modification/br_vz_128_m15;BR-VZ-128-M15
+modification/us_agm_65/desc;Allows installation of {unlockWeapons}
+modification/us_agm_65;AGM-65
+modification/us_agm_84d/desc;Allows installation of {unlockWeapons}
+modification/us_agm_84d;AGM-84D
+engine_model/astazou_16g;Astazou XVIG
+engine_model/ai_222_25;AI-222-25
+engine_model/f124_ga_200;F124-GA-200
+engine_model/j57_p_13;J57-P-13
+engine_model/merlin-72;Merlin Mk. 72
+engine_model/merlin-73;Merlin Mk. 73
+engine_model/merlin-46;Merlin Mk. 46
+modification/rs_grom/desc;Allows installation of {unlockWeapons}
+modification/rs_grom;Grom
+modification/rs_e_24_a1/desc;Allows installation of {unlockWeapons}
+modification/rs_e_24_a1;E-24-A1
+modification/plab_350m_73/desc;Allows installation of {unlockWeapons}
+modification/plab_350m_73;PLAB-350 M73
+modification/fr_pgm_tv/desc;Allows the installation of {unlockWeapons}
+modification/fr_pgm_tv;PGM 500/2 / 2000/2
+modification/fr_pgm_ir/desc;Allows the installation of {unlockWeapons}
+modification/fr_pgm_ir;PGM 500/3 / 2000/3
+modification/fr_pgm_laser/desc;Allows the installation of {unlockWeapons}
+modification/fr_pgm_laser;PGM 500/1 / 2000/1
+engine_model/r1830-43;R-1830-43
+modification/us_agm_114b/desc;Allows installation of {unlockWeapons}
+modification/us_agm_114b;AGM-114B
+modification/us_agm_114k/desc;Allows installation of {unlockWeapons}
+modification/us_agm_114k;AGM-114K
+engine_model/rd-33mk;РД-33МК
 CLIPPED_LANG_KEEP_IT_ALWAYS_FIRST;
 
 
