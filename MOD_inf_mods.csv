@@ -76,6 +76,8 @@ modification/grip_vertical_utg_qd;Vertical front grip
 modification/grip_vertical_utg_qd/desc;Installs a vertical front grip on the main weapon.
 modification/grip_vertical_molot;Vertical front grip
 modification/grip_vertical_molot/desc;Installs a vertical front grip on the main weapon.
+modification/grip_vertical_bcmgunfighter;Vertical front grip
+modification/grip_vertical_bcmgunfighter/desc;Installs a vertical front grip on the main weapon.
 modification/grip_angled_magpul;Angled front grip
 modification/grip_angled_magpul/desc;Installs an angled front grip on the main weapon.
 modification/grenade_launcher_m320;M320
@@ -100,10 +102,14 @@ modification/magazine_mod_ak_60_round;Magazine 60
 modification/magazine_mod_ak_60_round/desc;Installs a light plastic 60-round magazine on the main weapon.
 modification/magazine_mod_as_val_30_round;Magazine 30
 modification/magazine_mod_as_val_30_round/desc;Installs a light plastic 30-round magazine on the main weapon.
+modification/magazine_mod_as_val_20_round;Magazine 20
+modification/magazine_mod_as_val_20_round/desc;Installs a light plastic 20-round magazine on the main weapon.
 modification/shotgun_mossberg_590;M590
 modification/shotgun_mossberg_590/desc;Allows you to additionally arm one of the soldiers in your squad with a shotgun.
 modification/shotgun_ks_p;18,5 КС-П
 modification/shotgun_ks_p/desc;Allows you to additionally arm one of the soldiers in your squad with a shotgun.
+modification/shotgun_ks_p_18_5;18,5 КС-П
+modification/shotgun_ks_p_18_5/desc;Allows you to additionally arm one of the soldiers in your squad with a shotgun.
 modification/machinegun_m240;M240B
 modification/machinegun_m240/desc;Allows you to additionally arm one of the soldiers in your squad with a general purpose machine gun.
 modification/machinegun_reapr;M240B

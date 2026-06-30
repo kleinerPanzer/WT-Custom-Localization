@@ -65,6 +65,9 @@ missile/guidance/sns;GNSS;
 missile/guidance/mclos;MCLOS;
 missile/guidance/saclos;SACLOS;
 missile/guidance/beamRiding;Beam-Riding;
+missile/guidance/PRH	PRH
+missile/guidance/PRH+IOG	PRH+IOG
+missile/guidance/PRH+IOG+GNSS	PRH+IOG+GNSS
 missile/aiming/beamRiding;Beam-Riding;
 missile/aiming/semiautomatic;SACLOS;
 missile/aiming/manual;MCLOS;
@@ -440,6 +443,8 @@ weapons/countermeasure_split_launcher_jet_with_chaff;Flares/Chaff
 weapons/countermeasure_split_launcher_jet_with_chaff/short;Flares/Chaff
 weapons/countermeasure_large_split_launcher_jet_with_chaff;Flares/Chaff
 weapons/countermeasure_large_split_launcher_jet_with_chaff/short;Flares/Chaff
+weapons/countermeasure_split_launcher_am_23	Flares/Chaff
+weapons/countermeasure_split_launcher_am_23/short	Flares/Chaff
 13mm_hotckiss_AP/name;Cartouche calibre 13,2 à balle traceuse perforante;
 13mm_hotckiss_AP/name/short;AP-T;
 12mm_usa_M2HB_common/name;Default;
@@ -661,6 +666,7 @@ explosiveType/tnt_a_ix_2;TNT and A-IX-2;
 explosiveType/jh_2;JH-2;
 explosiveType/dhl_1;DHL-1
 explosiveType/jhl_2;JHL-2;
+explosiveType/jhl_3;JHL-3
 explosiveType/fp10_np10;Fp. 10 and Np. 10;
 explosiveType/lyddit;Lyddite;
 explosiveType/shimose;下瀬;
@@ -683,6 +689,7 @@ explosiveType/aerea_64057;Aerea 64057;
 explosiveType/pentolite;Pentolite;
 explosiveType/detonite;Detonite;
 explosiveType/comp_b;Composition B;
+explosiveType/pax_48	PAX-48
 explosiveType/comp_b_mod;Modified Composition B;
 explosiveType/amatol_tnt;Amatol and TNT;
 explosiveType/amatol;Amatol;
@@ -697,6 +704,8 @@ explosiveType/tritonal;Tritonal;
 explosiveType/pbxn_110;PBXN-110;
 explosiveType/pbxn_109;PBXN-109;
 explosiveType/pbxn_107;PBXN-107
+explosiveType/pbxn_104	PBXN-104
+explosiveType/pbxn_af_108	PBX(AF)-108
 explosiveType/pbxn_102;PBXN-102;
 explosiveType/pbxn_5;PBXN-5;
 explosiveType/pbxn_4;PBXN-4;
@@ -735,6 +744,8 @@ explosiveType/okfol_3_5;OKFOL-3.5;
 explosiveType/melinite;Mélinite;
 explosiveType/mn_f_dn;Mélinite 80/20;
 explosiveType/afx_757;AFX-757
+explosiveType/pax_3	PAX-3
+explosiveType/destex	Destex
 weapons/flare_launcher;Flares;
 weapons/flare_launcher/short;Flares;
 weapons/flare_launcher_jet;Flares;
@@ -783,6 +794,7 @@ weapons/152mm_football_user_cannon_without_effect;Secret football cannon;
 weapons/purposeType/AIR_TO_AIR;Anti-air loadout;
 weapons/purposeType/AIR_TO_GROUND;Ground attack loadout;
 weapons/purposeType/AIR_TO_SEA;Naval attack loadout;
+weapons/purposeType/AIR_TO_RADAR;Anti-radiation loadout
 weapons/purposeType/ARMORED;Anti-armor loadout;
 weapons/purposeType/UNIVERSAL;Multi-purpose loadout;
 weapons/purposeType/FAVORITE;Favorite loadout;

@@ -26,3 +26,6 @@ weapons/an_asq_228_pod/short;AN/ASQ-228
 
 weapons/us_agm_12b_station;AGM-12B (Targeting Pod);
 weapons/us_agm_12b_station/short;AGM-12B (TP);
+
+weapons/us_an_asq_213;HARM Targeting System, AN/ASQ-213 (Release 5)
+weapons/us_an_asq_213/short;AN/ASQ-213 HTS (R5)

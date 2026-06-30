@@ -1,10 +1,4 @@
 <ID|readonly|noverify>;<NewLanguage>
-weapons/fr_mk18;Bomb, HE MC, 1000-lb, Mk. 18 (LGB Paveway);
-weapons/fr_mk18/short;1000-lb Mk. 18 (Paveway);
-weapons/fr_mk13;Bomb, HE MC, 1000-lb, Mk. 13 (LGB Paveway);
-weapons/fr_mk13/short;1000-lb Mk. 13 (Paveway);
-weapons/uk_1000lb_enhanced_paveway2_mk13;Enhanced Paveway 2 (UK) LGB
-weapons/uk_1000lb_enhanced_paveway2_mk13/short;EPW2
 weapons/uk_230lbs;Bomb, HE, RFC, 230 lb, Mk. III
 weapons/uk_230lbs/short;230 lb Mk. III
 weapons/uk_250lbs;Bomb, GP, 250 lb, Mk. IV;

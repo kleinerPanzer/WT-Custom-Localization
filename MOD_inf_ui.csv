@@ -15,6 +15,7 @@ hotkeys/ID_WEAPON_LOCK_HUMAN;Weapon lock
 hotkeys/ID_SENSOR_SWITCH_HUMAN;Switch Radar/IRST search on/off
 hotkeys/ID_SENSOR_TARGET_SWITCH_HUMAN;Select the Radar/IRST target to lock
 hotkeys/ID_SENSOR_TARGET_LOCK_HUMAN;Lock the Radar/IRST on the target
+hotkeys/ID_SENSOR_MODES_SWITCH_HUMAN;Switch between Radar/IRST
 hotkeys/ID_HUMAN_NIGHT_VISION;Night vision mode
 hotkeys/ID_HUMAN_THERMAL_WHITE_IS_HOT;Changing the color scheme of the thermal sight
 hotkeys/ID_HUMAN_TOGGLE_RANGEFINDER;Rangefinder
@@ -56,6 +57,7 @@ hotkeys/ID_HUMAN_THROW;Throw grenade
 hotkeys/ID_HUMAN_WEAP_AMMO_TOGGLE;Change ammunition
 hotkeys/ID_HUMAN_SIGHT_NEXT;Next sight
 hotkeys/ID_HUMAN_SIGHT_PREV;Previous sight
+hotkeys/ID_HUMAN_ARTILLERY_STRIKE;Call artillery strike
 hotkeys/ID_CONTROL_MODE_HUMAN_UAV;Hover mode
 hotkeys/ID_LOCK_TARGETING_AT_POINT_HUMAN_UAV;Sight stabilization
 hotkeys/ID_UNLOCK_TARGETING_AT_POINT_HUMAN_UAV;Disable sight stabilization
@@ -65,6 +67,8 @@ hotkeys/ID_HUMAN_NEXT_AFTER_DEATH;Switch to the next
 hotkeys/ID_REPAIR_HUMAN;Repair
 hotkeys/ID_HUMAN_SHOOT_MELEE;Melee strike
 hotkeys/ID_HUMAN_USE_MEDKIT;Use medkit
+hotkeys/ID_HUMAN_USE;Use
+hotkeys/ID_HUMAN_USE_ALT;Alt Use
 controls/human_wheelmenu_x;Radial menu navigation (X-axis)
 controls/human_wheelmenu_y;Radial menu navigation (Y-axis)
 controls/hold_button_for_fast_sprint;Hold for fast run
@@ -97,6 +101,7 @@ hotkeys/ID_HUMAN_MOVE_HEADER;Movement
 hotkeys/ID_HUMAN_CONTROL_HEADER;Infantry
 controls/human_walk;Move axis
 controls/human_strafe;Strafe axis
+controls/human_lean;Leaning
 infantry_camouflage;Soldiers camouflage
 exp_reasons/kill_human;Hostile eliminated
 unit_type/human;Infantry
@@ -142,7 +147,9 @@ crew/weapon_handling/weaponTurningSpeedMult/tooltip;
 crew/weapon_handling/weaponSwayForceMult/tooltip;
 crew/groundService/squadAdditionalSoldierCount/tooltip;
 multiplayer/human_kills;Infantry Neutralized
+debriefing/HumanKillsF;Friendly Infantry Neutralized
 multiplayer/squadRespawnUnavailable;Respawn near a squadmate is currently unavailable.
+multiplayer/zoneRespawnUnavailable;Respawn in this zone is currently unavailable.
 expEventScore/killHuman;Neutralization of infantry
 msgbox/applyToAllInfantrySkins;"Are you sure you want to apply the camouflage
  {skin} for BR({br}) {location}, {team}
@@ -159,9 +166,13 @@ hint/humanCloseDoor;Close Door
 hint/humanOpenWindow;Open Window
 hint/humanCloseWindow;Close Window
 hints/drone/cooldown_for_launch;Cooldown: {seconds} seconds
+hint/humanTakeDriverSeat;Take the driver's seat
+hint/humanLeaveVehicle;Leave the vehicle
 hints/drone_switch_control_mode;Turn off hover mode
+hints/drone_switch_camera_type;Switch camera type
 hint/medkitUsage;{{ID_HUMAN_USE_MEDKIT}} Use medkit
 hint/bleeding_tip;Stop bleeding
+hint/tourniquetUsage;{{ID_HUMAN_USE_MEDKIT}} Apply tourniquet
 hint/burning_tip;Extinguish the fire
 hint/soldier_switch_already_under_control;This soldier is already under your control
 hint/soldier_switch_not_active;This soldier is not active anymore

@@ -89,6 +89,23 @@ weapons/su_490l_mig_21_bison_left_wing/short;PTB-500;
 weapons/su_490l_mig_21_bison_right_wing;Drop Tank PTB-500;
 weapons/su_490l_mig_21_bison_right_wing/short;PTB-500;
 
+weapons/su_500l_yak_130_drop_tank_1	Подвесной топливный бак ПТБ-500
+weapons/su_500l_yak_130_drop_tank_1/short	ПТБ-500
+weapons/su_500l_yak_130_drop_tank_2	Подвесной топливный бак ПТБ-500
+weapons/su_500l_yak_130_drop_tank_2/short	ПТБ-500
+
+weapons/su_800l_mig_23bn_silver_fuse	Подвесной топливный бак ПТБ-800
+weapons/su_800l_mig_23bn_silver_fuse/short	ПТБ-800
+
+weapons/su_1150l_mig_29kr_left_wing	Подвесной топливный бак ПТБ-1150
+weapons/su_1150l_mig_29kr_left_wing/short	ПТБ-1150
+weapons/su_1150l_mig_29kr_left_wing1	Подвесной топливный бак ПТБ-1150
+weapons/su_1150l_mig_29kr_left_wing1/short	ПТБ-1150
+weapons/su_1150l_mig_29kr_right_wing	Подвесной топливный бак ПТБ-1150
+weapons/su_1150l_mig_29kr_right_wing/short	ПТБ-1150
+weapons/su_1150l_mig_29kr_right_wing1	Подвесной топливный бак ПТБ-1150
+weapons/su_1150l_mig_29kr_right_wing1/short	ПТБ-1150
+
 weapons/su_1500_liters_fuse_mig_29;Подвесной топливный бак ПТБ-1500;
 weapons/su_1500_liters_fuse_mig_29/short;ПТБ-1500;
 weapons/su_1500_liters_fuse_mig_29smt;Подвесной топливный бак ПТБ-1500;
@@ -98,6 +115,9 @@ weapons/su_2000_liters_fuse_mig_29smt;Подвесной топливный ба
 weapons/su_2000_liters_fuse_mig_29smt/short;ПТБ-2000;
 weapons/su_su24m_2000l_drop_tank;Подвесной топливный бак ПТБ-2000;
 weapons/su_su24m_2000l_drop_tank/short;ПТБ-2000;
+
+weapons/su_2150_liters_fuse_mig_29kr	Подвесной топливный бак ПТБ-2150
+weapons/su_2150_liters_fuse_mig_29kr/short	ПТБ-2150
 
 weapons/su_su24m_3000l_drop_tank_left;Подвесной топливный бак ПТБ-3000;
 weapons/su_su24m_3000l_drop_tank_left/short;ПТБ-3000;

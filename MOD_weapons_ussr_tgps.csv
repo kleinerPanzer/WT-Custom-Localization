@@ -13,9 +13,22 @@ weapons/su_apk_9;АПК-9
 weapons/su_apk_9/short;АПК-9
 
 
-weapons/su_phantasmagoria_a;Фантасмагория-А
-weapons/su_phantasmagoria_a/short;Фантасмагория-А
-weapons/su_phantasmagoria_b_beck;Фантасмагория-Б
-weapons/su_phantasmagoria_b_beck/short;Фантасмагория-Б
-weapons/su_phantasmagoria_b_front;Фантасмагория-Б
-weapons/su_phantasmagoria_b_front/short;Фантасмагория-Б
+weapons/su_phantasmagoria_a;Л-080 Фантасмагория-А
+weapons/su_phantasmagoria_a/short;Л-080
+weapons/su_phantasmagoria_b_beck;Л-081 Фантасмагория-Б
+weapons/su_phantasmagoria_b_beck/short;Л-081
+weapons/su_phantasmagoria_b_front;Л-081 Фантасмагория-Б
+weapons/su_phantasmagoria_b_front/short;Л-081
+
+weapons/su_l_066_viuga;Л-066 Вьюга
+weapons/su_l_066_viuga/short;Л-066
+weapons/su_l_086_viuga_17;Л-086 Вьюга-17
+weapons/su_l_086_viuga_17/short;Л-086
+weapons/su_l_080_a;Л-080 Фантасмагория-А
+weapons/su_l_080_a/short;Л-080
+weapons/su_l_080_a_cw;Л-080 Фантасмагория-А
+weapons/su_l_080_a_cw/short;Л-080
+weapons/su_l_081_b;Л-081 Фантасмагория-Б
+weapons/su_l_081_b/short;Л-081
+weapons/su_l_081_c;Л-081 Фантасмагория-Б
+weapons/su_l_081_c/short;Л-081

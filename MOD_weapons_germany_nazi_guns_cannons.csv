@@ -199,6 +199,14 @@ weapons/150mm_sIG_33_user_cannon;15 cm schweres Infanteriegeschütz 33 (L/11);
 
 weapons/150mm_StuH_43_user_cannon;15 cm Sturmhaubitze 43/1 (L/12);
 
+weapons/150mm_sfh_18_user_cannon;15cm schwerer Feldhaubitze 18/1
+150mm_gr_19_he;Granate 19
+150mm_gr_39_hl_a_heat;Granate 39 Hohladung Ausf. A
+150mm_gr_19_nb;Granate 19 Nebel
+150mm_gr_36_he;Granate 36
+150mm_gr_19_be_sap;Granate 19 Beton
+150mm_pzgr_39_ts;15/8,8 Panzergranate 39-Treibspiegel
+
 // NAVAL //
 
 weapons/37mm_83_skc30_naval_user_cannon;3,7 cm Schnellladekanone C/30;
@@ -260,9 +268,9 @@ weapons/128mm_45_skc_41_naval_user_cannon/short;12,8 cm Schnellladekanone C/41;
 76mm_pzgr_39_rot;Panzergranate 39;
 76mm_sprgr_39;Sprenggranate 39;
 76mm_pzgr_40;Panzergranate 40;
-76mm_grhl_38_c;Granate 38 Hohladung/C;
-75mm_grhl_38_c;Granate 38 Hohladung/C;
-75mm_grhl_38_b;Granate 38 Hohladung/B;
+76mm_grhl_38_c;Granate 38 Hohladung Ausf. C;
+75mm_grhl_38_c;Granate 38 Hohladung Ausf. C;
+75mm_grhl_38_b;Granate 38 Hohladung Ausf. B;
 75mm_sprgr_34;Sprenggranate 34;
 75mm_pzgr_rot;Kanonengranate rot Panzer;
 75mm_grhl_39;Granate 38 Hohladung;

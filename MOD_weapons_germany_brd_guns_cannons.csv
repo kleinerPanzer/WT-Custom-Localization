@@ -58,8 +58,13 @@ weapons/120mm_Rheinmetall_L44_autoloader_user_cannon;Bordkanone 120 mm, L 44;
 weapons/120mm_Rheinmetall_L44_user_cannon;Bordkanone 120 mm, L 44;
 weapons/120mm_Rheinmetall_L44_2A5_user_cannon;Bordkanone 120 mm, L 44;
 weapons/120mm_Rheinmetall_L44_2PL_user_cannon;Bordkanone 120 mm, L 44;
+weapons/120mm_Rheinmetall_L44_2RI_user_cannon;Rh 120 L44
+
 weapons/120mm_Rheinmetall_L55_user_cannon;Bordkanone 120 mm, L 55;
+
 weapons/120mm_rheinmetall_l55_a1_user_cannon;Bordkanone 120 mm, L 55 A1;
+weapons/120mm_rheinmetall_l55_a1_cr_lep_user_cannon;Rh 120 L55 A1
+
 120mm_dm13;DM 13;
 120mm_dm12;DM 12;
 120mm_dm12a1;DM 12A1;

@@ -2,6 +2,8 @@
 
 weapons/us_gbu_39;Bomb Unit, Guided, GBU-39/B Small Diameter Bomb
 weapons/us_gbu_39/short;GBU-39/B
+weapons/us_gbu_53;Bomb, Guided, GBU-53/B Small Diameter Bomb
+weapons/us_gbu_53/short;GBU-53/B
 
 weapons/us_2000lb_gbu_8_hobos;Bomb Unit, Guided, GBU-8/B Homing Bomb System;
 weapons/us_2000lb_gbu_8_hobos/short;GBU-8/B;

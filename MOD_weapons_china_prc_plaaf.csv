@@ -96,11 +96,28 @@ weapons/cn_akd_9_default;AKD-9空地导弹;
 weapons/cn_akd_9_default/short;AKD-9;
 weapons/cn_akd_10;AKD-10空地导弹;
 weapons/cn_akd_10/short;AKD-10;
+
+weapons/cn_yj_81k;K/AKD81反舰导弹
+weapons/cn_yj_81k/short;K/AKD81
+weapons/ch_yj_83k_missile;K/AKD83K反舰导弹
+weapons/ch_yj_83k_missile/short;K/AKD83K
+
 weapons/ch_kd_88_missile_ir;K/AKD88A反舰导弹
 weapons/ch_kd_88_missile_ir/short;K/AKD88A
 weapons/ch_kd_88_missile_tv;K/AKD88反舰导弹
 weapons/ch_kd_88_missile_tv/short;K/AKD88
+weapons/ch_kd88_datalink_pod;Data Link pod
+weapons/ch_kd88_datalink_pod/short;Data Link pod
 
+weapons/cn_yj91_l_111;K/AKD91反辐射 (ПРГС-4ВП)
+weapons/cn_yj91_l_111/short;K/AKD91 (ПРГС-4ВП)
+weapons/cn_yj91_l_112;K/AKD91反辐射 (ПРГС-5ВП)
+weapons/cn_yj91_l_112/short;K/AKD91 (ПРГС-5ВП)
+weapons/cn_yj91_l_113;K/AKD91反辐射 (ПРГС-6ВП)
+weapons/cn_yj91_l_113/short;K/AKD91 (ПРГС-6ВП)
+
+weapons/cn_ld10;LD-10 Anti-Radiation Missile
+weapons/cn_ld10/short;LD-10
 weapons/cn_sd10a;SD-10A Air-to-Air Missile;
 weapons/cn_sd10a/short;SD-10A;
 weapons/cn_sd10a_default;SD-10A Air-to-Air Missile;
@@ -110,11 +127,9 @@ weapons/cn_pl12a/short;PL-12AE
 weapons/cn_pl12a_default;PL-12AE Air-to-Air Missile;
 weapons/cn_pl12a_default/short;PL-12AE
 
-weapons/cn_yj_81k;YJ-81反舰导弹
-weapons/cn_yj_81k/short;YJ-81
-weapons/ch_yj_83k_missile;YJ-83K反舰导弹
-weapons/ch_yj_83k_missile/short;YJ-83K
 
+weapons/cn_cm_102;CM-102 Anti-Radiation Missile Weapon System
+weapons/cn_cm_102/short;CM-102
 weapons/cn_cm_502kg_he;CM-502KG Light-Weight Short-Range Air-to-Surface Missile;CM-502KG轻型近程空面导弹
 weapons/cn_cm_502kg_he/short;CM-502KG
 weapons/cn_cm_502kg_he_rail;CM-502KG Light-Weight Short-Range Air-to-Surface Missile;CM-502KG轻型近程空面导弹
@@ -201,3 +216,10 @@ weapons/cn_760l_f_6c_drop_tank_r/short;副油箱
 
 weapons/f_6c_pakistan_fuse_tank;Conformal Fuel Tank
 weapons/f_6c_pakistan_fuse_tank/short;CFT
+
+weapons/cn_kb1	狂飙一号
+weapons/cn_kb1/short	狂飙一号
+weapons/cn_kb1_5kt	狂飙一号
+weapons/cn_kb1_5kt/short	狂飙一号
+weapons/cn_kb1_30kt	狂飙一号
+weapons/cn_kb1_30kt/short	狂飙一号

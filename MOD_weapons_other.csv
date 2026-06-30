@@ -37,9 +37,16 @@ weapons/in_100gal_marut_drop_tank_r_2/short;Drop Tank
 weapons/in_nasser_240;Nasser 240
 weapons/in_nasser_240/short;Nasser 240
 
-weapons/105mm_FMK4_Modelo_1L_2IP_user_cannon;105 mm Fabricaciones Militares K.4 Modelo 1L;
-weapons/105mm_FMK4_Modelo_1L_2C_user_cannon;105 mm Fabricaciones Militares K.4 Modelo 1L;
-weapons/105mm_FMK4_Modelo_1L_user_cannon;105 mm Fabricaciones Militares K.4 Modelo 1L;
+weapons/127mm_aim_9x_nomads_user_cannon	Short Range Air Defence Module
+120mm_im_he;IM HE-T
+
+weapons/7_62mm_sm2_v1_user_machinegun;7.62 mm SM2-V1
+
+weapons/ar_brp_250kg;Baja Resistencia Paracaídas 250 kg
+weapons/ar_brp_250kg/short;BRP-250
+weapons/ar_brp_500kg;Baja Resistencia Paracaídas 500 kg
+weapons/ar_brp_500kg/short;BRP-500
+weapons/cannonHispano804;20 mm HS.804
 
 weapons/7_62mm_C6_user_machinegun;Machine Gun, Caliber 7.62 mm, C6A1 FLEX;
 weapons/uk_CRV7_m247;Canadian Rocket, Vehicle 7;
@@ -63,6 +70,30 @@ weapons/ro_a91/short;A-91
 weapons/ro_a91_default;A-91
 weapons/ro_a91_default/short;A-91
 
+weapons/rs_fab_100_m80;100-kg razorna avio-bomba FAB-100 M80
+weapons/rs_fab_100_m80/short;FAB-100 M80
+weapons/rs_fab_250_m79;250-kg razorna avio-bomba FAB-250 M79
+weapons/rs_fab_250_m79/short;FAB-250 M79
+weapons/rs_fab_250_pgb;250-kg razorna avio-bomba FAB-250 Precision Gliding Bomb
+weapons/rs_fab_250_pgb/short;FAB-250 PGB
+weapons/rs_grom_b;Raketni sistem vazduh-zemlja Grom-B
+weapons/rs_grom_b/short;Grom-B
+weapons/rs_vrvz_240;Voćena raketa vazduh-zemlja 240 mm
+weapons/rs_vrvz_240/short;VRZV-240
+weapons/rs_kosava_3_tm;Voćena raketa vazduh-zemlja Košava 3 TM
+weapons/rs_kosava_3_tm/short;Košava 3 TM
+weapons/rs_salgr_m_16d;Voćena raketa vazduh-zemlja 128 mm M16D
+weapons/rs_salgr_m_16d/short;M16D
+weapons/rs_br_vz_128_m15_rocket_heat;Nevođena raketa vazduh-zemlja 128 mm M15
+weapons/rs_br_vz_128_m15_rocket_heat/short;BR-VZ-128-M15
+weapons/rs_grom;Voćena raketa vazduh-zemlja Grom
+weapons/rs_grom/short;Grom
+weapons/rs_e_24_a1;Voćena raketa vazduh-zemlja E-24-A1
+weapons/rs_e_24_a1/short;E-24-A1
+weapons/rs_plab_350m_73;350-kg plamena avio-bomba PLAB-350 M73
+weapons/rs_plab_350m_73/short;PLAB-350 M73
+weapons/rs_500l_j_22;Drop tank (500 liters)
+weapons/rs_500l_j_22/short;Drop tank
 
 weapons/ir_yasser;رسای;
 weapons/ir_yasser/short;رسای;
@@ -135,6 +166,8 @@ weapons/76mm_nato_smoke_grenade_launcher_ru251;Smoke Grenade;
 weapons/76mm_nato_smoke_grenade_launcher_ru251/short;Smoke;
 weapons/76mm_modern_smoke_grenade_launcher;Smoke Grenade;
 weapons/76mm_modern_smoke_grenade_launcher/short;Smoke;
+weapons/76mm_modern_cn_smoke_grenade_launcher	Smoke Grenade
+weapons/76mm_modern_cn_smoke_grenade_launcher/short	Smoke
 weapons/60mm_modern_smoke_grenade_launcher;Smoke Grenade;
 weapons/60mm_modern_smoke_grenade_launcher/short;Smoke;
 weapons/76mm_modern_germ_smoke_grenade_launcher;Smoke Grenade;

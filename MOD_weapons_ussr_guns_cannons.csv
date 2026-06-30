@@ -340,6 +340,7 @@ weapons/125mm_2A46_M1_T_80U_e1_user_cannon;125-мм танковая пушка 
 weapons/125mm_2A46_M1_T_80BVM_user_cannon;125-мм танковая пушка 2А46М-4;
 weapons/125mm_2A46_M5_T_90A_user_cannon;125-мм танковая пушка 2А46М-5;
 weapons/125mm_2A46_M5_user_cannon;125-мм танковая пушка 2А46М-5-01;
+weapons/125mm_2A46_M5_t_90m_user_cannon;125-мм танковая пушка 2А46М-6
 weapons/125mm_2A75_user_cannon;125-мм самоходная пушка 2A75;
 weapons/125mm_2A75_M_user_cannon;125-мм самоходная пушка 2A75-1
 weapons/125mm_D_126_user_cannon;125-мм пушка Д-126;
@@ -378,7 +379,9 @@ weapons/356mm_52_obr1913_naval_user_cannon;356-мм корабельная пу�
 
 weapons/406mm_50_b37_naval_user_cannon;406-мм корабельная пушка обр. 1937 г. (Б-37);
 
-weapons/ato_200_flamethrower;АТО-200;
+weapons/ato_200_flamethrower;Автоматический танковый огнемёт АТО-200;
+weapons/ato_41_flamethrower	Автоматический танковый огнемёт АТО-41
+
 
 // 100mm Naval // 
 100mm_1928_navy_HE;OФ обр. 1928 г.;
@@ -468,6 +471,7 @@ weapons/ato_200_flamethrower;АТО-200;
 125mm_3bm15;3БМ15;
 125mm_3bm22;3БМ22;
 125mm_3bm42;3БМ42;
+125mm_3bm42_2	3БМ42-2
 125mm_3bm42m;3БМ42М;
 125mm_3bm46;3БМ46;
 125mm_3bm60;3БМ60;

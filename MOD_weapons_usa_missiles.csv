@@ -176,6 +176,8 @@ weapons/us_agm_12c_bullpup/short;AGM-12C;
 // M-22 //
 weapons/us_AGM_22;Guided Missile, Surface Attack, AGM-22;
 weapons/us_AGM_22/short;AGM-22;
+weapons/us_AGM_22_default;Guided Missile, Surface Attack, AGM-22
+weapons/us_AGM_22_default/short;AGM-22
 
 // M-23 //
 us_mim_23b;MIM-23B
@@ -185,6 +187,7 @@ weapons/rocket_rim_24_a_naval_rocket_launcher;RIM-24 Launcher;
 weapons/rocket_rim_24_a_naval_rocket_launcher/short;RIM-24;
 rim_24;RIM-24A
 rim_24b;RIM-24B
+
 
 // M-45 //
 weapons/us_agm_45b_10;Guided Missile, Surface Attack, AGM-45B-10 Shrike
@@ -207,6 +210,10 @@ weapons/us_aim_54c;Guided Missile, Intercept-Aerial, AIM-54C Phoenix;
 weapons/us_aim_54c/short;AIM-54C;
 weapons/us_aim_54c_default;Guided Missile, Intercept-Aerial, AIM-54C Phoenix;
 weapons/us_aim_54c_default/short;AIM-54C;
+weapons/us_aim_54c_plus;Guided Missile, Intercept-Aerial, AIM-54C+ Phoenix
+weapons/us_aim_54c_plus/short;AIM-54C+
+weapons/us_aim_54c_plus_default;Guided Missile, Intercept-Aerial, AIM-54C+ Phoenix
+weapons/us_aim_54c_plus_default/short;AIM-54C+
 
 // M-62 //
 weapons/us_agm_62a;Guided Missile, Surface Attack, AGM-62A Walleye I;
@@ -291,12 +298,16 @@ weapons/127mm_mim72a/short;MIM-72A;
 127mm_mim72g;MIM-72G;
 
 // M-84 //
+weapons/us_agm_84d;Guided Missile, Surface Attack, AGM-84D Harpoon
+weapons/us_agm_84d/short;AGM-84D
 weapons/us_agm_84h_slam_er;Guided Missile, Surface Attack, AGM-84H Standoff Land Attack Missile-Expanded Response
 weapons/us_agm_84h_slam_er/short;AGM-84H
 
 // M-88 //
 weapons/us_agm_88a;Guided Missile, Surface Attack, AGM-88A High-Speed Anti-Radiation Missile
 weapons/us_agm_88a/short;AGM-88A
+weapons/us_agm_88c;Guided Missile, Surface Attack, AGM-88C High-Speed Anti-Radiation Missile
+weapons/us_agm_88c/short;AGM-88A
 
 // M-92 //
 weapons/70mm_FIM_92E_Stinger_LAV_4_launcher_user_cannon;Stinger Launcher;
@@ -339,6 +350,8 @@ weapons/us_hellfire_agm_114_k_ucav_default/short;AGM-114K;
 // M-119 //
 weapons/us_agm_119a_penguin;Guided Missile, Surface Attack, AGM-119A Penguin
 weapons/us_agm_119a_penguin/short;AGM-119A
+weapons/us_agm_119a_penguin_wo_radar_designation;Guided Missile, Surface Attack, AGM-119A Penguin
+weapons/us_agm_119a_penguin_wo_radar_designation/short;AGM-119A
 
 // M-120 //
 weapons/us_aim_120a;Guided Missile, Intercept-Aerial, AIM-120A Advanced Medium Range Air-to-Air Missile;
@@ -372,6 +385,9 @@ weapons/us_aim_120d/short;AIM-120D
 weapons/us_aim_120d_default;Guided Missile, Intercept-Aerial, AIM-120D Advanced Medium Range Air-to-Air Missile
 weapons/us_aim_120d_default/short;AIM-120D
 
+// M-122 //
+weapons/us_agm_122	Guided Missile, Surface Attack, AGM-122A Sidearm
+weapons/us_agm_122/short	AGM-122A
 
 // M-123 //
 weapons/us_agm_123;Guided Missile, Surface Attack, AGM-123A Skipper II;

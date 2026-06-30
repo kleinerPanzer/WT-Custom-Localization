@@ -98,3 +98,12 @@ weapons/115mm_MILAN_2_rocket_launcher;MILAN 2;
 weapons/115mm_MILAN_2_rocket_launcher/short;MILAN 2;
 weapons/115_milan_2/short;MILAN 2;
 115_milan_2;MILAN 2;
+
+weapons/fr_as37_l_band;Missile AS 37 Martel (Bande L)
+weapons/fr_as37_l_band/short;AS 37 (L)
+weapons/fr_as37_s_band;Missile AS 37 Martel (Bande S)
+weapons/fr_as37_s_band/short;AS 37 (S)
+weapons/fr_as37_c_band;Missile AS 37 Martel (Bande C)
+weapons/fr_as37_c_band/short;AS 37 (C)
+weapons/fr_as37_armat;Missile ARMAT
+weapons/fr_as37_armat/short;ARMAT

@@ -75,6 +75,22 @@ pp_19_bizon_shop;ПП-19
 pp_19_bizon_0;9-мм пистолет-пулемёт ПП-19
 pp_19_bizon_1;ПП-19
 pp_19_bizon_2;ПП-19
+ks_p_18_5_shop;18,5 КС-П
+ks_p_18_5_0;18,5 КС-П
+ks_p_18_5_1;18,5 КС-П
+ks_p_18_5_2;КС-П
+mossberg_590_shop;590
+mossberg_590_0;590
+mossberg_590_1;590
+mossberg_590_2;590
+beretta_m9_shop;M9
+beretta_m9_0;Pistol, Semiautomatic, 9-mm, M9
+beretta_m9_1;M9
+beretta_m9_2;M9
+mp_443_shop;MП-443
+mp_443_0;MП-443
+mp_443_1;MП-443
+mp_443_2;MП-443
 pp_19_vityaz_shop;ПП-19-01
 pp_19_vityaz_0;9-мм пистолет-пулемёт ПП-19-01
 pp_19_vityaz_1;ПП-19-01
@@ -103,6 +119,10 @@ fn_scar_shop;SCAR-L
 fn_scar_0;SCAR-L
 fn_scar_1;SCAR-L
 fn_scar_2;SCAR
+fn_scar_l_shop;SCAR-L
+fn_scar_l_0;SCAR-L
+fn_scar_l_1;SCAR-L
+fn_scar_l_2;SCAR
 svd_shop;СВД
 svd_0;7,62-мм снайперская винтовка Драгунова (6В1)
 svd_1;СВД
@@ -223,6 +243,7 @@ weapons/ussr_recon_drone/desc;A quadcopter with software for automatic enemy rec
 5_56mm_m855a1_ep;Ball, M855A1
 5_56mm_m856_tracer;Tracer, M856
 5_8mm_dbp_87_gp;DBP87
+6_0mm_buckshot;Buckshot
 6_8mm_m1186_gp;GP, M1186
 6_8mm_m1184_ap;SP, M1184
 6_8mm_m1187_t;Tracer, M1187

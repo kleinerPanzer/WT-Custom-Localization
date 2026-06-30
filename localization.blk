@@ -222,6 +222,7 @@ locTable{
   file:t="%lang/MOD_units_za_republic_army.csv"
   file:t="%lang/MOD_units_za_union.csv"
   file:t="%lang/MOD_weapons.csv"
+  file:t="%lang/MOD_weapons_argentina.csv"
   file:t="%lang/MOD_weapons_belgium.csv"
   file:t="%lang/MOD_weapons_brazil.csv"
   file:t="%lang/MOD_weapons_china_prc_plaaf.csv"

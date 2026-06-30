@@ -64,6 +64,8 @@ attachables/ak_46_1;АК-46
 attachables/rpg2;РПГ-2
 attachables/b_10;Б-10
 attachables/ds_39;ДС-39
+attachables/decor_fog_2;ФОГ-2
+attachables/decor_general_saber_1943;General's saber (USSR)
 
 // EQUIPMENT //
 attachables/gazmask;Gas Mask;
@@ -89,3 +91,5 @@ attachables/lad;LAD
 attachables/tkb_059;ТКБ-059
 attachables/decor_kubanka_hat;Папаха
 attachables/helmet_sh_36;СШ-36
+attachables/decor_lunokhod;Луноход-1
+attachables/decor_lunokhod/desc;Аппарат 8ЕЛ № 203 «Луноход-1»

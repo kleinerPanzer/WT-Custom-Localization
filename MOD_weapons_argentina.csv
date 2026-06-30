@@ -1,0 +1,39 @@
+<ID|readonly|noverify>;<NewLanguage>
+weapons/105mm_FMK4_Modelo_1L_2IP_user_cannon;105 mm Fabricaciones Militares K.4 Modelo 1L;
+weapons/105mm_FMK4_Modelo_1L_2C_user_cannon;105 mm Fabricaciones Militares K.4 Modelo 1L;
+weapons/105mm_FMK4_Modelo_1L_user_cannon;105 mm Fabricaciones Militares K.4 Modelo 1L;
+
+weapons/ar_aspid_1057;Cohete Aire-Superficie IA-C-1057 Áspid ARM Aletas Plegables
+weapons/ar_aspid_1057/short;IA-C-1057 Áspid ARM AP
+
+weapons/ar_pampero;Cohete Aire-Superficie Pampero AS-105
+weapons/ar_pampero/short;Pampero AS-105
+
+weapons/ar_bk_br_500kg;Bomba de Propositos Generales 500 kg (BK-BR)
+weapons/ar_bk_br_500kg/short;PG 500 kg (BK-BR)
+weapons/ar_bk_br_250kg;Bomba de Propositos Generales 250 kg (BR-BK)
+weapons/ar_bk_br_250kg/short;PG 250 kg (BK-BR)
+weapons/ar_bk_br_125kg;Bomba de Propositos Generales 125 kg (BR-BK)
+weapons/ar_bk_br_125kg/short;PG 125 kg (BK-BR)
+weapons/ar_bk_br_130kg;Bomba de Propositos Generales 130 kg (BR-BK)
+weapons/ar_bk_br_130kg/short;PG 130 kg (BK-BR)
+
+weapons/ar_inc_220;Bomba Napalm de 220 kg
+weapons/ar_inc_220/short;INC 220 kg
+
+weapons/ar_pescador;Misil Aire-Superficie Martin Pescador 
+weapons/ar_pescador/short;Martin Pescador
+
+weapons/pucara_jato_1;JATO booster
+weapons/pucara_jato_1/short;JATO
+weapons/pucara_jato_2;JATO booster
+weapons/pucara_jato_2/short;JATO
+weapons/pucara_jato_3;JATO booster
+weapons/pucara_jato_3/short;JATO
+
+weapons/ar_318l_drop_tank_1;Tanque auxiliar de combustible de 318 litros
+weapons/ar_318l_drop_tank_1/short;Tanque auxiliar
+weapons/ar_318l_drop_tank_2;Tanque auxiliar de combustible de 318 litros
+weapons/ar_318l_drop_tank_2/short;Tanque auxiliar
+weapons/ar_318l_drop_tank_3;Tanque auxiliar de combustible de 318 litros
+weapons/ar_318l_drop_tank_3/short;Tanque auxiliar

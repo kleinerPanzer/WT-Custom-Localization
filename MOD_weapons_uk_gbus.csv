@@ -1,11 +1,32 @@
 <ID|readonly|noverify>;<NewLanguage>
-weapons/uk_pgm_500;PGM 500;
-weapons/uk_pgm_500/short;PGM 500;
-weapons/uk_pgm_2000;PGM 2000;
-weapons/uk_pgm_2000/short;PGM 2000;
+weapons/uk_pgm_500;PGM 500/1;
+weapons/uk_pgm_500/short;PGM 500/1;
+weapons/uk_pgm_500_laser;PGM 500/1
+weapons/uk_pgm_500_laser/short;PGM 500/1
+weapons/uk_pgm_500_wo_mitl;PGM 500/2
+weapons/uk_pgm_500_wo_mitl/short;PGM 500/2
 weapons/uk_pgm_500_iir;PGM 500/3
 weapons/uk_pgm_500_iir/short;PGM 500/3
+weapons/uk_pgm_500_iir_wo_mitl;PGM 500/3
+weapons/uk_pgm_500_iir_wo_mitl/short;PGM 500/3
+
+weapons/uk_pgm_2000_laser;PGM 2000/1
+weapons/uk_pgm_2000_laser/short;PGM 2000/1
+weapons/uk_pgm_2000;PGM 2000/2;
+weapons/uk_pgm_2000/short;PGM 2000/2;
+weapons/uk_pgm_2000_wo_mitl;PGM 2000/2
+weapons/uk_pgm_2000_wo_mitl/short;PGM 2000/2
 weapons/uk_pgm_2000_iir;PGM 2000/3
 weapons/uk_pgm_2000_iir/short;PGM 2000/3
+weapons/uk_pgm_2000_iir_wo_mitl;PGM 2000/3
+weapons/uk_pgm_2000_iir_wo_mitl/short;PGM 2000/3
+
+weapons/fr_mk18;Bomb, HE MC, 1000-lb, Mk. 18 (LGB Paveway);
+weapons/fr_mk18/short;1000-lb Mk. 18 (Paveway);
+weapons/fr_mk13;Bomb, HE MC, 1000-lb, Mk. 13 (LGB Paveway);
+weapons/fr_mk13/short;1000-lb Mk. 13 (Paveway);
+weapons/uk_1000lb_enhanced_paveway2_mk13;Enhanced Paveway 2 (UK) LGB
+weapons/uk_1000lb_enhanced_paveway2_mk13/short;EPW2
 weapons/uk_paveway_iv;Paveway IV
 weapons/uk_paveway_iv/short;Paveway IV
+

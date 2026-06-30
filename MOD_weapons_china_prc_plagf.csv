@@ -12,6 +12,8 @@ weapons/120mm_PTZ89_user_cannon;PT89式120毫米反坦克炮;
 weapons/105mm_type_75_user_cannon;1975年式105毫米无后坐力炮
 // ANTI-AIR //
 weapons/37mm_type_65_user_cannon;1965年式双管37毫米高射机关炮;
+weapons/37mm_type_76_user_cannon;1976年式双管37毫米高射机关炮
+
 weapons/25mm_PG87_PGZ_user_cannon;PG87式双管25毫米高射机关炮;
 weapons/25mm_PG87_user_cannon;PG87式双管25毫米高射机关炮;
 weapons/35mm_PG_99_35_2_user_cannon;PG99式双管35毫米高射机关炮;
@@ -53,6 +55,7 @@ weapons/105mm_ZPL151A_user_cannon;ZPL151式105毫米坦克炮;
 weapons/120mm_122TM_user_cannon;1971年式120毫米坦克炮
 weapons/125mm_Type_88C_user_cannon;1988C式125毫米坦克炮;
 weapons/125mm_ZPT_98_user_cannon;ZPT98式125毫米坦克炮;
+weapons/125mm_ZPT_98_vt4b_user_cannon;ZPT98式125毫米坦克炮;
 weapons/125mm_Type_99A_user_cannon;ZPT98A式125毫米坦克炮;
 weapons/125mm_l54_cn_user_cannon;54口径125毫米坦克炮;
 
@@ -73,6 +76,10 @@ weapons/125mm_l54_cn_user_cannon;54口径125毫米坦克炮;
 // PG99
 35mm_dkp_01a;DM 11 A1;
 35mm_dkg_01a;DKG01A/PG99-35-2;
+
+// Type 55//
+37mm_heit_1955	1955年式37毫米高射机关炮曳光杀伤爆破弹
+37mm_apit_1955	1955年式37毫米高射机关炮曳光穿甲弹
 
 // WA318
 57mm_dky_1;DKY1/PG59-57 (VTF);
