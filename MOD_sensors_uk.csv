@@ -31,6 +31,7 @@ sensors/uk_marconi_type_226;Type 226 Skyranger;
 sensors/uk_praetorian_lws;Praetorian DASS;
 sensors/uk_praetorian_mlws;Praetorian DASS;
 sensors/uk_praetorian_rwr;Praetorian DASS;
+sensors/uk_praetorian_maw;Praetorian DASS;
 sensors/uk_pvs2000_maw;PVS2000;
 sensors/uk_rapier_fr;Tracking Radar;
 sensors/uk_rapier_sr;Search Radar;
@@ -60,3 +61,4 @@ sensors/uk_type_960;Type 960;
 sensors/uk_type_992q;Type 992Q;
 sensors/uk_type_a14d;Type A14D;
 sensors/uk_vinten;D-36;
+sensors/uk_alarm_esm;ESM

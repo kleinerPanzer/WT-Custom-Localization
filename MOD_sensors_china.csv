@@ -2,6 +2,7 @@
 
 // PLAAF Airborne Systems //
 sensors/cn_jl_10a;JL-10A雷达;
+sensors/cn_jl_10ag;JL-10AG雷达
 sensors/cn_jl_7a;JL-7A雷达;
 sensors/cn_klj_7;KLJ-7A雷达;
 sensors/cn_klj_10a;KLJ-10A雷达;
@@ -19,15 +20,17 @@ sensors/cn_type_930;930型雷达告警接收器
 sensors/cn_kj8602a;KJ8602A雷达告警接收器;
 sensors/cn_kj_8602;KJ8602雷达告警接收器;
 
-sensors/cn_krkz2200;Unknown;
+sensors/cn_krkz2200;RWR;
 
 sensors/cn_s740;S740导弹预警系统;
 
+sensors/cn_rwr_esm;ESM;
+
 // PLAGF Helicopter Systems // 
-sensors/cn_helicopter_z_late_rwr;Unknown
 sensors/cn_helicopter_z_lws;LWS;
 sensors/cn_helicopter_z_mlws;MLWS;
 sensors/cn_helicopter_z_rwr;RWR;
+sensors/cn_helicopter_z_late_rwr;RWR
 sensors/cn_rn_01_ii;Search Radar;
 counterMeasures/cn_z_10me;DIRCM;
 sensors/cn_z10_fcr;Search Radar;
@@ -36,6 +39,7 @@ sensors/cn_z10_fcr;Search Radar;
 sensors/cn_clc_1_search;CLC1低空监视雷达;
 
 sensors/cn_hq_11_search;Search Radar;
+sensors/cn_hq_11_search_ai;Search Radar;
 
 sensors/cn_hq_17_search;Search Radar
 sensors/cn_hq_17_track;Tracking Radar

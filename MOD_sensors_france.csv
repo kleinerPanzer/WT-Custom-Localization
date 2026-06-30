@@ -4,11 +4,18 @@
 
 counterMeasures/eirel;EIREL
 sensors/fr_arabel;Arabel
+sensors/fr_arabel_ai;Arabel
 sensors/fr_antares_lws;Antares
 sensors/fr_crotale_search;Search Radar;
 sensors/fr_crotale_track;Tracking Radar;
+sensors/fr_crotale_track_ai;Tracking Radar;
 sensors/fr_leclerc_auto_target_tracker;TV Tracker;
 sensors/fr_rodeo_2;Rodeo 2;
+
+sensors/fr_as37_armat_esm;ESM
+sensors/fr_as37_c_esm;ESM
+sensors/fr_as37_l_esm;ESM
+sensors/fr_as37_s_esm;ESM
 
 // Air Systems
 

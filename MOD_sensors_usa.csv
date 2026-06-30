@@ -46,6 +46,7 @@ sensors/us_an_apg_26;Radar Set, AN/APG-26;
 sensors/us_an_apg_30;Radar Set, AN/APG-30;
 sensors/us_an_apg_30a;Radar Set, AN/APG-30A;
 sensors/us_an_apg_33;Radar Set, AN/APG-33;
+sensors/us_an_apg_37;Radar Set, AN/APG-37
 sensors/us_an_apg_501;ARO Radar System, AN/APG-501;
 sensors/us_an_apg_59_f_4j;Radar Set, AN/APG-59;
 sensors/us_an_apg_59;Radar Set, AN/APG-59;
@@ -75,6 +76,7 @@ sensors/us_an_apg_68_v_9;Radar Set, AN/APG-68(V)9;
 sensors/us_an_apg_69;Radar Set, AN/APG-69
 sensors/us_an_apg_70;Radar Set, AN/APG-70
 sensors/us_an_apg_70i;Radar Set, AN/APG-70
+sensors/us_an_apg_71;Radar Set, AN/APG-71
 sensors/us_an_apg_73;Radar Set, AN/APG-73
 sensors/us_an_apg_73_hms;Radar Set, AN/APG-73
 sensors/us_an_apg_76_an_asx_1;Radar Set, AN/APG-76;
@@ -89,6 +91,7 @@ sensors/us_an_apq_113;Radar Set, AN/APQ-113;
 sensors/us_an_apq_120;Radar Set, AN/APQ-120;
 sensors/us_an_apq_159;Radar Set, AN/APQ-159;
 sensors/us_an_apq_159_hms;Radar Set, AN/APQ-159;
+sensors/us_an_apq_159_v;Radar Set, AN/APQ-159(V)3
 sensors/us_an_apq_169;Radar Set, AN/APQ-169;
 sensors/us_an_apq_50;Radar Set, AN/APQ-50;
 sensors/us_an_apq_51;Radar Set, AN/APQ-51;
@@ -118,10 +121,14 @@ sensors/us_an_aps_6;Radar Set, AN/APS-6;
 sensors/us_an_aps_67;Radar Set, AN/APS-67;
 sensors/us_an_asg_14;Radar Set, AN/ASG-14;
 sensors/us_an_asg_19;Radar Set, AN/ASG-19;
+sensors/us_an_asq_213_esm;HARM Targeting System, AN/ASQ-213 (Release 5)
 sensors/us_an_avr-2;Laser Warning System, AN/AVR-2;
 sensors/us_an_avr-2a;Laser Warning System, AN/AVR-2A;
 sensors/us_an_avs-2;Night Vision Imaging System, AN/AVS-2;
 sensors/us_an_awg_9_tiseo;Radar Set, AN/AWG-9;
+sensors/us_an_mpq_50;Radar Set, AN/MPQ-50
+sensors/us_an_mpq_53;Radar Set, AN/MPQ-53
+sensors/us_an_mpq_61;Radar Set, AN/MPQ-61
 sensors/us_an_mpq_64;Radar Set, AN/MPQ-64;
 sensors/us_an_awg_9;Radar Set, AN/AWG-9;
 sensors/us_an_sc2_radar;Radar Set, SC-2;
@@ -129,6 +136,7 @@ sensors/us_an_spg_34;Radar Set, AN/SPG-34;
 sensors/us_an_spg_48;Radar Set, AN/SPG-48;
 sensors/us_an_spg_50;Radar Set, AN/SPG-50;
 sensors/us_an_spg_51;Radar Set, AN/SPG-51;
+sensors/us_an_spg_51_ec;Radar Set, AN/SPG-51;
 sensors/us_an_spg_70;Radar Set, AN/SPG-70;
 sensors/us_an_sps_10;Radar Set, AN/SPS-10;
 sensors/us_an_sps_12;Radar Set, AN/SPS-12;
@@ -136,11 +144,14 @@ sensors/us_an_sps_37;Radar Set, AN/SPS-37;
 sensors/us_an_sps_39;Radar Set, AN/SPS-39;
 sensors/us_an_sps_4;Radar Set, AN/SPS-4;
 sensors/us_an_sps_40;Radar Set, AN/SPS-40;
+sensors/us_an_sps_48;Radar Set, AN/SPS-48;
+sensors/us_an_sps_49;Radar Set, AN/SPS-49;
 sensors/us_an_sps_5;Radar Set, AN/SPS-5;
 sensors/us_an_sps_52;Radar Set, AN/SPS-52;
 sensors/us_an_sps_6;Radar Set, AN/SPS-6;
 sensors/us_an_sps_72;Radar Set, AN/SPS-72;
 sensors/us_an_sps_8a;Radar Set, AN/SPS-8A;
+sensors/us_tps_59;Radar Set, AN/TPS-59
 sensors/us_an_vps_2;Radar Set, AN/VPS-2;
 sensors/us_chaparral_track;IRST;
 sensors/us_comanche_fcr;Tracking Radar;
@@ -174,3 +185,5 @@ sensors/us_sk2_radar;Radar Set, SK-2;
 sensors/us_sp_radar;Radar Set, SP;
 sensors/us_sp2_radar;Radar Set, SP-2;
 sensors/us_sr6_radar;Radar Set, SR-6;
+sensors/us_harm_a_esm;ESM
+sensors/us_harm_c_esm;ESM

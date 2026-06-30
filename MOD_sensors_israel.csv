@@ -22,3 +22,4 @@ sensors/il_elisra_sps_3000;SPS-3000
 aps/raam_segol;לוגס םער;
 sensors/il_machbet_optics;TV Tracker/FLIR;
 sensors/il_spyder_search;Extended Multi-Mission Hemispheric Radar;
+sensors/il_spyder_search_ai;Extended Multi-Mission Hemispheric Radar;

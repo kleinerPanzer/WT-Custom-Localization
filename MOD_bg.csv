@@ -28,6 +28,7 @@ loading_bg/login_layer_ah_6m;AH-6M
 loading_bg/login_layer_air_finland;Update "Fire and Ice" — Finnish Air Forces
 loading_bg/login_layer_air_marathon_2024;IAR 93 B
 loading_bg/login_layer_air_superiority;Update "Air Superiority"
+loading_bg/login_layer_aircraft_marathon_sky_farmer;F6C
 loading_bg/login_layer_aircraft_marathon_workhorse;◗ F-16A-5
 loading_bg/login_layer_amx_50_1950;Char 50t (TO 90/930)
 loading_bg/login_layer_amx_elc_901;E.L.C./A.M.X. (T.C. 901)
@@ -102,6 +103,7 @@ loading_bg/login_layer_harrier_gr1;Harrier GR.1
 loading_bg/login_layer_hawk_200;Hawk 200
 loading_bg/login_layer_he_177a_3;He 177 A-3/R3
 loading_bg/login_layer_helicopters_it;Update "Hot Tracks" — Italian Helicopters
+loading_bg/login_layer_hummel;Hummel
 loading_bg/login_layer_hungarian_aircrafts;Update "Ninth Wave" — Hungarian Air Forces
 loading_bg/login_layer_hungary_aircrafts;Update "Alpha Strike" — Hungarian Air Forces
 loading_bg/login_layer_hungary_ground_vehicles;Update "Sons of Attila" — Hungarian Ground Forces
@@ -133,6 +135,7 @@ loading_bg/login_layer_luchs_a2_fv107_scimitar;SpPz 2 A2 Luchs & Scimitar
 loading_bg/login_layer_m1;Tiger I (März 1943)
 loading_bg/login_layer_m1a1_hc;M1A1 HC
 loading_bg/login_layer_m1a2_abrams;M1A2
+loading_bg/login_layer_m1a2_sep_v2_trophy;M1A2 SEPv2 (Trophy)
 loading_bg/login_layer_m46_france;⚜ M46
 loading_bg/login_layer_m55;M55
 loading_bg/login_layer_m551_76;M551 (M32)
@@ -150,6 +153,7 @@ loading_bg/login_layer_mobile_infantry;Mobile Infantry
 loading_bg/login_layer_n1;Т-34-85 (сент. 1944) & Panther A
 loading_bg/login_layer_night_battles;Night Battles
 loading_bg/login_layer_northampton;Northampton (CA 26)
+loading_bg/login_layer_nuclear_thunder_tu_95m;Ту-95М
 loading_bg/login_layer_ny_marathon_25;Winter Concert
 loading_bg/login_layer_o1;F7F-1
 loading_bg/login_layer_object_248;ИС-5 (Oбъ. 248)
@@ -160,6 +164,7 @@ loading_bg/login_layer_p51_1_71;Update 1.71 "New E.R.A." — P-51H-10 & XA-38
 loading_bg/login_layer_panhard_ebr_1963;EBR 90 F1
 loading_bg/login_layer_pgz_625_fb10;CS/SA5
 loading_bg/login_layer_pt_76_57;ПТ-76Б (БМ-57)
+loading_bg/login_layer_pucara;IA.58A
 loading_bg/login_layer_pzh_2000;PzH 2000 A1
 loading_bg/login_layer_q1;Canberra B.2
 loading_bg/login_layer_r1;FIX ME;FIX ME;
@@ -178,6 +183,7 @@ loading_bg/login_layer_ship_marathon_hiburi;四阪
 loading_bg/login_layer_ship_marathon_oklakhoma;Oklahoma (BB 37)
 loading_bg/login_layer_ship_marathon_strasbourg;Strasbourg
 loading_bg/login_layer_sholef;V1 ףלוש
+loading_bg/login_layer_spitfire_mk9c_greece;✙ Spitfire LF. Mk. IX (CW)
 loading_bg/login_layer_spz_12_3;SPz lang (LGS)
 loading_bg/login_layer_static_1_81_ussr;FIX ME;FIX ME;
 loading_bg/login_layer_static_art_destroer_sumner_wide;Allen M. Sumner (DD 692)
@@ -225,6 +231,7 @@ loading_bg/login_layer_wt_6_years;War Thunder — 6th Anniversary
 loading_bg/login_layer_wz_141;141 (一期)
 loading_bg/login_layer_x1;ИС-6 (Oбъ. 252)
 loading_bg/login_layer_xf5u;XF5U-1
+loading_bg/login_layer_yak130_m346;Як-130 & M-346
 loading_bg/login_layer_yak_141;Як-141
 loading_bg/login_layer_yamashiro;山城
 loading_bg/login_layer_yamato;大和
