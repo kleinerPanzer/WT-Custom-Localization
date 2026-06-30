@@ -189,6 +189,12 @@ cn_zsl_92_0;ZSL1992式轮式装甲输送车
 cn_zsl_92_1;ZSL92
 cn_zsl_92_2;ZSL92
 
+// Type 88 //
+cn_pgz_88_shop;PGZ88
+cn_pgz_88_0;PGZ1988式双管37毫米履带自行高炮
+cn_pgz_88_1;PGZ88
+cn_pgz_88_2;PGZ88
+
 // Type 95/Type 04 //
 cn_pgz_04a_shop;PGZ04A
 cn_pgz_04a_0;PGZ2004A式四管25毫米履带自行高炮

@@ -10,6 +10,8 @@ shop/group/germ_roland_osa_group;FlaRakPz Roland / ◊ 9A33BM2
 shop/group/germ_iris_slm_fcs_group;LV-Sys IRIS-T SLM
 shop/group/germ_leopard_1_late_group;KPz Leopard 1 A1 A1 / KPz Leopard 1 A5
 shop/group/germ_raketen_group;SPz lang (Typ 3Z 8DLa) / RakJPz 2
+shop/group/germ_m44_55_group;PzH M 44 / PzH M 55
+
 
 // PANZER //
 // M41 //
@@ -158,6 +160,10 @@ germ_schutzenpanzer_puma_vjtf_shop;SPz Puma VJTF
 germ_schutzenpanzer_puma_vjtf_0;Panzer, Schützen, Vollkette, SPz Puma Konstruktionsstand VJTF
 germ_schutzenpanzer_puma_vjtf_1;SPz Puma VJTF
 germ_schutzenpanzer_puma_vjtf_2;SPz Puma
+germ_schutzenpanzer_puma_vjtf_mod_shop;SPz Puma VJTF (PzGrenBtl 33)
+germ_schutzenpanzer_puma_vjtf_mod_0;Panzer, Schützen-, Vollkette, SPz Puma, Konstruktionsstand VJTF (Panzergrenadierbataillon 33)
+germ_schutzenpanzer_puma_vjtf_mod_1;SPz Puma VJTF
+germ_schutzenpanzer_puma_vjtf_mod_2;SPz Puma
 
 // WAFFENTRAGER //
 

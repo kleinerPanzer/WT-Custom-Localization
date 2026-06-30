@@ -30,6 +30,18 @@ M1A1, Abrams Integrated Management, Situational Awareness
 1st Armoured Regiment"
 us_m1a1_aim_abrams_1;M1A1 AIM SA
 us_m1a1_aim_abrams_2;M1
+uk_m1a2_sep3_abrams_shop;M1A2 SEPv3
+uk_m1a2_sep3_abrams_0;"Tank, Combat, Full Tracked: 120-mm Gun, 
+M1A2 System Enhancement Package v3
+ARAT"
+uk_m1a2_sep3_abrams_1;M1A2
+uk_m1a2_sep3_abrams_2;M1
+uk_m1a1_aim_abrams_shop;M1A1 AIM SA (1st AR)
+uk_m1a1_aim_abrams_0;"Tank, Combat, Full-Tracked: 120-mm Gun,
+M1A1, Abrams Integrated Management, Situational Awareness
+1st Armoured Regiment"
+uk_m1a1_aim_abrams_1;M1A1 AIM SA
+uk_m1a1_aim_abrams_2;M1
 
 uk_boxer_crv_block2_shop;Boxer CRV (Phase 2)
 uk_boxer_crv_block2_0;"Boxer 8x8 Combat Reconnaissance Vehicle

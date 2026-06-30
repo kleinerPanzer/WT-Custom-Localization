@@ -42,6 +42,10 @@ f_16am_block_15_mlu_belgium_shop;♔ F-16AM-20
 f_16am_block_15_mlu_belgium_0;F-16AM-20 CF
 f_16am_block_15_mlu_belgium_1;♔ F-16AM
 f_16am_block_15_mlu_belgium_2;F-16
+f_16am_block_15_mlu_fs_belgium_shop;♔ F-16AM-20 (2 W Tac)
+f_16am_block_15_mlu_fs_belgium_0;F-16AM-20 CF (2ième Wing Tactique) (FA-110)
+f_16am_block_15_mlu_fs_belgium_1;♔ F-16AM
+f_16am_block_15_mlu_fs_belgium_2;F-16
 
 // Army //
 shop/group/fr_m44_55_group;♔ M44 / ♔ M55
@@ -55,3 +59,8 @@ fr_m55_shop;♔ M55
 fr_m55_0;Obusier automoteur de 8 p M44
 fr_m55_1;♔ M55
 fr_m55_2;M55
+
+fr_leopard_1a5be_shop;Leopard 1 A5 BE
+fr_leopard_1a5be_0;Leopard 1 A5 BE
+fr_leopard_1a5be_1;Leopard 1 A5
+fr_leopard_1a5be_2;Leopard 1

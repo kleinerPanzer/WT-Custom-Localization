@@ -149,6 +149,11 @@ germ_kanonenboot_k2_0;Kanonenboot Typ 1937 K 2
 germ_kanonenboot_k2_1;K 2
 germ_kanonenboot_k2_2;Kanonenboot Typ 1937
 
+germ_kanonenboot_k4_lorelei_shop;K 4
+germ_kanonenboot_k4_lorelei_0;Kanonenboot K 4 «Lorelei» (1945)
+germ_kanonenboot_k4_lorelei_1;K 4
+germ_kanonenboot_k4_lorelei_2;K 4
+
 // TORPEDOBOOT //
 germ_destroyer_class1924_jaguar1941_shop;Wolf (WL)
 germ_destroyer_class1924_jaguar1941_0;"Torpedoboot Typ 1924 WL Wolf
@@ -282,6 +287,11 @@ germ_cruiser_admiral_graf_spee_0;"Deutschland-Klasse schwerer Kreuzer, Admiral G
 1939"
 germ_cruiser_admiral_graf_spee_1;Admiral Graf Spee
 germ_cruiser_admiral_graf_spee_2;Deutschland-Klasse
+germ_cruiser_admiral_scheer_shop;Admiral Scheer
+germ_cruiser_admiral_scheer_0;"Deutschland-Klasse schwerer Kreuzer, Admiral Scheer
+1940"
+germ_cruiser_admiral_scheer_1;Admiral Scheer
+germ_cruiser_admiral_scheer_2;Deutschland-Klasse
 
 germ_cruiser_admiral_hipper_shop;Admiral Hipper
 germ_cruiser_admiral_hipper_0;"Admiral Hipper-Klasse schwerer Kreuzer, Admiral Hipper

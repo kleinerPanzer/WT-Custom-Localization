@@ -317,6 +317,11 @@ f-100d_0;F-100D-66 NA Super Sabre
 f-100d_1;F-100D
 f-100d_2;F-100
 
+f_101c_shop;F-101C
+f_101c_0;F-101C Voodoo
+f_101c_1;F-101C
+f_101c_2;F-101
+
 f-104a_shop;F-104A
 f-104a_0;F-104A Starfighter
 f-104a_1;F-104A
@@ -448,6 +453,10 @@ f_14b_shop;F-14B-150
 f_14b_0;F-14B-150 GR Tomcat
 f_14b_1;F-14B
 f_14b_2;F-14
+f_14d_shop;F-14D-160
+f_14d_0;F-14D-160-GR Tomcat
+f_14d_1;F-14D
+f_14d_2;F-14
 
 f_15a_shop;F-15A-18 (1997)
 f_15a_0;F-15A-18 MC (1997)
@@ -690,10 +699,6 @@ b-29_sweden_killstreak_shop;B-29A-20
 b-29_sweden_killstreak_0;B-29A-20 BN Superfortress
 b-29_sweden_killstreak_1;B-29A
 b-29_sweden_killstreak_2;B-29
-b-29_uk_killstreak_shop;B-29A-20
-b-29_uk_killstreak_0;B-29A-20 BN Superfortress
-b-29_uk_killstreak_1;B-29A
-b-29_uk_killstreak_2;B-29
 b-29_italy_killstreak_shop;B-29A-20
 b-29_italy_killstreak_0;B-29A-20 BN Superfortress
 b-29_italy_killstreak_1;B-29A

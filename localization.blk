@@ -195,6 +195,8 @@ locTable{
   file:t="%lang/MOD_units_russia_ussr_army.csv"
   file:t="%lang/MOD_units_russia_ussr_navy.csv"
   file:t="%lang/MOD_units_saudi_arabia.csv"
+  file:t="%lang/MOD_units_serbia.csv"
+  file:t="%lang/MOD_units_singapore.csv"
   file:t="%lang/MOD_units_slovakia.csv"
   file:t="%lang/MOD_units_spain.csv"
   file:t="%lang/MOD_units_sweden_air.csv"

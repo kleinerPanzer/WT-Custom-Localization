@@ -99,6 +99,10 @@ jp_type_90b_camo_shop;90TK(B) (機甲教導連隊)
 jp_type_90b_camo_0;90式戦車B型 「キュウマル」 (機甲教導連隊)
 jp_type_90b_camo_1;90TK(B)
 jp_type_90b_camo_2;90式
+jp_type_90b_sm_shop;◍ 90TK(B)
+jp_type_90b_sm_0;90式戦車B型 「キュウマル」
+jp_type_90b_sm_1;◍ 90TK(B)
+jp_type_90b_sm_2;90式
 
 jp_type_10_shop;10TK
 jp_type_10_0;10式戦車 「ひとまる」

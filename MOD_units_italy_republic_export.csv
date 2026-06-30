@@ -27,6 +27,11 @@ it_otomatic_0;OTO Main Anti-aircraft Tank for Intercept and Combat
 it_otomatic_1;OTOMATIC
 it_otomatic_2;OTOMATIC
 
+it_palmaria_shop;Palmaria
+it_palmaria_0;Obice semovente 155/41 Palmaria
+it_palmaria_1;Palmaria
+it_palmaria_2;Palmaria
+
 it_of_40_mk_1_shop;OF 40 Mk. 1
 it_of_40_mk_1_0;Carro armato OF 40 Mk. 1
 it_of_40_mk_1_1;OF 40 Mk. 1
@@ -94,3 +99,8 @@ mb_326k_shop;MB-326K
 mb_326k_0;MB-326K
 mb_326k_1;MB-326K
 mb_326k_2;MB-326
+
+m_346fa_shop;M-346FA
+m_346fa_0;M-346FA Master
+m_346fa_1;M-346FA
+m_346fa_2;M-346

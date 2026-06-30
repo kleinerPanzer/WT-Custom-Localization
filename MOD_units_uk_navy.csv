@@ -355,9 +355,9 @@ uk_mtb_vosper_1series_0;Motor Torpedo Boat, 70’ Vosper Type I, HM MTB 22
 uk_mtb_vosper_1series_1;MTB 22
 uk_mtb_vosper_1series_2;70’ Vosper
 uk_mtb35_vosper_shop;MTB 34
-uk_mtb35_vosper_0;Motor Torpedo Boat, 70' Vosper Type II, HM MTB 34
+uk_mtb35_vosper_0;Motor Torpedo Boat, 70’ Vosper Type II, HM MTB 34
 uk_mtb35_vosper_1;MTB 34
-uk_mtb35_vosper_2;70' Vosper
+uk_mtb35_vosper_2;70’ Vosper
 uk_mtb_vosper_2series_shop;MTB 379
 uk_mtb_vosper_2series_0;Motor Torpedo Boat, 70’ Vosper Type II, HM MTB 379
 uk_mtb_vosper_2series_1;MTB 379
@@ -367,6 +367,11 @@ uk_73ft_vosper_type1_shop;MTB 234
 uk_73ft_vosper_type1_0;Motor Torpedo Boat, 72’6” Vosper Type II, HM MTB 234
 uk_73ft_vosper_type1_1;MTB 234
 uk_73ft_vosper_type1_2;72’6” Vosper
+
+uk_73ft_vosper_type2_shop;MTB 523
+uk_73ft_vosper_type2_0;Motor Torpedo Boat, 73’ Vosper Type II, HMS MTB 523
+uk_73ft_vosper_type2_1;MTB 523
+uk_73ft_vosper_type2_2;73’ Vosper
 
 uk_fairmile_d_617_632_shop;MTB 617
 uk_fairmile_d_617_632_0;Motor Torpedo Boat, Fairmile Type D, HM MTB 617
@@ -437,6 +442,11 @@ uk_fairmile_lcs_l_h_mk2_shop;LCS (L) 257
 uk_fairmile_lcs_l_h_mk2_0;Landing Craft Support, Fairmile Type H, HM LCS (L) 257
 uk_fairmile_lcs_l_h_mk2_1;LCS (L) 257)
 uk_fairmile_lcs_l_h_mk2_2;Fairmile H
+
+uk_egret_class_shop;Egret (L 75)
+uk_egret_class_0;Egret-Class Sloop, HMS Egret (L 75)
+uk_egret_class_1;Egret
+uk_egret_class_2;Egret-Class
 
 uk_cargo_ship_liberty_shop;Assistance (F 173)
 uk_cargo_ship_liberty_0;Liberty-Class Cargo Ship, HMS Assistance (F 173)

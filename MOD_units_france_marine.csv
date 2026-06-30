@@ -61,9 +61,9 @@ fr_vtb14_2;Vedette rapide porte-torpilles
 
 // TYPE VOSPER 72'6" //
 fr_mtb96_vosper_shop;⚜ MTB 96
-fr_mtb96_vosper_0;Vedette lance torpille type 72'6” Vosper, MTB 96
+fr_mtb96_vosper_0;Vedette lance torpille type 72’6” Vosper, MTB 96
 fr_mtb96_vosper_1;⚜ MTB 96
-fr_mtb96_vosper_2;72'6” Vosper
+fr_mtb96_vosper_2;72’6” Vosper
 
 // PATROUILLEURS //
 // LA COMBATTANTE //
@@ -342,3 +342,7 @@ fr_battleship_richelieu_class_clemenceau_shop;Clemenceau
 fr_battleship_richelieu_class_clemenceau_0;Cuirassé de class Richelieu, Clemenceau
 fr_battleship_richelieu_class_clemenceau_1;Clemenceau
 fr_battleship_richelieu_class_clemenceau_2;Classe Richelieu
+fr_battleship_richelieu_class_jean_bart_shop;Jean Bart
+fr_battleship_richelieu_class_jean_bart_0;Cuirassé de classe Richelieu, Jean Bart (1955)
+fr_battleship_richelieu_class_jean_bart_1;Jean Bart
+fr_battleship_richelieu_class_jean_bart_2;Classe Richelieu

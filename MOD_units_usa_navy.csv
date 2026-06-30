@@ -261,6 +261,12 @@ us_destroyer_porter_1942_0;DD 356 Class Destroyer, USS Moffett (DD 362)
 us_destroyer_porter_1942_1;Moffett
 us_destroyer_porter_1942_2;DD 356 Class
 
+// Gridley //
+us_destroyer_gridley_shop;Gridley (DD 380)
+us_destroyer_gridley_0;DD 380 Class Destroyer, USS Gridley (DD 380) (1943)
+us_destroyer_gridley_1;Gridley
+us_destroyer_gridley_2;DD 380 Class
+
 // Somers //
 us_destroyer_somers_shop;Somers (DD 381)
 us_destroyer_somers_0;DD 381 Class Destroyer, USS Somers (DD 381)
@@ -326,6 +332,9 @@ us_destroyer_cf_adams_class_cf_adams_shop;Charles F. Adams (DDG 2)
 us_destroyer_cf_adams_class_cf_adams_0;DDG 2 Class Guided Missile Destroyer, USS Charles F. Adams (DDG 2) (1961)
 us_destroyer_cf_adams_class_cf_adams_1;Charles F. Adams
 us_destroyer_cf_adams_class_cf_adams_2;DDG 2 Class
+us_destroyer_cf_adams_class_cf_adams_ec_0;Charles F. Adams (DDG 2)
+us_destroyer_cf_adams_class_cf_adams_ec_1;Charles F. Adams
+us_destroyer_cf_adams_class_cf_adams_ec_2;DDG 2 Class
 
 // Destroyer Leader (DL) //
 
@@ -337,6 +346,11 @@ us_destroyer_mitscher_wilkinson_shop;Wilkinson (DL 5)
 us_destroyer_mitscher_wilkinson_0;DL 2 Class Destroyer Leader, USS Wilkinson (DL 5) (1957)
 us_destroyer_mitscher_wilkinson_1;Wilkinson
 us_destroyer_mitscher_wilkinson_2;DL 2 Class
+
+// Missile Cruisers (CG) //
+us_cruiser_rckt_california_0;California (CGN 36)
+us_cruiser_rckt_california_1;California
+us_cruiser_rckt_california_2;CGN 36 Class
 
 // Light Cruisers (CL) //
 // Omaha //
@@ -505,6 +519,12 @@ us_battleship_colorado_class_maryland_shop;Maryland (BB 46)
 us_battleship_colorado_class_maryland_0;BB 45 Class Battleship, USS Maryland (BB 46) (1945)
 us_battleship_colorado_class_maryland_1;Maryland
 us_battleship_colorado_class_maryland_2;BB 45 Class
+
+// North Carolina //
+us_battleship_north_carolina_class_shop;North Carolina (BB 55)
+us_battleship_north_carolina_class_0;BB 55 Class Battleship, USS North Carolina (BB 55) (1942)
+us_battleship_north_carolina_class_1;North Carolina
+us_battleship_north_carolina_class_2;BB 55 Class
 
 // South Dakota //
 us_battleship_south_dakota_shop;South Dakota (BB 57)
