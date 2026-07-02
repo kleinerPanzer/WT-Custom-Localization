@@ -1,5 +1,44 @@
 <ID|readonly|noverify>;<NewLanguage>
 
+// VEHICLE MODS //
+modification/type_86_turret_improvement;AFT07E & 84式;
+modification/type_86_turret_improvement/desc;Upgrading ZBD86 by installing AFT07E missiles and 84式 smoke grenade launchers.;
+
+
+// BOMBS //
+modification/cn_q5_type_100/desc;Allows installation of: {unlockWeapons};
+modification/cn_q5_type_100;100-2型
+modification/cn_q5_type_250/desc;Allows installation of: {unlockWeapons};
+modification/cn_q5_type_250;250-3型;
+modification/cn_q5_type_500/desc;Allows installation of: {unlockWeapons};
+modification/cn_q5_type_500;500-3型;
+
+modification/cn_ts_250/desc;Allows installation of TG-250 guided bombs.;
+modification/cn_ts_250;TG-250;
+modification/cn_ls_500j/desc;Allows installation of K/YJG500 guided bombs.;
+modification/cn_ls_500j;K/YJG500;
+modification/cn_ls_1000j/desc;Allows installation of TG-1000 guided bombs.;
+modification/cn_ls_1000j;TG-1000;
+
+modification/cn_kab_laser/desc;Allows installation of GB500 or GB1000 bombs.
+modification/cn_kab_laser;GB500 / GB1000
+modification/cn_sns_bomb/desc;Allows installation of GB250 guided bombs.
+modification/cn_sns_bomb;GB250
+modification/cn_type_250_ls_6/desc;Allows installation of 250 kg bombs and LS-6/250;
+modification/cn_type_250_ls_6;250 kg / LS-6/250;
+modification/cn_type_500_ls_6/desc;Allows installation of 500 kg bombs and LS-6/500;
+modification/cn_type_500_ls_6;500 kg / LS-6/500;
+modification/cn_gb_laser_bomb/desc;Allows installation of GB250, LT-2, and GB1000 guided bombs.
+modification/cn_gb_laser_bomb;GB250 / LT-2 / GB1000
+modification/cn_glide_bomb/desc;Allows installation of LS-6 guided bombs.
+modification/cn_glide_bomb;LS-6
+modification/cn_glide_bomb_ir/desc;Allows the installation of LS-6(IR) guided bombs.
+modification/cn_glide_bomb_ir;LS-6(IR)
+modification/cn_ls_laser/desc;Allows the installation of {unlockWeapons};
+modification/cn_ls_laser;LGB
+
+// ROCKETS //
+
 modification/j_7_hf5;HF5;
 modification/j_7_hf5/desc;Allows installation of 57-1型 rockets.;
 modification/cn_hf25b;HF25B;
@@ -16,48 +55,13 @@ modification/cn_hf7a;HF7A;
 modification/cn_hf7a/desc;Allows installation of FS70 rockets.;
 modification/cn_hf7d;HF7D;
 modification/cn_hf7d/desc;Allows installation of FS70 rockets.;
-modification/cn_ts_250/desc;Allows installation of TG-250 guided bombs.;
-modification/cn_ts_250;TG-250;
-modification/cn_ls_500j/desc;Allows installation of K/YJG500 guided bombs.;
-modification/cn_ls_500j;K/YJG500;
-modification/cn_ls_1000j/desc;Allows installation of TG-1000 guided bombs.;
-modification/cn_ls_1000j;TG-1000;
-modification/ch_kd_88/desc;Allows the installation of K/AKD88 missiles.
-modification/ch_kd_88;K/AKD88
-modification/ch_kd_88a/desc;Allows the installation of K/AKD88A missiles.
-modification/ch_kd_88a;K/AKD88A
-modification/cn_kab_laser/desc;Allows installation of GB500 or GB1000 bombs.
-modification/cn_kab_laser;GB500 / GB1000
-modification/cn_sns_bomb/desc;Allows installation of GB250 guided bombs.
-modification/cn_sns_bomb;GB250
-modification/cn_k_pzs_01/desc;Allows installation of K/PZS-01 targeting pod.;
-modification/cn_k_pzs_01;K/PZS-01;
-modification/cn_k_adc03a/desc;Allows installation of K/JDC03A targeting pod.;
-modification/cn_k_adc03a;K/JDC03A;
-modification/cn_yings_3a/desc;Allows installation of a YINGS-IIIA targeting pod.
-modification/cn_yings_3a;YINGS-IIIA
-modification/type_86_turret_improvement;AFT07E & 84式;
-modification/type_86_turret_improvement/desc;Upgrading ZBD86 by installing AFT07E missiles and 84式 smoke grenade launchers.;
-modification/cn_yj_81k;YJ-81
-modification/cn_yj_81k/desc;Allows installation of YJ-81 missiles.
-modification/ch_yj_83k;YJ-83K
-modification/ch_yj_83k/desc;Allows the installation of YJ-83K missiles.
-modification/cn_q5_type_100/desc;Allows installation of 100 kg bombs.;
-modification/cn_q5_type_100;100-2型
-modification/cn_q5_type_250/desc;Allows installation of 250 kg bombs.;
-modification/cn_q5_type_250;250-3型;
-modification/cn_q5_type_500/desc;Allows installation of 500 kg bombs.;
-modification/cn_q5_type_500;500-3型;
-modification/cn_type_250_ls_6/desc;Allows installation of 250 kg bombs and LS-6/250;
-modification/cn_type_250_ls_6;250 kg / LS-6/250;
-modification/cn_type_500_ls_6/desc;Allows installation of 500 kg bombs and LS-6/500;
-modification/cn_type_500_ls_6;500 kg / LS-6/500;
-modification/cn_gb_laser_bomb/desc;Allows installation of GB250, LT-2, and GB1000 guided bombs.
-modification/cn_gb_laser_bomb;GB250 / LT-2 / GB1000
-modification/cn_glide_bomb/desc;Allows installation of LS-6 guided bombs.
-modification/cn_glide_bomb;LS-6
-modification/cn_glide_bomb_ir/desc;Allows the installation of LS-6(IR) guided bombs.
-modification/cn_glide_bomb_ir;LS-6(IR)
+modification/cn_fire_snake_90a/desc;Allows installation of FS90A missiles.;
+modification/cn_fire_snake_90a;FS90A;
+modification/cn_fire_snake_70a/desc;Allows installation of FS70A missiles.
+modification/cn_fire_snake_70a;FS70A
+
+// MISSILES //
+
 modification/cn_ba_9/desc;Allows installation of Blue Arrow 9 missiles.;
 modification/cn_ba_9;Blue Arrow 9;
 modification/cn_akd_9/desc;Allows installation of AKD-9 missiles.;
@@ -102,13 +106,24 @@ modification/cn_hj8_e/desc;Allows installation of AFT08E missiles.;
 modification/cn_hj8_e;AFT08E;
 modification/cn_hj8_h/desc;Allows installation of AFT08H missiles.;
 modification/cn_hj8_h;AFT08H;
-modification/cn_fire_snake_90a/desc;Allows installation of FS90A missiles.;
-modification/cn_fire_snake_90a;FS90A;
-modification/cn_fire_snake_70a/desc;Allows installation of FS70A missiles.
-modification/cn_fire_snake_70a;FS70A
+modification/cn_yj_81k;YJ-81
+modification/cn_yj_81k/desc;Allows installation of YJ-81 missiles.
+modification/ch_yj_83k;YJ-83K
+modification/ch_yj_83k/desc;Allows the installation of YJ-83K missiles.
+modification/ch_kd_88/desc;Allows the installation of K/AKD88 missiles.
+modification/ch_kd_88;K/AKD88
+modification/ch_kd_88a/desc;Allows the installation of K/AKD88A missiles.
+modification/ch_kd_88a;K/AKD88A
 modification/j_11a_rvv_ae/desc;Allows instalaltino of RVV-AE air-to-air missiles.;
 modification/j_11a_rvv_ae;RVV-AE;
-modification/tv_atgm/desc;Allows installation of {unlockWeapons}
+modification/tv_atgm/desc;Allows installation of {unlockWeapons};
 modification/tv_atgm;Х-29ТЭ / K/AKD88
-modification/cn_ls_laser/desc;Allows the installation of {unlockWeapons}
-modification/cn_ls_laser;LGB
+
+// TGPS //
+
+modification/cn_k_pzs_01/desc;Allows installation of K/PZS-01 targeting pod.;
+modification/cn_k_pzs_01;K/PZS-01;
+modification/cn_k_adc03a/desc;Allows installation of K/JDC03A targeting pod.;
+modification/cn_k_adc03a;K/JDC03A;
+modification/cn_yings_3a/desc;Allows installation of a YINGS-IIIA targeting pod.
+modification/cn_yings_3a;YINGS-IIIA
