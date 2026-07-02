@@ -1,0 +1,144 @@
+<ID|readonly|noverify>;<NewLanguage>
+
+modification/fr_75kg/desc;Allows installation of 75 kg bombs.;
+modification/fr_75kg;75 kg;
+modification/fr_150kg/desc;Allows installation of 150 kg bombs.;
+modification/fr_150kg;150 kg;
+modification/fr_40cm_1926;1926DA;
+modification/fr_40cm_1926/desc;Allows installation of torpedo.;
+modification/fr_750lb_m117;M117;
+modification/fr_750lb_m117/desc;Allows installation of 750 lb bombs.;
+modification/fr_bgl400/desc;Allows installation of BGL-400 guided bombs.;
+modification/fr_bgl400;BGL-400;
+modification/fr_bgl400_gbu_48/desc;Allows installation of BGL-400 and GBU-48(V)1/B guided bombs.
+modification/fr_bgl400_gbu_48;BGL-400 / GBU-48
+modification/fr_bgl1000/desc;Allows installation of BGL-1000 guided bombs.;
+modification/fr_bgl1000;BGL-1000;
+modification/fr_pgm_500/desc;ALlows installation of PGM 500 guided bombs.;
+modification/fr_pgm_500;PGM 500;
+modification/fr_pgm_2000/desc;ALlows installation of PGM 2000 guided bombs.;
+modification/fr_pgm_2000;PGM 2000;
+modification/fr_aasm_250_sbu_38/desc;Allows installation of HAMMER 250 kg (SBU 38) guided bombs.
+modification/fr_aasm_250_sbu_38;HAMMER 250 kg (SBU 38)
+modification/fr_aasm_250_sbu_64/desc;Allows installation of HAMMER 250 kg (SBU 64) guided bombs.
+modification/fr_aasm_250_sbu_64;HAMMER 250 kg (SBU 64)
+modification/fr_aasm_250_sbu_54/desc;Allows installation of HAMMER 250 kg (SBU 54) guided bombs.
+modification/fr_aasm_250_sbu_54;HAMMER 250 kg (SBU 54)
+modification/fr_aj_168/desc;Allows installation of AJ 168 missiles.;
+modification/fr_aj_168;AJ 168;
+modification/fr_atlis2/desc;Allows installation of ALTIS II targeting pod.;
+modification/fr_atlis2;ALTIS II;
+modification/fr_damocles_pod/desc;Allows installation of Damocles targeting pod.;
+modification/fr_damocles_pod;Damocles;
+modification/fr_talios_pod/desc;Allows installation of a TALIOS targeting pod.
+modification/fr_talios_pod;TALIOS
+modification/jaguar_ebrc_improvement;Slat Armor
+modification/jaguar_ebrc_improvement/desc;Slat armor kit
+modification/roland_3_improvement;Roland 3;
+modification/roland_3_improvement/desc;Upgrading AMX 30 Roland 1 to AMX 30 Roland 3 by installing Roland 3 missiles.;
+modification/fr_50_dt/desc;Allows installation of additional 50 kg bombs.;
+modification/fr_50_dt;50 DT;
+modification/fr_100_gp_standart/desc;Allows installation of 100 kg bombs.;
+modification/fr_100_gp_standart;100 GPs;
+modification/fr_200_gp_standart/desc;Allows installation of 200 kg bombs.;
+modification/fr_200_gp_standart;200 GPs;
+modification/fr_f222_s/desc;Allows installation of 200 kg bombs.;
+modification/fr_f222_s;200 GPs;
+modification/fr_f222_s5/desc;Allows installation of additional 200 kg bombs.;
+modification/fr_f222_s5;200 GPs S5;
+modification/fr_f222_tgpu/desc;Allows installation of 500 kg bombs.;
+modification/fr_f222_tgpu;500 GPs;
+modification/fr_250kg_type_25c/desc;Allows installation of 250 kg bombs.;
+modification/fr_250kg_type_25c;Type 25C;
+modification/fr_400kg_type_21b/desc;Type 21B;
+modification/fr_400kg_type_21b;Allows installation of 400 kg bombs.;
+modification/fr_matra_t_10;Matra T10 140;
+modification/fr_matra_t_10/desc;Allows installation of T10 140 rockets.;
+modification/fr_matra_t_10_150;Matra T10 151;
+modification/fr_matra_t_10_150/desc;Allows installation of T10 151 rockets.;
+modification/fr_matra_t_10_121;Matra T10 121
+modification/fr_matra_t_10_121/desc;Allows installation of T10 121 rockets.
+modification/fr_matra_sneb;Matra SNEB;
+modification/fr_matra_sneb/desc;Allows installation of SNEB rockets.;
+modification/fr_jl_100r;Matra JL-100R;
+modification/fr_jl_100r/desc;Allows installation of SNEB rockets.;
+modification/fr_jl_100r_36;Matra JL-100 36;
+modification/fr_jl_100r_36/desc;Allows installation of SNEB rockets.;
+modification/fr_lr_f1;Matra LR F1;
+modification/fr_lr_f1/desc;Allows installation of SNEB rockets.;
+modification/fr_lr_100_4;LR 100-4;
+modification/fr_lr_100_4/desc;Allows installation of TBA 100 rockets.;
+modification/fr_matra_type61;Matra Type 61;
+modification/fr_matra_type61/desc;Allows installation of T10 151 rockets.;
+modification/fr_matra_type116;Matra Type 116;
+modification/fr_matra_type116/desc;Allows installation of SNEB rockets.;
+modification/fr_matra_type104a;Matra Type 104A;
+modification/fr_matra_type104a/desc;Allows installation of SNEB rockets.;
+modification/fr_matra_type105;Matra Type 105;
+modification/fr_matra_type105/desc;Allows installation of additional SNEB rockets.;
+modification/sws_matra_type1000;Matra Type 1000;
+modification/sws_matra_type1000/desc;Allows installation of SNEB rockets.;
+modification/fr_as_30l;AS 30L;
+modification/fr_as_30l/desc;Allows installation of AS 30L missiles.;
+modification/fr_as_30;AS 30;
+modification/fr_as_30/desc;Allows installation of AS 30 missiles.;
+modification/nord_as_20;AS 20;
+modification/nord_as_20/desc;Allows installation of AS 20 missiles.;
+modification/nord_as_30;AS 30;
+modification/nord_as_30/desc;Allows installation of AS 30 missiles.;
+modification/fr_mirage_f1c_cc_420_gunpod;CC-420;
+modification/fr_mirage_f1c_cc_420_gunpod/desc;Allows installation of CC-420 gun pods.;
+modification/fr_cc630_gun_pod;CC-630;
+modification/fr_cc630_gun_pod/desc;Allows installation of CC-630 gun pods.;
+modification/fr_cc422_gun_pod;CC-422
+modification/fr_cc422_gun_pod/desc;Allows installation of CC-422 gun pods.
+modification/mb_175_lbt_130;LBT 130;
+modification/mb_175_lbt_130/desc;Allows installation of 1 torpedo.;
+modification/fr_50kg_type_61c/desc;Allows installation of 50 kg bombs.;
+modification/fr_50kg_type_61c;Type 61C;
+modification/sa_ss11/desc;Allows installation of AS 11 missiles.;
+modification/sa_ss11;AS 11;
+modification/fr_matra_r_530e/desc;Allows installation of Matra R530 IR air-to-air missiles.;
+modification/fr_matra_r_530e;Matra R530 IR;
+modification/fr_matra_r_530/desc;Allows installation of Matra R530 EM air-to-air missiles.;
+modification/fr_matra_r_530;Matra R530 EM;
+modification/fr_matra_r_530_f/desc;Allows installation of Matra Super 530F air-to-air missiles.;
+modification/fr_matra_r_530_f;Matra 530F;
+modification/fr_matra_r_530_d/desc;Allows installation of Matra R530D air-to-air missiles.;
+modification/fr_matra_r_530_d;Matra R530D;
+modification/fr_matra_r_511/desc;Allows installation of Matra R511 air-to-air missiles.;
+modification/fr_matra_r_511;Matra R511;
+modification/fr_matra_r_550_magic_1/desc;Allows installation of Matra R550 air-to-air missiles.;
+modification/fr_matra_r_550_magic_1;Matra R550;
+modification/fr_matra_r_550_magic_2/desc;Allows installation of Matra R550 Mk. 2 air-to-air missiles.;
+modification/fr_matra_r_550_magic_2;Matra R550 Mk. 2;
+modification/fr_mica_em/desc;Allows installation of MICA-EM air-to-air missiles.;
+modification/fr_mica_em;MICA-EM;
+modification/nord_aa_20/desc;Allows installation of AA 20 air-to-air missiles.;
+modification/nord_aa_20;AA 20;
+modification/alkan_502_500lb/desc;Allows installation of 500 lb bombs.;
+modification/alkan_502_500lb;ALCAN 502 500;
+modification/alkan_502_1000lb/desc;Allows installation of 500 lb bombs.;
+modification/alkan_502_1000lb;ALCAN 502 1000;
+modification/fr_460l_secan_63/desc;Allows installation of SECAN 63 incendiary bombs.;
+modification/fr_460l_secan_63;SECAN 63;
+modification/heli_atam_mistral/desc;Allows installation of Mistral missiles.;
+modification/heli_atam_mistral;ATAM;
+modification/sa_heli_hot/desc;Allows installation of HOT missiles.;
+modification/sa_heli_hot;HOT;
+modification/sa_heli_hot_2/desc;Allows installation of HOT-2 missiles.;
+modification/sa_heli_hot_2;HOT-2;
+modification/tiger_hot3/desc;Allows installation of HOT-3 missiles.;
+modification/tiger_hot3;HOT-3;
+modification/tiger_tel12/desc;Allows installation additional of TDA rockets.;
+modification/tiger_tel12;TELSON 12;
+modification/tiger_hmp400_lcc;FN HMP400 LCC;
+modification/tiger_hmp400_lcc/desc;Allows installation of gun pods FN HMP400 LCC.;
+modification/tiger_rmp_lc;FN RMP LC;
+modification/tiger_rmp_lc/desc;Allows installation of gun pods FN RMP LC.;
+modification/fr_pgm_tv/desc;Allows the installation of {unlockWeapons}
+modification/fr_pgm_tv;PGM 500/2 / 2000/2
+modification/fr_pgm_ir/desc;Allows the installation of {unlockWeapons}
+modification/fr_pgm_ir;PGM 500/3 / 2000/3
+modification/fr_pgm_laser/desc;Allows the installation of {unlockWeapons}
+modification/fr_pgm_laser;PGM 500/1 / 2000/1

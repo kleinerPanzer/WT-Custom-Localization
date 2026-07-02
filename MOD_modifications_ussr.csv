@@ -1,0 +1,466 @@
+<ID|readonly|noverify>;<NewLanguage>
+
+modification/la-5fn_armorplate_10/short;Rear Armor Plate;
+modification/la-5fn_armorplate_10;Rear Armor Plate;
+modification/la-5fn_armorplate_10/desc;8.5 mm rear armor plate will be replaced with 10 mm armor plate.;
+modification/la-5fn_rear_armorglass_75/short;Armored Glass;
+modification/la-5fn_rear_armorglass_75;Armored Glass;
+modification/la-5fn_rear_armorglass_75/desc;66 mm rear armored glass will be replaced with 75 mm armored glass.;
+modification/la-5fn_dz-40;ДЗ-40;
+modification/la-5fn_dz-40/desc;Allows installation of 2 x 50 kg bombs.;
+modification/la-7_armorplate_10/short;Rear Armor Plate;
+modification/la-7_armorplate_10;Rear Armor Plate;
+modification/la-7_armorplate_10/desc;8.5 mm rear armor plate will be replaced with 10 mm armor plate.;
+modification/la-7_rear_armorglass_75/short;Armored Glass;
+modification/la-7_rear_armorglass_75;Armored Glass;
+modification/la-7_rear_armorglass_75/desc;66 mm rear armored glass will be replaced with 75 mm armored glass.;
+modification/la-7_dz-40;ДЗ-40;
+modification/la-7_dz-40/desc;Allows installation of 2 x up to 100 kg bombs.;
+modification/bd-2-48;Д-4-50;
+modification/bd-2-48/desc;Allows installation of 2 x up to 250 kg bombs.;
+modification/d-4-50;Д-4-50;
+modification/d-4-50/desc;Allows installation of 2 x up to 250 kg bombs.;
+modification/LaGG_ro-82;РO-82;
+modification/LaGG_ro-82/desc;Allows installation of 6 x РС-82 rockets.;
+modification/LaGG_dz-40;ДЗ-40;
+modification/LaGG_dz-40/desc;Allows installation of 2 x up to 100 kg bombs.;
+modification/C5;С-5;
+modification/C5/desc;Allows installation of С-5 rockets.;
+modification/C5M;С-5M;
+modification/C5M/desc;Allows installation of С-5M rockets.;
+modification/mig_21_ub16;УБ-16;
+modification/mig_21_ub16/desc;Allows installation of additional С-5 rockets.;
+modification/mig_21_ub32;УБ-32;
+modification/mig_21_ub32/desc;Allows installation of additional С-5 rockets.;
+modification/C21;С-21;
+modification/C21/desc;Allows installation of C-21 rockets.;
+modification/su_7b_s3;С-3К;
+modification/su_7b_s3/desc;Allows installation of C-3К rockets.;
+modification/tis_ns_45_mod/desc;Allows installation of НС-45 cannon.;
+modification/tis_ns_45_mod;НС-45;
+modification/der_21;Дер-21;
+modification/der_21/desc;Allows installation of up to 100 kg bombs.;
+modification/der-13;Дер-13;
+modification/der-13/desc;Allows installation of up to 250 kg bombs.;
+modification/der-15;Дер-15;
+modification/der-15/desc;Allows installation of up to 500 kg bombs.;
+modification/der-19;Дер-19;
+modification/der-19/desc;Allows installation of up to 500 kg bombs.;
+modification/der-21_fab100;Дер-21;
+modification/der-21_fab100/desc;Allows installation of up to 100 kg bombs.;
+modification/der-19_fab250;Дер-19 250;
+modification/der-19_fab250/desc;Allows installation of up to 250 kg bombs.;
+modification/der-19_fab500;Дер-19 500;
+modification/der-19_fab500/desc;Allows installation of up to 500 kg bombs.;
+modification/der-19_fab1000;Дер-19 1000;
+modification/der-19_fab1000/desc;Allows installation of up to 1000 kg bombs.;
+modification/der-20;Дер-20;
+modification/der-20/desc;Allows installation of up to 1000 kg bombs.;
+modification/der-21;Дер-21;
+modification/der-21/desc;Allows installation of up to 100 kg bombs.;
+modification/er-2_kd-3-240;КД-3-240;
+modification/er-2_kd-3-240/desc;Allows installation of 250 kg bombs and 500 kg bombs.;
+modification/er-2_m-105_der-19-20;Дер-19-20;
+modification/er-2_m-105_der-19-20/desc;Allows installation of up to 1000 kg bombs.;
+modification/er-2_ach-30b_der-19-20;Дер-19-20;
+modification/er-2_ach-30b_der-19-20/desc;Allows instalation of up to 1000 kg bombs.;
+modification/tu-2_pkd-2;ПКД-2;
+modification/tu-2_pkd-2/desc;Allows installation up to 1000 kg of bombs.;
+modification/der_19pk;Дер-19ПК
+modification/der_19pk/desc;Allows installation of up to 1000 kg of bombs.
+modification/der_19u;Дер-19У
+modification/der_19u/desc;Allows installation of up to 1000 kg of bombs.
+modification/tu-2_td-44;TД-44;
+modification/tu-2_td-44/desc;Allows installation of 2 torpedoes.;
+modification/il2_mdz_42;МДЗ-42;
+modification/il2_mdz_42/desc;Allows instalation of 250 kg bombs.;
+modification/su_fab_250m_43;ФАБ-250М-43;
+modification/su_fab_250m_43/desc;Allows installation of 250 kg bombs.;
+modification/su_fab_500m_43;ФАБ-500М-43;
+modification/su_fab_500m_43/desc;Allows installation of 500 kg bombs.;
+modification/su_fab_250_500;ФАБ-250 / ФАБ-500;
+modification/su_fab_250_500/desc;Allows installation of 250kg bombs and 500 kg bombs.;
+modification/su_fab_1000m_43;ФАБ-1000М-43;
+modification/su_fab_1000m_43/desc;Allows installation of 1000 kg bombs.;
+modification/pe-2_dz-40;ДЗ-40;
+modification/pe-2_dz-40/desc;Allows installation of 250 kg bombs and 500 kg bombs.;
+modification/pe-2_ro-132;РО-132;
+modification/pe-2_ro-132/desc;Allows installation of 10 x РС-132 rockets.;
+modification/de_x4_ruhrstahl/desc;Allows installation of RK 344 air-to-air missiles.
+modification/de_x4_ruhrstahl;E.T.C. 70 A-1
+modification/sb-2_der-19;Дер-19;
+modification/sb-2_der-19/desc;Allows installation of 500 kg bombs.;
+modification/ar-2_np-1;НП-1;
+modification/ar-2_np-1/desc;Allows installation of up to 500 kg bombs.;
+modification/yak9p_ns23_mod;НС-23;
+modification/yak9p_ns23_mod/desc;Allows installation of НС-23 cannon.;
+modification/us_m39_cannon;M39;
+modification/us_m39_cannon/desc;Allows installation of 4 x M39 cannons.;
+modification/yak9p_n37_mod;Н-37;
+modification/yak9p_n37_mod/desc;Allows installation of Н-37 cannon.;
+modification/yak3p_mod;Як-3П;
+modification/yak3p_mod/desc;Allows installation of 3 x Б-20 cannons.;
+modification/yak9p_ns45_mod;НС-45;
+modification/yak9p_ns45_mod/desc;Allows installation of НС-45 cannon.;
+modification/yak-1-7b_bi-42;БИ-42;
+modification/yak-1-7b_bi-42/desc;Allows installation of 2 x 50 kg bombs.;
+modification/yak-1_bi-42;БИ-42;
+modification/yak-1_bi-42/desc;Allows installation of 2 x up to 100 kg bombs.;
+modification/yak-7b_ro-82;РO-82;
+modification/yak-7b_ro-82/desc;Allows installation of 6 x РС-82 rockets.;
+modification/ussr_fuel_b-95;95 octane fuel usage;
+modification/ussr_fuel_b-95/desc;Allows usage of 95 octane lend-lease fuel. Engine performance will be improved.;
+modification/ussr_fuel_b-100;100 octane fuel usage;
+modification/ussr_fuel_b-100/desc;Allows usage of 100 octane lend-lease fuel. Engine performance will be improved.;
+modification/pe-3_dz-40;ДЗ-40;
+modification/pe-3_dz-40/desc;Allows installation of 250 kg bombs and 100 kg bombs.;
+modification/pe-3_ro-132;РO-132;
+modification/pe-3_ro-132/desc;Allows installation of 6 x РС-132 rockets.;
+modification/bb_su-2_der-19;Дер-19;
+modification/bb_su-2_der-19/desc;Allows installation of 250 kg bombs and 100 kg bombs.;
+modification/bb_su-2_kd-2;КД-2;
+modification/bb_su-2_kd-2/desc;Allows installation of 50 kg bombs.;
+modification/mig_29_uv_5_08;УВ-5-08;
+modification/mig_29_uv_5_08/desc;Allows installation of УВ-5-08 countermeasure pod.;
+modification/sb-2_der-25;Дер-33;
+modification/sb-2_der-25/desc;Allows installation of 250 kg bombs/;
+modification/ro_82_mod;РО-82;
+modification/ro_82_mod/desc;Allows installation of РС-82 rockets.;
+modification/ros_132_mod;РО-132;
+modification/ros_132_mod/desc;Allows installation of РОС-132 rockets.;
+modification/ro_132_mod;РО-132;
+modification/ro_132_mod/desc;Allows installation of РС-132 rockets.;
+modification/su_25_x38ml;Х-38МЛ
+modification/su_25_x38ml/desc;Allows installation of Х-38МЛ missiles.;
+modification/su_25_x38mt;Х-38МТ;
+modification/su_25_x38mt/desc;Allows installation of Х-38МТ missiles.;
+modification/su_x38ml_e;Х-38МЛЭ
+modification/su_x38ml_e/desc;Allows installation of Х-38МЛЭ missiles.
+modification/su_x38mt_e;Х-38МТЭ
+modification/su_x38mt_e/desc;Allows installation of Х-38МТЭ missiles.
+modification/su_25_x29te/desc;Allows installation of Х-29ТЕ missiles.;
+modification/su_25_x29te;Х-29ТЕ;
+modification/su_x29te_x59m/desc;Allows installation of Х-29ТЕ and Х-59М missiles.
+modification/su_x29te_x59m;Х-29ТЕ / Х-59М
+modification/su_27sm_x29td;Х-29ТД
+modification/su_27sm_x29td/desc;Allows installation of Х-29ТД missiles.;
+modification/mig_27_x29t;Х-29Т;
+modification/mig_27_x29t/desc;Allows installation of Х-29Т missiles.;
+modification/su_kh_59/desc;Allows installation of Х-59МЭ missiles.
+modification/su_kh_59;Х-59МЭ
+modification/su_fab_500_kab_500s/desc;Allows installation of 250 kg bombs and 500 kg bombs.;
+modification/su_fab_500_kab_500s;ФАБ-250 / ФАБ-500;
+modification/su_fab_500_upab_500b/desc;Allows installation of ФАБ-500 bombs or УПАБ-500Б guided bombs.
+modification/su_fab_500_upab_500b;ФАБ-500/УПАБ-500
+modification/su_upab_500b/desc;Allows installation of УПАБ-500Б guided bombs.
+modification/su_upab_500b;УПАБ-500Б
+modification/su_upab_1500/desc;Allows installation of УПАБ-1500Б guided bombs.
+modification/su_upab_1500;УПАБ-1500Б
+modification/upab_500b_e/desc;Allows installation of УПАБ-500Б-Э guided bombs.
+modification/upab_500b_e;УПАБ-500Б-Э
+modification/upab_1500_e/desc;Allows installation of УПАБ-1500Б-Э guided bombs.
+modification/upab_1500_e;УПАБ-1500Б-Э
+modification/su_fab_1500_upab_1500/desc;Allows installation of ФАБ-1500 bombs or УПАБ-1500Б guided bombs.
+modification/su_fab_1500_upab_1500;ФАБ-500/УПАБ-1500
+modification/su_fab_3000_umpk_3000/desc;Allows installation of ФАБ-3000М-54 bombs or ФАБ-3000М-54 (УМПК) glide bombs.
+modification/su_fab_3000_umpk_3000;ФАБ-3000М-54 / ФАБ-3000М-54 (УМПК)
+modification/su_24m2_fab_500_kab_500s/desc;Allows installation of КАБ-500С guided bombs.;
+modification/su_24m2_fab_500_kab_500s;КАБ-500С;
+modification/mig_27_kab_500/desc;Allows installation of КАБ-500 guided bombs.
+modification/mig_27_kab_500;КАБ-500;
+modification/mig_27_kab_500l/desc;Allows installation of КАБ-500Л guided bombs.;
+modification/mig_27_kab_500l;КАБ-500Л;
+modification/su_kab_500lg/desc;Allows installation of КАБ-500ЛГ guided bombs.
+modification/su_kab_500lg;КАБ-500ЛГ
+modification/su_kab_laser/desc;Allows installation of КАБ-1500ЛГ or КАБ-1500ЛГ guided bombs.
+modification/su_kab_laser;КАБ-500ЛГ / КАБ-1500ЛГ
+modification/su_27_kab_1500/desc;Allows installation of КАБ-1500Кр guided bombs.;
+modification/su_27_kab_1500;КАБ-1500Кр;
+modification/su_kab_tv/desc;Allows installation of guided КАБ-500Кр / КАБ-1500Кр bombs.
+modification/su_kab_tv;КАБ-500Кр / КАБ-1500Кр
+modification/su_kab_1500l/desc;Allows installation of КАБ-1500Л guided bombs.;
+modification/su_kab_1500l;КАБ-1500Л;
+modification/su_kab_1500lg/desc;Allows installation of guided КАБ-1500ЛГ bombs.
+modification/su_kab_1500lg;КАБ-1500ЛГ
+modification/su_mercury_pod/desc;Allows installation of Меркурий targeting pod.;
+modification/su_mercury_pod;НТПС Меркурий;
+modification/t_220/desc;Allows installation of T 220 targeting pod.
+modification/t_220;T 220
+modification/der4_47bmt;Дер-4-47БМТ;
+modification/der4_47bmt/desc;Allows installation of 1 torpedo.;
+modification/bmp_1p_turret_improvement;БМП-1П;
+modification/bmp_1p_turret_improvement/desc;Upgrading БМП-1 to БМП-1П 1979 standard by installing 9М113 missiles and «Туча» smoke grenade launchers, and removing the automatic loader for the main gun.;
+modification/bmp_2d_improvement;БМП-2Д;
+modification/bmp_2d_improvement/desc;Upgrading БМП-2 to БМП-2Д 1981 standard by installing additional armor package.;
+modification/bmd_4m_improvement;Armor kit
+modification/bmd_4m_improvement/desc;Upgrading БМД-4М by installing additional armor package.;
+modification/t_62m_1_protection_improvement;Side Skirts;
+modification/t_62m_1_protection_improvement/desc;Additional side skirts;
+modification/9p149m_upgrade_modification;9П149М;
+modification/9p149m_upgrade_modification/desc;Upgrading 9П149 to 9П149М standard by installing 9M114М missiles.;
+modification/2s6_upgrade_modification;2С6М1;
+modification/2s6_upgrade_modification/desc;Upgrading 2С6 to 2С6М1 standard by installing updated fire control systems.;
+modification/btr_82a_improvement;Additional Armor
+modification/btr_82a_improvement/desc;Additional armor kit
+modification/bmp_3_upgrade_modification;БМП-3 2017;
+modification/bmp_3_upgrade_modification/desc;Upgrading БМП-3 to 2017 standard by installing Содема thermal sight.;
+modification/t_72b3_2017_improvement;Т-72Б3М 2016;
+modification/t_72b3_2017_improvement/desc;Upgrading Т-72Б3 to Т-72Б3М 2016 standard by installing Реликт ERA packages and В-92С2Ф engine.;
+modification/t_72a_1983_protection_improvement;T-72A 1983;
+modification/t_72a_1983_protection_improvement/desc;Upgrading T-72A to 1983 standard by installing additional 16 mm armor plates.;
+modification/t_64b_protection_improvement;T-64БВ 1987;
+modification/t_64b_protection_improvement/desc;Upgrading T-64Б to T-64БВ 1987 standard by installing Контакт-I ERA packages.;
+modification/t_80b_protection_improvement;T-80БВ 1985;
+modification/t_80b_protection_improvement/desc;Upgrading T-80Б to T-80БВ 1985 standard by installing Контакт-I ERA packages.;
+modification/bmpt_protection_improvement;Additional ERA
+modification/bmpt_protection_improvement/desc;Additional ERA.
+modification/t_80bvm_protection_improvement;Additional ERA;
+modification/t_80bvm_protection_improvement/desc;Upgrading Т-80БВМ to Army standard by installing additional ERA protection.;
+modification/t_90m_protection_improvement;Additional ERA;
+modification/t_90m_protection_improvement/desc;Upgrading Т-90М to Army standard by installing additional ERA protection.;
+modification/9m120_improvement;9M120;
+modification/9m120_improvement/desc;Allows use of 9M120 missile.;
+modification/yak9ut_n37_mod;Н-37;
+modification/yak9ut_n37_mod/desc;Allows installation of Н-37 cannon.;
+modification/yak9ut_ns45_mod;НС-45;
+modification/yak9ut_ns45_mod/desc;Allows installation of НС-45 cannon.;
+modification/su_2_am42_vya23;ВЯ-23;
+modification/su_2_am42_vya23/desc;Allows installation of ВЯ-23 cannon.;
+modification/kd-3_bc;КД-3;
+modification/kd-3_bc/desc;Allows installation of up to 500 kg bombs.;
+modification/kd3_281;КДЗ-281;
+modification/kd3_281/desc;Allows installation of up to 500 kg bombs.;
+modification/kdz_250;КДЗ-226 250;
+modification/kdz_250/desc;Allows installation of up to 250 kg bombs.;
+modification/kdz_500;КДЗ-226 500;
+modification/kdz_500/desc;Allows installation of up to 500 kg bombs.;
+modification/kd-2_bc;КД-2;
+modification/kd-2_bc/desc;Allows installation of up to 100 kg bombs.;
+modification/kd-4_bc;КД-4;
+modification/kd-4_bc/desc;Allows installation of 1000 kg bombs.;
+modification/i-185_der-25;Дер-25;
+modification/i-185_der-25/desc;Allows installation of 2 x 250 kg bombs;
+modification/i-185_ro-82;РО-82;
+modification/i-185_ro-82/desc;Allows installation of 6 x РС-82 rockets.;
+modification/yak_38_x23m;Х-23М;
+modification/yak_38_x23m/desc;Allows installation of Х-23М missiles.;
+modification/su_17_x25;Х-25;
+modification/su_17_x25/desc;Allows installation of Х-25 missiles.;
+modification/su_17_x29l;Х-29Л;
+modification/su_17_x29l/desc;Allows installation of Х-29Л missiles.;
+modification/su_x25l_29l;Х-25 / Х-29Л
+modification/su_x25l_29l/desc;Allows installation of Х-25 and Х-29Л missiles.
+modification/su_grom;Х-36 Гром-2
+modification/su_grom/desc;Allows installation of Х-36 Гром-2 guided bombs.
+modification/su_grom_e;Х-36 Гром-Э2
+modification/su_grom_e/desc;Allows installation of Х-36 Гром-Э2 guided bombs.
+modification/mig_21_x66;Х-66;
+modification/mig_21_x66/desc;Allows installation of Х-66 missiles.;
+modification/bd-4_bc;БД-4;
+modification/bd-4_bc/desc;Allows installation of up to 3000 kg bombs.;
+modification/kd4_181;КД-4-181;
+modification/kd4_181/desc;Allows installation of 1500 kg or 3000 kg bombs.;
+modification/bd-4_1500;БД-4 1500;
+modification/bd-4_1500/desc;Allows installation of 1500 kg bombs.;
+modification/bd-4_3000;БД-4 3000;
+modification/bd-4_3000/desc;Allows installation of 3000 kg bombs.;
+modification/LaGG_ro-82_r;РО-82;
+modification/LaGG_ro-82_r/desc;Allows installation of 6 x РС-82 rockets.;
+modification/LaGG_dz-40_r;ДЗ-40;
+modification/LaGG_dz-40_r/desc;Allows installation of 2 x up to 100 kg bombs.;
+modification/i_180_der_31;Дер-31;
+modification/i_180_der_31/desc;Allows installation of 2 x up to 100 kg bombs.;
+modification/il_28sh_upk23_gunpod;УПК-23-250;
+modification/il_28sh_upk23_gunpod/desc;Allows installation of 2 x УПК-23-250 gun pods.;
+modification/yak_38_upk23_gunpod;УПК-23-250;
+modification/yak_38_upk23_gunpod/desc;Allows installation of УПК-23-250 gun pods.;
+modification/yak_38_vspu_36_gunpod;ВСПУ-36;
+modification/yak_38_vspu_36_gunpod/desc;Allows installation of ВСПУ-36 gun pod.;
+modification/su_guv_8700;ГУВ-8700;
+modification/su_guv_8700/desc;Allows installation of ГУВ-8700 gun pods.;
+modification/su_17_sppu_22_gunpod;СППУ-22-01;
+modification/su_17_sppu_22_gunpod/desc;Allows installation of СППУ-22-01 gun pods.;
+modification/su_sppu_6_gunpod;СППУ-6;
+modification/su_sppu_6_gunpod/desc;Allows installation of СППУ-6 gun pod.;
+modification/pk3_gunpod;PK-3
+modification/pk3_gunpod/desc;Allows installation of PK-3 gun pods.
+modification/ka_29_2a42;2A42;
+modification/ka_29_2a42/desc;Allows installation of 2A42 autocannon.;
+modification/il_28sh_s24;С-24;
+modification/il_28sh_s24/desc;Allows installation of С-24 rockets.;
+modification/su_17_s25;О-25Л;
+modification/su_17_s25/desc;Allows installation of С-25 rockets.;
+modification/su_s25_s13;С-25 / С-13
+modification/su_s25_s13/desc;Allows installation of С-25 and С-13 rockets.
+modification/il_28sh_ub_16_57;УБ-16-57;
+modification/il_28sh_ub_16_57/desc;Allows installation of С-5 rockets.;
+modification/mi_24_s5_2/desc;Allows installation of additional С-5 rockets.;
+modification/mi_24_s5_2;УБ-16-57;
+modification/mi_24_s8/desc;Allows installation of additional С-8 rockets.;
+modification/mi_24_s8;Б-8В20;
+modification/mi_24_s8_block/desc;Allows installation of additional С-8 rockets.;
+modification/mi_24_s8_block;С-8;
+modification/yak_38_b8m1/desc;Allows installation of additional С-8 rockets.;
+modification/yak_38_b8m1;Б-8М1;
+modification/su_s5_s8/desc;Allows installation of additional С-5 and С-8 rockets;
+modification/su_s5_s8;С-5/С-8;
+modification/mi_24_su_9M17M/desc;Allows installation of 9М17 missiles.;
+modification/mi_24_su_9M17M;2П32М/К-4В;
+modification/mi_8_su_9M14/desc;Allows installation of 9М14 missiles.;
+modification/mi_8_su_9M14;9М14;
+modification/mi_35_9M114_4/desc;Allows installation of 9М114 missiles.;
+modification/mi_35_9M114_4;АПУ-8/4-У 4 (9М114);
+modification/mi_35_9M114_8/desc;Allows installation of additional 9М114 missiles.;
+modification/mi_35_9M114_8;АПУ-8/4-У 8 (9М120);
+modification/mi_35_9M120_4/desc;Allows installation of 9М120 missiles.;
+modification/mi_35_9M120_4;АПУ-8/4-У 4 (9М120);
+modification/ka_52_9m120_6/desc;Allows installation of 9М120 missiles.;
+modification/ka_52_9m120_6;АПУ-6;
+modification/mi_35_9M120_8/desc;Allows installation of additional 9М120 missiles.;
+modification/mi_35_9M120_8;АПУ-8/4-У 8 (9М114);
+modification/mi_24_su_9M114/desc;Allows installation of 9М114 missiles.;
+modification/mi_24_su_9M114;РП-2-149ТК;
+modification/mi_24_su_9M114_2/desc;Allows installation of additional 9М114 missiles.;
+modification/mi_24_su_9M114_2;РП-2-149ТК 2;
+modification/mi_24_su_9M114_4/desc;Allows installation of additional 9М114 missiles.;
+modification/mi_24_su_9M114_4;РП-2-149ТК 4;
+modification/su_17_ofab_100/desc;Allows installation of 100 kg bombs.;
+modification/su_17_ofab_100;ОФАБ-100-120;
+modification/ofab_100m_mb/desc;Allows installation of 100 kg bombs.
+modification/ofab_100m_mb;ОФАБ-100М / МВ
+modification/fab_250m_54/desc;Allows installation of 250 kg bombs.
+modification/fab_250m_54;ФАБ-250М-54
+modification/fab_500m_54/desc;Allows installation of 500 kg bombs.
+modification/fab_500m_54;ФАБ-500М-54
+modification/mi_24_fab_250/desc;Allows installation of 250 kg bombs.;
+modification/mi_24_fab_250;ФАБ-250;
+modification/su_fab_250_us_mk82/desc;Allows installation of 250 kg and 500 lb bombs.
+modification/su_fab_250_us_mk82;ФАБ-250 / Mk 82
+modification/mi_24_fab_500/desc;Allows installation of 500 kg bombs.;
+modification/mi_24_fab_500;ФАБ-500;
+modification/su_fab_500_us_mk83/desc;Allows installation of 500 kg and 1000 lb bombs.
+modification/su_fab_500_us_mk83;ФАБ-500 / Mk 83
+modification/mi_4_fab_100/desc;Allows installation of 100 kg bombs.;
+modification/mi_4_fab_100;ФАБ-100;
+modification/su_45_36_an_torpedo/desc;Allows installation of torpedo.;
+modification/su_45_36_an_torpedo;45-36AН;
+modification/su_fab_100/desc;Allows installation of 100 kg bombs.;
+modification/su_fab_100;ФАБ-100;
+modification/su_fab_250/desc;Allows installation of 250 kg bombs.;
+modification/su_fab_250;ФАБ-250;
+modification/su_fab_500/desc;Allows installation of 500 kg bombs.;
+modification/su_fab_500;ФАБ-500;
+modification/su_fab_1000/desc;Allows installation of 1000 kg bombs.;
+modification/su_fab_1000;ФАБ-1000;
+modification/su_fab_1500/desc;Allows installation of 1500 kg bombs.;
+modification/su_fab_1500;ФАБ-1500М-46;
+modification/mi_35_su_9M120/desc;Allows installation of 9М120 missiles.;
+modification/mi_35_su_9M120;9М120;
+modification/mi_28_C13/desc;Allows installation of С-13 rockets.;
+modification/mi_28_C13;Б-13Л5;
+modification/mi_28nm_9M123/desc;Allows installation of 9М123М missiles.;
+modification/mi_28nm_9M123;9М123М;
+modification/mig_15_ish_fab_250/desc;Allows installation of 250 kg bombs.;
+modification/mig_15_ish_fab_250;ФАБ-250;
+modification/mig_15_ish_fab_500/desc;Allows installation of 500 kg bombs.;
+modification/mig_15_ish_fab_500;ФАБ-500;
+modification/mig_15_ish_fab_100/desc;Allows installation of 100 kg bombs.;
+modification/mig_15_ish_fab_100;ФАБ-100;
+modification/mig_15bis_ish_c1of/desc;Allows installation of С-1ОФ rockets.;
+modification/mig_15bis_ish_c1of;ОРО-212;
+modification/mi_24_r_60/desc;Allows installation of Р-60 air-to-air missiles.;
+modification/mi_24_r_60;Р-60;
+modification/mi_24_r_60_2/desc;Allows installation of additional Р-60 air-to-air missiles.;
+modification/mi_24_r_60_2;Р-60 2;
+modification/mi_24_r_60m/desc;Allows installation of Р-60МК air-to-air missiles.;
+modification/mi_24_r_60m;Р-60МК;
+modification/mig_23mf_r_60mk/desc;Allows installation of Р-60МК air-to-air missiles.;
+modification/mig_23mf_r_60mk;АПУ-60-2;
+modification/mig_19_r3s/desc;Allows installation of Р-3C air-to-air missiles.;
+modification/mig_19_r3s;АПУ-28;
+modification/mig_21_r3r/desc;Allows installation of Р-3Р air-to-air missiles.;
+modification/mig_21_r3r;Р-3Р;
+modification/mig_23_r_23/desc;Allows installation of Р-23Р and Р-23Т air-to-air missiles.;
+modification/mig_23_r_23;АПУ-23М;
+modification/mig_23_r_23r/desc;Allows installation of Р-23Р air-to-air missiles.;
+modification/mig_23_r_23r;АПУ-23М;
+modification/mig_23_r_23t/desc;Allows installation of Р-23Т air-to-air missiles.;
+modification/mig_23_r_23t;АПУ-23М;
+modification/mig_23_r_24r/desc;Allows installation of Р-24Р air-to-air missiles.;
+modification/mig_23_r_24r;АПУ-23М1;
+modification/mig_23_r_24t/desc;Allows installation of Р-24Т air-to-air missiles.;
+modification/mig_23_r_24t;АПУ-23М1;
+modification/mig_23_r_24/desc;Allows installation of Р-24Р and Р-24Т air-to-air missiles.;
+modification/mig_23_r_24;АПУ-23М1;
+modification/mig_19_r13m/desc;Allows installation of Р-13M air-to-air missiles.;
+modification/mig_19_r13m;АПУ-13МТ;
+modification/zb_500/desc;Allows installation of ЗБ-500 incendiary bombs.;
+modification/zb_500;ЗБ-500
+modification/zb_360/desc;Allows installation of ЗБ-360 incendiary bombs.;
+modification/zb_360;ЗБ-360;
+modification/mi_35_9M39/desc;Allows installation of 9М39 missiles.;
+modification/mi_35_9M39;9М39;
+modification/mi_8_9M336/desc;Allows installation of 9М336 missiles.
+modification/mi_8_9M336;9М336
+modification/ka_9K121/desc;Allows installation of 9М127 missiles.;
+modification/ka_9K121;9К121;
+modification/su_lmur/desc;Allows installation of Х-39 missiles.
+modification/su_lmur;Х-39
+modification/der-19p;Дер-19П;
+modification/der-19p/desc;Allows installation of up to 500 kg of bombs.;
+modification/der-20p;Дер-20П;
+modification/der-20p/desc;Allows installation of 1000 kg bombs.;
+modification/der-20u;Дер-20У;
+modification/der-20u/desc;Allows installation of 5000 kg bombs.;
+modification/der-13p;Дер-13П;
+modification/der-13p/desc;Allows installation of 250 kg bombs.;
+modification/mig_29_r_27/desc;Allows installation of Р-27Р and Р-27Т air-to-air missiles.;
+modification/mig_29_r_27;АПУ-470;
+modification/mig_29_r_73/desc;Allows installation of Р-73 air-to-air missiles.;
+modification/mig_29_r_73;АПУ-73-1Д1;
+modification/mig_29_r_73e/desc;Allows installation of Р-73Э air-to-air missiles.;
+modification/mig_29_r_73e;Р-73Э;
+modification/mig_29_r_27r/desc;Allows installation of Р-27Р air-to-air missiles.;
+modification/mig_29_r_27r;АПУ-470;
+modification/mig_25_r_40rd/desc;Allows installation of Р-40РД air-to-air missiles.
+modification/mig_25_r_40rd;Р-40РД
+modification/mig_25_r_40td/desc;Allows installation of Р-40ТД air-to-air missiles.
+modification/mig_25_r_40td;Р-40ТД
+modification/mig_29_r_27t/desc;Allows installation of Р-27Т air-to-air missiles.;
+modification/mig_29_r_27t;АПУ-470;
+modification/su_27sm_r_27t_r_27et/desc;Allows installation of Р-27ЭТ air-to-air missiles.;
+modification/su_27sm_r_27t_r_27et;Р-27ЭТ;
+modification/su_27sm_r_27r_r_27er/desc;Allows installation of Р-27ЭР air-to-air missiles.;
+modification/su_27sm_r_27r_r_27er;Р-27ЭР;
+modification/su_r_27t1_r_27et1/desc;Allows installation of Р-27ЭТ1 air-to-air missiles.;
+modification/su_r_27t1_r_27et1;Р-27ЭТ1;
+modification/su_r_27r1_r_27er1/desc;Allows installation of Р-27ЭР1 air-to-air missiles.;
+modification/su_r_27r1_r_27er1;Р-27ЭР1;
+modification/mig_29_r_27er/desc;Allows installation of Р-27ЭР air-to-air missiles.;
+modification/mig_29_r_27er;Р-27ЭР;
+modification/mig_29_r_27et/desc;Allows installation of Р-27ЭТ air-to-air missiles.;
+modification/mig_29_r_27et;Р-27ЭТ;
+modification/mig_29_r_27et1/desc;Allows installation of Р-27ЭТ1 air-to-air missiles.;
+modification/mig_29_r_27et1;Р-27ЭТ1;
+modification/mig_29_r_27r1/desc;Allows installation of Р-27ЭР1 air-to-air missiles.;
+modification/mig_29_r_27r1;Р-27ЭР1;
+modification/mig_29_r_27t1/desc;Allows installation of Р-27Т1 air-to-air missiles.;
+modification/mig_29_r_27t1;Р-27Т1;
+modification/mig_29_r_27er1/desc;Allows installation of Р-27ЭР1 air-to-air missiles.;
+modification/mig_29_r_27er1;Р-27ЭР1;
+modification/yak_141_r_77/desc;Allows installation of Р-77 air-to-air missiles.;
+modification/yak_141_r_77;Р-77;
+modification/su_r_77_1/desc;Allows installation of Р-77-1 air-to-air missiles.
+modification/su_r_77_1;Р-77-1
+modification/su_rvv_sd/desc;Allows installation of RVV-SD air-to-air missiles.
+modification/su_rvv_sd;RVV-SD
+modification/su_x29td_x59m/desc;Allows installation of {unlockWeapons}
+modification/su_x29td_x59m;Х-29ТД / Х-59М
+modification/su_kab_500s/desc;Allows installation of {unlockWeapons}
+modification/su_kab_500s;КАБ-500С
+modification/su_kab_gps/desc;Allows installation of {unlockWeapons}
+modification/su_kab_gps;КАБ-С
+modification/su_s25l;С-25ЛД
+modification/su_s25l/desc;"Allows installation of {unlockWeapons}
+modification/su_arm/desc;Allows the installation of {unlockWeapons}
+modification/su_arm;ARM

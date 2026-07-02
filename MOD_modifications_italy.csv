@@ -1,0 +1,50 @@
+<ID|readonly|noverify>;<NewLanguage>
+
+modification/g50_2xSC50;ETC 50 IId;
+modification/g50_2xSC50/desc;Allows installation of 2 x 50 kg bombs.;
+modification/it50_mod;MC GP 50;
+modification/it50_mod/desc;Allows installation of 50 kg bombs.;
+modification/it100_mod;MC SAP 100;
+modification/it100_mod/desc;Allows installation of 100 kg bombs.;
+modification/it150_mod;MC AP 150;
+modification/it150_mod/desc;Allows installation of 150 kg bombs.;
+modification/it160_mod;AP 160;
+modification/it160_mod/desc;Allows installation of 160 kg bombs.;
+modification/it250_mod;MC GP 250;
+modification/it250_mod/desc;Allows installation of 250 kg bombs.;
+modification/it500_mod;MC GP 500;
+modification/it500_mod/desc;Allows installation of 500 kg bombs.;
+modification/it630_ap_mod;PD 630;
+modification/it630_ap_mod/desc;Allows installation of 630 kg bombs.;
+modification/it800_mod;MC GP 800;
+modification/it800_mod/desc;Allows installation of 800 kg bombs.;
+modification/s79a_mbc;MBC-79;
+modification/s79a_mbc/desc;Allows installation of 250 kg bombs.;
+modification/s79a_lbc;LBC-79;
+modification/s79a_lbc/desc;Allows installation of 500 kg bombs.;
+modification/s79a_tbc;TBC-79;
+modification/s79a_tbc/desc;Allows installation of 1 torpedo.;
+modification/it_pdlct_s_pod/desc;Allows installation of CLDP targeting pod.;
+modification/it_pdlct_s_pod;CLDP;
+modification/camouflage_net_certezza;WAR kit
+modification/camouflage_net_certezza/desc;Upgrading C1 Ariete by installing WAR additional armor package.
+modification/certezza_protection_improvement;WAR kit & Camouflage net
+modification/certezza_protection_improvement/desc;Upgrading C1 Ariete by installing WAR additional armor package and camouflage net.
+modification/c1_protection_improvement;WAR kit;
+modification/c1_protection_improvement/desc;Upgrading C1 Ariete by installing WAR additional armor package.;
+modification/c1_pso_protection_improvement;PSO Tipo 2;
+modification/c1_pso_protection_improvement/desc;Upgrading C1 Ariete PSO by installing PSO Tipo 2 additional armor package.;
+modification/it_macchi_39a_940_gunpod;39A-940-31/32
+modification/it_macchi_39a_940_gunpod/desc;Allows installation of 39A-940-31/32 gun pods.
+modification/it_macchi_m_910_gunpod;M-910-21/22-10
+modification/it_macchi_m_910_gunpod/desc;Allows installation of M-910-21/22-10 gun pods.
+modification/ship_p493_freccia_torpedoes;Torpedo Tubes;
+modification/ship_p493_freccia_torpedoes/desc;Allows installation of two torpedo tubes instead of the second Cannone Breda-Bofors da 40/70.;
+modification/it_al_25/desc;Allows installation of ARF/8M3 rockets.;
+modification/it_al_25;ARF/8M3;
+modification/it_aspide/desc;Allows installation of Aspide 1A air-to-air missiles.;
+modification/it_aspide;Aspide;
+modification/aerea_559g/desc;Allows installation of Aerea 559G1 incendiary bombs.;
+modification/aerea_559g;Aerea 559G1;
+modification/a_129_hl_19_70/desc;Allows installation of Hydra-70 rockets.;
+modification/a_129_hl_19_70;HL-19-70;

@@ -1,0 +1,40 @@
+<ID|readonly|noverify>;<NewLanguage>
+
+modification/is_100_50_gp;100/50 GP;
+modification/is_100_50_gp/desc;Allows installation of 100 kg bombs.
+modification/is_250_50_gp;250/50 GP;
+modification/is_250_50_gp/desc;Allows installation of 250 kg bombs.
+modification/is_360_50_gp;360/50 GP;
+modification/is_360_50_gp/desc;Allows installation of 360 kg bombs.
+modification/is_500_50_gp;500/50 GP;
+modification/is_500_50_gp/desc;Allows installation of 500 kg bombs.
+modification/il_spice_2000_gbu31_jdam/desc;Allows installation of GBU-31/B and GBU-64(V)1/B JDAM and SPICE 2000 guided bombs.
+modification/il_spice_2000_gbu31_jdam;GBU-31 / GBU-64 / SPICE 2000
+modification/il_spice_250/desc;Allows installation of SPICE 250 guided bombs.
+modification/il_spice_250;SPICE 250
+modification/il_spice_1000/desc;Allows installation of SPICE 1000 guided bombs.
+modification/il_spice_1000;SPICE 1000
+modification/il_spice_250_1000/desc;Allows installation of SPICE 250 and SPICE 1000 guided bombs.
+modification/il_spice_250_1000;SPICE 250 / SPICE 1000
+modification/il_spice_2000/desc;Allows installation of SPICE 2000 guided bombs.
+modification/il_spice_2000;SPICE 2000
+modification/il_spice_1000_2000/desc;Allows installation of SPICE 1000 and SPICE 2000 guided bombs.
+modification/il_spice_1000_2000;SPICE 1000 / SPICE 2000
+modification/magach_protection_improvement;Baltan;
+modification/magach_protection_improvement/desc;Upgrading Magach 3 by installing Baltan ERA packages.;
+modification/il_derby/desc;Allows installation of יברד air-to-air missiles.;
+modification/il_derby;יברד
+modification/fr_aam_shafrir/desc;Allows installation of רירפש air-to-air missiles.;
+modification/fr_aam_shafrir;רירפש;
+modification/fr_aam_shafrir_2/desc;Allows installation of 2 רירפש air-to-air missiles.;
+modification/fr_aam_shafrir_2;2 רירפש
+modification/il_python_3/desc;Allows installation of 3 ןותיפ air-to-air missiles.;
+modification/il_python_3;3 ןותיפ
+modification/il_m380l_mk2/desc;Allows installation of Mk. 2 incendiary bombs.;
+modification/il_m380l_mk2;Mk. 2;
+modification/il_gatr;GATR;
+modification/il_gatr/desc;Allows installation of GATR missiles.;
+modification/atgm_spike_x2/desc;Allows installation of Spike ER missiles.;
+modification/atgm_spike_x2;Spike ER;
+modification/atgm_spike_x4/desc;Allows installation of additional Spike ER missiles.;
+modification/atgm_spike_x4;Spike ER 4;

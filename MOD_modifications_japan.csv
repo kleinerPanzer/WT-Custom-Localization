@@ -1,0 +1,104 @@
+<ID|readonly|noverify>;<NewLanguage>
+
+modification/jp_750lb_jm117;JM117;
+modification/jp_750lb_jm117/desc;Allows installation of 750 lb bombs.;
+modification/b5n2_17-34in_mod45;17 3/4” 45型;
+modification/b5n2_17-34in_mod45/desc;Allows installation of 1 torpedo.;
+modification/b5n2_14in_mod35;14” 35型;
+modification/b5n2_14in_mod35/desc;Allows installation of 1 x 800 kg bomb.;
+modification/b5n2_12in_mod30;12” 30型;
+modification/b5n2_12in_mod30/desc;Allows installation of 2 x 250 kg bombs.;
+modification/12in_mod30;12” 30型;
+modification/12in_mod30/desc;Allows installation of 250 kg bombs.;
+modification/14in_mod30;14” 30型;
+modification/14in_mod30/desc;Allows installation of 500 kg bombs.;
+modification/h6k_17-34in_mod45;17 3/4” 45型;
+modification/h6k_17-34in_mod45/desc;Allows installation of 2 torpedoes.;
+modification/h6k_14in_mod35;14” 35型;
+modification/h6k_14in_mod35/desc;Allows installation of up to 800 kg bombs.;
+modification/h6k_12in_mod30;12” 30型;
+modification/h6k_12in_mod30/desc;Allows installation of up to 250 kg bombs.;
+modification/g4m_17-34in_mod45;17 3/4” 45型;
+modification/g4m_17-34in_mod45/desc;Allows installation of 1 torpedo.;
+modification/g4m_14in_mod35;14” 35型;
+modification/g4m_14in_mod35/desc;Allows installation of up to 800 kg bombs.;
+modification/g4m_12in_mod35_500;14” 35型;
+modification/g4m_12in_mod35_500/desc;Allows installation of up to 500 kg bombs.;
+modification/ki49_14in_mod35_500;14” 35型;
+modification/ki49_14in_mod35_500/desc;Allows installation of up to 500 kg bombs.;
+modification/g4m_12in_mod30;12” 30型;
+modification/g4m_12in_mod30/desc;Allows installation of up to 250 kg bombs.;
+modification/ki49_14in_mod35;14” 35型;
+modification/ki49_14in_mod35/desc;Allows installation of up to 800 kg bombs.;
+modification/ki49_12in_mod30;12” 30型;
+modification/ki49_12in_mod30/desc;Allows installation of 250 kg bombs.;
+modification/g5n_14in_mod35;14” 35型;
+modification/g5n_14in_mod35/desc;Allows installation of up to 800 kg bombs.;
+modification/g8n_14in_mod35;14” 35型;
+modification/g8n_14in_mod35/desc;Allows installation of up to 800 kg bombs.;
+modification/g8n_1500;1500 kg;
+modification/g8n_1500/desc;Allows installation of up to 1500 kg bombs.;
+modification/jp_rocket_type3_9kg;三式一番二八号爆弾一型;
+modification/jp_rocket_type3_9kg/desc;Allows installation of 三式一番二八号爆弾一型 rockets.;
+modification/jp_rocket_type3_13kg;五式一番九号爆弾一型;
+modification/jp_rocket_type3_13kg/desc;Allows installation of 五式一番九号爆弾一型 rockets.;
+modification/jp_rocket_type3_66kg;三式六番二7号爆弾;
+modification/jp_rocket_type3_66kg/desc;Allows installation of 三式六番二7号爆弾 rockets.;
+modification/jp_rocket_type3_84kg;五式六番九号爆弾;
+modification/jp_rocket_type3_84kg/desc;Allows installation of 五式六番九号爆弾 rockets.;
+modification/n1k_5in_mod15;三式一番二八号爆弾一型;
+modification/n1k_5in_mod15/desc;Allows installation of 三式一番二八号爆弾一型 rockets.;
+modification/n1k_7in_mod20;7” 20型;
+modification/n1k_7in_mod20/desc;Allows installation of 60 kg bombs;
+modification/n1k_12in_mod30;12” 30型;
+modification/n1k_12in_mod30/desc;Allows installation of 250 kg bombs;
+modification/n1k_14in_mod35;14” 35型;
+modification/n1k_14in_mod35/desc;Allows installation of 500 kg bombs;
+modification/j_aaq_2_pod/desc;Allows installation of J/AAQ-2 targeting pod.
+modification/j_aaq_2_pod;J/AAQ-2
+modification/ka_chi_hull_improvement;Pontoons;
+modification/ka_chi_hull_improvement/desc;Allows installation of pontoons.;
+modification/type_74_tire;Tires
+modification/type_74_tire/desc;Mounting/dismounting tires from the stern of the hull
+modification/a6m_9in_mod30;9” 30型;
+modification/a6m_9in_mod30/desc;Allows installation of 2 x 60 kg bombs.;
+modification/14in_mod35;9” 35型;
+modification/14in_mod35/desc;Allows installation of additional 60 kg bombs.;
+modification/15in_mod35;9” 35型;
+modification/15in_mod35/desc;Allows installation of additional 250 kg bombs.;
+modification/13in_mod35;13” 35型;
+modification/13in_mod35/desc;Allows installation of up to 500 kg bombs.;
+modification/ki84_9in_mod23;9” 23型;
+modification/ki84_9in_mod23/desc;Allows installation of 2 x 50 kg bombs.;
+modification/ki84_12in_mod27;12” 27型;
+modification/ki84_12in_mod27/desc;Allows installation of 2 x 250 kg bombs.;
+modification/ki_7in_mod20;7” 20型;
+modification/ki_7in_mod20/desc;Allows installation of 50 kg bombs.;
+modification/ki_12in_mod30;12” 30型;
+modification/ki_12in_mod30/desc;Allows installation of 250 kg bombs.;
+modification/ki_10in_mod24;10” 24型;
+modification/ki_10in_mod24/desc;Allows installation of 100 kg bombs.;
+modification/ki45_12in_mod30;12” 30型;
+modification/ki45_12in_mod30/desc;Allows installation of up to 250 kg bombs.;
+modification/jp_asm1;ASM-1
+modification/jp_asm1/desc;Allows installation of ASM-1 missiles.
+modification/jp_asm2;ASM-2
+modification/jp_asm2/desc;Allows installation of ASM-2 missiles.
+modification/ki_43_1_otsu;キ43-I乙;
+modification/ki_43_1_otsu/desc;Upgrading キ43-I to キ43-I乙 standard by installing 1 x 1式12,7mm固定機銃 machine gun.;
+modification/ki_43_1_hei;キ43-I丙;
+modification/ki_43_1_hei/desc;Upgrading キ43-I to キ43-I丙 standard by installing 2 x 1式12,7mm固定機銃 machine gun.;
+modification/kitsuka_14in_mod41;14” 41型;
+modification/kitsuka_14in_mod41/desc;Allows installation of bombs up to 800 kg.;
+modification/kitsuka_fighter;橘花改乙;
+modification/kitsuka_fighter/desc;Upgrading 橘花改 to 橘花改乙 standard by installing an additional 五式3cm固定機銃 cannon.;
+modification/ship_pg02_new_autocannon;JM61;
+modification/ship_pg02_new_autocannon/desc;Reduces rate of fire of JM61 to 450 rpm.;
+modification/t2_rl4_zuni/desc;Allows installation of 5” FFAR rockets.;
+modification/t2_rl4_zuni;RL-4;
+modification/jp_jlau_3a/desc;Allows installation of FFAR rockets.;
+modification/jp_jlau_3a;JLAU-3/A;
+modification/jp_aam3/desc;Allows installation of AAM-3 air-to-air missiles.;
+modification/jp_aam3;AAM-3;
+modification/jp_aam4/desc;Allows installation of AAM-4 air-to-air missiles.;
+modification/jp_aam4;AAM-4;
