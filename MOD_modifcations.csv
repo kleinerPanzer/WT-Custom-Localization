@@ -990,10 +990,10 @@ modification/381mm_50_it_navy_apcbc_ammo_pack;Palla
 modification/381mm_uk_bl_mk1_4crh_mk1a_navy_apc;Mk. Ia APC;
 modification/381mm_uk_bl_mk1_4crh_mk1a_navy_apc_ammo_pack;Mk. Ia APC;
 modification/asm;ASM
-modification/asm/desc;Allows the installation of {unlockWeapons}
-modification/anti_radiation_missile_type_b/desc;Allows the installation of {unlockWeapons}
+modification/asm/desc;Allows installation of {unlockWeapons}
+modification/anti_radiation_missile_type_b/desc;Allows installation of {unlockWeapons}
 modification/anti_radiation_missile_type_b;ARM
-modification/anti_radiation_missile_type_c/desc;Allows the installation of {unlockWeapons}
+modification/anti_radiation_missile_type_c/desc;Allows installation of {unlockWeapons}
 modification/anti_radiation_missile_type_c;ARM
 CLIPPED_LANG_KEEP_IT_ALWAYS_FIRST;
 

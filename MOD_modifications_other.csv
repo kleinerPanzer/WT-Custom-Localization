@@ -35,41 +35,41 @@ modification/sws_flz_lwf_lb_82;Flz Lwf LB 82;
 
 
 modification/ro_250kg_bomb_45;BA-250
-modification/ro_250kg_bomb_45/desc;Allows installation of 250 kg of bombs.
+modification/ro_250kg_bomb_45/desc;Allows installation of {unlockWeapons} bombs.
 modification/ro_500kg_bomb_45;BA-500
-modification/ro_500kg_bomb_45/desc;Allows installation of 500 kg of bombs.
+modification/ro_500kg_bomb_45/desc;Allows installation of {unlockWeapons} bombs.
 modification/ro_aam_a91;A-91
-modification/ro_aam_a91/desc;Allows installation of A-91 air-to-air missiles.
+modification/ro_aam_a91/desc;Allows installation of {unlockWeapons} missiles.
 modification/ro_prn_122;PRN-122
-modification/ro_prn_122/desc;Allows installation of PRN-122 rockets.
+modification/ro_prn_122/desc;Allows installation of {unlockWeapons} rockets.
 
 
-modification/kr_kggb/desc;Allows installation of KGGB guided bombs.
+modification/kr_kggb/desc;Allows installation of {unlockWeapons} bombs.
 modification/kr_kggb;KGGB
 
-modification/br_lizard/desc;Allows installation of BAFG-230 (Lizard II) guided bombs.;
+modification/br_lizard/desc;Allows installation of {unlockWeapons} guided bombs.;
 modification/br_lizard;BAFG-230 (Lizard II)
 modification/br_skyfire_70;AV-LM-70/7-SF / AV-LM-70/19-SF;
-modification/br_skyfire_70/desc;Allows installation of AV-SF-70 rockets.;
-modification/br_bafg_230/desc;Allows installation of 230 kg bombs.;
+modification/br_skyfire_70/desc;Allows installation of {unlockWeapons} rockets.;
+modification/br_bafg_230/desc;Allows installation of {unlockWeapons} bombs.;
 modification/br_bafg_230;BAFG-230;
-modification/br_bafg_460/desc;Allows installation of 460 kg bombs.;
+modification/br_bafg_460/desc;Allows installation of {unlockWeapons} bombs.;
 modification/br_bafg_460;BAFG-460;
-modification/br_bafg_920/desc;Allows installation of 920 kg bombs.;
+modification/br_bafg_920/desc;Allows installation of {unlockWeapons} bombs.;
 modification/br_bafg_920;BAFG-920;
-modification/br_binc_300/desc;Allows installation of BINC-300 incendiary bombs.
+modification/br_binc_300/desc;Allows installation of {unlockWeapons} bombs.
 modification/br_binc_300;BINC-300;
 
 
-modification/tr_aselpod/desc;Allows installation of ASELPOD targeting pod.;
+modification/tr_aselpod/desc;Allows installation of {unlockWeapons} targeting pod.;
 modification/tr_aselpod;ASELPOD;
-modification/tr_umtas_x4/desc;Allows installation of L-UMTAS missiles.;
+modification/tr_umtas_x4/desc;Allows installation of {unlockWeapons} missiles.;
 modification/tr_umtas_x4;L-UMTAS;
-modification/tr_cirit_x4/desc;Allows installation of CIRIT missiles.;
+modification/tr_cirit_x4/desc;Allows installation of {unlockWeapons} missiles.;
 modification/tr_cirit_x4;CIRIT;
-modification/tr_fz207/desc;Allows installation of FZ49 rockets.;
+modification/tr_fz207/desc;Allows installation of {unlockWeapons} rockets.;
 modification/tr_fz207;HL-19-70;
-modification/tr_fz49/desc;Allows installation of FZ49 rockets.;
+modification/tr_fz49/desc;Allows installation of {unlockWeapons} rockets.;
 modification/tr_fz49;HL-19-70;
 
 
@@ -84,65 +84,65 @@ modification/fn_rmp/desc;Allows installation of FN RMP LC gun pods.;
 
 
 modification/in_nasser_240;Nasser 240
-modification/in_nasser_240/desc;Allows installation of Nasser 240 rockets.
+modification/in_nasser_240/desc;Allows installation of {unlockWeapons} rockets.
 modification/t_90s_twmp;TWMP;
 modification/t_90s_twmp/desc;Allows installation of Track-Width Mine Plough.;
-modification/mig_21_bison_r_77e/desc;Allows installation of Р-77Э air-to-air missiles.;
+modification/mig_21_bison_r_77e/desc;Allows installation of {unlockWeapons} missiles.;
 modification/mig_21_bison_r_77e;Р-77Э;
 
 
-modification/sa_r_darter/desc;Allows installation of R-Darter air-to-air missiles.;
+modification/sa_r_darter/desc;Allows installation of {unlockWeapons} missiles.;
 modification/sa_r_darter;R-Darter;
 
-modification/ir_sedjil/desc;Allows installation of لیجس air-to-air missiles.;
+modification/ir_sedjil/desc;Allows installation of {unlockWeapons} missiles.;
 modification/ir_sedjil;لیجس
-modification/ir_fakour_90/desc;Allows installation of 90 روکف air-to-air missiles.;
+modification/ir_fakour_90/desc;Allows installation of {unlockWeapons} missiles.;
 modification/ir_fakour_90;90 روکف;
-modification/ir_yasser/desc;Allows installation of رسای rockets.;
+modification/ir_yasser/desc;Allows installation of {unlockWeapons} rockets.;
 modification/ir_yasser;رسای
 
-modification/vliegtuigbom_100kg/desc;Allows installation of 100 kg bombs.;
+modification/vliegtuigbom_100kg/desc;Allows installation of {unlockWeapons} bombs.;
 modification/vliegtuigbom_100kg;Vliegtuigbom 100;
-modification/vliegtuigbom_300kg/desc;Allows installation of 300 kg bombs.;
+modification/vliegtuigbom_300kg/desc;Allows installation of {unlockWeapons} bombs.;
 modification/vliegtuigbom_300kg;Vliegtuigbom 300;
-modification/vliegtuigbom_400kg/desc;Allows installation of 400 kg bombs.;
+modification/vliegtuigbom_400kg/desc;Allows installation of {unlockWeapons} bombs.;
 modification/vliegtuigbom_400kg;Vliegtuigbom 400;
 
 
-modification/atgm_mokopa/desc;Allows installation of ZT6 Mokopa missiles.;
+modification/atgm_mokopa/desc;Allows installation of {unlockWeapons} missiles.;
 modification/atgm_mokopa;ZT6;
-modification/sa_zt_35_ingwe/desc;Allows installation of ZT3-A2 missiles.
+modification/sa_zt_35_ingwe/desc;Allows installation of {unlockWeapons} missiles.
 modification/sa_zt_35_ingwe;ZT3-A2
 
 
 modification/pescador;Martin Pescador
-modification/pescador/desc;Allows installation of {unlockWeapons}
+modification/pescador/desc;Allows installation of {unlockWeapons} missiles.
 modification/pampero;Pampero AS-105
-modification/pampero/desc;Allows installation of {unlockWeapons}
+modification/pampero/desc;Allows installation of {unlockWeapons} rockets.
 modification/aspid;Áspid ARM AP
-modification/aspid/desc;Allows installation of {unlockWeapons}
+modification/aspid/desc;Allows installation of {unlockWeapons} rockets.
 modification/bk_br_250;PG 250 kg / BRP-250
-modification/bk_br_250/desc;Allows installation of {unlockWeapons}
+modification/bk_br_250/desc;Allows installation of {unlockWeapons} bombs.
 modification/bk_br_500;PG 500 kg / BRP-500
-modification/bk_br_500/desc;Allows installation of {unlockWeapons}
+modification/bk_br_500/desc;Allows installation of {unlockWeapons} bombs.
 modification/inc_220;INC 220 kg
-modification/inc_220/desc;Allows installation of {unlockWeapons}
+modification/inc_220/desc;Allows installation of {unlockWeapons} bombs.
 
-modification/rs_fab_pgb/desc;Allows installation of {unlockWeapons}
+modification/rs_fab_pgb/desc;Allows installation of {unlockWeapons} bombs.
 modification/rs_fab_pgb;FAB-250 PGB
-modification/rs_grom_b/desc;Allows installation of {unlockWeapons}
+modification/rs_grom_b/desc;Allows installation of {unlockWeapons} missiles.
 modification/rs_grom_b;Grom-B
-modification/rs_m16d/desc;Allows installation of {unlockWeapons}
+modification/rs_m16d/desc;Allows installation of {unlockWeapons} rockets.
 modification/rs_m16d;M16D
-modification/rs_vrvz_240/desc;Allows installation of {unlockWeapons}
+modification/rs_vrvz_240/desc;Allows installation of {unlockWeapons} rockets.
 modification/rs_vrvz_240;VRVZ-240
-modification/kosava_3_tm/desc;Allows installation of {unlockWeapons}
+modification/kosava_3_tm/desc;Allows installation of {unlockWeapons} missiles.
 modification/kosava_3_tm;Košava 3 TM
-modification/br_vz_128_m15/desc;Allows installation of {unlockWeapons}
+modification/br_vz_128_m15/desc;Allows installation of {unlockWeapons} rockets.
 modification/br_vz_128_m15;BR-VZ-128-M15
-modification/rs_grom/desc;Allows installation of {unlockWeapons}
+modification/rs_grom/desc;Allows installation of {unlockWeapons} missiles.
 modification/rs_grom;Grom
-modification/rs_e_24_a1/desc;Allows installation of {unlockWeapons}
+modification/rs_e_24_a1/desc;Allows installation of {unlockWeapons} missiles.
 modification/rs_e_24_a1;E-24-A1
-modification/plab_350m_73/desc;Allows installation of {unlockWeapons}
+modification/plab_350m_73/desc;Allows installation of {unlockWeapons} bombs.
 modification/plab_350m_73;PLAB-350 M73

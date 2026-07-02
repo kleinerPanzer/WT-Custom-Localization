@@ -461,6 +461,6 @@ modification/su_kab_500s;КАБ-500С
 modification/su_kab_gps/desc;Allows installation of {unlockWeapons}
 modification/su_kab_gps;КАБ-С
 modification/su_s25l;С-25ЛД
-modification/su_s25l/desc;"Allows installation of {unlockWeapons}
-modification/su_arm/desc;Allows the installation of {unlockWeapons}
+modification/su_s25l/desc;Allows installation of {unlockWeapons}
+modification/su_arm/desc;Allows installation of {unlockWeapons}
 modification/su_arm;ARM

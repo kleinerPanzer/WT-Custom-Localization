@@ -136,9 +136,9 @@ modification/tiger_hmp400_lcc;FN HMP400 LCC;
 modification/tiger_hmp400_lcc/desc;Allows installation of gun pods FN HMP400 LCC.;
 modification/tiger_rmp_lc;FN RMP LC;
 modification/tiger_rmp_lc/desc;Allows installation of gun pods FN RMP LC.;
-modification/fr_pgm_tv/desc;Allows the installation of {unlockWeapons}
+modification/fr_pgm_tv/desc;Allows installation of {unlockWeapons}
 modification/fr_pgm_tv;PGM 500/2 / 2000/2
-modification/fr_pgm_ir/desc;Allows the installation of {unlockWeapons}
+modification/fr_pgm_ir/desc;Allows installation of {unlockWeapons}
 modification/fr_pgm_ir;PGM 500/3 / 2000/3
-modification/fr_pgm_laser/desc;Allows the installation of {unlockWeapons}
+modification/fr_pgm_laser/desc;Allows installation of {unlockWeapons}
 modification/fr_pgm_laser;PGM 500/1 / 2000/1

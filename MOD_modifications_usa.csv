@@ -80,8 +80,6 @@ modification/us_gbu_15v1/desc;Allows installation of GBU-15(V)1/B guided bombs.
 modification/us_gbu_15v1;GBU-15(V)1/B;
 modification/us_gbu_8_15/desc;Allows installation of GBU-8/B & GBU-15(V)1/B guided bombs.;
 modification/us_gbu_8_15;GBU-8 / GBU-15;
-modification/cn_ls_6_250_ir/desc;Allows installation of LS-6/250 (IR) guided bombs.
-modification/cn_ls_6_250_ir;LS-6/250 (IR)
 modification/jp_gbu38_jdam/desc;Allows installation of GBU-38/B JDAM guided bombs;
 modification/jp_gbu38_jdam;GBU-38 JDAM;
 modification/us_500lb_mk82_gbu38_jdam/desc;Allows installation of 500 lb bombs and GBU-38/B guided bombs.;
@@ -94,7 +92,7 @@ modification/us_500lb_mk82_gbu54b/desc;Allows installation of GBU-54(V)1/B LJDAM
 modification/us_500lb_mk82_gbu54b;GBU-54 / GBU-62
 modification/us_jdam/desc;Allows installation of JDAM guided bombs.
 modification/us_jdam;JDAM
-modification/us_ljdam/desc;Allows the installation of LJDAM guided bombs.
+modification/us_ljdam/desc;Allows installation of LJDAM guided bombs.
 modification/us_ljdam;LJDAM
 modification/us_gbu54b/desc;Allows installation of GBU-54(V)1/B LJDAM and GBU-62(V)1/B guided bombs.
 modification/us_gbu54b;GBU-54 / GBU-62
@@ -160,7 +158,7 @@ modification/us_gbu_32_31/desc;Allows installation of GBU-31(V)1/B and GBU-38(V)
 modification/us_gbu_32_31;GBU-31 / GBU-32 / GBU-64
 modification/us_gbu39/desc;Allows installation of GBU-39/B guided bombs.
 modification/us_gbu39;GBU-39
-modification/us_agm154_jsow/desc;Allows the installation of AGM-154 guided bombs.
+modification/us_agm154_jsow/desc;Allows installation of AGM-154 guided bombs.
 modification/us_agm154_jsow;AGM-154
 modification/us_mk82_gbu39/desc;Allows installation of 500 lb bombs and GBU-39/B guided bombs.
 modification/us_mk82_gbu39;Mk82/GBU-39
@@ -334,9 +332,9 @@ modification/us_aim_120b/desc;Allows installation of AIM-120B air-to-air missile
 modification/us_aim_120b;AIM-120B;
 modification/us_aim_120c/desc;Allows installation of AIM-120C air-to-air missiles.
 modification/us_aim_120c;AIM-120C
-modification/us_aim_120b_c/desc;Allows the installation of AIM-120B and AIM-120C air-to-air missiles.
+modification/us_aim_120b_c/desc;Allows installation of AIM-120B and AIM-120C air-to-air missiles.
 modification/us_aim_120b_c;AIM-120B/C
-modification/us_aim_120d/desc;Allows the installation of AIM-120D air-to-air missiles.
+modification/us_aim_120d/desc;Allows installation of AIM-120D air-to-air missiles.
 modification/us_aim_120d;AIM-120D
 modification/us_aim_4g/desc;Allows installation of AIM-4G air-to-air missiles.
 modification/us_aim_4g;AIM-4G
@@ -464,7 +462,7 @@ modification/us_agm_65f/desc;Allows installation of AGM-65F missiles.;
 modification/us_agm_65f;AGM-65F;
 modification/us_agm_65l/desc;Allows installation of AGM-65L missiles.;
 modification/us_agm_65l;AGM-65L;
-modification/us_agm_84h/desc;Allows the installation of AGM-84H missiles.
+modification/us_agm_84h/desc;Allows installation of AGM-84H missiles.
 modification/us_agm_84h;AGM-84H
 modification/us_agm_130/desc;Allows installation of AGM-130A missiles.;
 modification/us_agm_130;AGM-130A;
@@ -476,7 +474,7 @@ modification/us_gbu_53/desc;Allows installation of {unlockWeapons}
 modification/us_gbu_53;GBU-53/B
 modification/us_pave_spike_pod/desc;Allows installation {unlockWeapons}
 modification/us_pave_spike_pod;AN/ASQ-153
-modification/us_arm/desc;Allows the installation of {unlockWeapons}
+modification/us_arm/desc;Allows installation of {unlockWeapons}
 modification/us_arm;ARM
 modification/anti_radiation_missile_agm_122/desc;Allows installation of {unlockWeapons}
 modification/anti_radiation_missile_agm_122;AGM-122A
