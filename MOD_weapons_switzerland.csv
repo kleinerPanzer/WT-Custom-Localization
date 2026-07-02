@@ -19,6 +19,10 @@ weapons/sw_880l_rp825_drop_tank_mirage_iiis/short;RP 825
 weapons/fr_as30_switzerland;Flugzeug-Lenkwaffe Luft-Boden 66
 weapons/fr_as30_switzerland/short;Flz.Lwf. LB 66
 weapons/30mm_HSS_831L_user_cannon;30 mm HSS 831L;
+30_170mm_apds_t;APDS-T;
+30_170mm_aphe_i;APHE-I;
+30_170mm_he_i;HE-I;
+30_170mm_he_i_t;HE-I-T;
 weapons/30mm_HSS_831A_user_cannon;30 mm HSS 831A;
 weapons/30mm_HSS_831L_Turm_user_cannon;30 mm HSS 831L;
 weapons/sws_oerlikon_oe82;8 cm Flugzeug-Rakete Oerlikon;

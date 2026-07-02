@@ -167,6 +167,7 @@ weapons/75mm_M2_user_cannon;Gun, 75-mm, M2;
 weapons/75mm_M6_user_cannon;Gun, 75-mm, M6;
 weapons/75mm_m3_user_cannon;Gun, 75-mm, M3;
 weapons/75mm_m3_open_turret_user_cannon;Gun, 75-mm, M3;
+weapons/75mm_QQF_MkV_NA75_user_cannon;Gun, 75-mm, M3;
 75mm_m48;HE, M48;
 75mm_t45;HVAP, T45;
 75mm_m61;APC-T, M61;
