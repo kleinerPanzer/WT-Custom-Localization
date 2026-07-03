@@ -7,14 +7,14 @@ armor_class/ERA_FY_2;FY-2;
 armor_class/ERA_FY_4;FY-4;
 armor_class/ERA_FY_5;FY-5;
 armor_class/glass_fibre;Fiberglass
+armor_class/ERA_K_I;Контакт-1 (ЭДЗ 4С20);
 armor_class/ERA_K_V;Контакт-5 (ЭДЗ 4С22);
 armor_class/ERA_Relict;Реликт (ЭДЗ 4С23);
-armor_class/ERA_K_I;Контакт-1 (ЭДЗ 4С20);
 armor_class/ERA_Blazer;Baltan;
 armor_class/ERA_tank;Integrated ERA;
 armor_class/ERA_DYNAS;DYNAS;
-armor_class/ERA_ARAT;M19 ARAT;
-armor_class/ERA_ARAT_2;M32 ARAT 2;
+armor_class/ERA_ARAT;Tile, Armor: M19 Abrams Reactive Armor Tile;
+armor_class/ERA_ARAT_2;Tile, Armor: M32 Abrams Reactive Armor Tile 2;
 armor_class/t_90_hull_composite_armour;Composite armor;
 armor_class/t_90_turret_composite_armour;Composite armor;
 armor_class/leopard_2a5_hull_composite_armour;Composite armor;
