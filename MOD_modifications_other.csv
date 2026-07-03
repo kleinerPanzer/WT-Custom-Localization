@@ -1,38 +1,45 @@
 <ID|readonly|noverify>;<NewLanguage>
 
-modification/fin_50kg/desc;Allows installation of 2 x 50 kg bombs.;
+// FINLAND //
+
+modification/fin_50kg/desc;Allows installation of {unlockWeapons} bombs.;
 modification/fin_50kg;50 kg;
-modification/fin_100kg/desc;Allows installation of 2 x 100 kg bombs.;
+modification/fin_100kg/desc;Allows installation of {unlockWeapons} bombs.;
 modification/fin_100kg;100 kg;
 modification/morko_morane_mg151;Flugzeugmaschinengewehr 151/20;
-modification/morko_morane_mg151/desc;Allows installation of Flugzeugmaschinengewehr 151/20 cannon.
+modification/morko_morane_mg151/desc;Allows installation of a {unlockWeapons} cannon.
 
+// SWITZERLAND //
 
 modification/type_r80_sura;Typ 80 (SURA);
-modification/type_r80_sura/desc;Allows installation of Typ 80 rockets.;
-modification/flz_lwf_lb_66;Flz.Lwf. LB 66
-modification/flz_lwf_lb_66/desc;Allows installation of Flz.Lwf. LB 66  missiles.
-modification/sws_flz_lwf_ll_64/desc;Allows installation of Flz.Lwf. LL 64/79 missiles.
-modification/sws_flz_lwf_ll_64;Flz.Lwf. LL 64/79
-modification/sws_400kg_febb_napalmbombe/desc;Allows installation of FeBb incendiary bombs.;
-modification/sws_400kg_febb_napalmbombe;FeBb Napalmbombe;
+modification/type_r80_sura/desc;Allows installation of {unlockWeapons} rockets.;
 modification/8_cm_flz_rakete;8 cm Flz.-Rakete;
-modification/8_cm_flz_rakete/desc;Allows installation of 8 cm Flz.-Rakete Oerlikon rockets.;
-modification/sws_flz_lwf_63_80/desc;Allows installation of Flz.Lwf. LL 63/80 air-to-air missiles.;
-modification/sws_flz_lwf_63_80;Flz.Lwf. LL 63/80;
-modification/sws_flz_lwf_63_75/desc;Allows installation of Flz.Lwf. LL 63/75 air-to-air missiles.
-modification/sws_flz_lwf_63_75;Flz.Lwf. LL 63/75
-modification/sws_flz_lwf_63/desc;Allows installation of Flz.Lwf. LL 63 air-to-air missiles.;
-modification/sws_flz_lwf_63;Flz.Lwf. LL 63;
-modification/sws_200_kg_sprengbombe;200 kg Sprengbombe;
-modification/sws_200_kg_sprengbombe/desc;Allows installation of 200 kg bombs.;
-modification/sws_400_kg_sprengbombe;400 kg Sprengbombe;
-modification/sws_400_kg_sprengbombe/desc;Allows installation of 400 kg bombs.;
-modification/sws_450_kg_sprengbombe_68_70;450 kg Sprengbombe 68/70;
-modification/sws_450_kg_sprengbombe_68_70/desc;Allows installation of 450 kg bombs.;
-modification/sws_flz_lwf_lb_82/desc;Allows installation of Flz Lwf LB 82 missiles.;
-modification/sws_flz_lwf_lb_82;Flz Lwf LB 82;
+modification/8_cm_flz_rakete/desc;Allows installation of {unlockWeapons} rockets.;
 
+modification/sws_flz_lwf_63_80;Flz.Lwf. LL 63/80;
+modification/sws_flz_lwf_63_80/desc;Allows installation of {unlockWeapons} missiles.;
+modification/sws_flz_lwf_63_75;Flz.Lwf. LL 63/75
+modification/sws_flz_lwf_63_75/desc;Allows installation of {unlockWeapons} missiles.
+modification/sws_flz_lwf_63;Flz.Lwf. LL 63;
+modification/sws_flz_lwf_63/desc;Allows installation of {unlockWeapons} missiles.;
+modification/sws_flz_lwf_ll_64;Flz.Lwf. LL 64/79
+modification/sws_flz_lwf_ll_64/desc;Allows installation of {unlockWeapons} missiles.
+modification/flz_lwf_lb_66;Flz.Lwf. LB 66
+modification/flz_lwf_lb_66/desc;Allows installation of {unlockWeapons}  missiles.
+modification/sws_flz_lwf_lb_82;Flz Lwf LB 82;
+modification/sws_flz_lwf_lb_82/desc;Allows installation of {unlockWeapons} missiles.;
+
+modification/sws_200_kg_sprengbombe;200 kg Sprengbombe;
+modification/sws_200_kg_sprengbombe/desc;Allows installation of {unlockWeapons} bombs.;
+modification/sws_400_kg_sprengbombe;400 kg Sprengbombe;
+modification/sws_400_kg_sprengbombe/desc;Allows installation of {unlockWeapons} bombs.;
+modification/sws_450_kg_sprengbombe_68_70;450 kg Sprengbombe 68/70;
+modification/sws_450_kg_sprengbombe_68_70/desc;Allows installation of {unlockWeapons} bombs.;
+
+modification/sws_400kg_febb_napalmbombe;FeBb Napalmbombe;
+modification/sws_400kg_febb_napalmbombe/desc;Allows installation of {unlockWeapons} bombs.;
+
+// ROMANIA //
 
 modification/ro_250kg_bomb_45;BA-250
 modification/ro_250kg_bomb_45/desc;Allows installation of {unlockWeapons} bombs.
@@ -43,14 +50,17 @@ modification/ro_aam_a91/desc;Allows installation of {unlockWeapons} missiles.
 modification/ro_prn_122;PRN-122
 modification/ro_prn_122/desc;Allows installation of {unlockWeapons} rockets.
 
+// ROK //
 
 modification/kr_kggb/desc;Allows installation of {unlockWeapons} bombs.
 modification/kr_kggb;KGGB
 
+// BRASIL //
+
 modification/br_lizard/desc;Allows installation of {unlockWeapons} guided bombs.;
 modification/br_lizard;BAFG-230 (Lizard II)
+modification/br_skyfire_70/desc;Allows installation of {unlockWeapons} rockets in AV-LM-70/7-SF or AV-LM-70/19-SF launchers.;
 modification/br_skyfire_70;AV-LM-70/7-SF / AV-LM-70/19-SF;
-modification/br_skyfire_70/desc;Allows installation of {unlockWeapons} rockets.;
 modification/br_bafg_230/desc;Allows installation of {unlockWeapons} bombs.;
 modification/br_bafg_230;BAFG-230;
 modification/br_bafg_460/desc;Allows installation of {unlockWeapons} bombs.;
@@ -60,6 +70,8 @@ modification/br_bafg_920;BAFG-920;
 modification/br_binc_300/desc;Allows installation of {unlockWeapons} bombs.
 modification/br_binc_300;BINC-300;
 
+// TURKIYE //
+
 
 modification/tr_aselpod/desc;Allows installation of {unlockWeapons} targeting pod.;
 modification/tr_aselpod;ASELPOD;
@@ -67,11 +79,12 @@ modification/tr_umtas_x4/desc;Allows installation of {unlockWeapons} missiles.;
 modification/tr_umtas_x4;L-UMTAS;
 modification/tr_cirit_x4/desc;Allows installation of {unlockWeapons} missiles.;
 modification/tr_cirit_x4;CIRIT;
-modification/tr_fz207/desc;Allows installation of {unlockWeapons} rockets.;
+modification/tr_fz207/desc;Allows installation of {unlockWeapons} rockets in HL-19-70 launchers.;
 modification/tr_fz207;HL-19-70;
-modification/tr_fz49/desc;Allows installation of {unlockWeapons} rockets.;
+modification/tr_fz49/desc;Allows installation of {unlockWeapons} rockets in HL-19-70 launchers.;
 modification/tr_fz49;HL-19-70;
 
+// BELGIUM //
 
 modification/fn_hmp400_lcc;FN HMP400 LCC / LTC;
 modification/fn_hmp400_lcc/desc;Allows installation of FN HMP400 LCC and LTC gun pods.;
@@ -82,6 +95,7 @@ modification/fn_rmp_lc/desc;Allows installation of FN RMP LC and LTC gun pods.;
 modification/fn_rmp;FN RMP LC;
 modification/fn_rmp/desc;Allows installation of FN RMP LC gun pods.;
 
+// INDIA //
 
 modification/in_nasser_240;Nasser 240
 modification/in_nasser_240/desc;Allows installation of {unlockWeapons} rockets.
@@ -90,9 +104,17 @@ modification/t_90s_twmp/desc;Allows installation of Track-Width Mine Plough.;
 modification/mig_21_bison_r_77e/desc;Allows installation of {unlockWeapons} missiles.;
 modification/mig_21_bison_r_77e;Р-77Э;
 
+// SOUTH AFRICA //
 
 modification/sa_r_darter/desc;Allows installation of {unlockWeapons} missiles.;
 modification/sa_r_darter;R-Darter;
+
+modification/sa_zt_35_ingwe/desc;Allows installation of {unlockWeapons} missiles.
+modification/sa_zt_35_ingwe;ZT3-A2
+modification/atgm_mokopa/desc;Allows installation of {unlockWeapons} missiles.;
+modification/atgm_mokopa;ZT6;
+
+// IRAN //
 
 modification/ir_sedjil/desc;Allows installation of {unlockWeapons} missiles.;
 modification/ir_sedjil;لیجس
@@ -101,6 +123,8 @@ modification/ir_fakour_90;90 روکف;
 modification/ir_yasser/desc;Allows installation of {unlockWeapons} rockets.;
 modification/ir_yasser;رسای
 
+// NETHERLANDS //
+
 modification/vliegtuigbom_100kg/desc;Allows installation of {unlockWeapons} bombs.;
 modification/vliegtuigbom_100kg;Vliegtuigbom 100;
 modification/vliegtuigbom_300kg/desc;Allows installation of {unlockWeapons} bombs.;
@@ -108,12 +132,7 @@ modification/vliegtuigbom_300kg;Vliegtuigbom 300;
 modification/vliegtuigbom_400kg/desc;Allows installation of {unlockWeapons} bombs.;
 modification/vliegtuigbom_400kg;Vliegtuigbom 400;
 
-
-modification/atgm_mokopa/desc;Allows installation of {unlockWeapons} missiles.;
-modification/atgm_mokopa;ZT6;
-modification/sa_zt_35_ingwe/desc;Allows installation of {unlockWeapons} missiles.
-modification/sa_zt_35_ingwe;ZT3-A2
-
+// ARGENTINA //
 
 modification/pescador;Martin Pescador
 modification/pescador/desc;Allows installation of {unlockWeapons} missiles.
@@ -128,21 +147,29 @@ modification/bk_br_500/desc;Allows installation of {unlockWeapons} bombs.
 modification/inc_220;INC 220 kg
 modification/inc_220/desc;Allows installation of {unlockWeapons} bombs.
 
+// SERBIA //
+
 modification/rs_fab_pgb/desc;Allows installation of {unlockWeapons} bombs.
 modification/rs_fab_pgb;FAB-250 PGB
-modification/rs_grom_b/desc;Allows installation of {unlockWeapons} missiles.
-modification/rs_grom_b;Grom-B
-modification/rs_m16d/desc;Allows installation of {unlockWeapons} rockets.
-modification/rs_m16d;M16D
-modification/rs_vrvz_240/desc;Allows installation of {unlockWeapons} rockets.
-modification/rs_vrvz_240;VRVZ-240
-modification/kosava_3_tm/desc;Allows installation of {unlockWeapons} missiles.
-modification/kosava_3_tm;Košava 3 TM
-modification/br_vz_128_m15/desc;Allows installation of {unlockWeapons} rockets.
-modification/br_vz_128_m15;BR-VZ-128-M15
-modification/rs_grom/desc;Allows installation of {unlockWeapons} missiles.
-modification/rs_grom;Grom
-modification/rs_e_24_a1/desc;Allows installation of {unlockWeapons} missiles.
-modification/rs_e_24_a1;E-24-A1
+
 modification/plab_350m_73/desc;Allows installation of {unlockWeapons} bombs.
 modification/plab_350m_73;PLAB-350 M73
+
+modification/rs_grom/desc;Allows installation of {unlockWeapons} missiles.
+modification/rs_grom;Grom
+modification/rs_grom_b/desc;Allows installation of {unlockWeapons} missiles.
+modification/rs_grom_b;Grom-B
+
+modification/br_vz_128_m15/desc;Allows installation of {unlockWeapons} rockets.
+modification/br_vz_128_m15;BR-VZ-128-M15
+modification/rs_m16d/desc;Allows installation of {unlockWeapons} rockets.
+modification/rs_m16d;M16D
+
+modification/rs_vrvz_240/desc;Allows installation of {unlockWeapons} rockets.
+modification/rs_vrvz_240;VRVZ-240
+
+modification/kosava_3_tm/desc;Allows installation of {unlockWeapons} missiles.
+modification/kosava_3_tm;Košava 3 TM
+
+modification/rs_e_24_a1/desc;Allows installation of {unlockWeapons} missiles.
+modification/rs_e_24_a1;E-24-A1

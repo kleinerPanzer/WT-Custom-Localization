@@ -58,7 +58,7 @@ modification/it_macchi_m_910_gunpod;M-910-21/22-10
 modification/it_macchi_m_910_gunpod/desc;Allows installation of {unlockWeapons} machine guns in M-910-21/22-10 gun pods.
 
 // TGPS //
-modification/it_pdlct_s_pod/desc;Allows installation of CLDP targeting pod.;
+modification/it_pdlct_s_pod/desc;Allows installation of a {unlockWeapons} targeting pod.;
 modification/it_pdlct_s_pod;CLDP;
 
 // TORPEDOES //

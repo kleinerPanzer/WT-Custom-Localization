@@ -157,9 +157,17 @@ weapons/102mm_45_4in_qf_mark16_21_naval_user_cannon;Ordnance, Q.F., 4-inch, Mk. 
 102mm_45_vt_he;HE-VT;
 102mm_mark_va;Mk. VA;
 102mm_qf_navy_shrapnel;Shrapnel;
+weapons/102mm_33_4in_qf_mk23_naval_user_cannon;Ordnance, Q.F., 4-inch, Mk. XXIII;
 
-weapons/114mm_19_4_5in_8cwt_qf_mark1_naval_user_cannon;Ordnance, Q.F., 4.7-inch, Mk. I;
+weapons/114mm_19_4_5in_8cwt_qf_mark1_naval_user_cannon;Ordnance, Q.F., 4.5-inch, Mk. I;
 114mm_he_shell;HE;
+weapons/114mm_45_qf_mk1_aa_naval_user_cannon;Ordnance, Q.F., 4.5-inch, Mk. III;
+weapons/114mm_45_qf_mk4_naval_user_cannon;Ordnance, Q.F., 4.5-inch, Mk. IV;
+weapons/114mm_45_qf_mk5_naval_user_cannon;Ordnance, Q.F., 4.5-inch, Mk. V;
+uk_114mm_45_sap;SAP;
+uk_114mm_45_he;HE;
+uk_114mm_45_he_dist_fuse;HE-DF;
+uk_114mm_45_he_radio_fuse;HE-VT;
 
 weapons/120mm_45_qf_mk9_single_naval_user_cannon;Ordnance, Q.F., 4.7-inch, Mk. IX
 weapons/120mm_45_qf_mk12_mount_cp17_single_naval_user_cannon;Ordnance, Q.F., 4.7-inch, Mk. IX
@@ -170,14 +178,28 @@ weapons/120mm_40_qf_mk12_mount_ha_single_naval_user_cannon;Ordnance, Q.F., 4.7-i
 120mm_mark_viia_df;Mk. VIIA DF;
 120mm_mark_viia_vt;Mk. VIIA VT;
 
+weapons/133mm_5_25inch_50_qf_mk1_naval_user_cannon;Ordnance, Q.F., 5.25-inch, Mk. I;
+weapons/133mm_5_25inch_50_qf_mk1_ask_naval_user_cannon;Ordnance, Q.F., 5.25-inch, Mk. I
+133mm_qf_mk1_he;HE;
+133mm_qf_mk1_vt_he;HE-VT;
+133mm_mark_ii_sap;SAP Mk. II;
+
 weapons/152mm_6inch_45_bl_mk12_naval_user_cannon;Ordnance, B.L., 6-inch, Mk. XII;
-weapons/152mm_6inch_50_bl_mk22_naval_user_cannon;Ordnance, B.L., 6-inch, Mk. XXII;
-weapons/152mm_6inch_50_bl_mk23_naval_user_cannon;Ordnance, B.L., 6-inch, Mk. XXIII;
 152mm_45_he;HE;
 152mm_45_he_dist_fuse;HE
 152mm_45_cpbc;CPBC;
 152mm_45_cpc;CPC;
+weapons/152mm_6inch_50_bl_mk22_naval_user_cannon;Ordnance, B.L., 6-inch, Mk. XXII;
+weapons/152mm_6inch_50_bl_mk23_naval_user_cannon;Ordnance, B.L., 6-inch, Mk. XXIII;
+152mm_50_5_10crh_he;HE;
+152mm_50_5_10crh_df_he;HE-DF;
+152mm_50_5_10crh_vt_he;HE-VT;
+152mm_50_5_10crh_cpbc;CPBC;
 152mm_50_mk25b_cpbc;Mk. XXVb CPBC
+weapons/152mm_6inch_50_qf_mk_5_naval_user_cannon;Ordnance, Q.F., 6-inch, Mk. V
+152mm_50_qf_mk5_navy_ap;AP;
+152mm_50_qf_mk5_navy_he;HE;
+152mm_50_qf_mk5_navy_vt_he;HE-VT;
 
 weapons/230mm_petard_spigot_mortar_user_cannon;Mortar, Recoiling, Spigot, Mk. II
 no_1_demolition_bomb;Bomb, Demolition, No. 1;
@@ -192,31 +214,9 @@ weapons/178mm_Hedgehog_user_cannon;Projector, Hedgehog, No. 1, Mk. 1;
 178mm_hedgehog_projectile;Projectile, Hedgehog;
 weapons/178mm_hedgehog_projectile/short;Projectile, Hedgehog;
 
-100mm_3_9_inch_he;HE;
-100mm_3_9_inch_he_tf;HE-TF;
 40mm_158R_hv_mk_ii;HE Mk. II;
 40mm_158R_ap_mk_ii;AP Mk. II;
-weapons/114mm_45_qf_mk4_naval_user_cannon;Ordnance, Q.F., 4.5-inch, Mk. IV;
-weapons/114mm_45_qf_mk5_naval_user_cannon;Ordnance, Q.F., 4.5-inch, Mk. V;
-weapons/114mm_45_qf_mk1_aa_naval_user_cannon;Ordnance, Q.F., 4.5-inch, Mk. III;
-uk_114mm_45_sap;SAP;
-uk_114mm_45_he;HE;
-uk_114mm_45_he_dist_fuse;HE-DF;
-uk_114mm_45_he_radio_fuse;HE-VT;
-weapons/102mm_33_4in_qf_mk23_naval_user_cannon;Ordnance, Q.F., 4-inch, Mk. XXIII;
-weapons/133mm_5_25inch_50_qf_mk1_naval_user_cannon;Ordnance, Q.F., 5.25-inch, Mk. I;
-weapons/133mm_5_25inch_50_qf_mk1_ask_naval_user_cannon;Ordnance, Q.F., 5.25-inch, Mk. I
-133mm_qf_mk1_he;HE;
-133mm_qf_mk1_vt_he;HE-VT;
-133mm_mark_ii_sap;SAP Mk. II;
-152mm_50_5_10crh_he;HE;
-152mm_50_5_10crh_df_he;HE-DF;
-152mm_50_5_10crh_vt_he;HE-VT;
-152mm_50_5_10crh_cpbc;CPBC;
-weapons/152mm_6inch_50_qf_mk_5_naval_user_cannon;九八式二十粍高射機関砲 (四式);
-152mm_50_qf_mk5_navy_ap;Ordnance, Q.F., 6-inch, Mk. V;
-152mm_50_qf_mk5_navy_he;AP;
-152mm_50_qf_mk5_navy_vt_he;HE;
+
 weapons/76mm_70_mark_6_naval_user_cannon;Ordnance, Q.F., 3-inch, Mk. VI;
 76mm_nc101_navy_he_vt;NC101;
 weapons/102mm_45_4in_qf_mark15_naval_user_cannon;Ordnance, Q.F., 4-inch, Mk. XVI;

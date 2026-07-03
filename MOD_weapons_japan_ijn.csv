@@ -38,6 +38,8 @@ weapons/76mm_40_type_88_naval_user_cannon;四十口径三年式八糎高角砲;
 weapons/80mm_60_type_98_naval_user_cannon;六〇口径九八式八糎高角砲;
 
 weapons/100mm_65_type_98_naval_user_cannon;九八式10cm高角砲甲型;
+100mm_3_9_inch_he;HE;
+100mm_3_9_inch_he_tf;HE-TF;
 
 weapons/120mm_Navy_Short_Gun_user_cannon;十二口径短十二糎砲;
 
