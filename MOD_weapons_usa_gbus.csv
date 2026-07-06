@@ -1,22 +1,6 @@
 <ID|readonly|noverify>;<NewLanguage>
 
-weapons/us_gbu_39;Bomb Unit, Guided, GBU-39/B Small Diameter Bomb
-weapons/us_gbu_39/short;GBU-39/B
-weapons/us_gbu_53;Bomb, Guided, GBU-53/B Small Diameter Bomb
-weapons/us_gbu_53/short;GBU-53/B
-
-weapons/us_2000lb_gbu_8_hobos;Bomb Unit, Guided, GBU-8/B Homing Bomb System;
-weapons/us_2000lb_gbu_8_hobos/short;GBU-8/B;
-
-weapons/us_2000lb_gbu_15v1;Bomb Unit, Guided, GBU-15(V)1/B;
-weapons/us_2000lb_gbu_15v1/short;GBU-15(V)1/B;
-weapons/us_2000lb_gbu_15v2;Bomb Unit, Guided, GBU-15(V)2/B;
-weapons/us_2000lb_gbu_15v2/short;GBU-15(V)2/B;
-
-weapons/us_500lb_gbu38_usaf;Bomb Unit, Guided, GBU-38(V)1/B Joint Direct Attack Munition;
-weapons/us_500lb_gbu38_usaf/short;GBU-38(V)1/B;
-weapons/us_500lb_gbu38_usnavy;Bomb Unit, Guided, GBU-38(V)2/B Joint Direct Attack Munition;
-weapons/us_500lb_gbu38_usnavy/short;GBU-38(V)2/B;
+// PAVEWAY II //
 
 weapons/us_gbu_10_paveway_2;Bomb Unit, Guided, GBU-10C/B Paveway II;
 weapons/us_gbu_10_paveway_2/short;GBU-10C/B;
@@ -31,28 +15,55 @@ weapons/us_gbu_49_paveway_2/short;GBU-49(V)1/B
 weapons/us_gbu_50_paveway_2;Bomb Unit, Guided, GBU-50/B Paveway II
 weapons/us_gbu_50_paveway_2/short;GBU-50/B
 
+// PAVEWAY III //
+
 weapons/us_gbu_22_paveway_3;Bomb Unit, Guided, GBU-22/B Paveway III
 weapons/us_gbu_22_paveway_3/short;GBU-22/B
-weapons/us_2000lb_egbu_24_paveway_3;Bomb Unit, Guided, GBU-24E/B Paveway III
-weapons/us_2000lb_egbu_24_paveway_3/short;GBU-24E/B
 weapons/us_2000lb_gbu_24;Bomb Unit, Guided, GBU-24/B Paveway III;
 weapons/us_2000lb_gbu_24/short;GBU-24/B;
+weapons/us_2000lb_egbu_24_paveway_3;Bomb Unit, Guided, GBU-24(V)9/B Paveway III
+weapons/us_2000lb_egbu_24_paveway_3/short;GBU-24(V)9/B
 weapons/us_2000lb_gbu_27;Bomb Unit, Guided, GBU-27/B Paveway III
 weapons/us_2000lb_gbu_27/short;GBU-27/B
 
+// SDB //
+
+weapons/us_gbu_39;Bomb Unit, Guided, GBU-39/B Small Diameter Bomb Increment I
+weapons/us_gbu_39/short;GBU-39/B
+weapons/us_gbu_53;Bomb, Guided, GBU-53/B Small Diameter Bomb Increment II
+weapons/us_gbu_53/short;GBU-53/B
+
+// HOBOS //
+
+weapons/us_2000lb_gbu_8_hobos;Bomb Unit, Guided, GBU-8/B Homing Bomb System;
+weapons/us_2000lb_gbu_8_hobos/short;GBU-8/B;
+
+// GSW //
+
+weapons/us_2000lb_gbu_15v1;Bomb Unit, Guided, GBU-15(V)1/B Guided Standoff Weapon;
+weapons/us_2000lb_gbu_15v1/short;GBU-15(V)1/B;
+weapons/us_2000lb_gbu_15v2;Bomb Unit, Guided, GBU-15(V)2/B Guided Standoff Weapon;
+weapons/us_2000lb_gbu_15v2/short;GBU-15(V)2/B;
+
+// JDAM //
+
 weapons/us_2000lb_gbu31_usaf;Bomb Unit, Guided, GBU-31(V)1/B Joint Direct Attack Munition;
-weapons/us_2000lb_gbu31_usaf/short;GBU-31;
-weapons/us_2000lb_gbu31_usnavy;Bomb Unit, Guided, GBU-31(V)1/B Joint Direct Attack Munition;
-weapons/us_2000lb_gbu31_usnavy/short;GBU-31;
+weapons/us_2000lb_gbu31_usaf/short;GBU-31(V)1/B;
+weapons/us_2000lb_gbu31_usnavy;Bomb Unit, Guided, GBU-31(V)2/B Joint Direct Attack Munition;
+weapons/us_2000lb_gbu31_usnavy/short;GBU-31(V)2/B;
 weapons/us_1000lb_gbu32_usaf;Bomb Unit, Guided, GBU-32(V)1/B Joint Direct Attack Munition
 weapons/us_1000lb_gbu32_usaf/short;GBU-32(V)1/B
-weapons/us_1000lb_gbu32_navy;Bomb Unit, Guided, GBU-32(V)1/B Joint Direct Attack Munition
-weapons/us_1000lb_gbu32_navy/short;GBU-32(V)1/B
+weapons/us_1000lb_gbu32_navy;Bomb Unit, Guided, GBU-32(V)2/B Joint Direct Attack Munition
+weapons/us_1000lb_gbu32_navy/short;GBU-32(V)2/B
+weapons/us_500lb_gbu38_usaf;Bomb Unit, Guided, GBU-38(V)1/B Joint Direct Attack Munition;
+weapons/us_500lb_gbu38_usaf/short;GBU-38(V)1/B;
+weapons/us_500lb_gbu38_usnavy;Bomb Unit, Guided, GBU-38(V)2/B Joint Direct Attack Munition;
+weapons/us_500lb_gbu38_usnavy/short;GBU-38(V)2/B;
 
 weapons/us_500lb_gbu_54b;Bomb Unit, Guided, GBU-54(V)1/B Laser Joint Direct Attack Munition
 weapons/us_500lb_gbu_54b/short;GBU-54(V)1/B
-weapons/us_500lb_gbu_54b_navy;Bomb Unit, Guided, GBU-54(V)1/B Laser Joint Direct Attack Munition
-weapons/us_500lb_gbu_54b_navy/short;GBU-54(V)1/B
+weapons/us_500lb_gbu_54b_navy;Bomb Unit, Guided, GBU-54(V)2/B Laser Joint Direct Attack Munition
+weapons/us_500lb_gbu_54b_navy/short;GBU-54(V)2/B
 
 weapons/us_500lb_gbu_62_jdam_er;Bomb Unit, Guided, GBU-62(V)1/B Joint Direct Attack Munition-Extended Range
 weapons/us_500lb_gbu_62_jdam_er/short;GBU-62(V)1/B

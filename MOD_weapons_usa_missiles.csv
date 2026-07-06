@@ -174,10 +174,10 @@ weapons/us_agm_12c_bullpup;Guided Missile, Surface Attack, AGM-12C Bullpup;
 weapons/us_agm_12c_bullpup/short;AGM-12C;
 
 // M-22 //
-weapons/us_AGM_22;Guided Missile, Surface Attack, AGM-22;
-weapons/us_AGM_22/short;AGM-22;
-weapons/us_AGM_22_default;Guided Missile, Surface Attack, AGM-22
-weapons/us_AGM_22_default/short;AGM-22
+weapons/us_AGM_22;Guided Missile, Surface Attack, AGM-22B
+weapons/us_AGM_22/short;AGM-22B
+weapons/us_AGM_22_default;Guided Missile, Surface Attack, AGM-22B
+weapons/us_AGM_22_default/short;AGM-22B
 
 // M-23 //
 us_mim_23b;MIM-23B

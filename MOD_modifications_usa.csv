@@ -288,7 +288,7 @@ modification/ah_1_m261_hydra_70/desc;Allows installation of 2.75” Hydra-70 roc
 modification/ah_1_m261_hydra_70;M261 LWL;
 modification/uh_1_xm159/desc;Allows installation of additional 2.75” FFAR rockets.;
 modification/uh_1_xm159;XM159;
-modification/ah_AGM_22/desc;Allows installation of AGM-22 missiles.;
+modification/ah_AGM_22/desc;Allows installation of AGM-22B missiles.;
 modification/ah_AGM_22;M156;
 modification/us_hydra_70/desc;Allows installation of SSWAFAR Mk 66 rockets.;
 modification/us_hydra_70;LAU-61C/A;
