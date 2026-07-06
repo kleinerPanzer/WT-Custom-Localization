@@ -88,6 +88,9 @@ weapons/40mm_Kan_Strf_user_cannon;40 mm akan m/70Bc;
 40mm_slsgr_m90;slsgr m/90;
 40mm_slsgr_m484;slsgr m/484;
 
+40mm_l70_ap;AP-T;
+40mm_l70_he;HE-T;
+
 weapons/57mm_Bofors_L70_Mk_1_user_cannon;Bofors 57 mm Gun L/70 Mk. 1;
 57_438mm_ap;AP-T;
 57_438mm_he;HE-T;

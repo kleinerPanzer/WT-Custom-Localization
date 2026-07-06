@@ -128,8 +128,8 @@ modification/us_gbu_24/desc;Allows installation of GBU-24/B guided bombs.;
 modification/us_gbu_24;GBU-24;
 modification/us_gbu_24_gbu_50/desc;Allows installation of GBU-24/B and GBU-50/B guided bombs.
 modification/us_gbu_24_gbu_50;GBU-24 / GBU-50
-modification/us_egbu_24/desc;Allows installation of GBU-24E/B guided bombs.
-modification/us_egbu_24;GBU-24E
+modification/us_egbu_24/desc;Allows installation of EGBU-24/B guided bombs.
+modification/us_egbu_24;EGBU-24
 modification/us_gbu_10/desc;Allows installation of GBU-10/B guided bombs.;
 modification/us_gbu_10;GBU-10;
 modification/us_gbu_27/desc;Allows installation of GBU-27/B guided bombs.

@@ -2,57 +2,82 @@
 
 // M-Series //
 // CAL 30 //
-weapons/7_62mm_M1919A4_user_machinegun;Machine Gun, Caliber .30: Browning, M1919A4;
-weapons/7_62mm_M1919A4E1_user_machinegun;Machine Gun, Caliber .30: Browning, M1919A4E1;
+weapons/7_62mm_M1919A4_user_machinegun;Browning Machine Gun, Caliber .30, M1919A4;
+weapons/7_62mm_M1919A4E1_user_machinegun;Browning Machine Gun, Caliber .30, M1919A4E1;
+
+weapons/7_62mm_M37_user_machinegun;Machine Gun, Caliber .30: Tank, M37;
 
 weapons/7_62mm_M73_user_machinegun;Machine Gun, 7.62 mm: M73;
+weapons/7_62mm_m73_naval_user_machinegun;Machine Gun, 7.62 mm: M73;
 
 weapons/7_62mm_M60D_user_machinegun;Machine Gun, 7,62-mm: M60D;
 
 weapons/7_62mm_M240_user_machinegun;Machine Gun, 7,62-mm: M240;
 
-// CAL 50 //
-weapons/12_7mm_M2_HB_user_machinegun;Machine Gun, Caliber .50: Browning, M2, Heavy Barrel;
-weapons/12_7mm_M2_HB_user_machinegun_for_400;Machine Gun, Caliber .50: Browning, M2, Heavy Barrel
-weapons/12_7mm_m2_hb_t77e1_user_machinegun;Machine Gun, Caliber .50: Browning, M2, Heavy Barrel, Fixed;
-weapons/12_7mm_M2_HB_user_machinegun_for_M15;Machine Gun, Caliber .50: Browning, M2, Heavy Barrel, Fixed;
-weapons/12_7mm_M2_HB_user_machinegun_for_chaffee;Machine Gun, Caliber .50: Browning, M2, Heavy Barrel, Flexible;
+weapons/gunM134_Minigun;Machine Gun, 7,62-mm: M134;
+weapons/gunM134_Minigun/short;M134;
+weapons/gunM134_Minigun_ah_56;Machine Gun, 7,62-mm: M134;
+weapons/gunM134_Minigun_ah_56/short;M134
+weapons/gunM134_Minigun_default;Machine Gun, 7,62-mm: M134;
+weapons/gunM134_Minigun_default/short;M134;
 
-weapons/12_7mm_M85_user_machinegun;Machine Gun, Caliber .50, Fixed, M85;
+
+// CAL 50 //
+weapons/12_7mm_m2_hb_t77e1_user_machinegun;Browning Machine Gun, Heavy Barrel, Caliber .50, M2, HB (Fixed)
+weapons/12_7mm_M2_HB_user_machinegun_for_M15;Browning Machine Gun, Heavy Barrel, Caliber .50, M2, HB (Fixed)
+weapons/12_7mm_M2_HB_user_machinegun_for_chaffee;Browning Machine Gun, Heavy Barrel, Caliber .50, M2, HB (Flexible)
+weapons/12_7mm_m2_browning_naval_user_machinegun;Browning Machine Gun, Heavy Barrel, Caliber .50, M2, HB
+weapons/12_7mm_m2_browning_naval_user_machinegun/short;M2 HB
+weapons/12_7mm_M2_HB_user_machinegun;Machine Gun, Caliber .50: Browning, M2, Heavy Barrel;
+weapons/12_7mm_M2_HB_user_machinegun_for_400;Machine Gun, Caliber .50: Browning, M2A1, Heavy Barrel
+
+weapons/12_7mm_M85_user_machinegun;Machine Gun, Caliber .50: M85;
+
+weapons/12_7mm_M80_user_machinegun;Rifle, Caliber .50, Spotting: M8C;
+weapons/12_7mm_M80_20_user_machinegun;Rifle, Caliber .50, Spotting: M8C;
 
 // 20-MM //
 // Hispano 404 //
-weapons/cannonT31;Automatic Gun, 20-mm, T31;
-weapons/cannonM24A1;Automatic Gun, 20-mm, M24A1;
+weapons/cannonT31;Gun, 20-mm, Automatic: T31;
+weapons/cannonM24A1;Gun, 20-mm, Automatic: M24A1;
+
 // Hispano HS820 //
 weapons/20mm_m139_user_cannon;Gun, 20-mm, Automatic: M139;
 20mm_m594;HEI-T, M599
 20mm_m599;HEI-T, M599;
 20mm_m601;API-T, M601;
+
 // M39 //
 weapons/cannonT_160;Gun, 20-mm, Automatic: T160;
 weapons/cannonM39;Gun, 20-mm, Automatic: M39;
+weapons/cannonM39A1;Gun, 20-mm, Automatic: M39A1;
+weapons/cannonM39A2;Gun, 20-mm, Automatic: M39A2;
+weapons/cannonM39A2/short;M39A2;
+weapons/cannonM39A3;Gun, 20-mm, Automatic: M39A3;
+weapons/cannonM39A3/short;M39A3;
+
 // XM301 //
 weapons/cannonXM301;Gun, 20-mm, Automatic: XM301;
+
 // Vulcan //
 weapons/20mm_m61_vulcan_naval_user_cannon;Gun, 20-mm, Automatic: M61
 weapons/20mm_m61_vulcan_naval_user_cannon/short;M61
-weapons/cannonM61A1_low_rpm;Gun, 20-mm, Automatic: M61A1
-weapons/cannonM61A1_low_rpm/short;M61A1
 weapons/cannonM61;Gun, 20-mm, Automatic: M61;
 weapons/cannonM61/short;M61;
 weapons/cannonM61A1;Gun, 20-mm, Automatic: M61A1;
 weapons/cannonM61A1/short;M61A1;
-weapons/cannonM61A2;Gun, 20-mm, Automatic: M61A2
-weapons/cannonM61A2/short;M61A2
+weapons/cannonM61A1_low_rpm;Gun, 20-mm, Automatic: M61A1
+weapons/cannonM61A1_low_rpm/short;M61A1
 weapons/cannonM61A1_default;Gun, 20-mm, Automatic: M61A1;
 weapons/cannonM61A1_default/short;M61A1;
 weapons/cannonM61A1_pgu_28;Gun, 20-mm, Automatic: M61A1;
 weapons/cannonM61A1_pgu_28/short;M61A1;
 weapons/cannonM61A1_pgu_28_f15;Gun, 20-mm, Automatic: M61A1;
 weapons/cannonM61A1_pgu_28_f15/short;M61A1
+weapons/cannonM61A2;Gun, 20-mm, Automatic: M61A2
+weapons/cannonM61A2/short;M61A2
 
-weapons/20mm_M168_user_cannon;Cannon, 20-mm Gun: M168;
+weapons/20mm_M168_user_cannon;Gun, 20-mm, Automatic: M168;
 20mm_m52a1;API-T, M52A1;
 20mm_m53;API, M53;
 20mm_m56a3;HEI, M56A3;
@@ -63,94 +88,71 @@ weapons/cannonM195;Gun, 20-mm, Automatic: M195;
 
 weapons/cannonM197;Gun, 20-mm, Automatic: M197;
 weapons/cannonM197_external;Gun, 20-mm, Automatic: M197;
-
-// AN/M-Series //
-// CAL 30 //
-weapons/gunBrowning30_usaaf;Machine Gun, Caliber .30: AN/M2, Aircraft, Basic;
-weapons/gunBrowning30_usaaf_1935;Machine Gun, Caliber .30: AN/M2, Aircraft, Basic;
-weapons/gunBrowning30_turret;Machine Gun, Caliber .30: AN/M2, Aircraft, Basic;
-
-// CAL 50 //
-weapons/gunBrowning50_early;Machine Gun, Caliber .50: AN/M2, Aircraft, Basic;
-weapons/gunBrowning50_early_1935;Machine Gun, Caliber .50: AN/M2, Aircraft, Basic;
-weapons/gunBrowning50_M2;Machine Gun, Caliber .50: AN/M2, Aircraft, Basic;
-weapons/gunBrowning50_M2_late;Machine Gun, Caliber .50: AN/M2, Aircraft, Basic;
-weapons/gunBrowning50_M2_underwing;Machine Gun, Caliber .50: AN/M2, Aircraft, Basic;
-weapons/gunBrowning50;Machine Gun, Caliber .50: AN/M2, Aircraft, Basic;
-weapons/gunBrowning50_usaaf;Browning Machine Gun, Caliber .50, AN/M2 (Aircraft);
-weapons/gunBrowning50_turret;Browning Machine Gun, Caliber .50, AN/M2 (Aircraft);
-weapons/gunBrowning50_turret_late;Browning Machine Gun, Caliber .50, AN/M2 (Aircraft);
-
-weapons/gunBrowning50_M3;Machine Gun, Caliber .50: AN/M3, Aircraft, Basic;
-weapons/gunBrowning50_M3_underwing;Machine Gun, Caliber .50: AN/M3, Aircraft, Basic;
-
-// 20-MM //
-weapons/cannonAN_M2;Gun, 20-mm, Automatic: AN/M2 (Aircraft);
-
-weapons/cannonAN_M3;Gun, 20-mm, Automatic: AN/M3 (Aircraft);
-
-// 37-MM //
-
-// GAU-Series //
-
-
-// Other/Export //
-
-// 20-MM //
-
-
-
-weapons/cannonGAU4;Gun, Automatic, 20-mm: GAU-4/A;
-weapons/cannonGAU4/short;GAU-4/A;
-weapons/cannonGAU4_default;Gun, Automatic, 20-mm: GAU-4/A;
-weapons/cannonGAU4_default/short;GAU-4/A;
+20mm_Vulcan_HEI/name;HEI, M56A3;
+20mm_Vulcan_HEI/name/short;M56A3;
+20mm_Vulcan_API/name;API, M53;
+20mm_Vulcan_API/name/short;M53;
 
 // 25-MM //
 weapons/25mm_LW25_user_cannon;Lightweight 25 mm Bushmaster Chain Gun;
+25mm_hedp;HEDP
+
 weapons/25mm_M242_user_cannon;Gun, 25-mm, Automatic: M242;
-weapons/25mm_M242_desert_warrior_user_cannon;25 mm Bushmaster Chain Gun;
+weapons/25mm_M242_desert_warrior_user_cannon;25 mm M242 Bushmaster Chain Gun
 weapons/25mm_M242_HR_user_cannon;Gun, 25-mm, Automatic: M242;
 25mm_m792;HEI-T, M792;
 25mm_m791;APDS-T, M791;
-
+25mm_m919;APFSDS-T, M919;
 
 // 30-MM //
+
+weapons/30mm_xm_813_user_cannon;Gun, 30-mm, Automatic: XM813
+30mm_m928;APFSDS-T, M928;
+
 weapons/cannonXM140;Gun, 30-mm, Automatic: XM140;
-weapons/cannonGAU_13A;Gun, Automatic, 30-mm: GAU-13/A;
-weapons/cannonGAU_13A/short;GAU-13/A;
 
+weapons/cannonM230E1;Gun, 30-mm, Automatic: M230E1;
+weapons/cannonM230E1/short;M230E1;
 
-// 35-MM //
 
 // 37-MM //
-weapons/cannonM4;Gun, 37-mm, Automatic: AN/M4 (Aircraft);
-weapons/cannonM9;Gun, 37-mm, Automatic: AN/M9;
-weapons/cannonM10;Gun, 37-mm, Automatic: M10 (Aircraft);
 weapons/37mm_M1A2_user_cannon;Gun, Automatic, 37-mm, M1A2;
+weapons/cannonM9;Gun, Automatic, 37-mm, M9, Aircraft
+weapons/cannonM10;Gun, Automatic, 37-mm, M10, Aircraft
+37mm_m59a1;APC-T, M59A1;
+37mm_m54;HE-T, SD, M54;
+37mm_m80;AP-T, M80;
+
+weapons/37mm_M3_user_cannon;Gun, 37-mm, M3;
+weapons/37mm_M3_user_cannon_for_M6A1;Gun, 37-mm, M3;
+weapons/37mm_M5_user_cannon_for_M3_Lee;Gun, 37-mm, M5;
 weapons/37mm_M5_early_user_cannon;Gun, 37-mm, M5;
 weapons/37mm_M5_user_cannon;Gun, 37-mm, M5;
 weapons/37mm_M6_user_cannon;Gun, 37-mm, M6;
-weapons/37mm_M3_user_cannon;Gun, 37-mm, M3;
-weapons/37mm_M5_user_cannon_for_M3_Lee;Gun, 37-mm, M5;
-weapons/37mm_M3_user_cannon_for_M6A1;Gun, 37-mm, M3;
-37mm_m74;AP-T, M74;
-37mm_m59a1;APC-T, M59A1;
-37mm_m54;HE-T, SD, M54;
 37mm_m74b1;AP-T, M74;
 37mm_m51b1b2;APC-T, M51B1;
 37mm_m51b1;APC-T, M51B1;
 37mm_m63;HE, M63;
+37mm_m74;AP-T, M74;
+
 
 // 40-MM //
 weapons/40mm_M2_user_cannon;Gun, Automatic, 40-mm, M1;
 40mm_M81A1;AP, M81A1;
-40mm_l70_ap;AP-T;
-40mm_l70_he;HE-T;
-weapons/40mm_L70_Bofors_mk3_user_cannon;Cannon, 40-mm Gun, M266;
+40mm_M81_AP;AP-T, M81;
+
+weapons/40mm_L70_Bofors_mk3_user_cannon;Gun, 40-mm, Automatic: M266;
 weapons/40mm_M266_user_cannon;Gun, 40-mm, Automatic: M266;
 40mm_m811;SAPHEI;
 40mm_m811_fuze_delay;HEI, M811;
 40mm_m822;HE, M822 (M766);
+
+weapons/grenade_launcher_M75;Launcher, Grenade: 40-mm, M75;
+weapons/grenade_launcher_M75/short;M75;
+
+weapons/grenade_launcher_M129;Launcher, Grenade: 40-mm, M129;
+weapons/grenade_launcher_M129/short;M129;
+
 
 // 57-MM //
 weapons/57mm_M1_user_cannon;Gun, 57-mm, M1;
@@ -160,63 +162,73 @@ weapons/57mm_M1_open_turret_user_cannon;Gun, 57-mm, M1;
 
 // 75-MM //
 
-weapons/cannonT15E1;Gun, 75-mm, T15E1;
 weapons/75mm_m1897a4_user_cannon;Gun, 75-mm, M1897A4;
-weapons/75mm_M32_user_cannon;Gun, 75-mm, M32;
 weapons/75mm_M2_user_cannon;Gun, 75-mm, M2;
-weapons/75mm_M6_user_cannon;Gun, 75-mm, M6;
 weapons/75mm_m3_user_cannon;Gun, 75-mm, M3;
 weapons/75mm_m3_open_turret_user_cannon;Gun, 75-mm, M3;
 weapons/75mm_QQF_MkV_NA75_user_cannon;Gun, 75-mm, M3;
+weapons/cannonM4_75mm;Gun, 75-mm, M4;
+weapons/cannonM5;Gun, 75-mm, M5;
+weapons/75mm_M6_user_cannon;Gun, 75-mm, M6;
+weapons/cannonT13E1;Gun, 75-mm, T13E1;
+weapons/cannonT15E1;Gun, 75-mm, T15E1;
 75mm_m48;HE, M48;
 75mm_t45;HVAP, T45;
 75mm_m61;APC-T, M61;
 75mm_m61_solid;APC-T, M61;
 75mm_m72;AP, M72;
-weapons/cannonM4_75mm;Gun, 75-mm, M4;
-weapons/cannonM5;Gun, 75-mm, M5;
-weapons/cannonT13E1;Gun, 75-mm, T13E1;
+75mm_m89;Smoke WP, M89;
+
+
+weapons/75mm_M2_howitzer_user_cannon;Howitzer, 75-mm, M2;
+75mm_m66;HEAT-T, M66;
+75mm_m64;Smoke WP, M64;
+
+weapons/75mm_XM274_Ares_user_cannon;Cannon, 75-mm Gun: XM274;
+75mm_xm885;APFSDS-T, XM885;
+75mm_xm884;HEFS, XM884;
 
 // 76-MM //
-weapons/76mm_M7_for_M10_user_cannon;Gun, 3-in, M7;
 weapons/76mm_M7_user_cannon;Gun, 3-in, M7;
-weapons/76mm_M1_user_cannon;Gun, 76-mm, M1A1C;
-weapons/76mm_M1_open_turret_user_cannon;Gun, 76-mm, M1A1C;
+weapons/76mm_M7_for_M10_user_cannon;Gun, 3-in, M7;
+
+weapons/76mm_M1A1_user_cannon;Gun, 76-mm, M1A1;
 weapons/76mm_M1_no_MB_user_cannon;Gun, 76-mm, M1A1;
 weapons/76mm_M1_open_turret_no_MB_user_cannon;Gun, 76-mm, M1A1;
-weapons/76mm_M1A1_user_cannon;Gun, 76-mm, M1A1;
+weapons/76mm_M1_user_cannon;Gun, 76-mm, M1A1C;
+weapons/76mm_M1_open_turret_user_cannon;Gun, 76-mm, M1A1C;
 weapons/76mm_M1A2_user_cannon;Gun, 76-mm, M1A2;
+76mm_m93;HVAP, M93;
+76mm_m79;AP-T, M79;
+76mm_m62;APC, M62A1;
+76mm_m42a1;HE, M42A1;
+75mm_m88;Smoke WP, M88;
+
 weapons/76mm_T185E1_user_cannon;Gun, 76-mm, T185E1;
-weapons/76mm_M32_user_cannon;Gun, 76-mm, M32A1;
+weapons/75mm_M32_user_cannon;Cannon, 76-mm Gun: M32;
+weapons/76mm_M32_user_cannon;Cannon, 76-mm Gun: M32A1;
 76mm_m352;HE, M352;
 76mm_m496;HEAT-T, M496;
 76mm_m331a2;HVAP-DS-T, M331A2;
 76mm_m319;HVAP-T, M319;
 76mm_m339;AP-T, M339;
-76mm_m93;HVAP, M93;
-76mm_m79;AP-T, M79;
-76mm_m62;APC, M62A1;
-76mm_m42a1;HE, M42A1;
 76mm_m464;APFSDS-T, M464;
+75mm_m361;Smoke WP, M361;
 
 // 81-MM //
+81mm_he_m43a1;HE, M43A1;
 
 // 90-MM //
-weapons/90mm_T54_user_cannon;Gun, 90-mm, T54;
-weapons/90mm_T15E2_user_cannon;Gun, 90-mm, T15E2;
-weapons/90mm_T15E1_user_cannon;Gun, 90-mm, T15E1;
-weapons/90mm_M3_user_cannon;Gun, 90-mm, M3;
+
 weapons/90mm_T7_user_cannon;Gun, 90-mm, T7;
+weapons/90mm_M3_user_cannon;Gun, 90-mm, M3;
 weapons/90mm_M3_open_turret_user_cannon;Gun, 90-mm, M3;
 weapons/90mm_M3_M36B2_user_cannon;Gun, 90-mm, M3A1;
 weapons/90mm_M3_without_MB_user_cannon;Gun, 90-mm, M3;
 weapons/90mm_M3_open_turret_without_MB_user_cannon;Gun, 90-mm, M3;
 weapons/90mm_M3A1_user_cannon;Gun, 90-mm, M3A1;
-weapons/90mm_M36_user_cannon;Gun, 90-mm, M36;
 90mm_m304;HVAP-T, M304;
 90mm_m318;AP-T, M318;
-90mm_m332a1;HVAP-T, M332A1;
-90mm_m332;HVAP-T, M332;
 90mm_m71;HE-T, M71;
 90mm_m77_da90_50;AP-T, M77;
 90mm_m71_da90_50;HE-T, M71;
@@ -225,110 +237,99 @@ weapons/90mm_M36_user_cannon;Gun, 90-mm, M36;
 90mm_m332_da90_50;HVAP-T, M332;
 90mm_t108_da90_50;HEAT, T108;
 90mm_m313_da90_50;Smoke WP, M313;
-90mm_t142e3;HEP-T, T142E3;
 90mm_m77;AP-T, M77;
 90mm_m82;APC-T, M82;
-90mm_t41;APC-T, T41;
-90mm_m431;HEAT-T, M431;
+90mm_m313;Smoke WP, M313;
+90mm_m332;HVAP-T, M332;
+90mm_m332a1;HVAP-T, M332A1;
 90mm_t108;HEAT, T108;
 90mm_m348;HEAT, M348;
-90mm_t33;AP-T, T33E7;
 90mm_m71a1;HE-T, M71A1;
+90mm_t33;AP-T, T33E7;
+
+weapons/90mm_M36_user_cannon;Cannon, 90-mm Gun: M36;
+weapons/90mm_M41_user_cannon;Cannon, 90-mm Gun: M41;
+weapons/90mm_M54_user_cannon;Cannon, 90-mm Gun: M54;
+90mm_t142e3;HEP-T, T142E3;
+90mm_m431;HEAT-T, M431;
 90mm_m318a1;AP-T, M318A1;
-90mm_ap_shot;AP;
-90mm_he_shell;HE;
-90mm_hvap_shot;HVAP;
+
+weapons/90mm_T15E1_user_cannon;Gun, 90-mm, T15E1;
+weapons/90mm_T15E2_user_cannon;Gun, 90-mm, T15E2;
+weapons/90mm_T54_user_cannon;Gun, 90-mm, T54;
+90mm_t41;APC-T, T41;
 90mm_t42;HE, T42;
 90mm_t43;AP-T, T43;
 90mm_t44;HVAP-T, T44;
-weapons/90mm_M41_user_cannon;Cannon, 90-mm Gun: M41;
-weapons/90mm_M54_user_cannon;Cannon, 90-mm Gun: M54;
+90mm_ap_shot;AP;
+90mm_he_shell;HE;
+90mm_hvap_shot;HVAP;
+
+weapons/90mm_T208E9_user_cannon;Gun, 90-mm, T208E9;
+90mm_t320;APFSDS-T, T320;
+90mm_t340e14h;HE, T340E14H;
+90mm_t339e14;Smoke WP, T339E14;
 
 // 105-MM //
 weapons/105mm_M4_user_cannon;Howitzer, 105-mm, M4;
-weapons/105mm_M68A1_E8_user_cannon;Cannon, 105-mm Gun: M68A1E8;
-weapons/105mm_M68A1_AGS_user_cannon;Cannon, 105-mm Gun: M68A1
-105mm_m900;APFSDS-T, M900;
-weapons/105mm_M68_XM_user_cannon;Cannon, 105-mm Gun: M68;
-weapons/105mm_M68_user_cannon;Cannon, 105-mm Gun: M68;
-weapons/105mm_M68_TTS_user_cannon;Cannon, 105-mm Gun: M68;
-weapons/105mm_T15E2_user_cannon;Gun, 105-mm, T5E1;
-weapons/105mm_M68A1_user_cannon;Cannon, 105-mm Gun: M68A1;
-weapons/105mm_M68A1_IP_user_cannon;Cannon, 105-mm Gun: M68A1;
-weapons/105mm_m35_user_cannon;Cannon, 105-mm Gun: M35
 105mm_m1;HE, M1;
 105mm_m67;HEAT, M67;
+105mm_m84;Smoke WP, M84;
+
+weapons/105mm_T15E2_user_cannon;Gun, 105-mm, T5E1;
+weapons/105mm_T5E2_user_cannon;Gun, 105-mm, T5E1;
+105mm_t13;T13;
 105mm_t29e3;HVAP-T, T29E3;
 105mm_t30e1;HE-T, T30E1;
 105mm_t32;APC-T, T32;
-105mm_m392a2;APDS-T, M392A2;
-105mm_m393a2;HEP-T, M393A2;
-105mm_m393a3;HEP-T, M393A3;
-105mm_m456;HEAT-T, M456;
-weapons/105mm_T5E2_user_cannon;Gun, 105-mm, T5E1;
 weapons/105mm_T140_user_cannon;Gun, 105-mm, T140E2;
 weapons/105mm_t140e3_user_cannon;Gun, 105-mm, T140E3;
-105mm_t13;T13;
-weapons/105mm_M68_M60A1_user_cannon;Cannon, 105-mm Gun: M68;
-105mm_m728;APDS-T, M728;
-weapons/105mm_M68_Magach_user_cannon;Cannon, 105-mm Gun: M68;
 105mm_t298e1;HEAT-T, T298E1;
 105mm_t182e1;APC-T, T182E1;
 105mm_t279;HVAPDS-T, T279;
 
+weapons/105mm_M68_user_cannon;Cannon, 105-mm Gun: M68;
+weapons/105mm_M68_XM_user_cannon;Cannon, 105-mm Gun: M68;
+weapons/105mm_M68_TTS_user_cannon;Cannon, 105-mm Gun: M68;
+weapons/105mm_M68_M60A1_user_cannon;Cannon, 105-mm Gun: M68;
+weapons/105mm_M68_Magach_user_cannon;Cannon, 105-mm Gun: M68;
+weapons/105mm_M68A1_user_cannon;Cannon, 105-mm Gun: M68A1;
+weapons/105mm_M68A1_IP_user_cannon;Cannon, 105-mm Gun: M68A1;
+weapons/105mm_M68A1_AGS_user_cannon;Cannon, 105-mm Gun: M68A1
+weapons/105mm_M68A1_E8_user_cannon;Cannon, 105-mm Gun: M68A1E8;
+weapons/105mm_XM_35_user_cannon;Cannon, 105-mm Gun: XM35;
+weapons/105mm_m35_user_cannon;Cannon, 105-mm Gun: M35
+105mm_m392a2;APDS-T, M392A2;
+105mm_m728;APDS-T, M728;
+105mm_m735;APFSDS-T, M735;
+105mm_m774;APFSDS-T, M774;
+105mm_m833;APFSDS-T, M833;
+105mm_m900;APFSDS-T, M900;
+105mm_m393a2;HEP-T, M393A2;
+105mm_m393a3;HEP-T, M393A3;
+105mm_m456;HEAT-T, M456;
+105mm_m456a2;HEAT-T-MP, M456A2;
+105mm_m416;Smoke WP-T, M416;
+
+// 106-MM //
+weapons/106mm_M40_RR_user_cannon;Rifle, Recoilless, 106 mm, M40;
+weapons/106mm_M40A1C_T114_user_cannon;Rifle, Recoilless, 106-mm: M40A1C;
+weapons/106mm_M40A1C_user_cannon;Rifle, Recoilless, 106-mm: M40A1C;
+106mm_m344a1;HEAT, M344A1;
+106mm_m361a1;HEP, M361A1;
+
 // 120-MM //
-weapons/120mm_M58_user_cannon;Gun, 120-mm, M58;
+weapons/120mm_T53_user_cannon;Gun, 120-mm, T53;
+weapons/120mm_M58_user_cannon;Cannon, 120-mm Gun: M58;
 120mm_m469;HEAT-T, M469;
 120mm_m358;AP-T, M358;
 120mm_m356;HE-T, M356;
+120mm_t14e3;APC-T, T14E3;
+120mm_t17e1;HVAP-T, T17E1;
+120mm_t20e3;Test Shot, T20E3;
+120mm_m73;HE, M73;
+120mm_m357;Smoke WP-T, M357;
 
-// 152-MM //
-
-weapons/152mm_M81_user_cannon;Cannon, 152 mm Gun/Launcher: M81E1;
-weapons/152mm_m81_naval_user_cannon;Cannon, 152 mm Gun/Launcher: M81;
-152mm_m409a1;HEAT-T-MP, M409A1;
-152mm_m657a2;HE-T, M657A2;
-
-// 155-MM //
-155mm_m107_pf;HE, M107 (PF);
-
-// 165-MM //
-
-// 203-MM //
-
-// OTHER //
-weapons/zippo_flamethrower;Flame Thrower, Mechanized, Main Armament: APC-Mounted, M10-8;
-
-
-weapons/gunGAU_19;Gun, Automatic, 7.62-mm: GAU-19/A;
-weapons/gunGAU_19/short;GAU-19/A;
-weapons/cannonGAU_12U;Gun, Automatic, 25-mm: GAU-12/U;
-weapons/cannonGAU_12U/short;GAU-12/U;
-weapons/cannonGAU_8A;Gun, Automatic, 30-mm: GAU-8/A;
-weapons/cannonGAU_8A/short;GAU-8/A;
-weapons/grenade_launcher_M129;Launcher, Grenade: 40-mm, M129;
-weapons/grenade_launcher_M129/short;M129;
-weapons/gunM134_Minigun;7.62 mm Machine Gun, High-Rate, M134;
-weapons/gunM134_Minigun/short;M134;
-weapons/gunM134_Minigun_ah_56;7.62 mm Machine Gun, High-Rate, M134;
-weapons/gunM134_Minigun_ah_56/short;M134
-weapons/gunM134_Minigun_default;7.62 mm Machine Gun, High-Rate, M134;
-weapons/gunM134_Minigun_default/short;M134;
-weapons/grenade_launcher_M75;Launcher, Grenade: 40-mm, M75;
-weapons/grenade_launcher_M75/short;M75;
-weapons/cannonM39A1;Gun, 20-mm, Automatic: M39A1;
-weapons/cannonM39A2;Gun, 20-mm, Automatic: M39A2;
-weapons/cannonM39A3;Gun, 20-mm, Automatic: M39A3;
-weapons/cannonM39A2/short;M39A2;
-weapons/cannonM39A3/short;M39A3;
-weapons/cannonM230E1;30 mm Chain Gun, M230E-1;
-weapons/cannonM230E1/short;M230E-1;
-weapons/25mm_GAU_12U_Equalizer_user_cannon;Gun, Automatic, 25-mm: GAU-12/U;
-weapons/25mm_GAU_12U_user_cannon;Gun, Automatic, 25-mm: GAU-12/U;
-25mm_pgu_25_u;PGU-25/U;
-25mm_pgu_20_u;PGU-20/U;
-25mm_pgu_32;PGU-32/U;
-weapons/105mm_XM_35_user_cannon;Cannon, 105-mm Gun: XM35;
 weapons/120mm_M256_user_cannon;Cannon, 120-mm Gun: M256;
 weapons/120mm_M256_M1A2_user_cannon;Cannon, 120-mm Gun: M256;
 weapons/120mm_M256_KE_W_user_cannon;Cannon, 120-mm Gun: M256;
@@ -344,73 +345,101 @@ weapons/120mm_M256_M1A3_user_cannon;Cannon, 120-mm Gun: M256
 120mm_m829a2;APFSDS-T, M829A2;
 120mm_m829a3;APFSDS-T, M829A3;
 120mm_xm1147;HE-MP-T, M1147 AMP
-weapons/165mm_M135_user_cannon;Cannon, 165-mm Gun: M135;
-165mm_m123;HEP, M123E1;
-weapons/75mm_XM274_Ares_user_cannon;Cannon, 75-mm Gun: XM274;
-75mm_xm885;APFSDS-T, XM885;
-75mm_xm884;HEFS, XM884;
-25mm_m919;APFSDS-T, M919;
-30mm_m928;APFSDS-T, M928;
-weapons/35mm_bushmaster_3_user_cannon;35 mm Bushmaster III Chain Gun;
-105mm_m735;APFSDS-T, M735;
-105mm_m456a2;HEAT-T-MP, M456A2;
-105mm_m774;APFSDS-T, M774;
-105mm_m833;APFSDS-T, M833;
-weapons/152mm_XM150E5_KPz_user_cannon;Cannon, 152 mm Gun/Launcher: XM150E5;
-weapons/152mm_XM150E5_user_cannon;Cannon, 152 mm Gun/Launcher: XM150E5;
-weapons/152mm_XM150E6_user_cannon;Cannon, 152 mm Gun/Launcher: XM150E6;
+
+// 152-MM //
+weapons/152mm_m81_naval_user_cannon;Cannon, 152-mm Gun/Launcher: M81;
+weapons/152mm_M81_user_cannon;Cannon, 152-mm Gun/Launcher: M81E1;
+152mm_m409a1;HEAT-T-MP, M409A1;
+152mm_m657a2;HE-T, M657A2;
+weapons/152mm_XM150E5_KPz_user_cannon;Cannon, 152-mm Gun/Launcher: XM150E5;
+weapons/152mm_XM150E5_user_cannon;Cannon, 152-mm Gun/Launcher: XM150E5;
+weapons/152mm_XM150E6_user_cannon;Cannon, 152-mm Gun/Launcher: XM150E6;
 152mm_xm410e1;Smoke WP, XM410E1;
 152mm_xm578e1;APFSDS-T, XM578E1;
-weapons/106mm_M40A1C_T114_user_cannon;Rifle, Recoilless, 106-mm: M40A1C;
-weapons/106mm_M40A1C_user_cannon;Rifle, Recoilless, 106-mm: M40A1C;
-40mm_M81_AP;AP-T, M81;
-81mm_he_m43a1;HE, M43A1;
-106mm_m344a1;HEAT, M344A1;
-106mm_m361a1;HEP, M361A1;
-20mm_Vulcan_HEI/name;HEI, M56A3;
-20mm_Vulcan_HEI/name/short;M56A3;
-20mm_Vulcan_API/name;API, M53;
-20mm_Vulcan_API/name/short;M53;
-weapons/37mm_56_an_m4_naval_user_cannon;37 mm/56 Caliber Gun AN/M4;
-37mm_m80;AP-T, M80;
-weapons/12_7mm_m2_browning_naval_user_machinegun;0.50”/90 Caliber Gun AN/M2;
-weapons/12_7mm_m2_browning_naval_user_machinegun/short;0.50”/90 Caliber Gun AN/M2;
-weapons/12_7mm_M80_user_machinegun;Rifle, Caliber .50, Spotting: M8C;
-weapons/12_7mm_M80_20_user_machinegun;Rifle, Caliber .50, Spotting: M8C;
-weapons/75mm_M2_howitzer_user_cannon;Howitzer, 75-mm, M2;
-75mm_m66;HEAT-T, M66;
-120mm_t14e3;APC-T, T14E3;
-120mm_t17e1;HVAP-T, T17E1;
-weapons/155mm_M185_user_cannon;Howitzer, 155-mm, M185;
-weapons/155mm_m45_user_cannon;Howitzer, 155-mm, M45;
-weapons/155mm_m126_user_cannon;Howitzer, 155-mm, M126;
+weapons/152mm_M162_user_cannon;Cannon, 152-mm Gun/Launcher: M162;
+
+// 155-MM //
+weapons/155mm_m45_user_cannon;Cannon, 155-mm Howitzer: M45;
+weapons/155mm_m126_user_cannon;Cannon, 155-mm Howitzer: M126;
+weapons/155mm_M185_user_cannon;Cannon, 155-mm Howitzer: M185;
 weapons/155mm_T7_user_cannon;Gun, 155-mm, T7;
-weapons/203mm_m47_user_cannon;Howitzer, 8-in, M47
 weapons/155mm_t180_user_cannon;Gun, 155-mm, T180
 155mm_m107;HE, M107;
 155mm_t152;HEP, T152E5
 155_mm_t267;HEAT, T267
-203mm_m106;HE, M106
 155mm_m110;Smoke WP, M110;
 155mm_m112b1;AP, M112B1;
 155mm_t29e1;APC, T29E1;
-weapons/120mm_T53_user_cannon;Gun, 120-mm, T53;
-120mm_t20e3;Test Shot, T20E3;
-120mm_m73;HE, M73;
-weapons/106mm_M40_RR_user_cannon;Rifle, Recoilless, 106 mm, M40;
-weapons/7_62mm_M37_user_machinegun;Machine Gun, Caliber .30: Tank, M37;
-weapons/90mm_T208E9_user_cannon;Gun, 90-mm, T208E9;
-90mm_t320;APFSDS-T, T320;
-90mm_t340e14h;HE, T340E14H;
-90mm_t339e14;Smoke WP, T339E14;
-75mm_m89;Smoke WP, M89;
-75mm_m88;Smoke WP, M88;
-75mm_m64;Smoke WP, M64;
-75mm_m361;Smoke WP, M361;
-90mm_m313;Smoke WP, M313;
-105mm_m84;Smoke WP, M84;
-105mm_m416;Smoke WP-T, M416;
-120mm_m357;Smoke WP-T, M357;
-weapons/152mm_M162_user_cannon;Cannon, 152 mm Gun/Launcher: M162;
-weapons/7_62mm_m73_naval_user_machinegun;Machine Gun, 7.62 mm: M73;
-25mm_hedp;HEDP
+155mm_m107_pf;HE, M107 (PF);
+
+// 165-MM //
+weapons/165mm_M135_user_cannon;Cannon, 165-mm Gun: M135;
+165mm_m123;HEP, M123E1;
+
+// 203-MM //
+weapons/203mm_m47_user_cannon;Cannon, 8-in Howitzer: M47
+203mm_m106;HE, M106
+
+
+
+// AN/M-Series //
+// CAL 30 //
+weapons/gunBrowning30_usaaf;Browning Machine Gun, Caliber .30, AN/M2, Aircraft, Basic
+weapons/gunBrowning30_usaaf_1935;Browning Machine Gun, Caliber .30, AN/M2, Aircraft, Basic
+weapons/gunBrowning30_turret;Browning Machine Gun, Caliber .30, AN/M2, Aircraft, Basic
+
+// CAL 50 //
+weapons/gunBrowning50_early;Browning Machine Gun, Caliber .50, AN/M2, Aircraft, Basic
+weapons/gunBrowning50_early_1935;Browning Machine Gun, Caliber .50, AN/M2, Aircraft, Basic
+weapons/gunBrowning50_M2;Browning Machine Gun, Caliber .50, AN/M2, Aircraft, Basic
+weapons/gunBrowning50_M2_late;Browning Machine Gun, Caliber .50, AN/M2, Aircraft, Basic
+weapons/gunBrowning50_M2_underwing;Browning Machine Gun, Caliber .50, AN/M2, Aircraft, Basic
+weapons/gunBrowning50;Browning Machine Gun, Caliber .50, AN/M2, Aircraft, Basic
+weapons/gunBrowning50_usaaf;Browning Machine Gun, Caliber .50, AN/M2, Aircraft, Basic
+weapons/gunBrowning50_turret;Browning Machine Gun, Caliber .50, AN/M2, Aircraft, Basic
+weapons/gunBrowning50_turret_late;Browning Machine Gun, Caliber .50, AN/M2, Aircraft, Basic
+
+weapons/gunBrowning50_M3;Machine Gun, Caliber .50: AN/M3, Aircraft, Basic;
+weapons/gunBrowning50_M3_underwing;Machine Gun, Caliber .50: AN/M3, Aircraft, Basic;
+
+// 20-MM //
+weapons/cannonAN_M2;Gun, Automatic, 20-mm, AN/M2, Aircraft
+
+weapons/cannonAN_M3;Gun, Automatic, 20-mm, AN/M3, Aircraft
+
+// 37-MM //
+weapons/cannonM4;Gun, Automatic, 37-mm, AN/M4, Aircraft
+weapons/37mm_56_an_m4_naval_user_cannon;Gun, Automatic, 37-mm, AN/M4, Aircraft
+
+// GAU-Series //
+// 7.62-MM //
+weapons/gunGAU_19;Gun, Automatic, 7.62-mm: GAU-19/A;
+weapons/gunGAU_19/short;GAU-19/A;
+
+// 20-MM //
+weapons/cannonGAU4;Gun, Automatic, 20-mm: GAU-4/A;
+weapons/cannonGAU4/short;GAU-4/A;
+weapons/cannonGAU4_default;Gun, Automatic, 20-mm: GAU-4/A;
+weapons/cannonGAU4_default/short;GAU-4/A;
+
+// 25-MM //
+weapons/cannonGAU_12U;Gun, Automatic, 25-mm: GAU-12/U;
+weapons/cannonGAU_12U/short;GAU-12/U;
+weapons/25mm_GAU_12U_Equalizer_user_cannon;Gun, Automatic, 25-mm: GAU-12/U;
+weapons/25mm_GAU_12U_user_cannon;Gun, Automatic, 25-mm: GAU-12/U;
+25mm_pgu_25_u;PGU-25/U;
+25mm_pgu_20_u;PGU-20/U;
+25mm_pgu_32;PGU-32/U;
+
+// 30-MM //
+weapons/cannonGAU_8A;Gun, Automatic, 30-mm: GAU-8/A;
+weapons/cannonGAU_8A/short;GAU-8/A;
+weapons/cannonGAU_13A;Gun, Automatic, 30-mm: GAU-13/A;
+weapons/cannonGAU_13A/short;GAU-13/A;
+
+
+// OTHER //
+weapons/zippo_flamethrower;Flame Thrower, Mechanized, Main Armament: APC-Mounted, M10-8;
+
+// EXPORT //
+weapons/35mm_bushmaster_3_user_cannon;35 mm Bushmaster III Chain Gun;

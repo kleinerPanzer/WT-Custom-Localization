@@ -2,8 +2,7 @@
 
 // VEHICLE MODS //
 modification/type_86_turret_improvement;AFT07E & DTF85
-modification/type_86_turret_improvement/desc;Upgrading ZBD86 by installing AFT07E missiles and DTF85 smoke grenade launchers.
-
+modification/type_86_turret_improvement/desc;Allows installation of AFT07E missiles, DTF85 smoke grenade launchers, and improved traverse motor.
 
 // BOMBS //
 modification/cn_q5_type_100/desc;Allows installation of {unlockWeapons} bombs.
