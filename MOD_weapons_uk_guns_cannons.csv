@@ -2,116 +2,123 @@
 
 // OLD SYSTEM //
 
-weapons/gunBrowning303;.303” Machine Gun, Browning Mk. II;
-weapons/gunBrowning303_turret;.303” Machine Gun, Browning Mk. II;
-weapons/gunBrowning303_raf;.303” Machine Gun, Browning Mk. II;
-weapons/gunBrowning50_raf;.50” Machine Gun, Browning M2;
-weapons/gunBrowning50_raf_tutorial;.50” Machine Gun, Browning M2;
-weapons/gunBrowning50_raf_tutorial/short;Browning M2;
-weapons/gunBrowning50_raf_turret;.50” Machine Gun, Browning M2;
-weapons/cannonHispanoMkI;20 mm Hispano-Suiza Mk. I;
-weapons/cannonHispano404;20 mm Hispano-Suiza Tipo 404;
-weapons/cannonHispano404_turret;20 mm Hispano-Suiza Tipo 404;
-weapons/cannonHispanoMkII;20 mm Hispano-Suiza Mk. II;
-weapons/cannonHispanoMkII_tutorial;20 mm Hispano-Suiza Mk. II;
-weapons/cannonHispanoMkII_tutorial/short;Mk. II;
-weapons/cannonHispanoMkV;20 mm Hispano-Suiza Mk. V;
-weapons/cannonHispanoMkV_turret;20 mm Hispano-Suiza Mk. V;
-weapons/cannonVickers_S;40 mm Gun, Vickers S;
-weapons/cannonVickers_S_underwing;40 mm Gun, Vickers S;
-weapons/cannonVickers_P;47 mm Gun, Vickers P;
-weapons/gunVikkersMkI;Machine Gun, .303”, Vickers Mk. I
-weapons/cannonRollsRoyceBH;40 mm Rolls-Royce BH;
-weapons/gunVikkersK;Machine Gun, .303”, Vickers, GO, No. 2, Mk. I;
-weapons/gunVikkersK_turret;Machine Gun, .303”, Vickers, GO, No. 2, Mk. I;
-weapons/gunVikkersE;Machine Gun, .303”, Vickers E;
-weapons/gunLewis;.303” Machine Gun, Lewis Mk. III;
-weapons/gunLewis_turret;.303” Machine Gun, Lewis Mk. III;
+weapons/gunBrowning303;Gun, Machine, Browning, .303-inch, Mk. II
+weapons/gunBrowning303_turret;Gun, Machine, Browning, .303-inch, Mk. II
+weapons/gunBrowning303_raf;Gun, Machine, Browning, .303-inch, Mk. II
+weapons/gunBrowning50_raf;Gun, Machine, Browning, Calibre .50, AN/M2
+weapons/gunBrowning50_raf_tutorial;Gun, Machine, Browning, Calibre .50, AN/M2
+weapons/gunBrowning50_raf_tutorial/short;AN/M2
+weapons/gunBrowning50_raf_turret;Gun, Machine, Browning, Calibre .50, AN/M2
 
-weapons/7_7mm_mg_lewis_user_machinegun;.303” Machine Gun, Lewis Mk. I;
-weapons/7_7mm_mg_lewis_naval_user_machinegun;.303” Machine Gun, Lewis Mk. III;
-weapons/7_7mm_lewis_amg_1916_naval_user_machinegun;.303” Machine Gun, Lewis Model 1916;
+weapons/gunVikkersE;Gun, Machine, Vickers, .303-inch, Mk. V
+weapons/7_7mm_Vikkers_user_machinegun;Gun, Machine, Vickers, .303-inch, Mk. VII
+weapons/gunVikkersK;Gun, Machine, Vickers G.O., .303-inch, No. 1, Mk. I
+weapons/gunVikkersK_turret;Gun, Machine, Vickers G.O., .303-inch, No. 1, Mk. I
+weapons/7_7mm_vickers_k_user_machinegun;Gun, Machine, Vickers G.O., .303-inch, No. 1, Mk. I
+weapons/7_7mm_vickers_go_no5_naval_user_machinegun;Gun, Machine, Vickers G.O., .303-inch, No. 5, Mk. I
 
-weapons/7_7mm_vickers_go_no5_naval_user_machinegun;Machine Gun, .303”, Vickers, GO, No. 5, Mk. I;
-weapons/7_7mm_Vikkers_user_machinegun;Machine Gun, .303”, Vickers Mk. I;
-weapons/7_7mm_vickers_k_user_machinegun;Machine Gun, .303”, Vickers K
+weapons/7_7mm_mg_lewis_user_machinegun;Gun, Machine, Lewis, .303-inch, Mk. I
+weapons/7_7mm_mg_lewis_naval_user_machinegun;Gun, Machine, Lewis, .303-inch, Mk. I
+weapons/gunLewis;Gun, Machine, Lewis, .303-inch, Mk. I
+weapons/gunLewis_turret;Gun, Machine, Lewis, .303-inch, Mk. I
+weapons/7_7mm_lewis_amg_1916_naval_user_machinegun;Lewis Automatic Machine Gun Model 1916;
 
-weapons/7_92mm_BESA_user_machinegun;Machine Gun, Besa, 7.92 mm, Mk. III*;
-weapons/7_92mm_BESA_AA_user_machinegun;Machine Gun, Besa, 7.92 mm, Mk. III*;
+weapons/7_92mm_BESA_user_machinegun;Gun, Machine, B.E.S.A., 7.92-mm., Mk. III*
+weapons/7_92mm_BESA_AA_user_machinegun;Gun, Machine, B.E.S.A., 7.92-mm., Mk. III*
 
-weapons/12_7mm_vickers_mk5_naval_user_machinegun;Machine Gun, .50” , Vickers Mk. V;
+weapons/12_7mm_vickers_mk5_naval_user_machinegun;Gun, Machine, Vickers, .5-inch, Mk. V
 
-weapons/20mm_oerlikon_mk5_twin_mount_naval_user_cannon;20 mm Oerlicon Cannon Mk. V;
-weapons/20mm_oerlikon_mk24_twin_mount_naval_user_cannon;20 mm Oerlikon Cannon Mk. 24;
+weapons/20mm_oerlikon_mk5_twin_mount_naval_user_cannon;Gun, Machine, Oerlikon, 20-mm., Mk. II
+weapons/20mm_oerlikon_mk24_twin_mount_naval_user_cannon;Gun, Machine, Oerlikon, 20-mm., Mk. II
 
-weapons/20mm_Oerlikon_user_cannon;20 mm Oerlikon Mk. II;
+weapons/20mm_Oerlikon_user_cannon;Gun, Machine, Oerlikon, 20-mm., Mk. II
 20mm_oerlikon_he_t;HE-T;
 20mm_oerlikon_he_i;HE-I;
 20mm_oerlikon_ap;AP-T;
 20mm_oerlikon_he;HE;
 
-weapons/20mm_Hispano_mk_5_user_cannon;20 mm Hispano-Suiza HS.404;
-weapons/20mm_Polsten_user_cannon;20 mm Polsten Mk. I;
+weapons/20mm_Polsten_user_cannon;Gun, Machine, Polsten, 20-mm., Mk. I
+
+weapons/cannonHispanoMkI;Gun, Machine, Hispano, 20-mm., Mk. I
+weapons/cannonHispanoMkII;Gun, Machine, Hispano, 20-mm., Mk. II
+weapons/cannonHispanoMkII_tutorial;Gun, Machine, Hispano, 20-mm., Mk. II
+weapons/cannonHispanoMkII_tutorial/short;Hispano Mk. II;
+weapons/cannonHispanoMkV;Gun, Machine, Hispano, 20-mm., Mk. V
+weapons/cannonHispanoMkV_turret;Gun, Machine, Hispano, 20-mm., Mk. V
+
+weapons/cannonVickers_S;40 mm Vickers Automatic Gun Class S
+weapons/cannonVickers_S_underwing;40 mm Vickers Automatic Gun Class S
+
+weapons/cannonRollsRoyceBH;Rolls-Royce 40 mm Aircraft Cannon Type B.H.
 
 weapons/40mm_Bofors_L60_user_cannon;Bofors 40 mm Gun L/60;
-weapons/40mm_l60_bofors_mk1_twin_naval_user_cannon;Ordnance, Q.F., 40 mm, Mk. I;
-weapons/40mm_l60_bofors_mk2_quad_naval_user_cannon;Ordnance, Q.F., 40 mm, Mk. II;
-weapons/40mm_l60_bofors_mk3_single_naval_user_cannon;Ordnance, Q.F., 40 mm, Mk. III;
-weapons/40mm_qf_bofors_mk7_single_naval_user_cannon;Ordnance, Q.F., 40 mm, Mk. VII;
-weapons/40mm_qf_bofors_mk5_twin_naval_user_cannon;Ordnance, Q.F., 40 mm, Mk. V;
-weapons/40mm_qf_bofors_staag_mk2_twin_naval_user_cannon;Ordnance, Q.F., 40 mm, STAAG Mk. II;
+weapons/40mm_qf_bofors_mk7_single_naval_user_cannon;Ordnance, Q.F. 40-mm., Mk. III
+weapons/40mm_qf_bofors_mk5_twin_naval_user_cannon;Ordnance, Q.F. 40-mm., Mk. XI
+weapons/40mm_qf_bofors_staag_mk2_twin_naval_user_cannon;Ordnance, Q.F. 40-mm., Mk. X
 40mm_mk_i_navy;Mk. I;
 
-weapons/40mm_39_2pdr_qf_mk2c_naval_user_cannon;Ordnance, Q.F., 2-pr, Mk. IIC;
-weapons/40mm_39_2pdr_qf_mk8_pom_pom_naval_user_cannon;Ordnance, Q.F., 2-pr, Mk. VIII;
+weapons/40mm_39_2pdr_qf_mk2c_naval_user_cannon;Ordnance, Q.F. 2-pr., Mk. VIII
+weapons/40mm_39_2pdr_qf_mk8_pom_pom_naval_user_cannon;Ordnance, Q.F. 2-pr., Mk. VIII
 
-weapons/40mm_50_2pdr_rolls_royce_mk14_naval_user_cannon;Ordnance, Q.F., 2-pr, Mk. XIV;
+weapons/40mm_50_2pdr_rolls_royce_mk14_naval_user_cannon;Ordnance, Q.F. 2-pr., Mk. XIV
 
-weapons/40mm_QF_2pdr_user_cannon;Ordnance, Q.F., 2-pr, Mk. IX;
-weapons/40mm_QF_2pdr_Churchill_user_cannon;Ordnance, Q.F., 2-pr, Mk. IX;
+weapons/40mm_QF_2pdr_user_cannon;Ordnance, Q.F. 2-pr., Mk. IX
+weapons/40mm_QF_2pdr_Churchill_user_cannon;Ordnance, Q.F. 2-pr., Mk. IX
 40mm_shot_mk1_aphv;Shot Mk. 1 APHV/T;
 40mm_shot_mk1_apcbct;Shot Mk. 1 APCBC/T;
 40mm_shot_mk1_apt;Shot Mk. 1 AP/T;
 40mm_shell_mk1_apt;Shell Mk. 1 AP/T;
 40mm_shell_mk2;Shell Mk. 2;
 
-weapons/47mm_qf3pdr_hotchkiss_naval_user_cannon;Ordnance, Q.F., 3-pr, Hotchkiss;
+weapons/cannonVickers_P;47mm Vickers Automatic Gun Class P
+
+weapons/47mm_qf3pdr_hotchkiss_naval_user_cannon;Ordnance, Q.F., Hotchkiss, 3-pr., Mk. I
 47mm_pdr_he;Mk. II;
 
-weapons/47mm_OQF_3pdr_user_cannon;Ordnance, Q.F., 3-pr 2-cwt, Mk. II;
+weapons/47mm_OQF_3pdr_user_cannon;Ordnance, Q.F. 3-pr. 2-cwt., Mk. II
 47mm_aphe;Shell Mk. I;
 
-weapons/57mm_qf_6pdr_user_cannon;Ordnance, QF 6-pr 6-cwt, Mk. I;
+weapons/57mm_qf_6pdr_user_cannon;Ordnance, Q.F. 6-pr. 6-cwt., Mk. II
 57mm_qf_ap;Steel Shell
 57mm_qf_he;Common Shell
 
-weapons/57mm_43_6pdr_7cwt_qf_mk2a_naval_user_cannon;Ordnance, Q.F., 6-pr 7-cwt, Mk. IIA;
-weapons/57mm_6pdr_QQF_Mk_3_L43_user_cannon;Ordnance, QF 6-pr 7-cwt, Mk. III;
-weapons/57mm_6pdr_QQF_Mk_5_L50_user_cannon;Ordnance, QF 6-pr 7-cwt, Mk. V;
+weapons/57mm_43_6pdr_7cwt_qf_mk2a_naval_user_cannon;Ordnance, Q.F. 6-pr. 7-cwt., Mk. IIA
+weapons/57mm_6pdr_QQF_Mk_3_L43_user_cannon;Ordnance, Q.F. 6-pr. 7-cwt., Mk. III
+weapons/57mm_6pdr_QQF_Mk_5_L50_user_cannon;Ordnance, Q.F. 6-pr. 7-cwt., Mk. V
+weapons/57mm_50_6pdr_7cwt_mk5_naval_user_cannon;Ordnance, Q.F. 6-pr. 7-cwt., Mk. V
 57mm_shell_mk10t;Shell Mk. 10;
 57mm_shot_mk5t;Shot Mk. 5;
 57mm_shot_mk5t_hv;Shot Mk. 5 HV;
 57mm_shot_mk8t;Shot Mk. 8;
 57mm_shot_mk9t;Shot Mk. 9;
 57mm_shot_mk1bt;Shot Mk. 1 BT;
-weapons/cannonMolinsClassM;Ordnance, Q.F., 6-pr Class M Mk. 1 (Auto Loader Mk. III);
+weapons/cannonMolinsClassM;Ordnance, Q.F. 6-pr., Class M, Mk. I
 
-weapons/75mm_QQF_MkV_user_cannon;Ordnance, Q.F., 75 mm, Mk. V;
+weapons/75mm_QQF_MkV_user_cannon;Ordnance, Q.F. 75-mm., Mk. V
 
-weapons/76mm_3inch_howitzer_MkI_tog_user_cannon;Ordnance, Q.F., 3-inch Howitzer, Mk. I;
-weapons/76mm_3inch_howitzer_MkI_user_cannon;Ordnance, Q.F., 3-inch Howitzer, Mk. I;
+weapons/76mm_3inch_howitzer_MkI_tog_user_cannon;Ordnance, Q.F. 3-inch Howitzer, Mk. I
+weapons/76mm_3inch_howitzer_MkI_user_cannon;Ordnance, Q.F. 3-inch Howitzer, Mk. I
 76mm_howitzer_shell_he;HE;
 76mm_howitzer_shell_smoke;3” Smoke;
 
-weapons/76mm_45_3in_20cwt_qf_mk1_4_naval_user_cannon;Ordnance, Q.F., 3-inch 20-cwt, Mk. I;
-weapons/76mm_QQF_3in_20cwt_user_cannon;Ordnance, Q.F., 3-inch 20-cwt, Mk. III;
-weapons/76mm_3_40_12cwt_qf_mk5_naval_user_cannon;Ordnance, Q.F., 3-inch 20-cwt, Mk. V;
+weapons/76mm_3_40_12cwt_qf_mk5_naval_user_cannon;Ordnance, Q.F. 12-pr. 12-cwt., Mk. V
+
+weapons/76mm_45_3in_20cwt_qf_mk1_4_naval_user_cannon;Ordnance, Q.F. 12-pr. 20-cwt., Mk. I
+weapons/76mm_QQF_3in_20cwt_user_cannon;Ordnance, Q.F. 3-inch 20-cwt., Mk. III
 76mm_shell_he;Shell HE;
 76mm_shot_mk2_ap;Shot Mk. 2;
 76mm_qf_shrapnel_mk_i_navy_shrapnel;Shrapnel Mk. I;
+weapons/76mm_45_3in_20cwt_qf_mk1_naval_user_cannon;Ordnance, Q.F. 12-pr. 20-cwt., Mk. I
+76mm_45_ww_i_tf;HE-TF;
 
-weapons/76mm_17pdr_QF_open_turret_user_cannon;Ordnance, Q.F., 17-pr, Mk. II/V;
-weapons/76mm_17pdr_QF_user_cannon;Ordnance, Q.F., 17-pr, Mk. IV/VI/VII;
+weapons/76mm_50_3inch_12pdr_18cwt_qf_mk1_naval_user_cannon;Ordnance, Q.F. 12-pr. 18-cwt., Mk. I
+76mm_50_mk2_common;Common Mk. II;
+
+weapons/76mm_70_mark_6_naval_user_cannon;Ordnance, Q.F. 3-inch, Mk. N1
+76mm_nc101_navy_he_vt;NC101;
+
+weapons/76mm_17pdr_QF_open_turret_user_cannon;Ordnance, Q.F. 17-pr., Mk. II / V
+weapons/76mm_17pdr_QF_user_cannon;Ordnance, Q.F. 17-pr., Mk. IV / VI / VII
 76mm_shot_mk6_ap;Shot Mk. 6;
 76mm_shot_mk4_apc;Shot Mk. 4;
 76mm_shot_mk8_apcbc;Shot Mk. 8;
@@ -119,158 +126,154 @@ weapons/76mm_17pdr_QF_user_cannon;Ordnance, Q.F., 17-pr, Mk. IV/VI/VII;
 76mm_shell_mk1_he;Shell Mk. 1;
 76mm_shell_ss_mk1;Smoke Shell Mk. 1;
 
-weapons/77mm_QQF_Mk_II_L50_user_cannon;Ordnance, Q.F., 77 mm, Mk. II;
+weapons/77mm_QQF_Mk_II_L50_user_cannon;Ordnance, Q.F. 77-mm., Mk. 2
 77mm_shell_mk1_he;Shell Mk. 1;
 77mm_shot_mk4_apc;Shot Mk. 4;
 77mm_shot_mk6_ap;Shot Mk. 6;
 77mm_shot_mk8_apcbc;Shot Mk. 8;
 77mm_shot_sv_mk1_apds;Shot SV Mk. 1;
 
-weapons/84mm_QQF_20pdr_Mk_I_user_cannon;Ordnance, Q.F., 20-pr, Tk., Mk. IA;
-weapons/84mm_QQF_20pdr_Mk_I_fume_extractor_user_cannon;Ordnance, Q.F., 20-pr, Tk., Mk. IB;
+weapons/84mm_QQF_20pdr_Mk_I_user_cannon;Ordnance, Q.F. 20-pr., Tk., Mk. 1
+weapons/84mm_QQF_20pdr_Mk_I_fume_extractor_user_cannon;Ordnance, Q.F. 20-pr., Tk., Mk. 1
 83mm_shell_mk1;Shell Mk. 1;
 83mm_shot_mk1;Shot Mk. 1;
 83mm_shot_mk3;Shot Mk. 3;
 83mm_shell_ss_mk1;Smoke Shell Mk. 1;
 
+weapons/87_6mm_31_ordnance_qf_naval_user_cannon;Ordnance, Q.F. 25-pr., Mk. I
+87_6mm_mk1d_he;Mk. Id HE;
+87_6mm_ap_shot;Mk. I APC;
 
-weapons/94mm_qf_28pdr_user_cannon;Ordnance, Q.F., 28-pr, Mk. I;
-weapons/94mm_QQF_32pdr_user_cannon;Ordnance, Q.F., 32-pr, Tk., Mk. I;
+weapons/94mm_qf_28pdr_user_cannon;Ordnance, Q.F. 3.7-inch Monobloc
+weapons/94mm_QQF_32pdr_user_cannon;Ordnance, Q.F. 32-pr, Tk., Mk. I
 94mm_shell_mk1;Shell Mk. 1;
 94mm_shot_mk1;Shot Mk. 1;
 
-weapons/94mm_QF_Mk1_user_cannon;Ordnance, Q.F., 3.7-inch, Mk. II;
+weapons/94mm_QF_Mk1_user_cannon;Ordnance, Q.F. 3.7-inch, Mk. II
 
-weapons/95mm_QF_Mk1_user_cannon;Ordnance, Q.F., 95 mm S.P. Howitzer, Mk. III;
+weapons/95mm_QF_Mk1_user_cannon;Ordnance, Q.F. 95-mm., S.P. Howitzer, Mk. III
 95mm_shell_heat;Mk. I;
 95mm_shell_mk1a_he;Mk. Ia;
 95mm_shell_se_mk1;Mk. I;
 
-
-weapons/102mm_45_4in_qf_mark5_naval_user_cannon;Ordnance, Q.F., 4-inch, Mk. V;
-weapons/102mm_45_4in_qf_mark5_aa_naval_user_cannon;Ordnance, Q.F., 4-inch, Mk. V;
-weapons/102mm_45_4in_bl_mark9_10_naval_user_cannon;Ordnance, B.L., 4.5-inch, Mk. IX;
-weapons/102mm_45_4in_qf_mark16_21_naval_user_cannon;Ordnance, Q.F., 4-inch, Mk. XIX;
+weapons/102mm_40_4in_qf_mark3_naval_user_cannon;Ordnance, Q.F. 4-inch, Mk. III
+weapons/102mm_45_4in_qf_mark5_naval_user_cannon;Ordnance, Q.F. 4-inch, Mk. V
+weapons/102mm_45_4in_qf_mark5_aa_naval_user_cannon;Ordnance, Q.F. 4-inch, Mk. V
+weapons/102mm_50_4inch_bl_mk7_naval_user_cannon;Ordnance, B.L. 4-inch, Mk. VII
+102mm_50_bl_he;HE;
+102mm_50_bl_cpc;CPC;
+weapons/102mm_45_4in_bl_mark9_10_naval_user_cannon;Ordnance, B.L. 4-inch, Mk. IX
+weapons/102mm_45_4in_qf_mark15_naval_user_cannon;Ordnance, Q.F. 4-inch, Mk. XVI
+weapons/102mm_45_4in_qf_mark16_21_naval_user_cannon;Ordnance, Q.F. 4-inch, Mk. XVI
+weapons/102mm_45_4in_qf_mark16_21_aa_naval_user_cannon;Ordnance, Q.F. 4-inch, Mk. XVI
 102mm_45_he;HE;
 102mm_33_he;HE
 102mm_45_df_he;HE-DF;
 102mm_45_vt_he;HE-VT;
 102mm_mark_va;Mk. VA;
 102mm_qf_navy_shrapnel;Shrapnel;
-weapons/102mm_33_4in_qf_mk23_naval_user_cannon;Ordnance, Q.F., 4-inch, Mk. XXIII;
+weapons/102mm_33_4in_qf_mk23_naval_user_cannon;Ordnance, Q.F. 4-inch, Mk. XXIII
 
-weapons/114mm_19_4_5in_8cwt_qf_mark1_naval_user_cannon;Ordnance, Q.F., 4.5-inch, Mk. I;
+weapons/bomb_uk_107mm_17;Ordnance, M.L. 4.2-inch Mortar, Mk. I
+weapons/bomb_uk_107mm_17/short;M.L. 4.2-in. Mk. I
+107mm_he_mk2;Bomb, 4.2”, HE, Mk. II;
+
+weapons/114mm_19_4_5in_8cwt_qf_mark1_naval_user_cannon;Ordnance, Q.F. 4.5-inch 8-cwt., Mk. I
 114mm_he_shell;HE;
-weapons/114mm_45_qf_mk1_aa_naval_user_cannon;Ordnance, Q.F., 4.5-inch, Mk. III;
-weapons/114mm_45_qf_mk4_naval_user_cannon;Ordnance, Q.F., 4.5-inch, Mk. IV;
-weapons/114mm_45_qf_mk5_naval_user_cannon;Ordnance, Q.F., 4.5-inch, Mk. V;
+
+weapons/114mm_45_qf_mk1_aa_naval_user_cannon;Ordnance, Q.F. 4.5-inch, Mk. I
+weapons/114mm_45_qf_mk4_naval_user_cannon;Ordnance, Q.F. 4.5-inch, Mk. IV / VI
+weapons/114mm_45_qf_mk5_naval_user_cannon;Ordnance, Q.F. 4.5-inch, Mk. V
 uk_114mm_45_sap;SAP;
 uk_114mm_45_he;HE;
 uk_114mm_45_he_dist_fuse;HE-DF;
 uk_114mm_45_he_radio_fuse;HE-VT;
 
-weapons/120mm_45_qf_mk9_single_naval_user_cannon;Ordnance, Q.F., 4.7-inch, Mk. IX
-weapons/120mm_45_qf_mk12_mount_cp17_single_naval_user_cannon;Ordnance, Q.F., 4.7-inch, Mk. IX
-weapons/120mm_45_4_7in_mark12_cp19_mount_naval_user_cannon;Ordnance, Q.F., 4.7-inch, Mk. XII
-weapons/120mm_40_qf_mk12_mount_ha_single_naval_user_cannon;Ordnance, Q.F., 4.7-inch, Mk. XII
+weapons/120mm_45_qf_mk9_single_naval_user_cannon;Ordnance, Q.F. 4.7-inch, Mk. IX
+weapons/120mm_45_qf_mk12_mount_cp17_single_naval_user_cannon;Ordnance, Q.F. 4.7-inch, Mk. IX
+weapons/120mm_45_4_7in_mark12_cp19_mount_naval_user_cannon;Ordnance, Q.F. 4.7-inch, Mk. XII
+weapons/120mm_40_qf_mk12_mount_ha_single_naval_user_cannon;Ordnance, Q.F. 4.7-inch, Mk. XI
 120mm_mark_va;Mk. VA;
 120mm_mark_viia;Mk. VIIA;
 120mm_mark_viia_df;Mk. VIIA DF;
 120mm_mark_viia_vt;Mk. VIIA VT;
 
-weapons/133mm_5_25inch_50_qf_mk1_naval_user_cannon;Ordnance, Q.F., 5.25-inch, Mk. I;
-weapons/133mm_5_25inch_50_qf_mk1_ask_naval_user_cannon;Ordnance, Q.F., 5.25-inch, Mk. I
+weapons/133mm_5_25inch_50_qf_mk1_naval_user_cannon;Ordnance, Q.F. 5.25-inch, Mk. I
+weapons/133mm_5_25inch_50_qf_mk1_ask_naval_user_cannon;Ordnance, Q.F. 5.25-inch, Mk. I
 133mm_qf_mk1_he;HE;
 133mm_qf_mk1_vt_he;HE-VT;
 133mm_mark_ii_sap;SAP Mk. II;
 
-weapons/152mm_6inch_45_bl_mk12_naval_user_cannon;Ordnance, B.L., 6-inch, Mk. XII;
+weapons/152mm_6inch_45_bl_mk12_naval_user_cannon;Ordnance, B.L. 6-inch, Mk. XII
 152mm_45_he;HE;
 152mm_45_he_dist_fuse;HE
 152mm_45_cpbc;CPBC;
 152mm_45_cpc;CPC;
-weapons/152mm_6inch_50_bl_mk22_naval_user_cannon;Ordnance, B.L., 6-inch, Mk. XXII;
-weapons/152mm_6inch_50_bl_mk23_naval_user_cannon;Ordnance, B.L., 6-inch, Mk. XXIII;
+weapons/152mm_6inch_50_bl_mk22_naval_user_cannon;Ordnance, B.L. 6-inch, Mk. XXII
+weapons/152mm_6inch_50_bl_mk23_naval_user_cannon;Ordnance, B.L. 6-inch, Mk. XXIII
 152mm_50_5_10crh_he;HE;
 152mm_50_5_10crh_df_he;HE-DF;
 152mm_50_5_10crh_vt_he;HE-VT;
 152mm_50_5_10crh_cpbc;CPBC;
 152mm_50_mk25b_cpbc;Mk. XXVb CPBC
-weapons/152mm_6inch_50_qf_mk_5_naval_user_cannon;Ordnance, Q.F., 6-inch, Mk. V
+weapons/152mm_6inch_50_qf_mk_5_naval_user_cannon;Ordnance, Q.F. 6-inch, Mk. N5
 152mm_50_qf_mk5_navy_ap;AP;
 152mm_50_qf_mk5_navy_he;HE;
 152mm_50_qf_mk5_navy_vt_he;HE-VT;
+weapons/152mm_6inch_45_bl_mk7_naval_user_cannon;Ordnance, B.L. 6-inch, Mk. VII
 
-weapons/230mm_petard_spigot_mortar_user_cannon;Mortar, Recoiling, Spigot, Mk. II
-no_1_demolition_bomb;Bomb, Demolition, No. 1;
-
-weapons/churchill_flamethrower;Crocodile;
-
-
-
-
-
-weapons/178mm_Hedgehog_user_cannon;Projector, Hedgehog, No. 1, Mk. 1;
-178mm_hedgehog_projectile;Projectile, Hedgehog;
-weapons/178mm_hedgehog_projectile/short;Projectile, Hedgehog;
-
-40mm_158R_hv_mk_ii;HE Mk. II;
-40mm_158R_ap_mk_ii;AP Mk. II;
-
-weapons/76mm_70_mark_6_naval_user_cannon;Ordnance, Q.F., 3-inch, Mk. VI;
-76mm_nc101_navy_he_vt;NC101;
-weapons/102mm_45_4in_qf_mark15_naval_user_cannon;Ordnance, Q.F., 4-inch, Mk. XVI;
-weapons/190mm_7_5inch_45_bl_mk6_naval_user_cannon;Ordnance, B.L., 7.5-inch, Mk. VI;
+weapons/190mm_7_5inch_45_bl_mk6_naval_user_cannon;Ordnance, B.L. 7.5-inch, Mk. VI
 190mm_45_bl_sap;SAPC;
 190mm_45_bl_he;HE;
-weapons/203mm_50_8inch_mk8_naval_user_cannon;Ordnance, B.L., 8-inch, Mk. VIII;
+
+weapons/203mm_50_8inch_mk8_naval_user_cannon;Ordnance, B.L. 8-inch, Mk. VIII
 203mm_50_mk_ib_sapcbc;SAPC Mk. IB;
 203mm_50_mk8_he;HE;
-weapons/76mm_45_3in_20cwt_qf_mk1_naval_user_cannon;Ordnance, Q.F., 3-inch 20-cwt, Mk. I;
-76mm_45_ww_i_tf;HE-TF;
-weapons/305mm_45_12inch_mark10_naval_user_cannon;Ordnance, B.L., 12-inch, Mk. X;
+
+weapons/230mm_petard_spigot_mortar_user_cannon;Mortar, Recoiling, Spigot, 29-mm., Mk. II
+no_1_demolition_bomb;Bomb, Demolition, No. 1;
+
+weapons/305mm_45_12inch_mark10_naval_user_cannon;Ordnance, B.L. 12-inch, Mk. X
 305mm_4crh_mark_2a_he;HE Mk. IIa;
 305mm_4crh_mark_6a_apc;APC Mk. VIa;
 305mm_4crh_mark_7a_cpc;CPC Mk. VIIa;
-weapons/76mm_50_3inch_12pdr_18cwt_qf_mk1_naval_user_cannon;Ordnance, Q.F., 12-pr 18-cwt, Mk. I;
-76mm_50_mk2_common;Common Mk. II;
-weapons/305mm_50_12inch_mark11_naval_user_cannon;Ordnance, B.L., 12-inch, Mk. XI;
-weapons/102mm_50_4inch_bl_mk7_naval_user_cannon;Ordnance, B.L., 4-inch, Mk. VII;
-102mm_50_bl_he;HE;
-102mm_50_bl_cpc;CPC;
+weapons/305mm_50_12inch_mark11_naval_user_cannon;Ordnance, B.L. 12-inch, Mk. XI
 305mm_cl_b_he;Cl.B. HE;
-weapons/102mm_40_4in_qf_mark3_naval_user_cannon;Ordnance, Q.F., 4-inch, Mk. III;
-weapons/57mm_50_6pdr_7cwt_mk5_naval_user_cannon;Ordnance, QF 6-pr 7-cwt, Mk. V;
-weapons/bomb_uk_107mm_17;Ordnance, ML 4.2” Mortar;
-weapons/bomb_uk_107mm_17/short;4.2” Mortar;
-107mm_he_mk2;Bomb, 4.2”, HE, Mk. II;
-weapons/343mm_45_mk5h_naval_user_cannon;Ordnance, B.L., 13.5-inch, Mk. V(H);
+
+weapons/343mm_45_mk5h_naval_user_cannon;Ordnance, B.L. 13.5-inch, Mk. V(H)
 343mm_mark1a_apc;APC Mk. Ia;
 343mm_he_h;HE;
 343mm_cpc_h;CPC;
-weapons/343mm_45_mk5l_naval_user_cannon;Ordnance, B.L., 13.5-inch, Mk. V(L);
+weapons/343mm_45_mk5l_naval_user_cannon;Ordnance, B.L. 13.5-inch, Mk. V(L)
 343mm_mark2a_apc;APC Mk. IIa;
 343mm_he_l;HE;
 343mm_cpc_l;CPC;
-weapons/152mm_6inch_45_bl_mk7_naval_user_cannon;Ordnance, B.L., 6-inch, Mk. VII;
 343mm_mark3a_apc;APC Mk. IIIa;
-weapons/87_6mm_31_ordnance_qf_naval_user_cannon;Ordnance, Q.F., 25-pr, Mk. I;
-87_6mm_mk1d_he;Mk. Id HE;
-87_6mm_ap_shot;Mk. I APC;
-weapons/381mm_42_bl_mk1_naval_user_cannon;Ordnance, B.L., 15-inch, Mk. I;
+
+weapons/356mm_45_14inch_mark7_naval_user_cannon;Ordnance, B.L. 14-inch, Mk. VII
+356mm_mark_1b_6crh_apc;Mk. Ib APC
+356mm_mark_5b_6crh_he;Mk. Vb HE
+
+weapons/381mm_42_bl_mk1_naval_user_cannon;Ordnance, B.L. 15-inch, Mk. I
 381mm_4crh_cpc;CPC;
 381mm_mark_12a_4crh_apc;Mk. XIIa APC;
 381mm_mark_1a_4crh_apc;Mk. Ia APC;
 381mm_mark_17b_6crh_apc;Mk. XVIIb APC
 381mm_mark_22b_6crh_apc;Mk. XXIIb SC APC
-weapons/406mm_45_bl_mk1_r1_naval_user_cannon;Ordnance, B.L., 16-inch, Mk. I
-weapons/406mm_45_bl_mk1_r2_naval_user_cannon;Ordnance, B.L., 16-inch, Mk. I
+
+weapons/406mm_45_bl_mk1_r1_naval_user_cannon;Ordnance, B.L. 16-inch, Mk. I
+weapons/406mm_45_bl_mk1_r2_naval_user_cannon;Ordnance, B.L. 16-inch, Mk. I
 406mm_uk_he;Mk. Ib HE
 406mm_mark_1a_apcbc;Mk. Ia APCBC
-weapons/356mm_45_14inch_mark7_naval_user_cannon;Ordnance, B.L., 14-inch, Mk. VII
-356mm_mark_1b_6crh_apc;Mk. Ib APC
-356mm_mark_5b_6crh_he;Mk. Vb HE
-weapons/102mm_45_4in_qf_mark16_21_aa_naval_user_cannon;Ordnance, Q.F., 4-inch, Mk. XVI
+
+weapons/churchill_flamethrower;Flame Thrower, Crocodile
+
+weapons/178mm_Hedgehog_user_cannon;Projector, Hedgehog, (Aust.), No. 1, Mk. 1
+178mm_hedgehog_projectile;Projectile, Hedgehog;
+weapons/178mm_hedgehog_projectile/short;Projectile, Hedgehog;
+
+40mm_158R_hv_mk_ii;HE Mk. II;
+40mm_158R_ap_mk_ii;AP Mk. II;
 
 
 // NEW SYSTEM //
@@ -281,7 +284,7 @@ weapons/cannonADEN;30 mm ADEN;
 weapons/cannonADEN_mk4;30 mm ADEN Mk. 4;
 weapons/cannonADEN_mk4/short;ADEN Mk. 4;
 
-weapons/7_62mm_L3A1_user_machinegun;Machine Gun, Browning, Caliber .30-in, L3A1;
+weapons/7_62mm_L3A1_user_machinegun;Machine Gun, Browning, Calibre .30-in, L3A1;
 
 weapons/gunL8a1;Machine Gun, 7.62 mm, Tk., L8A1;
 weapons/gunL8a1/short;L8A1;

@@ -3,8 +3,8 @@
 // Army //
 // WWII // 
 uk_matilda_hedgehog_shop;Matilda Mk. IV (Hedgehog)
-uk_matilda_hedgehog_0;"Infantry Tank Mk. II, A.12, Matilda, Mk. IV
-Projector, Hedgehog, (Aust.), No. 1, Mk. 1"
+uk_matilda_hedgehog_0;"Tank, Infantry, Mk. II, A.12, Matilda, Mk. IV
+<color=#C0C0C0>with Projector, Hedgehog, (Aust.), No. 1, Mk. 1</color>"
 uk_matilda_hedgehog_1;Matilda Mk. IV (Hedgehog)
 uk_matilda_hedgehog_2;Matilda
 
@@ -20,32 +20,38 @@ uk_ac4_thunderbolt_2;Australian Cruiser
 
 // CW/Modern //
 uk_centurion_mk_5_raac_shop;Centurion Mk. 5/1
-uk_centurion_mk_5_raac_0;Tank, Medium Gun, Centurion Mk. 5/1
+uk_centurion_mk_5_raac_0;"Tank, Medium Gun, Centurion, Mk. 5/1
+<color=#C0C0C0>1968 field modifications</color>"
 uk_centurion_mk_5_raac_1;Centurion Mk. 5
 uk_centurion_mk_5_raac_2;Centurion
 
-us_m1a1_aim_abrams_shop;M1A1 AIM SA (1st AR)
-us_m1a1_aim_abrams_0;"Tank, Combat, Full-Tracked: 120-mm Gun,
-M1A1, Abrams Integrated Management, Situational Awareness
-1st Armoured Regiment"
-us_m1a1_aim_abrams_1;M1A1 AIM SA
+us_m1a1_aim_abrams_shop;▄ M1A1 AIM SA
+us_m1a1_aim_abrams_0;"Tank, Combat, Full Tracked: 120-mm Gun, M1A1,
+Abrams Integrated Management, Situational Awareness
+General Abrams
+<color=#E3D452>1st Armoured Regiment</color>"
+us_m1a1_aim_abrams_1;▄ M1A1 AIM SA
 us_m1a1_aim_abrams_2;M1
-uk_m1a2_sep3_abrams_shop;M1A2 SEPv3
-uk_m1a2_sep3_abrams_0;"Tank, Combat, Full Tracked: 120-mm Gun, 
-M1A2 System Enhancement Package v3
-ARAT"
-uk_m1a2_sep3_abrams_1;M1A2
-uk_m1a2_sep3_abrams_2;M1
-uk_m1a1_aim_abrams_shop;M1A1 AIM SA (1st AR)
-uk_m1a1_aim_abrams_0;"Tank, Combat, Full-Tracked: 120-mm Gun,
-M1A1, Abrams Integrated Management, Situational Awareness
-1st Armoured Regiment"
-uk_m1a1_aim_abrams_1;M1A1 AIM SA
+
+uk_m1a1_aim_abrams_shop;▄ M1A1 AIM SA
+uk_m1a1_aim_abrams_0;"Tank, Combat, Full Tracked: 120-mm Gun, M1A1,
+Abrams Integrated Management, Situational Awareness
+General Abrams
+<color=#E3D452>1st Armoured Regiment</color>"
+uk_m1a1_aim_abrams_1;▄ M1A1 AIM SA
 uk_m1a1_aim_abrams_2;M1
+
+uk_m1a2_sep3_abrams_shop;▄ M1A2 SEPv3
+uk_m1a2_sep3_abrams_0;"Tank, Combat, Full Tracked: 120-mm Gun, M1A2,
+System Enhancement Package Version 3 General Abrams
+<color=#C0C0C0>with Tiles, Armor: M19 Abrams Reactive Armor Tile</color>
+<color=#C0C0C0>and Tiles, Armor: M32 Abrams Reactive Armor Tile 2</color>"
+uk_m1a2_sep3_abrams_1;▄ M1A2
+uk_m1a2_sep3_abrams_2;M1
 
 uk_boxer_crv_block2_shop;Boxer CRV (Phase 2)
 uk_boxer_crv_block2_0;"Boxer 8x8 Combat Reconnaissance Vehicle
-LAND 400 Phase 2 Demonstrator"
+<color=#C0C0C0>LAND 400 Phase 2 demonstrator</color>"
 uk_boxer_crv_block2_1;Boxer CRV (Phase 2)
 uk_boxer_crv_block2_2;Boxer
 
@@ -62,21 +68,21 @@ beaufighter_mk21_0;Beaufighter Mk. 21
 beaufighter_mk21_1;Beaufighter Mk. 21
 beaufighter_mk21_2;Beaufighter
 
-boomerang_mki_shop;Boomerang Mk. I (No. 84 Sq.)
+boomerang_mki_shop;Boomerang Mk. I
 boomerang_mki_0;"Boomerang Mk. I
-No. 84 Squadron RAAF"
+<color=#E3D452>No. 84 Squadron R.A.A.F.</color>"
 boomerang_mki_1;Boomerang Mk. I
 boomerang_mki_2;Boomerang
 
-boomerang_mkii_shop;Boomerang Mk. II (No. 4 Sq.)
+boomerang_mkii_shop;Boomerang Mk. II
 boomerang_mkii_0;"Boomerang Mk. II
-No. 4 Squadron RAAF"
+<color=#E3D452>No. 4 Squadron R.A.A..</color>"
 boomerang_mkii_1;Boomerang Mk. II
 boomerang_mkii_2;Boomerang
 
-wirraway_shop;Wirraway Mk. III
-wirraway_0;Wirraway Mk. III
-wirraway_1;Wirraway Mk. III
+wirraway_shop;Wirraway Mk. II
+wirraway_0;Wirraway Mk. II
+wirraway_1;Wirraway Mk. II
 wirraway_2;Wirraway
 
 // CW/Modern //
@@ -84,7 +90,7 @@ wirraway_2;Wirraway
 shop/group/f_111c_tornado_group;▄ F-111C / Tornado GR.1
 f_111c_raaf_shop;▄ F-111C
 f_111c_raaf_0;"F-111C
-Block Upgrade Programme C2/C3"
+<color=#C0C0C0>Block Upgrade Programme C2/C3</color>"
 f_111c_raaf_1;▄ F-111C
 f_111c_raaf_2;F-111
 
@@ -96,32 +102,35 @@ fa_18a_raaf_2;F/A-18
 
 fa_18a_hug_2_raaf_shop;▄ F/A-18A (HUG 2.4)
 fa_18a_hug_2_raaf_0;"F/A-18A Hornet
-Hornet Upgrade Phase 2.4"
+<color=#C0C0C0>Hornet Upgrade Phase 2.4</color>"
 fa_18a_hug_2_raaf_1;▄ F/A-18A
 fa_18a_hug_2_raaf_2;F/A-18
 
 fa_18f_block_2_raaf_shop;▄ F/A-18F-2
 fa_18f_block_2_raaf_0;"F/A-18F-2 MC Super Hornet
-Lot 33, AIR 5349 Phase 2"
+<color=#C0C0C0>Lot 33</color>
+<color=#C0C0C0>AIR 5349 Phase 2</color>"
 fa_18f_block_2_raaf_1;▄ F/A-18F
 fa_18f_block_2_raaf_2;F/A-18
 
 // RAN //
 // WWII //
 uk_destroyer_battle_tobruk_shop;Tobruk (D 37)
-uk_destroyer_battle_tobruk_0;"Australian Battle-Class Destroyer, HMAS Tobruk (D 37)
-1944"
+uk_destroyer_battle_tobruk_0;"<color=#C0C0C0>Battle-Class Destroyer Type III</color>
+HMAS Tobruk (D 37)"
 uk_destroyer_battle_tobruk_1;Tobruk
 uk_destroyer_battle_tobruk_2;Battle-Class
 
 // MODERN //
 
 uk_attack_class_arrow_shop;Arrow (P 88)
-uk_attack_class_arrow_0;Attack-Class Patrol Boat, HMAS Arrow (P 88)
+uk_attack_class_arrow_0;"<color=#C0C0C0>Attack-Class Patrol Boat</color>
+HMAS Arrow (P 88)"
 uk_attack_class_arrow_1;Arrow
 uk_attack_class_arrow_2;Attack-Class
 
 uk_fremantle_class_shop;Fremantle (P 203)
-uk_fremantle_class_0;Fremantle-Class Patrol Boat, HMAS Fremantle (P 203)
+uk_fremantle_class_0;"<color=#C0C0C0>Fremantle-Class Patrol Boat</color>
+HMAS Fremantle (P 203)"
 uk_fremantle_class_1;Fremantle
 uk_fremantle_class_2;Fremantle-Class

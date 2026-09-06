@@ -18,7 +18,8 @@ la-11_china_2;拉11
 
 // Ilyushin //
 il-10_1946_china_shop;伊尔10
-il-10_1946_china_0;伊尔10型飞机
+il-10_1946_china_0;"伊尔10型飞机
+<color=#C0C0C0>Самолеты №6410801+</color>"
 il-10_1946_china_1;伊尔10
 il-10_1946_china_2;伊尔10
 il_28_china_shop;伊尔28
@@ -73,7 +74,7 @@ quing_6_2;青6
 // J6 //
 mig-19j_6a_shop;J6A
 mig-19j_6a_0;"J6A型飞机
-1977年型"
+<color=#C0C0C0>1977 modifications</color>"
 mig-19j_6a_1;J6A
 mig-19j_6a_2;J6
 
@@ -118,19 +119,19 @@ j_11_1;J11
 j_11_2;J11
 j_11a_shop;J11A
 j_11a_0;"J11A型飞机
-2014年型"
+<color=#C0C0C0>2014 modifications</color>"
 j_11a_1;J11A
 j_11a_2;J11
 j_11b_shop;J11B
 j_11b_0;"J11B型飞机
-2009年型"
+<color=#C0C0C0>2009 production</color>"
 j_11b_1;J11B
 j_11b_2;J11
 
 // J15 //
 j_15t_shop;J15T (WS10B)
 j_15t_0;"J15T型飞机
-WS10B"
+<color=#C0C0C0>with WS10B engines</color>"
 j_15t_1;J15T
 j_15t_2;J15
 
@@ -141,7 +142,7 @@ jh_7_1;JH7
 jh_7_2;JH7
 jh_7a_prototype_shop;JH7A (811)
 jh_7a_prototype_0;"JH7A型飞机
-811"
+<color=#C0C0C0>811</color>"
 jh_7a_prototype_1;JH7A
 jh_7a_prototype_2;JH7
 jh_7a_shop;JH7A
@@ -174,7 +175,8 @@ q_5l_2;Q5
 // OTHER //
 
 ki-45_hei_tei_china_shop;␗ 二式丙型丁装備
-ki-45_hei_tei_china_0;二式複座戦闘機丙型丁装備
+ki-45_hei_tei_china_0;"二式複座戦闘機丙型
+<color=#C0C0C0>with 丁型 equipment</color>"
 ki-45_hei_tei_china_1;␗ 二式
 ki-45_hei_tei_china_2;二式
 
@@ -205,7 +207,7 @@ z_10_1;Z10
 z_10_2;Z10
 z_10a_shop;Z10 (2018)
 z_10a_0;"Z10型武装直升机
-2018年型"
+<color=#C0C0C0>2018 model</color>"
 z_10a_1;Z10
 z_10a_2;Z10
 

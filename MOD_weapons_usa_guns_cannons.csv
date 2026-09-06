@@ -137,6 +137,11 @@ weapons/37mm_M6_user_cannon;Gun, 37-mm, M6;
 
 
 // 40-MM //
+
+weapons/40mm_l60_bofors_mk1_twin_naval_user_cannon;Gun, Automatic, 40-mm, Mk 1 / Mk 2;
+weapons/40mm_l60_bofors_mk2_quad_naval_user_cannon;Gun, Automatic, 40-mm, Mk 1 / Mk 2
+weapons/40mm_l60_bofors_mk3_single_naval_user_cannon;Gun, Automatic, 40-mm, M1
+
 weapons/40mm_M2_user_cannon;Gun, Automatic, 40-mm, M1;
 40mm_M81A1;AP, M81A1;
 40mm_M81_AP;AP-T, M81;

@@ -2,24 +2,28 @@
 
 // SOVIET //
 cn_t_26_1940_shop;☀ Т-26
-cn_t_26_1940_0;Т-26輕戰車
+cn_t_26_1940_0;"Т-26輕戰車
+<color=#C0C0C0>1937 production</color>"
 cn_t_26_1940_1;☀ Т-26
 cn_t_26_1940_2;Т-26
 cn_t_26_no531_shop;☀ Т-26 (200師)
 cn_t_26_no531_0;"Т-26輕戰車
-國民革命軍第200師"
+<color=#C0C0C0>1937 production</color>
+<color=#E3D452>國民革命軍第200師</color>"
 cn_t_26_no531_1;☀ Т-26
 cn_t_26_no531_2;Т-26
 
 cn_bt_5_shop;☀ БТ-5
-cn_bt_5_0;БТ-5輕戰車
+cn_bt_5_0;"БТ-5輕戰車
+<color=#C0C0C0>Aug 1934 production</color>"
 cn_bt_5_1;☀ БТ-5
 cn_bt_5_2;БТ-5
 
 // JAPANESE // 
 
 cn_type_95_ha_go_shop;☀ 95式
-cn_type_95_ha_go_0;95式輕戰車
+cn_type_95_ha_go_0;"95式輕戰車
+<color=#C0C0C0>1939 production</color>"
 cn_type_95_ha_go_1;☀ 95式
 cn_type_95_ha_go_2;95式
 
@@ -36,29 +40,34 @@ cn_type_97_kai_2;97式
 shop/group/cn_m3_m5_stuart_group;☀ M3A3 / ☀ M5A1
 
 cn_m3a3_stuart_shop;☀ M3A3
-cn_m3a3_stuart_0;Tank, Light, M3A3 General Stuart
+cn_m3a3_stuart_0;"Tank, Light, M3A3 General Stuart
+<color=#C0C0C0>Jan 1943 production</color>
+<color=#C0C0C0>with Dischargers, Smoke Generator, 4-in., No. 2, Mk. I</color>"
 cn_m3a3_stuart_1;☀ M3A3
 cn_m3a3_stuart_2;M3
 cn_m3a3_stuart_1st_ptg_shop;☀ M3A3 (1st Pr.T.Gr.)
 cn_m3a3_stuart_1st_ptg_0;"Tank, Light, M3A3 General Stuart
-Chinese-American 1st Provisional Tank Group"
+<color=#C0C0C0>Jan 1943 production</color>
+<color=#C0C0C0>with Dischargers, Smoke Generator, 4-in., No. 2, Mk. I</color>
+<color=#E3D452>Chinese-American 1st Provisional Tank Group</color>"
 cn_m3a3_stuart_1st_ptg_1;☀ M3A3
 cn_m3a3_stuart_1st_ptg_2;M3
 
 cn_m5a1_stuart_shop;☀ M5A1
-cn_m5a1_stuart_0;M5A1戰車
+cn_m5a1_stuart_0;"M5A1戰車
+<color=#C0C0C0>Jul 1943 production</color>"
 cn_m5a1_stuart_1;☀ M5A1
 cn_m5a1_stuart_2;M5
 
 cn_m4a4_sherman_shop;☀ M4A4 (75)
 cn_m4a4_sherman_0;"Tank, Medium, M4A4 (75-mm Gun) General Sherman
-Chrysler, May 1943"
+<color=#C0C0C0>May 1943 Chrysler production</color>"
 cn_m4a4_sherman_1;☀ M4A4 (75)
 cn_m4a4_sherman_2;M4
 cn_m4a4_sherman_1st_ptg_shop;☀ M4A4 (75) (1st Pr.T.Gr.)
 cn_m4a4_sherman_1st_ptg_0;"Tank, Medium, M4A4 (75-mm Gun) General Sherman
-Chrysler, May 1943
-Chinese-American 1st Provisional Tank Group"
+<color=#C0C0C0>May 1943 Chrysler production</color>
+<color=#E3D452>Chinese-American 1st Provisional Tank Group</color>"
 cn_m4a4_sherman_1st_ptg_1;☀ M4A4 (75)
 cn_m4a4_sherman_1st_ptg_2;M4
 
@@ -76,6 +85,7 @@ cn_gmc_cckw_353_m45_quad_2;CCKW
 
 cn_sdkfz_222_early_shop;☀ le.Pz.Sp.Wg. (2 cm) A
 cn_sdkfz_222_early_0;"leichter Panzerspähwagen (2 cm) Ausf. A
-1. Serie"
+<color=#C0C0C0>1. Serie</color>
+<color=#C0C0C0>Oct 1936 production</color>"
 cn_sdkfz_222_early_1;☀ le.Pz.Sp.Wg. (2 cm) A
 cn_sdkfz_222_early_2;le.Pz.Sp.Wg.

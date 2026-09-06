@@ -1,40 +1,40 @@
 <ID|readonly|noverify>;<NewLanguage>
 
-weapons/br_bafg_230;Bombas Aéreas de Fins Gerais 230;
+weapons/br_bafg_230;Bombas aéreas de fins gerais 230;
 weapons/br_bafg_230/short;BAFG-230;
-weapons/br_bafg_230_default;Bombas Aéreas de Fins Gerais 230;
+weapons/br_bafg_230_default;Bombas aéreas de fins gerais 230;
 weapons/br_bafg_230_default/short;BAFG-230;
-weapons/br_lizard_2;Bombas Aéreas de Fins Gerais 230 (Lizard II);
+weapons/br_lizard_2;Bombas aéreas de fins gerais 230 (Lizard II);
 weapons/br_lizard_2/short;BAFG-230 (Lizard II);
-weapons/br_lizard_3;Bombas Aéreas de Fins Gerais 230 (Lizard III)
+weapons/br_lizard_3;Bombas aéreas de fins gerais 230 (Lizard III)
 weapons/br_lizard_3/short;BAFG-230 (Lizard III)
-weapons/br_bafg_230_2;Bomba com Freio Aerodinâmico 230/2;
+weapons/br_bafg_230_2;Bomba com freio aerodinâmico 230/2;
 weapons/br_bafg_230_2/short;BFA-230/2;
-weapons/br_bafg_230_2_default;Bomba com Freio Aerodinâmico 230/2;
+weapons/br_bafg_230_2_default;Bomba com freio aerodinâmico 230/2;
 weapons/br_bafg_230_2_default/short;BFA-230/2;
 
-weapons/br_bafg_460;Bombas Aéreas de Fins Gerais 460;
+weapons/br_bafg_460;Bombas aéreas de fins gerais 460;
 weapons/br_bafg_460/short;BAFG-460;
-weapons/br_bafg_460_2;Bomba com Freio Aerodinâmico 460/2;
+weapons/br_bafg_460_2;Bomba com freio aerodinâmico 460/2;
 weapons/br_bafg_460_2/short;BFA-460/2;
-weapons/br_bafg_460_2_default;Bomba com Freio Aerodinâmico 460/2;
+weapons/br_bafg_460_2_default;Bomba com freio aerodinâmico 460/2;
 weapons/br_bafg_460_2_default/short;BFA-460/2;
 
-weapons/br_bafg_920;Bombas Aéreas de Fins Gerais 920;
+weapons/br_bafg_920;Bombas aéreas de fins gerais 920;
 weapons/br_bafg_920/short;BAFG-920;
 
-weapons/br_binc_300;Bombas Incendiárias 300;
+weapons/br_binc_300;Bombas incendiárias 300;
 weapons/br_binc_300/short;BINC-300;
 
-weapons/br_skyfire_70_he_m2;Avibrás-Skyfire-70 (Avibrás Cabeça-Anticarro/Antipessoal)
+weapons/br_skyfire_70_he_m2;Avibrás-Skyfire-70 (Avibrás cabeça-anticarro/antipessoal)
 weapons/br_skyfire_70_he_m2/short;AV-SF-70 (AC/AP);
 
-weapons/br_maa_1;Míssil Ar-Ar 1 Piranha;
+weapons/br_maa_1;Míssil ar-ar 1 Piranha;
 weapons/br_maa_1/short;MAA-1;
-weapons/br_maa_1_default;Míssil Ar-Ar 1 Piranha;
+weapons/br_maa_1_default;Míssil ar-ar 1 Piranha;
 weapons/br_maa_1_default/short;MAA-1;
 
-weapons/br_580l_amx_1;580 L Tanque Extra;
-weapons/br_580l_amx_1/short;Tanque Extra;
-weapons/br_580l_amx_2;580 L Tanque Extra;
-weapons/br_580l_amx_2/short;Tanque Extra;
+weapons/br_580l_amx_1;580 L tanque extra;
+weapons/br_580l_amx_1/short;Tanque extra;
+weapons/br_580l_amx_2;580 L tanque extra;
+weapons/br_580l_amx_2/short;Tanque extra;

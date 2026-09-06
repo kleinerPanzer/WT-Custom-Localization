@@ -138,7 +138,7 @@ us_lvt_a1_m24_2;LVT
 // Landing Craft (LC) //
 
 us_lcs_l_3_shop;LCS(L)(3)-1
-us_lcs_l_3_0;Landing Craft Support (Large) (Mk. 3), USS LCS(L)(3)-1
+us_lcs_l_3_0;Landing Craft, Support (Large) Mk. 3, USS LCS(L)(3)-1
 us_lcs_l_3_1;LCS(L)(3)-1
 us_lcs_l_3_2;LCS
 
@@ -158,34 +158,34 @@ us_admirable_class_2;AM 136 Class
 // Subchasers & Patrol Boats (PC/SC) //
 
 us_cyclone_class_cyclone_shop;Cyclone (PC 1)
-us_cyclone_class_cyclone_0;PC 1 Class Patrol Boat, USS Cyclone (PC 1)
+us_cyclone_class_cyclone_0;PC 1 Class Patrol Coastal Ship, USS Cyclone (PC 1)
 us_cyclone_class_cyclone_1;Cyclone
 us_cyclone_class_cyclone_2;PC 1 Class
 
 us_pc_451_shop;PC 451
-us_pc_451_0;PC 451 Class Experimental Submarine Chaser, USS PC 451
+us_pc_451_0;PC 451 Class Experimental Submarine Chaser (173’), USS PC 451
 us_pc_451_1;PC 451
 us_pc_451_2;PC 451 Class
 
 us_pc_466_carmi_shop;PC 466
-us_pc_466_carmi_0;PC 461 Class Submarine Chaser, USS PC 466
+us_pc_466_carmi_0;PC 461 Class Submarine Chaser (173’), USS PC 466
 us_pc_466_carmi_1;PC 466
 us_pc_466_carmi_2;PC 461-Class
 
 us_sc_497_shop;SC 497
-us_sc_497_0;SC 497 Class Submarine Chaser, USS SC 497 (1945)
+us_sc_497_0;SC 497 Class Submarine Chaser (110’), USS SC 497 (1945)
 us_sc_497_1;SC 497
 us_sc_497_2;SC 497 Class
 
 // Patrol Gunboat (PG) //
 
 us_flagstaff_pgh1_shop;Flagstaff (PGH 1)
-us_flagstaff_pgh1_0;PGH 1 Class Patrol Gunboat (Hydrofoil), USS Flagstaff (PGH 1)
+us_flagstaff_pgh1_0;PGH 1 Class Hydrofoil Gunboat, USS Flagstaff (PGH 1)
 us_flagstaff_pgh1_1;Flagstaff
 us_flagstaff_pgh1_2;PGH 1 Class
 
 us_tucumcari_pgh2_shop;Tucumcari (PGH 2)
-us_tucumcari_pgh2_0;PGH 2 Class Patrol Gunboat (Hydrofoil), USS Tucumcari (PGH 2)
+us_tucumcari_pgh2_0;PGH 2 Class Hydrofoil Gunboat, USS Tucumcari (PGH 2)
 us_tucumcari_pgh2_1;Tucumcari
 us_tucumcari_pgh2_2;PGH 2 Class
 
@@ -206,23 +206,23 @@ us_ashville_class_douglas_2;PGM 92 Class
 // Frigate (PF) // 
 
 us_frigate_tacoma_shop;Hoquiam (PF 5)
-us_frigate_tacoma_0;PF 3 Class Patrol Frigate, USS Hoquiam (PF 5)
+us_frigate_tacoma_0;PF 3 Class Frigate, USS Hoquiam (PF 5)
 us_frigate_tacoma_1;Hoquiam
 us_frigate_tacoma_2;PF 3 Class
 us_frigate_tacoma_sub_event_shop;Hoaquiam (PF 5)
-us_frigate_tacoma_sub_event_0;PF 3 Class Patrol Frigate, USS Hoquiam (PF 5)
+us_frigate_tacoma_sub_event_0;PF 3 Class Frigate, USS Hoquiam (PF 5)
 us_frigate_tacoma_sub_event_1;Hoquiam
 us_frigate_tacoma_sub_event_2;PF 3 Class
 
 // Destroyer Escort (DE) //
 
 us_frigate_buckley_class_coolbaugh_shop;Coolbaugh (DE 217)
-us_frigate_buckley_class_coolbaugh_0;DE 51 Class Escort Ship, USS Coolbaugh (DE 217)
+us_frigate_buckley_class_coolbaugh_0;DE 51 Class Escort Vessel, USS Coolbaugh (DE 217)
 us_frigate_buckley_class_coolbaugh_1;Coolbaugh
 us_frigate_buckley_class_coolbaugh_2;DE 51 Class
 
 us_frigate_dealey_shop;Dealey (DE 1006)
-us_frigate_dealey_0;DE 1006 Class Escort Ship, USS Dealey (DE 1006)
+us_frigate_dealey_0;DE 1006 Class Escort Vessel, USS Dealey (DE 1006)
 us_frigate_dealey_1;Dealey
 us_frigate_dealey_2;DE 1006 Class
 
@@ -556,10 +556,10 @@ us_aircraftcarrier_enterprise_1;Enterprise
 us_aircraftcarrier_enterprise_2;CV 5 Class
 
 // Forrestal //
-us_aircraftcarrier_forrestal_shop;Forrestal (CVA 59)
-us_aircraftcarrier_forrestal_0;CVA 59 Class Attack Aircraft Carrier, USS Forrestal (CVA 59) (1975)
+us_aircraftcarrier_forrestal_shop;Forrestal (CV 59)
+us_aircraftcarrier_forrestal_0;CV 59 Class Multi-Purpose Aircraft Carrier, USS Forrestal (CV 59) (1975)
 us_aircraftcarrier_forrestal_1;Forrestal
-us_aircraftcarrier_forrestal_2;CVA 59 Class
+us_aircraftcarrier_forrestal_2;CV 59 Class
 
 // Other //
 us_cargo_ship_liberty_shop;John W. Brown

@@ -6,13 +6,12 @@ cn_plz_83_130_shop;130 mm SP Gun-Howitzer
 cn_plz_83_130_0;130 mm Self-Propelled Gun-Howitzer
 cn_plz_83_130_1;130 mm SP Gun-Howitzer
 cn_plz_83_130_2;130 mm SP Gun-Howitzer
-cn_type_69_2a_shop;Type 69-II
-cn_type_69_2a_0;"Type 69-II Main Battle Tank
-1984"
+cn_type_69_2a_shop;Type 69-IIA
+cn_type_69_2a_0;"Type 69-IIa Main Battle Tank"
 cn_type_69_2a_1;Type 69-II
 cn_type_69_2a_2;Type 69
 cn_wz_305_shop;Type 80
-cn_wz_305_0;Type 80 57 mm Self-Propelled Anti-Aircraft Gun
+cn_wz_305_0;Type 80 Twin 57 mm Self-Propelled Anti-Aircraft Gun
 cn_wz_305_1;Type 80
 cn_wz_305_2;Type 80
 
@@ -24,7 +23,7 @@ cn_wma_301_1;WMA301
 cn_wma_301_2;WMA301
 cn_vt_4_shop;VT4
 cn_vt_4_0;"VT4 Main Battle Tank
-2016"
+<color=#C0C0C0>2016 model</color>"
 cn_vt_4_1;VT4
 cn_vt_4_2;VT4
 cn_vt_4b_shop;VT4A1
@@ -33,18 +32,18 @@ cn_vt_4b_1;VT4A1
 cn_vt_4b_2;VT4
 cn_mbt2000_shop;MBT-2000
 cn_mbt2000_0;"MBT-2000 Main Battle Tank
-2009"
+<color=#C0C0C0>2009 production</color>"
 cn_mbt2000_1;MBT-2000
 cn_mbt2000_2;MBT-2000
 cn_mbt2000_sm_shop;◍ MBT-2000
 cn_mbt2000_sm_0;"MBT-2000 Main Battle Tank
-2009"
+<color=#C0C0C0>2009 production</color>"
 cn_mbt2000_sm_1;◍ MBT-2000
 cn_mbt2000_sm_2;MBT-2000
 
 cn_pgz_625_fb10_shop;CS/SA5
 cn_pgz_625_fb10_0;"CS/SA5 30mm Wheeled Self-Propelled Anti-Aircraft Gun
-2022"
+<color=#C0C0C0>2022 model</color>"
 cn_pgz_625_fb10_1;CS/SA5
 cn_pgz_625_fb10_2;SPAA
 
@@ -56,11 +55,11 @@ cn_qn506_2;QN-506
 // HELI // 
 
 z_10me_shop;Z10ME-02
-z_10me_0;Z10ME-02 Attack Helicopter
+z_10me_0;Z10ME-02 Armed Helicopter
 z_10me_1;Z10ME
 z_10me_2;Z10
 z_19e_shop;Z19E
-z_19e_0;Z19E Attack Helicopter
+z_19e_0;Z19E Armed Helicopter
 z_19e_1;Z19E
 z_19e_2;Z19
 

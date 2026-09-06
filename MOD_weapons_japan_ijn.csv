@@ -1,30 +1,31 @@
 <ID|readonly|noverify>;<NewLanguage>
 
 // CANNONS MGS //
-weapons/gunType92_turret;九二式7,7mm機銃;
 weapons/gunType92;九二式7,7mm機銃;
+weapons/gunType92_turret;九二式7,7mm機銃;
 weapons/7_7mm_80_type_92_naval_user_machinegun;九二式7,7mm重機関銃;
 
-weapons/gunType97_turret;九七式7.7mm固定機銃;
 weapons/gunType97;九七式7.7mm固定機銃;
+weapons/gunType97_turret;九七式7.7mm固定機銃;
 
-weapons/gun_type1_turret;一式7,92mm旋回機銃;
+weapons/gunType1_turret;一式7,92mm旋回機銃;
 
 weapons/13_2mm_76_type93_naval_user_machinegun;九三式十三粍固定機銃;
 
-weapons/gunType1_turret;一式13mm旋回機銃;
 weapons/gunType2_turret;二式13mm旋回機銃;
 
-weapons/cannonType99_turret;九九式二十粍機銃一号;
 weapons/cannonType99;九九式二十粍機銃一号;
+weapons/cannonType99_turret;九九式二十粍機銃一号;
+weapons/cannonType99mark3;九九式二十粍機銃一号三型
+weapons/cannonType99mark4;九九式二十粍機銃一号
 weapons/cannonType99Mk2;九九式二十粍機銃二号;
 weapons/cannonType99Mod2_mark3_turret;九九式二十粍機銃二号三型;
 weapons/cannonType99Mod2_mark5_turret;九九式二十粍機銃二号五型;
 
 weapons/25mm_60_type96_naval_user_cannon;九六式25mm高角機銃;
 
-weapons/cannonType5_external;五式3cm固定機銃;
 weapons/cannonType5;五式3cm固定機銃;
+weapons/cannonType5_external;五式3cm固定機銃;
 
 weapons/40mm_62_hi_type91_naval_user_cannon;毘式四糎連装機銃;
 
@@ -185,20 +186,20 @@ weapons/jp_type97mod6/short;60 kg 九七式;
 weapons/jp_navy_type97mod6_60kg;60 kg 海軍九七式六番陸用爆弾;
 weapons/jp_navy_type97mod6_60kg/short;60 kg 九七式;
 
-weapons/jp_navy_type98mod25_250kg;250 kg 海軍九八式二五番陸用爆弾;
-weapons/jp_navy_type98mod25_250kg/short;250 kg 九八式;
 weapons/jp_type98mod25;250 kg 海軍九八式二五番陸用爆弾;
 weapons/jp_type98mod25/short;250 kg 九八式;
+weapons/jp_navy_type98mod25_250kg;250 kg 海軍九八式二五番陸用爆弾;
+weapons/jp_navy_type98mod25_250kg/short;250 kg 九八式;
 
-weapons/jp_navy_type99mod25_250kg;250 kg 海軍九九式二五番通常爆弾;
-weapons/jp_navy_type99mod25_250kg/short;250 kg 九九式;
 weapons/jp_type99mod25;250 kg 海軍九九式二五番一型通常爆弾;
 weapons/jp_type99mod25/short;250 kg 九九式;
+weapons/jp_navy_type99mod25_250kg;250 kg 海軍九九式二五番通常爆弾;
+weapons/jp_navy_type99mod25_250kg/short;250 kg 九九式;
 
-weapons/jp_navy_type99mod80_800kg;800 kg 海軍九九式八〇番徹甲爆弾;
-weapons/jp_navy_type99mod80_800kg/short;800 kg 九九式;
 weapons/jp_type99mod80;800 kg 海軍九九式二五番五型徹甲爆弾;
 weapons/jp_type99mod80/short;800 kg 九九式;
+weapons/jp_navy_type99mod80_800kg;800 kg 海軍九九式八〇番徹甲爆弾;
+weapons/jp_navy_type99mod80_800kg/short;800 kg 九九式;
 
 weapons/jp_ijnaf_type_3_number_150_1500kg_ap;1500 kg 海軍三式一五〇番徹甲爆弾;
 weapons/jp_ijnaf_type_3_number_150_1500kg_ap/short;1500 kg 三式;

@@ -12,8 +12,10 @@ meteor_fmk8_belgium_0;Meteor F. Mk. 8
 meteor_fmk8_belgium_1;♔ Meteor Mk. 8
 meteor_fmk8_belgium_2;Meteor
 
-spitfire_fr_mk14e_belgium_shop;♔ Spitfire F. Mk. XIV (e)
-spitfire_fr_mk14e_belgium_0;Spitfire F. Mk. XIV (e)
+spitfire_fr_mk14e_belgium_shop;♔ Spitfire FR. Mk. XIV (e)
+spitfire_fr_mk14e_belgium_0;"Spitfire FR. Mk. XIV (e)
+<color=#C0C0C0>Clipped Wing</color>
+<color=#C0C0C0>Feb 1945 modifications</color>"
 spitfire_fr_mk14e_belgium_1;♔ Spitfire Mk. XIV
 spitfire_fr_mk14e_belgium_2;Spitfire
 
@@ -34,16 +36,18 @@ f_16a_block_15_belgium_2;F-16
 
 f_16a_block_15_ocu_belgium_shop;♔ F-16A-15 OCU
 f_16a_block_15_ocu_belgium_0;"F-16A-15 OCU CF
-FA-110"
+<color=#E3D452>FA-110</color>"
 f_16a_block_15_ocu_belgium_1;♔ F-16A
 f_16a_block_15_ocu_belgium;F-16
 
-f_16am_block_15_mlu_belgium_shop;♔ F-16AM-20
-f_16am_block_15_mlu_belgium_0;F-16AM-20 CF
+f_16am_block_15_mlu_belgium_shop;♔ F-16AM
+f_16am_block_15_mlu_belgium_0;F-16AM CF
 f_16am_block_15_mlu_belgium_1;♔ F-16AM
 f_16am_block_15_mlu_belgium_2;F-16
-f_16am_block_15_mlu_fs_belgium_shop;♔ F-16AM-20 (2 W Tac)
-f_16am_block_15_mlu_fs_belgium_0;F-16AM-20 CF (2ième Wing Tactique) (FA-110)
+f_16am_block_15_mlu_fs_belgium_shop;♔ F-16AM
+f_16am_block_15_mlu_fs_belgium_0;"F-16AM CF
+<color=#E3D452>2ième Wing Tactique</color>
+<color=#E3D452>FA-110</color>"
 f_16am_block_15_mlu_fs_belgium_1;♔ F-16AM
 f_16am_block_15_mlu_fs_belgium_2;F-16
 
@@ -56,7 +60,7 @@ fr_m44_1;♔ M44
 fr_m44_2;M44
 
 fr_m55_shop;♔ M55
-fr_m55_0;Obusier automoteur de 8 p M44
+fr_m55_0;Obusier automoteur de 8 p M55
 fr_m55_1;♔ M55
 fr_m55_2;M55
 

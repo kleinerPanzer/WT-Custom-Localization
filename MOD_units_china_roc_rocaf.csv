@@ -4,9 +4,9 @@ shop/group/f_86_china_group;☀ F-86F-30 / ☀ F-86F-40
 shop/group/f_5a_china_group;☀ F-5A-25 / ☀ F-5E
 
 // F-47 //
-f_47n_25_re_china_shop;☀F-47N-25 (第48中隊)
+f_47n_25_re_china_shop;☀F-47N-25
 f_47n_25_re_china_0;"F-47N-25 RE雷霆式戰鬥機
-第48中隊"
+<color=#E3D452>第48中隊</color>"
 f_47n_25_re_china_1;☀ F-47N
 f_47n_25_re_china_2;F-47
 
@@ -25,9 +25,9 @@ f-84g_china_shop;☀ F-84G-21
 f-84g_china_0;F-84G-21 RE雷霆式戰鬥機
 f-84g_china_1;☀ F-84G
 f-84g_china_2;F-84
-f-84g-31-re_china_shop;☀ F-84G-31 (第一中隊)
+f-84g-31-re_china_shop;☀ F-84G-31
 f-84g-31-re_china_0;"F-84G-31 RE雷霆式戰鬥機
-第一大隊第一中隊"
+<color=#E3D452>第一大隊第一中隊</color>"
 f-84g-31-re_china_1;☀ F-84G
 f-84g-31-re_china_2;F-84
 
@@ -46,9 +46,9 @@ f-100a_china_shop;☀ F-100A-16
 f-100a_china_0;F-100A-16 MC超級式戰鬥機
 f-100a_china_1;☀ F-100A
 f-100a_china_2;F-100
-f_100f_china_shop;☀ F-100F-6 (第48中隊)
+f_100f_china_shop;☀ F-100F-6
 f_100f_china_0;"F-100F-6超級式戰鬥機
-第48中隊, 空軍2聯隊"
+<color=#E3D452>第48中隊, 空軍2聯隊</color>"
 f_100f_china_1;☀ F-100F
 f_100f_china_2;F-100
 

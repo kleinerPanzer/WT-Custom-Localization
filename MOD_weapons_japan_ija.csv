@@ -14,8 +14,10 @@ weapons/gunTe-1_turret;7.7 mm 試製単銃身旋回機関銃一型
 weapons/gunTe4;7.7 mm 試製単銃身旋回機関銃二型
 weapons/7_7mm_Type_97_user_machinegun;7.7 mm 九七式車載重機関銃
 
-weapons/gunType98_turret;7.92 mm 九八式旋回機関銃
+weapons/gun_type1_turret;一式7,92mm旋回機銃;
+
 weapons/gunType98;7.92 mm 九八式旋回機関銃
+weapons/gunType98_turret;7.92 mm 九八式旋回機関銃
 
 weapons/gunHo103;一式十二・七粍固定機関砲
 weapons/gunHo103_turret;一式十二・七粍旋回機関砲

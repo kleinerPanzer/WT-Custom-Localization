@@ -2,6 +2,8 @@
 
 // MITRAILLEUSES + CANONS-MITRAILLEURS //
 
+weapons/gunVikkersMkI;Mitrailleuse de 7,7 mm Vickers
+
 weapons/8mm_Hotchkiss_Mle1914_user_machinegun;8 mm Hotchkiss modèle 1914;
 weapons/8mm_hotchkiss_1914_naval_user_machinegun;8 mm Hotchkiss modèle 1914;
 
@@ -37,6 +39,8 @@ weapons/13_2mm_Hotchkiss_Mle_1930_user_machinegun;13,2 mm Hotchkiss modèle 1930
 
 weapons/13_2mm_browning_naval_user_machinegun;Mitrailleuse de 13,2 mm Browning;
 
+weapons/cannonHispano404;20 mm Hispano-Suiza tipo 404;
+weapons/cannonHispano404_turret;20 mm Hispano-Suiza tipo 404;
 weapons/cannonHispano_hs9;20 mm Hispano-Suiza tipo HS.9;
 weapons/cannonHispano_hs825;30 mm Hispano-Suiza tipo HS.825;
 weapons/cannonHispano_hs825/short;HS.825;
