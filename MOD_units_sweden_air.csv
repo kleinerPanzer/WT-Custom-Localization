@@ -168,6 +168,11 @@ saab_j35d_shop;J 35D
 saab_j35d_0;Flygplan J 35D Draken
 saab_j35d_1;J 35D
 saab_j35d_2;J 35
+saab_j35j_shop;J 35J
+saab_j35j_0;J 35J Draken
+saab_j35j_1;J 35J
+saab_j35j_2;J 35
+shop/group/saab_j35_group;J 35D / J 35J
 
 saab_aj37_shop;AJ 37
 saab_aj37_0;Flygplan AJ 37 Viggen

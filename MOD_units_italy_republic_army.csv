@@ -1,11 +1,11 @@
 <ID|readonly|noverify>;<NewLanguage>
 shop/group/it_samp_t_fcs_group;SAMP/T
-shop/group/it_fiat_group;FIAT 6616 (T90) / FIAT 6614 (M40A1)
+shop/group/it_fiat_group;6616 (T90) / 6614 (M40A1)
 shop/group/it_of_leo_group;OF 40 Mk. 1 / ⛨ Leopard 1 A2
 shop/group/it_centauro_105_group;Centauro / Centauro (ROMOR)
 shop/group/it_ariete_group;Ariete PSO / Ariete WAR
 shop/group/it_dardo_group;VCC Dardo / Dardo (HITFIST 30)
-
+shop/group/it_m44_55_group;⛨ 155/23 M44 / ⛨ 203/25 M55
 
 
 
@@ -117,6 +117,11 @@ it_m109g_shop;⛨ 155/23 M109G
 it_m109g_0;Obice da 155/23 semovente M109G
 it_m109g_1;⛨ 155/23 M109G
 it_m109g_2;M109
+
+it_pzh_2000_shop;⛨ PzH 2000
+it_pzh_2000_0;Obice semovente PzH 2000
+it_pzh_2000_1;⛨ PzH 2000
+it_pzh_2000_2;PzH 2000
 
 it_m113a1_tow_shop;⛨ VTT M113A1 TOW
 it_m113a1_tow_0;Veicolo transporto truppe M113A1 versione TOW

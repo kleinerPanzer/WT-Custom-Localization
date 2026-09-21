@@ -261,6 +261,12 @@ us_destroyer_porter_1942_0;DD 356 Class Destroyer, USS Moffett (DD 362)
 us_destroyer_porter_1942_1;Moffett
 us_destroyer_porter_1942_2;DD 356 Class
 
+// Mahan //
+us_destroyer_mahan_class_shop;Mahan (DD 364)
+us_destroyer_mahan_class_0;DD 364 Class Destroyer, USS Mahan (DD 364)
+us_destroyer_mahan_class_1;Mahan
+us_destroyer_mahan_class_2;DD 364 Class
+
 // Gridley //
 us_destroyer_gridley_shop;Gridley (DD 380)
 us_destroyer_gridley_0;DD 380 Class Destroyer, USS Gridley (DD 380) (1943)
@@ -544,22 +550,38 @@ us_aircraftcarrier_lexington_shop;Lexington (CV 2)
 us_aircraftcarrier_lexington_0;CV 2 Class Aircraft Carrier, USS Lexington (CV 2) (1935)
 us_aircraftcarrier_lexington_1;Lexington
 us_aircraftcarrier_lexington_2;CV 2 Class
+us_aircraftcarrier_lexington_ai_shop;Lexington (CV 2)
+us_aircraftcarrier_lexington_ai_0;CV 2 Class Aircraft Carrier, USS Lexington (CV 2) (1935)
+us_aircraftcarrier_lexington_ai_1;Lexington
+us_aircraftcarrier_lexington_ai_2;CV 2 Class
 us_aircraftcarrier_saratoga_shop;Saratoga (CV 3)
 us_aircraftcarrier_saratoga_0;CV 2 Class Aircraft Carrier, USS Saratoga (CV 3) (1944)
 us_aircraftcarrier_saratoga_1;Saratoga
 us_aircraftcarrier_saratoga_2;CV 2 Class
+us_aircraftcarrier_saratoga_ai_shop;Saratoga (CV 3)
+us_aircraftcarrier_saratoga_ai_0;CV 2 Class Aircraft Carrier, USS Saratoga (CV 3) (1944)
+us_aircraftcarrier_saratoga_ai_1;Saratoga
+us_aircraftcarrier_saratoga_ai_2;CV 2 Class
 
 // Yorktown //
 us_aircraftcarrier_enterprise_shop;Enterprise (CV 6)
 us_aircraftcarrier_enterprise_0;CV 5 Class Aircraft Carrier, USS Enterprise (CV 6) (1942)
 us_aircraftcarrier_enterprise_1;Enterprise
 us_aircraftcarrier_enterprise_2;CV 5 Class
+us_aircraftcarrier_enterprise_ai_shop;Enterprise (CV 6)
+us_aircraftcarrier_enterprise_ai_0;CV 5 Class Aircraft Carrier, USS Enterprise (CV 6) (1942)
+us_aircraftcarrier_enterprise_ai_1;Enterprise
+us_aircraftcarrier_enterprise_ai_2;CV 5 Class
 
 // Forrestal //
 us_aircraftcarrier_forrestal_shop;Forrestal (CV 59)
 us_aircraftcarrier_forrestal_0;CV 59 Class Multi-Purpose Aircraft Carrier, USS Forrestal (CV 59) (1975)
 us_aircraftcarrier_forrestal_1;Forrestal
 us_aircraftcarrier_forrestal_2;CV 59 Class
+us_aircraftcarrier_forrestal_ai_shop;Forrestal (CV 59)
+us_aircraftcarrier_forrestal_ai_0;CV 59 Class Multi-Purpose Aircraft Carrier, USS Forrestal (CV 59) (1975)
+us_aircraftcarrier_forrestal_ai_1;Forrestal
+us_aircraftcarrier_forrestal_ai_2;CV 59 Class
 
 // Other //
 us_cargo_ship_liberty_shop;John W. Brown

@@ -62,7 +62,9 @@ weapons/76mm_3_23_mk4_naval_user_cannon;3”/23 Caliber Gun Mk 4 Mod 0;
 76mm_mk3_common;Common Mk 3 Mod 0;
 76mm_mk26_aa;AA Mk 26 Mod 0;
 weapons/cannonBrowning-Colt_Mk12_Mod3;20 mm Cannon Mk 12 Mod 3;
+weapons/cannonBrowning-Colt_Mk12_Mod3/short;Mk 12 Mod 3;
 weapons/cannonBrowning-Colt_Mk12_Mod0;20 mm Cannon Mk 12 Mod 0;
+weapons/cannonBrowning-Colt_Mk12_Mod0/short;Mk 12 Mod 0;
 weapons/127mm_25_5inch_mk13_naval_user_cannon;5”/25 Caliber Gun Mk 13 Mod 0;
 127mm_25_aac_mk36;AAC Mk 36 Mod 0;
 127mm_25_vt_aac_mk28;AAC-VT Mk 28 Mod 0;
@@ -130,6 +132,8 @@ weapons/320mm_mk108_weapon_alfa_rocket_launcher;Anti-Submarine Rocket Launcher M
 weapons/320mm_mk108_weapon_alfa_rocket_launcher/short;ASRL Mk 108 Mod 0;
 weapons/us_533mm_21in_mark35_torpedo;21” Torpedo Mk 35 Mod 0;
 weapons/us_533mm_21in_mark35_torpedo/short;Mk 35 Mod 0;
+weapons/de_533mm_mk35_torpedo;21” Torpedo Mk 35 Mod 0;
+weapons/de_533mm_mk35_torpedo/short;Mk 35 Mod 0;
 weapons/us_mine_mk13_mod0;1000-lb Mine Mk 13 Mod 0;
 weapons/us_mine_mk13_mod0/short;Mk 13 Mod 0;
 weapons/305mm_50_12inch_mk7_naval_user_cannon;12”/50 Caliber Gun Mk 7 Mod 0;

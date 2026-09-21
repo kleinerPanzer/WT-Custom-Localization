@@ -22,8 +22,8 @@ weapons/us_5_in_hvar_b_default;5” Aircraft Rocket (5” Rocket Head Mk 6 Mod 1
 weapons/us_11_75_in_tiny_tim_army;11.75” Aircraft Rocket (11.75” Rocket Head Mk 4 Mod 0 | 11.75” Rocket Motor Mk 3 Mod 4);
 weapons/uk_hvar;5” Aircraft Rocket (5” Rocket Head Mk 6 Mod 1 | 5” Rocket Motor Mk 2 Mod 0);
 weapons/uk_rocket;5” Aircraft Rocket (5” Rocket Head Mk 6 Mod 1 | 5” Rocket Motor Mk 2 Mod 0);
-weapons/us_5_in_ar_mk1;5” Aircraft Rocket (5” Rocket Head Mk 6 Mod 1 | 5” Rocket Motor Mk 2 Mod 0);
-weapons/us_5_in_ar_mk1/short;5” AR (Mk 6);
+weapons/us_5_in_ar_mk1;5” Aircraft Rocket (5” Rocket Head Mk 1 Mod 0 | 3.5” Rocket Motor Mk 1 Mod 0);
+weapons/us_5_in_ar_mk1/short;5” AR (Mk 1);
 weapons/us_2_75_in_ffar_mighty_mouse;Rocket, High-Explosive Dual-Purpose, 2.75” w/ Warhead, M247 (Rocket Motor Mk 4 Mod 10);
 weapons/us_2_75_in_ffar_mighty_mouse/short;2.75” HE-DP (M247 | Mk 4);
 weapons/us_2_75_in_ffar_mighty_mouse_fn_m3p;Rocket, High-Explosive Dual-Purpose, 2.75” w/ Warhead, M247 (Rocket Motor Mk 4 Mod 10);
@@ -36,6 +36,8 @@ weapons/us_2_75_in_ffar_mighty_mouse_m439;Rocket, HE, 2.75” w/ Warhead, M151 (
 weapons/us_2_75_in_ffar_mighty_mouse_m439/short;2.75” HE (M151 | Mk 4);
 weapons/us_2_75_in_ffar_mighty_mouse_default;Rocket, High-Explosive Dual-Purpose, 2.75” w/ Warhead, M247 (Rocket Motor Mk 4 Mod 10);
 weapons/us_2_75_in_ffar_mighty_mouse_default/short;2.75” HE-DP (M247 | Mk 4);
+weapons/us_2_75_in_ffar_mighty_mouse_m151;Rocket, HE, 2.75” w/ Warhead, M151 (Fuze, Rocket, Point Detonating, M427 | Rocket Motor Mk 4 Mod 10);
+weapons/us_2_75_in_ffar_mighty_mouse_m151/short;2.75” HE (M151 | Mk 4);
 weapons/lau_131a_x3;LAU-131/A;
 weapons/lau_131a_x3/short;LAU-131/A;
 us_2_75_in_ffar_mighty_mouse_rockets/name;Rocket, High-Explosive Dual-Purpose, 2.75” w/ Warhead, M247 (Rocket Motor Mk 4 Mod 10);

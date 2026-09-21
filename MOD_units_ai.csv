@@ -106,6 +106,24 @@ wheeled_vehicles/ger_panzerwerfer_42_a_2;Panzerwerfer 42
 wheeled_vehicles/ussr_zis5_fuel_0;ЗиС-5 Топливозаправщик
 wheeled_vehicles/ussr_zis5_fuel_1;ЗиС-5
 wheeled_vehicles/ussr_zis5_fuel_2;ЗиС-5
+wheeled_vehicles/ussr_zil_131_awning_0;ЗиЛ-131
+wheeled_vehicles/ussr_zil_131_awning_1;ЗиЛ-131
+wheeled_vehicles/ussr_zil_131_awning_2;ЗиЛ-131
+wheeled_vehicles/ussr_zil_131_fuel_carrier_0;ЗиЛ-131
+wheeled_vehicles/ussr_zil_131_fuel_carrier_1;ЗиЛ-131
+wheeled_vehicles/ussr_zil_131_fuel_carrier_2;ЗиЛ-131
+wheeled_vehicles/ussr_zil_131_awning_ammo_carrier_0;ЗиЛ-131
+wheeled_vehicles/ussr_zil_131_awning_ammo_carrier_1;ЗиЛ-131
+wheeled_vehicles/ussr_zil_131_awning_ammo_carrier_2;ЗиЛ-131
+wheeled_vehicles/us_m35a2_awning_ammo_carrier_0;M35A2
+wheeled_vehicles/us_m35a2_awning_ammo_carrier_1;M35A2
+wheeled_vehicles/us_m35a2_awning_ammo_carrier_2;M35
+wheeled_vehicles/us_m35a2_awning_0;M35A2
+wheeled_vehicles/us_m35a2_awning_1;M35A2
+wheeled_vehicles/us_m35a2_awning_2;M35
+wheeled_vehicles/us_m35a2_fuel_carrier_0;M35A2
+wheeled_vehicles/us_m35a2_fuel_carrier_1;M35A2
+wheeled_vehicles/us_m35a2_fuel_carrier_2;M35
 wheeled_vehicles/ussr_kamaz_4310_awning_0;КамАЗ-4310
 wheeled_vehicles/ussr_kamaz_4310_awning_1;КамАЗ-4310
 wheeled_vehicles/ussr_kamaz_4310_awning_2;КамАЗ-4310
@@ -212,9 +230,15 @@ ships/germ_dd_z28_searchlight_top_2;Zerstörer Typ 1936
 ships/ussr_aircraftcarrier_admiral_kuznetsov_0;Адмирал Флота Советского Союза Кузнецов
 ships/ussr_aircraftcarrier_admiral_kuznetsov_1;Адмирал Флота Советского Союза Кузнецов
 ships/ussr_aircraftcarrier_admiral_kuznetsov_2;Пр. 1143
+ships/ussr_aircraftcarrier_admiral_kuznetsov_ai_0;Адмирал Флота Советского Союза Кузнецов
+ships/ussr_aircraftcarrier_admiral_kuznetsov_ai_1;Адмирал Флота Советского Союза Кузнецов
+ships/ussr_aircraftcarrier_admiral_kuznetsov_ai_2;Пр. 1143
 ships/jp_aircraftcarrier_shokaku_0;翔鶴
 ships/jp_aircraftcarrier_shokaku_1;翔鶴
 ships/jp_aircraftcarrier_shokaku_2;翔鶴型
+ships/jp_aircraftcarrier_shokaku_ai_0;翔鶴
+ships/jp_aircraftcarrier_shokaku_ai_1;翔鶴
+ships/jp_aircraftcarrier_shokaku_ai_2;翔鶴型
 wheeled_vehicles/truck_arcade_0;Cargo Truck
 wheeled_vehicles/truck_arcade_1;Cargo Truck
 wheeled_vehicles/truck_arcade_2;Truck
@@ -1134,6 +1158,12 @@ us_ai_aew_radar_tps_59_2;AN/TPS-59
 us_ai_sam_radar_cwar_0;Radar Set, Guided Missile System, HAWK Air Defense, AN/MPQ-34
 us_ai_sam_radar_cwar_1;AN/MPQ-34
 us_ai_sam_radar_cwar_2;AN/MPQ-34
+us_ai_sam_radar_an_mpq_34_cwar_0;Radar Set, Guided Missile System, HAWK Air Defense, AN/MPQ-34
+us_ai_sam_radar_an_mpq_34_cwar_1;AN/MPQ-34
+us_ai_sam_radar_an_mpq_34_cwar_2;AN/MPQ-34
+us_ai_sam_radar_an_mpq_33_0;Radar Set, Guided Missile System, HAWK Air Defense, AN/MPQ-33
+us_ai_sam_radar_an_mpq_33_1;AN/MPQ-33
+us_ai_sam_radar_an_mpq_33_2;AN/MPQ-33
 us_ai_sam_radar_an_mpq_53_0;Radar Set, Semitrailer Mounted, AN/MPQ-53
 us_ai_sam_radar_an_mpq_53_1;AN/MPQ-53
 us_ai_sam_radar_an_mpq_53_2;AN/MPQ-53
@@ -1152,6 +1182,9 @@ ussr_ai_sam_radar_5n63s_2;5Н63С
 ussr_ai_sam_radar_9s18_0;Станция обнаружения и целеуказания 9С18
 ussr_ai_sam_radar_9s18_1;9С18
 ussr_ai_sam_radar_9s18_2;9С18
+ussr_ai_sam_radar_9s18m1_0;Станция обнаружения и целеуказания 9С18М1
+ussr_ai_sam_radar_9s18m1_1;9С18М1
+ussr_ai_sam_radar_9s18m1_2;9С18
 us_ai_mlrs_m270_0;Launcher, Rocket, Armored Vehicle Mounted, M270
 us_ai_mlrs_m270_1;M270
 us_ai_mlrs_m270_2;M270
@@ -1170,9 +1203,15 @@ us_ai_sam_launcher_m901_2;M901
 us_ai_sam_launcher_m192_0;Launcher, Zero-Length, Guided Missile, M192
 us_ai_sam_launcher_m192_1;M192
 us_ai_sam_launcher_m192_2;M192
+us_ai_sam_launcher_m192_early_0;Launcher, Zero-Length, Guided Missile, M192
+us_ai_sam_launcher_m192_early_1;M192
+us_ai_sam_launcher_m192_early_2;M192
 ussr_ai_sam_launcher_5p85se_0;Самоходная пусковая установка 5П85СЕ
 ussr_ai_sam_launcher_5p85se_1;5П85СЕ
 ussr_ai_sam_launcher_5p85se_2;5П85
 ussr_ai_sam_launcher_9a310_0;Боевая машина 9А310
 ussr_ai_sam_launcher_9a310_1;9А310
 ussr_ai_sam_launcher_9a310_2;9А310
+ussr_ai_sam_launcher_9a310m1_0;Боевая машина 9А310М1
+ussr_ai_sam_launcher_9a310m1_1;9А310М1
+ussr_ai_sam_launcher_9a310m1_2;9А310

@@ -92,7 +92,7 @@ attachables/slasher_hatchet;Slasher’s Hatchet;
 attachables/christmas_wreath;Christmas Wreath;
 attachables/stalingrad_sword;Sword of Stalingrad;
 attachables/round_shield;Round Shield;
-attachables/param/maxSurfaceAngle;Decorator can be installed on a surface with a slope of not more than {value}°;
+attachables/param/maxSurfaceAngle;Decoration can be installed on a surface with a slope of not more than {value}°;
 attachables/fifa_cup;Super Cup;
 attachables/cannibal_axe;Cannibal Axe;
 attachables/golden_ball;Golden Ball;
@@ -342,4 +342,13 @@ attachables/decor_dakimakura_anime_ling;Dakimakura "Ling"
 attachables/decor_dakimakura_anime_usagi_a;Dakimakura "Usagi"
 attachables/decor_dakimakura_anime_usagi_b;Dakimakura "Usagi on the Beach"
 attachables/decor_trb_seal_paper_box;Badger's Sekrit Documents
+attachables/decor_shamshir;Shamshir
+attachables/decor_military_raft;Homemade raft
+attachables/decor_mortar_hammer;Homemade sledgehammer
+attachables/decor_era_kontakt_1;Reactive armour
+attachables/type98_shin_gunto_ten;Ten of Swords
+attachables/type98_shin_gunto_ten/desc;To celebrate the 10th anniversary of the launch of War Thunder in Japan on DMM GAMES, this 3D decoration for ground vehicles features a military sword imbued with the spirit of the samurai, symbolizing mutual support.
+attachables/decor_fox_girl;Tadano Kitsune
+attachables/decor_fox_girl/desc;To celebrate the 10th anniversary of the launch of War Thunder in Japan on DMM GAMES, 3D decoration of official mascot Tadanō Kitsune.
+attachables/decor_9m14m_golden;Golden ATGM
 CLIPPED_LANG_KEEP_IT_ALWAYS_FIRST;;

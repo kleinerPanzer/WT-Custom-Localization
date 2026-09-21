@@ -1,11 +1,11 @@
 <ID|readonly|noverify>;<NewLanguage>
 loading_bg/login_bkg_1_63_nolayers_jp;キ87
 loading_bg/login_bkg_1_63_nolayers_ru;FIX ME;FIX ME;
-loading_bg/login_bkg_1_63_nolayers_uk;Update 1.63 "Desert Hunters" — Swingfire & Brigand
+loading_bg/login_bkg_1_63_nolayers_uk;Update 1.63 "Desert Hunters" — FV438 & Brigand B.1
 loading_bg/login_bkg_1_63_nolayers_us;Update 1.63 "Desert Hunters" — M163 & F-9E
 loading_bg/login_bkg_1_67_nolayers_ger;Update 1.67 "Assault" — RU 251 & Ju 87 B-2
 loading_bg/login_bkg_1_67_nolayers_jp;Update 1.67 "Assault" — P-47N-15 & キ67甲
-loading_bg/login_bkg_1_67_nolayers_main;Update 1.67 "Assault" — Centurion Mk. I*
+loading_bg/login_bkg_1_67_nolayers_main;Update 1.67 "Assault" — Centurion I*
 loading_bg/login_bkg_1_67_nolayers_ru;FIX ME;FIX ME;
 loading_bg/login_bkg_1_67_nolayers_us;Update 1.67 "Assault" — T14 & B-10B
 loading_bg/login_keyart_f_100d;F-100D-66
@@ -33,7 +33,8 @@ loading_bg/login_layer_aircraft_marathon_workhorse;◗ F-16A-5
 loading_bg/login_layer_amx_50_1950;Char 50t (TO 90/930)
 loading_bg/login_layer_amx_elc_901;E.L.C./A.M.X. (T.C. 901)
 loading_bg/login_layer_apex_predators;Update "Apex Predators"
-loading_bg/login_layer_arizona_1931;Arizona (BB-39)
+loading_bg/login_layer_arizona_1931;Arizona (BB 39)
+loading_bg/login_layer_arjun_mk1;अर्जुन मार्क I
 loading_bg/login_layer_armored_vehicles;Update "La Royale" — Wheeled IFVs
 loading_bg/login_layer_armoured_fighting_vehicles;Update "Ninth Wave" — Wheeled Vehicles
 loading_bg/login_layer_art_ukdest;Matapan (I 43)
@@ -42,27 +43,28 @@ loading_bg/login_layer_atomic_thunder;Atomic Thunder
 loading_bg/login_layer_atomic_thunder_twins_01;Atomic Heart — МиГ-15
 loading_bg/login_layer_atomic_thunder_twins_02;Atomic Heart — War Machines
 loading_bg/login_layer_avre;Centurion Mk. 5 AVRE
+loading_bg/login_layer_aw_159;Wildcat HMA.2
 loading_bg/login_layer_b1;PBY-5
 loading_bg/login_layer_b1_bis;B1 bis
-loading_bg/login_layer_battlecruiser_alaska;Alaska (CB-1)
+loading_bg/login_layer_battlecruiser_alaska;Alaska (CB 1)
 loading_bg/login_layer_battlecruiser_hood;Hood (51)
 loading_bg/login_layer_battlecruiser_izmail;Измаил
 loading_bg/login_layer_battlecruiser_von_der_tann;Von der Tann
-loading_bg/login_layer_battleship_dreadnought;Dreanought
+loading_bg/login_layer_battleship_dreadnought;Dreadnought
 loading_bg/login_layer_battleship_nelson;Nelson (28)
 loading_bg/login_layer_battleship_prince_of_wales;Prince of Wales (53)
 loading_bg/login_layer_battleship_scharnhorst;Scharnhorst
 loading_bg/login_layer_black_night;Challenger 2 BN
-loading_bg/login_layer_bmp3;БМП-3 (2017)
+loading_bg/login_layer_bmp3;БМП-3
 loading_bg/login_layer_bmpt_72;БМПТ-72 & БМПТ
 loading_bg/login_layer_bo_105;PAH 1
 loading_bg/login_layer_c1;F-86A-5
 loading_bg/login_layer_call_of_the_dragon;Объ. 292
-loading_bg/login_layer_centurion_mk2;Centurion Mk. II
+loading_bg/login_layer_centurion_mk2;Centurion II
 loading_bg/login_layer_changhe_z10;Z10
 loading_bg/login_layer_chaparral;M48A2
 loading_bg/login_layer_char_2c;Char 2C
-loading_bg/login_layer_churchill_crocodile;Churchill Mk. VII Crocodile
+loading_bg/login_layer_churchill_crocodile;Churchill VII Crocodile
 loading_bg/login_layer_cn_spaag;PGZ09 & PGZ04A
 loading_bg/login_layer_cruiser_garibaldi_class_abruzzi;Luigi di Savoia Duca degli Abruzzi
 loading_bg/login_layer_d1;He 111 H-2
@@ -71,7 +73,7 @@ loading_bg/login_layer_desert_2022;Worm Thunder: Children of Arachis
 loading_bg/login_layer_desert_warrior;سراف
 loading_bg/login_layer_desmonies_nevada;Des Moines (CA 134) & Nevada (BB 36)
 loading_bg/login_layer_douglas_a_1h;A-1H (VA-145)
-loading_bg/login_layer_dyn_1_81_ussr;Т-80Б (1985)
+loading_bg/login_layer_dyn_1_81_ussr;Т-80Б
 loading_bg/login_layer_e1;Tiger I (März 1943) & Fw 190 A-5/U12
 loading_bg/login_layer_elefant;Elefant
 loading_bg/login_layer_f1;Пе-2-83
@@ -93,7 +95,7 @@ loading_bg/login_layer_football_event_2025;Tank Football — What a Kick!
 loading_bg/login_layer_forrestal;Forrestal (CVA 59) &  A-4B
 loading_bg/login_layer_football_event_2026;Tank Football — Team Dragons
 loading_bg/login_layer_fr_1_73;Update 1.73 "Vive la France" — French Air Forces
-loading_bg/login_layer_fr_amx;AMX 40 P4
+loading_bg/login_layer_fr_amx;AMX 40 (P02)
 loading_bg/login_layer_g1;キ84-I乙
 loading_bg/login_layer_g5_e;Q5
 loading_bg/login_layer_g6_rhino;G6-45
@@ -112,8 +114,10 @@ loading_bg/login_layer_iris_slm_launch;LV-Sys IRIS-T SLM
 loading_bg/login_layer_israel_aircraft;Update "Winged Lions" — Israeli Air Forces
 loading_bg/login_layer_it_cent;Centauro
 loading_bg/login_layer_it_g91;G.91 R/4 (Es. 301)
+loading_bg/login_layer_it_fiat_6616_ub;6616 (TC 20) (УБ-16)
 loading_bg/login_layer_it_gg;G.91 R/1
 loading_bg/login_layer_j1;Spitfire Mk. Ia & Bf 109 E-4
+loading_bg/login_layer_j16;J16
 loading_bg/login_layer_j_15t;J15T
 loading_bg/login_layer_j_8f;J8F
 loading_bg/login_layer_jaguar;Jaguar GR.1
@@ -142,7 +146,7 @@ loading_bg/login_layer_m551_76;M551 (M32)
 loading_bg/login_layer_m6a2e1;M6A2E1-1
 loading_bg/login_layer_mad_thunder;Mad Thunder
 loading_bg/login_layer_mi_24_super_hind;Night Hawk
-loading_bg/login_layer_mi_8_to_55;ТО-55 (1969)
+loading_bg/login_layer_mi_8_to_55;ТО-55
 loading_bg/login_layer_mig19pt;МиГ-19ПТ
 loading_bg/login_layer_mig21;МиГ-21Ф-13
 loading_bg/login_layer_mig23_m;МиГ-23М
@@ -164,7 +168,7 @@ loading_bg/login_layer_p51_1_71;Update 1.71 "New E.R.A." — P-51H-10 & XA-38
 loading_bg/login_layer_panhard_ebr_1963;EBR 90 F1
 loading_bg/login_layer_pgz_625_fb10;CS/SA5
 loading_bg/login_layer_pt_76_57;ПТ-76Б (БМ-57)
-loading_bg/login_layer_pucara;IA.58A
+loading_bg/login_layer_pucara;IA 58A
 loading_bg/login_layer_pzh_2000;PzH 2000 A1
 loading_bg/login_layer_q1;Canberra B.2
 loading_bg/login_layer_r1;FIX ME;FIX ME;
@@ -179,10 +183,13 @@ loading_bg/login_layer_saab_j32b;J 32B
 loading_bg/login_layer_saab_j35;J 35D
 loading_bg/login_layer_saab_ja37;JA 37C
 loading_bg/login_layer_seek_and_destroy;Update "Seek & Destroy"
+loading_bg/login_layer_ship_marathon_guardian_of_the_baltic_sea;Октябрьская Революция
 loading_bg/login_layer_ship_marathon_hiburi;四阪
 loading_bg/login_layer_ship_marathon_oklakhoma;Oklahoma (BB 37)
 loading_bg/login_layer_ship_marathon_strasbourg;Strasbourg
 loading_bg/login_layer_sholef;V1 ףלוש
+loading_bg/login_layer_sky_odyssey;Update "Sky Odyssey"
+loading_bg/login_layer_space_program;F-16XL
 loading_bg/login_layer_spitfire_mk9c_greece;✙ Spitfire LF. Mk. IX (CW)
 loading_bg/login_layer_spz_12_3;SPz lang (LGS)
 loading_bg/login_layer_static_1_81_ussr;FIX ME;FIX ME;
@@ -201,10 +208,10 @@ loading_bg/login_layer_submarine_convoy_hunting;Battle of the Atlantic
 loading_bg/login_layer_sw_tanks;Update 1.97 "Viking Fury" — Swedish Ground Forces
 loading_bg/login_layer_swedish_aircrafts;Update 1.95 "Northern Wind" — Swedish Air Forces
 loading_bg/login_layer_t1;Update 1.41 — USSR Ground Forces
-loading_bg/login_layer_t72b;Т-72Б3М (2016)
-loading_bg/login_layer_t90;Т-90А (2006)
+loading_bg/login_layer_t72b;Т-72Б3М
+loading_bg/login_layer_t90;Т-90А
 loading_bg/login_layer_t_44_po;Т-44 (1-я обр.)
-loading_bg/login_layer_t_80bvm;Т-80БВМ (2016)
+loading_bg/login_layer_t_80bvm;Т-80БВМ
 loading_bg/login_layer_tactical_wheeled_vehicle;25RCV
 loading_bg/login_layer_the_great_war;The Great War
 loading_bg/login_layer_thunder_toon_air;TailSpin

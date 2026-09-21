@@ -132,6 +132,8 @@ modification/ju_88_SC500;SC 500;
 modification/ju_88_SC500/desc;Allows installation of 500 kg bombs.;
 modification/ju_88_SC1000;SC 1000;
 modification/ju_88_SC1000/desc;Allows installation of 1000 kg bomb.;
+modification/etc1600	PC 1600
+modification/etc1600/desc	Allows the installation of 1600 kg bombs.
 modification/ju_88_SC1800;SC 1800;
 modification/ju_88_SC1800/desc;Allows installation of 1800 kg bombs.;
 modification/fx1400;FX 1400;

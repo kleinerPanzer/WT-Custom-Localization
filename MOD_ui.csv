@@ -320,6 +320,7 @@ HUD_NO_FUEL_DUMPING;Fuel dumping is unavailable
 HUD_FUEL_DUMPING_TOO_FAST;Fuel dumping is unavailable: speed too high
 HUD_FUEL_DUMPING_WEP_TOO_SLOW;Fuel dumping is unavailable: WEP active at a low speed
 HUD_FUEL_DUMPING_TOO_SLOW;Fuel dumping is unavailable: speed is too low
+HUD_FUEL_DUMPING_BROKEN;Fuel dumping unavailable: dumping system has been broken
 hints/you_can_exit;You can safely change your aircraft
 hints/you_can_exit_nokey;You can safely change your aircraft (key not assigned)
 hints/safely_leave_possible_ground_model;You can safely change your vehicle
@@ -1482,12 +1483,16 @@ HUD/TXT_ENGINE_3_CONTROL_ON;Third engine controls on.
 HUD/TXT_ENGINE_4_CONTROL_ON;Fourth engine controls on.
 HUD/TXT_ENGINE_5_CONTROL_ON;Fifth engine controls on.
 HUD/TXT_ENGINE_6_CONTROL_ON;Sixth engine controls on.
+HUD/TXT_ENGINE_7_CONTROL_ON;Seventh engine controls on.
+HUD/TXT_ENGINE_8_CONTROL_ON;Eighth engine controls on.
 HUD/TXT_ENGINE_1_CONTROL_OFF;First engine controls off.
 HUD/TXT_ENGINE_2_CONTROL_OFF;Second engine controls off.
 HUD/TXT_ENGINE_3_CONTROL_OFF;Third engine controls off.
 HUD/TXT_ENGINE_4_CONTROL_OFF;Fourth engine controls off.
 HUD/TXT_ENGINE_5_CONTROL_OFF;Fifth engine controls off.
 HUD/TXT_ENGINE_6_CONTROL_OFF;Sixth engine controls off.
+HUD/TXT_ENGINE_7_CONTROL_OFF;Seventh engine controls off.
+HUD/TXT_ENGINE_8_CONTROL_OFF;Eighth engine controls off.
 HUD/TXT_ENGINE_ALL_CONTROL_ON;All engine controls on.
 HUD/TXT_NO_TURBO_CHARGER_CONTROL;No turbocharger control available
 HUD/TXT_HIGH_ENGINE_RPM;High engine RPM.
@@ -1651,7 +1656,7 @@ HUD/TXT_CHOOSE_ALIVE_TARGET_FOR_SCOUTING;Destroyed targets cannot be scouted
 HUD/TXT_CHOOSE_GROUND_TARGET_FOR_SCOUTING;Only ground targets can be scouted
 HUD/TXT_TARGET_ALREADY_SCOUTED;This target has already been scouted
 HUD/TXT_MUST_SEE_SCOUTING_TARGET;Target is out of sight
-hints/ccrp_bomb_not_ready;To drop bombs, hold down the %s bomb release button and aim for the sighting line.
+hints/ccrp_bomb_not_ready;To drop bombs, hold down the %s bomb release button and aim for the aiming line.
 hints/critical_buoyancy;Buoyancy is critical
 hints/critical_buoyancy_nokey;Buoyancy is critical
 hints/torpedo_deadzone;Torpedo tube aim in a dead zone
@@ -1954,6 +1959,7 @@ hud/yak_30;YK30
 hud/yak_130;Y130
 hud/yak_141;YK41
 hud/su_7;SU7
+hud/su_15;SU15
 hud/su_17;SU17
 hud/su_24;SU24
 hud/su_25;SU25
@@ -1992,6 +1998,7 @@ hud/f_16;F16
 hud/f_18;F18H
 hud/f_20;F5
 hud/mq_1;Q1
+hud/orion;KORN
 hud/hunter;HNTR
 hud/harrier;HAR
 hud/lightning;LTNG
@@ -2041,6 +2048,7 @@ hud/zsu_37_2;37-2
 hud/2s6;2S6
 hud/roland;RLND
 hud/patriot;PTRT
+hud/standart;SM
 hud/s300;S300
 hud/hawk;HAWK
 hud/strela_10;STRL
@@ -2066,6 +2074,7 @@ hud/antelope;ANTP
 hud/hq_17;HQ17
 hud/hq_11;HQ11
 hud/pgz_625;SA5
+hud/fk_2000;FK2K
 hud/otomatic;OTO
 hud/samp_t;SAMP
 hud/amx_30_dca;DCA
@@ -2166,6 +2175,7 @@ TXT_NO_REVERSE_CONTROL;No thrust reversal
 TXT_CANT_ENGAGE_REVERSE_IN_AIR;Unable to engage reverse thrust in the air
 TXT_DISANGAGE_REVERSE_IN_AIR;Reverse thrust disengage after takeoff
 HUD/CHAFFS_SHORT;CHFF
+TOWED_DECOY_SHORT_START;
 HUD/TXT_TRANSMISSION_MANUAL; [M]
 my_dmg_msg/aircraft;Hydroplane damaged
 my_dmg_msg/catapult;Catapult damaged
@@ -2267,6 +2277,7 @@ ils/us_aim_120b;MRM
 ils/us_aim_120b_default;MRM
 ils/us_agm_88a;HRM
 ils/us_agm_88c;HRM
+ils/us_agm_88g;HRM
 ils/us_agm_84d;HRP
 ils/us_aim_120c_5;MRM
 ils/us_aim_120c_5_default;MRM
@@ -2327,12 +2338,15 @@ ils/jp_aam3/f15mfd;AAM3
 ils/jp_aam3_default/f15mfd;AAM3
 ils/jp_asm1;ASM
 ils/jp_asm2;ASM
+ils/jp_asm3;ASM
 ils/il_pyton_3/f15mfd;P3
 ils/il_pyton_3_default/f15mfd;P3
 ils/il_pyton_4/f15mfd;P4
 ils/cn_pl12/f15mfd;PL12
 ils/cn_ld10/f15mfd;LD12
 ils/cn_pl8b/f15mfd;PL8
+ils/su_rvv_ae/f15mfd;77
+ils/su_rvv_ae_default/f15mfd;77
 ils/il_pyton_3;P3
 ils/il_pyton_3_default;P3
 ils/su_r_60;60
@@ -2365,8 +2379,8 @@ ils/su_r_77_default;77
 ils/su_r_77_1;77-1
 ils/su_r_77_1_default;77-1
 ils/su_r_77_1_default/typhoon/short;77-1
-ils/su_rvv_ae_default;RVVAE
-ils/su_rvv_ae;RVVAE
+ils/su_rvv_ae_default;77
+ils/su_rvv_ae;77
 ils/su_rvv_sd;RVVSD
 ils/su_rvv_sd_default;RVVSD
 ils/su_r_27t;27Т
@@ -2600,6 +2614,8 @@ ils/us_2000lb_gbu_24/f_15e/1;GBU24
 ils/us_2000lb_gbu_24/f_15e/2;
 ils/us_2000lb_gbu_15v2/f_15e/1;GBU15
 ils/us_2000lb_gbu_15v2/f_15e/2;
+ils/us_2000lb_gbu_15v22/f_15e/1;GBU15
+ils/us_2000lb_gbu_15v22/f_15e/2;
 ils/us_500lb_gbu38_usaf/f_15e/1;GBU38
 ils/us_500lb_gbu38_usaf/f_15e/2;
 ils/us_500lb_gbu38_usnavy/f_15e/1;GBU38
@@ -2638,6 +2654,8 @@ ils/us_agm_88a/f_15e/1;HARM
 ils/us_agm_88a/f_15e/2;
 ils/us_agm_88c/f_15e/1;HARM
 ils/us_agm_88c/f_15e/2;
+ils/us_agm_88g/f_15e/1;HARM
+ils/us_agm_88g/f_15e/2;
 ils/us_500lb_mk_82_ldgp/f_15e/1;MK82
 ils/us_500lb_mk_82_ldgp/f_15e/2;
 ils/us_500lb_mk_82_ldgp_snakeye/f_15e/1;MK82SN
@@ -2672,6 +2690,8 @@ ils/jp_asm1/f_15e/1;ASM1
 ils/jp_asm1/f_15e/2;
 ils/jp_asm2/f_15e/1;ASM2
 ils/jp_asm2/f_15e/2;
+ils/jp_asm3/f_15e/1;ASM3
+ils/jp_asm3/f_15e/2;
 ils/us_apkws_m151/f_15e/1;AGR20A
 ils/us_apkws_m151/f_15e/2;
 ils/us_apkws_m282/f_15e/1;AGR20B
@@ -2720,6 +2740,7 @@ ils/swd_rb71_default;RB71
 ils/swd_rb74m;RB74M
 ils/swd_rb74m_default;RB74M
 ils/swd_rb75t;RB75T
+ils/swd_rb_15f;RB15
 ils/us_500lbs_mk_82_ldgp;MK82
 ils/us_aim9l_sidewinder/a_10c;AIM9L
 ils/us_aim9l_sidewinder_default/a_10c;AIM9L
@@ -2799,6 +2820,8 @@ ils/us_aim_120b/typhoon;MRAAM
 ils/us_aim_120b/typhoon/short;M
 ils/us_agm_88c/typhoon;HARM
 ils/us_agm_88c/typhoon/short;H
+ils/us_agm_88g/typhoon;HARM
+ils/us_agm_88g/typhoon/short;H
 ils/us_aim_120c_5/typhoon;MRAAM
 ils/us_aim_120c_5/typhoon/short;M
 ils/us_aim_120c_5_default/typhoon;MRAAM
@@ -2852,6 +2875,10 @@ ils/cn_ld10/typhoon;LD10
 ils/cn_ld10/typhoon/short;LD10
 ils/cn_pl8b_default/typhoon;PL8
 ils/cn_pl8b_default/typhoon/short;PL8
+ils/su_rvv_ae/typhoon;77
+ils/su_rvv_ae/typhoon/short;77
+ils/su_rvv_ae_default/typhoon;77
+ils/su_rvv_ae_default/typhoon/short;77
 ils/uk_1000lb_enhanced_paveway2_mk13/typhoon;EPW2
 ils/uk_1000lb_enhanced_paveway2_mk13/typhoon/short;EPW2
 ils/de_hosbo_glide_bomb/typhoon;HB
@@ -2870,6 +2897,7 @@ ils/us_2000lb_gbu_24/rafale;GBU24
 ils/fr_250kg_aasm_250_hammer_gps/rafale;AASM
 ils/fr_250kg_aasm_250_hammer_ir/rafale;AASM
 ils/fr_250kg_aasm_250_hammer_laser/rafale;AASM
+ils/fr_exocet_am39_block_2/rafale;AM39
 ils/fr_250_samp_type_25/rafale;SAMP
 ils/cn_ts_250;GB250
 ils/cn_ls_500j;GB500
@@ -2922,6 +2950,8 @@ ils/cn_pl12_default/targo;PL12
 ils/cn_pl12/targo;PL12
 ils/cn_ld10/targo;LD10
 ils/cn_pl12a/targo;PL12
+ils/su_rvv_ae/targo;77
+ils/su_rvv_ae_default/targo;77
 ils/cn_type90_heat/targo;90-1
 ils/cn_type130_ap/targo;130-2
 ils/cn_gp_250_3/targo;250-3
@@ -2951,8 +2981,10 @@ ils/us_500lb_gbu_62_jdam_er;GBU62
 ils/us_gbu_39;GBU39
 ils/us_gbu_53;GBU53
 ils/su_apk_9;APK
-ils/su_kh_31ad;31AD
-ils/su_kh_31pd;31PD
+ils/su_kh_35u;35
+ils/su_kh_35ue;35
+ils/su_kh_31ad;31АД
+ils/su_kh_31pd;31ПД
 ils/su_kh_31a;31A
 ils/su_kh_31p_l_111;31П
 ils/su_kh_31p_l_112;31П
@@ -2960,6 +2992,9 @@ ils/su_kh_31p_l_113;31П
 ils/su_kh_58u_a_band;58У
 ils/su_kh_58u_b_band;58У
 ils/su_kh_58u_c_band;58У
+ils/su_kh_58ush;58
+ils/su_kh_58ushk;58
+ils/su_kh_58ushke;58
 ils/us_1000lb_mk_83_ldgp_air;83B
 fire_in_tank;On fire!
 HUD/CHOICE_OF_VEHICLE;Choose a vehicle to control
@@ -3000,6 +3035,9 @@ fcs_target_course;Target course:
 fcs_calculating;Calculating:
 fcs_attack_bearing;attack bearing: 
 fcs_target_distance;distance: 
+fcs_torpedo_ready_to_launch;Ready to launch
+fcs_torpedo_too_far_to_launch;Out of torpedo range
+hud/sonarMaxRange;Max. range
 dmg_msg_short/ship_air_tank;pressurised air tanks
 dmg_msg_short/ship_ballast_tank;ballast tank
 dmg_msg_short/ship_battery;battery
@@ -3010,7 +3048,7 @@ part_destroyed/hydroplane_gear;hydroplane
 part_destroyed/ship_ballast_tank;ballast tank
 part_destroyed/air_tank;pressurised air tanks
 NET_PLAYER_SHOT_BY_AIR_DEFENCE;shot down by air defense.
-hints/how_to_use_binocular;Stand under the hill or in cover and turn on binocular mode to safely look around the area
+hints/how_to_use_binocular;Take position behind cover and switch to binocular mode to safely observe the area
 hints/how_to_use_binocular_2;Use the fire button to aim the gun at the binoculars' crosshairs
 hints/how_to_use_range_finder;Point the sight at the target and measure the distance to it
 hints/how_to_use_range_finder_2;The range to the target has been measured. Accept the correction for shooting at this distance
@@ -3185,6 +3223,7 @@ mfd/f_18_wpn/us_agm_65g;MAVG
 mfd/f_18_wpn/us_agm_84h_slam_er;SLAMER
 mfd/f_18_wpn/us_agm_88a;HARM
 mfd/f_18_wpn/us_agm_88c;HARM
+mfd/f_18_wpn/us_agm_88g;HARM
 mfd/f_18_wpn/us_agm_84d;HARP
 mfd/f_18_wpn/us_aim_120a;AA
 mfd/f_18_wpn/us_aim_120b;AB
@@ -3248,6 +3287,8 @@ mfd/f_2a_wpn/jp_asm1/full;A-SM1
 mfd/f_2a_wpn/jp_asm1/short;S1
 mfd/f_2a_wpn/jp_asm2/full;A-SM2
 mfd/f_2a_wpn/jp_asm2/short;S2
+mfd/f_2a_wpn/jp_asm3/full;A-SM3
+mfd/f_2a_wpn/jp_asm3/short;S3
 mfd/f_2a_wpn/us_2_75_in_ffar_mighty_mouse/full;FFAR
 mfd/f_2a_wpn/us_2_75_in_ffar_mighty_mouse/short;FF
 mfd/f_2a_wpn/us_2000lb_gbu31_usaf/full;GB-31
@@ -3274,6 +3315,10 @@ mfd/f_2a_wpn/us_aim7m_sparrow_f_16/full;A-7M
 mfd/f_2a_wpn/us_aim7m_sparrow_f_16/short;7M
 mfd/f_2a_wpn/us_aim7m_sparrow_f_16_default/full;A-7M
 mfd/f_2a_wpn/us_aim7m_sparrow_f_16_default/short;7M
+mfd/f_2a_wpn/us_aim9l_sidewinder/full;A-9L
+mfd/f_2a_wpn/us_aim9l_sidewinder/short;9L
+mfd/f_2a_wpn/us_aim9m_sidewinder/full;A-9M
+mfd/f_2a_wpn/us_aim9m_sidewinder/short;9M
 mfd/f_2a_wpn/us_zuni_wafar_mk32/full;10S
 mfd/f_2a_wpn/us_zuni_wafar_mk32/short;10S
 mfd/f_5th_wpn/il_derby;DRBY
@@ -3344,7 +3389,7 @@ mfd/su_30sm_wpn/su_upab_1500b_e;1500Б
 mfd/su_30sm_wpn/su_upab_500b_e;500Б
 mfd/su_30sm_wpn/su_zb_500;ЗБ500
 mfd/su_30sm_wpn/su_r_73e;73
-mfd/su_30sm_wpn/su_rvv_ae;РВВ
+mfd/su_30sm_wpn/su_rvv_ae;77
 mfd/su_30sm_wpn/us_gbu_12_paveway_2;GBU12
 mfd/su_30sm_wpn/cn_pl12;PL12
 mfd/su_30sm_wpn/cn_ld10;LD10
@@ -3355,6 +3400,11 @@ mfd/su_30sm_wpn/su_kh_31pd;31PD
 mfd/su_30sm_wpn/su_kh_31p_l_111;31P
 mfd/su_30sm_wpn/su_kh_31p_l_112;31P
 mfd/su_30sm_wpn/su_kh_31p_l_113;31P
+mfd/su_30sm_wpn/su_kh_35u;35
+mfd/su_30sm_wpn/su_kh_35ue;35
+mfd/su_30sm_wpn/su_kh_58ush;58
+mfd/su_30sm_wpn/su_kh_58ushk;58
+mfd/su_30sm_wpn/su_kh_58ushke;58
 mfd/m346_fa_wpn/us_aim9l_sidewinder;A-9L
 mfd/m346_fa_wpn/us_aim9l_sidewinder_default;A-9L
 mfd/m346_fa_wpn/us_aim_120b;A120B
@@ -3480,5 +3530,7 @@ exp_reasons/kill_from_severe_damage;Assist count as kill;
 exp_reasons/kill_helicopter_finishing_other;Helicopter Destroyed;
 exp_reasons/kill_helicopter_from_severe_damage;Super-critical hit;
 exp_reasons/kill_helicopter;Helicopter Destroyed;
+hud/tooltip/airfield;Airfield
+tacticalMapTooltipSwitch;Show tooltips when hovering the cursor over map objects
 
 hint/mouseClick;

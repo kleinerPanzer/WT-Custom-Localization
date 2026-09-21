@@ -1,6 +1,8 @@
 <ID|readonly|noverify>;<NewLanguage>
 weapons/130mm_rapier_launcher_user_cannon;Rapier Launcher
 weapons/130mm_rapier_launcher_user_cannon/short;Rapier Launcher
+130mm_rapier_mk1;Rapier Mk. 1
+weapons/130mm_rapier_mk1/short;Rapier Mk. 1
 130mm_rapier_mk1e;Rapier Mk. 1E
 130mm_rapier_mk2;Rapier Mk. 2
 weapons/130mm_rapier_mk1e/short;Rapier Mk. 1E
@@ -61,3 +63,7 @@ weapons/uk_sea_eagle_wo_radar_designation;Sea Eagle
 weapons/uk_sea_eagle_wo_radar_designation/short;Sea Eagle
 weapons/uk_alarm;Air Launched Anti-Radiation Missile
 weapons/uk_alarm/short;ALARM
+weapons/uk_martlet;Guided Missile, H.E., K194A1, Martlet
+weapons/uk_martlet/short;Martlet
+weapons/uk_martlet_default;Guided Missile, H.E., K194A1, Martlet
+weapons/uk_martlet_default/short;Martlet

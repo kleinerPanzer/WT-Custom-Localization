@@ -3,6 +3,7 @@
 // MASCHINENGEWEHR //
 weapons/7_92mm_mg08_user_machinegun;7,92 mm Maschinengewehr 08;
 weapons/gunLMG0815;7,92 mm Leichte-Maschinengewehr 08/15
+weapons/gunLMG0815/short;LMG 08/15
 
 weapons/7_92mm_MG13_Dreyse_user_machinegun;7,92 mm Maschinengewehr 13 (Dreyse);
 
@@ -10,11 +11,15 @@ weapons/gunMG14_turret;7,92 mm Maschinengewehr 14
 weapons/gunMG14_turret/short;MG 14
 
 weapons/gunMG15;7,92 mm Flugzeugmaschinengewehr 15;
+weapons/gunMG15/short;MG 15
 weapons/gunMG15_turret;7,92 mm Flugzeugmaschinengewehr 15;
+weapons/gunMG15_turret/short;MG 15
 weapons/7_92mm_mg15_1936_naval_user_machinegun;7,92 mm Flugzeugmaschinengewehr 15;
 
 weapons/gunMG17;7,92 mm Flugzeugmaschinengewehr 17;
+weapons/gunMG17/short;MG 17
 weapons/gunMG17_turret;7,92 mm Flugzeugmaschinengewehr 17;
+weapons/gunMG17_turret/short;MG 17
 
 weapons/7_92mm_MG34_user_machinegun;7,92 mm Maschinengewehr 34;
 weapons/7_92mm_mg34_1934_naval_user_machinegun;7,92 mm Maschinengewehr 34;
@@ -26,14 +31,21 @@ weapons/15mm_mg_m38t_naval_user_machinegun;15 mm Flugabwehrmaschinengewehr 39(t)
 weapons/7_92mm_MG42_user_machinegun;7,92 mm Maschinengewehr 42;
 
 weapons/gunMG81;7,92 mm Flugzeugmaschinengewehr 81;
+weapons/gunMG81/short;MG 81
 weapons/gunMG81_turret;7,92 mm Flugzeugmaschinengewehr 81;
+weapons/gunMG81_turret/short;MG 81
 weapons/gunMG81_underwing;7,92 mm Flugzeugmaschinengewehr 81;
+weapons/gunMG81_underwing/short;MG 81
 
 weapons/gunMG131;13 mm Flugzeugmaschinengewehr 131;
+weapons/gunMG131/short;MG 131
 weapons/gunMG131_turret;13 mm Flugzeugmaschinengewehr 131;
+weapons/gunMG131_turret/short;MG 131
 
 weapons/cannonMG15115;15 mm Flugzeugmaschinengewehr 151;
+weapons/cannonMG15115/short;MG 151
 weapons/cannonMG15115_underwing;15 mm Flugzeugmaschinengewehr 151;
+weapons/cannonMG15115_underwing/short;MG 151
 weapons/15mm_MG151_user_cannon;15 mm Flugzeugmaschinengewehr 151;
 weapons/15mm_MG151_mid_drilling_user_cannon;15 mm Fluzeugmaschinengewehr 151;
 weapons/15mm_MG151_out_drilling_user_cannon;15 mm Fluzeugmaschinengewehr 151;
@@ -41,8 +53,11 @@ weapons/15mm_mg151_1936_naval_user_cannon;15 mm Flugzeugmaschinengewehr 151;
 weapons/15mm_mg151_1936_overheating_naval_user_cannon;15 mm Flugzeugmaschinengewehr 151;
 
 weapons/cannonMG15120;20 mm Flugzeugmaschinengewehr 151/20;
+weapons/cannonMG15120/short;MG 151/20
 weapons/cannonMG15120_underwing;20 mm Flugzeugmaschinengewehr 151/20;
+weapons/cannonMG15120_underwing/short;MG 151/20
 weapons/cannonMG15120_turret;20 mm Flugzeugmaschinengewehr 151/20;
+weapons/cannonMG15120_turret/short;MG 151/20
 weapons/20mm_mg151_20_mid_drilling_user_cannon;20 mm Flugzeugmaschinengewehr 151/20
 weapons/20mm_mg151_20_out_drilling_user_cannon;20 mm Flugzeugmaschinengewehr 151/20
 weapons/20mm_MG151_20_user_cannon;20 mm Flugzeugmaschinengewehr 151/20;
@@ -50,8 +65,11 @@ weapons/20mm_MG151_20_user_cannon;20 mm Flugzeugmaschinengewehr 151/20;
 weapons/cannonOerliconFF;20 mm Flugzeugmaschinengewehr FF
 weapons/cannonOerliconFF/short;FF;
 weapons/cannonMGFF;20 mm Flugzeugmaschinengewehr FF;
+weapons/cannonMGFF/short;MG FF
 weapons/cannonMGFF_turret;20 mm Flugzeugmaschinengewehr FF;
+weapons/cannonMGFF_turret/short;MG FF
 weapons/cannonMGFFM;20 mm Flugzeugmaschinengewehr FF/M;
+weapons/cannonMGFFM/short;MG FF/M
 
 // MASCHINENKANONEN //
 
@@ -59,27 +77,40 @@ weapons/cannonMK101;3 cm Flugzeugmaschinenkanone 101;
 weapons/cannonMK101/short;MK 101;
 
 weapons/cannonMK103;3 cm Flugzeugmaschinenkanone 103;
+weapons/cannonMK103/short;MK 103
 weapons/cannonmk103;3 cm Flugzeugmaschinenkanone 103;
+weapons/cannonmk103/short;MK 103
 weapons/cannonMK103_underwing;3 cm Flugzeugmaschinenkanone 103;
+weapons/cannonMK103_underwing/short;MK 103
 weapons/cannonMK103_underwing_go229;3 cm Flugzeugmaschinenkanone 103;
+weapons/cannonMK103_underwing_go229/short;MK 103
 
 weapons/cannonMK108;3 cm Flugzeugmaschinenkanone 108;
+weapons/cannonMK108/short;MK 108
 weapons/cannonMK108_underwing;3 cm Flugzeugmaschinenkanone 108;
+weapons/cannonMK108_underwing/short;MK 108
 weapons/cannonmk108;3 cm Flugzeugmaschinenkanone 108;
+weapons/cannonmk108/short;MK 108
 
 weapons/cannonMk214a;5 cm Flugzeugmaschinenkanone 214A;
+weapons/cannonMk214a/short;MK 214A
 
 // BORDKANONEN //
 weapons/cannonBK37;3,7 cm Bordkanone 3,7;
+weapons/cannonBK37/short;BK 3,7
 weapons/cannonBK37_underwing;3,7 cm Bordkanone 3,7;
+weapons/cannonBK37_underwing/short;BK 3,7
 
 weapons/cannonBK5;5 cm Bordkanone 5;
+weapons/cannonBK5/short;BK 5
 
 weapons/cannonBK75;7,5 cm Bordkanone 7,5;
+weapons/cannonBK75/short;BK 7,5
 
 // FLAK  //
 weapons/20mm_65_c30_naval_user_cannon;2 cm Flugabwehrkanone C/30;
 weapons/cannonMGC30L;2 cm Flugabwehrkanone C/30L;
+weapons/cannonMGC30L/short;C/30L;
 weapons/20mm_65_c38_vierling_naval_user_cannon;2 cm Flugabwehrkanone-Vierling C/38;
 weapons/20mm_65_c38_naval_user_cannon;2 cm Flugabwehrkanone C/38;
 weapons/20mm_65_c38_zwilling_naval_user_cannon;2 cm Flugabwehrkanone-Zwilling C/38;
@@ -290,6 +321,7 @@ weapons/128mm_45_skc_41_naval_user_cannon/short;12,8 cm Schnellladekanone C/41;
 30mm_MGr;Minengeschoßgranate;
 30mm_PzGr;Panzergranate;
 30mm_PzBrGr;Panzerbrandsatzgranate;
+30mm_PzSprBrGr;Panzersprengbrandgranate
 30mm_PzGr_H;Hartkern-Panzergranate L’Spur;
 20mm_sprgr;Sprenggranate mit Brandsatz;
 20mm_pzgr;Panzergranate L'spur;

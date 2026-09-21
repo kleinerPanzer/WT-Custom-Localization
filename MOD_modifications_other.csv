@@ -85,7 +85,8 @@ modification/tr_fz49/desc;Allows installation of {unlockWeapons} rockets in HL-1
 modification/tr_fz49;HL-19-70;
 
 // BELGIUM //
-
+modification/fr_fz275/desc	Allows the installation of {unlockWeapons} rockets.
+modification/fr_fz275	FZ275 LGR
 modification/fn_hmp400_lcc;FN HMP400 LCC / LTC;
 modification/fn_hmp400_lcc/desc;Allows installation of FN HMP400 LCC and LTC gun pods.;
 modification/fn_hmp400;FN HMP400 LCC;

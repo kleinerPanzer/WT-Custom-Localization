@@ -37,6 +37,7 @@ shop/group/do_217j_group;Do 217 J-1 / Do 217 J-2
 shop/group/bf-109g_group;Bf 109 G-14 / Bf 109 G-10
 shop/group/do_17_group;Do 17 E-1 / Do 17 Z-2
 shop/group/ju-88a_group;Ju 88 A-1 / Ju 88 A-4
+shop/group/me_210_410_group;Me 210 A-1 / Me 410 A-1/U4 / Me 410 B-2/U4
 
 // ARADO //
 arado-196a-3_shop;Ar 196 A-3
@@ -48,6 +49,10 @@ arado-234_shop;Ar 234 B-2
 arado-234_0;Ar 234 B-2
 arado-234_1;Ar 234 B
 arado-234_2;Ar 234
+arado_234b_2_mt_shop;Ar 234 B-2
+arado_234b_2_mt_0;Ar 234 B-2
+arado_234b_2_mt_1;Ar 234 B
+arado_234b_2_mt_2;Ar 234
 arado-234c-3_shop;Ar 234 C-3
 arado-234c-3_0;Ar 234 C-3
 arado-234c-3_1;Ar 234 C

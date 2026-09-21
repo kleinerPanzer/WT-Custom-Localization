@@ -3,6 +3,7 @@
 // MITRAILLEUSES + CANONS-MITRAILLEURS //
 
 weapons/gunVikkersMkI;Mitrailleuse de 7,7 mm Vickers
+weapons/gunVikkersMkI/short;Vickers
 
 weapons/8mm_Hotchkiss_Mle1914_user_machinegun;8 mm Hotchkiss modèle 1914;
 weapons/8mm_hotchkiss_1914_naval_user_machinegun;8 mm Hotchkiss modèle 1914;
@@ -10,18 +11,27 @@ weapons/8mm_hotchkiss_1914_naval_user_machinegun;8 mm Hotchkiss modèle 1914;
 weapons/7_5mm_MAC_31_user_machinegun;7,5 mm Mitrailleuse MAC modèle 1931;
 weapons/gunMAC34;7,5 mm Mitrailleuse d'Aviation MAC modèle 1934;
 weapons/gunMAC34_turret;7,5 mm Mitrailleuse d'Aviation MAC modèle 1934;
+weapons/gunMAC34_turret/short;MAC mle 34
 weapons/gunMAC34T_turret;7,5 mm Mitrailleuse d'Aviation MAC modèle 1934T;
+weapons/gunMAC34T_turret/short;MAC mle 34T
 weapons/gunMAC39;7,5 mm Mitrailleuse d'Aviation MAC modèle 1934 modifié 39;
+weapons/gunMAC39/short;MAC mle 34 M 39
 weapons/gunMAC39_turret;7,5 mm Mitrailleuse d'Aviation MAC modèle 1934 modifié 39;
+weapons/gunMAC39_turret/short;MAC mle 34 M 39
 
 weapons/7_7mm_darne_mle1922_naval_user_machinegun;7,7 mm Mitrailleuse légère Darne modèle 1922;
 
 weapons/gunDarne23;7,5 mm Mitrailleuse légère Darne modèle 1923;
+weapons/gunDarne23/short;Darne mle 23
 weapons/gunDarne23_turret;7,5 mm Mitrailleuse légère Darne modèle 1923;
+weapons/gunDarne23_turret;Darne mle 23
 
 weapons/gunDarne33;7,5 mm Mitrailleuse Darne modèle 1933;
+weapons/gunDarne33/short;Darne mle 33
 weapons/gunMle33;7,5 mm Mitrailleuse Darne modèle 1933;
+weapons/gunMle33/short;Darne mle 33
 weapons/gunMle33_turret;7,5 mm Mitrailleuse Darne modèle 1933;
+weapons/gunMle33_turret/short;Darne mle 33
 
 weapons/7_5mm_AAT_52_user_machinegun;Arme automatique transformable de 7,5 mm modèle 52
 weapons/7_62mm_AAN_F1_user_machinegun;Arme automatique de 7,62 mm N modèle F1 version C1
@@ -40,23 +50,39 @@ weapons/13_2mm_Hotchkiss_Mle_1930_user_machinegun;13,2 mm Hotchkiss modèle 1930
 weapons/13_2mm_browning_naval_user_machinegun;Mitrailleuse de 13,2 mm Browning;
 
 weapons/cannonHispano404;20 mm Hispano-Suiza tipo 404;
+weapons/cannonHispano404/short;HS.404
 weapons/cannonHispano404_turret;20 mm Hispano-Suiza tipo 404;
+weapons/cannonHispano404_turret/short;HS.404
 weapons/cannonHispano_hs9;20 mm Hispano-Suiza tipo HS.9;
+weapons/cannonHispano_hs9;HS.9
 weapons/cannonHispano_hs825;30 mm Hispano-Suiza tipo HS.825;
 weapons/cannonHispano_hs825/short;HS.825;
+weapons/cannonHispano_hs825_L_53;30 mm Hispano-Suiza tipo HS.825;
+weapons/cannonHispano_hs825_L_53/short;HS.825;
 weapons/cannonM50;20 mm Hispano-Suiza type 404 modèle 50
+weapons/cannonM50/short;HS.404 M 50
+weapons/cannon404_modele50;20 mm Hispano-Suiza type 404 modèle 50
+weapons/cannon404_modele50/short;HS.404 M 50
 
 weapons/cannonGLAT_M621;20 mm M 621;
+weapons/cannonGLAT_M621/short;M 621
 
 weapons/25mm_cn25_m811_user_cannon;Canon-mitrailleur de 25 mm
 
 weapons/cannonDEFA541;30 mm DEFA 541;
+weapons/cannonDEFA541/short;DEFA 541;
 weapons/cannonDEFA551;30 mm DEFA 551;
+weapons/cannonDEFA551/short;DEFA 551;
 weapons/cannonDEFA552;30 mm DEFA 552;
+weapons/cannonDEFA552/short;DEFA 552;
 weapons/cannonDEFA552A;30 mm DEFA 552A;
+weapons/cannonDEFA552A/short;DEFA 552A;
 weapons/cannonDEFA553;30 mm DEFA 553;
+weapons/cannonDEFA553/short;DEFA 553;
 weapons/cannonDEFA553_gunpod;30 mm DEFA 553;
 weapons/cannonDEFA553_gunpod/short;DEFA 553;
+weapons/cannonDEFA553_jaguar;30 mm DEFA 553;
+weapons/cannonDEFA553_jaguar/short;DEFA 553
 weapons/cannonDEFA554;30 mm DEFA 554;
 weapons/cannonDEFA554/short;30 mm DEFA 554;
 weapons/cannonDEFA554_gunpod;30 mm DEFA 554;
@@ -65,6 +91,7 @@ weapons/cannonDEFA554_gunpod/short;DEFA 554;
 weapons/cannonGIAT_type_30_M781;30 mm M 781;
 weapons/cannonGIAT_type_30_M781/short;M 781;
 weapons/cannonGLAT_M791;30 mm M 791;
+weapons/cannonGLAT_M791/short;M 791;
 
 weapons/20mm_m693_amx_10_user_cannon;Canon-mitrailleur de 20 mm modèle F2;
 weapons/20mm_M_693_marder_clovis_user_cannon;Canon-mitrailleur de 20 mm modèle F2;
@@ -257,6 +284,7 @@ weapons/100mm_55_mle_1945_naval_user_cannon;Canon de 100 mm modèle 1945
 100mm_45_common;mle 1902
 100mm_45_ap;mle 1913
 100mm_oea1928_he_df;OEA mle 1928
+100mm_oea1928_he;OEA mle 1928
 100mm_oea1945_he_df;OEA mle 1945
 
 weapons/100mm_55_mle_1953_naval_user_cannon;Canon de 100 mm modèle 53;
@@ -311,6 +339,9 @@ weapons/203mm_50_mle_1924_naval_user_cannon/short;203 mm mle 1924;
 203mm_oea_mle1927_he;OEA mle 1927
 203mm_50_opf_mle1927_sapbc;OPF mle 1927
 203mm_opf_mle1936_apcbc;OPF mle 1936
+weapons/203mm_50_mle_1931_naval_user_cannon;Canon de 203 mm modèle 1931
+weapons/203mm_50_mle_1931_naval_user_cannon/short;203 mm mle 1931
+203mm_oea_mle1931_he;OEA mle 1931
 
 weapons/305mm_45_model_1906_10_naval_user_cannon;Canon de 305 mm modèle 1906/10;
 weapons/305mm_45_model_1906_10_naval_user_cannon/short;305 mm mle 1906/10;

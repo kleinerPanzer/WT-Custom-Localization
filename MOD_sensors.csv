@@ -1,7 +1,10 @@
 <ID|readonly|noverify>;<NewLanguage>
 
 radar;Radar;
+radar/desc	The onboard radar is designed to search, track, and lock onto aerial and, depending on available modes, surface or naval targets. It enables the employment of radar-guided weaponry
+
 radar_irst;Radar/IRST;
+
 irst;IRST;
 radar_tv;Radar/TV Tracker;
 tv;TV Tracker;
@@ -51,7 +54,7 @@ radar_iff;IFF;
 radar_bvr_mode;BVR;
 radar_acm_mode;ACM;
 radar_hms_mode;HMD;
-radar_hms_mode/desc;Helmet Mounted Display
+radar_hms_mode/desc	The helmet-mounted sight allows detecting, tracking, and locking onto targets by turning the pilot's head, without altering the aircraft's flight direction
 radar_nctr;NCTR, types
 radar_sarh;SARH;
 radar_mg;Missile Guidance;
@@ -88,17 +91,19 @@ avionics_sensor_tv;TV;
 avionics_sensor_radar_irst;Radar/IRST;
 avionics_sensor_radar_irst/desc;Radar/Infrared search and track system
 avionics_sensor_rwr;RWR;
-avionics_sensor_rwr/desc;Radar warning receiver
+avionics_sensor_rwr/desc	The radar warning receiver detects hostile radar emissions, alerts the pilot when locked onto, and helps determine the direction to the radiation source
 avionics_sensor_lws;LWS;
 avionics_sensor_lws/desc;Laser Warning Receiver
 avionics_sensor_mlws;MAW;
 avionics_sensor_mlws/des;Missile approach warning system
 avionics_aim_spi;SPI;
 avionics_aim_spi/desc;Aiming point for the selected weapon
+avionics_target_point	Target points
+avionics_target_point/desc	Surface points designated to mark locations of interest for the player, allowing for both single and salvo weapon deployment at selected targets
 avionics_hmd;HMD;
 avionics_hmd/desc;Helmet Mounted Display
 avionics_aim_laser_designator;Laser Designator;
-avionics_aim_laser_designator/desc;Laser designator
+avionics_aim_laser_designator/desc	Laser designation allows targeting for weapons with laser guidance systems
 avionics_countermeasure_ircm;IRCM;
 avionics_auto_cm;Auto CM
 avionics_auto_cm_by_rwr;RWR
@@ -106,9 +111,10 @@ avionics_auto_cm_by_mlws;MAW
 avionics_auto_cm_sensors;Sensors
 avionics_auto_cm_programs;Programs
 CCIP;CCIP;
-CCIP/desc;Constantly computed impact point for the selected weapon
+CCIP/desc	Constantly Computed Impact Point for unguided weaponry. Significantly increases the delivery accuracy of unguided bombs, rockets, and cannons
 sight_AUTO;EEGS;
-sight_AUTO/desc;Ballistic computer for cannon weapons for air-ti-air mod
+sight_AUTO/desc	When a target is tracked by onboard sensors, a lead point is calculated, allowing for more accurate air-to-air cannon fire
 CCRP;CCRP;
-CCRP/desc;Continuously computed release point
+CCRP/desc	A mode that calculates the trajectory and automatically deploys selected guided weapons at a designated point of interest
 sensors/esm;ESM
+optics/system_desc	Optical search, tracking, and designation systems. Optical magnification -

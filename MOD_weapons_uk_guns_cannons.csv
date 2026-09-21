@@ -3,28 +3,39 @@
 // OLD SYSTEM //
 
 weapons/gunBrowning303;Gun, Machine, Browning, .303-inch, Mk. II
+weapons/gunBrowning303/short;Browning Mk. II
 weapons/gunBrowning303_turret;Gun, Machine, Browning, .303-inch, Mk. II
+weapons/gunBrowning303_turret/short;Browning Mk. II
 weapons/gunBrowning303_raf;Gun, Machine, Browning, .303-inch, Mk. II
+weapons/gunBrowning303_raf/short;Browning Mk. II
 weapons/gunBrowning50_raf;Gun, Machine, Browning, Calibre .50, AN/M2
+weapons/gunBrowning50_raf/short;AN/M2
 weapons/gunBrowning50_raf_tutorial;Gun, Machine, Browning, Calibre .50, AN/M2
 weapons/gunBrowning50_raf_tutorial/short;AN/M2
 weapons/gunBrowning50_raf_turret;Gun, Machine, Browning, Calibre .50, AN/M2
+weapons/gunBrowning50_raf_turret/short;AN/M2
 
 weapons/gunVikkersE;Gun, Machine, Vickers, .303-inch, Mk. V
+weapons/gunVikkersE/short;Vickers Mk. V
 weapons/7_7mm_Vikkers_user_machinegun;Gun, Machine, Vickers, .303-inch, Mk. VII
 weapons/gunVikkersK;Gun, Machine, Vickers G.O., .303-inch, No. 1, Mk. I
+weapons/gunVikkersK/short;Vickers G.O. Mk. I
 weapons/gunVikkersK_turret;Gun, Machine, Vickers G.O., .303-inch, No. 1, Mk. I
+weapons/gunVikkersK_turret/short;Vickers G.O. Mk. I
 weapons/7_7mm_vickers_k_user_machinegun;Gun, Machine, Vickers G.O., .303-inch, No. 1, Mk. I
 weapons/7_7mm_vickers_go_no5_naval_user_machinegun;Gun, Machine, Vickers G.O., .303-inch, No. 5, Mk. I
 
 weapons/7_7mm_mg_lewis_user_machinegun;Gun, Machine, Lewis, .303-inch, Mk. I
 weapons/7_7mm_mg_lewis_naval_user_machinegun;Gun, Machine, Lewis, .303-inch, Mk. I
 weapons/gunLewis;Gun, Machine, Lewis, .303-inch, Mk. I
+weapons/gunLewis/short;Lewis Mk. I
 weapons/gunLewis_turret;Gun, Machine, Lewis, .303-inch, Mk. I
+weapons/gunLewis_turret/short;Lewis Mk. I
 weapons/7_7mm_lewis_amg_1916_naval_user_machinegun;Lewis Automatic Machine Gun Model 1916;
 
 weapons/7_92mm_BESA_user_machinegun;Gun, Machine, B.E.S.A., 7.92-mm., Mk. III*
 weapons/7_92mm_BESA_AA_user_machinegun;Gun, Machine, B.E.S.A., 7.92-mm., Mk. III*
+weapons/7_92mm_besa_naval_user_machinegun;Gun, Machine, B.E.S.A., 7.92-mm., Mk. III*
 
 weapons/12_7mm_vickers_mk5_naval_user_machinegun;Gun, Machine, Vickers, .5-inch, Mk. V
 
@@ -40,16 +51,23 @@ weapons/20mm_Oerlikon_user_cannon;Gun, Machine, Oerlikon, 20-mm., Mk. II
 weapons/20mm_Polsten_user_cannon;Gun, Machine, Polsten, 20-mm., Mk. I
 
 weapons/cannonHispanoMkI;Gun, Machine, Hispano, 20-mm., Mk. I
+weapons/cannonHispanoMkI/short;Hispano Mk. I
 weapons/cannonHispanoMkII;Gun, Machine, Hispano, 20-mm., Mk. II
+weapons/cannonHispanoMkII/short;Hispano Mk. II
 weapons/cannonHispanoMkII_tutorial;Gun, Machine, Hispano, 20-mm., Mk. II
 weapons/cannonHispanoMkII_tutorial/short;Hispano Mk. II;
 weapons/cannonHispanoMkV;Gun, Machine, Hispano, 20-mm., Mk. V
+weapons/cannonHispanoMkV/short;Hispano Mk. V
 weapons/cannonHispanoMkV_turret;Gun, Machine, Hispano, 20-mm., Mk. V
+weapons/cannonHispanoMkV_turret/short;Hispano Mk. V
 
 weapons/cannonVickers_S;40 mm Vickers Automatic Gun Class S
+weapons/cannonVickers_S/short;Class S
 weapons/cannonVickers_S_underwing;40 mm Vickers Automatic Gun Class S
+weapons/cannonVickers_S_underwing/short;Class S
 
 weapons/cannonRollsRoyceBH;Rolls-Royce 40 mm Aircraft Cannon Type B.H.
+weapons/cannonRollsRoyceBH/short;Type B.H.
 
 weapons/40mm_Bofors_L60_user_cannon;Bofors 40 mm Gun L/60;
 weapons/40mm_qf_bofors_mk7_single_naval_user_cannon;Ordnance, Q.F. 40-mm., Mk. III
@@ -64,6 +82,7 @@ weapons/40mm_50_2pdr_rolls_royce_mk14_naval_user_cannon;Ordnance, Q.F. 2-pr., Mk
 
 weapons/40mm_QF_2pdr_user_cannon;Ordnance, Q.F. 2-pr., Mk. IX
 weapons/40mm_QF_2pdr_Churchill_user_cannon;Ordnance, Q.F. 2-pr., Mk. IX
+weapons/40mm_50_2pdr_qf_mk9_naval_user_cannon;Ordnance, Q.F. 2-pr., Mk. IX
 40mm_shot_mk1_aphv;Shot Mk. 1 APHV/T;
 40mm_shot_mk1_apcbct;Shot Mk. 1 APCBC/T;
 40mm_shot_mk1_apt;Shot Mk. 1 AP/T;
@@ -71,6 +90,7 @@ weapons/40mm_QF_2pdr_Churchill_user_cannon;Ordnance, Q.F. 2-pr., Mk. IX
 40mm_shell_mk2;Shell Mk. 2;
 
 weapons/cannonVickers_P;47mm Vickers Automatic Gun Class P
+weapons/cannonVickers_P/short;Class P
 
 weapons/47mm_qf3pdr_hotchkiss_naval_user_cannon;Ordnance, Q.F., Hotchkiss, 3-pr., Mk. I
 47mm_pdr_he;Mk. II;
@@ -93,6 +113,7 @@ weapons/57mm_50_6pdr_7cwt_mk5_naval_user_cannon;Ordnance, Q.F. 6-pr. 7-cwt., Mk.
 57mm_shot_mk9t;Shot Mk. 9;
 57mm_shot_mk1bt;Shot Mk. 1 BT;
 weapons/cannonMolinsClassM;Ordnance, Q.F. 6-pr., Class M, Mk. I
+weapons/cannonMolinsClassM/short;Class M Mk. I
 
 weapons/75mm_QQF_MkV_user_cannon;Ordnance, Q.F. 75-mm., Mk. V
 
@@ -265,6 +286,10 @@ weapons/406mm_45_bl_mk1_r1_naval_user_cannon;Ordnance, B.L. 16-inch, Mk. I
 weapons/406mm_45_bl_mk1_r2_naval_user_cannon;Ordnance, B.L. 16-inch, Mk. I
 406mm_uk_he;Mk. Ib HE
 406mm_mark_1a_apcbc;Mk. Ia APCBC
+weapons/406mm_45_bl_mk2_naval_user_cannon;Ordnance, B.L. 16-inch, Mk. II
+406mm_uk_mark_2_apcbc;Mk. IIb APCBC
+406mm_uk_mark_2c_he;16 inch Mk. IIc HE
+
 
 weapons/churchill_flamethrower;Flame Thrower, Crocodile
 
@@ -278,11 +303,12 @@ weapons/178mm_hedgehog_projectile/short;Projectile, Hedgehog;
 
 // NEW SYSTEM //
 
-weapons/cannonADEN_25;25 mm ADEN 25;
-weapons/cannonADEN_25/short;ADEN 25;
-weapons/cannonADEN;30 mm ADEN;
-weapons/cannonADEN_mk4;30 mm ADEN Mk. 4;
-weapons/cannonADEN_mk4/short;ADEN Mk. 4;
+weapons/cannonADEN_25;Gun, Aden 25 mm., Aircraft, Mk. 1
+weapons/cannonADEN_25/short;Aden
+weapons/cannonADEN;Gun, Aden 30 mm., Aircraft, Mk. 2
+weapons/cannonADEN;Aden Mk. 2
+weapons/cannonADEN_mk4;Gun, Aden 30 mm., Aircraft, Mk. 4
+weapons/cannonADEN_mk4/short;Aden Mk. 4;
 
 weapons/7_62mm_L3A1_user_machinegun;Machine Gun, Browning, Calibre .30-in, L3A1;
 
@@ -301,6 +327,8 @@ weapons/7_62mm_L94A1_user_machinegun;Machine Gun, Chain, 7.62 mm, Long, L94A1;
 
 
 weapons/30mm_L21A1_RARDEN_user_cannon;Ordnance, 30-mm Gun, L21A1 (RARDEN);
+30mm_l21a1;APFSDS-T, L21A1
+
 
 weapons/105mm_L7_user_cannon;Ordnance, QF, 105-mm, Tk, L7A1;
 weapons/105mm_L7_Shot_user_cannon;Ordnance, QF, 105-mm, Tk, L7A1;

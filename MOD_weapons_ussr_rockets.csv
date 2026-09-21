@@ -89,6 +89,12 @@ weapons/su_s_5kp_rocket;Неуправляемая авиационная рак
 weapons/su_s_5kp_rocket/short;С-5КП;
 weapons/su_s_5m_rocket;Неуправляемая авиационная ракета С-5М;
 weapons/su_s_5m_rocket/short;С-5М;
+weapons/57mm_s_5kp;Неуправляемая авиационная ракета С-5КП
+weapons/57mm_s_5kp/short;С-5КП
+
+weapons/57mm_ub_16_user_cannon;УБ-16-57М
+weapons/57mm_ub_16_rocket_launcher/short;УБ-16
+57mm_s_5kp;С-5КП
 
 
 // S-8 //

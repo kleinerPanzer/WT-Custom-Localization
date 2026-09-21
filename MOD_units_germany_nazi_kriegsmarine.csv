@@ -102,6 +102,11 @@ germ_rboot_r301_0;Minenräumboot Typ 1942 R 301
 germ_rboot_r301_1;R 301
 germ_rboot_r301_2;Minenräumboot Typ 1942
 
+germ_rboot_r310_shop;R 310
+germ_rboot_r310_0;Minenräumboot Typ 1942 R 310
+germ_rboot_r310_1;R 310
+germ_rboot_r310_2;Minenräumboot Typ 1942
+
 // MINENLEGER //
 germ_minelayer_drache_shop;Drache
 germ_minelayer_drache_0;"Minenleger Drache

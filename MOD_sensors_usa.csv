@@ -16,6 +16,7 @@ sensors/us_an_aar_47a_v2;Missile Warning System, AN/AAR-47A(V)2;
 sensors/us_an_aar_47a_v2_lws;Missile Warning System, AN/AAR-47A(V)2;
 sensors/us_an_aar_54v;Passive Missile Approach Warning System, AN/AAR-54(V);
 sensors/us_an_aar_57;Common Missile Warning System, AN/AAR-57;
+sensors/us_an_aar_57_aw_159;Common Missile Warning System, AN/AAR-57;
 sensors/us_an_aar_57_terma;Common Missile Warning System, AN/AAR-57;
 sensors/us_an_aar_57_maw_300;Common Missile Warning System, AN/AAR-57
 sensors/us_an_aar_60;Missile Launch Detection System, AN/AAR-60;
@@ -31,6 +32,7 @@ sensors/us_an_alr_46_v1;Radar Warning Receiver, AN/ALR-46(V)1;
 sensors/us_an_alr_46_v2;Radar Warning Receiver, AN/ALR-46(V)2;
 sensors/us_an_alr_46_v3;Radar Warning Receiver, AN/ALR-46(V)3;
 sensors/us_an_alr_46_v3_f_5th;Radar Warning Receiver, AN/ALR-46(V)3;
+sensors/us_an_alr_46_v4;Radar Warning Receiver, AN/ALR-46(V)4;
 sensors/us_an_alr_56a;Radar Warning Receiver, AN/ALR-56A;
 sensors/us_an_alr_56c;Radar Warning Receiver, AN/ALR-56C;
 sensors/us_an_alr_56m;Radar Warning Receiver, AN/ALR-56M;
@@ -66,10 +68,12 @@ sensors/us_an_apg_66_v_1;Radar Set, AN/APG-66(V)1;
 sensors/us_an_apg_66_v_2;Radar Set, AN/APG-66(V)2;
 sensors/us_an_apg_66_v_2_hms;Radar Set, AN/APG-66(V)2;
 sensors/us_an_apg_66_v_3;Radar Set, AN/APG-66(V)3;
+sensors/us_an_apg_66_v_3_hms;Radar Set, AN/APG-66(V)3;
 sensors/us_an_apg_66h;Radar Set, AN/APG-66H;
 sensors/us_an_apg_66;Radar Set, AN/APG-66;
 sensors/us_an_apg_66s;Radar Set, AN/APG-66S;
 sensors/us_an_apg_67;Radar Set, AN/APG-67;
+sensors/us_an_apg_68;Radar Set, AN/APG-68;
 sensors/us_an_apg_68_v_5;Radar Set, AN/APG-68(V)5;
 sensors/us_an_apg_68_v_7;Radar Set, AN/APG-68(V)7;
 sensors/us_an_apg_68_v_9;Radar Set, AN/APG-68(V)9;
@@ -84,6 +88,7 @@ sensors/us_an_apg_78;Radar Set, AN/APG-78;
 sensors/us_an_apg_78_v6;Radar Set, AN/APG-78(V)6;
 sensors/us_an_apg_79;Radar Set, AN/APG-79;
 sensors/us_an_apg_83;Radar Set, AN/APG-83
+sensors/us_an_apq_65;Radar Set, AN/APQ-65;
 sensors/us_an_apq_100;Radar Set, AN/APQ-100;
 sensors/us_an_apq_100;Radar Set, AN/APQ-100;
 sensors/us_an_apq_104;Radar Set, AN/APQ-104;
@@ -124,6 +129,8 @@ sensors/us_an_asg_19;Radar Set, AN/ASG-19;
 sensors/us_an_asq_213_esm;HARM Targeting System, AN/ASQ-213 (Release 5)
 sensors/us_an_avr-2;Laser Warning System, AN/AVR-2;
 sensors/us_an_avr-2a;Laser Warning System, AN/AVR-2A;
+sensors/us_an_avr-2a_v1;Laser Warning System, AN/AVR-2A(V)1
+sensors/us_an_avr-2b_v;Laser Warning System, AN/AVR-2B(V)
 sensors/us_an_avs-2;Night Vision Imaging System, AN/AVS-2;
 sensors/us_an_awg_9_tiseo;Radar Set, AN/AWG-9;
 sensors/us_an_mpq_50;Radar Set, AN/MPQ-50
@@ -163,6 +170,8 @@ sensors/us_lws_310;LWS-310
 sensors/us_m_247_track;Radar Set, AN/APG-66;
 sensors/us_ma_1;MA-1;
 sensors/us_md_1a;MD-1A;
+sensors/us_mg_10;MG-10
+sensors/us_mg_10_irst;MG-10
 sensors/us_mk_x;AI Mk. X;
 sensors/us_mk12_radar;Fire-Control Set, Mk 12;
 sensors/us_mk19_radar;Fire-Control Set, Mk 19;

@@ -7,14 +7,18 @@ weapons/7_62mm_maxim_garford_user_machinegun;7,62-мм пулемёт Макси
 weapons/7_62mm_maxim_naval_user_machinegun;7,62-мм пулемёт Максима обр. 1910 г.;
 
 weapons/gunPV1;7,62-мм авиационный пулемёт ПВ-1;
+weapons/gunPV1/short;ПВ-1;
 
 // Degtyarov //
 weapons/gunDA762;7,62-мм авиационный пулемёт ДА;
+weapons/gunDA762/short;ДА;
 weapons/7_62mm_DT_user_machinegun;7,62-мм танковый пулемёт ДT;
 
 // ShKAS //
 weapons/gunShKAS;7,62-мм авиационный пулемёт ШКАС;
+weapons/gunShKAS/short;ШКАС;
 weapons/gunShKAS_turret;7,62-мм авиационный пулемёт ШКАС;
+weapons/gunShKAS_turret/short;ШКАС;
 
 // SG //
 weapons/7_62mm_SGMT_user_machinegun;7,62-мм танковый пулемёт СГМТ;
@@ -36,6 +40,7 @@ weapons/7_62mm_PKTM_user_machinegun;7,62-мм танковый пулемёт П
 
 // GShG //
 weapons/gunGShG;7,62-мм авиационная пушка ГШГ-7,62;
+weapons/gunGShG/short;ГШГ-7,62;
 weapons/gunGShG_guv;7,62-мм авиационная пушка ГШГ-7,62;
 weapons/gunGShG_guv/short;ГШГ-7,62;
 
@@ -43,10 +48,15 @@ weapons/gunGShG_guv/short;ГШГ-7,62;
 // 12,7x108 //
 // Berezin //
 weapons/gunUB;12,7-мм авиационный пулемёт УБС;
+weapons/gunUB/short;УБС;
 weapons/gunUBS;12,7-мм авиационный пулемёт УБС;
+weapons/gunUBS/short;УБС;
 weapons/gunUBK;12,7-мм авиационный пулемёт УБK;
+weapons/gunUBK/short;УБK;
 weapons/gunUBK_turret;12,7-мм авиационный пулемёт УБK;
+weapons/gunUBK_turret/short;УБK;
 weapons/gunUB_turret;12,7-мм авиационный пулемёт УБТ;
+weapons/gunUB_turret/short;УБТ;
 
 // Degtyarov //
 weapons/12_7mm_DK_user_machinegun;12,7-мм пулемёт ДК;
@@ -56,6 +66,7 @@ weapons/12_7mm_dshk_1938_naval_user_machinegun;12,7-мм пулемёт обр. 
 
 // A-12,7 //
 weapons/gunA_12_7;12,7-мм авиационный пулемёт A-12,7 (ТКБ-481);
+weapons/gunA_12_7/short;A-12,7
 weapons/gunTkb_481;12,7-мм авиационный пулемёт А-12,7 (ТКБ-481);
 weapons/gunTkb_481/short;А-12,7;
 
@@ -86,37 +97,55 @@ weapons/14_5mm_KPVT_user_machinegun;14,5-мм танковый пулемёт К
 // 20 mm //
 // ShVAK //
 weapons/cannonShVAK;20-мм авиационная пушка ШВАК;
+weapons/cannonShVAK/short;ШВАК;
 weapons/cannonShVAKS;20-мм авиационная пушка ШВАК;
+weapons/cannonShVAKS/short;ШВАК;
 weapons/cannonShVAK_turret;20-мм авиационная пушка ШВАК;
+weapons/cannonShVAK_turret/short;ШВАК;
 weapons/cannonShVAK_early;20-мм авиационная пушка ШВАК;
+weapons/cannonShVAK_early/short;ШВАК;
 weapons/20mm_shvak_naval_user_cannon;20-мм авиационная пушка ШВАК;
 weapons/20mm_TNSh_user_cannon;20-мм танковая пушка ТНШ-20;
 weapons/20mm_TNSh_Sh_user_cannon;20-мм шагающая пушка ТНШ-20Ш;
 
 // B-20 //
 weapons/cannonB20;20-мм авиационная пушка Б-20;
+weapons/cannonB20/short;Б-20;
 weapons/cannonB20S;20-мм авиационная пушка Б-20C;
+weapons/cannonB20S/short;Б-20C;
 weapons/cannonB20M;20-мм авиационная пушка Б-20М;
+weapons/cannonB20M/short;Б-20М;
 weapons/cannonB20_turret;20-мм авиационная пушка УБ-20;
+weapons/cannonB20_turret/short;УБ-20;
 weapons/cannonBT20_turret;20-мм авиационная пушка БТ-20;
+weapons/cannonBT20_turret/short;БТ-20;
 
 // 23-mm //
 // VYa //
 weapons/cannonVYa;23-мм авиационная пушка ВЯ;
+weapons/cannonVYa/short;ВЯ;
 
 // NS //
 weapons/cannonNS23;23-мм авиационная пушка НC-23;
+weapons/cannonNS23/short;НC-23;
 weapons/cannonNS23k;23-мм авиационная пушка НC-23K;
+weapons/cannonNS23k/short;НC-23K;
 
 // NR //
 weapons/cannonNR23;23-мм авиационная пушка НР-23;
+weapons/cannonNR23/short;НР-23;
 weapons/cannonNR23_turret;23-мм авиационная пушка НР-23;
+weapons/cannonNR23_turret/short;НР-23;
 
 // GSh //
 weapons/cannonGSh_23;23-мм авиационная пушка ГШ-23-2;
+weapons/cannonGSh_23/short;ГШ-23-2;
 weapons/cannonGSh_23L_upk_23_250_deafult;23-мм авиационная пушка ГШ-23Л;
+weapons/cannonGSh_23L_upk_23_250_deafult/short;ГШ-23Л;
 weapons/cannonGSh_23L_upk_23_250;23-мм авиационная пушка ГШ-23Л;
+weapons/cannonGSh_23L_upk_23_250/short;ГШ-23Л;
 weapons/cannonGSh_23L;23-мм авиационная пушка ГШ-23Л;
+weapons/cannonGSh_23L/short;ГШ-23Л;
 weapons/cannonGSh_6_23M;23-мм авиационная пушка ГШ-6-23М;
 weapons/cannonGSh_6_23M/short;ГШ-6-23М;
 weapons/cannonGSh_6_23M_gun_pod;23-мм авиационная пушка ГШ-6-23М
@@ -126,9 +155,11 @@ weapons/cannonGSh_6_23M_gun_pod_turret/short;ГШ-6-23М
 
 // PTB //
 weapons/cannonPTB23;23-мм авиационная пушка ПТБ-23;
+weapons/cannonPTB23/short;ПТБ-23;
 
 // AM //
 weapons/cannon_am23_tu_95_turret;23-мм авиационная пушка АМ-23
+weapons/cannon_am23_tu_95_turret/short;АМ-23
 
 // 2A7 //
 weapons/23mm_2A7_user_cannon;23-мм автоматическая зенитная пушка 2А7;
@@ -162,6 +193,7 @@ weapons/30mm_2A72_BMD_user_cannon;30-мм автоматическая пушк�
 
 // NR-30 //
 weapons/cannonNR30;30-мм авиационная пушка НР-30;
+weapons/cannonNR30/short;НР-30;
 weapons/cannonNR30_early;30-мм авиационная пушка НР-30;
 weapons/cannonNR30_early/short;НР-30;
 
@@ -169,7 +201,9 @@ weapons/cannonNR30_early/short;НР-30;
 weapons/cannonGSh_301;30-мм авиационная пушка ГШ-30-1;
 weapons/cannonGSh_301/short;ГШ-30-1;
 weapons/cannonGSh_30_2;30-мм авиационная пушка ГШ-30-2;
+weapons/cannonGSh_30_2/short;ГШ-30-2;
 weapons/cannonGSh_30_2K;30-мм авиационная пушка ГШ-30-2K;
+weapons/cannonGSh_30_2K/short;ГШ-30-2K;
 weapons/cannonGSh_6_30;30-мм авиационная пушка ГШ-6-30;
 weapons/cannonGSh_6_30/short;ГШ-6-30;
 
@@ -187,10 +221,15 @@ weapons/cannonSH37/short;Ш-37;
 
 // Nudelman //
 weapons/cannonN37;37-мм авиационная пушка Н-37;
+weapons/cannonN37/short;Н-37;
 weapons/cannonN37D;37-мм авиационная пушка Н-37Д;
+weapons/cannonN37D/short;Н-37Д;
 weapons/cannonNS37;37-мм авиационная пушка НC-37;
+weapons/cannonNS37/short;НC-37;
 weapons/cannonNS37_su_6;37-мм авиационная пушка НC-37;
+weapons/cannonNS37_su_6/short;НC-37;
 weapons/cannonNS37_assault;37-мм авиационная пушка НC-37;
+weapons/cannonNS37_assault/short;НC-37;
 
 // AA //
 weapons/37mm_61_K_user_cannon;37-мм автоматическая зенитная пушка обр. 1939 г. (61-К);
@@ -207,6 +246,7 @@ weapons/45mm_46_21k_naval_user_cannon;45-мм полуавтоматическа
 weapons/45mm_68_21km_naval_user_cannon;45-мм полуавтоматическая универсальная пушка 21-КМ;
 
 weapons/cannonNS45;45-мм авиационная пушка НC-45;
+weapons/cannonNS45/short;НC-45;
 weapons/cannonNS45_heavy_aircrafts;45-мм авиационная пушка НC-45;
 weapons/cannonNS45_heavy_aircrafts/short;НC-45;
 
@@ -296,6 +336,7 @@ weapons/100mm_D10T_user_cannon;100-мм танковая пушка обр. 1944
 weapons/100mm_D10T2S_TO_55_user_cannon;100-мм танковая пушка обр. 1944 г. (Д-10Т2С);
 weapons/100mm_D10T2S_user_cannon;100-мм танковая пушка обр. 1944 г. (Д-10Т2С);
 weapons/100mm_D10T2S_fin_user_cannon;100-мм танковая пушка обр. 1944 г. (Д-10Т2С);
+weapons/100mm_D10T_416_user_cannon;100-мм самоходная пушка М-63
 weapons/100mm_2A48_user_cannon;100-мм танковая пушка Д-33 (2A48-1);
 weapons/100mm_D50_user_cannon;100-мм самоходная пушка Д-50;
 weapons/100mm_D54TS_user_cannon;100-мм танковая пушка Д-54ТС

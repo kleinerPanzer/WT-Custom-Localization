@@ -39,7 +39,9 @@ weapons/12_7mm_M80_20_user_machinegun;Rifle, Caliber .50, Spotting: M8C;
 // 20-MM //
 // Hispano 404 //
 weapons/cannonT31;Gun, 20-mm, Automatic: T31;
+weapons/cannonT31/short;T31
 weapons/cannonM24A1;Gun, 20-mm, Automatic: M24A1;
+weapons/cannonM24A1/short;M24A1
 
 // Hispano HS820 //
 weapons/20mm_m139_user_cannon;Gun, 20-mm, Automatic: M139;
@@ -49,8 +51,11 @@ weapons/20mm_m139_user_cannon;Gun, 20-mm, Automatic: M139;
 
 // M39 //
 weapons/cannonT_160;Gun, 20-mm, Automatic: T160;
+weapons/cannonT_160/short;T160
 weapons/cannonM39;Gun, 20-mm, Automatic: M39;
+weapons/cannonM39/short;M39
 weapons/cannonM39A1;Gun, 20-mm, Automatic: M39A1;
+weapons/cannonM39A1/short;M39A1
 weapons/cannonM39A2;Gun, 20-mm, Automatic: M39A2;
 weapons/cannonM39A2/short;M39A2;
 weapons/cannonM39A3;Gun, 20-mm, Automatic: M39A3;
@@ -58,6 +63,7 @@ weapons/cannonM39A3/short;M39A3;
 
 // XM301 //
 weapons/cannonXM301;Gun, 20-mm, Automatic: XM301;
+weapons/cannonXM301/short;XM301;
 
 // Vulcan //
 weapons/20mm_m61_vulcan_naval_user_cannon;Gun, 20-mm, Automatic: M61
@@ -85,9 +91,12 @@ weapons/20mm_M168_user_cannon;Gun, 20-mm, Automatic: M168;
 20mm_m246a1;HEI-T, SD, M246A1;
 
 weapons/cannonM195;Gun, 20-mm, Automatic: M195;
+weapons/cannonM195/short;M195;
 
 weapons/cannonM197;Gun, 20-mm, Automatic: M197;
+weapons/cannonM197/short;M197;
 weapons/cannonM197_external;Gun, 20-mm, Automatic: M197;
+weapons/cannonM197_external/short;M197;
 20mm_Vulcan_HEI/name;HEI, M56A3;
 20mm_Vulcan_HEI/name/short;M56A3;
 20mm_Vulcan_API/name;API, M53;
@@ -110,6 +119,7 @@ weapons/30mm_xm_813_user_cannon;Gun, 30-mm, Automatic: XM813
 30mm_m928;APFSDS-T, M928;
 
 weapons/cannonXM140;Gun, 30-mm, Automatic: XM140;
+weapons/cannonXM140/short;XM140;
 
 weapons/cannonM230E1;Gun, 30-mm, Automatic: M230E1;
 weapons/cannonM230E1/short;M230E1;
@@ -118,7 +128,9 @@ weapons/cannonM230E1/short;M230E1;
 // 37-MM //
 weapons/37mm_M1A2_user_cannon;Gun, Automatic, 37-mm, M1A2;
 weapons/cannonM9;Gun, Automatic, 37-mm, M9, Aircraft
+weapons/cannonM9/short;M9
 weapons/cannonM10;Gun, Automatic, 37-mm, M10, Aircraft
+weapons/cannonM10/short;M10
 37mm_m59a1;APC-T, M59A1;
 37mm_m54;HE-T, SD, M54;
 37mm_m80;AP-T, M80;
@@ -173,10 +185,14 @@ weapons/75mm_m3_user_cannon;Gun, 75-mm, M3;
 weapons/75mm_m3_open_turret_user_cannon;Gun, 75-mm, M3;
 weapons/75mm_QQF_MkV_NA75_user_cannon;Gun, 75-mm, M3;
 weapons/cannonM4_75mm;Gun, 75-mm, M4;
+weapons/cannonM4_75mm/short;M4;
 weapons/cannonM5;Gun, 75-mm, M5;
+weapons/cannonM5/short;M5;
 weapons/75mm_M6_user_cannon;Gun, 75-mm, M6;
 weapons/cannonT13E1;Gun, 75-mm, T13E1;
+weapons/cannonT13E1/short;T13E1;
 weapons/cannonT15E1;Gun, 75-mm, T15E1;
+weapons/cannonT15E1/short;T15E1
 75mm_m48;HE, M48;
 75mm_t45;HVAP, T45;
 75mm_m61;APC-T, M61;
@@ -390,30 +406,47 @@ weapons/203mm_m47_user_cannon;Cannon, 8-in Howitzer: M47
 // AN/M-Series //
 // CAL 30 //
 weapons/gunBrowning30_usaaf;Browning Machine Gun, Caliber .30, AN/M2, Aircraft, Basic
+weapons/gunBrowning30_usaaf/short;AN/M2
 weapons/gunBrowning30_usaaf_1935;Browning Machine Gun, Caliber .30, AN/M2, Aircraft, Basic
+weapons/gunBrowning30_usaaf_1935/short;AN/M2
 weapons/gunBrowning30_turret;Browning Machine Gun, Caliber .30, AN/M2, Aircraft, Basic
+weapons/gunBrowning30_turret/short;AN/M2
 
 // CAL 50 //
 weapons/gunBrowning50_early;Browning Machine Gun, Caliber .50, AN/M2, Aircraft, Basic
+weapons/gunBrowning50_early/short;AN/M2
 weapons/gunBrowning50_early_1935;Browning Machine Gun, Caliber .50, AN/M2, Aircraft, Basic
+weapons/gunBrowning50_early_1935/short;AN/M2
 weapons/gunBrowning50_M2;Browning Machine Gun, Caliber .50, AN/M2, Aircraft, Basic
+weapons/gunBrowning50_M2/short;AN/M2
 weapons/gunBrowning50_M2_late;Browning Machine Gun, Caliber .50, AN/M2, Aircraft, Basic
+weapons/gunBrowning50_M2_late/short;AN/M2
 weapons/gunBrowning50_M2_underwing;Browning Machine Gun, Caliber .50, AN/M2, Aircraft, Basic
+weapons/gunBrowning50_M2_underwing/short;AN/M2
 weapons/gunBrowning50;Browning Machine Gun, Caliber .50, AN/M2, Aircraft, Basic
+weapons/gunBrowning50/short;AN/M2
 weapons/gunBrowning50_usaaf;Browning Machine Gun, Caliber .50, AN/M2, Aircraft, Basic
+weapons/gunBrowning50_usaaf/short;AN/M2
 weapons/gunBrowning50_turret;Browning Machine Gun, Caliber .50, AN/M2, Aircraft, Basic
+weapons/gunBrowning50_turret/short;AN/M2
 weapons/gunBrowning50_turret_late;Browning Machine Gun, Caliber .50, AN/M2, Aircraft, Basic
+weapons/gunBrowning50_turret_late/short;AN/M2
 
 weapons/gunBrowning50_M3;Machine Gun, Caliber .50: AN/M3, Aircraft, Basic;
+weapons/gunBrowning50_M3/short;AN/M3
 weapons/gunBrowning50_M3_underwing;Machine Gun, Caliber .50: AN/M3, Aircraft, Basic;
+weapons/gunBrowning50_M3_underwing/short;AN/M3
 
 // 20-MM //
 weapons/cannonAN_M2;Gun, Automatic, 20-mm, AN/M2, Aircraft
+weapons/cannonAN_M2/short;AN/M2
 
 weapons/cannonAN_M3;Gun, Automatic, 20-mm, AN/M3, Aircraft
+weapons/cannonAN_M3/short;AN/M3
 
 // 37-MM //
 weapons/cannonM4;Gun, Automatic, 37-mm, AN/M4, Aircraft
+weapons/cannonM4/short;AN/M4
 weapons/37mm_56_an_m4_naval_user_cannon;Gun, Automatic, 37-mm, AN/M4, Aircraft
 
 // GAU-Series //

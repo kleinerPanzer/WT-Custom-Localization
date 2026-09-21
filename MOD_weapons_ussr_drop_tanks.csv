@@ -94,6 +94,11 @@ weapons/su_500l_yak_130_drop_tank_1/short;ПТБ-500
 weapons/su_500l_yak_130_drop_tank_2;Подвесной топливный бак ПТБ-500
 weapons/su_500l_yak_130_drop_tank_2/short;ПТБ-500
 
+weapons/su_600l_su_15tm_right_fuse;Подвесной топливный бак ПТБ-600
+weapons/su_600l_su_15tm_right_fuse/short;ПТБ-600
+weapons/su_600l_su_15tm_left_fuse;Подвесной топливный бак ПТБ-600
+weapons/su_600l_su_15tm_left_fuse/short;ПТБ-600
+
 weapons/su_800l_mig_23bn_silver_fuse;Подвесной топливный бак ПТБ-800
 weapons/su_800l_mig_23bn_silver_fuse/short;ПТБ-800
 

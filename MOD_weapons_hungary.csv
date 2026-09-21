@@ -1,9 +1,13 @@
 <ID|readonly|noverify>;<NewLanguage>
 weapons/8mm_Gebauer_34_40M_user_machinegun;8 mm 34/40 A. M. géppuska;
 weapons/gun_gebauer_1939m;8 mm 39 M. géppuska
+weapons/gun_gebauer_1939m/short;39 M.
 weapons/gun_gebauer_26_31m;8 mm 26/39 M. géppuska
+weapons/gun_gebauer_26_31m/short;26/39 M.
 weapons/gun_gebauer_34_37m_turret;8 mm 34/37 M. géppuska
+weapons/gun_gebauer_34_37m_turret/short;34/37 M.
 weapons/gun_gebauer_1940m_gkm;12,7 mm 40 M. géppuska
+weapons/gun_gebauer_1940m_gkm/short;40 M.
 
 weapons/20mm_Solothurn_QF_36M_user_cannon;20 mm 36 M. nehéz puska
 20mm_36M_pancelgranat;36 M. pc.gr.;
@@ -15,6 +19,7 @@ weapons/40mm_37_42M_user_cannon;40 mm 42 M. harckocsiágyú
 40mm_43m;43 M. magvas gr.
 
 weapons/cannon_mavag_39m;40 mm 36 M. légvédelmi gépágyú
+weapons/cannon_mavag_39m/short;36 M.
 
 weapons/75mm_41M_user_cannon;7,5 cm 41 M. harckocsiágyú
 75mm_42m;42 M. hk.P.R.gr.

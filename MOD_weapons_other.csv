@@ -1,6 +1,23 @@
 <ID|readonly|noverify>;<NewLanguage>
 
 // SMALL NATIONS //
+
+weapons/120mm_arjun_mk1_user_cannon;Ordnance, Q.F., 120mm Tk. Gun, Mk III
+120mm_Arjun_Mk1;FSAPDS Mk I
+120mm_Arjun_Mk2;FSAPDS Mk II
+120mm_Arjun_PCB;PCB
+120mm_arjun_HESH;HESH
+
+
+weapons/us_100gal_ca_27_drop_tank_r;100 gal Drop Tank
+weapons/us_100gal_ca_27_drop_tank_r/short;Drop Tank
+weapons/us_100gal_ca_27_drop_tank_l;100 gal Drop Tank
+weapons/us_100gal_ca_27_drop_tank_l/short;Drop Tank
+weapons/us_167gal_ca_27_drop_tank_r;167 gal Drop Tank
+weapons/us_167gal_ca_27_drop_tank_r/short;Drop Tank
+weapons/us_167gal_ca_27_drop_tank_l;167 gal Drop Tank
+weapons/us_167gal_ca_27_drop_tank_l/short;Drop Tank
+
 weapons/cz_ofab_100mb;100 kg OFAB-100MB
 weapons/cz_ofab_100mb/short;OFAB-100MB
 weapons/cz_ofab_100_110_tu_jupiter;100 kg OFAB-100-110TU
@@ -110,7 +127,9 @@ weapons/57mm_maxim_nordenfelt_user_cannon;5,7 cm Maxim-Nordenfelt
 // APRIL FOOLS //
 
 weapons/cannon_for_pony;Friend Mk. 3;
+weapons/cannon_for_pony/short;Friend Mk. 3;
 weapons/pony_rocket;Cracker Mk. 4;
+weapons/pony_rocket/short;Cracker Mk. 4;
 
 
 
@@ -217,6 +236,10 @@ weapons/t54_1947_smoke_barrel_launcher;БДШ-5;
 weapons/t54_1947_smoke_barrel_launcher/short;Smoke;
 weapons/t54_1951_smoke_barrel_launcher;БДШ-5;
 weapons/t54_1951_smoke_barrel_launcher/short;Smoke;
+weapons/object_416_smoke_barrel_launcher;БДШ-5;
+weapons/object_416_smoke_barrel_launcher/short;Smoke
+weapons/is_2m_smoke_barrel_launcher;БДШ-5;
+weapons/is_2m_smoke_barrel_launcher/short;Smoke
 weapons/type_62_smoke_barrel_launcher;Smoke Barrel;
 weapons/type_62_smoke_barrel_launcher/short;Smoke;
 20mm_Shot_AP_T;AP-T;

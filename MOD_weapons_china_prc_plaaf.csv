@@ -1,16 +1,23 @@
 <ID|readonly|noverify>;<NewLanguage>
 
 weapons/cannonType_23_1_plane;23毫米1型航空机关炮
+weapons/cannonType_23_1_plane/short;23-1型
 weapons/cannonType_23_1_plane_turret;23毫米1型航空机关炮;
+weapons/cannonType_23_1_plane_turret/short;23-1型
 weapons/cannon_type23_2k;23毫米2K型航空机关炮;
+weapons/cannon_type23_2k/short;23-2K型
 weapons/cannonType_23_1;23毫米2Z型航空机关炮
+weapons/cannonType_23_1/short;23-2Z
 weapons/cannonType_23_3;23毫米3型航空机关炮
+weapons/cannonType_23_3/short;23-3型
 weapons/cannonType_23L;23毫米3L型航空机关炮
+weapons/cannonType_23L/short;23-3L型
 weapons/cannonType30_1;30毫米1型航空机关炮
 weapons/cannonType30_1/short;30-1型
 weapons/cannonType_30_4;30-4型航空机炮
 weapons/cannonType_30_4/short;30-4型
 weapons/cannonType37_1;37-1型航空机炮;
+weapons/cannonType37_1/short;37-1型
 
 weapons/cn_type90_he;90毫米1型航空火箭杀伤爆破弹;
 weapons/cn_type90_he/short;90-1型 (杀伤);

@@ -1,14 +1,73 @@
 <ID|readonly|noverify>;<NewLanguage>
-ah_64a_greece_usa_shop;✙ AH-64A (1o ΤΕΕΠ)
+ah_64a_greece_usa_shop;◐ AH-64A (1o ΤΕΕΠ)
 ah_64a_greece_usa_0;"Ελικόπτερο AH-64A
 1ο Τάγμα Επιθετικών Ελικοπτέρων"
-ah_64a_greece_usa_1;✙ AH-64A
+ah_64a_greece_usa_1;◐ AH-64A
 ah_64a_greece_usa_2;AH-64
 
-spitfire_lf_mk9c_cw_greece_shop;✙ Spitfire LF. Mk. IX (CW)
-spitfire_lf_mk9c_cw_greece_0;"Spitfire LF. Mk. IX
+rafale_eg_greece_shop;◐ Rafale EG
+rafale_eg_greece_0;Αεροσκάφος Rafale EG
+rafale_eg_greece_1;◐ Rafale EG
+rafale_eg_greece_2;Rafale
+
+mirage_2000_5eg_mk2_greece_shop;◐ Mirage 2000-5EG
+mirage_2000_5eg_mk2_greece_0;Αεροσκάφος Mirage 2000-5EG
+mirage_2000_5eg_mk2_greece_1;◐ Mirage 2000
+mirage_2000_5eg_mk2_greece_2;Mirage
+
+a_7h_greece_shop;◐ A-7H
+a_7h_greece_0;Αεροσκάφος A-7H Corsair II
+a_7h_greece_1;◐ A-7H
+a_7h_greece_2;A-7
+a_7e_greece_shop;◐ A-7E
+a_7e_greece_0;Αεροσκάφος A-7E Corsair II
+a_7e_greece_1;◐ A-7E
+a_7e_greece_2;A-7
+
+f_4e_aup_greece_shop;◐ F-4E PI-2000
+f_4e_aup_greece_0;Αεροσκάφος F-4E PI-2000
+f_4e_aup_greece_1;◐ F-4E
+f_4e_aup_greece_2;F-4
+
+f_102a_greece_shop;◐ F-102A-65
+f_102a_greece_0;Αεροσκάφος F-102A-65 Delta Dagger
+f_102a_greece_1;◐ F-102A-65
+f_102a_greece_2;F-102
+
+f_86em_greece_shop;◐ F-86E(M)
+f_86em_greece_0;Αεροσκάφος F-86E(M) Sabre
+f_86em_greece_1;◐ F-86E
+f_86em_greece_2;F-86
+
+f-84g_greece_shop;◐ F-84G-16-RE
+f-84g_greece_0;Αεροσκάφος F-84G-16-RE Thunderjet
+f-84g_greece_1;◐ F-84G
+f-84g_greece_2;F-84
+
+sb2c_5_greece_shop;◐ SB2C-5
+sb2c_5_greece_0;Αεροσκάφος SB2C-5 Helldiver
+sb2c_5_greece_1;◐ SB2C-5
+sb2c_5_greece_2;SB2C
+
+spitfire_lf_mk9c_cw_greece_shop;◐ Spitfire LF. Mk. IX (CW)
+spitfire_lf_mk9c_cw_greece_0;"Αεροσκάφος Spitfire LF. Mk. IX
 Clipped Wing"
-spitfire_lf_mk9c_cw_greece_1;✙ Spitfire
+spitfire_lf_mk9c_cw_greece_1;◐ Spitfire
 spitfire_lf_mk9c_cw_greece_2;Spitfire
+
+il_leopard_2a6_hel_shop;◐ Leopard 2 HEL
+il_leopard_2a6_hel_0;Leopard 2 HEL
+il_leopard_2a6_hel_1;◐ Leopard 2 HEL
+il_leopard_2a6_hel_2;Leopard 2
+
+il_9a33bm3_shop;◐ Osa-AK
+il_9a33bm3_0;Α/Α Σύστημα Osa-AK
+il_9a33bm3_1;◐ Osa-AK
+il_9a33bm3_2;Osa-AK
+
+il_tor_m1_shop;◐ Tor-M1
+il_tor_m1_0;Α/Α Σύστημα Tor-M1
+il_tor_m1_1;◐ Tor-M1
+il_tor_m1_2;Tor-M1
 
 tanker_nicolaos;Nicolaos

@@ -27,6 +27,8 @@ weapons/de_533mm_g7e_torpedo;533 mm G7e TIIIa;
 weapons/de_533mm_g7e_torpedo/short;G7e TIIIa;
 weapons/de_533_g7e_t5a_torpedo;533 mm G7e TVa
 weapons/de_533_g7e_t5a_torpedo/short;G7e TVa
+weapons/de_533_g7e_t3d_torpedo;533 mm G7e TIIId
+weapons/de_533_g7e_t3d_torpedo/short;G7e TIIId
 
 weapons/de_600_mm_h8_torpedo;60 cm H 8 Torpedo;
 weapons/de_600_mm_h8_torpedo/short;H 8;

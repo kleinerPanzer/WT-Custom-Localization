@@ -29,3 +29,9 @@ weapons/us_agm_12b_station/short;AGM-12B (TP);
 
 weapons/us_an_asq_213;HARM Targeting System, AN/ASQ-213 (Release 5)
 weapons/us_an_asq_213/short;AN/ASQ-213 HTS (R5)
+
+weapons/us_ah_64_ircm;Common Infrared Countermeasures
+weapons/us_ah_64_ircm/short;CIRCM
+
+weapons/is_asw_55_pod;Data Link Pod, AN/ASW-55
+weapons/is_asw_55_pod/short;AN/ASW-55

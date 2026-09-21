@@ -8,6 +8,7 @@ sensors/it_ralm-101;RALM-101;
 sensors/it_rtn_10x;RTN-10X;
 sensors/it_rtn_150;RTN-150;
 sensors/it_sma_vps-a05;VPS-A05;
+sensors/it_sma_vps-a05_ai;VPS-A05;
 sensors/it_sma_vps-a06;VPS-A06;
 sensors/it_spg-70;SPG-70;
 sensors/it_spq_701;SPQ-701;

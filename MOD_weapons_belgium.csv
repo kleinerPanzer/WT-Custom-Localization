@@ -1,6 +1,7 @@
 <ID|readonly|noverify>;<NewLanguage>
 
 weapons/gunMle38;7,5 mm FN modèle 1938;
+weapons/gunMle38/short;FN mle 1938
 
 weapons/gunBrowningM36No3;7,7 mm FN-Browning M. 36 No. 3;
 weapons/gunBrowningM36No3/short;M. 36 No. 3;
@@ -10,17 +11,25 @@ weapons/gunBrowningM36No4Holand_turret;7,7 mm FN-Browning M. 36 No. 4;
 weapons/gunBrowningM36No4Holand_turret/short;M. 36 No. 4;
 
 weapons/gunBrowningFN_french;Mitrailleuse d'Avion Browning-FN Calibre 7,5 mm;
+weapons/gunBrowningFN_french/short;Browning-FN
 
 weapons/gunFNBrowning_romania;.303” FN-Browning;
+weapons/gunFNBrowning_romania/short;FN-Browning;
 weapons/gunFNBrowning303;.303” FN-Browning;
+weapons/gunFNBrowning303/short;FN-Browning;
 
 weapons/12_7mm_M3P_user_machinegun;12.7 mm Machine Gun, M3P;
 weapons/gunFN_M3P;12,7 mm FN M3P;
+weapons/gunFN_M3P/short;M3P;
 weapons/gunFN_M3P_cwp;12,7 mm FN M3P;
+weapons/gunFN_M3P_cwp/short;M3P;
 weapons/gunFN_M3M;12,7 mm FN M3M;
+weapons/gunFN_M3M/short;M3M;
 
 weapons/gunfn_60_30;7,62 mm FN MAG 60-30;
+weapons/gunfn_60_30/short;MAG 60-30;
 weapons/gunfn_60_30_mgp;7,62 mm FN MAG 60-40;
+weapons/gunfn_60_30_mgp/short;MAG 60-40;
 weapons/7_62mm_FN_MAG60_40_user_machinegun;7,62 mm FN MAG 60-40;
 weapons/7_62mm_FN_MAG60_40_namer_user_machinegun;7,62 mm FN MAG 60-40;
 weapons/7_62mm_fn_mag_naval_user_machinegun;7,62 mm FN MAG 60-40;
@@ -33,6 +42,7 @@ weapons/90mm_Cockerill_Mk_3_user_cannon;90 mm Mk. 3 Gun;
 
 weapons/105mm_XC8_L50_user_cannon;105 mm CV 105HP Gun;
 weapons/105mm_cockerill_hp_user_cannon;105 mm CV 105HP Gun;
+105mm_m_1010;HE, M1010
 105mm_m1061;HEAT-MP-T, M1061;
 100mm_m1000a1;APFSDS-T, M1000A1;
 105mm_falaric;Falarick 105;
@@ -40,6 +50,8 @@ weapons/105mm_falaric/short;Falarick 105;
 
 weapons/fr_fz49;Rocket FZ49;
 weapons/fr_fz49/short;FZ49;
+weapons/fr_fz275_lgr;Laser Guided Rocket FZ275 (FZ71 HEGP)
+weapons/fr_fz275_lgr/short;FZ275 LGR (FZ71)
 
 weapons/bl_1700l_rp30_drop_tank_1;Réservoir Pendulaire RP 30 (1700 L);
 weapons/bl_1700l_rp30_drop_tank_1/short;RP 30;

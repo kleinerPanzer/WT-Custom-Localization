@@ -174,6 +174,10 @@ weapons/su_zb_500/short;ЗБ-500;
 
 weapons/su_rds4;Ядерная бомба РДС-4;
 weapons/su_rds4/short;РДС-4;
+weapons/su_rds4_30kt_nt;Ядерная бомба РДС-4;
+weapons/su_rds4_30kt_nt/short;РДС-4;
+weapons/su_rds4_5kt_nt;Ядерная бомба РДС-4;
+weapons/su_rds4_5kt_nt/short;РДС-4;
 weapons/su_rn_28;Ядерная бомба РН-28
 weapons/su_rn_28/short;РН-28
 weapons/su_rds37;Ядерная бомба РДС-37

@@ -208,3 +208,7 @@ modification/swift_2x1000lb_mc/desc;Allows installation of 1000 lb bombs.;
 modification/swift_2x1000lb_mc;1000-lb MC;
 modification/uk_brimstone_dm/desc;Allows installation of Brimstone missiles.
 modification/uk_brimstone_dm;Brimstone
+modification/atgm_spike_nlos;Spike NLOS
+modification/atgm_spike_nlos/desc	Allows the installation of Spike NLOS missiles.
+modification/uk_martlet/desc	Allows the installation of LMM Martlet missiles.
+modification/uk_martlet	Martlet

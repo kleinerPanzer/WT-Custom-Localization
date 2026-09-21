@@ -385,6 +385,8 @@ maw_countermeasures_launcher_chaff_large/name;Countermeasures
 countermeasures_launcher_chaff_large_add_pod/name;Countermeasures
 modification/chaff_pods;Chaff Dispensers;
 modification/chaff_pods/desc;Allows use of chaff dispensers.;
+modification/saab_f35_alq_162	Chaff
+modification/saab_f35_alq_162/desc	Allows the installation of additional block with Chaff
 modification/spread_change;%s to weapon spread at 500 m distance;
 modification/overheat_change;%s to mean time between failures;
 modification/overheadCooldown_change;%s to cooling time for arcade afterburning;

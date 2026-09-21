@@ -6,52 +6,79 @@ weapons/6_5mm_type_38_1907_naval_user_machinegun;6.5 mm 三八式機関銃
 weapons/6_5mm_type_3_naval_user_machinegun;6.5 mm 三年式機関銃
 weapons/6_5mm_Type_91_user_machinegun;6.5 mm 九一式車載軽機関銃
 
-weapons/gunType89;7.7 mm 八九式固定機関銃
 weapons/7_7mm_type_89_naval_user_machinegun;7.7 mm 八九式固定機関銃
+weapons/gunType89;7.7 mm 八九式固定機関銃
+weapons/gunType89/short;八九式
 weapons/gunType89_turret;7.7 mm 八九式旋回機関銃
+weapons/gunType89_turret/short;八九式
 weapons/gunType89s_turret;7.7 mm 八九式旋回機関銃 (特)
+weapons/gunType89s_turret/short;八九式 (特)
 weapons/gunTe-1_turret;7.7 mm 試製単銃身旋回機関銃一型
+weapons/gunTe-1_turret/short;テ1
 weapons/gunTe4;7.7 mm 試製単銃身旋回機関銃二型
+weapons/gunTe4/short;テ1
 weapons/7_7mm_Type_97_user_machinegun;7.7 mm 九七式車載重機関銃
 
+
 weapons/gun_type1_turret;一式7,92mm旋回機銃;
+weapons/gun_type1_turret/short;一式
 
 weapons/gunType98;7.92 mm 九八式旋回機関銃
+weapons/gunType98/short;九八式
 weapons/gunType98_turret;7.92 mm 九八式旋回機関銃
+weapons/gunType98_turret/short;九八式
 
 weapons/gunHo103;一式十二・七粍固定機関砲
-weapons/gunHo103_turret;一式十二・七粍旋回機関砲
+weapons/gunHo103/short;ホ103
+weapons/gunHo103_turret;一式十二・七粍固定機関砲
+weapons/gunHo103_turret/short;ホ103
 weapons/gunHo104_turret;一式十二・七粍旋回機関砲
+weapons/gunHo104_turret;ホ103
 
 weapons/cannonHo3;試製二十粍固定機関砲
+weapons/cannonHo3/short;ホ3
 weapons/cannonType97;試製二十粍旋回機関砲
 weapons/cannonType97_turret;試製二十粍旋回機関砲
+weapons/cannonType97_turret/short;ホ1
 weapons/cannonHo5;二式二十粍固定機関砲
+weapons/cannonHo5/short;ホ5
 weapons/cannonHo5_turret;二式二十粍固定機関砲
+weapons/cannonHo5_turret/short;ホ5
 weapons/20mm_type98_user_cannon;九八式二十粍高射機関砲
 weapons/20mm_Type98_user_cannon;九八式二十粍高射機関砲
 weapons/20mm_type_98_naval_user_cannon;九八式高射機関砲 (特)
 weapons/20mm_type_98_twin_type4_naval_user_cannon;四式基筒双連二十粍高射機関砲;九八式二十粍高射機関砲 (四式)
 
-weapons/cannonHo155;30 mm ホ155
+weapons/cannonHo155;30 mm ホ155-I
+weapons/cannonHo155/short;ホ155-I
+weapons/cannonHo155-II;30 mm ホ155-II
+weapons/cannonHo155-II/short;ホ155-II
+weapons/cannonHo115;3cmホ115;
 
 weapons/37mm_type_11_naval_user_cannon;37 mm 十一年式平射歩兵砲
 weapons/cannonType94;九四式三十七粍戦車砲
 weapons/37mm_type_94_user_cannon;九四式三十七粍戦車砲
 weapons/37mm_type_94_naval_user_cannon;九四式三十七粍戦車砲
 weapons/cannonType98;九八式三十七粍戦車砲
+weapons/cannonType98/short;九八式
 weapons/37mm_Type100_user_cannon;一〇〇式三十七粍戦車砲
 weapons/37mm_Type1_user_cannon;一式三十七粍戦車砲
 weapons/37mm_Type1_Chi_Ri_user_cannon;一式三十七粍戦車砲
 weapons/37mm_type_4_naval_user_cannon;四式三十七粍舟艇砲
 weapons/cannonHo203;37 mm ホ203;
+weapons/cannonHo203/short;ホ203;
 weapons/cannonHo204;37 mm ホ204;
+weapons/cannonHo204/short;ホ204;
 
 weapons/cannonHo301;40 mm ホ301;
+weapons/cannonHo301/short;ホ301;
 
 weapons/47mm_Type1_user_cannon;一式四十七粍戦車砲
 
 weapons/cannonHo401;57 mm ホ401;
+weapons/cannonHo401/short;ホ401
+weapons/cannonHo402;57 mm ホ402
+weapons/cannonHo402/short;ホ402
 weapons/57mm_Type90_user_cannon;九〇式五糎七戦車砲
 weapons/57mm_type_97_1937_naval_user_cannon;九〇式五糎七戦車砲
 weapons/57mm_Type97_user_cannon;九七式五糎七戦車砲
@@ -59,6 +86,7 @@ weapons/57mm_Type97_user_cannon;九七式五糎七戦車砲
 weapons/70mm_Type94_user_cannon;九四式七糎戦車砲
 
 weapons/cannonType88;八八式七糎野戦高射砲
+weapons/cannonType88/short;八八式
 weapons/75mm_type_88_aa_naval_user_cannon;八八式七糎野戦高射砲
 weapons/75mm_Type90_user_cannon;75 mm 九〇式野砲
 weapons/75mm_Type99_user_cannon;九九式七糎半戦車砲
@@ -137,11 +165,19 @@ weapons/jp_type94mod5/short;50 kg 九四式;
 
 weapons/jp_ki_148_i_go_1b;イ号一型乙無線誘導弾;
 weapons/jp_ki_148_i_go_1b/short;キ148;
+weapons/jp_ki_148_i_go_1b_event_broken_warhead;イ号一型乙無線誘導弾;
 weapons/jp_ki_148_i_go_1b_event_broken_warhead/short;キ148;
+weapons/jp_ki_148_i_go_1b_event_broken_engine;イ号一型乙無線誘導弾;
 weapons/jp_ki_148_i_go_1b_event_broken_engine/short;キ148;
+weapons/jp_ki_148_i_go_1b_event;イ号一型乙無線誘導弾;
 weapons/jp_ki_148_i_go_1b_event/short;キ148;
+weapons/jp_ki_148_i_go_1b_event_broken_air_ballon;イ号一型乙無線誘導弾;
 weapons/jp_ki_148_i_go_1b_event_broken_air_ballon/short;キ148;
+weapons/jp_ki_148_i_go_1b_event_broken_pipe;イ号一型乙無線誘導弾;
 weapons/jp_ki_148_i_go_1b_event_broken_pipe/short;キ148;
+weapons/jp_ki_148_i_go_1b_event_broken_servo_controll;イ号一型乙無線誘導弾;
 weapons/jp_ki_148_i_go_1b_event_broken_servo_controll/short;キ148;
+weapons/jp_ki_148_i_go_1b_event_broken_guidance;イ号一型乙無線誘導弾;
 weapons/jp_ki_148_i_go_1b_event_broken_guidance/short;キ148;
+weapons/jp_ki_148_i_go_1b_event_broken_fuel_leak;イ号一型乙無線誘導弾;
 weapons/jp_ki_148_i_go_1b_event_broken_fuel_leak/short;キ148;

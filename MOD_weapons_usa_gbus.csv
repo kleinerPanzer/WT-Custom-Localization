@@ -44,6 +44,10 @@ weapons/us_2000lb_gbu_15v1;Bomb Unit, Guided, GBU-15(V)1/B Guided Standoff Weapo
 weapons/us_2000lb_gbu_15v1/short;GBU-15(V)1/B;
 weapons/us_2000lb_gbu_15v2;Bomb Unit, Guided, GBU-15(V)2/B Guided Standoff Weapon;
 weapons/us_2000lb_gbu_15v2/short;GBU-15(V)2/B;
+weapons/us_2000lb_gbu_15v21;Bomb Unit, Guided, GBU-15(V)21/B Guided Standoff Weapon;
+weapons/us_2000lb_gbu_15v21/short;GBU-15(V)21/B
+weapons/us_2000lb_gbu_15v22;Bomb Unit, Guided, GBU-15(V)22/B Guided Standoff Weapon;
+weapons/us_2000lb_gbu_15v22/short;GBU-15(V)22/B
 
 // JDAM //
 

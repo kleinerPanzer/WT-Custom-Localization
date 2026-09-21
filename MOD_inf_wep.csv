@@ -51,6 +51,16 @@ m249_para_shop;M249 Para
 m249_para_0;Machine Gun, 5.56-mm, M249 Para
 m249_para_1;M249 Para
 m249_para_2;M249
+m240b_shop;M240B
+us_m240b_shop;M240B
+us_m240b_0;Machine Gun, 7.62-mm, M240B
+us_m240b_1;M240B
+us_m240b_2;M240
+pkp_pecheneg_shop;ПКП
+ussr_pkp_pecheneg_shop;ПКП
+ussr_pkp_pecheneg_0;7,62-мм пулемёт ПКП
+ussr_pkp_pecheneg_1;ПКП
+ussr_pkp_pecheneg_2;ПКП
 m4a1_shop;M4A1
 m4a1_0;Carbine, 5.56-mm, M4A1
 m4a1_1;M4A1
@@ -226,6 +236,11 @@ weapons/ussr_recon_drone/desc;A quadcopter with software for automatic enemy rec
 12_7mm_m20;API, MN20
 14_5mm_bs41;БС-41 гл
 7_62mm_m2_ball;Ball, M2
+7_62mm_m1_tracer;Tracer, M1
+7_62mm_m1_i;Incendiary, M1
+7_62mm_m2_ap;AP, M2
+7_62mm_m14_api;API, M14
+7_62mm_m72_ball;Ball, M72
 7_62mm_ap;AP, M2
 7_62mm_tracer;Tracer, M2
 4_6mm_ap_sx;AP SX
@@ -235,6 +250,7 @@ weapons/ussr_recon_drone/desc;A quadcopter with software for automatic enemy rec
 5_45mm_7n6m_ep;ПС гс
 5_45mm_7n10_ep;ПП гс
 5_45mm_7n22_ep;БП гс
+5_45mm_7u1_hc;УС
 5_45mm_7t3_tracer;Т гс
 5_56mm_m995_ap;AP, M995
 5_56mm_m193_ball;Ball, M193
@@ -302,3 +318,24 @@ su_9M39;ЗУР 9М39
 rpg_2_rocket;ПГ-2
 93mm_pg_7vl;ПГ-7ВЛ
 84mm_at4;HEAT, M136
+weapons/amr_ksvk_12_7;КСВК
+weapons/amr_ksvk_12_7/desc;Anti-materiel rifle. Effective against infantry and light vehicles.
+weapons/amr_mcmillan_tac_50;TAC-50
+weapons/amr_mcmillan_tac_50/desc;Anti-materiel rifle. Effective against infantry and light vehicles.
+m136_at4_shop;M136 (AT4)
+mpads_igla_shop;ПУ 9П39
+pslr_1_default_shop;PSRL-1
+rpg_7_shop;РПГ-7
+rpg_7_default_shop;РПГ-7
+ksvk_12_7_shop;КСВК
+ksvk_12_7_0;Ковровская снайперская винтовка крупнокалиберная
+ksvk_12_7_1;КСВК
+ksvk_12_7_2;КСВК
+sv_98_shop;СВ-98
+sv_98_0;7,62-мм снайперская винтовка СВ-98
+sv_98_1;СВ-98
+sv_98_2;СВ-98
+m24_shop;M24 SWS
+m24_0;Sniper Weapon System, 7.62-mm, M24
+m24_1;M24 SWS
+m24_2;M24

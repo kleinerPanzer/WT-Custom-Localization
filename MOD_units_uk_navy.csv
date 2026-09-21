@@ -8,11 +8,19 @@ uk_aircraftcarrier_illustrious_shop;Illustrious (87)
 uk_aircraftcarrier_illustrious_0;Illustrious-Class Aircraft Carrier, HMS Illustrious (87)
 uk_aircraftcarrier_illustrious_1;Illustrious
 uk_aircraftcarrier_illustrious_2;Illustrious-Class
+uk_aircraftcarrier_illustrious_ai_shop;Illustrious (87)
+uk_aircraftcarrier_illustrious_ai_0;Illustrious-Class Aircraft Carrier, HMS Illustrious (87)
+uk_aircraftcarrier_illustrious_ai_1;Illustrious
+uk_aircraftcarrier_illustrious_ai_2;Illustrious-Class
 
 uk_aircraftcarrier_ark_royal_shop;Ark Royal (R 09)
 uk_aircraftcarrier_ark_royal_0;Audacious-Class Aircraft Carrier, HMS Ark Royal (R 09)
 uk_aircraftcarrier_ark_royal_1;Ark Royal
 uk_aircraftcarrier_ark_royal_2;Audacious-Class
+uk_aircraftcarrier_ark_royal_ai_shop;Ark Royal (R 09)
+uk_aircraftcarrier_ark_royal_ai_0;Audacious-Class Aircraft Carrier, HMS Ark Royal (R 09)
+uk_aircraftcarrier_ark_royal_ai_1;Ark Royal
+uk_aircraftcarrier_ark_royal_ai_2;Audacious-Class
 
 // BATTLESHIPS //
 
@@ -72,6 +80,11 @@ uk_battleship_prince_of_wales_shop;Prince of Wales (53)
 uk_battleship_prince_of_wales_0;King George V-Class Battleship, HMS Prince of Wales (53) (1941)
 uk_battleship_prince_of_wales_1;Prince of Wales
 uk_battleship_prince_of_wales_2;King George V-Class
+
+uk_battleship_lion_class_shop;16F-38
+uk_battleship_lion_class_0;Admiralty Design 16F-38
+uk_battleship_lion_class_1;16F-38
+uk_battleship_lion_class_2;16F-38
 
 // BATTLECRUISERS //
 

@@ -18,6 +18,8 @@ weapons/jp_asm1;80式空対艦誘導弾
 weapons/jp_asm1/short;ASM-1
 weapons/jp_asm2;93式空対艦誘導弾
 weapons/jp_asm2/short;ASM-2
+weapons/jp_asm3;ASM-3空対艦誘導弾
+weapons/jp_asm3/short;ASM-3
 weapons/jp_aam3;90式空対空誘導弾
 weapons/jp_aam3/short;AAM-3
 weapons/jp_aam3_default;90式空対空誘導弾
@@ -48,7 +50,9 @@ weapons/320mm_type_03_user_cannon;03式中距離地対空誘導弾発射装置
 jp_type_03;03式中距離地対空誘導弾
 
 weapons/cannonJM61A1;20mm機関砲 JM61A1
+weapons/cannonJM61A1/short;JM61A1
 weapons/cannonJM61A1_pgu_28;20mm機関砲 JM61A1
+weapons/cannonJM61A1_pgu_28/short;JM61A1
 weapons/cannonJM61A2;20mm機関砲 JM61A2
 weapons/cannonJM61A2/short;JM61A2
 weapons/cannonJGAU4;20mm機関砲 JM61A1

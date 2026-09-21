@@ -23,6 +23,18 @@ weapons/il_gatr/short;GATR;
 
 weapons/spike_er;Spike ER;
 weapons/spike_er/short;Spike ER;
+weapons/spike_er_default;Spike ER
+weapons/spike_er_default/short;Spike ER
+weapons/spike_nlos_targeting_pod;Targeting Pod
+weapons/spike_nlos_targeting_pod/short;Targeting Pod
+weapons/spike_nlos_saraph_targeting_pod;Targeting Pod
+weapons/spike_nlos_saraph_targeting_pod/short;Targeting Pod
+weapons/spike_nlos_targeting_pod_aw_159;Targeting Pod
+weapons/spike_nlos_targeting_pod_aw_159/short;Targeting Pod
+weapons/spike_nlos;Spike NLOS
+weapons/spike_nlos/short;Spike NLOS
+weapons/spike_nlos_default;Spike NLOS
+weapons/spike_nlos_default/short;Spike NLOS
 
 weapons/il_shafrir_1;רירפש;
 weapons/il_shafrir_1/short;רירפש;
@@ -56,3 +68,10 @@ weapons/r_darter;Radar Darter;
 weapons/r_darter/short;R-Darter;
 weapons/r_darter_default;Radar Darter;
 weapons/r_darter_default/short;R-Darter;
+
+weapons/is_delilah;(EO) דלילה
+weapons/is_delilah/short;(EO) דלילה
+weapons/is_delilah_ir;(IR) דלילה
+weapons/is_delilah_ir/short;(IR) דלילה
+weapons/is_delilah_arm;STAR-1
+weapons/is_delilah_arm/short;STAR-1

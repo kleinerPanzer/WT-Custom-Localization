@@ -28,6 +28,7 @@ weapons/it_630l_drop_tank_3;External Fuel Tank (630 liters)
 weapons/it_630l_drop_tank_3/short;EFT
 
 weapons/cannonTM197B;20 mm TM197B;
+weapons/cannonTM197B/short;TM197B;
 
 weapons/40mm_cannone_da_40_70_user_cannon;Cannone Controaeri da 40/70;
 40mm_im219_ap;APCBC-T;

@@ -51,3 +51,8 @@ modification/atgm_spike_x2/desc;Allows installation of {unlockWeapons} missiles.
 modification/atgm_spike_x2;Spike ER;
 modification/atgm_spike_x4/desc;Allows installation of {unlockWeapons} missiles.;
 modification/atgm_spike_x4;Spike ER;
+
+modification/is_delilah/desc	Allows the installation of (EO) דלילה guided missiles.
+modification/is_delilah	(EO) דלילה
+modification/is_delilah_ir/desc	Allows the installation of (IR) דלילה guided missiles.
+modification/is_delilah_ir	(IR) דלילה

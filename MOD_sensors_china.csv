@@ -6,6 +6,7 @@ sensors/cn_jl_10ag;JL-10AG雷达
 sensors/cn_jl_7a;JL-7A雷达;
 sensors/cn_klj_7;KLJ-7A雷达;
 sensors/cn_klj_10a;KLJ-10A雷达;
+sensors/cn_klj_j16;Fire-Control Radar;
 
 sensors/cn_type_1473;1473型(K/LKK73)雷达;
 sensors/cn_type_1492;1492型(K/LKK92)雷达;
@@ -62,3 +63,6 @@ sensors/cn_pgz_625_track;Tracking Radar;
 sensors/cn_rw_30;RW-30 Radar Warning Receiver;
 
 sensors/cn_se_2_mlws;SE-2机载导弹逼近告警设备;
+
+sensors/cn_fk_2000_search;Search Radar
+sensors/cn_fk_2000_track;Tracking Radar

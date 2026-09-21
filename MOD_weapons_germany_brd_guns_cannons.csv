@@ -4,6 +4,7 @@
 weapons/7_92mm_MG3_user_machinegun;Maschinengewehr 7,62 mm x 51, MG 3;
 weapons/7_62mm_mg3_naval_user_machinegun;Maschinengewehr 7,62 mm x 51, MG 3;
 weapons/gunMG3;Maschinengewehr 7,62 mm x 51, MG 3;
+weapons/gunMG3/short;MG 3;
 weapons/5_56mm_MG4_user_machinegun;Maschinengewehr 5,56 mm x 45, MG 4;
 
 weapons/12_7mm_sMG_50_user_machinegun;12,7 mm Maschinengewehr 50;
@@ -14,6 +15,7 @@ weapons/20mm_Rh_202_Marder_user_cannon;Maschinenkanone 20 mm, MK 20;
 weapons/20mm_Rh_202_user_cannon;Maschinenkanone 20 mm, MK 20;
 weapons/20mm_luchs_a2_user_cannon;Maschinenkanone 20 mm, MK 20;
 weapons/20mm_65_rh_202_naval_user_cannon;Maschinenkanone 20 mm, MK 20;
+weapons/20mm_Rh_202_6616_user_cannon;Maschinenkanone 20 mm, MK 20;
 20mm_dm63;DM 63;
 20mm_dm43;DM 43;
 20mm_dm51a1;DM 51 A1;
@@ -42,6 +44,7 @@ weapons/106mm_M40A1_LGS_user_cannon;105 mm Leichtgeschütz M 40 A1;
 weapons/105mm_L7A3_GA_2_user_cannon;Bordkanone 105 mm, L7 A3;
 weapons/105mm_L7A3_user_cannon;Bordkanone 105 mm, L7 A3;
 weapons/105mm_L7A3_Radpanzer_user_cannon;Bordkanone 105 mm, L7 A3;
+weapons/105mm_L7A3_leopard_1a5be_user_cannon;Bordkanone 105 mm, L7 A3;
 105mm_dm12;DM 12;
 105mm_dm13;DM 13;
 105mm_dm23;DM 23;
@@ -132,4 +135,6 @@ us_iris_t_sl;IRIS-T SL
 weapons/us_iris_t_sl/short;IRIS-T SLM
 
 weapons/gr_as34_kormoran;AS.34 Kormoran;
-weapons/gr_as34_kormoran/short;AS.34;
+weapons/gr_as34_kormoran/short;Kormoran
+weapons/gr_as34_kormoran_mk_2;AS.34 Kormoran 2
+weapons/gr_as34_kormoran_mk_2/short;Kormoran 2

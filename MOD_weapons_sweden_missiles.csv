@@ -2,6 +2,9 @@
 weapons/swd_rb_05a;Robot 05A;
 weapons/swd_rb_05a/short;Rb 05A;
 
+weapons/swd_rb_15f;Robot 15F
+weapons/swd_rb_15f/short;Rb 15F
+
 weapons/swd_rb24;Robot 24;
 weapons/swd_rb24/short;Rb 24;
 weapons/swd_rb24_default;Robot 24;
@@ -10,6 +13,11 @@ weapons/swd_rb24j;Robot 24J;
 weapons/swd_rb24j/short;Rb 24J;
 weapons/swd_rb24j_default;Robot 24J;
 weapons/swd_rb24j_default/short;Rb 24J;
+
+weapons/swd_rb27;Robot 27
+weapons/swd_rb27/short;Rb 27
+weapons/swd_rb28;Robot 28
+weapons/swd_rb28/short;Rb 28
 
 weapons/164mm_s11_rocket_launcher;Robotsystem 52;
 weapons/164mm_s11_rocket_launcher/short;Rbs 52;

@@ -335,6 +335,19 @@ f-105d_shop;F-105D-31
 f-105d_0;F-105D-31 RE Thunderchief
 f-105d_1;F-105D
 f-105d_2;F-105
+f_105d_killstreak_shop;F-105D-31
+f_105d_killstreak_0;F-105D-31 RE Thunderchief
+f_105d_killstreak_1;F-105D
+f_105d_killstreak_2;F-105
+f_105d_japan_killstreak_shop;F-105D-31
+f_105d_japan_killstreak_0;F-105D-31 RE Thunderchief
+f-105d_japan_killstreak_1;F-105D
+f-105d_japan_killstreak_2;F-105
+
+f_102a_late_shop;F-102A-95
+f_102a_late_0;F-102A-95 Delta Dagger
+f_102a_late_1;F-102A
+f_102a_late_2;F-102
 
 f_106a_1972_shop;F-106A
 f_106a_1972_0;"F-106A Delta Dart
@@ -457,6 +470,10 @@ f_14d_shop;F-14D-160
 f_14d_0;F-14D-160-GR Tomcat
 f_14d_1;F-14D
 f_14d_2;F-14
+f_14d_vf_11_shop;F-14D-170
+f_14d_vf_11_0;F-14D-170-GR Tomcat
+f_14d_vf_11_1;F-14D
+f_14d_vf_11_2;F-14
 
 f_15a_shop;F-15A-18 (1997)
 f_15a_0;F-15A-18 MC (1997)
@@ -485,6 +502,30 @@ f_16a_block_15_adf_shop;F-16A-15 ADF
 f_16a_block_15_adf_0;F-16A-15 CF ADF Fighting Falcon
 f_16a_block_15_adf_1;F-16A
 f_16a_block_15_adf_2;F-16
+f_16a_block_15_adf_killstreak_shop;F-16A-15 ADF
+f_16a_block_15_adf_killstreak_0;F-16A-15 CF ADF Fighting Falcon
+f_16a_block_15_adf_killstreak_1;F-16A
+f_16a_block_15_adf_killstreak_2;F-16
+f_16a_block_15_adf_italy_killstreak_shop;F-16A-15 ADF
+f_16a_block_15_adf_italy_killstreak_0;F-16A-15 CF ADF Fighting Falcon
+f_16a_block_15_adf_italy_killstreak_1;F-16A
+f_16a_block_15_adf_italy_killstreak_2;F-16
+f_16a_block_15_adf_germany_killstreak_shop;F-16A-15 ADF
+f_16a_block_15_adf_germany_killstreak_0;F-16A-15 CF ADF Fighting Falcon
+f_16a_block_15_adf_germany_killstreak_1;F-16A
+f_16a_block_15_adf_germany_killstreak_2;F-16
+f_16a_block_15_adf_britain_killstreak_shop;F-16A-15 ADF
+f_16a_block_15_adf_britain_killstreak_0;F-16A-15 CF ADF Fighting Falcon
+f_16a_block_15_adf_britain_killstreak_1;F-16A
+f_16a_block_15_adf_britain_killstreak_2;F-16
+f_16a_block_15_adf_france_killstreak_shop;F-16A-15 ADF
+f_16a_block_15_adf_france_killstreak_0;F-16A-15 CF ADF Fighting Falcon
+f_16a_block_15_adf_france_killstreak_1;F-16A
+f_16a_block_15_adf_france_killstreak_2;F-16
+f_16a_block_15_adf_sweden_killstreak_shop;F-16A-15 ADF
+f_16a_block_15_adf_sweden_killstreak_0;F-16A-15 CF ADF Fighting Falcon
+f_16a_block_15_adf_sweden_killstreak_1;F-16A
+f_16a_block_15_adf_sweden_killstreak_2;F-16
 f_16c_block_50_shop;F-16C-50 CCIP
 f_16c_block_50_0;"F-16C-50 CF Fighting Falcon
 CCIP, 2007"
@@ -495,6 +536,11 @@ f_16c_block_52_aesa_0;"F-16C-52Q CF Fighting Falcon
 PoBIT"
 f_16c_block_52_aesa_1;F-16C
 f_16c_block_52_aesa_2;F-16
+
+f_16xl_shop;F-16XL
+f_16xl_0;F-16XL
+f_16xl_1;F-16XL
+f_16xl_2;F-16
 
 fa_18a_shop;F/A-18A-18
 fa_18a_0;F/A-18A-18 Hornet
@@ -736,6 +782,14 @@ b-57b_shop;B-57B
 b-57b_0;B-57B MA Canberra
 b-57b_1;B-57B
 b-57b_2;B-57
+b_57b_killstreak_shop;B-57B
+b_57b_killstreak_0;B-57B MA Canberra
+b_57b_killstreak_1;B-57B
+b_57b_killstreak_2;B-57
+b_57b_japan_killstreak_shop;B-57B
+b_57b_japan_killstreak_0;B-57B MA Canberra
+b_57b_japan_killstreak_1;B-57B
+b_57b_japan_killstreak_2;B-57
 
 b_66b_shop;B-66B
 b_66b_0;B-66B Destroyer

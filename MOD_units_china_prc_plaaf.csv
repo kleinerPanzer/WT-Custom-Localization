@@ -107,6 +107,10 @@ j_10a_shop;J10A
 j_10a_0;J10A型飞机
 j_10a_1;J10A
 j_10a_2;J10
+j_10a_killstreak_shop;J10A
+j_10a_killstreak_0;J10A型飞机
+j_10a_killstreak_1;J10A
+j_10a_killstreak_2;J10
 j_10c_shop;J10C
 j_10c_0;J10C型飞机
 j_10c_1;J10C
@@ -134,6 +138,13 @@ j_15t_0;"J15T型飞机
 <color=#C0C0C0>with WS10B engines</color>"
 j_15t_1;J15T
 j_15t_2;J15
+
+// J16 //
+j_16_shop;J-16
+j_16_0;"J16型飞机
+<color=#C0C0C0>Batch 7+</color>"
+j_16_1;J-16
+j_16_2;J-16
 
 // JH7 //
 jh_7_shop;JH7

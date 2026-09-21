@@ -15,7 +15,12 @@ cn_wz_305_0;Type 80 Twin 57 mm Self-Propelled Anti-Aircraft Gun
 cn_wz_305_1;Type 80
 cn_wz_305_2;Type 80
 
+
 // NEW ARMY //
+cn_plz_45_shop;PLZ45
+cn_plz_45_0;PLZ45 155 mm Self-Propelled Gun-Howitzer
+cn_plz_45_1;PLZ45
+cn_plz_45_2;PLZ45
 
 cn_wma_301_shop;WMA301
 cn_wma_301_0;WMA301 105 mm 6x6 Tank Destroying Vehicle
@@ -46,6 +51,11 @@ cn_pgz_625_fb10_0;"CS/SA5 30mm Wheeled Self-Propelled Anti-Aircraft Gun
 <color=#C0C0C0>2022 model</color>"
 cn_pgz_625_fb10_1;CS/SA5
 cn_pgz_625_fb10_2;SPAA
+
+cn_fk_2000_shop;FK-2000 (CV)
+cn_fk_2000_0;FK-2000 Missile-Gun Integrated Weapon System (Combat Vehicle)
+cn_fk_2000_1;FK-2000
+cn_fk_2000_2;FK-2000
 
 cn_qn506_shop;QN-506
 cn_qn506_0;QN-506 Multi-Weapon Combat Vehicle

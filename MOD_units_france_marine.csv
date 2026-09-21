@@ -8,6 +8,11 @@ fr_lcg_m_l9059_0;Chaland de débarquement type LCG(M), No. 111 (L 9059)
 fr_lcg_m_l9059_1;No. 111
 fr_lcg_m_l9059_2;LCG
 
+fr_lcm_monitor_shop;LCM 65
+fr_lcm_monitor_0;LCM Monitor, LCM 65
+fr_lcm_monitor_1;LCM 65
+fr_lcm_monitor_2;LCM Monitor
+
 // VEDETTES //
 // LANCE TORPILLES //
 fr_vlt1_shop;VLT 1
@@ -294,6 +299,12 @@ fr_cruiser_suffren_class_dupleix_0;"Croiseur lourd de la classe Suffren, Dupleix
 1942"
 fr_cruiser_suffren_class_dupleix_1;Dupleix
 fr_cruiser_suffren_class_dupleix_2;Classe Suffren
+
+// ALGERIE //
+fr_cruiser_algerie_class_shop;Algérie
+fr_cruiser_algerie_class_0;Croiseur lourd Algérie (1942)
+fr_cruiser_algerie_class_1;Algérie
+fr_cruiser_algerie_class_2;Algérie
 
 // CUIRASSES //
 // CLASSE COURBET //

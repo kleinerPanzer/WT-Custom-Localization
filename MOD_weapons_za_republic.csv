@@ -18,6 +18,7 @@ weapons/105mm_GT_8_user_cannon;105 mm GT8;
 
 weapons/20mm_GI_2_user_cannon;20 mm GI2;
 weapons/cannonGI_2;20 mm GI2;
+weapons/cannonGI_2/short;GI2;
 
 weapons/30mm_denel_gi30_user_cannon;30 mm GI-30
 

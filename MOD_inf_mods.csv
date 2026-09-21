@@ -86,10 +86,44 @@ modification/grenade_launcher_gp_25;ГП-25
 modification/grenade_launcher_gp_25/desc;Installs a grenade launcher on the main weapon.
 modification/grenade_launcher_gp_34;ГП-34
 modification/grenade_launcher_gp_34/desc;Installs a grenade launcher on the main weapon.
-modification/5_56mm_tracer_ammo_belt;Tracers
+modification/5_56mm_tracer_ammo_belt;Tracer ammunition
 modification/5_56mm_tracer_ammo_belt/desc;Loads magazines with additional tracer cartridges.
-modification/5_56mm_ap_ammo_belt;Armor-piercing
+modification/5_56mm_ep_ammo_belt;Enhanced performance ammunition
+modification/5_56mm_ep_ammo_belt/desc;Loads magazines with enhanced performance cartridges.
+modification/5_56mm_ap_ammo_belt;Armor-piercing ammunition
 modification/5_56mm_ap_ammo_belt/desc;Loads magazines with additional armor-piercing cartridges.
+modification/5_45mm_tracer_ammo_belt;Tracer ammunition
+modification/5_45mm_tracer_ammo_belt/desc;Loads magazines with additional tracer cartridges.
+modification/5_45mm_ap_ammo_belt;Armor-piercing ammunition
+modification/5_45mm_ap_ammo_belt/desc;Loads magazines with additional armor-piercing cartridges.
+modification/7_62mm_39_tracer_ammo_belt;Tracer ammunition
+modification/7_62mm_39_tracer_ammo_belt/desc;Loads magazines with additional tracer cartridges.
+modification/7_62mm_39_ap_ammo_belt;Armor-piercing ammunition
+modification/7_62mm_39_ap_ammo_belt/desc;Loads magazines with additional armor-piercing cartridges.
+modification/6_8mm_tracer_ammo_belt;Tracer ammunition
+modification/6_8mm_tracer_ammo_belt/desc;Loads magazines with additional tracer cartridges.
+modification/6_8mm_ap_ammo_belt;Armor-piercing ammunition
+modification/6_8mm_ap_ammo_belt/desc;Loads magazines with additional armor-piercing cartridges.
+modification/7_62mm_51_tracer_ammo_belt;Tracer ammunition
+modification/7_62mm_51_tracer_ammo_belt/desc;Loads magazines with additional tracer cartridges.
+modification/7_62mm_51_ap_ammo_belt;Armor-piercing ammunition
+modification/7_62mm_51_ap_ammo_belt/desc;Loads magazines with additional armor-piercing cartridges.
+modification/7_62mm_54_tracer_ammo_belt;Tracer ammunition
+modification/7_62mm_54_tracer_ammo_belt/desc;Loads magazines with additional tracer cartridges.
+modification/7_62mm_54_precision_ammo_belt;Precision ammunition
+modification/7_62mm_54_precision_ammo_belt/desc;Loads magazines with high-precision sniper cartridges.
+modification/7_62mm_54_ap_ammo_belt;Armor-piercing ammunition
+modification/7_62mm_54_ap_ammo_belt/desc;Loads magazines with additional armor-piercing cartridges.
+modification/9_19mm_expansive_ammo_belt;Expansive ammunition
+modification/9_19mm_expansive_ammo_belt/desc;Loads magazines with expanding (hollow point) cartridges.
+modification/9_18mm_tracer_ammo_belt;Tracer ammunition
+modification/9_18mm_tracer_ammo_belt/desc;Loads magazines with additional tracer cartridges.
+modification/9_18mm_expansive_ammo_belt;Expansive ammunition
+modification/9_18mm_expansive_ammo_belt/desc;Loads magazines with expanding (hollow point) cartridges.
+modification/9_18mm_ap_ammo_belt;Armor-piercing ammunition
+modification/9_18mm_ap_ammo_belt/desc;Loads magazines with additional armor-piercing cartridges.
+modification/9_39mm_ap_ammo_belt;Armor-piercing ammunition
+modification/9_39mm_ap_ammo_belt/desc;Loads magazines with additional armor-piercing cartridges.
 modification/magazine_magpul_pmag_30_round;Magazine 30
 modification/magazine_magpul_pmag_30_round/desc;Installs a light plastic 30-round magazine on the main weapon.
 modification/magazine_magpul_pmag_40_round;Magazine 40

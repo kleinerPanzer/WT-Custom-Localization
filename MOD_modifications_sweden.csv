@@ -55,6 +55,11 @@ modification/swe_rb24/desc;Allows installation of {unlockWeapons} missiles.;
 modification/swe_rb24j;Rb 24J;
 modification/swe_rb24j/desc;Allows installation of {unlockWeapons} missiles.;
 
+modification/swe_rb27/desc	Allows the installation of {unlockWeapons} missiles.
+modification/swe_rb27	Rb 27
+modification/swe_rb28/desc	Allows the installation of {unlockWeapons} missiles.
+modification/swe_rb28	Rb 28
+
 modification/swe_rb71;Rb 71;
 modification/swe_rb71/desc;Allows installation of {unlockWeapons} missiles.;
 

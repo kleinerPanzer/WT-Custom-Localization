@@ -98,6 +98,7 @@ engine_model/6v_53t;6V53T
 engine_model/v_92s2f;В-92S2Ф;
 engine_model/8v_150;8V150
 engine_model/j60_no1_mk100b;Jaguar J.60 No. 1 Mk. 100B
+engine_model/6B_TA	6BTA 5.9
 engine_model/8va_34twk;8VA 34WTK;
 engine_model/iveco_8262_6v;8262 6V
 engine_model/iveco_vector_8v;VECTOR 8V
@@ -180,6 +181,7 @@ engine_manufacturer/toko;特;
 engine_model/ro_2;呂二号;
 engine_model/ha_102;ハ102;
 engine_model/ha_211_ru;ハ211ル;
+engine_model/ha_214;ハ214フ
 engine_model/zuisei_13;瑞星13型;
 engine_model/zuisei_11;瑞星11型;
 engine_model/kinsei_44;金星44型;
@@ -673,6 +675,9 @@ engine_model/j79_ge_7a;J79-GE-7A;
 engine_model/M-82-ir;АШ-82ИР;
 engine_model/bmw_13k;13 K;
 engine_model/j65-w-18;J65-W-18;
+engine_model/j65-w-420	J65-W-420
+transmission_model/tn_15e	TN15E
+
 engine_model/al_7f_1_200;AL-7F-1-200;
 engine_model/r2800-59;R-2800-59;
 engine_model/r2800-43;R-2800-43;
@@ -886,3 +891,7 @@ engine_model/merlin-73;Merlin Mk. 73
 engine_model/merlin-46;Merlin Mk. 46
 engine_model/r1830-43;R-1830-43
 engine_model/rd-33mk;РД-33МК
+engine_model/j57_p_23a	J57-P-23A
+engine_model/avon_26	Avon Mk. 26
+engine_model/cts800-4n	CTS800-4N
+engine_model/arriel_2e	Arriel 2E

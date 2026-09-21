@@ -401,6 +401,14 @@ su_17m4_shop;Су-17М4
 su_17m4_0;Самолёт Су-17М4
 su_17m4_1;Су-17М
 su_17m4_2;Су-17
+su_17m4_killstreak_shop;Су-17М4
+su_17m4_killstreak_0;Самолёт Су-17М4
+su_17m4_killstreak_1;Су-17М
+su_17m4_killstreak_2;Су-17
+su_17m4_china_killstreak_shop;Су-17М4
+su_17m4_china_killstreak_0;Самолёт Су-17М4
+su_17m4_china_killstreak_1;Су-17М
+su_17m4_china_killstreak_2;Су-17
 
 su_22m3_shop;Су-22М3
 su_22m3_0;Самолёт Су-22М3
@@ -601,11 +609,20 @@ mig_29smt_9_19_shop;МиГ-29СМТ
 mig_29smt_9_19_0;Самолёт МиГ-29СМТ
 mig_29smt_9_19_1;МиГ-29СМТ
 mig_29smt_9_19_2;МиГ-29
+mig_29smt_9_19_killstreak_shop;МиГ-29СМТ
+mig_29smt_9_19_killstreak_0;Самолёт МиГ-29СМТ
+mig_29smt_9_19_killstreak_1;МиГ-29СМТ
+mig_29smt_9_19_killstreak_2;МиГ-29
 
 mig_29kr_9_41r_shop;МиГ-29К
 mig_29kr_9_41r_0;Самолёт МиГ-29К
 mig_29kr_9_41r_1;МиГ-29К
 mig_29kr_9_41r_2;МиГ-29
+
+mig_35_shop;МиГ-35С
+mig_35_0;Самолёт МиГ-35С
+mig_35_1;МиГ-35С
+mig_35_2;МиГ-35
 
 // ILYUSHIN //
 il_2_1941_shop;Ил-2 (март 1941)

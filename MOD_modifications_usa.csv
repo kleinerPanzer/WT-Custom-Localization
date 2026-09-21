@@ -236,6 +236,8 @@ modification/f-82_gunpod;NAGP Mk 1 Mod 0;
 modification/f-82_gunpod/desc;Allows installation of 1 x NAGP Mk 1 Mod 0 gun pod.;
 modification/dgp-1_gunpod;DGP-1;
 modification/dgp-1_gunpod/desc;Allows installation of 2 x DGP-1 gun pods.;
+modification/a_26_gunpod	Wing Guns
+modification/a_26_gunpod/desc	Allows the installation of additional Caliber .50 AN/M2 machine guns under the wings.
 modification/b-29_sbc;SBC-40;
 modification/b-29_sbc/desc;Allows installation of additional 500 lb bombs.;
 modification/b-29_mbc;MBC-12;

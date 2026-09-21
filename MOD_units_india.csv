@@ -3,7 +3,7 @@ shop/group/uk_9a33_35_group;ओसा-ए के / स्ट्रेला १�
 
 uk_9a35_m_shop;स्ट्रेला १० एम;Strela 10 M
 uk_9a35_m_0;लड़ाकू वाहन स्ट्रेला १० एम;Combat Vehicle Strela 10 M
-uk_9a35_m_1;;स्ट्रेला १० एमStrela 10 M
+uk_9a35_m_1;स्ट्रेला १० एम;Strela 10 M
 uk_9a35_m_2;स्ट्रेला १०;Strela 10
 
 uk_9a33bm2_shop;ओसा-ए के;Osa-A K
@@ -11,10 +11,15 @@ uk_9a33bm2_0;ओसा-ए के प्रक्षेपास्त्र प
 uk_9a33bm2_1;ओसा-ए के;Osa-A K
 uk_9a33bm2_2;ओसा-ए के;Osa-A K
 
-uk_vijayanta_shop;विजयंता Mk. 1;Vijayanta Mk. 1
-uk_vijayanta_0;टैंक विजयंता Mk. 1;Tank Vijayanta Mk. 1
-uk_vijayanta_1;विजयंता Mk. 1;Vijayanta Mk. 1
+uk_vijayanta_shop;विजयंता मार्क I;Vijayanta Mk. 1
+uk_vijayanta_0;टैंक विजयंता मार्क I;Tank Vijayanta Mk. 1
+uk_vijayanta_1;विजयंता मार्क I;Vijayanta Mk. 1
 uk_vijayanta_2;विजयंता;Vijayanta
+
+uk_arjun_mk1_shop;अर्जुन मार्क I
+uk_arjun_mk1_0;मुख्य युद्धक टैंक अर्जुन मार्क I
+uk_arjun_mk1_1;अर्जुन मार्क I
+uk_arjun_mk1_2;अर्जुन
 
 uk_t_90s_bheeshma_shop;टी-९० एस;T-90 S
 uk_t_90s_bheeshma_0;टैंक टी-९० एस भीष्म;Tank T-90 S Bhishma

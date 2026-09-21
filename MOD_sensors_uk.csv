@@ -35,6 +35,7 @@ sensors/uk_praetorian_maw;Praetorian DASS;
 sensors/uk_pvs2000_maw;PVS2000;
 sensors/uk_rapier_fr;Tracking Radar;
 sensors/uk_rapier_sr;Search Radar;
+sensors/uk_seaspray_7400e;Seaspray 7400E
 sensors/uk_sky_guardian_200;Sky Guardian 200;
 sensors/uk_sky_guardian_200d;Sky Guardian 200D;
 sensors/uk_sky_guardian_200d_apr_48;Sky Guardian 200D / Radar Frequency Interferometer, AN/APR-48

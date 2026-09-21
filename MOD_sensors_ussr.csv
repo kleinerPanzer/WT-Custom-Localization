@@ -11,6 +11,7 @@ counterMeasures/l_370v28_5l;БКО Л-370В28-5Л
 counterMeasures/lsz_8vn;КО ЛСЗ-8ВН;
 
 sensors/su_1rl144_search;РЛС 1РЛ144М1;
+sensors/su_1rl144_search_ai;РЛС 1РЛ144М1;
 sensors/su_1rl144_track;РЛС 1РЛ144М1;
 sensors/su_1rl33;РЛС 1РЛ133;
 sensors/su_1rl33_ai;РЛС 1РЛ133
@@ -34,9 +35,11 @@ sensors/su_9k_33m3_search_ai;Search Radar;
 sensors/su_9k_33m3_track;Tracking Radar;
 sensors/su_9k_33m3_track_ai;Tracking Radar;
 sensors/su_9s18;РЛС 9С18 «Купол»
+sensors/su_9s18m1;РЛС 9С18М1
 sensors/su_9s18m3;Search Radar;
 sensors/su_9s18m3_ai;Search Radar;
 sensors/su_9s35;РЛС 9С35
+sensors/su_9s35m1;РЛС 9С35М1
 sensors/su_9s86;АОЗ 9С86;
 sensors/su_bmp_auto_target_tracker;TV Tracker;
 sensors/su_cd-30;РЛС ЦД-30;
@@ -53,6 +56,8 @@ sensors/su_kopio;РЛС «Копьё»;
 sensors/su_l_370_2;БКО Л-370-2 «Витебск»;
 sensors/su_l-082;Теплопеленгатор Л-082 «Мак-УЛ»;
 sensors/su_l-140;СПЛО Л-140 «Отклик»;
+sensors/su_mig_35_lws;СПО Л-150М
+sensors/su_mig_35_mlws;СПО Л-150М
 sensors/su_mr_102_baklan;РЛС МР-102 «Баклан»;
 sensors/su_mr_103_bars;РЛС МР-103 «Барс»;
 sensors/su_mr_104_rys;РЛС МР-104 «Рысь»;
@@ -65,12 +70,15 @@ sensors/su_mr_360_podkat;РЛС МР-360 «Подкат»;
 sensors/su_mr_510_kil_u;РЛС МР-510 «Киль-У»;
 sensors/su_mr_750_fregat_ma;РЛС МР-750 «Фрегат-МА»
 sensors/su_mr_90;РЛС МР-90
+sensors/su_mr_90_ai;РЛС МР-90
 sensors/su_n_001;РЛС Н001 «Меч»;
 sensors/su_n_001;РЛС Н001К;
 sensors/su_n_001ve;РЛС Н001ВЭ;
 sensors/su_n_001vep;РЛС Н001ВЭП;
 sensors/su_n_010;РЛС Н001 «Жук»;
-sensors/su_n_010m;РЛС Н001М «Жук-М»;
+sensors/su_n_010a;РЛС Н010А «Жук-А»
+sensors/su_n_010m;РЛС Н010М «Жук-М»
+sensors/su_n_010m_ols_ue;РЛС Н010М «Жук-М»
 sensors/su_n_011m;РЛС Н011М «Барс-29»
 sensors/su_n_011r;РЛС Н011Р «Барс»
 sensors/su_n_019;РЛС Н019;
@@ -101,7 +109,7 @@ sensors/su_satellite_m2;АРТЗ «Сателлит-М2»;
 sensors/su_snr_75;РЛС СНР-75
 sensors/su_spo-10;СПО-10 «Сирена-3»;
 sensors/su_spo-15;СПО-15 «Берёза»;
-sensors/su_spo-150-14;Л-150-14;
+sensors/su_spo-150-14;СПО Л-150-14;
 sensors/su_spo-150-16m;СПО-150-16М;
 sensors/su_spo-150-28m;СПО-150-28М
 sensors/su_spo-150-30;СПО-150-30
@@ -110,6 +118,7 @@ sensors/su_spo-150-30m1;СПО-150-30М1
 sensors/su_spo-150;СПО-150;
 sensors/su_spo-150-30sm;СПО-150-30СМ;
 sensors/su_spo_150_esm;СПО-150;
+sensors/su_spo-150m_02;СПО Л-150М
 sensors/su_spo-15l;СПО-15Л «Берёза-Л»;
 sensors/su_spo-15le;СПО-15ЛЭ «Берёза-ЛЭ»;
 sensors/su_spo-15lm;СПО-15ЛМ «Берёза-ЛМ»;

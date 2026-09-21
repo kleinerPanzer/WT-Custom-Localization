@@ -412,6 +412,10 @@ uk_fv107_scimitar_shop;Scimitar
 uk_fv107_scimitar_0;Combat Vehicle, Reconnaissance, Full-Tracked, Scimitar (1994)
 uk_fv107_scimitar_1;Scimitar
 uk_fv107_scimitar_2;Scimitar
+uk_fv107_scimitar_mk2_shop;Scimitar Mk 2 TES
+uk_fv107_scimitar_mk2_0;Combat Vehicle, Reconnaissance, Full-Tracked, Scimitar Mk 2, Theatre Entry Standard
+uk_fv107_scimitar_mk2_1;Scimitar Mk 2
+uk_fv107_scimitar_mk2_2;Scimitar
 
 uk_fv102_striker_shop;Striker
 uk_fv102_striker_0;Anti-Armour Guided Weapon Carrier, Striker
@@ -490,6 +494,11 @@ ah_64e_britain_shop;Apache AH.2
 ah_64e_britain_0;Apache AH. Mk. 2
 ah_64e_britain_1;Apache Mk. 2
 ah_64e_britain_2;Apache
+
+aw_159_shop;Wildcat HMA.2
+aw_159_0;Wildcat HMA. Mk. 2
+aw_159_1;Wildcat Mk. 2
+aw_159_2;Wildcat
 
 // OTHER //
 

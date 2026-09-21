@@ -3,16 +3,18 @@ shop/group/ussr_buk_m3_fcs_group;9К317М
 shop/group/ussr_t_34_40_41_group;Т-34 (дек. 1940) / Т-34 (май 1941)
 shop/group/ussr_t_34_42_group;Т-34 (сент. 1942) / Т-34 (февр. 1942) Экранами
 shop/group/ussr_kit_3rank_group;In May 1945
+shop/group/ussr_kit_4rank_group;Be Prepared!
 shop/group/ussr_t_54_group;Т-54-1 (1947) / Т-54-2 (1949) / Т-54-3 (1951)
 shop/group/ussr_t_55_group;Т-55А (1969) / Т-62 (1964)
 shop/group/ussr_t_62_group;Т-55АМД-1 / Т-62М-1
 shop/group/ussr_t_72b_group;Т-72Б (1987) / Т-72Б (1989)
+shop/group/ussr_775_157_group;Объ. 775 / 9П157-2
 shop/group/ussr_kv_1_2_group;КВ-1 (ноябрь 1940) / КВ-2  (июль 1940)
 shop/group/ussr_kv_1_85_group;КВ-1 (окт. 1941) (ЗиС-5) / КВ-85
 shop/group/ussr_t_64_group;Т-64А (1971) / Т-64БВ (1987)
 shop/group/ussr_bmp_1_group;БМП-1П / ПТ-85 (Oбъ. 906)
 shop/group/ussr_bmp_2_group;БМП-2Д / Объ. 685
-shop/group/ussr_bmp_3_group;БМП-3 (2017) / 2С25
+shop/group/ussr_bmp_3_group;БМП-3 / 2С25
 shop/group/ussr_zis_su_group;ЗиС-30 / СУ-57Б
 shop/group/ussr_su_isu_152_group;СУ-152 / СУ-85 / ИСУ-152 (дек. 1944)
 shop/group/ussr_su_isu_122_group;СУ-85М (ноябрь 1944) / ИСУ-122 (дек. 1944)
@@ -157,6 +159,10 @@ ussr_t_44_shop;Т-44
 ussr_t_44_0;Танк Т-44
 ussr_t_44_1;Т-44
 ussr_t_44_2;Т-44
+ussr_t_44_kit_4rank_shop;Т-44
+ussr_t_44_kit_4rank_0;Танк Т-44
+ussr_t_44_kit_4rank_1;T-44 (Be Prepared!)
+ussr_t_44_kit_4rank_2;Т-44
 ussr_t_44_100_shop;Т-44-100
 ussr_t_44_100_0;Танк Т-44-100 (Д-10Т)
 ussr_t_44_100_1;Т-44-100
@@ -454,6 +460,10 @@ ussr_is_2_1944_revenge_shop;ИС-2 (янв. 1945) (СН) (48 гв оттп)
 ussr_is_2_1944_revenge_0;Танк ИС-2 с спрямленный нос обр. январь 1945 г. (48-й отдельный гвардейский тяжёлый танковый полк прорыва)
 ussr_is_2_1944_revenge_1;ИС-2 (СН)
 ussr_is_2_1944_revenge_2;ИС-2
+ussr_is_2m_kit_4rank_shop;ИС-2М (янв. 1945) (СН)
+ussr_is_2m_kit_4rank_0;Танк ИС-2М с спрямленный нос обр. январь 1945 г.
+ussr_is_2m_kit_4rank_1;ИС-2М (СН)
+ussr_is_2m_kit_4rank_2;ИС-2
 ussr_is_3_shop;ИС-3
 ussr_is_3_0;Танк ИС-3 (1953)
 ussr_is_3_1;ИС-3
@@ -592,12 +602,12 @@ ussr_su_100_1945_2;СУ-100
 ussr_su_100Y_shop;СУ-100-Y
 ussr_su_100Y_0;Самоходная артиллерийская установка СУ-100-Y
 ussr_su_100Y_1;СУ-100-Y
-ussr_su_100Y_2;СУ-100
+ussr_su_100Y_2;СУ-100-Y
 
 ussr_su_100p_shop;СУ-100П
 ussr_su_100p_0;Самоходная артиллерийская установка СУ-100П
 ussr_su_100p_1;СУ-100П
-ussr_su_100p_2;СУ-100
+ussr_su_100p_2;СУ-100П
 
 ussr_su_122_shop;СУ-122 (1942)
 ussr_su_122_0;Самоходная артиллерийская установка СУ-122 обр. 1942 г.
@@ -606,7 +616,7 @@ ussr_su_122_2;СУ-122
 ussr_su_122P_shop;СУ-122П
 ussr_su_122P_0;Самоходная артиллерийская установка СУ-122П
 ussr_su_122P_1;СУ-122П
-ussr_su_122P_2;СУ-122
+ussr_su_122P_2;СУ-122П
 
 ussr_su_122_54_shop;СУ-122 (1956)
 ussr_su_122_54_0;Самоходная артиллерийская установка СУ-122 обр. 1956 г.
@@ -622,6 +632,11 @@ ussr_object_120_shop;СУ-152 (Oбъ. 120)
 ussr_object_120_0;Самоходная артиллерийская установка СУ-152 (Oбъект 120)
 ussr_object_120_1;СУ-152 (Oбъ. 120)
 ussr_object_120_2;СУ-152 (Oбъ. 120)
+
+ussr_object_416_shop;СУ-100М (Oбъ. 416)
+ussr_object_416_0;Самоходная артиллерийская установка СУ-100М (Oбъект 416)
+ussr_object_416_1;СУ-100М (Oбъ. 416)
+ussr_object_416_2;СУ-100М (Oбъ. 416)
 
 ussr_isu_122_shop;ИСУ-122 (дек. 1944)
 ussr_isu_122_0;Самоходная артиллерийская установка ИСУ-122 обр. декабрь 1944 г.

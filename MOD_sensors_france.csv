@@ -47,6 +47,7 @@ sensors/fr_spectra_rwr;SPECTRA
 sensors/fr_taran_18;TARAN 18
 sensors/fr_thales_rbe2;RBE2
 sensors/fr_thales_rdy;RDY;
+sensors/fr_thales_rdy_2;RDY2;
 sensors/fr_thomson-csf_rdi;RDI;
 sensors/fr_thomson-csf_rdm;RDM;
 

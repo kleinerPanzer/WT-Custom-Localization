@@ -4,6 +4,7 @@
 // GUNS-HOWITZERS //
 weapons/130mm_pl_59a_gai_user_cannon;PL59A式130毫米加农炮;
 weapons/152mm_pl_66_gai_user_cannon;PL66式152毫米加农榴弹炮;
+weapons/155mm_plz45_user_cannon;155 mm L/45
 weapons/155mm_PL05_user_cannon;PL05式155毫米加农榴弹炮;
 // ANTITANK //
 weapons/100mm_PTP86_user_cannon;PT86式100毫米反坦克炮;
@@ -154,6 +155,9 @@ type_44_ap;1959年式100毫米坦克炮曳光被帽穿甲弹;
 152mm_bee_7;BEE7 (ML-11A)
 152mm_bee_7_vt;BEE7 (MD-81)
 
+155mm_ddb01_he;DDB01 (ML-11A)
+155mm_ddb01_he_vt;DDB01 (MD-81)
+
 155mm_plz_05_he;HE
 155mm_plz_05_he_vt;HE-VT
 155mm_bea_1;BEA1
@@ -216,5 +220,8 @@ weapons/70mm_QN201DD_rocket_launcher/short;QN-201;
 weapons/70mm_QN201DD/short;QN-201;
 weapons/151mm_QN502CDD_rocket_launcher;QN-502C Medium-Range Vehicle-Mounted Homing Intelligent Anti-Tank Missile;QN-502C中程车载自号的就能反坦竞导弹;
 weapons/151mm_QN502CDD_rocket_launcher/short;QN-502C;
-weapons/151mm_qn502cdd/short;QN-502C;
 151mm_QN502CDD;QN-502C;
+weapons/151mm_qn502cdd/short;QN-502C;
+
+weapons/180mm_FK_2000_rocket_launcher;FK-2000 Missile Container
+fk_2000_rocket;FK-2000

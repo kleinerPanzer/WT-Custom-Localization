@@ -51,6 +51,7 @@ missile/guidance/SARH+IOG+DL;SARH+INS+DL;
 missile/guidance/ARH;ARH;
 missile/guidance/ARH+IOG;ARH+INS;
 missile/guidance/ARH+IOG+DL;ARH+INS+DL;
+missile/guidance/ARH+IOG+GNSS;ARH+INS+GNSS
 missile/guidance/ARH+IOG+GNSS+DL;ARH+INS+GNSS+DL
 missile/guidance/laser;Laser;
 missile/guidance/laser+IOG;Laser+INS;
@@ -84,6 +85,8 @@ missile/shootDown/allAspects;All-Aspect;
 missile/shootDown/headOnAspect;Front-Aspect;
 missile/irccm;IRCCM;
 missile/eccm;ECCM;
+missile/rangeGate;Range Gate
+missile/speedGate;Speed Gate
 missile/timeGuidance;Missile guidance time;
 missile/timeSelfdestruction;Self-destruction time;
 torpedo/maxSpeedInWater;Maximum speed in water;
@@ -148,7 +151,7 @@ ap_ball/name;Armor-Piercing bullet;
 ap_ball/name/short;AP;
 ap_t_ball/name;Armor-Piercing Tracer bullet;
 ap_t_ball/name/short;AP-T;
-pele_t/name;Penetrator with Enhanced Lateral Effect Tracer bullet;
+pele_t/name;Enhanced Lateral Effect Tracer bullet;
 pele_t/name/short;PELE-T;
 ap_i_ball/name;Armor-Piercing Incendiary bullet;
 ap_i_ball/name/short;API;
@@ -193,6 +196,8 @@ ball_M2/name;Cartridge, Caliber .50, Ball, M2;
 ball_M2/name/short;Ball;
 ap_i_t_ball_M20/name;Cartridge, Caliber .50, Armor Piercing Incendiary-Tracer, M20;
 ap_i_t_ball_M20/name/short;API-T;
+sap_hei_t_m_pzgr/name;Minengeschoß-Panzergranate
+sap_hei_t_m_pzgr/name/short;SAPHEI-T
 ap_i_t_ball_bzt_44/name;12,7 мм патрон с бронебойно-зажигательно-трассирующей пулей БЗТ-44
 ap_i_t_ball_bzt_44/name/short;API-T
 ap_i_ball_M8/name;Cartridge, Caliber .50, Ball, Armor Piercing Incendiary, M8;
@@ -300,6 +305,8 @@ tracer/name;%s mm ammunition belt with tracers;
 tracer/name/short;Tracers;
 antitank/name;%s mm ammunition belt for armored targets;
 antitank/name/short;Armored Targets;
+light_targets/name;%s mm ammunition belt for light armored targets
+light_targets/name/short;Light Armored Targets
 armor_targets/name;%s mm ammunition belt for armored targets;
 armor_targets/name/short;Armored Targets;
 armor_target/name;%s mm ammunition belt for armored targets;
@@ -475,8 +482,6 @@ turret_apt/name;%s mm turret ammunition belt with AP shells;
 turret_apt/name/short;Armored Targets;
 turret_universal/name;%s mm turret ammunition belt with AP and T shells
 turret_universal/name/short;AP/T
-weapons/cannonHo115;3cmホ115;
-weapons/gunType3;三式13mm固定機銃;
 apcr_tank/name;Armor-Piercing Composite Rigid shell;
 apcr_tank/name/short;APCR;
 apbc_tank/name;Armor-Piercing Ballistic Capped shell;
@@ -675,6 +680,7 @@ explosiveType/trialen_105;Trialen 105;
 explosiveType/trialen_106;Trialen 106;
 explosiveType/trianilite;Trianilite
 explosiveType/hbx;HBX;
+explosiveType/hbx_1;HBX-1
 explosiveType/hbx_3;HBX-3
 explosiveType/hta;HTA;
 explosiveType/hta_petn;HTA/PETN;
@@ -686,6 +692,7 @@ explosiveType/sks;CKC;
 explosiveType/fp_02;FP 02;
 explosiveType/octogel;Октогель;
 explosiveType/aerea_64057;Aerea 64057;
+explosiveType/trinalite;Trinalite
 explosiveType/pentolite;Pentolite;
 explosiveType/detonite;Detonite;
 explosiveType/comp_b;Composition B;
@@ -693,6 +700,7 @@ explosiveType/pax_48;PAX-48
 explosiveType/comp_b_mod;Modified Composition B;
 explosiveType/amatol_tnt;Amatol and TNT;
 explosiveType/amatol;Amatol;
+explosiveType/amatol_80_20;Amatol 80/20
 explosiveType/exp_d_tetryl;Exp. D and tetryl;
 explosiveType/exp_d;Exp. D;
 explosiveType/fp60_40;Fp. 60/40;

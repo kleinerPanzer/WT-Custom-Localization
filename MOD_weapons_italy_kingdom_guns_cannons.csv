@@ -1,9 +1,14 @@
 <ID|readonly|noverify>;<NewLanguage>
 weapons/gunBredaSAFAT127;Breda-SAFAT da 12,7 mm;
+weapons/gunBredaSAFAT127/short;Breda-SAFAT
 weapons/gunBredaSAFAT127_turret;Breda-SAFAT da 12,7 mm;
+weapons/gunBredaSAFAT127_turret/short;Breda-SAFAT
 weapons/gunBredaSAFAT77;Breda-SAFAT da 7,7 mm;
+weapons/gunBredaSAFAT77/short;Breda-SAFAT
 weapons/gunBredaSAFAT77_turret;Breda-SAFAT da 7,7 mm;
+weapons/gunBredaSAFAT77_turret/short;Breda-SAFAT
 weapons/gunScotti127_turret;Mitragliatrice Scotti-Isotta Fraschini da 12,7;
+weapons/gunScotti127_turret/short;Scotti-Isotta Fraschini
 weapons/cannonSAA;Cannone da 102/40 Mod. 14;
 weapons/20mm_65_breda_naval_user_cannon;Cannone-Mitragliera Breda da 20/65 Mod. 35;
 weapons/13_2mm_Breda_mod31_user_machinegun;Mitragliatrice Breda da 13,2 mm Mod. 31;

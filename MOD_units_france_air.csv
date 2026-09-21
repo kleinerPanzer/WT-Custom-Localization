@@ -4,7 +4,7 @@
 
 shop/group/leo_451_group;LéO 451-BN4 / LéO 451-BN4 (AAV)
 shop/group/potez_group;Potez 630-C3 / Potez 631-C3
-shop/group/d_371_group;D.371-C1 / D.373-C1
+shop/group/d_371_group;D.371-C1 / D.373
 shop/group/f_222_group;F.2222-BN5 / N.C.2233-BN5
 shop/group/ms_405_406_group;M.S.405-C1 / M.S.406-C1
 shop/group/d_500_group;D.500-C1 / D.501-C1
@@ -36,7 +36,8 @@ leo_451_early_2;LéO 451
 // Potez //
 
 potez_630_shop;Potez 630-C3
-potez_630_0;Potez 630-C3
+potez_630_0;"Potez 630-C3
+<color=#C0C0C0>№ 49+</color>"
 potez_630_1;Potez 630-C3
 potez_630_2;Potez 630
 potez_631_shop;Potez 631-C3
@@ -51,7 +52,8 @@ potez_633_2;Potez 633
 // Breguet //
 
 br_693_ab2_shop;Bre.693-AB2
-br_693_ab2_0;Bre.693-AB2
+br_693_ab2_0;"Bre.693-AB2
+<color=#C0C0C0>№ 1–80</color>"
 br_693_ab2_1;Bre.693-AB2
 br_693_ab2_2;Bre.693
 
@@ -62,7 +64,8 @@ mb_151c1_0;Bloch 151-C1
 mb_151c1_1;Bloch 151-C1
 mb_151c1_2;Bloch 151
 mb_152c1_shop;Bloch 152-C1
-mb_152c1_0;Bloch 152-C1
+mb_152c1_0;"Bloch 152-C1
+<color=#C0C0C0>№ 9–300</color>"
 mb_152c1_1;Bloch 152-C1
 mb_152c1_2;Bloch 152
 mb_157_shop;Bloch 157-01
@@ -138,9 +141,9 @@ d_371_hs9_0;"D.371
 2 canons à l'étude"
 d_371_hs9_1;D.371 (2 canons)
 d_371_hs9_2;D.371
-d_373_shop;D.373-C1
-d_373_0;D.373-C1
-d_373_1;D.373-C1
+d_373_shop;D.373
+d_373_0;D.373
+d_373_1;D.373
 d_373_2;D.373
 
 d_500_shop;D.500-C1
@@ -151,9 +154,10 @@ d_501_shop;D.501-C1
 d_501_0;D.501-C1
 d_501_1;D.501-C1
 d_501_2;D.501
-d_510_shop;D.510-C1 (GC I/1)
+d_510_shop;D.510-C1
 d_510_0;"D.510-C1
-Gabriel Pallier, Groupe de Chasse I/1"
+<color=#E3D452>Groupe de Chasse I/1</color>
+<color=#E3D452>Gabriel Pallier</color>"
 d_510_1;D.510-C1
 d_510_2;D.510
 
@@ -166,16 +170,17 @@ d_520_0;D.520-C1
 d_520_1;▄ D.520-C1
 d_520_2;D.520
 d_521_shop;▄ D.521-01
-d_521_0;D.521-01
+d_521_0;"D.521-01
+<color=#C0C0C0>with provisional armament</color>"
 d_521_1;▄ D.521-01
 d_521_2;D.521
 
 // Caudron //
 
-caudron_cr714_shop;CR.714-C1
-caudron_cr714_0;CR.714-C1
-caudron_cr714_1;CR.714-C
-caudron_cr714_2;CR.714
+caudron_cr714_shop;C.R.714-C1
+caudron_cr714_0;C.R.714-C1 Cyclone
+caudron_cr714_1;C.R.714-C
+caudron_cr714_2;C.R.714
 
 // Douglas //
 
@@ -188,17 +193,17 @@ db_7_2;DB-7
 
 h-75a-1_france_shop;H75-C1
 h-75a-1_france_0;"H75-C1
-№1 à 100"
+№ 1–100"
 h-75a-1_france_1;H75-C1
 h-75a-1_france_2;H75
 h-75a-1_france39_shop;H75-C1
 h-75a-1_france39_0;"H75-C1
-№1 à 100"
+№ 1–100"
 h-75a-1_france39_1;H75-C
 h-75a-1_france39_2;H75
 h-75a-1_france40_shop;H75-C1
 h-75a-1_france40_0;"H75-C1
-№1 à 100"
+№ 1–100"
 h-75a-1_france40_1;H75-C
 h-75a-1_france40_2;H75
 h-75a-2_france_shop;H75-C1 (2ème)
@@ -233,9 +238,9 @@ late_298d_0;Latécoère 298D
 late_298d_1;Latécoère 298D
 late_298d_2;Latécoère 298
 
-v_156_f_shop;⚜ V-156-F
+v_156_f_shop;V-156-F
 v_156_f_0;V-156-F
-v_156_f_1;⚜ V-156-F
+v_156_f_1;V-156-F
 v_156_f_2;V-156
 
 // LEND-LEASE & POSTWAR //
@@ -254,41 +259,43 @@ p-39q_25_france_0;P-39Q-25 BE
 p-39q_25_france_1;⚜ P-39Q
 p-39q_25_france_2;P-39
 
-p-40f-5_france_ep_shop;⚜ P-40F-5 (GC II/5)
+p-40f-5_france_ep_shop;⚜ P-40F-5
 p-40f-5_france_ep_0;"P-40F-5 CU
-Constantin Rozanoff, Groupe de Chasse II/5 ""Lafayette"""
+<color=#E3D452>Groupe de Chasse II/5 ""Lafayette""</color>
+<color=#E3D452>Constantin Rozanoff</color>"
 p-40f-5_france_ep_1;⚜ P-40F
 p-40f-5_france_ep_2;P-40
 
-p-47d_22_re_france_shop;⚜ P-47D-22 (GC II/3)
+p-47d_22_re_france_shop;⚜ P-47D-22
 p-47d_22_re_france_0;"P-47D-22 RE
-Groupe de Chasse II/3 ""Dauphiné"""
+<color=#E3D452>Groupe de Chasse II/3 ""Dauphiné""</color>"
 p-47d_22_re_france_1;⚜ P-47D
 p-47d_22_re_france_2;P-47
 
-p-51c-10_france_shop;⚜ F-6C-10 (GR II/33)
+p-51c-10_france_shop;⚜ F-6C-10
 p-51c-10_france_0;"F-6C-10 NT
-Groupe de Reconnaissance II/33 ""Savoie"""
+<color=#E3D452>Groupe de Reconnaissance II/33 ""Savoie""</color>"
 p-51c-10_france_1;⚜ F-6C
 p-51c-10_france_2;F-6
 
 p-63c-5_france_shop;⚜ P-63C-5
-p-63c-5_france_0;P-63C-5
+p-63c-5_france_0;P-63C-5 BE
 p-63c-5_france_1;⚜ P-63C
 p-63c-5_france_2;P-63
 
 f-84f_france_shop;⚜ F-84F-51
-f-84f_france_0;F-84F-51 GK
+f-84f_france_0;"F-84F-51 GK
+<color=#C0C0C0>1956 modifications</color>"
 f-84f_france_1;⚜ F-84F
 f-84f_france_2;F-84
-f-84f_iaf_shop;⚜ F-84F-51 (EC 1/1)
+f-84f_iaf_shop;⚜ F-84F-51
 f-84f_iaf_0;"F-84F-51 GK
-Escadron de Chasse 1/1 ""Corse"""
+<color=#E3D452>Escadron de Chasse 1/1 ""Corse""</color>"
 f-84f_iaf_1;⚜ F-84F
 f-84f_iaf_2;F-84
-f-84f_israel_iaf_shop; F-84F-51 (EC 1/1)
+f-84f_israel_iaf_shop; F-84F-51
 f-84f_israel_iaf_0;"F-84F-51 GK
-Escadron de Chasse 1/1 ""Corse"""
+<color=#E3D452>Escadron de Chasse 1/1 ""Corse""</color>"
 f-84f_israel_iaf_1; F-84F
 f-84f_israel_iaf_2;F-84
 f-84g_france_shop;⚜ F-84G-26
@@ -298,7 +305,7 @@ f-84g_france_2;F-84
 
 f-86k_late_shop;⚜ F-86K
 f-86k_late_0;"F-86K
-1962"
+<color=#C0C0C0>1962 modifications</color>"
 f-86k_late_1;⚜ F-86K
 f-86k_late_2;F-86
 
@@ -307,18 +314,18 @@ f-100d_france_0;F-100D-10 NA
 f-100d_france_1;⚜ F-100D
 f-100d_france_2;F-100
 
-f-8e_fn_shop;⚜ F-8E(FN)
-f-8e_fn_0;F-8E(FN)
-f-8e_fn_1;⚜ F-8E(FN)
+f-8e_fn_shop;⚜ F-8E (FN)
+f-8e_fn_0;F-8E (FN)
+f-8e_fn_1;⚜ F-8E
 f-8e_fn_2;F-8
 
 b_25j_30_france_shop;⚜ B-25J-30
-b_25j_30_france_0;B-25J-30
+b_25j_30_france_0;B-25J-30 NC
 b_25j_30_france_1;⚜ B-25J
 b_25j_30_france_2;B-25
 
 b_26c_france_shop;⚜ B-26C-20
-b_26c_france_0;B-26C-20 MA
+b_26c_france_0;B-26C-20 MO
 b_26c_france_1;⚜ B-26C
 b_26c_france_2;B-26
 
@@ -352,13 +359,14 @@ douglas_ad_4_france_1;⚜ AD-4NA
 douglas_ad_4_france_2;AD
 douglas_ad_4na_france_shop;⚜ AD-4NA (EC 1/20)
 douglas_ad_4na_france_0;"AD-4NA
-Escadron de Chasse 1/20 ""Aurès Nementcha"""
+<color=#C0C0C0>1959 modifications</color>
+<color=#E3D452>Escadron de Chasse 1/20 ""Aurès Nementcha""</color>"
 douglas_ad_4na_france_1;⚜ AD-4NA
 douglas_ad_4na_france_2;AD
 
 pby-5a_late_france_shop;⚜ PBY-5A
 pby-5a_late_france_0;"PBY-5A
-BuNo 46580-46638"
+<color=#C0C0C0>BuNo 46580–46638</color>"
 pby-5a_late_france_1;⚜ PBY-5
 pby-5a_late_france_2;PBY
 
@@ -381,20 +389,21 @@ sb2c_5_france_2;SB2C
 
 yak-3_france_shop;⚜ Yak-3 (RC 2/30)
 yak-3_france_0;"Yak-3
-Régiment de Chasse 2/30 ""Normandie-Niémen"""
+<color=#E3D452>Régiment de Chasse 2/30 ""Normandie-Niémen""</color>"
 yak-3_france_1;⚜ Yak-3
 yak-3_france_2;Yak-3
 yak-9t_france_shop;⚜ Yak-9T (RC 2/30)
 yak-9t_france_0;"Yak-9T
-René Challe, Régiment de Chasse 2/30 ""Normandie-Niémen"""
+<color=#E3D452>Régiment de Chasse 2/30 ""Normandie-Niémen""</color>"
 yak-9t_france_1;⚜ Yak-9T
 yak-9t_france_2;Yak-9
 
 // British //
 
-lancaster_mr7_france_shop;⚜ Lancaster Mk. VII WU
-lancaster_mr7_france_0;"Lancaster Mk. VII Western Union
-1957"
+lancaster_mr7_france_shop;⚜ Lancaster B. Mk. VII
+lancaster_mr7_france_0;"Lancaster B. Mk. VII
+<color=#C0C0C0>Western Union specifications</color>
+<color=#C0C0C0>1957 modifications</color>"
 lancaster_mr7_france_1;⚜ Lancaster Mk. VII
 lancaster_mr7_france_2;Lancaster
 
@@ -411,7 +420,9 @@ fw-190a-8_france_1;NC.900 A
 fw-190a-8_france_2;NC.900
 
 so_8000_narval_shop;S.O.8000-02
-so_8000_narval_0;S.O.8000-02
+so_8000_narval_0;"S.O.8000-02 Narval
+<color=#C0C0C0>Jan 1950 modifications</color>
+<color=#C0C0C0>Prototype 01 armament</color>"
 so_8000_narval_1;S.O.8000-02
 so_8000_narval_2;S.O.8000
 
@@ -611,3 +622,9 @@ alpha_jet_e_shop;Alpha Jet E
 alpha_jet_e_0;Alpha Jet type E
 alpha_jet_e_1;Alpha Jet E
 alpha_jet_e_2;Alpha Jet
+
+// Aquilon //
+se_203_shop;Aquilon 203
+se_203_0;Aquilon 203
+se_203_1;Aquilon 203
+se_203_2;Aquilon
