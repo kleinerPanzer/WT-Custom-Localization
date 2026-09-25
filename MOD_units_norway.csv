@@ -2,57 +2,65 @@
 
 shop/group/mosquito_norway_group;◢ Mosquito FB. Mk. 6 / ◢ Mosquito FB. Mk. 6 (ASH)
 mosquito_f_mk2_norway_shop;◢ Mosquito F. Mk.II
-mosquito_f_mk2_norway_0;◢ Mosquito F. Mk. II (Merlin 25 + 6519A-12)
+mosquito_f_mk2_norway_0;"Mosquito F. Mk. II
+<color=#C0C0C0>without A.I. Mk. IV radar</color>
+<color=#B34D4D>with Merlin Mk. 25 engines</color>"
 mosquito_f_mk2_norway_1;◢ Mosquito Mk. II
 mosquito_f_mk2_norway_2;◢ Mosquito
 mosquito_fb_mk6_norway_shop;◢ Mosquito FB. Mk. 6
-mosquito_fb_mk6_norway_0;◢ Mosquito FB. Mk. 6, Series 2
+mosquito_fb_mk6_norway_0;"Mosquito F.B. Mk. 6
+<color=#C0C0C0>Series 2</color>"
 mosquito_fb_mk6_norway_1;◢ Mosquito Mk. 6
 mosquito_fb_mk6_norway_2;Mosquito
 mosquito_fb_mk6_ash_norway_shop;◢ Mosquito FB. Mk. 6 (ASH)
-mosquito_fb_mk6_ash_norway_0;◢ Mosquito FB. Mk. 6, Series 2 (A.I. Mk. 15 (ASH))
+mosquito_fb_mk6_ash_norway_0;"Mosquito F.B. Mk. 6
+<color=#C0C0C0>Series 2</color>
+<color=#C0C0C0>with A.I. Mk. 15 (ASH) radar</color>"
 mosquito_fb_mk6_ash_norway_1;◢ Mosquito Mk. 6
 mosquito_fb_mk6_ash_norway_2;Mosquito
 
 f-5ag_norway_shop;◢ F-5A(G)-40;
-f-5ag_norway_0;◢ F-5A(G)-40 NO;
+f-5ag_norway_0;F-5A(G)-40-NO;
 f-5ag_norway_1;◢ F-5A(G);
 f-5ag_norway_2;F-5;
 
 f_16a_block_10_norway_shop;◢ F-16A-10
-f_16a_block_10_norway_0;◢ F-16A-10
+f_16a_block_10_norway_0;F-16A-10
 f_16a_block_10_norway_1;◢ F-16A
 f_16a_block_10_norway_2;F-16
-f_16am_block_20_mlu_norway_shop;◢ F-16AM-20
-f_16am_block_20_mlu_norway_0;◢ F-16AM-20
+f_16am_block_20_mlu_norway_shop;◢ F-16AM
+f_16am_block_20_mlu_norway_0;F-16AM
 f_16am_block_20_mlu_norway_1;◢ F-16AM
 f_16am_block_20_mlu_norway_2;F-16
 
-sw_k9_vidar_shop;◢ K9 VIDAR
-sw_k9_vidar_0;◢ Artillerisystem 155 mm, K9 Versatile Indirect Artillery System
-sw_k9_vidar_1;◢ K9 VIDAR
+sw_k9_vidar_shop;◢ K9 (VIDAR)
+sw_k9_vidar_0;Artillerivogn, K9 Thunder
+sw_k9_vidar_1;◢ K9
 sw_k9_vidar_2;K9
-sw_leopard_1a5no_shop;◢ Leopard 1 A5 NO
-sw_leopard_1a5no_0;◢ Stridsvogn, Helbelte, Leopard 1 A5 NO
+sw_leopard_1a5no_shop;◢ Leopard 1 A5 NO2
+sw_leopard_1a5no_0;Stridsvogn, Helbelte, Leopard 1 A5 NO2
 sw_leopard_1a5no_1;◢ Leopard 1 A5
 sw_leopard_1a5no_2;Leopard 1
 
 shop/group/us_nasams_fcs_group;NASAMS III
 shop/group/sw_nasams_fcs_group;NASAMS III
-sw_nasams_launcher_shop;113H (NASAMS MML)
-sw_nasams_launcher_0;113H (NASAMS Multi-Missile Launcher)
-sw_nasams_launcher_1;113H (NASAMS MML)
-sw_nasams_launcher_2;113
-sw_nasams_fcs_shop;300GD (AN/MPQ-64)
-sw_nasams_fcs_0;300GD (Radar Set, AN/MPQ-64 Sentinel)
-sw_nasams_fcs_1;300GD (AN/MPQ-64)
-sw_nasams_fcs_2;300GD
-us_nasams_launcher_shop;113H (NASAMS MML)
-us_nasams_launcher_0;113H (NASAMS Multi-Missile Launcher)
-us_nasams_launcher_1;113H (NASAMS MML)
-us_nasams_launcher_2;113
+sw_nasams_launcher_shop;P113 HK (NASAMS MML)
+sw_nasams_launcher_0;Lastevogn 16 tonn, 4x4+2, Scania P113 HK NASAMS launcher, NO 19
+sw_nasams_launcher_1;P113 HK (NASAMS MML)
+sw_nasams_launcher_2;P113
+sw_nasams_fcs_shop;MB 290 GD (AN/MPQ-64)
+sw_nasams_fcs_0;"Feltvogn, 3/4 tonn, 4x4, Mercedes Benz 290 GD
+<color=#C0C0C0>med AN/MPQ-64 Sentinel radar</color>"
+sw_nasams_fcs_1;MB 290 GD (AN/MPQ-64)
+sw_nasams_fcs_2;MB 290
+us_nasams_launcher_shop;P113 HK (NASAMS MML)
+us_nasams_launcher_0;Lastevogn 16 tonn, 4x4+2, Scania P113 HK NASAMS launcher, NO 19
+us_nasams_launcher_1;P113 HK (NASAMS MML)
+us_nasams_launcher_2;P113
 us_nasams_fcs_shop;M1097A2 (AN/MPQ-64)
-us_nasams_fcs_0;Truck, Utility: Heavy Variant, 4x4, M1097A2 (Trailer, Chassis, 3/4-Ton, 2-Wheel, M116A1 (Radar Set, AN/MPQ-64 Sentinel))
+us_nasams_fcs_0;"Truck, Utility: Heavy Variant, 4x4, M1097A2
+<color=#C0C0C0>with Trailer, Chassis, 3/4-Ton, 2-Wheel,</color>
+<color=#C0C0C0>M116A1 with Radar Set, AN/MPQ-64 Sentinel</color>"
 us_nasams_fcs_1;M1097A2 (AN/MPQ-64)
 us_nasams_fcs_2;M1097
 

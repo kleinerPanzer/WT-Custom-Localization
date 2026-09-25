@@ -10,14 +10,15 @@ jp_oplot_t_1;ถ.หลัก 57
 jp_oplot_t_2;ถ.หลัก 57
 
 jp_m60a3_tts_shop;ถ.หลัก M60 A3
-jp_m60a3_tts_0;รถถังหลัก แบบ M60 A3
+jp_m60a3_tts_0;"รถถังหลัก แบบ M60 A3
+<color=#C0C0C0>MWO 9-2300-378-34-2</color>"
 jp_m60a3_tts_1;ถ.หลัก M60 A3
 jp_m60a3_tts_2;ถ.หลัก M60
 
-jp_m163_vulcan_shop;ปตอ. M163
-jp_m163_vulcan_0;ปืนใหญ่ต่อสู้อากาศยาน 20mm แบบ M163
-jp_m163_vulcan_1;ปตอ. M163
-jp_m163_vulcan_2;ปตอ. M163
+jp_m163_vulcan_shop;M163
+jp_m163_vulcan_0;Gun, Air Defense Artillery, Self-Propelled: 20-mm, M163
+jp_m163_vulcan_1;M163
+jp_m163_vulcan_2;M163
 
 jp_btr_3e1_shop;รถเกราะ BTR-3E1
 jp_btr_3e1_0;รถเกราะล้อยาง BTR-3E1

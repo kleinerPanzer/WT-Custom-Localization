@@ -8,18 +8,18 @@ shop/group/cn_tor_hq_group;␗ 9А331-1 / ADK17发射车
 // T-34-85 //
 cn_t_34_85_d_5t_shop;特34 (1944)
 cn_t_34_85_d_5t_0;"特34中型坦克
-<color=#C0C0C0>Aug 1944 production</color>"
+<color=#C0C0C0>Aug 1944 УТЗ + Завод №112 production</color>"
 cn_t_34_85_d_5t_1;特34
 cn_t_34_85_d_5t_2;特34
 cn_t_34_85_zis_53_no215_shop;特34 (1944)
 cn_t_34_85_zis_53_no215_0;"特34中型坦克
-<color=#C0C0C0>Aug 1944 production</color>
+<color=#C0C0C0>Aug 1944 УТЗ + Завод №112 production</color>
 <color=#E3D452>坦克2师</color>"
 cn_t_34_85_zis_53_no215_1;特34
 cn_t_34_85_zis_53_no215_2;特34
 cn_type_58_shop;特34 (1960)
 cn_type_58_0;"特34中型坦克
-<color=#C0C0C0>Jan 1945 production</color>
+<color=#C0C0C0>Jan 1945 УТЗ production</color>
 <color=#C0C0C0>1960 modifications</color>"
 cn_type_58_1;特34
 cn_type_58_2;特34

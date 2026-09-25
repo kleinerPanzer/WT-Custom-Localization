@@ -1,7 +1,7 @@
 <ID|readonly|noverify>;<NewLanguage>
 
 germ_th_800_bismark_shop;Class 3
-germ_th_800_bismark_0;Class 3 New Generation Armoured Car Project
+germ_th_800_bismark_0;Class 3
 germ_th_800_bismark_1;Class 3
 germ_th_800_bismark_2;Class 3
 
@@ -46,7 +46,7 @@ germ_begleitpanzer_57_2;Begleitpanzer
 
 germ_boxer_3105_shop;Boxer (Cockerill 3105)
 germ_boxer_3105_0;"Boxer
-Cockerill 3105"
+<color=#C0C0C0>with Cockerill 3105</color>"
 germ_boxer_3105_1;Boxer (Cockerill 3105)
 germ_boxer_3105_2;Boxer
 
@@ -57,12 +57,12 @@ germ_th_400_2;H 400
 
 germ_embt_shop;E-MBT
 germ_embt_0;"Euro-Main Battle Tank
-Eurosatory 2018 demonstrator"
+<color=#C0C0C0>Eurosatory 2018 tech demonstrator</color>"
 germ_embt_1;E-MBT
 germ_embt_2;E-MBT
 
 fr_embt_shop;E-MBT
 fr_embt_0;"Euro-Main Battle Tank
-Eurosatory 2018 demonstrator"
+<color=#C0C0C0>Eurosatory 2018 tech demonstrator</color>"
 fr_embt_1;E-MBT
 fr_embt_2;E-MBT

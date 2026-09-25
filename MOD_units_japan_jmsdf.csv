@@ -1,80 +1,97 @@
 <ID|readonly|noverify>;<NewLanguage>
 // PT //
 jp_type1_pt2_shop;2号 (PT-802)
-jp_type1_pt2_0;1号型魚雷艇、魚雷艇2号 (PT-802)
+jp_type1_pt2_0;"<color=#C0C0C0>1号型魚雷艇</color>
+魚雷艇2号 (PT-802)"
 jp_type1_pt2_1;2号
 jp_type1_pt2_2;1号型魚雷艇
 jp_type7_pt808_shop;8号 (PT-808)
-jp_type7_pt808_0;7号型魚雷艇、魚雷艇8号 (PT-808)
+jp_type7_pt808_0;"<color=#C0C0C0>7号型魚雷艇</color>
+魚雷艇8号 (PT-808)"
 jp_type7_pt808_1;8号
 jp_type7_pt808_2;7号型
 jp_type9_pt809_shop;9号 (PT-809)
-jp_type9_pt809_0;9号型魚雷艇、魚雷艇9号 (PT-809)
+jp_type9_pt809_0;"<color=#C0C0C0>9号型魚雷艇</color>
+魚雷艇9号 (PT-809)"
 jp_type9_pt809_1;9号
 jp_type9_pt809_2;9号型
 jp_type_11_pt_15_shop;15号 (PT-815)
-jp_type_11_pt_15_0;11号型魚雷艇、魚雷艇15号 (PT-815) (1975)
+jp_type_11_pt_15_0;"<color=#C0C0C0>11号型魚雷艇</color>
+魚雷艇15号 (PT-815)"
 jp_type_11_pt_15_1;15号
 jp_type_11_pt_15_2;11号型
 
 // PG //
 jp_pg02_shop;2号 (PG-822)
-jp_pg02_0;1号型ミサイル艇、ミサイル艇2号 (PG-822) (1991)
+jp_pg02_0;"<color=#C0C0C0>1号型ミサイル艇</color>
+ミサイル艇2号 (PG-822)"
 jp_pg02_1;2号
 jp_pg02_2;1号型
 
 // DE //
 jp_escort_akebono_class_shop;あけぼの (DE-201)
-jp_escort_akebono_class_0;度乙型警備艦 あけぼの (DE-201)
+jp_escort_akebono_class_0;"<color=#C0C0C0>度乙型警備艦</color>
+あけぼの (DE-201)"
 jp_escort_akebono_class_1;あけぼの
 jp_escort_akebono_class_2;あけぼの
 jp_escort_ikazuchi_class_shop;いかづち (DE-202)
-jp_escort_ikazuchi_class_0;いかづち型護衛艦 いかづち (DE-202) (1958)
+jp_escort_ikazuchi_class_0;"<color=#C0C0C0>いかづち型護衛艦</color>
+いかづち (DE-202)
+<color=#C0C0C0>1958 refit</color>"
 jp_escort_ikazuchi_class_1;いかづち
 jp_escort_ikazuchi_class_2;いかづち型
 jp_destroyer_isuzu_shop;いすず (DE-211)
-jp_destroyer_isuzu_0;いすず型護衛艦 いすず (DE-211)
+jp_destroyer_isuzu_0;"<color=#C0C0C0>いすず型護衛艦</color>
+いすず (DE-211)"
 jp_destroyer_isuzu_1;いすず
 jp_destroyer_isuzu_2;いすず型
 jp_escort_chikugo_class_shop;とかち (DE-218)
-jp_escort_chikugo_class_0;ちくご型護衛艦 とかち (DE-218)
+jp_escort_chikugo_class_0;"<color=#C0C0C0>ちくご型護衛艦</color>
+とかち (DE-218)"
 jp_escort_chikugo_class_1;とかち
 jp_escort_chikugo_class_2;ちくご型
 
 // DD //
 jp_destroyer_harukaze_shop;はるかぜ (DD-101)
-jp_destroyer_harukaze_0;はるかぜ型駆逐艦 はるかぜ (DD-101)
+jp_destroyer_harukaze_0;"<color=#C0C0C0>はるかぜ型駆逐艦</color>
+はるかぜ (DD-101)"
 jp_destroyer_harukaze_1;はるかぜ
 jp_destroyer_harukaze_2;はるかぜ型
 jp_destroyer_ayanami_shop;あやなみ (DD-103)
-jp_destroyer_ayanami_0;あやなみ型護衛艦 あやなみ (DD-103)
+jp_destroyer_ayanami_0;"<color=#C0C0C0>あやなみ型護衛艦</color>
+あやなみ (DD-103)"
 jp_destroyer_ayanami_1;あやなみ
 jp_destroyer_ayanami_2;あやなみ型
 jp_destroyer_murasame_shop;むらさめ (DD-107)
-jp_destroyer_murasame_0;むらさめ型護衛艦 むらさめ (DD-107) (1976)
+jp_destroyer_murasame_0;"<color=#C0C0C0>むらさめ型護衛艦</color>
+むらさめ (DD-107)
+<color=#C0C0C0>1975 refit</color>"
 jp_destroyer_murasame_1;むらさめ (DD-107)
 jp_destroyer_murasame_2;むらさめ型
 jp_destroyer_yugure_shop;ゆうぐれ (DD-184)
-jp_destroyer_yugure_0;ありあけ型護衛艦 ゆうぐれ (DD-184)
+jp_destroyer_yugure_0;"<color=#C0C0C0>ありあけ型護衛艦</color>
+ゆうぐれ (DD-184)"
 jp_destroyer_yugure_1;ゆうぐれ
 jp_destroyer_yugure_2;ありあけ型
 
 // YTE //
 jp_yuri_class_asagao_shop;あさがお (YTE-01)
-jp_yuri_class_asagao_0;練習船あさがお (YTE-01)
+jp_yuri_class_asagao_0;あさがお (YTE-01)
 jp_yuri_class_asagao_1;あさがお
 jp_yuri_class_asagao_2;あさがお
 
 // PC //
 
 jp_pc301_kari_class_shop;かり (PC-301)
-jp_pc301_kari_class_0;かり型駆潜艇 かり (PC-301)
+jp_pc301_kari_class_0;"<color=#C0C0C0>かり型駆潜艇</color>
+かり (PC-301)"
 jp_pc301_kari_class_1;かり
 jp_pc301_kari_class_2;かり型
 
 // MSC //
 
 jp_ujishima_msc_shop;うじしま (MSC-655)
-jp_ujishima_msc_0;うじしま型掃海艇 うじしま (MSC-655)
+jp_ujishima_msc_0;"<color=#C0C0C0>うじしま型掃海艇</color>
+うじしま (MSC-655)"
 jp_ujishima_msc_1;うじしま
 jp_ujishima_msc_2;うじしま型

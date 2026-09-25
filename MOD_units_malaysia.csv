@@ -5,7 +5,8 @@ mig_29n_1;▄ MiG-29N
 mig_29n_2;MiG-29
 
 su_30mkm_shop;▄ Su-30MKM
-su_30mkm_0;Pesawat Su-30MKM
+su_30mkm_0;"Pesawat Su-30MKM
+<color=#C0C0C0>2016 modifications</color>"
 su_30mkm_1;▄ Su-30MKM
 su_30mkm_2;Su-30
 
@@ -21,6 +22,8 @@ a_4ptm_malaysia_2;A-4
 
 
 ca_27_mk32_malaysia_shop;▄ Sabre Mk.32
-ca_27_mk32_malaysia_0;Pesawat Sabre Mk. 32
+ca_27_mk32_malaysia_0;"Pesawat Sabre Mk. 32
+<color=#C0C0C0>Sabre Mod. 142</color>
+<color=#B34D4D>with Radar Set, AN/APG-501</color>"
 ca_27_mk32_malaysia_1;▄ Sabre Mk.32
 ca_27_mk32_malaysia_2;Sabre

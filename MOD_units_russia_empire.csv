@@ -1,33 +1,38 @@
 <ID|readonly|noverify>;<NewLanguage>
 ussr_garford_putilov_shop;Путилов-Гарфорд;
-ussr_garford_putilov_0;Путилов-Гарфорд;
+ussr_garford_putilov_0;Бронеавтомобиль Путилов-Гарфорд;
 ussr_garford_putilov_1;Путилов-Гарфорд;
 ussr_garford_putilov_2;Путилов-Гарфорд;
 uk_garford_putilov_shop;Путилов-Гарфорд;
-uk_garford_putilov_0;Путилов-Гарфорд;
+uk_garford_putilov_0;Бронеавтомобиль Путилов-Гарфорд;
 uk_garford_putilov_1;Путилов-Гарфорд;
 uk_garford_putilov_2;Путилов-Гарфорд;
 uk_garford_putilov_event_shop;Путилов-Гарфорд;
-uk_garford_putilov_event_0;Путилов-Гарфорд;
+uk_garford_putilov_event_0;Бронеавтомобиль Путилов-Гарфорд;
 uk_garford_putilov_event_1;Путилов-Гарфорд;
 uk_garford_putilov_event_2;Путилов-Гарфорд;
 
 ussr_destroyer_kerch_shop;Керчь
-ussr_destroyer_kerch_0;Эскадренный миноносец тип «Фидониси», Керчь (1917)
+ussr_destroyer_kerch_0;"<color=#C0C0C0>Эскадренный миноносец тип «Фидониси»</color>
+Керчь"
 ussr_destroyer_kerch_1;Керчь
 ussr_destroyer_kerch_2;Тип «Фидониси»
 
 ussr_battlecruiser_izmail_shop;Измаил
-ussr_battlecruiser_izmail_0;Линейный крейсер тип «Измаил», Измаил (1916)
+ussr_battlecruiser_izmail_0;"<color=#C0C0C0>Линейный крейсер тип «Измаил»</color>
+Измаил"
 ussr_battlecruiser_izmail_1;Измаил
 ussr_battlecruiser_izmail_2;Тип «Измаил»
 
 ussr_battleship_imperatritsa_mariya_shop;Императрица Мария
-ussr_battleship_imperatritsa_mariya_0;Линейный корабль тип «Императрица Мария», Императрица Мария (1916)
+ussr_battleship_imperatritsa_mariya_0;"<color=#C0C0C0>Линейный корабль тип «Императрица Мария»</color>
+Императрица Мария"
 ussr_battleship_imperatritsa_mariya_1;Императрица Мария
 ussr_battleship_imperatritsa_mariya_2;Тип «Императрица Мария»
 
 ussr_battleship_poltava_shop;Полтава
-ussr_battleship_poltava_0;Линейный корабль тип «Севастополь», Полтава (1914)
+ussr_battleship_poltava_0;"<color=#C0C0C0>Линейный корабль тип «Севастополь»</color>
+Полтава
+<color=#C0C0C0>1917 refit</color>"
 ussr_battleship_poltava_1;Полтава
 ussr_battleship_poltava_2;Тип «Севастополь»

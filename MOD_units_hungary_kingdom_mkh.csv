@@ -1,24 +1,28 @@
 <ID|readonly|noverify>;<NewLanguage>
 it_44m_zrinyi_1_shop;Zrínyi 75 (Sorozatvető)
 it_44m_zrinyi_1_0;"7,5 cm 44 M. Zrínyi 75 rohamágyű
-43 M. sorozatvető"
+<color=#C0C0C0>with 43 M. sorozatvető</color>"
 it_44m_zrinyi_1_1;Zrínyi 75
 it_44m_zrinyi_1_2;Zrínyi
 it_40_43m_zrinyi_2_shop;Zrínyi 105
-it_40_43m_zrinyi_2_0;10,5 cm 40/43 M. Zrínyi 105 rohamtarack
+it_40_43m_zrinyi_2_0;"10,5 cm 40/43 M. Zrínyi 105 rohamtarack
+<color=#C0C0C0>kötényekkel</color>"
 it_40_43m_zrinyi_2_1;Zrínyi 105
 it_40_43m_zrinyi_2_2;Zrínyi
 
 it_40m_turan_1_shop;Turán 40
-it_40m_turan_1_0;40 M. Turán 40 közepes harckocsi
+it_40m_turan_1_0;"40 M. Turán 40 közepes harckocsi
+<color=#C0C0C0>kötényekkel</color>"
 it_40m_turan_1_1;Turán 40
 it_40m_turan_1_2;Turán
 it_41m_turan_2_shop;Turán 75 rövid
-it_41m_turan_2_0;41 M. Turán 75 rövid nehéz harckocsi
+it_41m_turan_2_0;"41 M. Turán 75 rövid nehéz harckocsi
+<color=#C0C0C0>kötényekkel</color>"
 it_41m_turan_2_1;Turán 75 rövid
 it_41m_turan_2_2;Turán
 it_43m_turan_3_shop;Turán 75 hosszú
-it_43m_turan_3_0;43 M. Turán 75 hosszú nehéz harckocsi
+it_43m_turan_3_0;"43 M. Turán 75 hosszú nehéz harckocsi
+<color=#C0C0C0>kötényekkel</color>"
 it_43m_turan_3_1;Turán 75 hosszú
 it_43m_turan_3_2;Turán
 
@@ -34,6 +38,6 @@ it_39m_csaba_2;Csaba
 
 it_pzkpfw_VI_ausf_e_tiger_shop;◐ Tiger I
 it_pzkpfw_VI_ausf_e_tiger_0;"Panzerkampfwagen Tiger (8,8 cm) Ausf. E
-April 1944 Produktion"
+<color=#C0C0C0>Apr 1944 production</color>"
 it_pzkpfw_VI_ausf_e_tiger_1;◐ Tiger I
 it_pzkpfw_VI_ausf_e_tiger_2;Tiger I

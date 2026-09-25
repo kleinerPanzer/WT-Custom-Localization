@@ -12,11 +12,12 @@ shop/group/d4y_group;D4Y1 / D4Y2
 
 // CARRIER FIGHTERS //
 a5m4_shop;A5M4
-a5m4_0;九六式艦上戦闘機二四型
+a5m4_0;九六式四号艦上戦闘機
 a5m4_1;A5M4
 a5m4_2;A5M
-a5m4_hagiri_shop;A5M4 (12航空隊)
-a5m4_hagiri_0;九六式艦上戦闘機二四型 (羽切松雄、第12航空艦隊)
+a5m4_hagiri_shop;A5M4
+a5m4_hagiri_0;"九六式四号艦上戦闘機
+<color=#E3D452>羽切松雄、第12航空艦隊</color>"
 a5m4_hagiri_1;A5M4
 a5m4_hagiri_2;A5M
 
@@ -29,7 +30,7 @@ a6m2_zero_0;零式艦上戦闘機二一型
 a6m2_zero_1;A6M2
 a6m2_zero_2;A6M
 a6m2_n_zero_shop;A6M2-N
-a6m2_n_zero_0;二式水上戦闘機一一型
+a6m2_n_zero_0;二式水上戦闘機
 a6m2_n_zero_1;A6M2-N
 a6m2_n_zero_2;A6M
 a6m3_zero_shop;A6M3
@@ -41,7 +42,7 @@ a6m3_mod22_zero_0;零式艦上戦闘機二二型
 a6m3_mod22_zero_1;A6M3
 a6m3_mod22_zero_2;A6M
 a6m3_mod22ko_zero_shop;A6M3a
-a6m3_mod22ko_zero_0;零式艦上戦闘機二二型甲
+a6m3_mod22ko_zero_0;零式艦上戦闘機二二甲型
 a6m3_mod22ko_zero_1;A6M3
 a6m3_mod22ko_zero_2;A6M
 a6m5_zero_shop;A6M5
@@ -70,7 +71,7 @@ a7m1_0;十七試艦上戦闘機 (試製烈風)
 a7m1_1;A7M1
 a7m1_2;A7M
 a7m2_shop;A7M2
-a7m2_0;烈風艦上戦闘機一一型
+a7m2_0;烈風一一型
 a7m2_1;A7M2
 a7m2_2;A7M
 
@@ -81,24 +82,24 @@ b5n2_1;B5N2
 b5n2_2;B5N
 
 b6n1_shop;B6N1
-b6n1_0;天山艦上攻撃機一一型
+b6n1_0;天山一一型
 b6n1_1;B6N1
 b6n1_2;B6N
 b6n2_shop;B6N2
-b6n2_0;天山艦上攻撃機一二型
+b6n2_0;天山一二型
 b6n2_1;B6N2
 b6n2_2;B6N
 b6n2a_shop;B6N2a
-b6n2a_0;天山艦上攻撃機一二甲型
+b6n2a_0;天山一二甲型
 b6n2a_1;B6N2
 b6n2a_2;B6N
 
 b7a2_shop;B7A1
-b7a2_0;流星艦上攻撃機一一型
+b7a2_0;流星一一型
 b7a2_1;B7A1
 b7a2_2;B7A
 b7a2_homare_23_shop;B7A2
-b7a2_homare_23_0;流星艦上攻撃機一二型
+b7a2_homare_23_0;流星一二型
 b7a2_homare_23_1;B7A2
 b7a2_homare_23_2;B7A
 
@@ -109,26 +110,26 @@ d3a1_1;D3A1
 d3a1_2;D3A
 
 d4y1_shop;D4Y1
-d4y1_0;彗星艦上爆撃機一一型
+d4y1_0;彗星一一型
 d4y1_1;D4Y1
 d4y1_2;D4Y
 d4y2_shop;D4Y2
-d4y2_0;彗星艦上爆撃機一二型
+d4y2_0;彗星一二型
 d4y2_1;D4Y2
 d4y2_2;D4Y
 d4y3_shop;D4Y3a
-d4y3_0;彗星艦上爆撃機三三甲型
+d4y3_0;彗星三三甲型
 d4y3_1;D4Y3
 d4y3_2;D4Y
 
 // RECONNAISSANCE SEAPLANE //
 e7k2_shop;E7K2
-e7k2_0;九四式水上偵察機一二型
+e7k2_0;九四式二号水上偵察機
 e7k2_1;E7K2
 e7k2_2;E7K
 
 e8n2_shop;E8N2
-e8n2_0;九五式水上偵察機一二型
+e8n2_0;九五式二号水上偵察機
 e8n2_1;E8N2
 e8n2_2;E8N
 
@@ -139,13 +140,14 @@ aichi_e13a_2;E13
 
 // OBSERVATION SEAPLANE //
 f1m2_shop;F1M2
-f1m2_0;零式水上観測機一一型
+f1m2_0;零式観測機一一型
 f1m2_1;F1M2
 f1m2_2;F1M
 
 // LAND ATTACK BOMBERS //
 g4m1_shop;G4M1
-g4m1_0;一式陸上攻撃機一一型
+g4m1_0;"一式陸上攻撃機一一型
+<color=#C0C0C0>with 火星一五型 engines</color>"
 g4m1_1;G4M1
 g4m1_2;G4M
 
@@ -154,7 +156,7 @@ g5n1_0;十三試陸上攻撃機 (試製深山)
 g5n1_1;G5N1
 g5n1_2;G5N
 g5n2_shop;G5N2
-g5n2_0;試製上攻撃機深山改
+g5n2_0;試製深山改
 g5n2_1;G5N2
 g5n2_2;G5N
 
@@ -163,7 +165,7 @@ g8n1_0;十八試陸上攻撃機 (試製連山)
 g8n1_1;G8N1
 g8n1_2;G8N
 g8n2_shop;G8N2
-g8n2_0;試製上攻撃機連山改
+g8n2_0;試製連山改
 g8n2_1;G8N2
 g8n2_2;G8N
 
@@ -184,33 +186,36 @@ h8k3_2;H8K
 
 // LAND FIGHTERS //
 j1n1_mod11_early_shop;J1N1
-j1n1_mod11_early_0;十三試双発陸上戦闘機 (試製月光) (説2)
+j1n1_mod11_early_0;"十三試双発陸上戦闘機 (試製月光)
+<color=#C0C0C0>試作二号機</color>"
 j1n1_mod11_early_1;J1N1
 j1n1_mod11_early_2;J1N
 
 j2m2_shop;J2M2
-j2m2_0;雷電陸上戦闘機一一型
+j2m2_0;雷電一一型
 j2m2_1;J2M2
 j2m2_2;J2M
 j2m3_shop;J2M3
-j2m3_0;雷電陸上戦闘機二一型
+j2m3_0;雷電二一型
 j2m3_1;J2M3
 j2m3_2;J2M
 j2m4_kai_shop;J2M4
-j2m4_kai_0;雷電陸上戦闘機三二型
+j2m4_kai_0;雷電三二型
 j2m4_kai_1;J2M4
 j2m4_kai_2;J2M
 j2m5_shop;J2M5
-j2m5_0;雷電陸上戦闘機三三型
+j2m5_0;雷電三三型
 j2m5_1;J2M5
 j2m5_2;J2M
-j2m5_30mm_shop;J2M5a
-j2m5_30mm_0;雷電陸上戦闘機三三甲型
+j2m5_30mm_shop;J2M5 (五式三十粍)
+j2m5_30mm_0;雷電三三型
+<color=#C0C0C0>with 五式三十粍固定機銃</color>
 j2m5_30mm_1;J2M5
 j2m5_30mm_2;J2M
 
-j5n1_shop;J5N1 (説2)
-j5n1_0;十八試改局地戦闘機 (試製天雷) (説2)
+j5n1_shop;J5N1
+j5n1_0;"十八試局地戦闘機 (試製天雷)
+<color=#C0C0C0>試作二号機</color>"
 j5n1_1;J5N1
 j5n1_2;J5N
 
@@ -227,49 +232,49 @@ j7w1_2;J7W
 // FLOATPLANE FIGHTERS //
 
 n1k1_kyuofu_shop;N1K1
-n1k1_kyuofu_0;強風水上戦闘機一一型
+n1k1_kyuofu_0;強風一一型
 n1k1_kyuofu_1;N1K1
 n1k1_kyuofu_2;N1K
 n1k1_ja_shop;N1K1-Ja
-n1k1_ja_0;紫電局地戦闘機一一甲型
+n1k1_ja_0;紫電一一甲型
 n1k1_ja_1;N1K1-J
 n1k1_ja_2;N1K
 n1k2_j_shop;N1K2-J
-n1k2_j_0;紫電改局地戦闘機二一型
+n1k2_j_0;紫電二一型
 n1k2_j_1;N1K2-J
 n1k2_j_2;N1K
 n1k2_jko_shop;N1K2-Ja
-n1k2_jko_0;紫電改局地戦闘機二一甲型
+n1k2_jko_0;紫電二一甲型
 n1k2_jko_1;N1K2-J
 n1k2_jko_2;N1K
 
 // LAND BOMBER //
 p1y1_mod11_shop;P1Y1
-p1y1_mod11_0;銀河陸上爆撃機一一型
+p1y1_mod11_0;銀河一一型
 p1y1_mod11_1;P1Y1
 p1y1_mod11_2;P1Y
 
 // LAND RECONNAISSANCE //
 r2y2_v1_shop;R2Y2-J
-r2y2_v1_0;球電陸上戦闘機一一型
+r2y2_v1_0;球電一一型
 r2y2_v1_1;R2Y2-J
 r2y2_v1_2;R2Y
 r2y2_v2_shop;R2Y2-Ja
-r2y2_v2_0;球電陸上戦闘機二一型
+r2y2_v2_0;球電二一型
 r2y2_v2_1;R2Y2-Ja
 r2y2_v2_2;R2Y
 r2y2_kai_shop;R2Y2-Jb
-r2y2_kai_0;球電陸上戦闘機三一型
+r2y2_kai_0;球電三一型
 r2y2_kai_1;R2Y2-J
 r2y2_kai_2;R2Y
 
 // OTHER //
-j8m1_shop;秋水
-j8m1_0;試ロケット局地戦闘機 (試製秋水)
-j8m1_1;秋水
-j8m1_2;秋水
+j8m1_shop;J8M1
+j8m1_0;試製秋水
+j8m1_1;J8M1
+j8m1_2;J8M
 
 a7he1_shop;A7He1
-a7he1_0;He式艦上戦闘機
+a7he1_0;ハインケル112型陸上戦闘機
 a7he1_1;A7He1
 a7he1_2;A7He

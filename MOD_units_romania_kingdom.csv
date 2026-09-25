@@ -1,46 +1,49 @@
 <ID|readonly|noverify>;<NewLanguage>
 sm_79_iar_italy_shop;S-79B
-sm_79_iar_italy_0;S-79B (1936)
+sm_79_iar_italy_0;Avion Savoia S-79B
 sm_79_iar_italy_1;S-79B
 sm_79_iar_italy_2;S-79
 sm_79_iar_shop;▀ S-79B
-sm_79_iar_0;S-79B (1936)
+sm_79_iar_0;Avion Savoia S-79B
 sm_79_iar_1;▀ S-79B
 sm_79_iar__2;S-79
 
 he_112b_1_italy_shop;He 112 B-1/U2
-he_112b_1_italy_0;He 112 B-1/U2
+he_112b_1_italy_0;Avion Heinkel He 112 B-1/U2
 he_112b_1_italy_1;He 112 B
 he_112b_1_italy_2;He 112
 he_112b_2_shop;He 112 B-2/U2
-he_112b_2_0;He 112 B-2/U2
+he_112b_2_0;Avion Heinkel He 112 B-2/U2
 he_112b_2_1;He 112 B
 he_112b_2_2;He 112
 
-bf-109g-2_romania_shop;Bf 109 G-2 (Esc. 58)
-bf-109g-2_romania_0;Bf 109 G-2 (Escadrila 58)
+bf-109g-2_romania_shop;Bf 109 G-2
+bf-109g-2_romania_0;"Avion Messerschmitt Bf 109 G-2 
+<color=#E3D452>Escadrila 58</color>"
 bf-109g-2_romania_1;Bf 109 G
 bf-109g-2_romania_2;Bf 109
 
-hs-129b-2_romania_shop;Hs 129 B-2 (60 As.Esc.)
-hs-129b-2_romania_0;Hs 129 B-2 (60 Asalt Escadrila)
+hs-129b-2_romania_shop;Hs 129 B-2
+hs-129b-2_romania_0;"Avion Henschel Hs 129 B-2
+<color=#E3D452>60 Asalt Escadrila</color>"
 hs-129b-2_romania_1;Hs 129 B
 hs-129b-2_romania_2;Hs 129
-hs-129b-2_romania_italy_shop;⛨ Hs 129 B-2 (60 As.Esc.)
-hs-129b-2_romania_italy_0;Hs 129 B-2 (60 Asalt Escadrila)
+hs-129b-2_romania_italy_shop;⛨ Hs 129 B-2
+hs-129b-2_romania_italy_0;"Avion Henschel Hs 129 B-2
+<color=#E3D452>60 Asalt Escadrila</color>"
 hs-129b-2_romania_italy_1;⛨ Hs 129 B
 hs-129b-2_romania_italy_2;Hs 129
 
 iar_81c_shop;IAR 81 C
-iar_81c_0;IAR 81 C
+iar_81c_0;Avion IAR 81 C
 iar_81c_1;IAR 81 C
 iar_81c_2;IAR 81
 iar_81c_db_605_shop;IAR 81 C (DB 605)
-iar_81c_db_605_0;IAR 81 C (cu motore DB 605)
+iar_81c_db_605_0;Avion IAR 81 C cu motor DB 605 A
 iar_81c_db_605_1;IAR 81 C (DB 605)
 iar_81c_db_605_2;IAR 81
 
 germ_pzkpfw_35t_romania_mare_shop;R-2
-germ_pzkpfw_35t_romania_mare_0;Tanc Ușor R-2
+germ_pzkpfw_35t_romania_mare_0;Tanc ușor R-2
 germ_pzkpfw_35t_romania_mare_1;R-2
 germ_pzkpfw_35t_romania_mare_2;R-2

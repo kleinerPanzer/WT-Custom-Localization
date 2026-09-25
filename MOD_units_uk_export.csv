@@ -9,30 +9,30 @@ shop/group/uk_vfm_mttd_group;Mk. 5 BT / MTTD
 
 // VICKERS //
 
-uk_vickers_mbt_mk_1_shop;Mk. 1 MBT
+uk_vickers_mbt_mk_1_shop;Mark 1 MBT
 uk_vickers_mbt_mk_1_0;Mark 1 Main Battle Tank
-uk_vickers_mbt_mk_1_1;Mk. 1 MBT
-uk_vickers_mbt_mk_1_2;Mk. 1
+uk_vickers_mbt_mk_1_1;Mark 1 MBT
+uk_vickers_mbt_mk_1_2;Mark 1
 
-uk_vickers_mbt_mk_3_shop;Mk. 3 MBT
+uk_vickers_mbt_mk_3_shop;Mark 3 MBT
 uk_vickers_mbt_mk_3_0;Mark 3 Main Battle Tank
-uk_vickers_mbt_mk_3_1;Mk. 3 MBT
-uk_vickers_mbt_mk_3_2;Mk. 3
+uk_vickers_mbt_mk_3_1;Mark 3 MBT
+uk_vickers_mbt_mk_3_2;Mark 3
 
-uk_vfm_5_shop;Mk. 5 BT
-uk_vfm_5_0;Mark 5 Battle Tank
-uk_vfm_5_1;Mk. 5 BT
-uk_vfm_5_2;Mk. 5
+uk_vfm_5_shop;VFM5
+uk_vfm_5_0;VFM5 Battle Tank
+uk_vfm_5_1;VFM5
+uk_vfm_5_2;VFM5
 
-uk_vickers_mk7_shop;Mk. 7 MBT
+uk_vickers_mk7_shop;Mark 7 MBT
 uk_vickers_mk7_0;Mark 7 Main Battle Tank
-uk_vickers_mk7_1;Mk. 7 MBT
-uk_vickers_mk7_2;Mk. 7
+uk_vickers_mk7_1;Mark 7 MBT
+uk_vickers_mk7_2;Mark 7
 
-uk_vickers_mk_11_shop;Mk. 11 LRPV
+uk_vickers_mk_11_shop;Mark 11 LRPV
 uk_vickers_mk_11_0;Mark 11 Long Range Patrol Vehicle
-uk_vickers_mk_11_1;Mk. 11 LRPV
-uk_vickers_mk_11_2;Mk. 11
+uk_vickers_mk_11_1;Mark 11 LRPV
+uk_vickers_mk_11_2;Mark 11
 
 // CHIEFTAIN //
 
@@ -53,11 +53,13 @@ uk_challenger_2_bn_0;Challenger 2 Mk 2 Black Night
 uk_challenger_2_bn_1;Challenger 2 Mk 2
 uk_challenger_2_bn_2;Challenger 2
 uk_challenger_2_lep_shop;Challenger 2 ATD
-uk_challenger_2_lep_0;Challenger 2 Advanced Technology Demonstrator
+uk_challenger_2_lep_0;"Challenger 2 Advanced Technology Demonstrator
+<color=#C0C0C0>DSEI 2019 tech demonstrator</color>"
 uk_challenger_2_lep_1;Challenger 2 ATD
 uk_challenger_2_lep_2;Challenger 2
 uk_challenger_2e_shop;Challenger 2E
-uk_challenger_2e_0;Challenger 2E
+uk_challenger_2e_0;"Challenger 2E
+<color=#C0C0C0>2003 modifications</color>"
 uk_challenger_2e_1;Challenger 2E
 uk_challenger_2e_2;Challenger 2
 
@@ -74,7 +76,7 @@ uk_vickers_gbt_155_2;SP 155
 
 // AIRCRAFT //
 g_lynx_shop;Lynx Demonstrator
-g_lynx_0;Westland Lynx Demonstrator
+g_lynx_0;Lynx Demonstrator
 g_lynx_1;Lynx Demonstrator
 g_lynx_2;Lynx
 
@@ -84,6 +86,7 @@ hawk_200_0;Hawk 200
 hawk_200_1;Hawk 200
 hawk_200_2;Hawk
 hawk_200_rda_shop;Hawk 200 (RDA)
-hawk_200_rda_0;Hawk 200 (Radar Development Aircraft)
+hawk_200_rda_0;"Hawk 200
+<color=#C0C0C0>Radar Development Aircraft</color>"
 hawk_200_rda_1;Hawk 200 (RDA)
 hawk_200_rda_2;Hawk

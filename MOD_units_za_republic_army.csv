@@ -32,7 +32,7 @@ uk_g6_spg_1;G6-45
 uk_g6_spg_2;G6-45
 
 uk_ratel_20_shop;Ratel 20 Mk. 3
-uk_ratel_20_0;Fire Support Vehicle, Ratel 20 Mk. 3
+uk_ratel_20_0;Infantry Combat Vehicle, Ratel 20 Mk. 3
 uk_ratel_20_1;Ratel 20 Mk. 3
 uk_ratel_20_2;Ratel
 uk_ratel_zt3_shop;Ratel ZT3 Mk. 3
@@ -76,6 +76,7 @@ uk_rooikat_za_35_1;ZA-35
 uk_rooikat_za_35_2;ZA-35
 
 uk_badger_shop;Badger
-uk_badger_0;Infantry Combat Vehicle, Badger (2018)
+uk_badger_0;"Infantry Combat Vehicle, Badger
+<color=#C0C0C0>2018 modifications</color>"
 uk_badger_1;Badger
 uk_badger_2;Badger

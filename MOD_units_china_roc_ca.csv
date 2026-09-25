@@ -21,20 +21,21 @@ cn_bt_5_2;БТ-5
 
 // JAPANESE // 
 
-cn_type_95_ha_go_shop;☀ 95式
-cn_type_95_ha_go_0;"95式輕戰車
-<color=#C0C0C0>1939 production</color>"
-cn_type_95_ha_go_1;☀ 95式
-cn_type_95_ha_go_2;95式
+cn_type_95_ha_go_shop;☀ 九五式
+cn_type_95_ha_go_0;"九五式輕戰車
+<color=#C0C0C0>c. 1939 production</color>"
+cn_type_95_ha_go_1;☀ 九五式
+cn_type_95_ha_go_2;九五式
 
-cn_type_97_chi_ha_shop;☀ 97式
-cn_type_97_chi_ha_0;97式中戰車
-cn_type_97_chi_ha_1;☀ 97式
-cn_type_97_chi_ha_2;97式
-cn_type_97_kai_shop;☀ 97式/47
-cn_type_97_kai_0;97式/47mm中戰車
-cn_type_97_kai_1;☀ 97式/47
-cn_type_97_kai_2;97式
+cn_type_97_chi_ha_shop;☀ 九七式
+cn_type_97_chi_ha_0;九七式中戰車
+cn_type_97_chi_ha_1;☀ 九七式
+cn_type_97_chi_ha_2;九七式
+cn_type_97_kai_shop;☀ 九七式 (一式四十七粍)
+cn_type_97_kai_0;"九七式中戰車
+<color=#C0C0C0>with 一式四十七粍戦車砲</color>"
+cn_type_97_kai_1;☀ 九七式 (一式四十七粍)
+cn_type_97_kai_2;九七式
 
 // US // 
 shop/group/cn_m3_m5_stuart_group;☀ M3A3 / ☀ M5A1
@@ -45,7 +46,7 @@ cn_m3a3_stuart_0;"Tank, Light, M3A3 General Stuart
 <color=#C0C0C0>with Dischargers, Smoke Generator, 4-in., No. 2, Mk. I</color>"
 cn_m3a3_stuart_1;☀ M3A3
 cn_m3a3_stuart_2;M3
-cn_m3a3_stuart_1st_ptg_shop;☀ M3A3 (1st Pr.T.Gr.)
+cn_m3a3_stuart_1st_ptg_shop;☀ M3A3
 cn_m3a3_stuart_1st_ptg_0;"Tank, Light, M3A3 General Stuart
 <color=#C0C0C0>Jan 1943 production</color>
 <color=#C0C0C0>with Dischargers, Smoke Generator, 4-in., No. 2, Mk. I</color>
@@ -64,7 +65,7 @@ cn_m4a4_sherman_0;"Tank, Medium, M4A4 (75-mm Gun) General Sherman
 <color=#C0C0C0>May 1943 Chrysler production</color>"
 cn_m4a4_sherman_1;☀ M4A4 (75)
 cn_m4a4_sherman_2;M4
-cn_m4a4_sherman_1st_ptg_shop;☀ M4A4 (75) (1st Pr.T.Gr.)
+cn_m4a4_sherman_1st_ptg_shop;☀ M4A4 (75)
 cn_m4a4_sherman_1st_ptg_0;"Tank, Medium, M4A4 (75-mm Gun) General Sherman
 <color=#C0C0C0>May 1943 Chrysler production</color>
 <color=#E3D452>Chinese-American 1st Provisional Tank Group</color>"

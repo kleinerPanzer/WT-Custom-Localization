@@ -1,7 +1,7 @@
 <ID|readonly|noverify>;<NewLanguage>
-ah_64a_greece_usa_shop;◐ AH-64A (1o ΤΕΕΠ)
+ah_64a_greece_usa_shop;◐ AH-64A
 ah_64a_greece_usa_0;"Ελικόπτερο AH-64A
-1ο Τάγμα Επιθετικών Ελικοπτέρων"
+<color=#E3D452>1ο Τάγμα Επιθετικών Ελικοπτέρων</color>"
 ah_64a_greece_usa_1;◐ AH-64A
 ah_64a_greece_usa_2;AH-64
 
@@ -51,12 +51,14 @@ sb2c_5_greece_2;SB2C
 
 spitfire_lf_mk9c_cw_greece_shop;◐ Spitfire LF. Mk. IX (CW)
 spitfire_lf_mk9c_cw_greece_0;"Αεροσκάφος Spitfire LF. Mk. IX
-Clipped Wing"
+<color=#C0C0C0>Clipped Wing</color>
+<color=#C0C0C0>Jul 1943 production + Feb 1944 modifications</color>
+<color=#E3D452>Ανθίσγος Σμυρνιωτόπουλος, 335 Μοίρα</color>"
 spitfire_lf_mk9c_cw_greece_1;◐ Spitfire
 spitfire_lf_mk9c_cw_greece_2;Spitfire
 
 il_leopard_2a6_hel_shop;◐ Leopard 2 HEL
-il_leopard_2a6_hel_0;Leopard 2 HEL
+il_leopard_2a6_hel_0;Άρμα Leopard 2 HEL
 il_leopard_2a6_hel_1;◐ Leopard 2 HEL
 il_leopard_2a6_hel_2;Leopard 2
 
@@ -70,4 +72,4 @@ il_tor_m1_0;Α/Α Σύστημα Tor-M1
 il_tor_m1_1;◐ Tor-M1
 il_tor_m1_2;Tor-M1
 
-tanker_nicolaos;Nicolaos
+tanker_nicolaos;Νικόλαος

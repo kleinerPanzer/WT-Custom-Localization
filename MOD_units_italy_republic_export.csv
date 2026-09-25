@@ -1,20 +1,24 @@
 <ID|readonly|noverify>;<NewLanguage>
-it_vcc_80_hitfist_60_shop;Dardo (T60/70)
-it_vcc_80_hitfist_60_0;Dardo AIFV (T60/70)
-it_vcc_80_hitfist_60_1;Dardo (T60/70)
+it_vcc_80_hitfist_60_shop;Dardo (T 60/70A)
+it_vcc_80_hitfist_60_0;"Dardo AIFV
+<color=#C0C0C0>con torretta T 60/70A</color>"
+it_vcc_80_hitfist_60_1;Dardo (T 60/70A)
 it_vcc_80_hitfist_60_2;Dardo
 it_vcc_80_hitfist_30_shop;Dardo (HITFIST 30)
-it_vcc_80_hitfist_30_0;Dardo AIFV (HITFIST 30)
+it_vcc_80_hitfist_30_0;"Dardo AIFV
+<color=#C0C0C0>with HITFIST 30</color>"
 it_vcc_80_hitfist_30_1;Dardo (HITFIST 30)
 it_vcc_80_hitfist_30_2;Dardo
 
 it_freccia_hitfist_ows_shop;Freccia (OWS 30)
-it_freccia_hitfist_ows_0;Freccia AIFV (OWS 30)
+it_freccia_hitfist_ows_0;"Freccia AIFV
+<color=#C0C0C0>with HITFIST OWS 30</color>"
 it_freccia_hitfist_ows_1;Freccia (OWS 30)
 it_freccia_hitfist_ows_2;Freccia
 
 it_centauro_mgs_120_shop;Centauro I 120
-it_centauro_mgs_120_0;Centauro I 120
+it_centauro_mgs_120_0;"Centauro I 120
+<color=#C0C0C0>serie 3</color>"
 it_centauro_mgs_120_1;Centauro I 120
 it_centauro_mgs_120_2;Centauro I
 it_centauro_2_shop;Centauro II 120
@@ -32,43 +36,50 @@ it_palmaria_0;Obice semovente 155/41 Palmaria
 it_palmaria_1;Palmaria
 it_palmaria_2;Palmaria
 
-it_of_40_mk_1_shop;OF 40 Mk. 1
-it_of_40_mk_1_0;Carro armato OF 40 Mk. 1
-it_of_40_mk_1_1;OF 40 Mk. 1
+it_of_40_mk_1_shop;OF 40 Mk1
+it_of_40_mk_1_0;Carro armato OF 40 Mk1
+it_of_40_mk_1_1;OF 40 Mk1
 it_of_40_mk_1_2;OF 40
-it_of_40_mk_2a_shop;OF 40 Mk. 2
-it_of_40_mk_2a_0;Carro armato OF 40 Mk. 2
-it_of_40_mk_2a_1;OF 40 Mk. 2
+it_of_40_mk_2a_shop;OF 40 Mk2
+it_of_40_mk_2a_0;Carro armato OF 40 Mk2
+it_of_40_mk_2a_1;OF 40 Mk2
 it_of_40_mk_2a_2;OF 40
-it_of_40_mtca_shop;OF 40 Mk. 2 (MTCA)
-it_of_40_mtca_0;Carro armato OF 40 Mk. 2 (MTCA)
-it_of_40_mtca_1;OF 40 Mk. 2
+it_of_40_mtca_shop;OF 40 Mk2 (MTCA)
+it_of_40_mtca_0;"Carro armato OF 40 Mk2
+<color=#C0C0C0>con motore Iveco MTCA 12V</color>"
+it_of_40_mtca_1;OF 40 Mk2
 it_of_40_mtca_2;OF 40
 
-it_oto_r3_106sr_shop;R3 (T106 FA)
-it_oto_r3_106sr_0;R3 (T106 FA)
-it_oto_r3_106sr_1;R3 (T106 FA)
+it_oto_r3_106sr_shop;R3 (T 106 FA)
+it_oto_r3_106sr_0;"R3
+<color=#C0C0C0>con torretta T 106 FA</color>"
+it_oto_r3_106sr_1;R3 (T 106 FA)
 it_oto_r3_106sr_2;R3
-it_oto_r3_t20_fa_shop;R3 (T20 FA-HS)
-it_oto_r3_t20_fa_0;R3 (T20 FA-HS)
-it_oto_r3_t20_fa_1;R3 (T20 FA-HS)
+it_oto_r3_t20_fa_shop;R3 (T 20 FA-HS)
+it_oto_r3_t20_fa_0;"R3
+<color=#C0C0C0>con torretta T 20 FA-HS</color>"
+it_oto_r3_t20_fa_1;R3 (T 20 FA-HS)
 it_oto_r3_t20_fa_2;R3
 
 it_fiat_6614_firos_shop;6614 (FIROS 6)
-it_fiat_6614_firos_0;Tipo 6614 (FIROS 6)
+it_fiat_6614_firos_0;"Tipo 6614
+<color=#C0C0C0>con sistema di razzi SNIA da 2"" FIROS 6</color>"
 it_fiat_6614_firos_1;6614 (FIROS 6)
 it_fiat_6614_firos_2;6614
 it_fiat_6614_106sr_shop;6614 (M40A1)
-it_fiat_6614_106sr_0;Tipo 6614 (M40A1)
+it_fiat_6614_106sr_0;"Tipo 6614
+<color=#C0C0C0>con cannone M40A1 SR</color>"
 it_fiat_6614_106sr_1;6614 (M40A1)
 it_fiat_6614_106sr_2;6614
-it_fiat_6616_cockerill_shop;6616 (T90)
-it_fiat_6616_cockerill_0;Tipo 6616 con torretta OTO T90 CKL
-it_fiat_6616_cockerill_1;6616 (T90)
+it_fiat_6616_cockerill_shop;6616 (T 90)
+it_fiat_6616_cockerill_0;"Tipo 6616
+<color=#C0C0C0>con torretta T 90 CKL</color>"
+it_fiat_6616_cockerill_1;6616 (T 90)
 it_fiat_6616_cockerill_2;6616
-it_aubl_74_60_70m_shop;6616 (T60M)
-it_aubl_74_60_70m_0;Tipo 6616 con torretta T60M da 60/70 HVMS
-it_aubl_74_60_70m_1;6616 (T60M)
+it_aubl_74_60_70m_shop;6616 (T 60/70M)
+it_aubl_74_60_70m_0;"Tipo 6616
+<color=#C0C0C0>con torretta T 60/70M</color>"
+it_aubl_74_60_70m_1;6616 (T 60/70M)
 it_aubl_74_60_70m_2;6616
 
 
@@ -77,17 +88,20 @@ it_otobreda_sidam_25_mistral_0;Sistema italiano difesa aerea mobile, 25 mm Mistr
 it_otobreda_sidam_25_mistral_1;SIDAM 25 (Mistral)
 it_otobreda_sidam_25_mistral_2;SIDAM 25
 
-it_c13_t90_shop;C13 (T90)
-it_c13_t90_0;C13 con torreta T90 CKL
-it_c13_t90_1;C13 (T90)
+it_c13_t90_shop;C13 (T 90)
+it_c13_t90_0;"C13
+<color=#C0C0C0>con torretta T 90 CKL</color>"
+it_c13_t90_1;C13 (T 90)
 it_c13_t90_2;C13
 it_c13_tua_shop;C13 (TUA)
-it_c13_tua_0;C13 con torretta TOW Under Armor
+it_c13_tua_0;"C13
+<color=#C0C0C0>con torretta TOW Under Armor</color>"
 it_c13_tua_1;C13 (TUA)
 it_c13_tua_2;C13
 
 a_129_a_shop;A129 International
-a_129_a_0;A129 International
+a_129_a_0;"A129 International
+<color=#C0C0C0>Armament Testbed Prototype</color>"
 a_129_a_1;A129 International
 a_129_a_2;A129
 

@@ -59,7 +59,9 @@ uk_boxer_crv_block2_2;Boxer
 // WWII //
 
 ca_27_mk32_raaf_shop;Sabre Mk. 32
-ca_27_mk32_raaf_0;Sabre Mk. 32
+ca_27_mk32_raaf_0;"Sabre Mk. 32
+<color=#C0C0C0>Sabre Mod. 142</color>
+<color=#B34D4D>with Radar Set, AN/APG-501</color>"
 ca_27_mk32_raaf_1;Sabre Mk. 32
 ca_27_mk32_raaf_2;Sabre
 
@@ -75,13 +77,13 @@ beaufighter_mk21_2;Beaufighter
 
 boomerang_mki_shop;Boomerang Mk. I
 boomerang_mki_0;"Boomerang Mk. I
-<color=#E3D452>No. 84 Squadron R.A.A.F.</color>"
+<color=#E3D452>No. 84 Squadron</color>"
 boomerang_mki_1;Boomerang Mk. I
 boomerang_mki_2;Boomerang
 
 boomerang_mkii_shop;Boomerang Mk. II
 boomerang_mkii_0;"Boomerang Mk. II
-<color=#E3D452>No. 4 Squadron R.A.A..</color>"
+<color=#E3D452>No. 4 Squadron</color>"
 boomerang_mkii_1;Boomerang Mk. II
 boomerang_mkii_2;Boomerang
 
@@ -99,17 +101,17 @@ f_111c_raaf_0;"F-111C
 f_111c_raaf_1;▄ F-111C
 f_111c_raaf_2;F-111
 
-shop/group/fa_18a_raaf_group;▄ F/A-18A / ▄ F/A-18A (HUG 2.4)
-fa_18a_raaf_shop;▄ F/A-18A
-fa_18a_raaf_0;F/A-18A Hornet
-fa_18a_raaf_1;▄ F/A-18A
-fa_18a_raaf_2;F/A-18
+shop/group/fa_18a_raaf_group;▄ AF/A-18A / ▄ AF/A-18A (HUG 2.4)
+fa_18a_raaf_shop;▄ AF/A-18A
+fa_18a_raaf_0;AF/A-18A Hornet
+fa_18a_raaf_1;▄ AF/A-18A
+fa_18a_raaf_2;AF/A-18
 
-fa_18a_hug_2_raaf_shop;▄ F/A-18A (HUG 2.4)
-fa_18a_hug_2_raaf_0;"F/A-18A Hornet
+fa_18a_hug_2_raaf_shop;▄ AF/A-18A (HUG 2.4)
+fa_18a_hug_2_raaf_0;"AF/A-18A Hornet
 <color=#C0C0C0>Hornet Upgrade Phase 2.4</color>"
-fa_18a_hug_2_raaf_1;▄ F/A-18A
-fa_18a_hug_2_raaf_2;F/A-18
+fa_18a_hug_2_raaf_1;▄ AF/A-18A
+fa_18a_hug_2_raaf_2;AF/A-18
 
 fa_18f_block_2_raaf_shop;▄ F/A-18F-2
 fa_18f_block_2_raaf_0;"F/A-18F-2 MC Super Hornet
@@ -121,10 +123,20 @@ fa_18f_block_2_raaf_2;F/A-18
 // RAN //
 // WWII //
 uk_destroyer_battle_tobruk_shop;Tobruk (D 37)
-uk_destroyer_battle_tobruk_0;"<color=#C0C0C0>Battle-Class Destroyer Type III</color>
+uk_destroyer_battle_tobruk_0;"<color=#C0C0C0>Battle-Class Destroyer</color>
 HMAS Tobruk (D 37)"
 uk_destroyer_battle_tobruk_1;Tobruk
 uk_destroyer_battle_tobruk_2;Battle-Class
+
+uk_destroyer_n_class_shop;Nepal (G 25)
+uk_destroyer_n_class_0;"<color=#C0C0C0>N Class Destroyer</color>
+<color=#737577>HMS Nepal (G 25)</color>
+HMAS Nepal (G 25)"
+uk_destroyer_n_class_1;Nepal
+uk_destroyer_n_class_2;N-Class
+uk_destroyer_n_class_EC_0;Nepal (G 25)
+uk_destroyer_n_class_EC_1;Nepal
+uk_destroyer_n_class_EC_2;N-Class
 
 // MODERN //
 

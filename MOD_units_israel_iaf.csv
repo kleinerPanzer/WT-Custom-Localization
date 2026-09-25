@@ -11,32 +11,40 @@ b-17g_iaf_1;B-17G 
 b-17g_iaf_2;B-17
 
 s_199_shop;S-199 
-s_199_0;S-199
+s_199_0;"S-199
+<color=#C0C0C0>Batch 2</color>"
 s_199_1;S-199 
 s_199_2;S-199
 
-spitfire_lf_mk9e_weisman_shop;(101 תסייט) LF.-9 (e) רייפטיפס 
+spitfire_lf_mk9e_weisman_shop;LF.-9 (e) רייפטיפס 
 spitfire_lf_mk9e_weisman_0;"LF.-9 (e) רייפטיפס
-101 תסייט ,ןָמְציַו רֶזֵע"
+<color=#C0C0C0>Apr 1944 production,  1956 modifications</color>
+<color=#C0C0C0>without extended horn balance elevators</color>
+<color=#E3D452>101 תסייט ,ןָמְציַו רֶזֵע</color>"
 spitfire_lf_mk9e_weisman_1;LF.-9 רייפטיפס 
 spitfire_lf_mk9e_weisman_2;רייפטיפס
 spitfire_lf_mk9e_iaf_shop;LF.-9 (e) (CW) רייפטיפס 
 spitfire_lf_mk9e_iaf_0;"LF.-9 (e) רייפטיפס
-Clipped Wing"
+<color=#C0C0C0>Clipped Wing</color>
+<color=#C0C0C0>Mar 1943 production</color>
+<color=#C0C0C0>1949 modifications</color>"
 spitfire_lf_mk9e_iaf_1;LF.-9 רייפטיפס 
 spitfire_lf_mk9e_iaf_2;רייפטיפס
 spitfire_mk9c_iaf_shop;F.-9 רייפטיפס 
 spitfire_mk9c_iaf_0;"F.-9 רייפטיפס
-August 1942"
+<color=#C0C0C0>Apr 1943 production</color>
+<color=#C0C0C0>1949 modifications</color>"
 spitfire_mk9c_iaf_1;F.-9 רייפטיפס 
 spitfire_mk9c_iaf_2;רייפטיפס
 
 meteor_fmk8_iaf_shop;F.-8 רואטמ 
-meteor_fmk8_iaf_0;F.-8 רואטמ
+meteor_fmk8_iaf_0;"F.-8 רואטמ
+<color=#C0C0C0>Jan 1951 production</color>"
 meteor_fmk8_iaf_1;F.-8 רואטמ 
 meteor_fmk8_iaf_2;רואטמ
 meteor_frmk9_iaf_shop;FR.-9 רואטמ 
-meteor_frmk9_iaf_0;FR.-9 רואטמ
+meteor_frmk9_iaf_0;"FR.-9 רואטמ
+<color=#C0C0C0>Jan 1951 production</color>"
 meteor_frmk9_iaf_1;FR.-9 רואטמ 
 meteor_frmk9_iaf_2;רואטמ
 meteor_nfmk13_shop;NF.-13 רואטמ 
@@ -49,15 +57,15 @@ p-51d-20-na_iaf_0;גנטסומ P-51D-20 NA
 p-51d-20-na_iaf_1;P-51D 
 p-51d-20-na_iaf_2;P-51
 
-a_4e_late_iaf_shop;(140 תסייט) A-4E (AFC-482) 
+a_4e_late_iaf_shop;A-4E (AFC-482) 
 a_4e_late_iaf_0;"קוהייקס A-4E
-AFC-482
-140 תסייט"
+<color=#C0C0C0>AFC 482</color>
+<color=#E3D452>140 תסייט</color>"
 a_4e_late_iaf_1;A-4E 
 a_4e_late_iaf_2;A-4
-a_4e_early_iaf_shop;A-4E (AFC 418-II) 
+a_4e_early_iaf_shop;A-4E (AFC 418) 
 a_4e_early_iaf_0;"קוהייקס A-4E
-AFC 418-II"
+<color=#C0C0C0>AFC 418</color>"
 a_4e_early_iaf_1;A-4E 
 a_4e_early_iaf_2;A-4
 a_4h_shop;A-4H 
@@ -69,9 +77,9 @@ a_4n_0; קוהייקס A-4N
 a_4n_1;A-4N 
 a_4n_2;A-4
 
-so_4050_vautour_2a_iaf_shop;(110 תסייט) A רוטוו 
+so_4050_vautour_2a_iaf_shop;A רוטוו 
 so_4050_vautour_2a_iaf_0;"A רוטוו S.O.4050
-110 תסייט"
+<color=#E3D452>110 תסייט</color>"
 so_4050_vautour_2a_iaf_1;A רוטוו 
 so_4050_vautour_2a_iaf_2;רוטוו
 so_4050_vautour_2a_israel_iaf_shop;A רוטוו 
@@ -89,7 +97,7 @@ md_450b_ouragan_iaf_1;ןגארוא 
 md_450b_ouragan_iaf_2;ןגארוא
 md_450b_ouragan_iaf_29_shop;ןגארוא (תסייט 113) 
 md_450b_ouragan_iaf_29_0;"ןגארוא M.D.450
-תסייט 113"
+<color=#E3D452>תסייט 113</color>"
 md_450b_ouragan_iaf_29_1;ןגארוא 
 md_450b_ouragan_iaf_29_2;ןגארוא
 
@@ -117,14 +125,14 @@ nesher_0;רשנ
 nesher_1;רשנ
 nesher_2;רשנ
 
-kfir_canard_shop;(109 תסייט) תורדג ריפכ
+kfir_canard_shop;תורדג ריפכ
 kfir_canard_0;"תורדג ריפכ
-109 תסייט"
+<color=#E3D452>109 תסייט</color>"
 kfir_canard_1;תורדג ריפכ
 kfir_canard_2;ריפכ
-kfir_c2_shop;(144 תסייט) C2 ריפכ
+kfir_c2_shop;C2 ריפכ
 kfir_c2_0;"C2 ריפכ
-144 תסייט"
+<color=#E3D452>144 תסייט</color>"
 kfir_c2_1;C2 ריפכ
 kfir_c2_2;ריפכ
 kfir_c7_shop;C7 ריפכ
@@ -142,11 +150,12 @@ f-4e_kurnass_2000_1;2000 סנרוק
 f-4e_kurnass_2000_2;2000 סנרוק
 
 f_15a_iaf_shop;F-15A-18 
-f_15a_iaf_0; לגיא F-15A-18 MC
+f_15a_iaf_0;"לגיא F-15A-18-MC
+<color=#C0C0C0>with Countermeasures Dispensing System, AN/ALE-45</color>"
 f_15a_iaf_1;F-15A 
 f_15a_iaf_2;F-15
 f_15c_baz_msip_shop;F-15C-36 
-f_15c_baz_msip_0; לגיא F-15C-36 MC
+f_15c_baz_msip_0;לגיא F-15C-36-MC
 f_15c_baz_msip_1;F-15C 
 f_15c_baz_msip_2;F-15
 f_15i_raam_shop;F-15I 
@@ -155,31 +164,31 @@ f_15i_raam_1;F-15I 
 f_15i_raam_2;F-15
 
 f_16a_block_10_iaf_shop;F-16A-10 
-f_16a_block_10_iaf_0;ןוקלאפ גניטייפ F-16A-10 CF
+f_16a_block_10_iaf_0;ןוקלאפ גניטייפ F-16A-10-CF
 f_16a_block_10_iaf_1;F-16A 
 f_16a_block_10_iaf_2;F-16
 f_16a_block_10_netz_mod_shop;(115 תסייט) F-16A-5 
-f_16a_block_10_netz_mod_0;"ןוקלאפ גניטייפ F-16A-5 CF
-ECP 4003
-115 תסייט"
+f_16a_block_10_netz_mod_0;"ןוקלאפ גניטייפ F-16A-5-CF
+<color=#C0C0C0>ECP 4003</color>
+<color=#E3D452>115 תסייט</color>"
 f_16a_block_10_netz_mod_1;F-16A 
 f_16a_block_10_netz_mod_2;F-16
+f_16c_block_40_barak_2_shop;F-16C-40 
+f_16c_block_40_barak_2_0;ןוקלאפ גניטייפ F-16C-40-CF
+f_16c_block_40_barak_2_1;F-16C 
+f_16c_block_40_barak_2_2;F-16
+f_16d_block_40_barak_2_shop;F-16D-40 
+f_16d_block_40_barak_2_0;ןוקלאפ גניטייפ F-16D-40-CF
+f_16d_block_40_barak_2_1;F-16D 
+f_16d_block_40_barak_2_2;F-16
+f_16d_block_40_barak_2_killstreak_shop;F-16D-40 
+f_16d_block_40_barak_2_killstreak_0;ןוקלאפ גניטייפ F-16D-40-CF
+f_16d_block_40_barak_2_killstreak_1;F-16D 
+f_16d_block_40_barak_2_killstreak_2;F-16
 f_16i_sufa_shop;F-16I 
 f_16i_sufa_0;F-16I
 f_16i_sufa_1;F-16I 
 f_16i_sufa_2;F-16
-f_16d_block_40_barak_2_shop;F-16D-40 
-f_16d_block_40_barak_2_0;ןוקלאפ גניטייפ F-16D-40 CF
-f_16d_block_40_barak_2_1;F-16D 
-f_16d_block_40_barak_2_2;F-16
-f_16d_block_40_barak_2_killstreak_shop;F-16D-40 
-f_16d_block_40_barak_2_killstreak_0;ןוקלאפ גניטייפ F-16D-40 CF
-f_16d_block_40_barak_2_killstreak_1;F-16D 
-f_16d_block_40_barak_2_killstreak_2;F-16
-f_16c_block_40_barak_2_shop;F-16C-40 
-f_16c_block_40_barak_2_0;ןוקלאפ גניטייפ F-16C-40 CF
-f_16c_block_40_barak_2_1;F-16C 
-f_16c_block_40_barak_2_2;F-16
 
 mig_21_2000_iaf_shop; MiG-21 2000
 mig_21_2000_iaf_0; MiG-21 2000

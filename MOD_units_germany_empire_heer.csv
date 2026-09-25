@@ -1,10 +1,10 @@
 <ID|readonly|noverify>;<NewLanguage>
 germ_garford_putilov_shop;▀ Pulitow-Garford;
-germ_garford_putilov_0;Pulitow-Garford;
+germ_garford_putilov_0;Panzerwagen Garford-Putilov (Beute);
 germ_garford_putilov_1;▀ Pulitow-Garford;
 germ_garford_putilov_2;Pulitow-Garford;
 germ_garford_putilov_event_shop;▀ Pulitow-Garford;
-germ_garford_putilov_event_0;Pulitow-Garford;
+germ_garford_putilov_event_0;Panzerwagen Garford-Putilov (Beute);
 germ_garford_putilov_event_1;▀ Pulitow-Garford;
 germ_garford_putilov_event_2;Pulitow-Garford;
 
@@ -12,20 +12,20 @@ germ_beutepanzer_mk_iv_event_shop;▀ s.Kw. (Beute)
 germ_beutepanzer_mk_iv_event_0;schwerer Kampfwagen (Beute);
 germ_beutepanzer_mk_iv_event_1;▀ s.Kw.
 germ_beutepanzer_mk_iv_event_2;s.Kw.
-germ_beutepanzer_mk_iv_shop;▀ s.Kw.
-germ_beutepanzer_mk_iv_0;schwerer Kampfwagen;
+germ_beutepanzer_mk_iv_shop;▀ s.Kw. (Beute)
+germ_beutepanzer_mk_iv_0;schwerer Kampfwagen (Beute);
 germ_beutepanzer_mk_iv_1;▀ s.Kw.
 germ_beutepanzer_mk_iv_2;s.Kw.
 
-germ_a7v_shop;A7V
-germ_a7v_0;Sturmpanzerwagen A7V
-germ_a7v_1;A7V
-germ_a7v_2;A7V
-germ_a7v_event_shop;A7V
-germ_a7v_event_0;Sturmpanzerwagen A7V
-germ_a7v_event_1;A7V
-germ_a7v_event_2;A7V
+germ_a7v_shop;A.7.V.
+germ_a7v_0;Sturmpanzerwagen A.7.V.
+germ_a7v_1;A.7.V.
+germ_a7v_2;A.7.V.
+germ_a7v_event_shop;A.7.V.
+germ_a7v_event_0;Sturmpanzerwagen A.7.V.
+germ_a7v_event_1;A.7.V.
+germ_a7v_event_2;A.7.V.
 
-germ_machinegun_mg_08_0;Maschinengewehr MG 08
-germ_machinegun_mg_08_1;MG 08
-germ_machinegun_mg_08_2;MG 08
+germ_machinegun_mg_08_0;Maschinengewehr 08
+germ_machinegun_mg_08_1;M.G. 08
+germ_machinegun_mg_08_2;M.G. 08

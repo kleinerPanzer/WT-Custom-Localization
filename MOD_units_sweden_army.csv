@@ -30,63 +30,69 @@ sw_strv_m39_shop;Strv m/39
 sw_strv_m39_0;Stridsvagn m/39
 sw_strv_m39_1;Strv m/39
 sw_strv_m39_2;Strv m/39
-sw_strv_m39_td_shop;Strv m/39 (TD)
-sw_strv_m39_td_0;Stridsvagn m/39 (Twitch Drop)
-sw_strv_m39_td_1;Strv m/39 TD
+sw_strv_m39_td_shop;⋦ Strv m/39
+sw_strv_m39_td_0;"Stridsvagn m/39
+<color=#E3D452>⋦ Twitch Drop ⋦</color>"
+sw_strv_m39_td_1;⋦ Strv m/39
 sw_strv_m39_td_2;Strv m/39
 
-sw_strv_m40l_shop;Strv m/40L
-sw_strv_m40l_0;Stridsvagn m/40 Landsverk
-sw_strv_m40l_1;Strv m/40L
+sw_strv_m40l_shop;Strv m/40 L I
+sw_strv_m40l_0;Stridsvagn m/40 L I
+sw_strv_m40l_1;Strv m/40 L
 sw_strv_m40l_2;Strv m/40
 
-sw_strv_m41_s1_shop;Strv m/41 S-I
-sw_strv_m41_s1_0;Stridsvagn m/41 S-I
-sw_strv_m41_s1_1;Strv m/41 S-I
+sw_strv_m41_s1_shop;Strv m/41 S I
+sw_strv_m41_s1_0;Stridsvagn m/41 S I
+sw_strv_m41_s1_1;Strv m/41 S
 sw_strv_m41_s1_2;Strv m/41
-sw_strv_m41_s2_shop;Strv m/41 S-II
-sw_strv_m41_s2_0;Stridsvagn m/41 S-II
-sw_strv_m41_s2_1;Strv m/41 S-II
+sw_strv_m41_s2_shop;Strv m/41 S II
+sw_strv_m41_s2_0;Stridsvagn m/41 S II
+sw_strv_m41_s2_1;Strv m/41 S
 sw_strv_m41_s2_2;Strv m/41
 
 sw_strv_m42_eh_shop;Strv m/42 EH
-sw_strv_m42_eh_0;Stridsvagn m/42 En Hydraulisk
+sw_strv_m42_eh_0;Stridsvagn m/42 EH
 sw_strv_m42_eh_1;Strv m/42 EH
 sw_strv_m42_eh_2;Strv m/42
 sw_strv_m42_delat_torn_shop;Strv m/42 DT
-sw_strv_m42_delat_torn_0;Stridsvagn m/42 Delat Torn
+sw_strv_m42_delat_torn_0;Stridsvagn m/42 DT
 sw_strv_m42_delat_torn_1;Strv m/42 DT
 sw_strv_m42_delat_torn_2;Strv m/42
 
-sw_strv_74_shop;Strv 74
-sw_strv_74_0;Stridsvagn 74
-sw_strv_74_1;Strv 74
+sw_strv_74_shop;Strv 74 V
+sw_strv_74_0;Stridsvagn 74 V
+sw_strv_74_1;Strv 74 V
 sw_strv_74_2;Strv 74
 
-sw_strv_81_shop;Strv 81A
-sw_strv_81_0;Stridsvagn 81A
-sw_strv_81_1;Strv 81A
+sw_strv_81_shop;Strv 81
+sw_strv_81_0;Stridsvagn 81
+sw_strv_81_1;Strv 81
 sw_strv_81_2;Strv 81
-sw_strv_81_rb52_shop;Strv 81A (Rb 52)
-sw_strv_81_rb52_0;Stridsvagn 81A (Robot 52)
-sw_strv_81_rb52_1;Strv 81A (Rb 52)
+sw_strv_81_rb52_shop;Strv 81 (rbs 52)
+sw_strv_81_rb52_0;"Stridsvagn 81
+<color=#C0C0C0>robotsystem 52 test configuration</color>"
+sw_strv_81_rb52_1;Strv 81 (rbs 52)
 sw_strv_81_rb52_2;Strv 81
-uk_centurion_mk_3_ss11_shop;▄ Strv 81A (Rb 52)
-uk_centurion_mk_3_ss11_0;Stridsvagn 81A (Robot 52)
-uk_centurion_mk_3_ss11_1;▄ Strv 81A (Rb 52)
+uk_centurion_mk_3_ss11_shop;▄ Strv 81 (rbs 52)
+uk_centurion_mk_3_ss11_0;"Stridsvagn 81
+<color=#C0C0C0>robotsystem 52 test configuration</color>"
+uk_centurion_mk_3_ss11_1;▄ Strv 81 (rbs 52)
 uk_centurion_mk_3_ss11_2;Strv 81
 
 sw_strv_101_shop;Strv 101
-sw_strv_101_0;Stridsvagn 101
+sw_strv_101_0;"Stridsvagn 101
+<color=#C0C0C0>Pre-service configuration</color>"
 sw_strv_101_1;Strv 101
 sw_strv_101_2;Strv 101
 
 sw_strv_103_0_shop;Strv S
-sw_strv_103_0_0;Stridsvagn S 0-serie
+sw_strv_103_0_0;"Stridsvagn S 0-serie
+<color=#C0C0C0>with partial 1983 strv 103B REMO etapp 1</color>"
 sw_strv_103_0_1;Strv S
 sw_strv_103_0_2;Strv S
 sw_strv_103a_shop;Strv 103A
-sw_strv_103a_0;Stridsvagn 103A
+sw_strv_103a_0;"Stridsvagn 103A
+<color=#C0C0C0>with partial 1983 strv 103B REMO etapp 1</color>"
 sw_strv_103a_1;Strv 103A
 sw_strv_103a_2;Strv 103
 sw_strv_103c_shop;Strv 103С
@@ -116,30 +122,32 @@ sw_strv_122_shop;Strv 122A
 sw_strv_122_0;Stridsvagn 122A
 sw_strv_122_1;Strv 122A
 sw_strv_122_2;Strv 122
-sw_strv_122b_plss_shop;Strv 122B PLSS
-sw_strv_122b_plss_0;Stridsvagn 122B Panoramic Low-Signature Sight
+sw_strv_122b_plss_shop;Strv 122B (PLSS)
+sw_strv_122b_plss_0;Stridsvagn 122B (Panoramic Low-Signature Sight)
 sw_strv_122b_plss_1;Strv 122B
 sw_strv_122b_plss_2;Strv 122
 
 sw_t_80u_shop;♛ Strv T 80 U
-sw_t_80u_0;♛ Stridsvagn T 80 U
+sw_t_80u_0;Stridsvagn T 80 U
 sw_t_80u_1;♛ Strv T 80 U
 sw_t_80u_2;Strv T 80
 
 sw_sherman_3_4_shop;♛ Sherman IV
-sw_sherman_3_4_0;♛ Stridsvagn Sherman IV
+sw_sherman_3_4_0;"Stridsvagn Sherman IV
+<color=#C0C0C0>with stridsvagn Sherman III turret</color>"
 sw_sherman_3_4_1;♛ Sherman IV
 sw_sherman_3_4_2;Sherman
 
 sw_kungstiger_shop;♛ Tiger II
-sw_kungstiger_0;♛ Stridsvagn Tiger II
+sw_kungstiger_0;Stridsvagn Tiger II
 sw_kungstiger_1;♛ Tiger II
 sw_kungstiger_2;Tiger II
 
 // STRIDSFORDON //
-sw_strf_9056_shop;Strf 9040A BILL
-sw_strf_9056_0;Stridsfordon 9040A BILL
-sw_strf_9056_1;Strf 9040A BILL
+sw_strf_9056_shop;Strf 9040A (rbs 56)
+sw_strf_9056_0;"Stridsfordon 9040A
+<color=#C0C0C0>1999 robotsystem 56 integration demonstrator</color>"
+sw_strf_9056_1;Strf 9040A (rbs 56)
 sw_strf_9056_2;Strf 90
 sw_strf_90b_shop;Strf 9040B
 sw_strf_90b_0;Stridsfordon 9040B
@@ -156,14 +164,15 @@ sw_sav_m43_1944_0;Stormartillerivagn m/43
 sw_sav_m43_1944_1;Sav m/43
 sw_sav_m43_1944_2;Sav m/43
 sw_sav_m43_1946_shop;Sav m/43 (1946)
-sw_sav_m43_1946_0;Stormartillerivagn m/43 (1946)
+sw_sav_m43_1946_0;"Stormartillerivagn m/43
+<color=#C0C0C0>1946 production</color>"
 sw_sav_m43_1946_1;Sav m/43
 sw_sav_m43_1946_2;Sav m/43
 
-sw_stormpjas_fm43_44_shop;Stormpjäs fm/43-44
+sw_stormpjas_fm43_44_shop;Spj fm/43-44
 sw_stormpjas_fm43_44_0;Stormpjäs fm/43-44
-sw_stormpjas_fm43_44_1;Stormpjäs fm/43-44
-sw_stormpjas_fm43_44_2;Stormpjäs fm/43-44
+sw_stormpjas_fm43_44_1;Spj fm/43-44
+sw_stormpjas_fm43_44_2;Spj fm/43-44
 
 // BANDKANON /
 sw_bkan_1c_shop;Bkan 1C
@@ -177,7 +186,8 @@ sw_pvkv_m43_1946_0;Pansarvärnskanonvagn m/43
 sw_pvkv_m43_1946_1;Pvkv m/43
 sw_pvkv_m43_1946_2;Pvkv m/43
 sw_pvkv_m43_1963_shop;Pvkv m/43 (1963)
-sw_pvkv_m43_1963_0;Pansarvärnskanonvagn m/43 (1963)
+sw_pvkv_m43_1963_0;"Pansarvärnskanonvagn m/43
+<color=#C0C0C0>1963 modifications</color>"
 sw_pvkv_m43_1963_1;Pvkv m/43
 sw_pvkv_m43_1963_2;Pvkv m/43
 
@@ -222,9 +232,9 @@ sw_lvrbv_701_0;Luftvärnsrobotbandvagn 701
 sw_lvrbv_701_1;Lvrbv 701
 sw_lvrbv_701_2;Lvrbv 701
 
-sw_veak_40_shop;VEAK 40
-sw_veak_40_0;Vagn Eldledning AutomatKanon 40
-sw_veak_40_1;VEAK 40
+sw_veak_40_shop;VEAK 40 X 62
+sw_veak_40_0;Vagn Eldledning AutomatKanon 40 X 62
+sw_veak_40_1;VEAK 40 X 62
 sw_veak_40_2;VEAK 40
 
 // INFANTERIKANONVAGN //
@@ -233,9 +243,9 @@ sw_ikv_72_0;Infanterikanonvagn 72
 sw_ikv_72_1;Ikv 72
 sw_ikv_72_2;Ikv 72
 
-sw_ikv_73_shop;Ikv 73
-sw_ikv_73_0;Infanterikanonvagn 73
-sw_ikv_73_1;Ikv 73
+sw_ikv_73_shop;Ikv 73A
+sw_ikv_73_0;Infanterikanonvagn 73A
+sw_ikv_73_1;Ikv 73A
 sw_ikv_73_2;Ikv 73
 
 sw_ikv_91_shop;Ikv 91
@@ -258,9 +268,10 @@ sw_pbv_301_0;Pansarbandvagn 301
 sw_pbv_301_1;Pbv 301
 sw_pbv_301_2;Pbv 301
 
-sw_pbv_302_bill_shop;Pbv 302A
-sw_pbv_302_bill_0;Pansarbandvagn 302A
-sw_pbv_302_bill_1;Pbv 302A
+sw_pbv_302_bill_shop;Pbv 302 (rbs 56)
+sw_pbv_302_bill_0;"Pansarbandvagn 302
+<color=#C0C0C0>med robotsystem 56</color>"
+sw_pbv_302_bill_1;Pbv 302 (rbs 56)
 sw_pbv_302_bill_2;Pbv 302
 
 sw_pbv_501_shop;Pbv 501
@@ -269,13 +280,15 @@ sw_pbv_501_1;Pbv 501
 sw_pbv_501_2;Pbv 501
 
 // OTHER //
-sw_tgdgb_m40_lv_shop;Tdgb m/40 LV
-sw_tgdgb_m40_lv_0;Terrängdragbil m/40 Luftvärn
-sw_tgdgb_m40_lv_1;Tdgb m/40 LV
+sw_tgdgb_m40_lv_shop;Tdgb m/40 (lvakan m/36)
+sw_tgdgb_m40_lv_0;"Terrängdragbil m/40
+<color=#C0C0C0>med lvakan m/36</color>"
+sw_tgdgb_m40_lv_1;Tdgb m/40 (lvakan m/36)
 sw_tgdgb_m40_lv_2;Tdgb m/40
 
 sw_eldenhet_98_shop;EldE 98 (Giraffe 1X)
-sw_eldenhet_98_0;EldEnhet 98 (Giraffe 1X)
+sw_eldenhet_98_0;"EldEnhet 98
+<color=#C0C0C0>med Giraffe 1X radar</color>"
 sw_eldenhet_98_1;EldE 98
 sw_eldenhet_98_2;EldE 98
 
@@ -298,11 +311,11 @@ hkp9a_cb3_fc_2;Hkp 9
 
 
 mi_28a_sweden_shop;♛ Mi-28A
-mi_28a_sweden_0;♛ Helikopter Mi-28A
+mi_28a_sweden_0;Helikopter Mi-28A
 mi_28a_sweden_1;♛ Mi-28A
 mi_28a_sweden_2;Mi-28
 
 ahs_shop;♛ AH-64A
-ahs_0;♛ Helikopter AH-64A
+ahs_0;Helikopter AH-64A
 ahs_1;♛ AH-64A
 ahs_2;AH-64

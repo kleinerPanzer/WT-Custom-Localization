@@ -1,4 +1,48 @@
 <ID|readonly|noverify>;<NewLanguage>
+
+// USA //
+
+wheeled_vehicles/us_ambulance_0;WC 51 Ambulance
+wheeled_vehicles/us_ambulance_1;WC 51
+wheeled_vehicles/us_ambulance_2;WC 51
+wheeled_vehicles/us_cargo_truck_0;US 6
+wheeled_vehicles/us_cargo_truck_1;US 6
+wheeled_vehicles/us_cargo_truck_2;US 6
+wheeled_vehicles/us_dodge_wc51_0;WC 51
+wheeled_vehicles/us_dodge_wc51_1;WC 51
+wheeled_vehicles/us_dodge_wc51_2;WC 51
+
+wheeled_vehicles/us_m3_halftrack_0;M3
+wheeled_vehicles/us_m3_halftrack_1;M3
+wheeled_vehicles/us_m3_halftrack_2;M3
+wheeled_vehicles/us_m8_greyhound_0;M8
+wheeled_vehicles/us_m8_greyhound_1;M8
+wheeled_vehicles/us_m8_greyhound_2;M8
+wheeled_vehicles/us_motobike_0;▃ R75
+wheeled_vehicles/us_motobike_1;▃ R75
+wheeled_vehicles/us_motobike_2;R75
+wheeled_vehicles/us_willys_mb_7mm_0;MB
+wheeled_vehicles/us_willys_mb_7mm_1;MB
+wheeled_vehicles/us_willys_mb_7mm_2;MB
+
+wheeled_vehicles/us_m35a2_awning_ammo_carrier_0;M35A2
+wheeled_vehicles/us_m35a2_awning_ammo_carrier_1;M35A2
+wheeled_vehicles/us_m35a2_awning_ammo_carrier_2;M35
+wheeled_vehicles/us_m35a2_awning_0;M35A2
+wheeled_vehicles/us_m35a2_awning_1;M35A2
+wheeled_vehicles/us_m35a2_awning_2;M35
+wheeled_vehicles/us_m35a2_fuel_carrier_0;M35A2
+wheeled_vehicles/us_m35a2_fuel_carrier_1;M35A2
+wheeled_vehicles/us_m35a2_fuel_carrier_2;M35
+
+wheeled_vehicles/us_m939_awning_0;Truck, Cargo, 5-ton 6x6, M924
+wheeled_vehicles/us_m939_awning_1;M924
+wheeled_vehicles/us_m939_awning_2;M924
+wheeled_vehicles/us_m939_fuel_carrier_0;Truck, Tractor, 5-ton, 6x6, M931 (Semitrailer, Tank, 12-ton, Fuel Dispensing, 5,000 Gal., Under/Over Wing Aircraft, M970)
+wheeled_vehicles/us_m939_fuel_carrier_1;M931 (M970)
+wheeled_vehicles/us_m939_fuel_carrier_2;M931
+
+// GERMANY //
 wheeled_vehicles/germ_horch_0;Horch 830
 wheeled_vehicles/germ_horch_1;Horch 830
 wheeled_vehicles/germ_horch_2;Horch 830
@@ -8,9 +52,6 @@ wheeled_vehicles/germ_kubelwagen_2;Kübelwagen
 wheeled_vehicles/germ_motobike_0;R75
 wheeled_vehicles/germ_motobike_1;R75
 wheeled_vehicles/germ_motobike_2;R75
-wheeled_vehicles/ussr_motobike_0;R75
-wheeled_vehicles/ussr_motobike_1;▂ R75
-wheeled_vehicles/ussr_motobike_2;R75
 germ_opelBlitz_radio_0;Opel Blitz Funkstation
 germ_opelBlitz_radio_1;Opel Blitz
 germ_opelBlitz_radio_2;Opel Blitz
@@ -43,48 +84,16 @@ wheeled_vehicles/germ_sdKfz_251_2;m.Spw.
 wheeled_vehicles/germ_sdKfz_7_0;Zgkw. 8t
 wheeled_vehicles/germ_sdKfz_7_1;Zgkw. 8t
 wheeled_vehicles/germ_sdKfz_7_2;Zgkw. 8t
-wheeled_vehicles/jpn_halftrack_ho_ha_0;ホハ
-wheeled_vehicles/jpn_halftrack_ho_ha_1;ホハ
-wheeled_vehicles/jpn_halftrack_ho_ha_2;ホハ
-wheeled_vehicles/jpn_scout_car_kurogane_0;くろがね九五式
-wheeled_vehicles/jpn_scout_car_kurogane_1;くろがね九五式
-wheeled_vehicles/jpn_scout_car_kurogane_2;九五式
-wheeled_vehicles/jpn_truck_0;九四式六輪自動貨車
-wheeled_vehicles/jpn_truck_1;九四式六輪自動貨車
-wheeled_vehicles/jpn_truck_2;九四式
-wheeled_vehicles/uk_daimler_mk1_0;Daimler AC Mk. I
-wheeled_vehicles/uk_daimler_mk1_1;Daimler AC Mk. I
-wheeled_vehicles/uk_daimler_mk1_2;Daimler AC
-wheeled_vehicles/uk_ford_fat2_0;C8 FAT
-wheeled_vehicles/uk_ford_fat2_1;C8 FAT
-wheeled_vehicles/uk_ford_fat2_2;C8
-wheeled_vehicles/uk_t17e1_0;Staghound Mk. I
-wheeled_vehicles/uk_t17e1_1;Staghound Mk. I
-wheeled_vehicles/uk_t17e1_2;Staghound
-wheeled_vehicles/uk_universal_carrier_mkI_0;Universal Carrier Mk. I
-wheeled_vehicles/uk_universal_carrier_mkI_1;Universal Carrier Mk. I
-wheeled_vehicles/uk_universal_carrier_mkI_2;Universal Carrier
-wheeled_vehicles/us_ambulance_0;WC 51 Ambulance
-wheeled_vehicles/us_ambulance_1;WC 51
-wheeled_vehicles/us_ambulance_2;WC 51
-wheeled_vehicles/us_cargo_truck_0;US6
-wheeled_vehicles/us_cargo_truck_1;US6
-wheeled_vehicles/us_cargo_truck_2;US6
-wheeled_vehicles/us_dodge_wc51_0;WC 51
-wheeled_vehicles/us_dodge_wc51_1;WC 51
-wheeled_vehicles/us_dodge_wc51_2;WC 51
-wheeled_vehicles/us_m3_halftrack_0;M3
-wheeled_vehicles/us_m3_halftrack_1;M3
-wheeled_vehicles/us_m3_halftrack_2;M3
-wheeled_vehicles/us_m8_greyhound_0;M8
-wheeled_vehicles/us_m8_greyhound_1;M8
-wheeled_vehicles/us_m8_greyhound_2;M8
-wheeled_vehicles/us_motobike_0;R75
-wheeled_vehicles/us_motobike_1;▃ R75
-wheeled_vehicles/us_motobike_2;R75
-wheeled_vehicles/us_willys_mb_7mm_0;MB
-wheeled_vehicles/us_willys_mb_7mm_1;MB
-wheeled_vehicles/us_willys_mb_7mm_2;MB
+
+wheeled_vehicles/ger_panzerwerfer_42_a_0;15 cm Pz.Wf. 42
+wheeled_vehicles/ger_panzerwerfer_42_a_1;Panzerwerfer 42
+wheeled_vehicles/ger_panzerwerfer_42_a_2;Panzerwerfer 42
+
+// USSR //
+wheeled_vehicles/ussr_motobike_0;▂ R75
+wheeled_vehicles/ussr_motobike_1;▂ R75
+wheeled_vehicles/ussr_motobike_2;R75
+
 wheeled_vehicles/ussr_ba10_0;БА-10
 wheeled_vehicles/ussr_ba10_1;БА-10
 wheeled_vehicles/ussr_ba10_2;БА-10
@@ -100,9 +109,7 @@ wheeled_vehicles/ussr_gaz_m1_2;ГАЗ М-1
 wheeled_vehicles/ussr_katusha_0;БМ-13Н-16
 wheeled_vehicles/ussr_katusha_1;БМ-13Н-16
 wheeled_vehicles/ussr_katusha_2;БМ-13Н
-wheeled_vehicles/ger_panzerwerfer_42_a_0;15 cm Pz.Wf. 42
-wheeled_vehicles/ger_panzerwerfer_42_a_1;Panzerwerfer 42
-wheeled_vehicles/ger_panzerwerfer_42_a_2;Panzerwerfer 42
+
 wheeled_vehicles/ussr_zis5_fuel_0;ЗиС-5 Топливозаправщик
 wheeled_vehicles/ussr_zis5_fuel_1;ЗиС-5
 wheeled_vehicles/ussr_zis5_fuel_2;ЗиС-5
@@ -115,27 +122,14 @@ wheeled_vehicles/ussr_zil_131_fuel_carrier_2;ЗиЛ-131
 wheeled_vehicles/ussr_zil_131_awning_ammo_carrier_0;ЗиЛ-131
 wheeled_vehicles/ussr_zil_131_awning_ammo_carrier_1;ЗиЛ-131
 wheeled_vehicles/ussr_zil_131_awning_ammo_carrier_2;ЗиЛ-131
-wheeled_vehicles/us_m35a2_awning_ammo_carrier_0;M35A2
-wheeled_vehicles/us_m35a2_awning_ammo_carrier_1;M35A2
-wheeled_vehicles/us_m35a2_awning_ammo_carrier_2;M35
-wheeled_vehicles/us_m35a2_awning_0;M35A2
-wheeled_vehicles/us_m35a2_awning_1;M35A2
-wheeled_vehicles/us_m35a2_awning_2;M35
-wheeled_vehicles/us_m35a2_fuel_carrier_0;M35A2
-wheeled_vehicles/us_m35a2_fuel_carrier_1;M35A2
-wheeled_vehicles/us_m35a2_fuel_carrier_2;M35
+
 wheeled_vehicles/ussr_kamaz_4310_awning_0;КамАЗ-4310
 wheeled_vehicles/ussr_kamaz_4310_awning_1;КамАЗ-4310
 wheeled_vehicles/ussr_kamaz_4310_awning_2;КамАЗ-4310
 wheeled_vehicles/ussr_kamaz_4310_fuel_carrier_0;Автоцистерна АЦ-7-4310
 wheeled_vehicles/ussr_kamaz_4310_fuel_carrier_1;АЦ-7-4310
 wheeled_vehicles/ussr_kamaz_4310_fuel_carrier_2;АЦ-7-4310
-wheeled_vehicles/us_m939_awning_0;Truck, Cargo, 5-ton 6x6, M924
-wheeled_vehicles/us_m939_awning_1;M924
-wheeled_vehicles/us_m939_awning_2;M924
-wheeled_vehicles/us_m939_fuel_carrier_0;Truck, Tractor, 5-ton, 6x6, M931 (Semitrailer, Tank, 12-ton, Fuel Dispensing, 5,000 Gal., Under/Over Wing Aircraft, M970)
-wheeled_vehicles/us_m939_fuel_carrier_1;M931 (M970)
-wheeled_vehicles/us_m939_fuel_carrier_2;M931
+
 wheeled_vehicles/ussr_zis5_med_0;ЗиС-5 Скорая
 wheeled_vehicles/ussr_zis5_med_1;ЗиС-5
 wheeled_vehicles/ussr_zis5_med_2;ЗиС-5
@@ -145,9 +139,43 @@ wheeled_vehicles/ussr_zis5_2;ЗиС-5
 wheeled_vehicles/ussr_zis5_cargo_0;ЗиС-5
 wheeled_vehicles/ussr_zis5_cargo_1;ЗиС-5
 wheeled_vehicles/ussr_zis5_cargo_2;ЗиС-5
+
+// UK //
+wheeled_vehicles/uk_daimler_mk1_0;Daimler I
+wheeled_vehicles/uk_daimler_mk1_1;Daimler I
+wheeled_vehicles/uk_daimler_mk1_2;Daimler
+wheeled_vehicles/uk_ford_fat2_0;C8 FAT
+wheeled_vehicles/uk_ford_fat2_1;C8 FAT
+wheeled_vehicles/uk_ford_fat2_2;C8
+
+wheeled_vehicles/uk_t17e1_0;Staghound I
+wheeled_vehicles/uk_t17e1_1;Staghound I
+wheeled_vehicles/uk_t17e1_2;Staghound
+wheeled_vehicles/uk_universal_carrier_mkI_0;Universal Carrier I
+wheeled_vehicles/uk_universal_carrier_mkI_1;Universal Carrier I
+wheeled_vehicles/uk_universal_carrier_mkI_2;Universal Carrier
+
+
 TribalDestroyer_0;Eskimo (F 75)
 TribalDestroyer_1;Eskimo
 TribalDestroyer_2;Tribal-Class
+
+// JAPAN //
+
+wheeled_vehicles/jpn_halftrack_ho_ha_0;ホハ
+wheeled_vehicles/jpn_halftrack_ho_ha_1;ホハ
+wheeled_vehicles/jpn_halftrack_ho_ha_2;ホハ
+wheeled_vehicles/jpn_scout_car_kurogane_0;くろがね九五式
+wheeled_vehicles/jpn_scout_car_kurogane_1;くろがね九五式
+wheeled_vehicles/jpn_scout_car_kurogane_2;九五式
+wheeled_vehicles/jpn_truck_0;九四式六輪自動貨車
+wheeled_vehicles/jpn_truck_1;九四式六輪自動貨車
+wheeled_vehicles/jpn_truck_2;九四式
+
+// ITALY //
+
+// STRUCTURES //
+
 structures/berlin_bridge_01_0;Bridge
 structures/berlin_bridge_01_1;Bridge
 structures/berlin_bridge_01_2;Bridge

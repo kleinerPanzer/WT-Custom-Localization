@@ -29,13 +29,17 @@ uk_saint_chamond_0;Char d'assaut Saint Chamond modèle 1918
 uk_saint_chamond_1;St Chamond mle 1918
 uk_saint_chamond_2;St Chamond
 
+uk_machinegun_hotchkiss_mle_1914_0;Hotchkiss mle. 14
+uk_machinegun_hotchkiss_mle_1914_1;Hotchkiss mle. 14
+uk_machinegun_hotchkiss_mle_1914_2;Hotchkiss mle. 14
+
 // WWII //
 
 // INFANTRY //
 
 fr_lorraine_37l_shop;TRC 37 L (47 mle 1937)
 fr_lorraine_37l_0;"Tracteur de ravitaillement pour chars modèle 1937 L
-canon de 47 mm modèle 1937"
+<color=#C0C0C0>avec canon de 47 mm modèle 1937</color>"
 fr_lorraine_37l_1;TRC 37 L (47 mle 1937)
 fr_lorraine_37l_2;TRC 37 L
 
@@ -51,7 +55,7 @@ fr_somua_s35_2;S 35
 
 fr_renault_r39_shop;R 35 (37 SA mle 1938)
 fr_renault_r39_0;"Char léger modèle 1935 R
-canon de 37 mm SA modèle 1938"
+<color=#C0C0C0>avec canon de 37 mm SA mle 1938</color>"
 fr_renault_r39_1;R 35 (37 SA mle 1938)
 fr_renault_r39_2;R 35
 
@@ -63,9 +67,9 @@ fr_hotchkiss_h39_shop;H 35 M 39
 fr_hotchkiss_h39_0;Char léger modèle 1935 H modifié 39
 fr_hotchkiss_h39_1;H 35 M 39
 fr_hotchkiss_h39_2;H 35
-fr_hotchkiss_h39_cambronne_shop;H 35 M 39 (14ème BCC)
+fr_hotchkiss_h39_cambronne_shop;H 35 M 39
 fr_hotchkiss_h39_cambronne_0;"Char léger modèle 1935 H modifié 39
-14ème bataillon de chars de combat"
+<color=#E3D452>14ème bataillon de chars de combat</color>"
 fr_hotchkiss_h39_cambronne_1;H 35 M 39
 fr_hotchkiss_h39_cambronne_2;H 35
 
@@ -101,28 +105,29 @@ fr_b1_ter_2;B1
 // CAVALRY //
 fr_amc_34_shop;AMC 34 (APX 1)
 fr_amc_34_0;"Automitrailleuse de combat modèle 1934
-tourelle APX 1"
+<color=#C0C0C0>avec tourelle APX 1</color>"
 fr_amc_34_1;AMC 34 (APX 1)
 fr_amc_34_2;AMC 34
 
 fr_amc_35_shop;AMC 35
 fr_amc_35_0;"Automitrailleuse de combat modèle 1935
-canon de 47 mm SA mle 1935"
+<color=#C0C0C0>avec canon de 47 mm SA mle 1935</color>"
 fr_amc_35_1;AMC 35
 fr_amc_35_2;AMC 35
 
 fr_amd_35_shop;AMD 35
-fr_amd_35_0;Automitrailleuse de découverte modèle 1935
+fr_amd_35_0;"Automitrailleuse de découverte modèle 1935
+<color=#C0C0C0>late 2nd series production</color>"
 fr_amd_35_1;AMD 35
 fr_amd_35_2;AMD 35
 fr_amd_35_sa35_shop;AMD 35 (47 SA mle 1935)
-fr_amd_35_sa35_0;"Automitrailleuse de Découverte modèle 1935
-tourelle Renault de 47 mm SA modèle 1935"
+fr_amd_35_sa35_0;"Automitrailleuse de découverte modèle 1935
+<color=#C0C0C0>avec tourelle Renault avec canon de 47 mm SA mle 1935</color>"
 fr_amd_35_sa35_1;AMD 35 (47 SA mle 1935)
 fr_amd_35_sa35_2;AMD 35
 fr_amd_35_kwk39_shop;AMD 35 (5 cm Kw.K. 39/1)
 fr_amd_35_kwk39_0;"Automitrailleuse de découverte modèle 1935
-5 cm Kampfwagenkanone 39/1 (L/60)"
+<color=#C0C0C0>avec 5 cm Kw.K. 39/1 (L/60)</color>"
 fr_amd_35_kwk39_1;AMD 35 (5 cm Kw.K. 39/1)
 fr_amd_35_kwk39_2;AMD 35
 
@@ -135,48 +140,51 @@ fr_amr_35_zt3_2;AMR 35
 
 fr_citroen_kegresse_p4t_shop;P7T (CAQ mle 29 13,2)
 fr_citroen_kegresse_p4t_0;"P7T
-affût contre-avions quadruple modèle 1929 de 13,2 mm"
+<color=#C0C0C0>avec affût contre-avions quadruple mle 1929 de 13,2 mm</color>"
 fr_citroen_kegresse_p4t_1;P7T (CAQ mle 29 13,2)
 fr_citroen_kegresse_p4t_2;P7T
 
 // AMERICAN //
 
-fr_m3a3_stuart_shop;⚜ M3A3
-fr_m3a3_stuart_0;"Char léger M3A3 Stuart
-Janviér 1943"
-fr_m3a3_stuart_1;⚜ M3A3
+fr_m3a3_stuart_shop;⚜ Stuart V
+fr_m3a3_stuart_0;"Tank, Light, Stuart, Mk. V
+<color=#C0C0C0>Jan 1943 production</color>"
+fr_m3a3_stuart_1;⚜ Stuart V
 fr_m3a3_stuart_2;M3
 
-fr_m4a1_sherman_shop;⚜ M4A1 (75)
+fr_m4a1_sherman_shop;⚜ M4A1
 fr_m4a1_sherman_0;"Char moyen M4A1 Sherman
-PSC, Août 1942"
-fr_m4a1_sherman_1;⚜ M4A1 (75)
+<color=#C0C0C0>Aug 1942 PSC production</color>"
+fr_m4a1_sherman_1;⚜ M4A1
 fr_m4a1_sherman_2;M4
 
 fr_m4a1_sherman_fl_10_shop;⚜ M4A1 (FL 10)
 fr_m4a1_sherman_fl_10_0;"Char moyen M4A1 Sherman
-PSC, tourelle FL 10 type D"
+<color=#C0C0C0>Jul 1944 PSC production</color>
+<color=#C0C0C0>avec tourelle FL 10 type D</color>"
 fr_m4a1_sherman_fl_10_1;⚜ M4A1 (FL 10)
 fr_m4a1_sherman_fl_10_2;M4
 
 fr_m4a3_105_sherman_shop;⚜ M4A3 (105)
-fr_m4a3_105_sherman_0;Char moyen M4A3 (105) Sherman
+fr_m4a3_105_sherman_0;"Char moyen M4A3 (105) Sherman
+<color=#C0C0C0>Sep 1944 Chrysler production, with HVSS</color>"
 fr_m4a3_105_sherman_1;⚜ M4A3 (105)
 fr_m4a3_105_sherman_2;M4
 fr_m4a3e2_sherman_jumbo_shop;⚜ M4A3E2 (75) W
-fr_m4a3e2_sherman_jumbo_0;"Char moyen M4A3E2 (75) W Sherman (Assaut)
-Fisher, Mai 1944"
+fr_m4a3e2_sherman_jumbo_0;"Char d'assaut M4A3E2 (75) W Sherman
+<color=#C0C0C0>May 1944 production, with Union Steel turret</color>"
 fr_m4a3e2_sherman_jumbo_1;⚜ M4A3E2 (75) W
 fr_m4a3e2_sherman_jumbo_2;M4
 
 fr_m4a4_sherman_shop;⚜ M4A4 (75)
 fr_m4a4_sherman_0;"Char moyen M4A4 Sherman
-Chrysler, Mai 1943"
+<color=#C0C0C0>May 1943 production</color>"
 fr_m4a4_sherman_1;⚜ M4A4 (75)
 fr_m4a4_sherman_2;M4
 fr_m4a4_cn_75_50_shop;⚜ M4A4T (75 SA 50)
 fr_m4a4_cn_75_50_0;"Char moyen M4A4T
-canon de 75 mm SA modèle 50"
+<color=#C0C0C0>May 1943 production</color>
+<color=#C0C0C0>avec canon de 75 mm SA mle 50</color>"
 fr_m4a4_cn_75_50_1;⚜ M4A4T (75 SA 50)
 fr_m4a4_cn_75_50_2;M4
 
@@ -196,19 +204,20 @@ fr_m10_1;⚜ M10
 fr_m10_2;M10
 
 fr_m36b2_cefeo_shop;⚜ M36B2
-fr_m36b2_cefeo_0;Affût automoteur pour canon de 90 mm M36B2
+fr_m36b2_cefeo_0;"Affût automoteur pour canon de 90 mm M36B2
+<color=#C0C0C0>1951 modifications</color>"
 fr_m36b2_cefeo_1;⚜ M36B2
 fr_m36b2_cefeo_2;M36
 
 fr_lvt_bofors_shop;⚜ LVT(4) (M1)
 fr_lvt_bofors_0;"Véhicule de débarquement à chenilles Mk. 4 LVT(4)
-canon automatique de 40 mm M1"
+<color=#C0C0C0>avec canon automatique de 40 mm M1</color>"
 fr_lvt_bofors_1;⚜ LVT(4) (M1)
 fr_lvt_bofors_2;LVT
 
 fr_cckw_353_bofors_shop;⚜ CCKW-353 (M1)
 fr_cckw_353_bofors_0;"Camion de 2,5 tonnes 6 x 6 GMC, CCKW-353
-canon automatique de 40 mm M1"
+<color=#C0C0C0>avec canon automatique de 40 mm M1</color>"
 fr_cckw_353_bofors_1;⚜ CCKW-353 (M1)
 fr_cckw_353_bofors_2;CCKW 353
 
@@ -226,47 +235,51 @@ fr_amx_elc_bis_2;ELC
 
 fr_amx_13_fl_11_shop;AMX 13t–75 (FL 11)
 fr_amx_13_fl_11_0;"Char AMX de 13t–75
-châssis type 2A, tourelle FL 11"
+<color=#C0C0C0>châssis type 2A</color>
+<color=#C0C0C0>avec tourelle FL 11</color>"
 fr_amx_13_fl_11_1;AMX 13t–75 (FL 11)
 fr_amx_13_fl_11_2;AMX 13t
 
 fr_amx_13_75_shop;AMX 13t–75 mle 51
 fr_amx_13_75_0;"Char AMX de 13t–75 modèle 51
-châssis type 2D, tourelle F.L. 10 type D"
+<color=#C0C0C0>châssis type 2D</color>
+<color=#C0C0C0>avec tourelle FL 10 type D</color>"
 fr_amx_13_75_1;AMX 13t–75 mle 51
 fr_amx_13_75_2;AMX 13t
 us_amx_13_75_shop;▃ AMX 13t–75 mle 51
 us_amx_13_75_0;"Char AMX de 13t–75 modèle 51
-châssis type 2D, tourelle F.L. 10 type D"
+<color=#C0C0C0>châssis type 2D</color>
+<color=#C0C0C0>avec tourelle FL 10 type D</color>"
 us_amx_13_75_1;▃ AMX 13t–75 mle 51
 us_amx_13_75_2;AMX 13t
 
 fr_amx_13_chaffee_shop;AMX 13t–75 (M24)
 fr_amx_13_chaffee_0;"Char à tourelle M24 sur châssis AMX de 13t–75 modèle 1951
-châssis type 1R"
+<color=#C0C0C0>châssis type 1R</color>"
 fr_amx_13_chaffee_1;AMX 13t–75 (M24)
 fr_amx_13_chaffee_2;AMX 13t
 
 fr_amx_13_90_shop;AMX 13t–90
 fr_amx_13_90_0;"Char AMX de 13t–90
-châssis type 1R 2R"
+<color=#C0C0C0>châssis type 1R 2R</color>"
 fr_amx_13_90_1;AMX 13t–90
 fr_amx_13_90_2;AMX 13t
 us_amx_13_90_shop;▃ AMX 13t–90
 us_amx_13_90_0;"Char AMX de 13t–90
-châssis type 1R 2R"
+<color=#C0C0C0>châssis type 1R 2R</color>"
 us_amx_13_90_1;▃ AMX 13t–90
 us_amx_13_90_2;AMX 13t
 
 fr_amx_13_75_ss11_shop;AMX 13t–75 mle 51 (SS 11)
-fr_amx_13_75_ss11_0;"Char AMX de 13t–75 modèle 51
-châssis type 2D, tourelle F.L. 10 type D, lance SS 11"
+fr_amx_13_75_ss11_0;"Char AMX de 13t–75 modèle 51 (lance SS 11)
+<color=#C0C0C0>châssis type 2D</color>
+<color=#C0C0C0>avec tourelle FL 10 type D</color>"
 fr_amx_13_75_ss11_1;AMX 13t–75 mle 51 (SS 11)
 fr_amx_13_75_ss11_2;AMX 13t
 
 fr_amx_13_hot_shop;AMX 13t–75 mle 51 (HOT)
-fr_amx_13_hot_0;"Char AMX de 13t–75 modèle 51
-châssis type 1R, tourelle F.L. 10 type D, lance HOT"
+fr_amx_13_hot_0;"Char AMX de 13t–75 modèle 51 (lance HOT)
+<color=#C0C0C0>châssis type 1R</color>"
 fr_amx_13_hot_1;AMX 13t–75 mle 51 (HOT)
 fr_amx_13_hot_2;AMX 13t
 
@@ -282,7 +295,7 @@ fr_panhard_ebr_1951_2;EBR
 
 fr_panhard_ebr_1954_shop;EBR 75 type 55-10
 fr_panhard_ebr_1954_0;"Engin blindé de reconnaissance E.B.R. 75 modèle 1955-10
-tourelle FL 10 type D"
+<color=#C0C0C0>avec tourelle FL 10 type D</color>"
 fr_panhard_ebr_1954_1;EBR 75 type 55-10
 fr_panhard_ebr_1954_2;EBR
 
@@ -293,7 +306,7 @@ fr_panhard_ebr_1963_2;EBR
 
 fr_amx_10rc_shop;AMX 10 RC
 fr_amx_10rc_0;"Engin blindé léger version roues-canon AMX 10 RC
-DIVT-16"
+<color=#C0C0C0>1988 modifications</color>"
 fr_amx_10rc_1;AMX 10 RC
 fr_amx_10rc_2;AMX 10
 
@@ -327,42 +340,51 @@ fr_msc_shop;MSC
 fr_msc_0;Mulet systéme complet
 fr_msc_1;MSC
 fr_msc_2;MSC
-fr_leclerc_s1_shop;Leclerc S1 T3
-fr_leclerc_s1_0;Char Leclerc série 1 tranche 3
+fr_leclerc_s1_shop;Leclerc S1 RT3
+fr_leclerc_s1_0;"Char Leclerc
+<color=#C0C0C0>série 1 reconversion tranche 5</color>"
 fr_leclerc_s1_1;Leclerc S1
 fr_leclerc_s1_2;Leclerc
 fr_leclerc_s2_shop;Leclerc S2 T9
-fr_leclerc_s2_0;Char Leclerc série 2 tranche 9
+fr_leclerc_s2_0;"Char Leclerc
+<color=#C0C0C0>série 2 tranche 9</color>"
 fr_leclerc_s2_1;Leclerc S2
 fr_leclerc_s2_2;Leclerc
 fr_leclerc_sxxi_shop;Leclerc S21 T11
-fr_leclerc_sxxi_0;Char Leclerc série 21 tranche 11
+fr_leclerc_sxxi_0;"Char Leclerc
+<color=#C0C0C0>série 21 tranche 11</color>"
 fr_leclerc_sxxi_1;Leclerc S21
 fr_leclerc_sxxi_2;Leclerc
 
 fr_amx_30_shop;AMX 30 (T 105-12)
 fr_amx_30_0;"Char moyen de combat AMX 30
-tourelle T 105-12"
+<color=#C0C0C0>avec tourelle T 105-12</color>
+<color=#C0C0C0>char du chef de peloton</color>"
 fr_amx_30_1;AMX 30
 fr_amx_30_2;AMX 30
 fr_amx_30_1972_shop;AMX 30 (T 105-20)
 fr_amx_30_1972_0;"Char moyen de combat AMX 30
-tourelle T 105-20"
+<color=#C0C0C0>avec tourelle T 105-20</color>
+<color=#C0C0C0>char du chef de peloton</color>"
 fr_amx_30_1972_1;AMX 30
 fr_amx_30_1972_2;AMX 30
 fr_amx_30_b2_shop;AMX 30 B2
 fr_amx_30_b2_0;"Char moyen de combat AMX 30 B2
-DIVT-16"
+<color=#C0C0C0>Conversion from AMX 30</color>
+<color=#C0C0C0>char du chef de peloton</color>"
 fr_amx_30_b2_1;AMX 30 B2
 fr_amx_30_b2_2;AMX 30
 fr_amx_30_b2_brenus_shop;AMX 30 B2 Brenus
 fr_amx_30_b2_brenus_0;"Char moyen de combat AMX 30 B2 Brenus
-1996"
+<color=#C0C0C0>avec moteur Renault VI Mack E9,</color>
+<color=#C0C0C0>DIVT 16 CASTOR,</color>
+<color=#C0C0C0>et leurre infrarouge EIREL</color>"
 fr_amx_30_b2_brenus_1;AMX 30 B2 Brenus
 fr_amx_30_b2_brenus_2;AMX 30
 fr_amx_30_ACRA_shop;AMX 30 (T 142)
 fr_amx_30_ACRA_0;"Char moyen de combat AMX 30
-tourelle prototype T 142"
+<color=#C0C0C0>avec tourelle T 142</color>
+<color=#C0C0C0>what-if production model</color>"
 fr_amx_30_ACRA_1;AMX 30 (T 142)
 fr_amx_30_ACRA_2;AMX 30
 
@@ -377,18 +399,18 @@ fr_somua_sm_1;SM
 fr_somua_sm_2;SM
 
 fr_amx_m4_shop;Char 50t (TO 90)
-fr_amx_m4_0;"Char moyen de 50 tonnes AMX
-prototype I, tourelle oscillante de 90"
+fr_amx_m4_0;"Char moyen de 50 tonnes AMX prototype I
+<color=#C0C0C0>avec tourelle oscillante de 90</color>"
 fr_amx_m4_1;Char 50t (TO 90)
 fr_amx_m4_2;Char 50t
 fr_amx_50_1950_shop;Char 50t (TO 90/930)
 fr_amx_50_1950_0;"Char moyen de 50 tonnes AMX
-tourelle oscillant de 90/v° 930"
+<color=#C0C0C0>avec tourelle oscillant de 90/v° 930</color>"
 fr_amx_50_1950_1;Char 50t (TO 90/930)
 fr_amx_50_1950_2;Char 50t
 fr_amx_50_shop;Char 50t (TOA 100)
 fr_amx_50_0;"Char moyen de 50 tonnes AMX
-tourelle oscillante allégée de 100"
+<color=#C0C0C0>avec tourelle oscillante allégée de 100</color>"
 fr_amx_50_1;Char 50t (TOA 100)
 fr_amx_50_2;Char 50t
 fr_amx_50_surblinde_shop;Char 70t
@@ -397,7 +419,7 @@ fr_amx_50_surblinde_1;Char 70t
 fr_amx_50_surblinde_2;Char 70t
 fr_amx_50_surbaisse_shop;Char 50t surbaissé
 fr_amx_50_surbaisse_0;"Char moyen de 50 tonnes AMX surbaissé
-tourelle oscillant basse de 120"
+<color=#C0C0C0>avec tourelle oscillant basse de 120</color>"
 fr_amx_50_surbaisse_1;Char 50t surbaissé
 fr_amx_50_surbaisse_2;Char 50t
 fr_amx_50_foch_shop;Auto-canon de 120
@@ -416,19 +438,19 @@ fr_lorraine_100_1;Canon d'assaut de 100
 fr_lorraine_100_2;Canon d'assaut de 100
 fr_lorraine_40t_shop;Char 40t
 fr_lorraine_40t_0;"Char de 40 tonnes Lorraine
-tourelle oscillante allégée de 100"
+<color=#C0C0C0>avec tourelle oscillante allégée de 100</color>"
 fr_lorraine_40t_1;Char 40t
 fr_lorraine_40t_2;Char 40t
 
 fr_amx_vtt_dca_shop;VTT mle 56 (M45)
 fr_amx_vtt_dca_0;"Vehicule transport de troupe chenille modèle 1956
-affût tourelle M45 à quatre mitrailleuses 12,7 mm"
+<color=#C0C0C0>avec affût tourelle M45 à quatre mitrailleuses 12,7 mm</color>"
 fr_amx_vtt_dca_1;VTT mle 56 (M45)
 fr_amx_vtt_dca_2;VTT
 
 fr_arl_44_acl1_shop;ARL 44 (ACL 1)
 fr_arl_44_acl1_0;"Char de transition ARL 44
-tourelle ACL 1"
+<color=#C0C0C0>avec tourelle ACL 1</color>"
 fr_arl_44_acl1_1;ARL 44 (ACL 1)
 fr_arl_44_acl1_2;ARl 44
 fr_arl_44_shop;ARL 44
@@ -445,16 +467,16 @@ fr_bat_chat_25t_0;Char de 25 tonnes Batignolles-Châtillon
 fr_bat_chat_25t_1;Char 25t
 fr_bat_chat_25t_2;Char 25t
 
-fr_samp_t_launcher_shop;Mamba SAMP/T (MLT)
-fr_samp_t_launcher_0;"Mamba Sol-Air Moyenne-Portée/Terrestre
-Module de lancement terrestre"
-fr_samp_t_launcher_1;Mamba SAMP/T (MLT)
-fr_samp_t_launcher_2;SAMP/T
-fr_samp_t_fcs_shop;Mamba SAMP/T (MRI)
-fr_samp_t_fcs_0;"Mamba Sol-Air Moyenne-Portée/Terrestre
-Module radar et IFF"
-fr_samp_t_fcs_1;Mamba SAMP/T (MRI)
-fr_samp_t_fcs_2;SAMP/T
+fr_samp_t_launcher_shop;Mamba SAMP (MLT)
+fr_samp_t_launcher_0;"Mamba SAMP
+<color=#C0C0C0>Module de lancement terrestre</color>"
+fr_samp_t_launcher_1;Mamba SAMP (MLT)
+fr_samp_t_launcher_2;SAMP
+fr_samp_t_fcs_shop;Mamba SAMP (MRI)
+fr_samp_t_fcs_0;"Mamba SAMP
+<color=#C0C0C0>Module radar et IFF</color>"
+fr_samp_t_fcs_1;Mamba SAMP (MRI)
+fr_samp_t_fcs_2;SAMP
 
 fr_jaguar_ebrc_shop;Jaguar
 fr_jaguar_ebrc_0;Engin blindé de reconnaissance et de combat Jaguar
@@ -468,14 +490,14 @@ fr_aml_90_2;AML
 
 // OTHER //
 
-fr_crusader_mk_2_shop;⚜ Crusader Mk. II
+fr_crusader_mk_2_shop;⚜ Crusader II
 fr_crusader_mk_2_0;Char Crusader Mk. II
-fr_crusader_mk_2_1;⚜ Crusader Mk. II
+fr_crusader_mk_2_1;⚜ Crusader II
 fr_crusader_mk_2_2;Crusader
 
-fr_pzkpfw_V_panther_dauphine_shop;Panther (EAC Besnier)
+fr_pzkpfw_V_panther_dauphine_shop;Panther
 fr_pzkpfw_V_panther_dauphine_0;"Char Panther
-Escadron autonome de chars Besnier"
+<color=#E3D452>Escadron Autonome de Chars Besnier</color>"
 fr_pzkpfw_V_panther_dauphine_1;Panther
 fr_pzkpfw_V_panther_dauphine_2;Panther
 
@@ -517,11 +539,11 @@ tiger_hap_france_1;Tigre HAP
 tiger_hap_france_2;Tigre
 tiger_had_france_shop;Tigre HAD/F B1
 tiger_had_france_0;"Tigre Hélicoptère d'Appui Destruction
-Bloc 1"
+<color=#C0C0C0>bloc 1</color>"
 tiger_had_france_1;Tigre HAD
 tiger_had_france_2;Tigre
 tiger_had_block2_france_shop;Tigre HAD/E B2
 tiger_had_block2_france_0;"Tigre Hélicoptère d'Appui Destruction
-Bloc 2"
+<color=#C0C0C0>bloc 2</color>"
 tiger_had_block2_france_1;Tigre HAD
 tiger_had_block2_france_2;Tigre

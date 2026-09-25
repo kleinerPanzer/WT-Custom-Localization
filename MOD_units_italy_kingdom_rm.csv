@@ -2,166 +2,197 @@
 
 // MOTOSILURANTI //
 it_ms15_1a_shop;MS 15
-it_ms15_1a_0;Motosilurante classe MS 11, C.R.D.A. 60t 1ª serie, MS 15
+it_ms15_1a_0;"<color=#C0C0C0>Motosilurante classe MS 11, C.R.D.A. 60t 1ª serie</color>
+MS 15"
 it_ms15_1a_1;MS 15
 it_ms15_1a_2;Classe MS 11
 
 it_ms53_2a_shop;MS 53
-it_ms53_2a_0;Motosilurante classe MS 51, C.R.D.A. 60t 2ª serie, MS 53
+it_ms53_2a_0;"<color=#C0C0C0>Motosilurante classe MS 51, C.R.D.A. 60t 2ª serie</color>
+MS 53"
 it_ms53_2a_1;MS 53
 it_ms53_2a_2;Classe MS 51
 it_ms74_2a_shop;MS 74
-it_ms74_2a_0;Motosilurante classe MS 51, C.R.D.A. 60t 2ª serie, MS 74
+it_ms74_2a_0;"<color=#C0C0C0>Motosilurante classe MS 51, C.R.D.A. 60t 2ª serie</color>
+MS 74"
 it_ms74_2a_1;MS 74
 it_ms74_2a_2;Classe MS 51
 
 it_ms473_2a_shop;MS 472
-it_ms473_2a_0;Motosilurante classe MS 472, C.R.D.A 60t 1ª & 2ª serie, MS 472
+it_ms473_2a_0;"<color=#C0C0C0>Motosilurante classe MS 472, C.R.D.A. 60t 1ª serie</color>
+MS 472"
 it_ms473_2a_1;MS 472
 it_ms473_2a_2;Classe MS 472
-it_ms473_2a_art_shop;MS 473
-it_ms473_2a_art_0;Motosilurante classe MS 472, C.R.D.A. 60t 1ª & 2ª serie, MS 473
-it_ms473_2a_art_1;MS 473
+it_ms473_2a_art_shop;MV 473
+it_ms473_2a_art_0;"<color=#C0C0C0>Motosilurante classe MS 472, C.R.D.A. 60t 1ª serie</color>
+MV 473"
+it_ms473_2a_art_1;MV 473
 it_ms473_2a_art_2;Classe MS 472
 
 // MOTOSCAFI //
 it_mas_classe429_shop;MAS 429
-it_mas_classe429_0;Motoscafo antisommergibile classe MAS 427, S.V.A.N. autocannoniera, MAS 429
+it_mas_classe429_0;"<color=#C0C0C0>Motoscafo antisommergibile classe MAS 427, S.V.A.N. autocannoniera</color>
+MAS 429"
 it_mas_classe429_1;MAS 429
 it_mas_classe429_2;Classe MAS 427
 
 it_mas441_shop;MAS 441
-it_mas441_0;"Motoscafo antisommergibile classe MAS 438, Baglietto tipo 1934 antisom, MAS 441
-1942"
+it_mas441_0;"<color=#C0C0C0>Motoscafo antisommergibile classe MAS 438, Baglietto 1934 antisommergibile</color>
+MAS 441
+<color=#C0C0C0>1942 refit</color>"
 it_mas441_1;MAS 441
 it_mas441_2;Classe MAS 438
 
 it_mas_classe500_3_1944_shop;MAS 561
-it_mas_classe500_3_1944_0;Motoscafo armato silurante classe 500 3ª serie (Classe MAS 551), MAS 561
+it_mas_classe500_3_1944_0;"<color=#C0C0C0>Motoscafo antisommergibile tipo velocissimo classe 500 3ª serie, Classe MAS 551</color>
+MAS 561
+<color=#C0C0C0>1944 refit</color>"
 it_mas_classe500_3_1944_1;MAS 561
-it_mas_classe500_3_1944_2;Classe 500
+it_mas_classe500_3_1944_2;Classe MAS 551
 it_mas_classe500_4_shop;MAS 569
-it_mas_classe500_4_0;Motoscafo armato silurante classe 500 4ª serie (Classe MAS 566), MAS 569
+it_mas_classe500_4_0;"<color=#C0C0C0>Motoscafo antisommergibile tipo velocissimo classe 500 4ª serie, Classe MAS 566</color>
+MAS 569"
 it_mas_classe500_4_1;MAS 569
-it_mas_classe500_4_2;Classe 500
+it_mas_classe500_4_2;Classe MAS 566
 
-it_mas_classe500_3_shop;MAS 551
-it_mas_classe500_3_0;Motoscafo antisommergibile tipo sperimentale MAS 551, MAS 551
-it_mas_classe500_3_1;MAS 551
-it_mas_classe500_3_2;MAS tipo MAS 551
+it_mas_classe500_3_shop;MAS 555
+it_mas_classe500_3_0;"<color=#C0C0C0>Motoscafo antisommergibile tipo velocissimo classe 500 3ª serie, Classe MAS 551</color>
+MAS 555"
+it_mas_classe500_3_1;MAS 555
+it_mas_classe500_3_2;Classe MAS 551
 
 // MOTOTORPEDINIERI //
 
 it_mas_stefano_turr_shop;Stefano Türr
-it_mas_stefano_turr_0;Mototorpediniera Stefano Türr
+it_mas_stefano_turr_0;"<color=#C0C0C0>Mototorpediniera tipo sperimentale Diesel</color>
+Stefano Türr"
 it_mas_stefano_turr_1;Stefano Türr
 it_mas_stefano_turr_2;Stefano Türr
 
 // VEDETTA ANTISOMMERGIBILI //
 it_vas_baglietto_68t_1serie_shop;VAS 201
-it_vas_baglietto_68t_1serie_0;Vedetta antisommergibile classe VAS 201, Baglietto 68t 1ª serie, VAS 201
+it_vas_baglietto_68t_1serie_0;"<color=#C0C0C0>Vedetta antisommergibile classe VAS 201, Baglietto 68t 1ª Serie</color>
+VAS 201"
 it_vas_baglietto_68t_1serie_1;VAS 201
 it_vas_baglietto_68t_1serie_2;Classe VAS 201
 
 // CASSIOPEA //
 it_cassiopea_p401_shop;Cassiopea (P 401)
-it_cassiopea_p401_0;Pattugliatori Classe Cassiopea, Cassiopea (P 401) 
+it_cassiopea_p401_0;"<color=#C0C0C0>Pattugliatori classe Cassiopea</color>
+Cassiopea (P 401)"
 it_cassiopea_p401_1;Cassiopea
 it_cassiopea_p401_2;Classe Cassiopea
 
 // CORVETTA //
 it_gabbiano_class_shop;Gabbiano (C 11)
-it_gabbiano_class_0;"Corvetta cacciasommergibili classe Gabbiano, Gabbiano (C 11)
-1946"
+it_gabbiano_class_0;"<color=#C0C0C0>Corvetta cacciasommergibili classe Gabbiano</color>
+Gabbiano (GB)
+<color=#C0C0C0>1946 refit</color>"
 it_gabbiano_class_1;Gabbiano
 it_gabbiano_class_2;Classe Gabbiano
 
 // AVVISO //
 it_ciclone_class_ghibli_shop;Ghibli
-it_ciclone_class_ghibli_0;Avviso scorta classe Orsa 2ª serie, Ghibli
+it_ciclone_class_ghibli_0;"<color=#C0C0C0>Avviso scorta classe Orsa 2ª serie</color>
+Ghibli"
 it_ciclone_class_ghibli_1;Ghibli
 it_ciclone_class_ghibli_2;Classe Orsa
 
 // ESPLORATORE //
 it_destroyer_leone_class_shop;Leone (LE)
-it_destroyer_leone_class_0;"Esploratore leggero classe Leone, Leone (LE)
-1938"
+it_destroyer_leone_class_0;"<color=#C0C0C0>Esploratore leggero classe Leone</color>
+Leone (LE)
+<color=#C0C0C0>1938 refit</color>"
 it_destroyer_leone_class_1;Leone
 it_destroyer_leone_class_2;Classe Leone
 it_destroyer_leone_class_tigre_shop;Tigre (TI)
-it_destroyer_leone_class_tigre_0;"Esploratore leggero classe Leone, Tigre (TI)
-1931"
+it_destroyer_leone_class_tigre_0;"<color=#C0C0C0>Esploratore leggero classe Leone</color>
+Tigre (TI)
+<color=#C0C0C0>1931 refit</color>"
 it_destroyer_leone_class_tigre_1;Tigre
 it_destroyer_leone_class_tigre_2;Classe Leone
 it_destroyer_navigatori_class_verazzano_shop;Giovanni da Verazzano (DV)
-it_destroyer_navigatori_class_verazzano_0;"Esploratore leggero classe Navigatori, Giovanni da Verazzano (DV)
-1940"
+it_destroyer_navigatori_class_verazzano_0;"<color=#C0C0C0>Esploratore leggero classe Navigatori</color>
+Giovanni di Verazzano (DV)
+<color=#C0C0C0>1940 refit</color>"
 it_destroyer_navigatori_class_verazzano_1;Giovanni da Verazzano
 it_destroyer_navigatori_class_verazzano_2;Classe Navigatori
 it_destroyer_vifor_class_aquila_shop;Aquila (AQ)
-it_destroyer_vifor_class_aquila_0;"Esploratore leggero classe Aquila, Aquila (AQ)
-1917"
+it_destroyer_vifor_class_aquila_0;"<color=#C0C0C0>Esploratore leggero classe Aquila</color>
+Aquila (AQ)
+<color=#C0C0C0>1917 refit</color>"
 it_destroyer_vifor_class_aquila_1;Aquila
 it_destroyer_vifor_class_aquila_2;Classe Vifor
 
 // CACCIATORPEDINIERE //
 
 it_destroyer_soldati_serie1_shop;Aviere (AV)
-it_destroyer_soldati_serie1_0;"Cacciatorpediniere classe Soldati 1ª serie, Aviere (AV)
-1942"
+it_destroyer_soldati_serie1_0;"<color=#C0C0C0>Cacciatorpediniere classe Soldati 1ª serie</color>
+Aviere (AV)
+<color=#C0C0C0>1942 refit</color>"
 it_destroyer_soldati_serie1_1;Aviere
 it_destroyer_soldati_serie1_2;Classe Soldati
 it_destroyer_soldati_serie1_geniere_shop;Geniere (GE)
-it_destroyer_soldati_serie1_geniere_0;"Cacciatorpediniere classe Soldati 1ª serie, Geniere (GE)
-1942"
+it_destroyer_soldati_serie1_geniere_0;"<color=#C0C0C0>Cacciatorpediniere classe Soldati 1ª serie</color>
+Geniere (GE)
+<color=#C0C0C0>1942 refit</color>"
 it_destroyer_soldati_serie1_geniere_1;Geniere
 it_destroyer_soldati_serie1_geniere_2;Classe Soldati
 it_destroyer_soldati_serie1_camicianera_shop;Camicia Nera (CN)
-it_destroyer_soldati_serie1_camicianera_0;"Cacciatorpediniere classe Soldati 1ª serie, Camicia Nera (CN)
-1942"
+it_destroyer_soldati_serie1_camicianera_0;"<color=#C0C0C0>Cacciatorpediniere classe Soldati 1ª serie</color>
+Camicia Nera (CN)
+<color=#C0C0C0>1942 refit</color>"
 it_destroyer_soldati_serie1_camicianera_1;Camicia Nera
 it_destroyer_soldati_serie1_camicianera_2;Classe Soldati
 
 it_destroyer_turbine_shop;Turbine (TB)
-it_destroyer_turbine_0;Cacciatorpediniere classe Turbine, Turbine (TB)
+it_destroyer_turbine_0;"<color=#C0C0C0>Cacciatorpediniere classe Turbine</color>
+Turbine (TB)"
 it_destroyer_turbine_1;Turbine
 it_destroyer_turbine_2;Classe Turbine
 it_destroyer_aquilone_shop;Aquilone (AL)
-it_destroyer_aquilone_0;Cacciatorpediniere classe Turbine, Aquilone (AL)
+it_destroyer_aquilone_0;"<color=#C0C0C0>Cacciatorpediniere classe Turbine</color>
+Aquilone (AL)"
 it_destroyer_aquilone_1;Aquilone
 it_destroyer_aquilone_2;Classe Turbine
 
 it_destroyer_dardo_shop;Dardo (DR)
-it_destroyer_dardo_0;Cacciatorpediniere classe Dardo 1ª serie, Dardo (DR)
+it_destroyer_dardo_0;"<color=#C0C0C0>Cacciatorpediniere classe Dardo 1ª serie</color>
+Dardo (DR)"
 it_destroyer_dardo_1;Dardo
 it_destroyer_dardo_2;Classe Dardo
 it_destroyer_saetta_shop;Saetta (SA)
-it_destroyer_saetta_0;"Cacciatorpediniere classe Dardo 1ª serie, Saetta (SA)
-1943"
+it_destroyer_saetta_0;"<color=#C0C0C0>Cacciatorpediniere classe Dardo 1ª serie</color>
+Saetta (SA)
+<color=#C0C0C0>1943 refit</color>"
 it_destroyer_saetta_1;Saetta
 it_destroyer_saetta_2;Classe Dardo
 
 it_destroyer_comandanti_medaglie_doro_shop;Comandante Margottini (MA)
-it_destroyer_comandanti_medaglie_doro_0;Cacciatopediniere classe Comandanti Medaglie d'Oro, Comandante Margottini (MA)
+it_destroyer_comandanti_medaglie_doro_0;"<color=#C0C0C0>Cacciatorpediniere classe Comandanti Medaglie d'Oro 1ª serie</color>
+Comandante Margottini (MA)"
 it_destroyer_comandanti_medaglie_doro_1;Comandante Margottini
 it_destroyer_comandanti_medaglie_doro_2;Classe Comandanti Medaglie d'Oro
 
 it_destroyer_oriani_class_gioberti_shop;Vincenzo Gioberti (GB)
-it_destroyer_oriani_class_gioberti_0;"Cacciatorpediniere classe Alfredo Oriani, Vincenzo Gioberti (GB)
-1942"
+it_destroyer_oriani_class_gioberti_0;"<color=#C0C0C0>Cacciatorpediniere classe Alfredo Oriani</color>
+Vincenzo Gioberti (GB)
+<color=#C0C0C0>1942 refit</color>"
 it_destroyer_oriani_class_gioberti_1;Vincenzo Gioberti
 it_destroyer_oriani_class_gioberti_2;Classe Alfredo Oriani
 
 // INCROCIATORI LEGGERO //
 
 it_cruiser_bartolomeocolleoni_1940_shop;Bartolomeo Colleoni
-it_cruiser_bartolomeocolleoni_1940_0;"Incrociatore leggero classe Alberto di Guissano, Bartolomeo Colleoni
-1940"
+it_cruiser_bartolomeocolleoni_1940_0;"<color=#C0C0C0>Incrociatore leggero classe Alberto di Guissano</color>
+Bartolomeo Colleoni
+<color=#C0C0C0>1933 refit</color>"
 it_cruiser_bartolomeocolleoni_1940_1;Bartolomeo Colleoni
 it_cruiser_bartolomeocolleoni_1940_2;Classe Alberto di Guissano
 
 it_cruiser_capitani_romani_class_attilio_regolo_shop;Attilio Regolo
-it_cruiser_capitani_romani_class_attilio_regolo_0;Incrociatore leggero classe Capitani Romani, Attilio Regolo
+it_cruiser_capitani_romani_class_attilio_regolo_0;"<color=#C0C0C0>Incrociatore leggero classe Capitani Romani</color>
+Attilio Regolo"
 it_cruiser_capitani_romani_class_attilio_regolo_1;Attilio Regolo
 it_cruiser_capitani_romani_class_attilio_regolo_2;Classe Capitani Romani
 it_cruiser_capitani_romani_class_attilio_regolo_EC_0;Attilio Regolo
@@ -169,30 +200,35 @@ it_cruiser_capitani_romani_class_attilio_regolo_EC_1;Attilio Regolo
 it_cruiser_capitani_romani_class_attilio_regolo_EC_2;Classe Capitani Romani
 
 it_cruiser_eugenio_di_savoia_shop;Eugenio di Savoia
-it_cruiser_eugenio_di_savoia_0;"Incrociatore leggero classe Emanuele Filiberto Duca d'Aosta, Eugenio di Savoia
-1943"
+it_cruiser_eugenio_di_savoia_0;"<color=#C0C0C0>Incrociatore leggero classe Emanuele Filiberto Duca d'Aosta</color>
+Eugenio di Savoia
+<color=#C0C0C0>1943 refit</color>"
 it_cruiser_eugenio_di_savoia_1;Eugenio di Savoia
 it_cruiser_eugenio_di_savoia_2;Classe Emanuele Filiberto Duca d'Aosta
 
 it_cruiser_garibaldi_class_abruzzi_shop;Luigi di Savoia Duca degli Abruzzi
-it_cruiser_garibaldi_class_abruzzi_0;"Incrociatore leggero classe Luigi di Savoia Duca degli Abruzzi, Luigi di Savoia Duca degli Abruzzi
-1943"
+it_cruiser_garibaldi_class_abruzzi_0;"<color=#C0C0C0>Incrociatore leggero classe Luigi di Savoia Duca degli Abruzzi</color>
+Luigi di Savoia Duca degli Abruzzi
+<color=#C0C0C0>1943 refit</color>"
 it_cruiser_garibaldi_class_abruzzi_1;Luigi di Savoia Duca degli Abruzzi
 it_cruiser_garibaldi_class_abruzzi_2;Classe Luigi di Savoia Duca degli Abruzzi
 
 it_cruiser_cadorna_class_cadorna_shop;Luigi Cadorna
-it_cruiser_cadorna_class_cadorna_0;"Incrociatore leggero classe Luigi Cadorna, Luigi Cadorna
-1944"
+it_cruiser_cadorna_class_cadorna_0;"<color=#C0C0C0>Incrociatore leggero classe Luigi Cadorna</color>
+Luigi Cadorna
+<color=#C0C0C0>1944 refit</color>"
 it_cruiser_cadorna_class_cadorna_1;Luigi Cadorna
 it_cruiser_cadorna_class_cadorna_2;Classe Luigi Cadorna
 it_cruiser_cadorna_class_diaz_shop;Armando Diaz
-it_cruiser_cadorna_class_diaz_0;Incrociatore leggero classe Luigi Cadorna, Armando Diaz
+it_cruiser_cadorna_class_diaz_0;"<color=#C0C0C0>Incrociatore Leggero classe Cadorna</color>
+Armando Diaz""
 it_cruiser_cadorna_class_diaz_1;Armando Diaz
 it_cruiser_cadorna_class_diaz_2;Classe Luigi Cadorna
 
 // INCROCIATORI PESANTE //
 it_cruiser_trento_shop;Trento
-it_cruiser_trento_0;Incrociatore pesante classe Trento, Trento
+it_cruiser_trento_0;"<color=#C0C0C0>Incrociatore pesante classe Trento</color>
+Trento
 it_cruiser_trento_1;Trento
 it_cruiser_trento_2;Classe Trento
 it_cruiser_trento_EC_0;Trento
@@ -200,28 +236,33 @@ it_cruiser_trento_EC_1;Trento
 it_cruiser_trento_EC_2;Classe Trento
 
 it_cruiser_zara_class_shop;Zara
-it_cruiser_zara_class_0;Incrociatore pesante classe Zara, Zara
+it_cruiser_zara_class_0;"<color=#C0C0C0>Incrociatore pesante classe Zara</color>
+Zara
+<color=#C0C0C0>1937 refit</color>
 it_cruiser_zara_class_1;Zara
 it_cruiser_zara_class_2;Classe Zara
 it_cruiser_zara_class_EC_0;Zara
 it_cruiser_zara_class_EC_1;Zara
 it_cruiser_zara_class_EC_2;Classe Zara
 it_cruiser_zara_class_pola_shop;Pola
-it_cruiser_zara_class_pola_0;Incrociatore pesante classe Zara, Pola
+it_cruiser_zara_class_pola_0;"<color=#C0C0C0>Incrociatore pesante classe Zara</color>
+Pola
+<color=#C0C0C0>1937 refit</color>"
 it_cruiser_zara_class_pola_1;Pola
 it_cruiser_zara_class_pola_2;Classe Zara
 
 it_cruiser_bolzano_shop;Bolzano
-it_cruiser_bolzano_0;"Incrociatore pesante Bolzano
-1937"
+it_cruiser_bolzano_0;"Bolzano
+<color=#C0C0C0>1937 refit</color>"
 it_cruiser_bolzano_1;Bolzano
 it_cruiser_bolzano_2;Bolzano
 
 // INCROCIATORI TORPEDINIERE //
 
 it_cruiser_montecuccoli_shop;Raimondo Montecuccoli
-it_cruiser_montecuccoli_0;"Incrociatore torpediniere classe Raimondo Montecuccoli, Raimondo Montecuccoli
-1943"
+it_cruiser_montecuccoli_0;"<color=#C0C0C0>Incrociatore torpediniere classe Raimondo Montecuccoli</color>
+Raimondo Montecuccoli
+<color=#C0C0C0>1943 refit</color>"
 it_cruiser_montecuccoli_1;Raimondo Montecuccoli
 it_cruiser_montecuccoli_2;Classe Raimondo Montecuccoli
 it_cruiser_montecuccoli_EC_0;Raimondo Montecuccoli
@@ -230,55 +271,65 @@ it_cruiser_montecuccoli_EC_2;Classe Raimondo Montecuccoli
 
 // INCROCIATORE ANTIAEREO //
 it_cruiser_etna_class_shop;Etna
-it_cruiser_etna_class_0;Incrociatore antiaereo classe Etna, Etna
+it_cruiser_etna_class_0;"<color=#C0C0C0>Incrociatore antiaereo classe Etna</color>
+Etna"
 it_cruiser_etna_class_1;Etna
 it_cruiser_etna_class_2;Classe Etna
 
 // NAVE DA BATTAGLIA //
 it_battleship_dante_alighieri_shop;Dante Alighieri
-it_battleship_dante_alighieri_0;"Nave da battaglia Dante Alighieri
-1923"
+it_battleship_dante_alighieri_0;"<color=#C0C0C0>Nave da battaglia Dante Alighieri</color>
+<color=#C0C0C0>1923 refit</color>"
 it_battleship_dante_alighieri_1;Dante Alighieri
 it_battleship_dante_alighieri_2;Dante Alighieri
 
 it_battleship_andrea_doria_shop;Andrea Doria
-it_battleship_andrea_doria_0;"Nave da battaglia classe Caio Duilio, Andrea Doria
-1925"
+it_battleship_andrea_doria_0;"<color=#C0C0C0>Nave da battaglia classe Duilio</color>
+Andrea Doria
+<color=#C0C0C0>1925 refit</color>"
 it_battleship_andrea_doria_1;Andrea Doria
 it_battleship_andrea_doria_2;Classe Caio Duilio
 it_battleship_caio_duilio_shop;Caio Duilio
-it_battleship_caio_duilio_0;"Nave da battaglia classe Caio Duilio, Caio Duilio
-1942"
+it_battleship_caio_duilio_0;"<color=#C0C0C0>Corazzata classe Duilio</color>
+Duilio
+<color=#C0C0C0>1942 refit</color>"
 it_battleship_caio_duilio_1;Caio Duilio
 it_battleship_caio_duilio_2;Classe Caio Duilio
 
 it_battleship_conte_di_cavour_shop;Conte di Cavour
-it_battleship_conte_di_cavour_0;"Nave da battaglia classe Conte di Cavour, Conte di Cavour
-1944"
+it_battleship_conte_di_cavour_0;"<color=#C0C0C0>Corazzata classe Conte di Cavour</color>
+Conte di Cavour
+<color=#C0C0C0>1944 refit</color>"
 it_battleship_conte_di_cavour_1;Conte di Cavour
 it_battleship_conte_di_cavour_2;Classe Conte di Cavour
 it_battleship_leonardo_da_vinci_shop;Leonardo da Vinci
-it_battleship_leonardo_da_vinci_0;Nave da battaglia classe Conte di Cavour, Leonardo da Vinci
+it_battleship_leonardo_da_vinci_0;"<color=#C0C0C0>Nave da battaglia classe Conte di Cavour</color>
+Leonardo da Vinci"
 it_battleship_leonardo_da_vinci_1;Leonardo da Vinci
 it_battleship_leonardo_da_vinci_2;Classe Conte di Cavour
 it_battleship_giulio_cesare_shop;Guilio Cesare
-it_battleship_giulio_cesare_0;Nave da battaglia classe Conte di Cavour, Guilio Cesare (1937)
+it_battleship_giulio_cesare_0;"<color=#C0C0C0>Corazzata classe Conte di Cavour</color>
+Giulio Cesare
+<color=#C0C0C0>1937 refit</color>"
 it_battleship_giulio_cesare_1;Guilio Cesare
 it_battleship_giulio_cesare_2;Classe Conte di Cavour
 
 it_battleship_francesco_caracciolo_shop;Francesco Caracciolo
-it_battleship_francesco_caracciolo_0;Nave da battaglia classe Francesco Caracciolo, Francesco Caracciolo
+it_battleship_francesco_caracciolo_0;"<color=#C0C0C0>Nave da battaglia classe Francesco Caracciolo</color>
+Francesco Carraciolo"
 it_battleship_francesco_caracciolo_1;Francesco Caracciolo
 it_battleship_francesco_caracciolo_2;Classe Francesco Caracciolo
 
 // CORAZZATA //
 it_battleship_littorio_class_roma_shop;Roma
-it_battleship_littorio_class_roma_0;"Corazzata classe Littorio, Roma
-1943"
+it_battleship_littorio_class_roma_0;"<color=#C0C0C0>Corazzata classe Littorio</color>
+Roma
+<color=#C0C0C0>1943 refit</color>"
 it_battleship_littorio_class_roma_1;Roma
 it_battleship_littorio_class_roma_2;Classe Littorio
 it_battleship_littorio_class_littorio_shop;Italia
-it_battleship_littorio_class_littorio_0;"Corazzata classe Littorio, Italia
-1943"
+it_battleship_littorio_class_littorio_0;"<color=#C0C0C0>Corazzata classe Littorio</color>
+Littorio
+<color=#C0C0C0>1942 refit</color>"
 it_battleship_littorio_class_littorio_1;Italia
 it_battleship_littorio_class_littorio_2;Classe Littorio

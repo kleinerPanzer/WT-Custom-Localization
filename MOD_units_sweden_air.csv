@@ -1,7 +1,7 @@
 <ID|readonly|noverify>;<NewLanguage>
 shop/group/saab_ja37d_group;JA 37D / JA 37DI
 shop/group/saab_b17a_group;B 17B / B 17A
-shop/group/saab_t18b_group;T 18B / T 18B (Akan m/45)
+shop/group/saab_t18b_group;T 18B / T 18B (akan m/45)
 shop/group/saab_j21a_group;J 21A-1 / J 21A-2
 shop/group/vampire_fb_group;J 28B / ☩ Vampire FB.52a
 shop/group/gladiator_j8a_group;J 8A / J 6B
@@ -26,8 +26,9 @@ gladiator_j8a_shop;J 8A
 gladiator_j8a_0;Flygplan J 8A
 gladiator_j8a_1;J 8A
 gladiator_j8a_2;J 8
-gladiator_j8a_iacobi_shop;J 8A (F 19)
-gladiator_j8a_iacobi_0;Flygplan J 8A (Ian Iacobi, Flygflottilj 19)
+gladiator_j8a_iacobi_shop;J 8A
+gladiator_j8a_iacobi_0;"Flygplan J 8A
+<color=#E3D452>Ian Iacobi, Flygflottilj 19</color>"
 gladiator_j8a_iacobi_1;J 8A
 gladiator_j8a_iacobi_2;J 8
 
@@ -66,8 +67,9 @@ saab_t18b_1_shop;T 18B
 saab_t18b_1_0;Flygplan T 18B
 saab_t18b_1_1;T 18B
 saab_t18b_1_2;T 18
-saab_t18b_2_shop;T 18B (Akan m/45)
-saab_t18b_2_0;Flygplan T 18B (Automatkanon m/45)
+saab_t18b_2_shop;T 18B (akan m/45)
+saab_t18b_2_0;Flygplan T 18B
+<color=#C0C0C0>med akan m/45</color>
 saab_t18b_2_1;T 18B
 saab_t18b_2_2;T 18
 
@@ -85,11 +87,13 @@ saab_j21a_2_0;Flygplan J 21A-2
 saab_j21a_2_1;J 21A
 saab_j21a_2_2;J 21
 saab_a21a_3_shop;A 21A-3
-saab_a21a_3_0;Flygplan A 21A-3 (1952)
+saab_a21a_3_0;"Flygplan A 21A-3
+<color=#C0C0C0>1952 modifications</color>"
 saab_a21a_3_1;A 21A
 saab_a21a_3_2;A 21
 saab_j21ra_shop;A 21RA
-saab_j21ra_0;Flygplan A 21RA (1951)
+saab_j21ra_0;"Flygplan A 21RA
+<color=#C0C0C0>1951 modifications</color>"
 saab_j21ra_1;A 21R
 saab_j21ra_2;A 21
 saab_a21rb_shop;A 21RB
@@ -106,8 +110,9 @@ ffvs_j22_b_0;Flygplan J 22B
 ffvs_j22_b_1;J 22B
 ffvs_j22_b_2;J 22
 
-p-51b_7_sweden_shop;J 26 (F 16)
-p-51b_7_sweden_0;Flygplan J 26 (Upplands flygflottilj (F 16))
+p-51b_7_sweden_shop;J 26
+p-51b_7_sweden_0;"Flygplan J 26
+<color=#E3D452>Upplands flygflottilj (F 16)</color>"
 p-51b_7_sweden_1;J 26
 p-51b_7_sweden_2;J 26
 p-51d-20-na_j26_shop;J 26
@@ -116,7 +121,8 @@ p-51d-20-na_j26_1;J 26
 p-51d-20-na_j26_2;J 26
 
 vampire_fb5_j28b_shop;J 28B
-vampire_fb5_j28b_0;Flygplan J 28B (1953)
+vampire_fb5_j28b_0;"Flygplan J 28B
+<color=#C0C0C0>1953 modifications</color>"
 vampire_fb5_j28b_1;J 28B
 vampire_fb5_j28b_2;J 28
 
@@ -129,7 +135,7 @@ saab_j29b_0;Flygplan J 29B Tunnan
 saab_j29b_1;J 29B
 saab_j29b_2;J 29
 saab_j29d_shop;J 29D
-saab_j29d_0;Flygplan J 29D Tunnan alt 2
+saab_j29d_0;Flygplan J 29D alt 2 Tunnan
 saab_j29d_1;J 29D
 saab_j29d_2;J 29
 saab_j29f_shop;J 29F
@@ -146,8 +152,9 @@ saab_a32a_shop;A 32A
 saab_a32a_0;Flygplan A 32A Lansen
 saab_a32a_1;A 32A
 saab_a32a_2;A 32
-saab_a32a_red_adam_shop;A 32A (F 17)
-saab_a32a_red_adam_0;Flygplan A 32A Lansen (Blekinge flygflottilj (F 17))
+saab_a32a_red_adam_shop;A 32A
+saab_a32a_red_adam_0;"Flygplan A 32A Lansen
+<color=#E3D452>Blekinge flygflottilj (F 17)</color>"
 saab_a32a_red_adam_1;A 32A
 saab_a32a_red_adam_2;A 32
 saab_j32b_shop;J 32B
@@ -156,12 +163,15 @@ saab_j32b_1;J 32B
 saab_j32b_2;J 32
 
 hunter_f50_sweden_shop;J 34
-hunter_f50_sweden_0;Flygplan J 34
+hunter_f50_sweden_0;"Flygplan J 34
+<color=#C0C0C0>Retrofitted gun-blast deflectors</color>
+<color=#C0C0C0>Rb 24 missile modification</color>"
 hunter_f50_sweden_1;J 34
 hunter_f50_sweden_2;J 34
 
-saab_j35a_shop;J 35A (k) (F 13)
-saab_j35a_0;Flygplan J 35A Draken (kort) (Bråvalla flygflottilj (F 13))
+saab_j35a_shop;J 35A (k)
+saab_j35a_0;"Flygplan J 35A (kort) Draken
+<color=#E3D452>Bråvalla flygflottilj (F 13)</color>"
 saab_j35a_1;J 35A
 saab_j35a_2;J 35
 saab_j35d_shop;J 35D
@@ -182,37 +192,43 @@ saab_ajs37_shop;AJS 37
 saab_ajs37_0;Flygplan AJS 37 Viggen
 saab_ajs37_1;AJS 37
 saab_ajs37_2;AJS 37
-saab_ajs37_early_shop;AJS 37 (F 7)
-saab_ajs37_early_0;Flygplan AJS 37 Viggen (Skaraborgs flygflottilj (F 7))
+saab_ajs37_early_shop;AJS 37
+saab_ajs37_early_0;"Flygplan AJS 37 Viggen
+<color=#E3D452>Skaraborgs flygflottilj (F 7)</color>"
 saab_ajs3_early7_1;AJS 37
 saab_ajs37_early_2;AJS 37
 saab_ja37_shop;JA 37C
-saab_ja37_0;Flygplan JA 37C Viggen
+saab_ja37_0;"Flygplan JA 37C Viggen
+<color=#C0C0C0>MOD Package C Testbed</color>"
 saab_ja37_1;JA 37C
 saab_ja37_2;JA 37
 saab_ja37d_shop;JA 37D
 saab_ja37d_0;Flygplan JA 37D Viggen
 saab_ja37d_1;JA 37D
 saab_ja37d_2;JA 37
-saab_ja37di_shop;JA 37DI
-saab_ja37di_0;Flygplan JA 37DI Viggen
-saab_ja37di_1;JA 37DI
+saab_ja37di_shop;JA 37Di
+saab_ja37di_0;Flygplan JA 37Di Viggen
+saab_ja37di_1;JA 37Di
 saab_ja37di_2;JA 37
-saab_ja37di_f21_shop;JA 37DI (F 21)
-saab_ja37di_f21_0;Flygplan JA 37DI Viggen (Norrbottens flygflottilj (F 21))
-saab_ja37di_f21_1;JA 37DI
+saab_ja37di_f21_shop;JA 37Di
+saab_ja37di_f21_0;"Flygplan JA 37Di Viggen
+<color=#E3D452>Norrbottens flygflottilj (F 21)</color>"
+saab_ja37di_f21_1;JA 37Di
 saab_ja37di_f21_2;JA 37
 
 saab_jas39a_shop;JAS 39A
-saab_jas39a_0;Flygplan JAS 39A Gripen
+saab_jas39a_0;"Flygplan JAS 39A Gripen
+<color=#C0C0C0>2008 modifications</color>"
 saab_jas39a_1;JAS 39A
 saab_jas39a_2;JAS 39
 saab_jas39c_shop;JAS 39C
-saab_jas39c_0;Flygplan JAS 39C Gripen
+saab_jas39c_0;"Flygplan JAS 39C Gripen
+<color=#C0C0C0>Materiel System 20 Block 1</color>"
 saab_jas39c_1;JAS 39C
 saab_jas39c_2;JAS 39
 saab_jas39d_shop;JAS 39D
-saab_jas39d_0;Flygplan JAS 39D Gripen
+saab_jas39d_0;"Flygplan JAS 39D Gripen
+<color=#C0C0C0>Materiel System 20 Block 1</color>"
 saab_jas39d_1;JAS 39D
 saab_jas39d_2;JAS 39
 saab_jas39e_shop;JAS 39E

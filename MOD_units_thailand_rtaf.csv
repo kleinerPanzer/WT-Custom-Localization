@@ -16,15 +16,18 @@ f-5a_thailand_0;เครื่องบินขับไล่ แบบ 18 F-
 f-5a_thailand_1;บ.ข.18
 f-5a_thailand_2;บ.ข.18
 f-5e_fcu_thailand_shop;บ.ข.18ข (2531)
-f-5e_fcu_thailand_0;เครื่องบินขับไล่ แบบ 18ข F-5E (2531)
+f-5e_fcu_thailand_0;เครื่องบินขับไล่ แบบ 18ข F-5E
+<color=#C0C0C0>1988 modifications</color>
 f-5e_fcu_thailand_1;บ.ข.18ข
 f-5e_fcu_thailand_2;บ.ข.18
 f-5t_thailand_shop;บ.ข.18ข (2546)
-f-5t_thailand_0;เครื่องบินขับไล่ แบบ 18ข F-5TH (2546)
+f-5t_thailand_0;เครื่องบินขับไล่ แบบ 18ข F-5TH
+<color=#C0C0C0>2003 modifications</color>
 f-5t_thailand_1;บ.ข.18ข
 f-5t_thailand_2;บ.ข.18
 f-5th_thailand_shop;บ.ข.18ข (2557)
-f-5th_thailand_0;เครื่องบินขับไล่ แบบ 18ข F-5TH (2557)
+f-5th_thailand_0;เครื่องบินขับไล่ แบบ 18ข F-5TH
+<color=#C0C0C0>2014 modifications</color>
 f-5th_thailand_1;บ.ข.18ข
 f-5th_thailand_2;บ.ข.18
 
@@ -34,7 +37,8 @@ f_16a_block_15_ocu_thailand_1;บ.ข.19
 f_16a_block_15_ocu_thailand_2;บ.ข.19
 
 saab_jas39c_thailand_shop;บ.ข.20
-saab_jas39c_thailand_0;เครื่องบินขับไล่ แบบ 20 Gripen C
+saab_jas39c_thailand_0;"เครื่องบินขับไล่ แบบ 20 Gripen C
+<color=#C0C0C0>Materiel System 20 Block 1</color>"
 saab_jas39c_thailand_1;บ.ข.20
 saab_jas39c_thailand_2;บ.ข.20
 
@@ -47,8 +51,9 @@ alpha_jet_a_thailand_shop;บ.จ.7
 alpha_jet_a_thailand_0;เครื่องบินโจมตี แบบ 7 Alpha Jet
 alpha_jet_a_thailand_1;บ.จ.7
 alpha_jet_a_thailand_2;บ.จ.7
-alpha_jet_th_phase_1_shop;บ.จ.7
-alpha_jet_th_phase_1_0;เครื่องบินโจมตี แบบ 7 Alpha Jet TH (2547)
+alpha_jet_th_phase_1_shop;บ.จ.7 (Phase 1)
+alpha_jet_th_phase_1_0;เครื่องบินโจมตี แบบ 7 Alpha Jet TH
+<color=#C0C0C0>2004 (Phase 1) modifications</color>
 alpha_jet_th_phase_1_1;บ.จ.7
 alpha_jet_th_phase_1_2;บ.จ.7
 

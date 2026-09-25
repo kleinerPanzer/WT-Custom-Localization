@@ -4,11 +4,13 @@ shop/group/sw_pt_76_comet_group;ryn.psv. PT 76 / psv. Comet
 shop/group/sw_cv_90_ifv_group;ryn.psv. CV9030FIN / Strv 9040B
 
 sw_kv_1_1942_fin_shop;44 psv. KV 1 A
-sw_kv_1_1942_fin_0;44-tonnin panssarivaunu KV 1 A
+sw_kv_1_1942_fin_0;"44-tonnin panssarivaunu KV 1 A
+<color=#C0C0C0>Apr 1942 production</color>"
 sw_kv_1_1942_fin_1;44 psv. KV 1 A
 sw_kv_1_1942_fin_2;KV 1
 germ_kv_1B_finland_shop;44 psv. KV 1 B 
-germ_kv_1B_finland_0;44-tonnin panssarivaunu KV 1 B
+germ_kv_1B_finland_0;"44-tonnin panssarivaunu KV 1 B
+<color=#C0C0C0>Jun 1941 production</color>"
 germ_kv_1B_finland_1;44 psv. KV 1 B
 germ_kv_1B_finland_2;KV 1
 
@@ -23,40 +25,48 @@ sw_vickers_mk_e_45_1;9 psv. T 26 E
 sw_vickers_mk_e_45_2;T 26
 sw_vickers_mk_e_37_shop;9 psv. Vickers (psv.k./36)
 sw_vickers_mk_e_37_0;"9-tonnin panssarivaunu Vickers
-panssarivaunukanuuna m/36"
+<color=#C0C0C0>with 37 psv.k/36</color>"
 sw_vickers_mk_e_37_1;9 psv. Vickers (psv.k./36)
 sw_vickers_mk_e_37_2;Vickers
 
 sw_t_28_shop;28 psv. T 28
-sw_t_28_0;28-tonnin panssarivaunu T 28
+sw_t_28_0;"28-tonnin panssarivaunu T 28
+<color=#C0C0C0>1939 production</color>"
 sw_t_28_1;28 psv. T 28
 sw_t_28_2;T 28
 
 sw_t_50_fin_shop;14 psv. T 50
-sw_t_50_fin_0;14-tonnin panssarivaunu T 50
+sw_t_50_fin_0;"14-tonnin panssarivaunu T 50
+<color=#C0C0C0>Jul 1941 production</color>"
 sw_t_50_fin_1;14 psv. T 50
 sw_t_50_fin_2;T 50
 
 sw_t_34_1941_shop;26 psv. T 34 B
-sw_t_34_1941_0;26-tonnin panssarivaunu T 34 B
+sw_t_34_1941_0;"26-tonnin panssarivaunu T 34 B
+<color=#C0C0C0>Mar 1941 ХПЗ production</color>
+<color=#C0C0C0>с катаной башней</color>"
 sw_t_34_1941_1;26 psv. T 34 B
 sw_t_34_1941_2;T 34
 sw_t_34_85_zis_53_shop;31 psv. T 34/85
-sw_t_34_85_zis_53_0;31-tonnin panssarivaunu T 34/85
+sw_t_34_85_zis_53_0;"31-tonnin panssarivaunu T 34/85
+<color=#C0C0C0>Aug 1944 УТЗ + Завод №112 production</color>"
 sw_t_34_85_zis_53_1;31 psv. T 34/85
 sw_t_34_85_zis_53_2;T 34
 
 sw_a_34_comet_shop;psv. Comet
-sw_a_34_comet_0;Panssarivaunu Comet
+sw_a_34_comet_0;"Panssarivaunu Comet
+<color=#C0C0C0>Type A</color>"
 sw_a_34_comet_1;psv. Comet
 sw_a_34_comet_2;Comet
 sw_charioteer_mk_7_shop;tst.psv. Charioteer
-sw_charioteer_mk_7_0;Taistelupanssarivaunu Charioteer
+sw_charioteer_mk_7_0;"Taistelupanssarivaunu Charioteer
+<color=#C0C0C0>Type F</color>"
 sw_charioteer_mk_7_1;tst.psv. Charioteer
 sw_charioteer_mk_7_2;Charioteer
 
 sw_pzkpfw_IV_ausf_J_shop;25 psv. PzKw IVJ
-sw_pzkpfw_IV_ausf_J_0;25-tonnin panssarivaunu PzKw IVJ
+sw_pzkpfw_IV_ausf_J_0;"25-tonnin panssarivaunu PzKw IVJ
+<color=#C0C0C0>Jan 1945 production</color>"
 sw_pzkpfw_IV_ausf_J_1;25 psv. PzKw IVJ
 sw_pzkpfw_IV_ausf_J_2;PzKw IV
 
@@ -66,12 +76,14 @@ sw_bmp_2md_1;ryn.psv. BMP 2 MD
 sw_bmp_2md_2;BMP 2
 
 sw_pt_76b_shop;ryn.psv. PT 76
-sw_pt_76b_0;Rynnäkköpanssarivaunu PT 76
+sw_pt_76b_0;"Rynnäkköpanssarivaunu PT 76
+<color=#C0C0C0>1962 production</color>"
 sw_pt_76b_1;ryn.psv. PT 76
 sw_pt_76b_2;PT 76
 
 sw_t_54_1951_shop;tst.psv. T 54
-sw_t_54_1951_0;Taistelupanssarivaunu T 54
+sw_t_54_1951_0;"Taistelupanssarivaunu T 54
+<color=#C0C0C0>1951 production</color>"
 sw_t_54_1951_1;tst.psv. T 54
 sw_t_54_1951_2;T 54
 sw_t_55m_shop;tst.psv. T 55 M
@@ -112,19 +124,17 @@ sw_itpsv_90_0;ilmatorjuntapanssarivaunu m/90
 sw_itpsv_90_1;it.psv. 90
 sw_itpsv_90_2;it.psv. 90
 
-fr_crotale_ng_shop;☩ XA-181 (it.o. 90 M)
-fr_crotale_ng_0;"Panssariajoneuvoalustalle XA-181
-ilmatorjuntaohjus m/90 M"
-fr_crotale_ng_1;☩ XA-181 (it.o. 90 M)
-fr_crotale_ng_2;XA-181
-sw_crotale_ng_shop;XA-181 (it.o. 90 M)
-sw_crotale_ng_0;"Panssariajoneuvoalustalle XA-181
-ilmatorjuntaohjus m/90 M"
-sw_crotale_ng_1;XA-181 (it.o. 90 M)
-sw_crotale_ng_2;XA-181
+fr_crotale_ng_shop;☩ it.o. 90 M
+fr_crotale_ng_0;"ilmatorjuntaohjus m/90 M"
+fr_crotale_ng_1;☩ it.o. 90 M
+fr_crotale_ng_2;it.o. 90
+sw_crotale_ng_shop;it.o. 90 M
+sw_crotale_ng_0;"ilmatorjuntaohjus m/90 M"
+sw_crotale_ng_1;it.o. 90 M
+sw_crotale_ng_2;it.o. 90
 
 sw_patria_amv_ctcv_105_shop;AMV HWP (CT-CV)
 sw_patria_amv_ctcv_105_0;"Advanced Modular Vehicle Heavy Weapons Platform
-CT-CV 105HP"
+<color=#C0C0C0>with Cockerill CT-CV 105HP</color>"
 sw_patria_amv_ctcv_105_1;AMV HWP (CT-CV)
 sw_patria_amv_ctcv_105_2;AMV

@@ -38,121 +38,153 @@ ussr_su_85_group;СУ-85 / СУ-85М (ноябрь 1944)
 
 // TANKI //
 ussr_t_10a_shop;Т-10А
-ussr_t_10a_0;Танк Т-10А (1952)
+ussr_t_10a_0;Танк Т-10А
 ussr_t_10a_1;Т-10А
 ussr_t_10a_2;Т-10
 ussr_t_10m_shop;Т-10М 
-ussr_t_10m_0;Танк Т-10М (1964)
+ussr_t_10m_0;"Танк Т-10М
+<color=#C0C0C0>1964 production</color>"
 ussr_t_10m_1;Т-10М
 ussr_t_10m_2;Т-10
 
 ussr_t_26_1940_shop;Т-26
-ussr_t_26_1940_0;Танк Т-26 (1939) (Завод №174)
+ussr_t_26_1940_0;"Танк Т-26
+<color=#C0C0C0>1939 Завод №174 production</color>"
 ussr_t_26_1940_1;Т-26
 ussr_t_26_1940_2;Т-26
-ussr_t_26_1940_1st_GvTBr_shop;Т-26 (1 гв тбр)
-ussr_t_26_1940_1st_GvTBr_0;Танк Т-26 (1939) (Завод №174) (1-я гвардейская танковая бригада)
+ussr_t_26_1940_1st_GvTBr_shop;Т-26
+ussr_t_26_1940_1st_GvTBr_0;"Танк Т-26
+<color=#C0C0C0>1939 Завод №174 production</color>
+<color=#E3D452>1-я гвардейская танковая бригада</color>"
 ussr_t_26_1940_1st_GvTBr_1;Т-26
 ussr_t_26_1940_1st_GvTBr_2;Т-26
 ussr_t_26E_shop;Т-26 Экранами
-ussr_t_26E_0;Танк Т-26 (1939) с экранами (Завод №174)
+ussr_t_26E_0;"Танк Т-26
+<color=#C0C0C0>1939 Завод №174 production</color>
+<color=#C0C0C0>с экранами</color>"
 ussr_t_26E_1;Т-26 Экранами
 ussr_t_26E_2;Т-26
 ussr_t_26_4_shop;Т-26-4
-ussr_t_26_4_0;Танк Т-26-4 (Завод №174)
+ussr_t_26_4_0;Танк Т-26-4
 ussr_t_26_4_1;Т-26-4
 ussr_t_26_4_2;Т-26
 
-ussr_t_28_1938_shop;Т-28 (1936)
-ussr_t_28_1938_0;Танк Т-28 (1936)
+ussr_t_28_1938_shop;Т-28 (1938)
+ussr_t_28_1938_0;"Танк Т-28
+<color=#C0C0C0>1938 production</color>"
 ussr_t_28_1938_1;Т-28
 ussr_t_28_1938_2;Т-28
-ussr_t_28_shop;Т-28 (1938)
-ussr_t_28_0;Танк Т-28 (1938)
+ussr_t_28_shop;Т-28 (1939)
+ussr_t_28_0;"Танк Т-28
+<color=#C0C0C0>1939 production</color>"
 ussr_t_28_1;Т-28
 ussr_t_28_2;Т-28
-ussr_t_28E_shop;Т-28 (1938) Экранами
-ussr_t_28E_0;Танк Т-28 (1938) с экранами
+ussr_t_28E_shop;Т-28 (1939) Экранами
+ussr_t_28E_0;"Танк Т-28
+<color=#C0C0C0>1939 production</color>
+<color=#C0C0C0>с экранами</color>"
 ussr_t_28E_1;Т-28 Экранами
 ussr_t_28E_2;Т-28
 
 ussr_t_34_1940_l_11_shop;Т-34 (УП)
-ussr_t_34_1940_l_11_0;Танк Т-34 (Установочная партия)
+ussr_t_34_1940_l_11_0;"Танк Т-34
+<color=#C0C0C0>Установочная партия</color>"
 ussr_t_34_1940_l_11_1;Т-34
 ussr_t_34_1940_l_11_2;Т-34
-ussr_t_34_1941_l_11_shop;Т-34 (дек. 1940)
-ussr_t_34_1941_l_11_0;Танк Т-34 обр. декабрь 1940 г. (ХПЗ)
+ussr_t_34_1941_l_11_shop;Т-34 (Dec 1940)
+ussr_t_34_1941_l_11_0;"Танк Т-34
+<color=#C0C0C0>Dec 1940 ХПЗ production, с катаной башней</color>"
 ussr_t_34_1941_l_11_1;Т-34
 ussr_t_34_1941_l_11_2;Т-34
-ussr_t_34_1941_shop;Т-34 (май 1941)
-ussr_t_34_1941_0;Танк Т-34 обр. май 1941 г. (ХПЗ)
+ussr_t_34_1941_shop;Т-34 (Mar 1941)
+ussr_t_34_1941_0;"Танк Т-34
+<color=#C0C0C0>Mar 1941 ХПЗ production, с катаной башней</color>"
 ussr_t_34_1941_1;Т-34
 ussr_t_34_1941_2;Т-34
-ussr_t_34_1941_cast_turret_shop;Т-34 (июль 1941) (1 гв тбр)
-ussr_t_34_1941_cast_turret_0;Танк Т-34 обр. июль 1941 г. (ХПЗ) (1-я гвардейская танковая бригада)
+ussr_t_34_1941_cast_turret_shop;Т-34 (Apr 1941)
+ussr_t_34_1941_cast_turret_0;"Танк Т-34
+<color=#C0C0C0>Apr 1941 ХПЗ production, с литой башней</color>
+<color=#E3D452>1-я гвардейская танковая бригада</color>"
 ussr_t_34_1941_cast_turret_1;Т-34
 ussr_t_34_1941_cast_turret_2;Т-34
-ussr_t_34_1941_57_shop;Т-34 (сент. 1941) (ЗиС-4)
-ussr_t_34_1941_57_0;Танк Т-34 обр. сентябрь 1941 г. (ЗиС-4) (ХПЗ)
+ussr_t_34_1941_57_shop;Т-34 (Apr 1941) (ЗиС-4)
+ussr_t_34_1941_57_0;"Танк Т-34
+<color=#C0C0C0>Apr 1941 ХПЗ production, с литой башней и пушкой ЗиС-4</color>"
 ussr_t_34_1941_57_1;Т-34 (ЗиС-4)
 ussr_t_34_1941_57_2;Т-34
-ussr_t_34E_STZ_shop;Т-34 (февр. 1942) Экранами
-ussr_t_34E_STZ_0;Танк Т-34 обр. февраль 1942 г. с экранами (СТЗ)
+ussr_t_34E_STZ_shop;Т-34 (Apr 1942) Экранами
+ussr_t_34E_STZ_0;"Танк Т-34
+<color=#C0C0C0>Apr 1942 СТЗ production, с экранами</color>"
 ussr_t_34E_STZ_1;Т-34 Экранами
 ussr_t_34E_STZ_2;Т-34
-ussr_t_34_1942_shop;Т-34 (сент. 1942)
-ussr_t_34_1942_0;Танк Т-34 обр. сентябрь 1942 г. (УТЗ)
+ussr_t_34_1942_shop;Т-34 (Sep 1942)
+ussr_t_34_1942_0;"Танк Т-34
+<color=#C0C0C0>Sep 1942 УТЗ production</color>"
 ussr_t_34_1942_1;Т-34
 ussr_t_34_1942_2;Т-34
-ussr_t_34E_shop;Т-34 (февр. 1943) Экранами
-ussr_t_34E_0;Танк Т-34 обр. февраль 1943 г. с экранами (Завод №112)
+ussr_t_34E_shop;Т-34 (May 1943) Экранами
+ussr_t_34E_0;"Танк Т-34
+<color=#C0C0C0>May 1943 Завод №112 production, с экранами</color>"
 ussr_t_34E_1;Т-34 Экранами
 ussr_t_34E_2;Т-34
-ussr_t_34_57_1943_shop;Т-34 (июнь 1943) (ЗиС-4)
-ussr_t_34_57_1943_0;Танк Т-34 обр. июнь 1943 г. (ЗиС-4) (УТЗ)
+ussr_t_34_57_1943_shop;Т-34 (Sep 1942) (ЗиС-4)
+ussr_t_34_57_1943_0;"Танк Т-34
+<color=#C0C0C0>Sep 1942 УТЗ production, с пушкой ЗиС-4</color>"
 ussr_t_34_57_1943_1;Т-34 (ЗиС-4)
 ussr_t_34_57_1943_2;Т-34
 
-ussr_t_34_85_d_5t_shop;Т-34-85 (Февр. 1944)
-ussr_t_34_85_d_5t_0;Танк Т-34-85 обр. Февраль 1944 г. (Завод №112)
+ussr_t_34_85_d_5t_shop;Т-34-85 (Feb 1944)
+ussr_t_34_85_d_5t_0;"Танк Т-34-85
+<color=#C0C0C0>Feb 1944 Завод №112 production</color>"
 ussr_t_34_85_d_5t_1;Т-34-85
 ussr_t_34_85_d_5t_2;Т-34
-ussr_t_34_85_zis_53_shop;Т-34-85 (авг. 1944)
-ussr_t_34_85_zis_53_0;Танк Т-34-85 обр. август 1944 г. (УТЗ)
+ussr_t_34_85_zis_53_shop;Т-34-85 (Aug 1944)
+ussr_t_34_85_zis_53_0;"Танк Т-34-85
+<color=#C0C0C0>Aug 1944 УТЗ + Завод №112 production</color>"
 ussr_t_34_85_zis_53_1;Т-34-85
 ussr_t_34_85_zis_53_2;Т-34
-ussr_t_34_85_zis_53_kit_3rank_shop;Т-34-85 (авг. 1944)
-ussr_t_34_85_zis_53_kit_3rank_0;Танк Т-34-85 обр. август 1944 г. (УТЗ)
+ussr_t_34_85_zis_53_kit_3rank_shop;Т-34-85 (Aug 1944)
+ussr_t_34_85_zis_53_kit_3rank_0;"Танк Т-34-85
+<color=#C0C0C0>Aug 1944 УТЗ + Завод №112 production</color>"
 ussr_t_34_85_zis_53_kit_3rank_1;Т-34-85
 ussr_t_34_85_zis_53_kit_3rank_2;Т-34
-ussr_t_34_85_zis_53_v80_shop;Т-34-85 (авг. 1944) (10 гв тк)
-ussr_t_34_85_zis_53_v80_0;Танк Т-34-85 обр. август 1944 г. (УТЗ) (10-й гвардейский танковый корпус)
+ussr_t_34_85_zis_53_v80_shop;Т-34-85 (Aug 1944)
+ussr_t_34_85_zis_53_v80_0;"Танк Т-34-85
+<color=#C0C0C0>Aug 1944 УТЗ + Завод №112 production</color>
+<color=#E3D452>61-я гвардейская танковая бригада</color>"
 ussr_t_34_85_zis_53_v80_1;Т-34-85
 ussr_t_34_85_zis_53_v80_2;Т-34
-ussr_t_34_85E_shop;Т-34-85 (авг. 1944) (36 тбр)
-ussr_t_34_85E_0;Танк Т-34-85 обр. август 1944 г. (УТЗ) (36-я танковая бригада)
+ussr_t_34_85E_shop;Т-34-85 (Aug 1944)
+ussr_t_34_85E_0;"Танк Т-34-85
+<color=#C0C0C0>Aug 1944 УТЗ + Завод №112 production</color>
+<color=#E3D452>36-я танковая бригада</color>"
 ussr_t_34_85E_1;Т-34-85
 ussr_t_34_85E_2;Т-34
-ussr_t_34_85_stp_s53_shop;Т-34-85 (март 1945) (СТП-С-53)
-ussr_t_34_85_stp_s53_0;Т-34-85 обр. март 1945 г. (Завод №112) (СТП-С-53)
+ussr_t_34_85_stp_s53_shop;Т-34-85 (May 1945) (СТП-С-53)
+ussr_t_34_85_stp_s53_0;Танк Т-34-85
+<color=#C0C0C0>May 1945 Завод №112 production, с СТП-С-53 Таран</color>
 ussr_t_34_85_stp_s53_1;Т-34-85 (СТП-С-53)
 ussr_t_34_85_stp_s53_2;Т-34
 ussr_t_34_100_shop;Т-34-100
-ussr_t_34_100_0;Танк Т-34-100 (ЛБ-1)
+ussr_t_34_100_0;"Танк Т-34-100
+<color=#C0C0C0>с пушкой ЛБ-1</color>"
 ussr_t_34_100_1;Т-34-100
 ussr_t_34_100_2;Т-34
 
 ussr_t_35_shop;Т-35
-ussr_t_35_0;Танк Т-35 (1935)
+ussr_t_35_0;"Танк Т-35
+<color=#C0C0C0>1935 production</color>"
 ussr_t_35_1;Т-35
 ussr_t_35_2;Т-35
 
 ussr_t_44_po_shop;Т-44 (1-я обр.)
-ussr_t_44_po_0;Танк Т-44 (1-я обр.)
+ussr_t_44_po_0;"Танк Т-44
+<color=#C0C0C0>1-я обр.</color>"
 ussr_t_44_po_1;Т-44
 ussr_t_44_po_2;Т-44
 ussr_t_44_122_shop;Т-44-122
-ussr_t_44_122_0;Танк Т-44-122
+ussr_t_44_122_0;"Танк Т-44-122
+<color=#C0C0C0>2-я обр.</color>"
 ussr_t_44_122_1;Т-44-122
 ussr_t_44_122_2;Т-44
 ussr_t_44_shop;Т-44
@@ -161,41 +193,49 @@ ussr_t_44_1;Т-44
 ussr_t_44_2;Т-44
 ussr_t_44_kit_4rank_shop;Т-44
 ussr_t_44_kit_4rank_0;Танк Т-44
-ussr_t_44_kit_4rank_1;T-44 (Be Prepared!)
+ussr_t_44_kit_4rank_1;T-44
 ussr_t_44_kit_4rank_2;Т-44
 ussr_t_44_100_shop;Т-44-100
-ussr_t_44_100_0;Танк Т-44-100 (Д-10Т)
+ussr_t_44_100_0;"Танк Т-44-100
+<color=#C0C0C0>с пушкой Д-10Т</color>"
 ussr_t_44_100_1;Т-44-100
 ussr_t_44_100_2;Т-44
 
 ussr_t_50_shop;Т-50
-ussr_t_50_0;Танк Т-50
+ussr_t_50_0;"Танк Т-50
+<color=#C0C0C0>Jul 1941 production</color>"
 ussr_t_50_1;Т-50
 ussr_t_50_2;Т-50
 ussr_t_50_for_tutorial_shop;Т-50
-ussr_t_50_for_tutorial_0;Танк Т-50
+ussr_t_50_for_tutorial_0;"Танк Т-50
+<color=#C0C0C0>Jul 1941 production</color>"
 ussr_t_50_for_tutorial_1;Т-50
 ussr_t_50_for_tutorial_2;Т-50
 
-ussr_t_54_1949_shop;Т-54-2 (1949)
-ussr_t_54_1949_0;Танк Т-54-2 (1949)
+ussr_t_54_1949_shop;Т-54-2
+ussr_t_54_1949_0;"Танк Т-54-2
+<color=#C0C0C0>1949 production</color>"
 ussr_t_54_1949_1;Т-54
 ussr_t_54_1949_2;Т-54
-ussr_t_54_1947_shop;Т-54-1 (1947)
-ussr_t_54_1947_0;Танк Т-54-1 (1947)
+ussr_t_54_1947_shop;Т-54-1
+ussr_t_54_1947_0;"Танк Т-54-1
+<color=#C0C0C0>1947 production</color>"
 ussr_t_54_1947_1;Т-54
 ussr_t_54_1947_2;Т-54
-ussr_t_54_1951_shop;Т-54-3 (1951)
-ussr_t_54_1951_0;Танк Т-54-3 (1951)
+ussr_t_54_1951_shop;Т-54-3
+ussr_t_54_1951_0;"Танк Т-54-3
+<color=#C0C0C0>1951 production</color>"
 ussr_t_54_1951_1;Т-54
 ussr_t_54_1951_2;Т-54
 
 ussr_to_55_shop;ТО-55
-ussr_to_55_0;ТО-55 (1969)
+ussr_to_55_0;"Танк ТО-55
+<color=#C0C0C0>1970 production</color>"
 ussr_to_55_1;ТО-55
 ussr_to_55_2;ТО-55
 ussr_t_55a_shop;Т-55А
-ussr_t_55a_0;Танк Т-55А (1969)
+ussr_t_55a_0;"Танк Т-55А
+<color=#C0C0C0>1970 production</color>"
 ussr_t_55a_1;Т-55А
 ussr_t_55a_2;Т-55
 ussr_t_55_amd_1_shop;Т-55АМД-1
@@ -208,12 +248,14 @@ ussr_t_55_am_1;Т-55АМ
 ussr_t_55_am_2;Т-55
 
 ussr_t_60_1941_shop;Т-60 (февр. 1942)
-ussr_t_60_1941_0;Танк Т-60 обр. февраль 1942 г.
+ussr_t_60_1941_0;"Танк Т-60
+<color=#C0C0C0>Feb 1942 Завод №37 production</color>"
 ussr_t_60_1941_1;Т-60
 ussr_t_60_1941_2;Т-60
 
 ussr_t_62_shop;Т-62
-ussr_t_62_0;Танк Т-62 (1964)
+ussr_t_62_0;"Танк Т-62
+<color=#C0C0C0>1964 production</color>"
 ussr_t_62_1;Т-62
 ussr_t_62_2;Т-62
 ussr_t_62m1_shop;Т-62М-1
@@ -222,50 +264,62 @@ ussr_t_62m1_1;Т-62М
 ussr_t_62m1_2;Т-62
 
 ussr_object_140_shop;Т-64 (Об. 140)
-ussr_object_140_0;Т-64 (Объект 140)
+ussr_object_140_0;"Т-64 (Объект 140)
+<color=#C0C0C0>2-й обр.</color>"
 ussr_object_140_1;Т-64 (Об. 140)
 ussr_object_140_2;Т-64
 
 ussr_t_64a_1971_shop;Т-64А
-ussr_t_64a_1971_0;Танк Т-64А (1971)
+ussr_t_64a_1971_0;"Танк Т-64А
+<color=#C0C0C0>1971 production</color>"
 ussr_t_64a_1971_1;Т-64А
 ussr_t_64a_1971_2;Т-64
 ussr_t_64_b_1984_shop;Т-64БВ
-ussr_t_64_b_1984_0;Танк Т-64БВ (1987)
+ussr_t_64_b_1984_0;"Танк Т-64БВ
+<color=#C0C0C0>1987 production</color>"
 ussr_t_64_b_1984_1;Т-64БВ
 ussr_t_64_b_1984_2;Т-64
 
-ussr_t_70_1942_shop;Т-70 (сент. 1942)
-ussr_t_70_1942_0;Танк Т-70 обр. сентябрь 1942 г.
+ussr_t_70_1942_shop;Т-70
+ussr_t_70_1942_0;"Танк Т-70
+<color=#C0C0C0>Sep 1942 ГАЗ production</color>"
 ussr_t_70_1942_1;Т-70
 ussr_t_70_1942_2;Т-70
 ussr_zut_37_shop;Т-70 (ЗУТ-37)
-ussr_zut_37_0;Танк Т-70 с зенитная установка танковая ЗУТ-37
+ussr_zut_37_0;"Танк Т-70
+<color=#C0C0C0>Sep 1942 ГАЗ production</color>
+<color=#C0C0C0>с зенитная установка танковая ЗУТ-37</color>"
 ussr_zut_37_1;Т-70 (ЗУТ-37)
 ussr_zut_37_2;Т-70
 
 ussr_t_72a_shop;Т-72А
-ussr_t_72a_0;Танк Т-72А (1983)
+ussr_t_72a_0;"Танк Т-72А
+<color=#C0C0C0>1983 modifications</color>"
 ussr_t_72a_1;Т-72А
 ussr_t_72a_2;Т-72
 ussr_t_72b_shop;Т-72Б (1987)
-ussr_t_72b_0;Танк Т-72Б (1987)
+ussr_t_72b_0;"Танк Т-72Б
+<color=#C0C0C0>1987 production</color>"
 ussr_t_72b_1;Т-72Б
 ussr_t_72b_2;Т-72
 ussr_t_72b_1989_shop;Т-72Б (1989)
-ussr_t_72b_1989_0;Танк Т-72Б (1989)
+ussr_t_72b_1989_0;"Танк Т-72Б
+<color=#C0C0C0>1989 production</color>"
 ussr_t_72b_1989_1;Т-72Б
 ussr_t_72b_1989_2;Т-72
 ussr_t_72b3_2011_shop;Т-72Б3М
-ussr_t_72b3_2011_0;Танк Т-72Б3М
+ussr_t_72b3_2011_0;"Танк Т-72Б3М
+<color=#C0C0C0>2016 model</color>"
 ussr_t_72b3_2011_1;Т-72Б3М
 ussr_t_72b3_2011_2;Т-72
 ussr_t_72b3_2017_race_shop;Т-72Б3М
-ussr_t_72b3_2017_race_0;Танк Т-72Б3М
+ussr_t_72b3_2017_race_0;"Танк Т-72Б3М
+<color=#C0C0C0>2014 model</color>"
 ussr_t_72b3_2017_race_1;Т-72Б3М
 ussr_t_72b3_2017_race_2;Т-72
-ussr_t_72b3_arena_shop;Т-72Б3 (Арена-Э)
-ussr_t_72b3_arena_0;Танк Т-72Б3 (Арена-Э)
+ussr_t_72b3_arena_shop;Т-72Б3 (Арена-М)
+ussr_t_72b3_arena_0;"Танк Т-72Б3
+<color=#C0C0C0>с КАЗ Арена-М</color>"
 ussr_t_72b3_arena_1;Т-72Б3
 ussr_t_72b3_arena_2;Т-72
 ussr_t_72b3_arena_m_shop;Т-72Б3А
@@ -279,7 +333,9 @@ ussr_t_80_1;Т-80
 ussr_t_80_2;Т-80
 
 ussr_t_80b_shop;Т-80Б
-ussr_t_80b_0;Танк Т-80Б (1985) (АГАВА)
+ussr_t_80b_0;"Танк Т-80Б
+<color=#C0C0C0>1985 production</color>
+<color=#C0C0C0>с ТВП АГАВА</color>"
 ussr_t_80b_1;Т-80Б
 ussr_t_80b_2;Т-80
 ussr_t_80bvm_shop;Т-80БВМ
@@ -287,19 +343,28 @@ ussr_t_80bvm_0;Танк Т-80БВМ
 ussr_t_80bvm_1;Т-80БВМ
 ussr_t_80bvm_2;Т-80
 ussr_t_80u_race_shop;Т-80У
-ussr_t_80u_race_0;Танк Т-80У (1993) (АГАВА-2)
+ussr_t_80u_race_0;"Танк Т-80У
+<color=#C0C0C0>1990 model</color>
+<color=#C0C0C0>Swedish trial modifications</color>"
 ussr_t_80u_race_1;Т-80У
 ussr_t_80u_race_2;Т-80
 ussr_t_80u_shop;Т-80У
-ussr_t_80u_0;Танк Т-80У (1993) (АГАВА-2)
+ussr_t_80u_0;"Танк Т-80У
+<color=#C0C0C0>1990 model</color>
+<color=#C0C0C0>Swedish trial modifications</color>"
 ussr_t_80u_1;Т-80У
 ussr_t_80u_2;Т-80
-ussr_t_80u_yt_cup_2019_shop;Т-80У (YTC)
-ussr_t_80u_yt_cup_2019_0;Танк Т-80У (1993) (АГАВА-2) (YouTube Cup)
-ussr_t_80u_yt_cup_2019_1;Т-80У
+ussr_t_80u_yt_cup_2019_shop;␙ Т-80У
+ussr_t_80u_yt_cup_2019_0;"Танк Т-80У
+<color=#C0C0C0>1990 model</color>
+<color=#C0C0C0>Swedish trial modifications</color>
+<color=#E3D452>␙ YouTube Cup ␙</color>"
+ussr_t_80u_yt_cup_2019_1;␙ Т-80У
 ussr_t_80u_yt_cup_2019_2;Т-80
 ussr_t_80um2_shop;Т-80У (Дрозд)
-ussr_t_80um2_0;Танк Т-80У (1990) (КАЗ Дрозд)
+ussr_t_80um2_0;"Танк Т-80У
+<color=#C0C0C0>1990 model</color>
+<color=#C0C0C0>с КАЗ Дрозд</color>"
 ussr_t_80um2_1;Т-80У (Дрозд)
 ussr_t_80um2_2;Т-80
 ussr_t_80ud_shop;Т-80УД
@@ -311,16 +376,18 @@ ussr_t_80ue1_0;Танк Т-80У-Е1
 ussr_t_80ue1_1;Т-80У-Е1
 ussr_t_80ue1_2;Т-80
 ussr_t_80ue1_sm_shop;◍ Т-80У-Е1
-ussr_t_80ue1_sm_0;◍ Танк Т-80У-Е1
+ussr_t_80ue1_sm_0;"Танк Т-80У-Е1
+<color=#E3D452>◍ Senrai Maidens ◍</color>"
 ussr_t_80ue1_sm_1;◍ Т-80У-Е1
 ussr_t_80ue1_sm_2;MBT
 ussr_t_80uk_shop;Т-80УК
-ussr_t_80uk_0;Танк Т-80УК (1992)
+ussr_t_80uk_0;Танк Т-80УК
 ussr_t_80uk_1;Т-80УК
 ussr_t_80uk_2;Т-80
 
 ussr_t_90a_shop;Т-90А
-ussr_t_90a_0;Танк Т-90А (2006)
+ussr_t_90a_0;"Танк Т-90А
+<color=#C0C0C0>2006 production</color>"
 ussr_t_90a_1;Т-90А
 ussr_t_90a_2;Т-90
 ussr_t_90m_2020_shop;Т-90М
@@ -328,13 +395,15 @@ ussr_t_90m_2020_0;Танк Т-90М
 ussr_t_90m_2020_1;Т-90М
 ussr_t_90m_2020_2;Т-90
 ussr_t_90m_arena_m_shop;Т-90М (Арена-М)
-ussr_t_90m_arena_m_0;Танк Т-90М (Арена-М)
+ussr_t_90m_arena_m_0;"Танк Т-90М
+<color=#C0C0C0>с КАЗ Арена-М</color>"
 ussr_t_90m_arena_m_1;Т-90М
 ussr_t_90m_arena_m_2;Т-90
 
-ussr_t_126sp_shop;Т-126
-ussr_t_126sp_0;Танк Т-126 (СП)
-ussr_t_126sp_1;Т-126
+ussr_t_126sp_shop;Т-126СП
+ussr_t_126sp_0;"Танк Т-126СП
+<color=#C0C0C0>1939 production</color>"
+ussr_t_126sp_1;Т-126СП
 ussr_t_126sp_2;Т-126
 
 ussr_kv_220_shop;Т-220
@@ -343,7 +412,8 @@ ussr_kv_220_1;Т-220
 ussr_kv_220_2;Т-220
 
 ussr_bt_5_shop;БТ-5
-ussr_bt_5_0;Танк БТ-5 (1933)
+ussr_bt_5_0;"Танк БТ-5
+<color=#C0C0C0>Aug 1934 production</color>"
 ussr_bt_5_1;БТ-5
 ussr_bt_5_2;БТ-5
 ussr_rbt_5_shop;РБТ-5
@@ -352,37 +422,46 @@ ussr_rbt_5_1;РБТ-5
 ussr_rbt_5_2;РБТ-5
 
 ussr_bt_7_1937_shop;БТ-7
-ussr_bt_7_1937_0;Танк БТ-7 (1937)
+ussr_bt_7_1937_0;"Танк БТ-7
+<color=#C0C0C0>1937 production</color>"
 ussr_bt_7_1937_1;БТ-7
 ussr_bt_7_1937_2;БТ-7
 ussr_bt_7_1937_race_shop;БТ-7
-ussr_bt_7_1937_race_0;Танк БТ-7 (1937)
+ussr_bt_7_1937_race_0;"Танк БТ-7
+<color=#C0C0C0>1937 production</color>"
 ussr_bt_7_1937_race_1;БТ-7
 ussr_bt_7_1937_race_2;БТ-7
-ussr_bt_7_1937_td_shop;БТ-7 (1-я гв тбр)
-ussr_bt_7_1937_td_0;Танк БТ-7 (1937) (1-я гвардейская танковая бригада)
-ussr_bt_7_1937_td_1;БТ-7
+ussr_bt_7_1937_td_shop;⋦ БТ-7
+ussr_bt_7_1937_td_0;"Танк БТ-7
+<color=#C0C0C0>1937 production</color>
+<color=#E3D452>⋦ Тwitch Drop ⋦</color>"
+ussr_bt_7_1937_td_1;⋦ БТ-7
 ussr_bt_7_1937_td_2;БТ-7
 ussr_bt_7_m_shop;БТ-7М
 ussr_bt_7_m_0;Танк БТ-7М
 ussr_bt_7_m_1;БТ-7М
 ussr_bt_7_m_2;БТ-7
 ussr_bt_7a_f32_shop;БТ-7 артиллерия (Ф-32)
-ussr_bt_7a_f32_0;Танк БТ-7 артиллерия (Ф-32)
+ussr_bt_7a_f32_0;"Танк БТ-7 артиллерия
+<color=#C0C0C0>с пушкой Ф-32</color>"
 ussr_bt_7a_f32_1;БТ-7 артиллерия (Ф-32)
 ussr_bt_7a_f32_2;БТ-7
 
 ussr_pt_76b_shop;ПТ-76Б
-ussr_pt_76b_0;Танк ПТ-76Б (1959)
+ussr_pt_76b_0;"Танк ПТ-76Б
+<color=#C0C0C0>1962 production</color>"
 ussr_pt_76b_1;ПТ-76Б
 ussr_pt_76b_2;ПТ-76
 ussr_pt_76_57_shop;ПТ-76Б (БМ-57)
-ussr_pt_76_57_0;Танк ПТ-76Б (БМ-57)
+ussr_pt_76_57_0;"Танк ПТ-76Б
+<color=#C0C0C0>1962 production</color>
+<color=#C0C0C0>с БМ-57</color>"
 ussr_pt_76_57_1;ПТ-76Б (БМ-57)
 ussr_pt_76_57_2;ПТ-76
 
 ussr_object_906_shop;ПТ-85 (Oбъ. 906)
-ussr_object_906_0;Танк ПТ-85 (Oбъект 906) (УТД-20)
+ussr_object_906_0;"Танк ПТ-85 (Oбъект 906)
+<color=#C0C0C0>с мотором УТД-20</color>"
 ussr_object_906_1;ПТ-85 (Oбъ. 906)
 ussr_object_906_2;ПТ-85 (Oбъ. 906)
 
@@ -391,48 +470,59 @@ ussr_smk_0;Танк СМК
 ussr_smk_1;СМК
 ussr_smk_2;СМК
 
-ussr_kv_1_L_11_shop;КВ-1 (ноябрь 1940)
-ussr_kv_1_L_11_0;Танк КВ-1 обр. ноябрь 1940 г.
+ussr_kv_1_L_11_shop;КВ-1 (Nov 1940)
+ussr_kv_1_L_11_0;"Танк КВ-1
+<color=#C0C0C0>Nov 1940 production</color>"
 ussr_kv_1_L_11_1;КВ-1
 ussr_kv_1_L_11_2;КВ-1
-ussr_kv_1e_shop;КВ-1 (июль 1941) Экранами
-ussr_kv_1e_0;Танк КВ-1 обр. июль 1941 г. c экранами
+ussr_kv_1e_shop;КВ-1 (Jul 1941) Экранами
+ussr_kv_1e_0;"Танк КВ-1
+<color=#C0C0C0>Jul 1941 production, с экранами</color>"
 ussr_kv_1e_1;КВ-1 Экранами
 ussr_kv_1e_2;КВ-1
-ussr_kv_1_zis_5_shop;КВ-1 (окт. 1941) (ЗиС-5)
-ussr_kv_1_zis_5_0;Танк КВ-1 обр. октябрь 1941 г. (ЗиС-5)
+ussr_kv_1_zis_5_shop;КВ-1 (Oct 1941) (ЗиС-5)
+ussr_kv_1_zis_5_0;"Танк КВ-1
+<color=#C0C0C0>Oct 1941 production, с пушкой ЗиС-5</color>"
 ussr_kv_1_zis_5_1;КВ-1
 ussr_kv_1_zis_5_2;КВ-1
 ussr_kv_1s_shop;КВ-1С (ноябрь 1942)
-ussr_kv_1s_0;Танк КВ-1С обр. ноябрь 1942 г.
+ussr_kv_1s_0;"Танк КВ-1С
+<color=#C0C0C0>Oct 1942 production</color>"
 ussr_kv_1s_1;КВ-1С
 ussr_kv_1s_2;КВ-1
-ussr_kv_2_1939_shop;КВ-2 (июль 1940)
-ussr_kv_2_1939_0;Танк КВ-2 обр. июль 1940 г.
+ussr_kv_2_1939_shop;КВ-2 (Jul 1940)
+ussr_kv_2_1939_0;"Танк КВ-2
+<color=#C0C0C0>Jul 1940 production</color>"
 ussr_kv_2_1939_1;КВ-2
 ussr_kv_2_1939_2;КВ-2
-ussr_kv_2_1940_shop;КВ-2 (май 1941)
-ussr_kv_2_1940_0;Танк КВ-2 обр. май 1941 г.
+ussr_kv_2_1940_shop;КВ-2 (May 1941)
+ussr_kv_2_1940_0;"Танк КВ-2
+<color=#C0C0C0>May 1941 production</color>"
 ussr_kv_2_1940_1;КВ-2
 ussr_kv_2_1940_2;КВ-2
-ussr_kv_2_zis_6_shop;КВ-2 (июнь 1941) (ЗиС-6)
-ussr_kv_2_zis_6_0;Танк КВ-2 обр. июнь 1941 г. (ЗиС-6)
+ussr_kv_2_zis_6_shop;КВ-2 (Jun 1941) (ЗиС-6)
+ussr_kv_2_zis_6_0;"Танк КВ-2
+<color=#C0C0C0>Jun 1941 production</color>
+<color=#C0C0C0>с пушкой ЗиС-6</color>"
 ussr_kv_2_zis_6_1;КВ-2 (ЗиС-6)
 ussr_kv_2_zis_6_2;КВ-2
-ussr_kv_7_u13_shop;КВ-7 У-13
-ussr_kv_7_u13_0;Танк КВ-7 У-13
-ussr_kv_7_u13_1;КВ-7 У-13
+ussr_kv_7_u13_shop;КВ-7 (У-13)
+ussr_kv_7_u13_0;"Самоходная артиллерийская установка КВ-7
+<color=#C0C0C0>с У-13</color>"
+ussr_kv_7_u13_1;КВ-7 (У-13)
 ussr_kv_7_u13_2;КВ-7
 ussr_kv_8_shop;КВ-8
 ussr_kv_8_0;Танк КВ-8
 ussr_kv_8_1;КВ-8
 ussr_kv_8_2;КВ-8
 ussr_kv_85_shop;КВ-85
-ussr_kv_85_0;Танк КВ-85
+ussr_kv_85_0;"Танк КВ-85
+<color=#C0C0C0>Spring 1943 production</color>"
 ussr_kv_85_1;КВ-85
 ussr_kv_85_2;КВ-85
 ussr_kv_122_shop;КВ-122
-ussr_kv_122_0;Танк КВ-122 (Д-25Т)
+ussr_kv_122_0;"Танк КВ-122
+<color=#C0C0C0>с пушкой Д-25Т</color>"
 ussr_kv_122_1;КВ-122
 ussr_kv_122_2;КВ-122
 
@@ -444,28 +534,40 @@ ussr_is_1_kit_3rank_shop;ИС-1
 ussr_is_1_kit_3rank_0;Танк ИС-1
 ussr_is_1_kit_3rank_1;ИС-1
 ussr_is_1_kit_3rank_2;ИС-1
-ussr_is_2_1944_shop;ИС-2 (янв. 1945) (СН)
-ussr_is_2_1944_0;Танк ИС-2 с спрямленный нос обр. январь 1945 г.
-ussr_is_2_1944_1;ИС-2 (СН)
-ussr_is_2_1944_2;ИС-2
-ussr_is_2_1943_shop;ИС-2 (февр. 1944)
-ussr_is_2_1943_0;Танк ИС-2 обр. февраль 1944 г.
+ussr_is_2_1943_shop;ИС-2 (Feb 1944)
+ussr_is_2_1943_0;"Танк ИС-2
+<color=#C0C0C0>Feb 1944 production</color>
+<color=#C0C0C0>Завод №200 turret + hull</color>"
 ussr_is_2_1943_1;ИС-2
 ussr_is_2_1943_2;ИС-2
-ussr_is_2_1944_321_shop;ИС-2 (янв. 1945) (СН) (3 Бел. Ф)
-ussr_is_2_1944_321_0;Танк ИС-2 с спрямленный нос обр. январь 1945 г. (3-й Белору́сский фронт)
-ussr_is_2_1944_321_1;ИС-2 (СН)
+ussr_is_2_1944_shop;ИС-2 (Jan 1945)
+ussr_is_2_1944_0;"Танк ИС-2
+<color=#C0C0C0>Jan 1945 production</color>
+<color=#C0C0C0>Завод №200 turret + hull</color>"
+ussr_is_2_1944_1;ИС-2
+ussr_is_2_1944_2;ИС-2
+ussr_is_2_1944_321_shop;ИС-2 (Jan 1945)
+ussr_is_2_1944_321_0;"Танк ИС-2
+<color=#C0C0C0>Jan 1945 production</color>
+<color=#C0C0C0>Завод №200 turret + hull</color>"
+ussr_is_2_1944_321_1;ИС-2
 ussr_is_2_1944_321_2;ИС-2
-ussr_is_2_1944_revenge_shop;ИС-2 (янв. 1945) (СН) (48 гв оттп)
-ussr_is_2_1944_revenge_0;Танк ИС-2 с спрямленный нос обр. январь 1945 г. (48-й отдельный гвардейский тяжёлый танковый полк прорыва)
-ussr_is_2_1944_revenge_1;ИС-2 (СН)
+ussr_is_2_1944_revenge_shop;ИС-2 (Jan 1945)
+ussr_is_2_1944_revenge_0;"Танк ИС-2
+<color=#C0C0C0>Jan 1945 production</color>
+<color=#C0C0C0>Завод №200 turret + hull</color>
+<color=#E3D452>48-й отдельный гвардейский тяжёлый танковый полк прорыва</color>"
+ussr_is_2_1944_revenge_1;ИС-2
 ussr_is_2_1944_revenge_2;ИС-2
-ussr_is_2m_kit_4rank_shop;ИС-2М (янв. 1945) (СН)
-ussr_is_2m_kit_4rank_0;Танк ИС-2М с спрямленный нос обр. январь 1945 г.
-ussr_is_2m_kit_4rank_1;ИС-2М (СН)
+ussr_is_2m_kit_4rank_shop;ИС-2М (Jan 1945)
+ussr_is_2m_kit_4rank_0;"Танк ИС-2М
+<color=#C0C0C0>Jan 1945 production</color>
+<color=#C0C0C0>Завод №200 turret + hull</color>"
+ussr_is_2m_kit_4rank_1;ИС-2М
 ussr_is_2m_kit_4rank_2;ИС-2
 ussr_is_3_shop;ИС-3
-ussr_is_3_0;Танк ИС-3 (1953)
+ussr_is_3_0;"Танк ИС-3
+<color=#C0C0C0>1946 production, 1953 modifications</color>"
 ussr_is_3_1;ИС-3
 ussr_is_3_2;ИС-3
 ussr_is_4m_shop;ИС-4М
@@ -481,46 +583,59 @@ ussr_object_248_0;Танк ИС-5 (Oбъект 248)
 ussr_object_248_1;ИС-5 (Oбъ. 248)
 ussr_object_248_2;ИС-5 (Oбъ. 248)
 ussr_is_6_shop;ИС-6 (Oбъ. 252)
-ussr_is_6_0;Танк ИС-6 (Oбъект 252)
+ussr_is_6_0;"Танк ИС-6 (Oбъект 252)
+<color=#C0C0C0>Proposed configuration with Д-30 gun</color>"
 ussr_is_6_1;ИС-6 (Oбъ. 252)
 ussr_is_6_2;ИС-6 (Oбъ. 252)
 ussr_is_7_shop;ИС-7
-ussr_is_7_0;Танк ИС-7
+ussr_is_7_0;"Танк ИС-7 (Объект 260)
+<color=#C0C0C0>3-й обр.</color>"
 ussr_is_7_1;ИС-7
 ussr_is_7_2;ИС-7
 
 ussr_m3c_shop;▂ М3с
-ussr_m3c_0;▂ Танк М3 средний «Генерал Грант»
+ussr_m3c_0;"Танк М3 средний «Генерал Грант»
+<color=#C0C0C0>Nov 1941 production</color>"
 ussr_m3c_1;▂ М3с
 ussr_m3c_2;М3
 
 ussr_m4a2_76w_sherman_shop;▂ М4-А2 (76-мм)
-ussr_m4a2_76w_sherman_0;▂ Танк М4-А2 «Генерал Шерман» (с пушкой 76,2-мм американский)
+ussr_m4a2_76w_sherman_0;"Танк М4-А2 «Генерал Шерман» (с пушкой 76,2-мм американский)
+<color=#C0C0C0>Oct 1944 production</color>
+<color=#B34D4D>with ""Quick-Fix"" appliqué armour</color>"
 ussr_m4a2_76w_sherman_1;▂ М4-А2 (76-мм)
 ussr_m4a2_76w_sherman_2;М4
 
-ussr_pzkpfw_III_ausf_J_L42_shop;▂ Т-III (107 отб)
-ussr_pzkpfw_III_ausf_J_L42_0;▂ Средний танк Т-III (c 50-мм короткоствольной пушкой) (107-й отдельный танковый батальон)
+ussr_pzkpfw_III_ausf_J_L42_shop;▂ Т-III
+ussr_pzkpfw_III_ausf_J_L42_0;"Средний танк Т-III (c 50-мм короткоствольной пушкой)
+<color=#C0C0C0>Tropenausführung</color>
+<color=#C0C0C0>Nov 1941 production</color>
+<color=#E3D452>107-й отдельный танковый батальон</color>"
 ussr_pzkpfw_III_ausf_J_L42_1;▂ Т-III
 ussr_pzkpfw_III_ausf_J_L42_2;Т-III
 
 ussr_pzkpfw_V_shop;▂ Т-V (8 гв тк)
-ussr_pzkpfw_V_0;▂ Тяжелый танк Т-V «Пантера» (8-й гвардейский танковый корпус)
+ussr_pzkpfw_V_0;"Тяжелый танк Т-V «Пантера»
+<color=#C0C0C0>Mar 1944 production</color>
+<color=#E3D452>8-й гвардейский танковый корпус</color>"
 ussr_pzkpfw_V_1;▂ Т-V
 ussr_pzkpfw_V_2;Т-V
 
 ussr_valentine_mk_9_shop;▂ Валентин-IX
-ussr_valentine_mk_9_0;▂ Танк МК-III «Валентин-IX»
+ussr_valentine_mk_9_0;"Танк МК-III «Валентин-IX»
+<color=#C0C0C0>with GM Type 6.71S engine</color>"
 ussr_valentine_mk_9_1;▂ Валентин-IX
 ussr_valentine_mk_9_2;Валентин
 
 ussr_a_12_mk_2_matilda_2A_F96_shop;▂ Матильда-III (Ф-96)
-ussr_a_12_mk_2_matilda_2A_F96_0;▂ Танк МК-II «Матильда-III» (Ф-96)
+ussr_a_12_mk_2_matilda_2A_F96_0;"Танк МК-II «Матильда-III»
+<color=#C0C0C0>с пушкой Ф-96</color>"
 ussr_a_12_mk_2_matilda_2A_F96_1;▂ Матильда-III (Ф-96)
 ussr_a_12_mk_2_matilda_2A_F96_2;Матильда
 
 ussr_object_279_shop;Объ. 279
-ussr_object_279_0;Объект 279
+ussr_object_279_0;"Объект 279
+<color=#C0C0C0>Spring 1960 production</color>"
 ussr_object_279_1;Объ. 279
 ussr_object_279_2;Объ. 279
 
@@ -562,11 +677,14 @@ ussr_su_57b_1;СУ-57Б
 ussr_su_57b_2;СУ-57Б
 
 ussr_su_76m_1943_shop;СУ-76М
-ussr_su_76m_1943_0;Самоходная артиллерийская установка СУ-76М
+ussr_su_76m_1943_0;"Самоходная артиллерийская установка СУ-76М
+<color=#C0C0C0>Jan 1945 production</color>"
 ussr_su_76m_1943_1;СУ-76М
 ussr_su_76m_1943_2;СУ-76
-ussr_su_76m_5st_kav_corps_shop;СУ-76М (5 гв кк)
-ussr_su_76m_5st_kav_corps_0;Самоходная артиллерийская установка СУ-76М (5-й гвардейский кавалерийский корпус)
+ussr_su_76m_5st_kav_corps_shop;СУ-76М
+ussr_su_76m_5st_kav_corps_0;"Самоходная артиллерийская установка СУ-76М
+<color=#C0C0C0>Jan 1945 production</color>
+<color=#E3D452>5-й гвардейский кавалерийский корпус</color>"
 ussr_su_76m_5st_kav_corps_1;СУ-76М
 ussr_su_76m_5st_kav_corps_2;СУ-76
 
@@ -576,11 +694,13 @@ ussr_su_76d_1;СУ-76Д
 ussr_su_76d_2;СУ-76Д
 
 ussr_su_85_1943_shop;СУ-85
-ussr_su_85_1943_0;Самоходная артиллерийская установка СУ-85
+ussr_su_85_1943_0;"Самоходная артиллерийская установка СУ-85
+<color=#C0C0C0>Dec 1943 production</color>"
 ussr_su_85_1943_1;СУ-85
 ussr_su_85_1943_2;СУ-85
 ussr_su_85m_shop;СУ-85М (ноябрь 1944)
-ussr_su_85m_0;Самоходная артиллерийская установка СУ-85М обр. ноябрь 1944 г.
+ussr_su_85m_0;"Самоходная артиллерийская установка СУ-85М
+<color=#C0C0C0>Nov 1944 production</color>"
 ussr_su_85m_1;СУ-85М
 ussr_su_85m_2;СУ-85
 
@@ -595,7 +715,8 @@ ussr_su_85a_1;СУ-85А
 ussr_su_85a_2;СУ-85
 
 ussr_su_100_1945_shop;СУ-100
-ussr_su_100_1945_0;Самоходная артиллерийская установка СУ-100
+ussr_su_100_1945_0;"Самоходная артиллерийская установка СУ-100
+<color=#C0C0C0>Oct 1944 / Jun 1945 production, 1970s modifications</color>"
 ussr_su_100_1945_1;СУ-100
 ussr_su_100_1945_2;СУ-100
 
@@ -609,8 +730,9 @@ ussr_su_100p_0;Самоходная артиллерийская установ�
 ussr_su_100p_1;СУ-100П
 ussr_su_100p_2;СУ-100П
 
-ussr_su_122_shop;СУ-122 (1942)
-ussr_su_122_0;Самоходная артиллерийская установка СУ-122 обр. 1942 г.
+ussr_su_122_shop;СУ-122
+ussr_su_122_0;"Самоходная артиллерийская установка СУ-122
+<color=#C0C0C0>May 1943 production</color>"
 ussr_su_122_1;СУ-122
 ussr_su_122_2;СУ-122
 ussr_su_122P_shop;СУ-122П
@@ -618,13 +740,15 @@ ussr_su_122P_0;Самоходная артиллерийская установ�
 ussr_su_122P_1;СУ-122П
 ussr_su_122P_2;СУ-122П
 
-ussr_su_122_54_shop;СУ-122 (1956)
-ussr_su_122_54_0;Самоходная артиллерийская установка СУ-122 обр. 1956 г.
+ussr_su_122_54_shop;СУ-122
+ussr_su_122_54_0;"Самоходная артиллерийская установка СУ-122
+<color=#C0C0C0>1956 production</color>"
 ussr_su_122_54_1;СУ-122
 ussr_su_122_54_2;СУ-122
 
 ussr_su_152_shop;СУ-152
-ussr_su_152_0;Самоходная артиллерийская установка СУ-152
+ussr_su_152_0;"Самоходная артиллерийская установка СУ-152
+<color=#C0C0C0>Mar 1943 production</color>"
 ussr_su_152_1;СУ-152
 ussr_su_152_2;СУ-152
 
@@ -639,15 +763,21 @@ ussr_object_416_1;СУ-100М (Oбъ. 416)
 ussr_object_416_2;СУ-100М (Oбъ. 416)
 
 ussr_isu_122_shop;ИСУ-122 (дек. 1944)
-ussr_isu_122_0;Самоходная артиллерийская установка ИСУ-122 обр. декабрь 1944 г.
+ussr_isu_122_0;"Самоходная артиллерийская установка ИСУ-122
+<color=#C0C0C0>Dec 1944 production</color>
+<color=#C0C0C0>УЗТМ hull</color>"
 ussr_isu_122_1;ИСУ-122
 ussr_isu_122_2;ИСУ-122
 ussr_isu_122s_shop;ИСУ-122С (дек. 1944)
-ussr_isu_122s_0;Самоходная артиллерийская установка ИСУ-122С обр. декабрь 1944 г.
+ussr_isu_122s_0;"Самоходная артиллерийская установка ИСУ-122С
+<color=#C0C0C0>Dec 1944 production</color>
+<color=#C0C0C0>УЗТМ hull</color>"
 ussr_isu_122s_1;ИСУ-122С
 ussr_isu_122s_2;ИСУ-122
 ussr_isu_152_shop;ИСУ-152 (дек. 1944)
-ussr_isu_152_0;Самоходная артиллерийская установка ИСУ-152 обр. декабрь 1944 г.
+ussr_isu_152_0;"Самоходная артиллерийская установка ИСУ-152
+<color=#C0C0C0>Dec 1944 production</color>
+<color=#C0C0C0>УЗТМ hull</color>"
 ussr_isu_152_1;ИСУ-152
 ussr_isu_152_2;ИСУ-152
 
@@ -657,7 +787,7 @@ ussr_asu_57_1;АСУ-57
 ussr_asu_57_2;АСУ-57
 
 ussr_zis_30_shop;ЗиС-30
-ussr_zis_30_0;ЗиС-30
+ussr_zis_30_0;Самоходная установка ЗиС-30
 ussr_zis_30_1;ЗиС-30
 ussr_zis_30_2;ЗиС-30
 
@@ -735,12 +865,13 @@ ussr_zprk_2s6_1;2С6М1
 ussr_zprk_2s6_2;2С6
 
 ussr_2s38_shop;2С38
-ussr_2s38_0;Боевая машина 2С38
+ussr_2s38_0;"Боевая машина 2С38
+<color=#C0C0C0>с БО 2А91</color>"
 ussr_2s38_1;2С38
 ussr_2s38_2;2С38
 
 ussr_zis_43_shop;ЗиС-43
-ussr_zis_43_0;ЗиС-43
+ussr_zis_43_0;Самоходная установка ЗиС-43
 ussr_zis_43_1;ЗиС-43
 ussr_zis_43_2;ЗиС-43
 
@@ -761,7 +892,7 @@ ussr_buk_m3_launcher_0;Боевая машина 9А317М
 ussr_buk_m3_launcher_1;9А317М
 ussr_buk_m3_launcher_2;9А317
 ussr_buk_m3_fcs_shop;9С18М3
-ussr_buk_m3_fcs_0;СОЦ 9С18М3
+ussr_buk_m3_fcs_0;Станция обнаружения и целеуказания 9С18М3
 ussr_buk_m3_fcs_1;9С18М3
 ussr_buk_m3_fcs_2;9С18
 
@@ -829,21 +960,25 @@ ussr_bmp_2m_1;БМП-2М
 ussr_bmp_2m_2;БМП-2
 
 ussr_bmp_3_shop;БМП-3
-ussr_bmp_3_0;Боевая машина пехоты БМП-3 (2017)
+ussr_bmp_3_0;"Боевая машина пехоты БМП-3
+<color=#C0C0C0>2017 modifications</color>"
 ussr_bmp_3_1;БМП-3
 ussr_bmp_3_2;БМП-3
 
 // BOYEVAYA MASHINA DESANTA //
 ussr_bmd_4_shop;БМД-4
-ussr_bmd_4_0;Боевая машина десанта БМД-4
+ussr_bmd_4_0;"Боевая машина десанта БМД-4
+<color=#C0C0C0>с БО Б8Я01 Бахча-У</color>"
 ussr_bmd_4_1;БМД-4
 ussr_bmd_4_2;БМД-4
 ussr_bmd_4m_shop;БМД-4М
-ussr_bmd_4m_0;Боевая машина десанта БМД-4М
+ussr_bmd_4m_0;"Боевая машина десанта БМД-4М
+<color=#C0C0C0>с БО Б8Я01 Бахча-У</color>"
 ussr_bmd_4m_1;БМД-4М
 ussr_bmd_4m_2;БМД-4
 ussr_bmd_4m2_shop;БМД-4М (Синица)
-ussr_bmd_4m2_0;Боевая машина десанта БМД-4М (БО Синица)
+ussr_bmd_4m2_0;"Боевая машина десанта БМД-4М
+<color=#C0C0C0>с БО Синица</color>"
 ussr_bmd_4m2_1;БМД-4М
 ussr_bmd_4m2_2;БМД-4
 
@@ -859,7 +994,8 @@ ussr_bmpt_72_2;БМПТ
 
 // BRONETRANSPORTER //
 ussr_sdkfz_251_21_kit_3rank_shop;▂ Sd.Kfz. 251/21
-ussr_sdkfz_251_21_kit_3rank_0;▂ Бронетранспортёр Sd.Kfz. 251/21
+ussr_sdkfz_251_21_kit_3rank_0;"Бронетранспортёр Sd.Kfz. 251/21
+<color=#C0C0C0>Oct 1944 production</color>"
 ussr_sdkfz_251_21_kit_3rank_1;▂ Sd.Kfz. 251/21
 ussr_sdkfz_251_21_kit_3rank_2;Sd.Kfz. 251
 
@@ -881,125 +1017,133 @@ ussr_apc_btr_152_0;БТР-152
 ussr_apc_btr_152_1;БТР-152
 ussr_apc_btr_152_2;БТР-152
 ussr_btr_152a_shop;БТР-152А (ЗПТУ-2)
-ussr_btr_152a_0;Бронетранспортёр БТР-152А (ЗПТУ-2)
+ussr_btr_152a_0;"Бронетранспортёр БТР-152А
+<color=#C0C0C0>с ЗПТУ-2</color>"
 ussr_btr_152a_1;БТР-152А (ЗПТУ-2)
 ussr_btr_152a_2;БТР-152
-ussr_btr_152d_shop;БТР-152Д (ЗПТУ-4)
-ussr_btr_152d_0;Бронетранспортёр БТР-152Д (ЗПТУ-4)
-ussr_btr_152d_1;БТР-152Д (ЗПТУ-4)
-ussr_btr_152d_2;БТР-152
+ussr_btr_152d_shop;ЗиС-152Д (ЗПТУ-4)
+ussr_btr_152d_0;"Бронетранспортёр ЗиС-152Д
+<color=#C0C0C0>с ЗПТУ-4</color>"
+ussr_btr_152d_1;ЗиС-152Д (ЗПТУ-4)
+ussr_btr_152d_2;ЗиС-152
 
 // BRONYEAVTOMOBIL //
 ussr_ba_11_shop;БА-11
-ussr_ba_11_0;БА-11
+ussr_ba_11_0;Бронеавтомобиль БА-11
 ussr_ba_11_1;БА-11
 ussr_ba_11_2;БА-11
 
 // AVTOMOBILI //
 ussr_gaz_dshk_shop;ГАЗ ААА (ДШК)
-ussr_gaz_dshk_0;ГАЗ ААА (ДШК)
+ussr_gaz_dshk_0;"Автомобиль ГАЗ ААА
+<color=#C0C0C0>с пулеметом ДШК</color>"
 ussr_gaz_dshk_1;ГАЗ ААА (ДШК)
 ussr_gaz_dshk_2;ГАЗ ААА
 ussr_zis_12_94KM_1945_shop;ЗиС-12 (94-КМ)
-ussr_zis_12_94KM_1945_0;ЗиС-12 (94-КМ)
+ussr_zis_12_94KM_1945_0;"Автомобиль ЗиС-12
+<color=#C0C0C0>с пушкой 94-КМ</color>"
 ussr_zis_12_94KM_1945_1;ЗиС-12 (94-КМ)
 ussr_zis_12_94KM_1945_2;ЗиС-12
 ussr_gaz_4m_shop;ГАЗ ААА (М-4)
-ussr_gaz_4m_0;ГАЗ ААА (М-4)
+ussr_gaz_4m_0;"Автомобиль ГАЗ ААА
+<color=#C0C0C0>с установкой M-4</color>"
 ussr_gaz_4m_1;ГАЗ ААА (М-4)
 ussr_gaz_4m_2;ГАЗ ААА
 ussr_truck_gaz_aaa_0;ГАЗ ААА
 ussr_truck_gaz_aaa_1;ГАЗ ААА
 ussr_truck_gaz_aaa_2;ГАЗ ААА
 ussr_gaz_mm_72k_shop;ГАЗ ММ (72-К)
-ussr_gaz_mm_72k_0;ГАЗ ММ (72-К)
+ussr_gaz_mm_72k_0;"Автомобиль ГАЗ ММ
+<color=#C0C0C0>с пушкой 72-К</color>"
 ussr_gaz_mm_72k_1;ГАЗ ММ (72-К)
 ussr_gaz_mm_72k_2;ГАЗ ММ
 ussr_gaz_mm_72k_without_crew_shop;ГАЗ ММ (72-К)
-ussr_gaz_mm_72k_without_crew_0;ГАЗ ММ (72-К)
+ussr_gaz_mm_72k_without_crew_0;"Автомобиль ГАЗ ММ
+<color=#C0C0C0>с пушкой 72-К</color>"
 ussr_gaz_mm_72k_without_crew_1;ГАЗ ММ (72-К)
 ussr_gaz_mm_72k_without_crew_2;ГАЗ ММ
 
 // VERTOLETA //
 mi_4av_shop;Ми-4АВ
-mi_4av_0;Ми-4АВ
+mi_4av_0;Вертолет Ми-4АВ
 mi_4av_1;Ми-4АВ
 mi_4av_2;Ми-4
 
 mi_8tv_shop;Ми-8ТВ
-mi_8tv_0;Ми-8ТВ
+mi_8tv_0;Вертолет Ми-8ТВ
 mi_8tv_1;Ми-8ТВ
 mi_8tv_2;Ми-8
 mi_8amtsh_shop;Ми-8АМТШ
-mi_8amtsh_0;Ми-8АМТШ
+mi_8amtsh_0;Вертолет Ми-8АМТШ
 mi_8amtsh_1;Ми-8АМТШ
 mi_8amtsh_2;Ми-8
 mi_8amtsh_vn_shop;Ми-8АМТШ-BН
-mi_8amtsh_vn_0;Ми-8АМТШ-BН
+mi_8amtsh_vn_0;Вертолет Ми-8АМТШ-BН
 mi_8amtsh_vn_1;Ми-8АМТШ
 mi_8amtsh_vn_2;Ми-8
 
 mi_24a_shop;Ми-24A
-mi_24a_0;Ми-24A (1971)
+mi_24a_0;"Вертолет Ми-24A
+<color=#C0C0C0>1971 modifications</color>"
 mi_24a_1;Ми-24A
 mi_24a_2;Ми-24
 mi_24v_shop;Ми-24В
-mi_24v_0;Ми-24В
+mi_24v_0;Вертолет Ми-24В
 mi_24v_1;Ми-24В
 mi_24v_2;Ми-24
 mi_24p_shop;Ми-24П
-mi_24p_0;Ми-24П
+mi_24p_0;Вертолет Ми-24П
 mi_24p_1;Ми-24П
 mi_24p_2;Ми-24
 
 mi_28n_shop;Ми-28Н
-mi_28n_0;Ми-28Н
+mi_28n_0;Вертолет Ми-28Н
 mi_28n_1;Ми-28Н
 mi_28n_2;Ми-28
 mi_28n_killstreak_shop;Ми-28Н
-mi_28n_killstreak_0;Ми-28Н
+mi_28n_killstreak_0;Вертолет Ми-28Н
 mi_28n_killstreak_1;Ми-28Н
 mi_28n_killstreak_2;Ми-28
 mi_28nm_shop;Ми-28НМ
-mi_28nm_0;Ми-28НМ
+mi_28nm_0;Вертолет Ми-28НМ
 mi_28nm_1;Ми-28НМ
 mi_28nm_2;Ми-28
 
 mi_35m_shop;Ми-35М
-mi_35m_0;Ми-35М
+mi_35m_0;Вертолет Ми-35М
 mi_35m_1;Ми-35М
 mi_35m_2;Ми-35
 mi_35m_killstreak_shop;Ми-35М
-mi_35m_killstreak_0;Ми-35М
+mi_35m_killstreak_0;Вертолет Ми-35М
 mi_35m_killstreak_1;Ми-35М
 mi_35m_killstreak_2;Ми-35
 mi_35p_shop;Ми-35П
-mi_35p_0;Ми-35П Феникс
+mi_35p_0;Вертолет Ми-35П Феникс
 mi_35p_1;Ми-35П
 mi_35p_2;Ми-35
 
 ka_29_shop;Ка-29
-ka_29_0;Ка-29
+ka_29_0;Вертолет Ка-29
 ka_29_1;Ка-29
 ka_29_2;Ка-29
 
 ka_50_shop;Ка-50
-ka_50_0;Ка-50
+ka_50_0;Вертолет Ка-50
 ka_50_1;Ка-50
 ka_50_2;Ка-50
 
 ka_52_shop;Ка-52
-ka_52_0;Ка-52
+ka_52_0;Вертолет Ка-52
 ka_52_1;Ка-52
 ka_52_2;Ка-52
 
 // OTHER //
 
-ussr_at_gun_53k_0;45-мм Противотанковая Пушка обр. 1937 г.
+ussr_at_gun_53k_0;45-мм 53-K
 ussr_at_gun_53k_1;53-K
 ussr_at_gun_53k_2;53-K
 
-ussr_at_spg_9_0;73-мм Гранатомёт СПГ-9
+ussr_at_spg_9_0;73-мм СПГ-9
 ussr_at_spg_9_1;СПГ-9
 ussr_at_spg_9_2;СПГ-9
 

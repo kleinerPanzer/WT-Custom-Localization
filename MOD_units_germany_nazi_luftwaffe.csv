@@ -59,23 +59,24 @@ arado-234c-3_1;Ar 234 C
 arado-234c-3_2;Ar 234
 
 // BAYERISCH FLUGZEUGWERKE + MESSERSCHMITT //
-bf-109a_1_shop;Bf 109 A-0 (2. J/88)
+bf-109a_1_shop;Bf 109 A-0
 bf-109a_1_0;"Bf 109 A-0
-Nordbert Flegel, 2. Jagdgruppe 88"
+<color=#E3D452>Nordbert Flegel, 2. Jagdgruppe 88</color>"
 bf-109a_1_1;Bf 109 A
 bf-109a_1_2;Bf 109
-bf-109b_2_shop;Bf 109 B-1 (s)
+bf-109b_2_shop;Bf 109 B-1
 bf-109b_2_0;"Bf 109 B-1
-spät"
+<color=#C0C0C0>frühes modell</color>"
 bf-109b_2_1;Bf 109 B
 bf-109b_2_2;Bf 109
 bf-109c_1_shop;Bf 109 C-1
 bf-109c_1_0;Bf 109 C-1
 bf-109c_1_1;Bf 109 C
 bf-109c_1_2;Bf 109
-bf-109c_1_promo_shop;Bf 109 C-1
-bf-109c_1_promo_0;Bf 109 C-1
-bf-109c_1_promo_1;Bf 109 C
+bf-109c_1_promo_shop;◓ Bf 109 C-1
+bf-109c_1_promo_0;"Bf 109 C-1
+<color=#E3D452>◓ War Thunder Mobile ◓</color>"
+bf-109c_1_promo_1;◓ Bf 109 C
 bf-109c_1_promo_2;Bf 109
 bf-109e-1_shop;Bf 109 E-1
 bf-109e-1_0;Bf 109 E-1
@@ -110,11 +111,13 @@ bf-109f-4_0;Bf 109 F-4
 bf-109f-4_1;Bf 109 F
 bf-109f-4_2;Bf 109
 bf-109f-4_trop_shop;Bf 109 F-4 trop
-bf-109f-4_trop_0;Bf 109 F-4 Tropenausrüstung
+bf-109f-4_trop_0;"Bf 109 F-4
+<color=#C0C0C0>Tropenausrüstung</color>"
 bf-109f-4_trop_1;Bf 109 F
 bf-109f-4_trop_2;Bf 109
 bf-109g-2_shop;Bf 109 G-2 trop
-bf-109g-2_0;Bf 109 G-2 Tropenausrüstung
+bf-109g-2_0;"Bf 109 G-2
+<color=#C0C0C0>Tropenausrüstung</color>"
 bf-109g-2_1;Bf 109 G
 bf-109g-2_2;Bf 109
 bf-109g-6_shop;Bf 109 G-6
@@ -167,7 +170,7 @@ me-210_shop;Me 210
 me-210_0;Me 210
 me-210_1;Me 210
 me-210_2;Me 210
-me_210a_1_shop;Me 210A-1
+me_210a_1_shop;Me 210 A-1
 me_210a_1_0;Me 210 A-1
 me_210a_1_1;Me 210 A
 me_210a_1_2;Me 210
@@ -359,7 +362,7 @@ he51c1_1;He 51 C
 he51c1_2;He 51
 he51c1_late_shop;He 51 C-1 (s)
 he51c1_late_0;"He 51 C-1
-spät"
+<color=#C0C0C0>spätes modell</color>"
 he51c1_late_1;He 51C
 he51c1_late_2;He 51
 
@@ -440,9 +443,9 @@ ju-87r-2_shop;Ju 87 R-2
 ju-87r-2_0;Ju 87 R-2
 ju-87r-2_1;Ju 87 R
 ju-87r-2_2;Ju 87
-ju-87r-2_snake_shop;Ju 87 R-2 (6./StG 2)
+ju-87r-2_snake_shop;Ju 87 R-2
 ju-87r-2_snake_0;"Ju 87 R-2
-6./Sturzkampfgeschwader 2"
+<color=#E3D452>6./Sturzkampfgeschwader 2</color>"
 ju-87r-2_snake_1;Ju 87 R
 ju-87r-2_snake_2;Ju 87
 ju-87d-3_shop;Ju 87 D-3
@@ -518,8 +521,8 @@ p-47d_luftwaffe_shop;▀ P-47D
 p-47d_luftwaffe_0;P-47D RE
 p-47d_luftwaffe_1;▀ P-47D
 p-47d_luftwaffe__2;P-47
-wellington_mk1c_luftwaffe_shop;▀ Wellington Mk. Ic
-wellington_mk1c_luftwaffe_0;Wellington Mk. Ic
+wellington_mk1c_luftwaffe_shop;▀ Wellington Mk. IC
+wellington_mk1c_luftwaffe_0;Wellington Mk. IC
 wellington_mk1c_luftwaffe_1;▀ Wellington Mk. I
 wellington_mk1c_luftwaffe__2;Wellington
 h-75a-2_luftwaffe_shop;▀ Hawk 75A-2
@@ -536,11 +539,12 @@ yak-1b_luftwaffe_1;▀ Yak-1
 yak-1b_luftwaffe__2;Yak-1
 tempest_mkv_luftwaffe_shop;▀ Tempest FB.5
 tempest_mkv_luftwaffe_0;"Tempest FB. Mk. 5
-Serie 2"
+<color=#C0C0C0>Series 2</color>"
 tempest_mkv_luftwaffe_1;▀ Tempest Mk. 5
 tempest_mkv_luftwaffe__2;Tempest
 il_2_1942_luftwaffe_shop;▀ Il-2
-il_2_1942_luftwaffe_0;Il-2
+il_2_1942_luftwaffe_0;"Il-2
+<color=#C0C0C0>Aug 1942 production</color>"
 il_2_1942_luftwaffe_1;▀ Il-2
 il_2_1942_luftwaffe__2;Il-2
 

@@ -3,43 +3,51 @@ shop/group/jp_chi_to_group;チト (2号車) / チト
 shop/group/jp_ho_ni_group;ホニI / ホニIII
 
 jp_type_89b_i_go_otsu_shop;イ号甲
-jp_type_89b_i_go_otsu_0;八九式中戦車甲型 (2594)
+jp_type_89b_i_go_otsu_0;"八九式中戦車甲型
+<color=#C0C0C0>Early 1934 production</color>"
 jp_type_89b_i_go_otsu_1;イ号甲
 jp_type_89b_i_go_otsu_2;イ号
 
 jp_type_95_ha_go_shop;ハ号
-jp_type_95_ha_go_0;九五式軽戦車
+jp_type_95_ha_go_0;"九五式軽戦車
+<color=#C0C0C0>c. 1939 production</color>"
 jp_type_95_ha_go_1;ハ号
 jp_type_95_ha_go_2;ハ号
-jp_type_95_ha_go_commander_shop;ハ号 (コマンド)
-jp_type_95_ha_go_commander_0;九五式軽戦車 (コマンド戦車)
+jp_type_95_ha_go_commander_shop;ハ号
+jp_type_95_ha_go_commander_0;"九五式軽戦車
+<color=#C0C0C0>c. 1939 production</color>
+<color=#C0C0C0>指揮車</color>"
 jp_type_95_ha_go_commander_1;ハ号
 jp_type_95_ha_go_commander_2;ハ号
 
-jp_type_98_ke_ni_shop;ケニA
-jp_type_98_ke_ni_0;試製九八式軽戦車甲型
-jp_type_98_ke_ni_1;ケニA
+jp_type_98_ke_ni_shop;ケニ
+jp_type_98_ke_ni_0;九八式軽戦車
+jp_type_98_ke_ni_1;ケニ
 jp_type_98_ke_ni_2;ケニ
 
 jp_type_97_chi_ha_shop;チハ
 jp_type_97_chi_ha_0;九七式中戦車
 jp_type_97_chi_ha_1;チハ
 jp_type_97_chi_ha_2;チハ
-jp_type_97_kai_shop;チハ/47
-jp_type_97_kai_0;九七式/47中戦車
-jp_type_97_kai_1;チハ/47
+jp_type_97_kai_shop;チハ (一式四十七粍)
+jp_type_97_kai_0;"九七式中戦車
+<color=#C0C0C0>with 一式四十七粍戦車砲</color>"
+jp_type_97_kai_1;チハ (一式四十七粍)
 jp_type_97_kai_2;チハ
-jp_type_97_kai_td_shop;チハ/47 (TD)
-jp_type_97_kai_td_0;九七/47式中戦車 (Twitch Drop)
-jp_type_97_kai_td_1;チハ/47
+jp_type_97_kai_td_shop;⋦ チハ (一式四十七粍)
+jp_type_97_kai_td_0;"九七式中戦車
+<color=#C0C0C0>with 一式四十七粍戦車砲</color>
+<color=#E3D452>⋦ Twitch Drop ⋦</color>"
+jp_type_97_kai_td_1;⋦ チハ (一式四十七粍)
 jp_type_97_kai_td_2;チハ
 
 jp_type_1_chi_he_shop;チへ
 jp_type_1_chi_he_0;一式中戦車
 jp_type_1_chi_he_1;チへ
 jp_type_1_chi_he_2;チへ
-jp_type_1_chi_he_5th_regiment_shop;チへ (戦車第五連隊)
-jp_type_1_chi_he_5th_regiment_0;一式中戦車 (戦車第五連隊)
+jp_type_1_chi_he_5th_regiment_shop;チへ
+jp_type_1_chi_he_5th_regiment_0;"一式中戦車
+<color=#E3D452>戦車第五連隊</color>"
 jp_type_1_chi_he_5th_regiment_1;チへ
 jp_type_1_chi_he_5th_regiment_2;チへ
 
@@ -47,23 +55,27 @@ jp_type_3_chi_nu_shop;チヌ
 jp_type_3_chi_nu_0;三式中戦車
 jp_type_3_chi_nu_1;チヌ
 jp_type_3_chi_nu_2;チヌ
-jp_type_3_chi_nu_75cm_type_5_shop;チヌ (五式)
-jp_type_3_chi_nu_75cm_type_5_0;三式中戦車 (試製五式七糎半戦車砲(長)II型)
-jp_type_3_chi_nu_75cm_type_5_1;チヌ (五式)
+jp_type_3_chi_nu_75cm_type_5_shop;チヌ (試製七糎半)
+jp_type_3_chi_nu_75cm_type_5_0;"三式中戦車
+<color=#c0c0c0>with 試製七糎半戦車砲(長)II型</color>"
+jp_type_3_chi_nu_75cm_type_5_1;チヌ (試製七糎半)
 jp_type_3_chi_nu_75cm_type_5_2;チヌ
 
-jp_type_4_chi_to_shop;チト (2号車)
-jp_type_4_chi_to_0;試製四式中戦車 (試製 2号車)
-jp_type_4_chi_to_1;チト (2号車)
+jp_type_4_chi_to_shop;チト (二号車)
+jp_type_4_chi_to_0;"試製四式中戦車
+<color=#C0C0C0>試製二号車</color>"
+jp_type_4_chi_to_1;チト (二号車)
 jp_type_4_chi_to_2;チト
 jp_type_4_chi_to_late_shop;チト
-jp_type_4_chi_to_late_0;四式中戦車
+jp_type_4_chi_to_late_0;"四式中戦車
+<color=#C0C0C0>what-if production</color>"
 jp_type_4_chi_to_late_1;チト
 jp_type_4_chi_to_late_2;チト
 
-jp_type_5_chi_ri_shop;チリ (2号車)
-jp_type_5_chi_ri_0;試製五式中戦車 (試製 2号車)
-jp_type_5_chi_ri_1;チリ (2号車)
+jp_type_5_chi_ri_shop;チリ (試製二号車)
+jp_type_5_chi_ri_0;"試製五式中戦車
+<color=#C0C0C0>試製二号車</color>"
+jp_type_5_chi_ri_1;チリ (試製二号車)
 jp_type_5_chi_ri_2;チリ
 
 jp_type_2_ho_i_shop;ホイ
@@ -80,7 +92,7 @@ jp_type_2_ho_ni_2_0;一式十糎自走砲
 jp_type_2_ho_ni_2_1;ホニII
 jp_type_2_ho_ni_2_2;ホニ
 jp_type_3_ho_ni_III_shop;ホニIII
-jp_type_3_ho_ni_III_0;三式七糎半自走砲
+jp_type_3_ho_ni_III_0;三式砲戦車
 jp_type_3_ho_ni_III_1;ホニIII
 jp_type_3_ho_ni_III_2;ホニ
 
@@ -89,17 +101,23 @@ jp_type_4_ho_ro_0;四式十五糎自走砲
 jp_type_4_ho_ro_1;ホロ
 jp_type_4_ho_ro_2;ホロ
 
-jp_type_5_na_to_shop;ナトII
-jp_type_5_na_to_0;試製七糎半対戦車自走砲 (2号車)
-jp_type_5_na_to_1;ナトII
+jp_type_5_na_to_shop;ナト
+jp_type_5_na_to_0;試製七糎半対戦車自走砲
+jp_type_5_na_to_1;ナト
 jp_type_5_na_to_2;ナト
 
-jp_type_5_ho_ri_prototype_shop;ホリ (試製)
-jp_type_5_ho_ri_prototype_0;試製十糎半自走砲
-jp_type_5_ho_ri_prototype_1;ホリ (試製)
+jp_type_5_ho_ri_prototype_shop;ホリ (1944)
+jp_type_5_ho_ri_prototype_0;"新砲戦車 (甲)
+<color=#C0C0C0>1944 sloped hull rear-casemate mockup</color>
+<color=#C0C0C0>with Feb 1945 試製十糎戦車砲(長)</color>
+<color=#C0C0C0>and front-seated driver</color>"
+jp_type_5_ho_ri_prototype_1;ホリ (1944)
 jp_type_5_ho_ri_prototype_2;ホリ
-jp_type_5_ho_ri_production_shop;ホリ
-jp_type_5_ho_ri_production_0;五式十糎半自走砲
+jp_type_5_ho_ri_production_shop;ホリ (Fictional)
+jp_type_5_ho_ri_production_0;"新砲戦車 (甲)
+<color=#C0C0C0>1944 sloped hull rear-casemate mockup</color>
+<color=#C0C0C0>with extended-barrel Oct 1944 試製十糎戦車砲(長),</color>
+<color=#C0C0C0>front-seated driver, increased armour, and 1,100hp engine</color>"
 jp_type_5_ho_ri_production_1;ホリ
 jp_type_5_ho_ri_production_2;ホリ
 
@@ -108,10 +126,11 @@ jp_type_95_heavy_0;九五式重戦車
 jp_type_95_heavy_1;ロ号
 jp_type_95_heavy_2;ロ号
 
-jp_type_94_shop;98式高射機関砲トラック
-jp_type_94_0;98式高射機関砲トラック
-jp_type_94_1;98式高射機関砲トラック
-jp_type_94_2;98式
+jp_type_94_shop;九四式 (九八式二十粍)
+jp_type_94_0;"九四式六輪自動貨車
+<color=#C0C0C0>with 九八式二十粍高射機関砲</color>"
+jp_type_94_1;九四式 (九八式二十粍)
+jp_type_94_2;九四式
 
 jp_type_98_ta_se_shop;タイ
 jp_type_98_ta_se_0;對空戦車第一車
@@ -122,16 +141,16 @@ jp_type_95_so_ki_0;對空戦車第二車
 jp_type_95_so_ki_1;タロ
 jp_type_95_so_ki_2;タロ
 
-jp_hiro_sha_shop;斯加式十二糎載車
-jp_hiro_sha_0;斯加式十二糎速射加農搭載車
-jp_hiro_sha_1;斯加式十二糎載車
-jp_hiro_sha_2;斯加式十二糎載車
+jp_hiro_sha_shop;試製十二糎自走砲
+jp_hiro_sha_0;試製十二糎自走砲
+jp_hiro_sha_1;試製十二糎自走砲
+jp_hiro_sha_2;試製十二糎自走砲
 
 jp_truck_type_94_isuzu_0;九四式六輪自動貨車
 jp_truck_type_94_isuzu_1;九四式
 jp_truck_type_94_isuzu_2;九四式
 
-jp_at_37mm_type_1_0;一式機動三十七粍速射砲
+jp_at_37mm_type_1_0;一式三十七粍
 jp_at_37mm_type_1_1;一式
 jp_at_37mm_type_1_2;一式
 

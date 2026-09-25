@@ -16,20 +16,25 @@ shop/group/germ_m44_55_group;PzH M 44 / PzH M 55
 // PANZER //
 // M41 //
 germ_le_kpz_m41_shop;KPz M 41
-germ_le_kpz_m41_0;Panzer, Kampf-, Vollkette mit Kanone 76 mm, KPz M 41
+germ_le_kpz_m41_0;"Panzer, Kampf-, Vollkette mit Kanone 76 mm, KPz M 41
+<color=#C0C0C0>S/N: 2290-2592</color>
+<color=#C0C0C0>1962 modifications</color>"
 germ_le_kpz_m41_1;KPz M 41
 germ_le_kpz_m41_2;KPz M 41
 
 // M47 //
-germ_mkpz_m47_shop;KPz M 47 (PzBtl 114)
+germ_mkpz_m47_shop;KPz M 47
 germ_mkpz_m47_0;"Panzer, Kampf-, Vollkette mit Kanone 90 mm, KPz M 47
-Panzerbataillon 114"
+<color=#C0C0C0>with late-production Union Steel turret</color>
+<color=#C0C0C0>1962 modifications</color>
+<color=#E3D452>Panzerbataillon 114</color>"
 germ_mkpz_m47_1;KPz M 47
 germ_mkpz_m47_2;KPz M 47
 
 // M48 //
 germ_mkpz_m48a2c_shop;KPz M 48 A2 C
-germ_mkpz_m48a2c_0;Panzer, Kampf-, Vollkette mit Kanone 90 mm, KPz M 48 A2 C
+germ_mkpz_m48a2c_0;"Panzer, Kampf-, Vollkette mit Kanone 90 mm, KPz M 48 A2 C
+<color=#C0C0C0>1962 modifications</color>"
 germ_mkpz_m48a2c_1;KPz M 48 A2
 germ_mkpz_m48a2c_2;KPz M 48
 germ_mkpz_m48a2ga2_shop;KPz M 48 A2GEA2
@@ -39,7 +44,8 @@ germ_mkpz_m48a2ga2_2;KPz M 48
 
 // LEOPARD 1 //
 germ_leopard_I_shop;KPz Leopard 1
-germ_leopard_I_0;Panzer, Kampf-, Vollkette mit Kanone 105 mm, KPz Leopard 1
+germ_leopard_I_0;"Panzer, Kampf-, Vollkette mit Kanone 105 mm, KPz Leopard 1
+<color=#C0C0C0>1. Baulos</color>"
 germ_leopard_I_1;KPz Leopard 1
 germ_leopard_I_2;KPz Leopard 1
 germ_leopard_I_a1_shop;KPz Leopard 1 A1 A1
@@ -60,17 +66,17 @@ germ_kpz_70_2;KPz 70
 // LEOPARD 2 //
 germ_leopard_2k_shop;KPz Leopard 2 K (PT 10/T 11)
 germ_leopard_2k_0;"Panzer, Kampf-, Vollkette mit Kanone 120 mm, KPz Leopard 2 K
-PT 10 mit T 11"
+<color=#C0C0C0>PT 10 mit T 11</color>"
 germ_leopard_2k_1;KPz Leopard 2 K
 germ_leopard_2k_2;KPz Leopard 2
 germ_leopard_2_pt14_shop;KPz Leopard 2 K (PT 16/T 14)
 germ_leopard_2_pt14_0;"Panzer, Kampf-, Vollkette mit Kanone 120 mm, KPz Leopard 2 K
-PT 16 mit T 14 mod."
+<color=#C0C0C0>PT 16 mit T 14 mod.</color>"
 germ_leopard_2_pt14_1;KPz Leopard 2 K
 germ_leopard_2_pt14_2;KPz Leopard 2
 germ_leopard_2av_shop;KPz Leopard 2 AV (PT 19/T 19)
 germ_leopard_2av_0;"Panzer, Kampf-, Vollkette mit Kanone 105 mm, KPz Leopard 2 AV
-PT 19 mit T 19"
+<color=#C0C0C0>PT 19 mit T 19</color>"
 germ_leopard_2av_1;KPz Leopard 2 AV
 germ_leopard_2av_2;KPz Leopard 2
 
@@ -78,19 +84,19 @@ germ_leopard_2a4_shop;KPz Leopard 2 A4
 germ_leopard_2a4_0;Panzer, Kampf-, Vollkette mit Kanone 120 mm, KPz Leopard 2 A4
 germ_leopard_2a4_1;KPz Leopard 2 A4
 germ_leopard_2a4_2;KPz Leopard 2
-germ_leopard_2a4_pzbtl_123_shop;KPz Leopard 2 A4 (PzBtl 123)
+germ_leopard_2a4_pzbtl_123_shop;KPz Leopard 2 A4
 germ_leopard_2a4_pzbtl_123_0;"Panzer, Kampf-, Vollkette mit Kanone 120 mm, KPz Leopard 2 A4
-Panzerbataillon 123"
+<color=#E3D452>Panzerbataillon 123</color>"
 germ_leopard_2a4_pzbtl_123_1;KPz Leopard 2 A4
 germ_leopard_2a4_pzbtl_123_2;KPz Leopard 2
 germ_leopard_2a5_shop;KPz Leopard 2 A5
 germ_leopard_2a5_0;Panzer, Kampf-, Vollkette mit Kanone 120 mm, KPz Leopard 2 A5
 germ_leopard_2a5_1;KPz Leopard 2 A5
 germ_leopard_2a5_2;KPz Leopard 2
-germ_leopard_2a5_yt_cup_2019_shop;KPz Leopard 2 A5 (YTC)
+germ_leopard_2a5_yt_cup_2019_shop;␙ KPz Leopard 2 A5
 germ_leopard_2a5_yt_cup_2019_0;"Panzer, Kampf-, Vollkette mit Kanone 120 mm, KPz Leopard 2 A5
-YouTube Cup"
-germ_leopard_2a5_yt_cup_2019_1;KPz Leopard 2 A5
+<color=#E3D452>␙ YouTube Cup ␙</color>"
+germ_leopard_2a5_yt_cup_2019_1;␙ KPz Leopard 2 A5
 germ_leopard_2a5_yt_cup_2019_2;KPz Leopard 2
 germ_leopard_2a6_shop;KPz Leopard 2 A6
 germ_leopard_2a6_0;Panzer, Kampf-, Vollkette mit Kanone 120 mm, KPz Leopard 2 A6
@@ -139,7 +145,7 @@ germ_spz_12_3_1;SPz lang (LGS)
 germ_spz_12_3_2;SPz lang
 germ_spz_oerlikon_raketenautomat_shop;SPz lang (Typ 3Z 8DLa)
 germ_spz_oerlikon_raketenautomat_0;"Panzer, Schützen-, Vollkette, Gruppe, Kanone 20 mm, SPz lang
-Oerlikon Typ 3Z 8DLa"
+<color=#C0C0C0>mit Oerlikon Typ 3Z 8DLA</color>"
 germ_spz_oerlikon_raketenautomat_1;SPz lang (Typ 3Z 8DLa)
 germ_spz_oerlikon_raketenautomat_2;SPz lang
 
@@ -160,8 +166,9 @@ germ_schutzenpanzer_puma_vjtf_shop;SPz Puma VJTF
 germ_schutzenpanzer_puma_vjtf_0;Panzer, Schützen, Vollkette, SPz Puma Konstruktionsstand VJTF
 germ_schutzenpanzer_puma_vjtf_1;SPz Puma VJTF
 germ_schutzenpanzer_puma_vjtf_2;SPz Puma
-germ_schutzenpanzer_puma_vjtf_mod_shop;SPz Puma VJTF (PzGrenBtl 33)
-germ_schutzenpanzer_puma_vjtf_mod_0;Panzer, Schützen-, Vollkette, SPz Puma, Konstruktionsstand VJTF (Panzergrenadierbataillon 33)
+germ_schutzenpanzer_puma_vjtf_mod_shop;SPz Puma VJTF
+germ_schutzenpanzer_puma_vjtf_mod_0;"Panzer, Schützen-, Vollkette, SPz Puma, Konstruktionsstand VJTF
+<color=#E3D452>Panzergrenadierbataillon 33</color>"
 germ_schutzenpanzer_puma_vjtf_mod_1;SPz Puma VJTF
 germ_schutzenpanzer_puma_vjtf_mod_2;SPz Puma
 
@@ -205,7 +212,7 @@ germ_raketenjagdpanzer_2_1;RakJPz 2
 germ_raketenjagdpanzer_2_2;RakJPz 2
 germ_raketenjagdpanzer_2_hot_shop;RakJPz 2 (HOT)
 germ_raketenjagdpanzer_2_hot_0;"Panzer, Jagd-, Raketen-, Vollkette 2, RakJPz 2
-Lenkflugkörpersystem HOT"
+<color=#C0C0C0>mit Lenkflugkörpersystem HOT</color>"
 germ_raketenjagdpanzer_2_hot_1;RakJPz 2 (HOT)
 germ_raketenjagdpanzer_2_hot_2;RakJPz 2
 
@@ -221,7 +228,7 @@ germ_flakpz_I_Gepard_1;FlakPz 1 Gepard
 germ_flakpz_I_Gepard_2;FlakPz 1
 germ_flakpz_1a2_Gepard_shop;FlakPz 1 A2 Gepard (LFK Stinger)
 germ_flakpz_1a2_Gepard_0;"Panzer, Flugabwehrkanone, 35 mm Zwilling mit Such- und Zielfolgeradar, Energie- und Feuerleitanlage, Entfernungsmesser Laser, FlakPz 1 A2 Gepard
-Lenkflugkörper Fliegerfaust 2 Stinger"
+<color=#C0C0C0>mit Lenkflugkörper Fliegerfaust 2 Stinger</color>"
 germ_flakpz_1a2_Gepard_1;FlakPz 1 A2 Gepard (LFK Stinger)
 germ_flakpz_1a2_Gepard_2;FlakPz 1
 
@@ -266,9 +273,9 @@ bo_105pah1_a1_0;Panzerabwehrhubschrauber 1 A1
 bo_105pah1_a1_1;PAH 1 A1
 bo_105pah1_a1_2;PAH 1
 
-mi_24p_german_hfs80_shop;◄ Mi-24P (HFS 80)
+mi_24p_german_hfs80_shop;◄ Mi-24P
 mi_24p_german_hfs80_0;"Hubschrauber Mi-24P
-Heeresfliegerstaffel 80"
+<color=#E3D452>Heeresfliegerstaffel 80</color>"
 mi_24p_german_hfs80_1;◄ Mi-24P
 mi_24p_german_hfs80_2;Mi-24
 

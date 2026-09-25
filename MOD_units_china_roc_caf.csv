@@ -62,13 +62,13 @@ p-40c_china_0;"霍克81A-3戰鬥機
 p-40c_china_1;H-81A
 p-40c_china_2;H-81
 p-40e_china_shop;☀ P-40E
-p-40e_china_0;P-40E戰鬥機
+p-40e_china_0;P-40E-CU戰鬥機
 p-40e_china_1;☀ P-40E
 p-40e_china_2;P-40
 
 // P-38 //
 p-38l_1_china_rocaf_shop;☀ P-38L-1
-p-38l_1_china_rocaf_0;P-38L-1 LO戰鬥機
+p-38l_1_china_rocaf_0;P-38L-1-LO戰鬥機
 p-38l_1_china_rocaf_1;☀ P-38L
 p-38l_1_china_rocaf_2;P-38
 
@@ -80,17 +80,17 @@ p-43a-1_china_2;P-43
 
 // P-47 //
 p-47d_23_ra_china_rocaf_shop;☀ P-47D-23
-p-47d_23_ra_china_rocaf_0;P-47D-23 RA戰鬥機
+p-47d_23_ra_china_rocaf_0;P-47D-23-RA戰鬥機
 p-47d_23_ra_china_rocaf_1;☀ P-47D
 p-47d_23_ra_china_rocaf_2;P-47
 p-47d_30_china_shop;☀ P-47D-28
-p-47d_30_china_0;P-47D-28 RA戰鬥機
+p-47d_30_china_0;P-47D-28-RA戰鬥機
 p-47d_30_china_1;☀ P-47D
 p-47d_30_china_2;P-47
 
 // P-51 //
 p-51c-11-nt_china_shop;☀ P-51C-11
-p-51c-11-nt_china_0;P-51C-11 NT野馬式戰鬥機
+p-51c-11-nt_china_0;P-51C-11-NT野馬式戰鬥機
 p-51c-11-nt_china_1;☀ P-51C
 p-51c-11-nt_china_2;P-51
 
@@ -108,7 +108,7 @@ b_25j_30_china_2;B-25
 
 // A-29 //
 a_29_hudson_shop;☀ A-29
-a_29_hudson_0;A-29 LO轟炸機
+a_29_hudson_0;A-29-LO轟炸機
 a_29_hudson_1;☀ A-29
 a_29_hudson_2;A-29
 
@@ -155,7 +155,7 @@ martin_139wc_1;马丁139WC
 martin_139wc_2;马丁 139
 
 // JAPAN //
-shop/group/ki_27_group;☀ 九七式乙型 / ☀ 一式三甲型
+shop/group/ki_27_group;☀ 九七式乙型 / ☀ 一式三型甲
 
 // Ki 27 //
 ki-27_otsu_china_shop;☀ 九七式乙型
@@ -164,26 +164,26 @@ ki-27_otsu_china_1;☀ 九七式
 ki-27_otsu_china_2;九七式
 
 // Ki 43 //
-ki_43_3_ko_shop;☀ 一式三甲型
-ki_43_3_ko_0;一式戰鬥機三甲型
+ki_43_3_ko_shop;☀ 一式三型甲
+ki_43_3_ko_0;一式戰鬥機三型甲
 ki_43_3_ko_1;☀ 一式三型
 ki_43_3_ko_2;一式二式
 
 // Ki 44 //
-ki_44_2_hei_china_shop;☀ 二式二丙型
-ki_44_2_hei_china_0;二式單座戰鬥機二丙型
+ki_44_2_hei_china_shop;☀ 二式二型丙
+ki_44_2_hei_china_0;二式單座戰鬥機二型丙
 ki_44_2_hei_china_1;☀ 二式二型
 ki_44_2_hei_china_2;二式
 
 // Ki 61 //
-ki_61_1a_otsu_china_shop;☀ 三式一乙型
-ki_61_1a_otsu_china_0;三式戰鬥機一乙型
+ki_61_1a_otsu_china_shop;☀ 三式一型乙
+ki_61_1a_otsu_china_0;三式戰鬥機一型乙
 ki_61_1a_otsu_china_1;☀ 三式一型
 ki_61_1a_otsu_china_2;三式
 
 // Ki 84 //
-ki_84_ko_china_shop;☀ 四式一甲型
-ki_84_ko_china_0;四式戰鬥機一甲型
+ki_84_ko_china_shop;☀ 四式一型甲
+ki_84_ko_china_0;四式戰鬥機一型甲
 ki_84_ko_china_1;☀ 四式一型
 ki_84_ko_china_2;四式
 

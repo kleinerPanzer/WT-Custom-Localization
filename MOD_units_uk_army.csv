@@ -36,27 +36,28 @@ uk_a_13_mk1_shop;Cruiser III
 uk_a_13_mk1_0;Tank, Cruiser, Mk. III
 uk_a_13_mk1_1;Cruiser III
 uk_a_13_mk1_2;Cruiser
-uk_a_13_mk1_3rd_rtr_shop;Cruiser III (3rd R.T.Reg.)
+uk_a_13_mk1_3rd_rtr_shop;Cruiser III
 uk_a_13_mk1_3rd_rtr_0;"Tank, Cruiser, Mk. III
-3rd Royal Tank Regiment"
+<color=#E3D452>3rd Royal Tank Regiment</color>"
 uk_a_13_mk1_3rd_rtr_1;Cruiser III
 uk_a_13_mk1_3rd_rtr_2;Cruiser
 uk_a_13_mk2_shop;Cruiser IV
 uk_a_13_mk2_0;Tank, Cruiser, Mk. IV
 uk_a_13_mk2_1;Cruiser IV
 uk_a_13_mk2_2;Cruiser
-uk_a_13_mk2_1939_shop;Cruiser IVA
-uk_a_13_mk2_1939_0;Tank, Cruiser, Mk. IVA
-uk_a_13_mk2_1939_1;Cruiser IVA
+uk_a_13_mk2_1939_shop;Cruiser IV (1939)
+uk_a_13_mk2_1939_0;"Tank, Cruiser, Mk. IV
+<color=#C0C0C0>with additional mantlet armour plates</color>"
+uk_a_13_mk2_1939_1;Cruiser IV
 uk_a_13_mk2_1939_2;Cruiser
 
 uk_crusader_mk_2_shop;Crusader II
 uk_crusader_mk_2_0;Tank, Cruiser, Mk. VI, Crusader, Mk. II
 uk_crusader_mk_2_1;Crusader II
 uk_crusader_mk_2_2;Crusader
-uk_crusader_mk_2_the_saint_shop;Crusader II (10th R.Huss.)
+uk_crusader_mk_2_the_saint_shop;Crusader II
 uk_crusader_mk_2_the_saint_0;"Tank, Cruiser, Mk. VI, Crusader, Mk. II
-10th Royal Hussars (Prince of Wales's Own)"
+<color=#E3D452>10th Royal Hussars (Prince of Wales's Own)</color>"
 uk_crusader_mk_2_the_saint_1;Crusader II
 uk_crusader_mk_2_the_saint_2;Crusader
 uk_crusader_mk_3_shop;Crusader III
@@ -66,35 +67,36 @@ uk_crusader_mk_3_2;Crusader
 
 uk_a27m_cromwell_1_shop;Cromwell I
 uk_a27m_cromwell_1_0;"Tank, Cruiser, Mk. VIII, Cromwell, Mk. I
-Type C"
+<color=#C0C0C0>Type C</color>"
 uk_a27m_cromwell_1_1;Cromwell I
 uk_a27m_cromwell_1_2;Cromwell
 uk_a27m_cromwell_5_shop;Cromwell V
 uk_a27m_cromwell_5_0;"Tank, Cruiser, Mk. VIII, Cromwell, Mk. V
-Type C"
+<color=#C0C0C0>Type C</color>"
 uk_a27m_cromwell_5_1;Cromwell V
 uk_a27m_cromwell_5_2;Cromwell
 uk_a27m_cromwell_5_rp3_shop;Cromwell V (RP-3)
 uk_a27m_cromwell_5_rp3_0;"Tank, Cruiser, Mk. VIII, Cromwell, Mk. V
-Type C, RP-3"
+<color=#C0C0C0>Type C</color>
+<color=#C0C0C0>1946 60lb rocket bracket trials</color>"
 uk_a27m_cromwell_5_rp3_1;Cromwell V (RP-3)
 uk_a27m_cromwell_5_rp3_2;Cromwell
 
 uk_a30_challenger_shop;Challenger I
-uk_a30_challenger_0;"Tank, Cruiser, Mk. VIII, Challenger, Mk. I
-Machine No. 41-100"
+uk_a30_challenger_0;"Tank, Cruiser, Challenger, Mk. I
+<color=#C0C0C0>Machine No. 41-100</color>"
 uk_a30_challenger_1;Challenger I
 uk_a30_challenger_2;Challenger
 
 uk_a_34_comet_shop;Comet I
 uk_a_34_comet_0;"Tank, Cruiser, Mk. VIII, Comet, Mk. I
-Type A"
+<color=#C0C0C0>Type A</color>"
 uk_a_34_comet_1;Comet I
 uk_a_34_comet_2;Comet
-uk_a_34_comet_iron_duke_shop;Comet I (7th Arm.Div.)
+uk_a_34_comet_iron_duke_shop;Comet I
 uk_a_34_comet_iron_duke_0;"Tank, Cruiser, Mk. VIII, Comet, Mk. I
-Type A
-7th Armoured Division, «Iron Duke IV»"
+<color=#C0C0C0>Type A</color>
+<color=#E3D452>1st Royal Tank Regiment</color>"
 uk_a_34_comet_iron_duke_1;Comet I
 uk_a_34_comet_iron_duke_2;Comet
 
@@ -109,7 +111,8 @@ uk_valentine_mk_1_0;Tank, Infantry, Mk. III, Valentine, Mk. I
 uk_valentine_mk_1_1;Valentine I
 uk_valentine_mk_1_2;Valentine
 uk_valentine_mk_9_shop;Valentine IX
-uk_valentine_mk_9_0;Tank, Infantry, Mk. III, Valentine, Mk. IX
+uk_valentine_mk_9_0;"Tank, Infantry, Mk. III, Valentine, Mk. IX
+<color=#C0C0C0>with GM Type 6.71S engine</color>"
 uk_valentine_mk_9_1;Valentine IX
 uk_valentine_mk_9_2;Valentine
 uk_valentine_mk_11_shop;Valentine XI
@@ -148,14 +151,15 @@ uk_a_22f_mk_7_churchill_crocodile_2;Churchill
 
 
 uk_a_43_black_prince_shop;Black Prince
-uk_a_43_black_prince_0;Tank, Infantry, Black Prince
+uk_a_43_black_prince_0;"Tank, Infantry, Black Prince
+<color=#C0C0C0>Pilot No. 4 with Pilot No. 1 turret</color>"
 uk_a_43_black_prince_1;Black Prince
 uk_a_43_black_prince_2;Black Prince
 
 // LIGHT //
 uk_m3_stuart_shop;Stuart I
 uk_m3_stuart_0;"Tank, Light, Stuart, Mk. I
-D37812"
+<color=#C0C0C0>with D37812 turret</color>"
 uk_m3_stuart_1;Stuart I
 uk_m3_stuart_2;Stuart
 uk_m3a1_stuart_shop;Stuart III
@@ -185,24 +189,29 @@ uk_vickers_mk_6_aa_mk_1_2;Mk. VI
 
 // MEDIUM //
 uk_mk1_grant_shop;Grant I
-uk_mk1_grant_0;Tank, Medium, Grant, Mk. I (January 1942)
+uk_mk1_grant_0;"Tank, Medium, Grant, Mk. I
+<color=#C0C0C0>Jan 1942 production</color>"
 uk_mk1_grant_1;Grant I
 uk_mk1_grant_2;Grant
 us_mk1_grant_shop;▃ Grant I
-us_mk1_grant_0;Tank, Medium, Grant, Mk. I (January 1942)
+us_mk1_grant_0;"Tank, Medium, Grant, Mk. I
+<color=#C0C0C0>Jan 1942 production</color>"
 us_mk1_grant_1;▃ Grant I
 us_mk1_grant_2;Grant
 
 uk_sherman_II_shop;Sherman II
-uk_sherman_II_0;Tank, Medium, Sherman, Mk. II (August 1942) (PSC)
+uk_sherman_II_0;"Tank, Medium, Sherman, Mk. II
+<color=#C0C0C0>Aug 1942 PSC production</color>"
 uk_sherman_II_1;Sherman II
 uk_sherman_II_2;Sherman
 uk_sherman_vc_firefly_shop;Sherman VC
-uk_sherman_vc_firefly_0;Tank, Medium, Sherman, Mk. VC (May 1943) (Chrysler)
+uk_sherman_vc_firefly_0;"Tank, Medium, Sherman, Mk. VC
+<color=#C0C0C0>May 1943 Chrysler production</color>"
 uk_sherman_vc_firefly_1;Sherman VC
 uk_sherman_vc_firefly_2;Sherman
 uk_sherman_vc_firefly_kit_3rank_shop;Sherman VC
-uk_sherman_vc_firefly_kit_3rank_0;Tank, Medium, Sherman, Mk. VC (May 1943) (Chrysler)
+uk_sherman_vc_firefly_kit_3rank_0;"Tank, Medium, Sherman, Mk. VC
+<color=#C0C0C0>May 1943 Chrysler production</color>"
 uk_sherman_vc_firefly_kit_3rank_1;Sherman VC
 uk_sherman_vc_firefly_kit_3rank_2;Sherman
 
@@ -212,19 +221,19 @@ uk_tog_2_0;TOG 2* Heavily Armoured Assault Tank
 uk_tog_2_1;TOG 2*
 uk_tog_2_2;TOG 2
 
-uk_a1e1_independent_shop;Independent
-uk_a1e1_independent_0;Tank, Heavy, Independent
-uk_a1e1_independent_1;Independent
-uk_a1e1_independent_2;Independent
+uk_a1e1_independent_shop;A.1E1
+uk_a1e1_independent_0;Tank, Heavy, A.1E1
+uk_a1e1_independent_1;A.1E1
+uk_a1e1_independent_2;A.1
 
 uk_a39_tortoise_shop;Tortoise
 uk_a39_tortoise_0;Tank, Heavy Assault, Tortoise
 uk_a39_tortoise_1;Tortoise
 uk_a39_tortoise_2;Tortoise
 
-uk_a_33_excelsior_shop;Commodore II
-uk_a_33_excelsior_0;Tank, Assault, Mk. VIII, Commodore, Mk. II
-uk_a_33_excelsior_1;Commodore II
+uk_a_33_excelsior_shop;Commodore
+uk_a_33_excelsior_0;Tank, Heavy Assault, Commodore
+uk_a_33_excelsior_1;Commodore
 uk_a_33_excelsior_2;Commodore
 
 // MEDIUM GUN  //
@@ -233,7 +242,8 @@ uk_centurion_mk_1_0;Tank, Cruiser, Centurion, Mk. I*
 uk_centurion_mk_1_1;Centurion I
 uk_centurion_mk_1_2;Centurion
 uk_centurion_mk_2_shop;Centurion II
-uk_centurion_mk_2_0;Tank, Cruiser, Centurion, Mk. II
+uk_centurion_mk_2_0;"Tank, Cruiser, Centurion, Mk. II
+<color=#C0C0C0>with F.V.G.C.E., No. 1, Mk. 2 and Meteor Mk. IVA engine</color>"
 uk_centurion_mk_2_1;Centurion II
 uk_centurion_mk_2_2;Centurion
 uk_centurion_mk_3_shop;Centurion Mk. 3
@@ -241,12 +251,15 @@ uk_centurion_mk_3_0;Tank, Medium Gun, Centurion, Mk. 3
 uk_centurion_mk_3_1;Centurion Mk. 3
 uk_centurion_mk_3_2;Centurion
 uk_centurion_mk_5_avre_era_shop;Centurion Mk. 5 AVRE
-uk_centurion_mk_5_avre_era_0;Tank, Assault Vehicle, Royal Engineers, Centurion, Mk. 5
+uk_centurion_mk_5_avre_era_0;"Tank, Assault Vehicle, Royal Engineers,
+165 mm Gun, Centurion, Mk. 5"
 uk_centurion_mk_5_avre_era_1;Centurion Mk.5 AVRE
 uk_centurion_mk_5_avre_era_2;Centurion
-uk_centurion_action_x_shop;Centurion Mk. 7 (CMT)
-uk_centurion_action_x_0;Tank, Medium Gun, Centurion, Mk. 7 (Centurion Mantletless Turret)
-uk_centurion_action_x_1;Centurion Mk. 7 (CMT)
+uk_centurion_action_x_shop;CMT Testbed
+uk_centurion_action_x_0;"Centurion Mantletless Turret Testbed
+<color=#C0C0C0>Conversion from Tank, Medium Gun, Centurion, Mk. 7</color>
+<color=#C0C0C0>with turret F.V. 267252 and 20-pr. gun</color>"
+uk_centurion_action_x_1;CMT Testbed
 uk_centurion_action_x_2;Centurion
 uk_centurion_mk_10_shop;Centurion Mk. 10
 uk_centurion_mk_10_0;Tank, Medium Gun, Centurion, Mk. 10
@@ -258,17 +271,20 @@ uk_fv4202_1;Centurion 40-ton
 uk_fv4202_2;Centurion
 
 uk_charioteer_mk_7_shop;Charioteer Mk. 7
-uk_charioteer_mk_7_0;Tank, Medium Gun, Charioteer, Mk. 7 (Type F)
+uk_charioteer_mk_7_0;"Tank, Medium Gun, Charioteer, Mk. 7
+<color=#C0C0C0>Type F</color>"
 uk_charioteer_mk_7_1;Charioteer Mk. 7
 uk_charioteer_mk_7_2;Charioteer
 
 // COMBAT TANK //
 uk_chieftain_mk_3_shop;Chieftain Mk 3(XY)
-uk_chieftain_mk_3_0;Tank, Combat, 120 mm Gun, Chieftain, Mk 3(XY)
+uk_chieftain_mk_3_0;"Tank, Combat, 120 mm Gun, Chieftain, Mk 3(XY)
+<color=#C0C0C0>Exercise Totem Pole X & Y</color>"
 uk_chieftain_mk_3_1;Chieftain Mk 3
 uk_chieftain_mk_3_2;Chieftain
 uk_chieftain_mk_5_shop;Chieftain Mk 5
-uk_chieftain_mk_5_0;Tank, Combat, 120 mm Gun, Chieftain, Mk 5(C)
+uk_chieftain_mk_5_0;"Tank, Combat, 120 mm Gun, Chieftain, Mk 5(C)
+<color=#C0C0C0>FF Clansman</color>"
 uk_chieftain_mk_5_1;Chieftain Mk 5
 uk_chieftain_mk_5_2;Chieftain
 uk_chieftain_mk_10_shop;Chieftain Mk 10
@@ -277,7 +293,7 @@ uk_chieftain_mk_10_1;Chieftain Mk 10
 uk_chieftain_mk_10_2;Chieftain
 
 uk_shir_2_shop;Shir 2
-uk_shir_2_0;Tank, Combat, 120mm Gun, Shir Iran 2
+uk_shir_2_0;Tank, Combat, 120 mm Gun, Shir Iran 2
 uk_shir_2_1;Shir 2
 uk_shir_2_2;Shir
 
@@ -286,37 +302,54 @@ uk_challenger_1_0;Tank, Combat, 120 mm Gun, Challenger, Mk 2
 uk_challenger_1_1;Challenger Mk 2
 uk_challenger_1_2;Challenger
 uk_challenger_mk_3_shop;Challenger Mk 3
-uk_challenger_mk_3_0;Tank, Combat, 120 mm Gun, Challenger, Mk 3
+uk_challenger_mk_3_0;"Tank, Combat, 120 mm Gun, Challenger, Mk 3
+<color=#C0C0C0>1991 modifications</color>"
 uk_challenger_mk_3_1;Challenger Mk 3
 uk_challenger_mk_3_2;Challenger
-uk_challenger_1_mk_3_gulf_shop;Challenger Mk 3 (RSDG)
-uk_challenger_1_mk_3_gulf_0;Tank, Combat, 120 mm Gun, Challenger, Mk 3 (Royal Scots Dragoon Guards)
+uk_challenger_1_mk_3_gulf_shop;Challenger Mk 3
+uk_challenger_1_mk_3_gulf_0;"Tank, Combat, 120 mm Gun, Challenger, Mk 3
+<color=#C0C0C0>1991 modifications</color>
+<color=#E3D452>Royal Scots Dragoon Guards</color>"
 uk_challenger_1_mk_3_gulf_1;Challenger Mk 3
 uk_challenger_1_mk_3_gulf_2;Challenger
 
 uk_challenger_II_shop;Challenger 2 (2E)
-uk_challenger_II_0;Tank, Combat, 120 mm Gun, Challenger 2 (Dorchester Level 2E)
+uk_challenger_II_0;"Tank, Combat, 120 mm Gun, Challenger 2
+<color=#C0C0C0>Dorchester Level 2E</color>
+<color=#C0C0C0>2003 modifications</color>"
 uk_challenger_II_1;Challenger 2
 uk_challenger_II_2;Challenger 2
-uk_challenger_II_yt_cup_2019_shop;Challenger 2 (2E) (YTC)
-uk_challenger_II_yt_cup_2019_0;Tank, Combat, 120 mm Gun, Challenger 2 (Dorchester Level 2E) (YouTube Cup)
-uk_challenger_II_yt_cup_2019_1;Challenger 2
+uk_challenger_II_yt_cup_2019_shop;␙ Challenger 2 (2E)
+uk_challenger_II_yt_cup_2019_0;"Tank, Combat, 120 mm Gun, Challenger 2
+<color=#C0C0C0>Dorchester Level 2E</color>
+<color=#C0C0C0>2003 modifications</color>
+<color=#E3D452>␙ YouTube Cup ␙</color>"
+uk_challenger_II_yt_cup_2019_1;␙ Challenger 2
 uk_challenger_II_yt_cup_2019_2;Challenger 2
 uk_challenger_2_dorchester_shop;Challenger 2 (2F)
-uk_challenger_2_dorchester_0;Tank, Combat, 120 mm Gun, Challenger 2 (Dorchester Level 2F)
+uk_challenger_2_dorchester_0;"Tank, Combat, 120 mm Gun, Challenger 2
+<color=#C0C0C0>Dorchester Level 2F</color>
+<color=#C0C0C0>2007 modifications</color>"
 uk_challenger_2_dorchester_1;Challenger 2
 uk_challenger_2_dorchester_2;Challenger 2
-uk_challenger_2_tes_shop;Challenger 2 (TES 2008)
-uk_challenger_2_tes_0;Tank, Combat, 120 mm Gun, Challenger 2 (Theatre Entry Standard 2008)
-uk_challenger_2_tes_1;Challenger 2 (TES)
+uk_challenger_2_tes_shop;Challenger 2 TES (2H) (2008)
+uk_challenger_2_tes_0;"Tank, Combat, 120 mm Gun, Challenger 2 Theatre Entry Standard
+<color=#C0C0C0>Dorchester Level 2H</color>
+<color=#C0C0C0>2008 modifications</color>"
+uk_challenger_2_tes_1;Challenger 2 TES
 uk_challenger_2_tes_2;Challenger 2
-uk_challenger_2_megatron_shop;Challenger 2 (TES 2012)
-uk_challenger_2_megatron_0;Tank, Combat, 120 mm Gun, Challenger 2 (Theatre Entry Standard 2012)
-uk_challenger_2_megatron_1;Challenger 2 (TES)
+uk_challenger_2_megatron_shop;Challenger 2 TES (2H) (2012)
+uk_challenger_2_megatron_0;"Tank, Combat, 120 mm Gun, Challenger 2 Theatre Entry Standard
+<color=#C0C0C0>Dorchester Level 2H</color>
+<color=#C0C0C0>2012 modifications</color>"
+uk_challenger_2_megatron_1;Challenger 2 TES
 uk_challenger_2_megatron_2;Challenger 2
-uk_challenger_2_megatron_sm_shop;◍ Challenger 2 (TES 2012)
-uk_challenger_2_megatron_sm_0;Tank, Combat, 120 mm Gun, Challenger 2 (Theatre Entry Standard 2012)
-uk_challenger_2_megatron_sm_1;◍ Challenger 2 (TES)
+uk_challenger_2_megatron_sm_shop;◍ Challenger 2 TES (2H) (2012)
+uk_challenger_2_megatron_sm_0;"Tank, Combat, 120 mm Gun, Challenger 2 Theatre Entry Standard
+<color=#C0C0C0>Dorchester Level 2H</color>
+<color=#C0C0C0>2012 modifications</color>
+<color=#E3D452>◍ Senrai Maidens ◍</color>"
+uk_challenger_2_megatron_sm_1;◍ Challenger 2 TES
 uk_challenger_2_megatron_sm_2;Challenger 2
 
 // HEAVY GUN //
@@ -353,43 +386,46 @@ uk_m109a1_1;▄ M109A1
 uk_m109a1_2;M109
 
 uk_as_90_mk_2_shop;AS90 (CEP)
-uk_as_90_mk_2_0;Gun, Self-Propelled, 155mm, L131, AS90 (Capability Enhancement Programme, Technology Insertion Package 1)
+uk_as_90_mk_2_0;"Gun, Self-Propelled, 155 mm, L131, AS90
+<color=#C0C0C0>Capability Enhancement Programme,</color>
+<color=#C0C0C0>Technology Insertion Package 1</color>"
 uk_as_90_mk_2_1;AS90 (CEP)
 uk_as_90_mk_2_2;AS90
 
 // SP //
 uk_17_pdr_m10_achilles_shop;Achilles IIC
-uk_17_pdr_m10_achilles_0;17-pr, S.P., M10, Achilles, Mk. IIC
+uk_17_pdr_m10_achilles_0;17-pr., S.P., M10, Achilles, Mk. IIC
 uk_17_pdr_m10_achilles_1;Achilles IIC
 uk_17_pdr_m10_achilles_2;Achilles
-uk_17_pdr_m10_achilles_norfolk_yeomanry_shop;Achilles IIC (65th A.T.Reg.)
-uk_17_pdr_m10_achilles_norfolk_yeomanry_0;17-pr, S.P., M10, Achilles, Mk. IIC (65th Anti-Tank Regiment “Norfolk Yeomanry”)
+uk_17_pdr_m10_achilles_norfolk_yeomanry_shop;Achilles IIC
+uk_17_pdr_m10_achilles_norfolk_yeomanry_0;17-pr., S.P., M10, Achilles, Mk. IIC
+<color=#E3D452>65th Anti-Tank Regiment “Norfolk Yeomanry”</color>
 uk_17_pdr_m10_achilles_norfolk_yeomanry_1;Achilles IIC
 uk_17_pdr_m10_achilles_norfolk_yeomanry_2;Achilles
 
 uk_sp_17_pdr_valentine_shop;Archer I
-uk_sp_17_pdr_valentine_0;17-pr, S.P.1, Valentine, Mk. I, Archer, Mk. I
+uk_sp_17_pdr_valentine_0;17-pr., S.P.1, Valentine, Mk. I, Archer, Mk. I
 uk_sp_17_pdr_valentine_1;Archer I
 uk_sp_17_pdr_valentine_2;Archer
 
 uk_a30_sp_avenger_shop;Avenger I
-uk_a30_sp_avenger_0;17-pr, S.P.2, A.30, Avenger, Mk. I
+uk_a30_sp_avenger_0;17-pr., S.P.2, A.30, Avenger, Mk. I
 uk_a30_sp_avenger_1;Avenger I
 uk_a30_sp_avenger_2;Avenger
 uk_a30_sp_avenger_kit_3rank_shop;Avenger I
-uk_a30_sp_avenger_kit_3rank_0;17-pr, S.P.2, A.30, Avenger, Mk. I
+uk_a30_sp_avenger_kit_3rank_0;17-pr., S.P.2, A.30, Avenger, Mk. I
 uk_a30_sp_avenger_kit_3rank_1;Avenger I
 uk_a30_sp_avenger_kit_3rank_2;Avenger
 
 uk_alecto_mk_1_shop;Alecto I
-uk_alecto_mk_1_0;95 mm, S.P.3, A.25E2, Alecto, Mk. I
+uk_alecto_mk_1_0;95 mm., S.P.3, A.25, Alecto, Mk. I
 uk_alecto_mk_1_1;Alecto I
 uk_alecto_mk_1_2;Alecto
 
 // ARMOURED CAR //
-uk_t17e2_shop;Staghound A.A.
-uk_t17e2_0;Car, Armoured, Staghound, A.A.
-uk_t17e2_1;Staghound A.A.
+uk_t17e2_shop;Staghound A.A. I
+uk_t17e2_0;Car, Armoured, Staghound, A.A., Mk. I
+uk_t17e2_1;Staghound A.A. I
 uk_t17e2_2;Staghound
 
 uk_armored_car_aec_mk_2_shop;A.E.C. II
@@ -404,21 +440,24 @@ uk_daimler_mk_2_2;Daimler
 
 // CVR //
 uk_fv721_fox_shop;Fox
-uk_fv721_fox_0;Combat Vehicle, Reconnaissance, Wheeled, 30-mm Gun, Fox
+uk_fv721_fox_0;Combat Vehicle, Reconnaissance, Wheeled, 30 mm Gun, Fox
 uk_fv721_fox_1;Fox
 uk_fv721_fox_2;Fox
 
 uk_fv107_scimitar_shop;Scimitar
-uk_fv107_scimitar_0;Combat Vehicle, Reconnaissance, Full-Tracked, Scimitar (1994)
+uk_fv107_scimitar_0;"Combat Vehicle, Reconnaissance, Full-Tracked, Scimitar
+<color=#C0C0C0>1994 modifications</color>"
 uk_fv107_scimitar_1;Scimitar
 uk_fv107_scimitar_2;Scimitar
 uk_fv107_scimitar_mk2_shop;Scimitar Mk 2 TES
-uk_fv107_scimitar_mk2_0;Combat Vehicle, Reconnaissance, Full-Tracked, Scimitar Mk 2, Theatre Entry Standard
-uk_fv107_scimitar_mk2_1;Scimitar Mk 2
+uk_fv107_scimitar_mk2_0;Combat Vehicle, Reconnaissance, Full-Tracked, Scimitar Mk 2 Theatre Entry Standard
+uk_fv107_scimitar_mk2_1;Scimitar Mk 2 TES
 uk_fv107_scimitar_mk2_2;Scimitar
 
 uk_fv102_striker_shop;Striker
-uk_fv102_striker_0;Anti-Armour Guided Weapon Carrier, Striker
+uk_fv102_striker_0;"Combat Vehicle, Reconnaissance, Full Tracked,
+Launcher, Guided Missile, Carrier Mounted, Striker
+<color=#C0C0C0>1988 modifications</color>"
 uk_fv102_striker_1;Striker
 uk_fv102_striker_2;Striker
 
@@ -427,40 +466,47 @@ uk_falcon_shop;Falcon
 uk_falcon_0;Falcon Anti-Aircraft Gun System
 uk_falcon_1;Falcon
 uk_falcon_2;Falcon
-uk_fv438_swingfire_shop;FV438
-uk_fv438_swingfire_0;Launcher, Guided Missile, Carrier Mounted, Full Tracked, FV438
-uk_fv438_swingfire_1;FV438
-uk_fv438_swingfire_2;FV438
+uk_fv438_swingfire_shop;Swingfire
+uk_fv438_swingfire_0;Launcher, Guided Missile, Carrier Mounted, Full Tracked, Swingfire
+uk_fv438_swingfire_1;Swingfire
+uk_fv438_swingfire_2;Swingfire
 
-uk_stormer_hvm_shop;FV4333
-uk_stormer_hvm_0;Combat Vehicle, Carrier, Full Tracked, High Velocity Missile (HVM), FV4333
-uk_stormer_hvm_1;FV4333
-uk_stormer_hvm_2;FV4333
+uk_stormer_hvm_shop;HVM
+uk_stormer_hvm_0;Combat Vehicle, Carrier, Full Tracked, High Velocity Missile System
+uk_stormer_hvm_1;HVM
+uk_stormer_hvm_2;HVM
 
 // IFV //
 uk_fv510_isv_shop;Warrior ISV
-uk_fv510_isv_0;Combat Vehicle, Personnel, Tracked, 30 mm Gun, Warrior Infantry Section Vehicle
+uk_fv510_isv_0;"Combat Vehicle, Personnel, Tracked, 30 mm Gun, Warrior
+<color=#C0C0C0>2005 modifications</color>"
 uk_fv510_isv_1;Warrior ISV
 uk_fv510_isv_2;Warrior
 
 uk_ajax_shop;Ajax
-uk_ajax_0;Combat Vehicle, Reconnaissance, Full Tracked, Ajax (Capability Drop 3)
+uk_ajax_0;"Combat Vehicle, Reconnaissance, Full Tracked, Ajax
+<color=#C0C0C0>Capability Drop 3</color>"
 uk_ajax_1;Ajax
 uk_ajax_2;Ajax
 
 // SPAA //
 
 uk_tracked_rapier_shop;Tracked Rapier
-uk_tracked_rapier_0;Tracked Rapier Launch Vehicle RCM 748
+uk_tracked_rapier_0;"Tracked Rapier Launch Vehicle RCM 748
+<color=#C0C0C0>Field Standard B1</color>"
 uk_tracked_rapier_1;Tracked Rapier
 uk_tracked_rapier_2;Tracked Rapier
 
 uk_sky_sabre_launcher_shop;SV 15t (Land Ceptor)
-uk_sky_sabre_launcher_0;Support Vehicle, Cargo, Heavy (Medium Mobility), 15 Tonne, 8x8, Euro 4 MAN (Land Ceptor Launcher)
+uk_sky_sabre_launcher_0;"Support Vehicle, Cargo, Heavy (Improved Medium Mobility),
+15 Tonne, 8x8, Euro 4 MAN
+<color=#C0C0C0>Land Ceptor Launcher</color>"
 uk_sky_sabre_launcher_1;SV 15t (Land Ceptor)
 uk_sky_sabre_launcher_2;SV 15t
 uk_sky_sabre_fcs_shop;SV 15t (Giraffe AMB)
-uk_sky_sabre_fcs_0;Support Vehicle, Cargo, Heavy (Medium Mobility), 15 Tonne, 8x8, Euro 4 MAN (Saab Giraffe Agile Multi Beam)
+uk_sky_sabre_fcs_0;"Support Vehicle, Cargo, Heavy (Improved Medium Mobility),
+15 Tonne, 8x8, Euro 4 MAN
+<color=#C0C0C0>Saab Giraffe Agile Multi Beam</color>"
 uk_sky_sabre_fcs_1;SV 15t (Giraffe AMB)
 uk_sky_sabre_fcs_2;SV 15t
 
@@ -496,26 +542,23 @@ ah_64e_britain_1;Apache Mk. 2
 ah_64e_britain_2;Apache
 
 aw_159_shop;Wildcat HMA.2
-aw_159_0;Wildcat HMA. Mk. 2
+aw_159_0;"Wildcat HMA. Mk. 2
+<color=#C0C0C0>Future Anti-Surface Guided Weapon Programme</color>"
 aw_159_1;Wildcat Mk. 2
 aw_159_2;Wildcat
 
 // OTHER //
 
-uk_truck_us6_studebaker_tent_0;US6
-uk_truck_us6_studebaker_tent_1;US6
-uk_truck_us6_studebaker_tent_2;US6
-uk_truck_us6_studebaker_board_0;US6
-uk_truck_us6_studebaker_board_1;US6
-uk_truck_us6_studebaker_board_2;US6
+uk_truck_us6_studebaker_tent_0;US 6
+uk_truck_us6_studebaker_tent_1;US 6
+uk_truck_us6_studebaker_tent_2;US 6
+uk_truck_us6_studebaker_board_0;US 6
+uk_truck_us6_studebaker_board_1;US 6
+uk_truck_us6_studebaker_board_2;US 6
 
-uk_at_gun_qf6pounder_0;6-pr Mk. V
-uk_at_gun_qf6pounder_1;6-pr Mk. V
-uk_at_gun_qf6pounder_2;6-pr
-uk_at_gun_qf17pounder_0;17-pr Mk. I
-uk_at_gun_qf17pounder_1;17-pr Mk. I
-uk_at_gun_qf17pounder_2;17-pr
-
-uk_machinegun_hotchkiss_mle_1914_0;Machine Gun, Hotchkiss Mk. I
-uk_machinegun_hotchkiss_mle_1914_1;Hotchkiss Mk. I
-uk_machinegun_hotchkiss_mle_1914_2;Hotchkiss Mk. I
+uk_at_gun_qf6pounder_0;6-pr. Mk. V
+uk_at_gun_qf6pounder_1;6-pr. Mk. V
+uk_at_gun_qf6pounder_2;6-pr.
+uk_at_gun_qf17pounder_0;17-pr. Mk. I
+uk_at_gun_qf17pounder_1;17-pr. Mk. I
+uk_at_gun_qf17pounder_2;17-pr.

@@ -3,32 +3,36 @@ shop/group/fiat_g91_group;G.91 / G.91 R/1
 shop/group/fiat_g91y_group;G.91 Y / G.91 YS
 shop/group/tornado_ids_it_group;A-200A (1995) / A-200C (RET 8)
 
-spitfire_mk5b_italy_shop;⛨ Spitfire F. Mk. Vb (Trop) (20° Gr.)
-spitfire_mk5b_italy_0;Spitfire F. Mk. Vb (Tropicale) (20° Gruppo)
+spitfire_mk5b_italy_shop;⛨ Spitfire F. Mk. Vb (Trop.)
+spitfire_mk5b_italy_0;"Spitfire F. Mk. Vb
+<color=#C0C0C0>Dec 1941 production + May 1942 modifications</color>
+<color=#C0C0C0>Mod No. 411 (Tropical Conversion)</color>
+<color=#E3D452>20° Gruppo</color>"
 spitfire_mk5b_italy_1;⛨ Spitfire Mk. V
 spitfire_mk5b_italy_2;Spitfire
 
 vampire_fb52a_italy_shop;⛨ Vampire FB.52a
-vampire_fb52a_italy_0;Velivolo Vampire FB. Mk. 52a
+vampire_fb52a_italy_0;Velivolo Vampire tipo 52
 vampire_fb52a_italy_1;⛨ Vampire Mk. 52
 vampire_fb52a_italy_2;Vampire
 
 p-47d_30_italy_shop;⛨ F-47D-30
-p-47d_30_italy_0;Velivolo F-47D-30 RA
+p-47d_30_italy_0;Velivolo F-47D-30-RA
 p-47d_30_italy_1;⛨ F-47D
 p-47d_30_italy_2;F-47
 
 f-84g_italy_shop;⛨ F-84G-21
-f-84g_italy_0;Velivolo Caccia-Bombardiere F-84G-21 RE
+f-84g_italy_0;Velivolo caccia-bombardiere F-84G-21-RE
 f-84g_italy_1;⛨ F-84G
 f-84g_italy_2;F-84
 f-84f_italy_shop;⛨ F-84F-66
-f-84f_italy_0;Velivolo Caccia-Bombardiere F-84F-66 RE
+f-84f_italy_0;Velivolo caccia-bombardiere F-84F-66-RE
 f-84f_italy_1;⛨ F-84F
 f-84f_italy_2;F-84
 
 f-86k_late_italy_shop;⛨ F-86K
-f-86k_late_italy_0;Velivolo Intercettore F-86K (1962)
+f-86k_late_italy_0;"Velivolo intercettore F-86K
+<color=#C0C0C0>1962 modifications</color>"
 f-86k_late_italy_1;⛨ F-86K
 f-86k_late_italy_2;F-86
 
@@ -50,13 +54,13 @@ f-104s_asa_1;⛨ F-104S
 f-104s_asa_2;F-104
 
 f_16a_block_15_adf_italy_shop;⛨ F-16A-15 ADF
-f_16a_block_15_adf_italy_0;Velivolo F-16A-15 CF ADF
+f_16a_block_15_adf_italy_0;Velivolo F-16A-15M-CF ADF
 f_16a_block_15_adf_italy_1;⛨ F-16A
 f_16a_block_15_adf_italy_2;F-16
 
-f-86_cl_13_mk4_italy_shop;⛨ Sabre Mk. 4
-f-86_cl_13_mk4_italy_0;Velivolo CL-13 Sabre Mk. 4
-f-86_cl_13_mk4_italy_1;⛨ Sabre Mk. 4
+f-86_cl_13_mk4_italy_shop;⛨ F-86E(M)
+f-86_cl_13_mk4_italy_0;Velivolo F-86E(M)
+f-86_cl_13_mk4_italy_1;⛨ F-86E(M)
 f-86_cl_13_mk4_italy_2;Sabre
 
 sagittario_2_shop;Sagittario 2
@@ -69,7 +73,8 @@ ariete_1;Ariete
 ariete_2;Ariete
 
 fiat_g91_ps_shop;G.91
-fiat_g91_ps_0;Velivolo G.91
+fiat_g91_ps_0;"Velivolo G.91
+<color=#C0C0C0>pre-serie</color>"
 fiat_g91_ps_1;G.91
 fiat_g91_ps_2;G.91
 fiat_g91_r1_shop;G.91 R/1
@@ -86,33 +91,46 @@ fiat_g91_ys_1;G.91 YS
 fiat_g91_ys_2;G.91
 
 tornado_ids_it_shop;A-200A
-tornado_ids_it_0;Velivolo A-200A Tornado (Batch 1)
+tornado_ids_it_0;"Velivolo A-200A Tornado
+<color=#C0C0C0>Batch 1</color>"
 tornado_ids_it_1;A-200A
 tornado_ids_it_2;A-200
 tornado_ids_it_mod95_shop;A-200A (1995)
-tornado_ids_it_mod95_0;Velivolo A-200A Tornado (Batch 2) (1995)
+tornado_ids_it_mod95_0;"Velivolo A-200A Tornado
+<color=#C0C0C0>Batch 2</color>
+<color=#C0C0C0>1995 modifications</color>"
 tornado_ids_it_mod95_1;A-200A
 tornado_ids_it_mod95_2;A-200
 tornado_ids_it_mod95_killstreak_shop;A-200A (1995)
-tornado_ids_it_mod95_killstreak_0;Velivolo A-200A Tornado (Batch 2) (1995)
+tornado_ids_it_mod95_killstreak_0;"Velivolo A-200A Tornado
+<color=#C0C0C0>Batch 2</color>
+<color=#C0C0C0>1995 modifications</color>"
 tornado_ids_it_mod95_killstreak_1;A-200A
 tornado_ids_it_mod95_killstreak_2;A-200
 tornado_ids_it_ret8_shop;A-200C (RET 8)
-tornado_ids_it_ret8_0;Velivolo A-200C Tornado (RET 8)
+tornado_ids_it_ret8_0;"Velivolo A-200C Tornado
+<color=#C0C0C0>Retro Enabling Task 8</color>"
 tornado_ids_it_ret8_1;A-200C
 tornado_ids_it_ret8_2;A-200
 tornado_adv_shop;⛨ Tornado ADV
-tornado_adv_0;Velivolo Tornado ADV (Stage 2)
+tornado_adv_0;"Velivolo Tornado ADV
+<color=#C0C0C0>Batch 6</color>
+<color=#C0C0C0>Stage 2 modifications</color>"
 tornado_adv_1;⛨ Tornado ADV
 tornado_adv_2;Tornado
 
 ef_2000a_shop;F-2000A (P1Ea)
-ef_2000a_0;Velivolo F-2000A Typhoon (Tranche 2 Block 10) (Phase 1 Enhancement A)
-ef_2000a_1;F-2000A (P1Ea)
+ef_2000a_0;"Velivolo F-2000A Typhoon
+<color=#C0C0C0>Tranche 2 Block 10</color>
+<color=#C0C0C0>Phase 1 Enhancement A</color>"
+ef_2000a_1;F-2000A (P1E)
 ef_2000a_2;F-2000
-ef_2000a_aesa_shop;F-2000A (P4E)
-ef_2000a_aesa_0;Velivolo F-2000A (Tranche 4) (Phase 4 Enhancement)
-ef_2000a_aesa_1;F-2000A (P4E)
+ef_2000a_aesa_shop;F-2000A (P3Ec)
+ef_2000a_aesa_0;"Velivolo F-2000A Typhoon
+<color=#C0C0C0>Tranche 4</color>
+<color=#C0C0C0>Phase 3 Enhancement C Step 3</color>
+<color=#C0C0C0>with Phase 4 Enhancement integration of ECRS Mk. 2</color>"
+ef_2000a_aesa_1;F-2000A (P3E)
 ef_2000a_aesa_2;F-2000
 
 av_8b_plus_italy_shop;⛨ Harrier II Plus

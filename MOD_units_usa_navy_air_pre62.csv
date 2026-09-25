@@ -36,9 +36,9 @@ f3f-2_shop;F3F-2
 f3f-2_0;F3F-2
 f3f-2_1;F3F-2
 f3f-2_2;F3F
-f3f-2_galer_shop;F3F-2 (VMF-2)
+f3f-2_galer_shop;F3F-2
 f3f-2_galer_0;"F3F-2
-Robert Galer, Marine Fighter Squadron 2 (VMF-2)"
+<color=#E3D452>Robert Galer, Marine Fighter Squadron 2</color>"
 f3f-2_galer_1;F3F-2
 f3f-2_galer_2;F3F
 
@@ -88,9 +88,9 @@ f9f-2_0;F9F-2 Panther
 f9f-2_1;F9F-2
 f9f-2_2;F9F
 
-f11f_1_late_shop;F11F-1 (VF-33)
+f11f_1_late_shop;F11F-1
 f11f_1_late_0;"F11F-1 Tiger
-Fighter Squadron 33 (VF-33) "Astronauts""
+<color=#E3D452>Fighter Squadron 33 (VF-33) ""Astronauts""</color>"
 f11f_1_late_1;F11F-1
 f11f_1_late_2;F11F
 
@@ -106,7 +106,7 @@ f4u-1a_1;F4U-1
 f4u-1a_2;F4U
 f4u-1a_usmc_shop;F4U-1A (USMC)
 f4u-1a_usmc_0;"F4U-1A Corsair
-United States Marine Corps modification"
+<color=#E3D452>United States Marine Corps modification</color>"
 f4u-1a_usmc_1;F4U-1
 f4u-1a_usmc_2;F4U
 f4u-1c_shop;F4U-1C
@@ -125,9 +125,9 @@ f4u-4b_shop;F4U-4B
 f4u-4b_0;F4U-4B Corsair
 f4u-4b_1;F4U-4
 f4u-4b_2;F4U
-f4u-4b_vmf_214_shop;F4U-4B (VMF-214)
+f4u-4b_vmf_214_shop;F4U-4B
 f4u-4b_vmf_214_0;"F4U-4B Corsair
-Marine Fighter Squadron 214 (VMF-214) ""Black Sheep"""
+<color=#E3D452>Marine Fighter Squadron 214 (VMF-214) ""Black Sheep""</color>"
 f4u-4b_vmf_214_1;F4U-4
 f4u-4b_vmf_214_2;F4U
 
@@ -136,9 +136,9 @@ f2g-1_0;F2G-1 Super Corsair
 f2g-1_1;F2G-1
 f2g-1_2;F2G
 
-f4u-6_au-1_shop;AU-1 (AES-12)
+f4u-6_au-1_shop;AU-1
 f4u-6_au-1_0;"AU-1 Corsair
-Aircraft Engineering Squadron 12 (AES-12)"
+<color=#E3D452>Aircraft Engineering Squadron 12 (AES-12)</color>"
 f4u-6_au-1_1;AU-1
 f4u-6_au-1_2;AU
 
@@ -175,9 +175,9 @@ sb2u-2_1;SB2U-2
 sb2u-2_2;SB2U
 
 // Douglas //
-f4d_1_shop;F4D-1 (VF-74)
+f4d_1_shop;F4D-1
 f4d_1_0;"F4D-1 Skyray
-Fighter Squadron 74 (VF-74) ""Be-Devilers"""
+<color=#E3D452>Fighter Squadron 74 (VF-74) ""Be-Devilers""</color>"
 f4d_1_1;F4D-1
 f4d_1_2;F4D
 
@@ -210,6 +210,11 @@ a2d_0;A2D-1 Skyshark
 a2d_1;A2D-1
 a2d_2;A2D
 
+f3d_1_shop;F3D-1
+f3d_1_0;F3D-1 Skyknight
+f3d_1_1;F3D-1
+f3d_1_2;F3D
+
 // McDonnell Douglas //
 f2h-2_shop;F2H-2
 f2h-2_0;F2H-2 Banshee
@@ -221,9 +226,9 @@ f2a-1_shop;F2A-1
 f2a-1_0;F2A-1 Buffalo
 f2a-1_1;F2A-1
 f2a-1_2;F2A
-f2a-1_thach_shop;F2A-1 (VF-3)
+f2a-1_thach_shop;F2A-1
 f2a-1_thach_0;"F2A-1 Buffalo
-John Thach, Fighter Squadron 3 (VF-3)"
+<color=#E3D452>John Thach, Fighter Squadron 3 (VF-3)</color>"
 f2a-1_thach_1;F2A-1
 f2a-1_thach_2;F2A
 f2a-3_shop;F2A-3
@@ -289,9 +294,9 @@ pbj_1j_1_0;PBJ-1J Mitchell
 pbj_1j_1_1;PBJ-1
 pbj_1j_1_2;PBJ
 
-fj_4b_agm_12b_shop;FJ-4B (VMF-232)
+fj_4b_agm_12b_shop;FJ-4B
 fj_4b_agm_12b_0;"FJ-4B Fury
-Marine Fighter Squadron 232 (VMF-232) ""Red Devils"""
+<color=#E3D452>Marine Fighter Squadron 232 (VMF-232) ""Red Devils""</color>"
 fj_4b_agm_12b_1;FJ-4B
 fj_4b_agm_12b_2;FJ-4
 

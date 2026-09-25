@@ -1,13 +1,14 @@
 <ID|readonly|noverify>;<NewLanguage>
 
-fokker_g1a_shop;G.I Mercury
-fokker_g1a_0;G.I Mercury
-fokker_g1a_1;G.I Mercury
+fokker_g1a_shop;G.I (Mercury)
+fokker_g1a_0;"G.I
+<color=#C0C0C0>met Mercury-motoren</color>"
+fokker_g1a_1;G.I
 fokker_g1a_2;G.I
 
-fokker_d21_netherlands_shop;D.XXI
-fokker_d21_netherlands_0;D.XXI
-fokker_d21_netherlands_1;D.XXI
+fokker_d21_netherlands_shop;D.XXI-3
+fokker_d21_netherlands_0;D.XXI-3
+fokker_d21_netherlands_1;D.XXI-3
 fokker_d21_netherlands_2;D.XXI
 fokker_d23_shop;D.XXIII
 fokker_d23_0;D.XXIII
@@ -15,76 +16,81 @@ fokker_d23_1;D.XXIII
 fokker_d23_2;D.XXIII
 
 h-75a-7_shop;◗ Hawk 75A-7
-h-75a-7_0;◗ Hawk 75A-7
+h-75a-7_0;Hawk 75A-7
 h-75a-7_1;◗ Hawk 75A
 h-75a-7_2;Hawk 75
 
 sb_25j_netherlands_shop;◗ B-25K
-sb_25j_netherlands_0;◗ B-25K
+sb_25j_netherlands_0;"B-25K
+<color=#C0C0C0>1949 modifications</color>"
 sb_25j_netherlands_1;◗ B-25K
 sb_25j_netherlands_2;B-25
 
 nf_5a_netherlands_shop;◗ NF-5A
-nf_5a_netherlands_0;◗ NF-5A
+nf_5a_netherlands_0;"NF-5A
+<color=#C0C0C0>Elektronische Oorlogvoering (EOV)-apparatuur</color>"
 nf_5a_netherlands_1;◗ NF-5A
 nf_5a_netherlands_2 NF-5
 
 f_16a_block_5_netherlands_shop;◗ F-16A-5
-f_16a_block_5_netherlands_0;◗ F-16A-5
+f_16a_block_5_netherlands_0;F-16A-5
 f_16a_block_5_netherlands_1;◗ F-16A
 f_16a_block_5_netherlands_2;F-16
-f_16am_block_20_mlu_netherlands_shop;◗ F-16AM-20
-f_16am_block_20_mlu_netherlands_0;◗ F-16AM-20
+f_16am_block_20_mlu_netherlands_shop;◗ F-16AM
+f_16am_block_20_mlu_netherlands_0;F-16AM
 f_16am_block_20_mlu_netherlands_1;◗ F-16AM
 f_16am_block_20_mlu_netherlands_2;F-16
 
-firefly_mk4_netherlands_shop;◗ Firefly F.4
-firefly_mk4_netherlands_0;◗ Firefly F. Mk. 4
+firefly_mk4_netherlands_shop;◗ Firefly FR.4
+firefly_mk4_netherlands_0;Firefly FR. Mk. 4
 firefly_mk4_netherlands_1;◗ Firefly Mk. 4
 firefly_mk4_netherlands_2;Firefly
 
-sea_fury_fb51_shop;◗ Sea Fury FB.51
-sea_fury_fb51_0;◗ Sea Fury FB. Mk. 51
+sea_fury_fb51_shop;◗ Sea Fury Mk. 51
+sea_fury_fb51_0;Sea Fury Mk. 51
 sea_fury_fb51_1;◗ Sea Fury Mk. 51
 sea_fury_fb51_2;Sea Fury
 
 sea_hawk_fga50_netherlands_shop;◗ Sea Hawk Mk. 50
-sea_hawk_fga50_netherlands_0;◗ Sea Hawk Mk. 50
+sea_hawk_fga50_netherlands_0;"Sea Hawk Mk. 50
+<color=#C0C0C0>1959 Guided Missile, Intercept-Aerial, AIM-9 modifications</color>"
 sea_hawk_fga50_netherlands_1;◗ Sea Hawk Mk. 50
 sea_hawk_fga50_netherlands_2;Sea Hawk
 
 hunter_f6_holland_shop;◗ Hunter F.6
-hunter_f6_holland_0;◗ Hunter F. Mk. 6
+hunter_f6_holland_0;"Hunter F. Mk. 6
+<color=#C0C0C0>with Guided Missile, Intercept-Aerial, AIM-9 modifications</color>"
 hunter_f6_holland_1;◗ Hunter Mk. 6
 hunter_f6_holland_2;Hunter
 
 fr_cv_9035_nl_shop;◗ CV9035NL
-fr_cv_9035_nl_0;◗ Infanteriegevechtsvoertuig, Rups, CV9035NL
+fr_cv_9035_nl_0;Infanteriegevechtsvoertuig, Rups, CV9035NL
 fr_cv_9035_nl_1;◗ CV9035
 fr_cv_9035_nl_2;CV90
 
 fr_leopard_2a4nl_shop;◗ Leopard 2 A4 NL
-fr_leopard_2a4nl_0;◗ Gevechtstank, Rups, Leopard 2A4 NL m/kanon 120 mm
+fr_leopard_2a4nl_0;Gevechtstank, Rups, Leopard 2A4 NL m/kanon 120 mm
 fr_leopard_2a4nl_1;◗ Leopard 2 A4
 fr_leopard_2a4nl_2;Leopard 2
-fr_leopard_2a4nl_les_shop;◗ Leopard 2 A4 NL (OTCRij)
-fr_leopard_2a4nl_les_0;◗ Gevechtstank, Rups, Leopard 2A4 NL m/kanon 120 mm (Opleidings- en Trainingscentrum Rijden)
+fr_leopard_2a4nl_les_shop;◗ Leopard 2 A4 NL
+fr_leopard_2a4nl_les_0;"Gevechtstank, Rups, Leopard 2A4 NL m/kanon 120 mm
+<color=#E3D452>Opleidings- en Trainingscentrum Rijden</color>"
 fr_leopard_2a4nl_les_1;◗ Leopard 2 A4
 fr_leopard_2a4nl_les_2;Leopard 2
 fr_leopard_2a5nl_shop;◗ Leopard 2 A5 NL
-fr_leopard_2a5nl_0;◗ Gevechtstank, Rups, Leopard 2A5 NL m/kanon 120 mm
+fr_leopard_2a5nl_0;Gevechtstank, Rups, Leopard 2A5 NL m/kanon 120 mm
 fr_leopard_2a5nl_1;◗ Leopard 2 A5
 fr_leopard_2a5nl_2;Leopard 2
 fr_leopard_2a6nl_shop;◗ Leopard 2 A6 NL
-fr_leopard_2a6nl_0;◗ Gevechtstank, Rups, Leopard 2A6 NL m/kanon 120 mm
+fr_leopard_2a6nl_0;Gevechtstank, Rups, Leopard 2A6 NL m/kanon 120 mm
 fr_leopard_2a6nl_1;◗ Leopard 2 A6
 fr_leopard_2a6nl_2;Leopard 2
 
 ah_64d_netherlands_shop;◗ AH-64D
-ah_64d_netherlands_0;◗ AH-64D
+ah_64d_netherlands_0;AH-64D
 ah_64d_netherlands_1;◗ AH-64D
 ah_64d_netherlands_2;AH-64
 ah_64e_netherlands_shop;◗ AH-64E
-ah_64e_netherlands_0;◗ AH-64E
+ah_64e_netherlands_0;AH-64E
 ah_64e_netherlands_1;◗ AH-64E
 ah_64e_netherlands_2;AH-64

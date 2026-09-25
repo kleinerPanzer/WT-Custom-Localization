@@ -138,7 +138,7 @@ d_371_1;D.371-C1
 d_371_2;D.371
 d_371_hs9_shop;D.371 (2 canons)
 d_371_hs9_0;"D.371
-2 canons à l'étude"
+<color=#C0C0C0>2 canons à l'étude</color>"
 d_371_hs9_1;D.371 (2 canons)
 d_371_hs9_2;D.371
 d_373_shop;D.373
@@ -156,8 +156,7 @@ d_501_1;D.501-C1
 d_501_2;D.501
 d_510_shop;D.510-C1
 d_510_0;"D.510-C1
-<color=#E3D452>Groupe de Chasse I/1</color>
-<color=#E3D452>Gabriel Pallier</color>"
+<color=#E3D452>Gabriel Pallier, Groupe de Chasse I/1</color>"
 d_510_1;D.510-C1
 d_510_2;D.510
 
@@ -193,27 +192,27 @@ db_7_2;DB-7
 
 h-75a-1_france_shop;H75-C1
 h-75a-1_france_0;"H75-C1
-№ 1–100"
+<color=#C0C0C0>№ 1–100</color>"
 h-75a-1_france_1;H75-C1
 h-75a-1_france_2;H75
 h-75a-1_france39_shop;H75-C1
 h-75a-1_france39_0;"H75-C1
-№ 1–100"
+<color=#C0C0C0>№ 1–100</color>"
 h-75a-1_france39_1;H75-C
 h-75a-1_france39_2;H75
 h-75a-1_france40_shop;H75-C1
 h-75a-1_france40_0;"H75-C1
-№ 1–100"
+<color=#C0C0C0>№ 1–100</color>"
 h-75a-1_france40_1;H75-C
 h-75a-1_france40_2;H75
 h-75a-2_france_shop;H75-C1 (2ème)
 h-75a-2_france_0;"H75-C1
-2ème série"
+<color=#C0C0C0>2ème série</color>"
 h-75a-2_france_1;H75-C
 h-75a-2_france_2;H75
 h-75a-3_france_shop;H75-C1 (3ème)
 h-75a-3_france_0;"H75-C1
-3ème série"
+<color=#C0C0C0>3ème série</color>"
 h-75a-3_france_1;H75-C
 h-75a-3_france_2;H75
 h-75a-4_france_shop;H751-C1
@@ -246,55 +245,54 @@ v_156_f_2;V-156
 // LEND-LEASE & POSTWAR //
 
 shop/group/f6f_france_group;⚜ F6F-5 / ⚜ F6F-5N
-shop/group/md_454_group;Mystère IVA / Super Mystère B2
-shop/group/so_4050_vautour_group;Vautour IIB / Vautour IIA
+shop/group/md_454_group;Mystère IV A / Super Mystère B2
+shop/group/so_4050_vautour_group;Vautour II B / Vautour II A
 shop/group/mirage_3_group;Mirage IIIC / Mirage IIIE
-shop/group/md_452_group;Mystère IIA / Mystère IIC
+shop/group/md_452_group;Mystère-05 / Mystère-17
 shop/group/md_450b_group;Ouragan / Barougan
 
 // American //
 
 p-39q_25_france_shop;⚜ P-39Q-25
-p-39q_25_france_0;P-39Q-25 BE
+p-39q_25_france_0;P-39Q-25-BE
 p-39q_25_france_1;⚜ P-39Q
 p-39q_25_france_2;P-39
 
 p-40f-5_france_ep_shop;⚜ P-40F-5
-p-40f-5_france_ep_0;"P-40F-5 CU
-<color=#E3D452>Groupe de Chasse II/5 ""Lafayette""</color>
-<color=#E3D452>Constantin Rozanoff</color>"
+p-40f-5_france_ep_0;"P-40F-5-CU
+<color=#E3D452>Constantin Rozanoff, Groupe de Chasse II/5 ""Lafayette""</color>"
 p-40f-5_france_ep_1;⚜ P-40F
 p-40f-5_france_ep_2;P-40
 
 p-47d_22_re_france_shop;⚜ P-47D-22
-p-47d_22_re_france_0;"P-47D-22 RE
+p-47d_22_re_france_0;"P-47D-22-RE
 <color=#E3D452>Groupe de Chasse II/3 ""Dauphiné""</color>"
 p-47d_22_re_france_1;⚜ P-47D
 p-47d_22_re_france_2;P-47
 
 p-51c-10_france_shop;⚜ F-6C-10
-p-51c-10_france_0;"F-6C-10 NT
+p-51c-10_france_0;"F-6C-10-NT
 <color=#E3D452>Groupe de Reconnaissance II/33 ""Savoie""</color>"
 p-51c-10_france_1;⚜ F-6C
 p-51c-10_france_2;F-6
 
 p-63c-5_france_shop;⚜ P-63C-5
-p-63c-5_france_0;P-63C-5 BE
+p-63c-5_france_0;P-63C-5-BE
 p-63c-5_france_1;⚜ P-63C
 p-63c-5_france_2;P-63
 
 f-84f_france_shop;⚜ F-84F-51
-f-84f_france_0;"F-84F-51 GK
+f-84f_france_0;"F-84F-51-GK
 <color=#C0C0C0>1956 modifications</color>"
 f-84f_france_1;⚜ F-84F
 f-84f_france_2;F-84
 f-84f_iaf_shop;⚜ F-84F-51
-f-84f_iaf_0;"F-84F-51 GK
+f-84f_iaf_0;"F-84F-51-GK
 <color=#E3D452>Escadron de Chasse 1/1 ""Corse""</color>"
 f-84f_iaf_1;⚜ F-84F
 f-84f_iaf_2;F-84
 f-84f_israel_iaf_shop; F-84F-51
-f-84f_israel_iaf_0;"F-84F-51 GK
+f-84f_israel_iaf_0;"F-84F-51-GK
 <color=#E3D452>Escadron de Chasse 1/1 ""Corse""</color>"
 f-84f_israel_iaf_1; F-84F
 f-84f_israel_iaf_2;F-84
@@ -310,22 +308,22 @@ f-86k_late_1;⚜ F-86K
 f-86k_late_2;F-86
 
 f-100d_france_shop;⚜ F-100D-10
-f-100d_france_0;F-100D-10 NA
+f-100d_france_0;F-100D-10-NA
 f-100d_france_1;⚜ F-100D
 f-100d_france_2;F-100
 
-f-8e_fn_shop;⚜ F-8E (FN)
-f-8e_fn_0;F-8E (FN)
+f-8e_fn_shop;⚜ F-8E(FN)
+f-8e_fn_0;F-8E(FN)
 f-8e_fn_1;⚜ F-8E
 f-8e_fn_2;F-8
 
 b_25j_30_france_shop;⚜ B-25J-30
-b_25j_30_france_0;B-25J-30 NC
+b_25j_30_france_0;B-25J-30-NC
 b_25j_30_france_1;⚜ B-25J
 b_25j_30_france_2;B-25
 
 b_26c_france_shop;⚜ B-26C-20
-b_26c_france_0;B-26C-20 MO
+b_26c_france_0;B-26C-20-MO
 b_26c_france_1;⚜ B-26C
 b_26c_france_2;B-26
 
@@ -357,7 +355,7 @@ douglas_ad_4_france_shop;⚜ AD-4NA
 douglas_ad_4_france_0;AD-4NA
 douglas_ad_4_france_1;⚜ AD-4NA
 douglas_ad_4_france_2;AD
-douglas_ad_4na_france_shop;⚜ AD-4NA (EC 1/20)
+douglas_ad_4na_france_shop;⚜ AD-4NA
 douglas_ad_4na_france_0;"AD-4NA
 <color=#C0C0C0>1959 modifications</color>
 <color=#E3D452>Escadron de Chasse 1/20 ""Aurès Nementcha""</color>"
@@ -387,12 +385,12 @@ sb2c_5_france_2;SB2C
 
 // Soviet //
 
-yak-3_france_shop;⚜ Yak-3 (RC 2/30)
+yak-3_france_shop;⚜ Yak-3
 yak-3_france_0;"Yak-3
 <color=#E3D452>Régiment de Chasse 2/30 ""Normandie-Niémen""</color>"
 yak-3_france_1;⚜ Yak-3
 yak-3_france_2;Yak-3
-yak-9t_france_shop;⚜ Yak-9T (RC 2/30)
+yak-9t_france_shop;⚜ Yak-9T
 yak-9t_france_0;"Yak-9T
 <color=#E3D452>Régiment de Chasse 2/30 ""Normandie-Niémen""</color>"
 yak-9t_france_1;⚜ Yak-9T
@@ -422,83 +420,92 @@ fw-190a-8_france_2;NC.900
 so_8000_narval_shop;S.O.8000-02
 so_8000_narval_0;"S.O.8000-02 Narval
 <color=#C0C0C0>Jan 1950 modifications</color>
-<color=#C0C0C0>Prototype 01 armament</color>"
+<color=#B34D4D>Prototype 01 Armament</color>"
 so_8000_narval_1;S.O.8000-02
 so_8000_narval_2;S.O.8000
 
 // Vautour //
 
-so_4050_vautour_2a_shop;Vautour IIA
-so_4050_vautour_2a_0;S.O.4050 Vautour IIA
-so_4050_vautour_2a_1;Vautour IIA
+so_4050_vautour_2a_shop;Vautour II A
+so_4050_vautour_2a_0;Vautour II A
+so_4050_vautour_2a_1;Vautour II A
 so_4050_vautour_2a_2;Vautour II
-so_4050_vautour_2b_shop;Vautour IIB
-so_4050_vautour_2b_0;S.O.4050 Vautour IIB
-so_4050_vautour_2b_1;Vautour IIB
+so_4050_vautour_2b_shop;Vautour II B
+so_4050_vautour_2b_0;Vautour II B
+so_4050_vautour_2b_1;Vautour II B
 so_4050_vautour_2b_2;Vautour II
-so_4050_vautour_2n_shop;Vautour IIN (C)
-so_4050_vautour_2n_0;S.O.4050 Vautour IIN (C)
-so_4050_vautour_2n_1;Vautour IIN
+so_4050_vautour_2n_shop;Vautour II N (C)
+so_4050_vautour_2n_0;Vautour II N (C)
+so_4050_vautour_2n_1;Vautour II N
 so_4050_vautour_2n_2;Vautour
-so_4050_vautour_2n_late_shop;Vautour IIN (M)
-so_4050_vautour_2n_late_0;S.O.4050 Vautour IIN (M)
-so_4050_vautour_2n_late_1;Vautour IIN
+so_4050_vautour_2n_late_shop;Vautour II N (M)
+so_4050_vautour_2n_late_0;Vautour II N (M)
+so_4050_vautour_2n_late_1;Vautour II N
 so_4050_vautour_2n_late_2;Vautour
 
 // Mystere //
 
-md_452_mystere_2a_shop;Mystère IIA
-md_452_mystere_2a_0;M.D.452 Mystère IIA
-md_452_mystere_2a_1;Mystère IIA
+md_452_mystere_2a_shop;Mystère-05
+md_452_mystere_2a_0;Mystère-05
+md_452_mystere_2a_1;Mystère-05
 md_452_mystere_2a_2;Mystère
-md_452_mystere_2c_preproduction_shop;Mystère IIC
-md_452_mystere_2c_preproduction_0;M.D.452 Mystère IIC
-md_452_mystere_2c_preproduction_1;Mystère IIC
+md_452_mystere_2c_preproduction_shop;Mystère-017
+md_452_mystere_2c_preproduction_0;Mystère-017
+md_452_mystere_2c_preproduction_1;Mystère-017
 md_452_mystere_2c_preproduction_2;Mystère
-md_454_mystere_4a_shop;Mystère IVA
-md_454_mystere_4a_0;M.D.454 Mystère IVA
-md_454_mystere_4a_1;Mystère IVA
+md_454_mystere_4a_shop;Mystère IV A
+md_454_mystere_4a_0;"Mystère IV A
+<color=#C0C0C0>№ 115+</color>
+<color=#C0C0C0>Jul 1956 modifications</color>"
+md_454_mystere_4a_1;Mystère IV A
 md_454_mystere_4a_2;Mystère
 md_460_shop;Super Mystère B2
-md_460_0;M.D.460 Super Mystère B2
+md_460_0;"Super Mystère B2
+<color=#C0C0C0>№ 11+</color>
+<color=#C0C0C0>Dec 1961 modifications</color>"
 md_460_1;Super Mystère B
 md_460_2;Super Mystère
 md_460_usa_shop;Super Mystère B2
-md_460_usa_0;M.D.460 Super Mystère B2
+md_460_usa_0;"Super Mystère B2
+<color=#C0C0C0>№ 11+</color>
+<color=#C0C0C0>Dec 1961 modifications</color>"
 md_460_usa_1;Super Mystère B
 md_460_usa_2;Super Mystère
-md_460_yt_cup_2019_shop;Super Mystère B2 (YTC)
-md_460_yt_cup_2019_0;"M.D.460 Super Mystère B2
-YouTube Cup"
-md_460_yt_cup_2019_1;Super Mystère B
+md_460_yt_cup_2019_shop;␙ Super Mystère B2
+md_460_yt_cup_2019_0;"Super Mystère B2
+<color=#C0C0C0>№ 11+</color>
+<color=#C0C0C0>Dec 1961 modifications</color>
+<color=#E3D452>␙ YouTube Cup ␙</color>"
+md_460_yt_cup_2019_1;␙ Super Mystère B
 md_460_yt_cup_2019_2;Super Mystère
 
 // Etendard //
 
-etndard_4m_shop;Étendard IVM
-etndard_4m_0;Étendard IVM
-etndard_4m_1;Étendard IVM
+etndard_4m_shop;Étendard IV M
+etndard_4m_0;Étendard IV M
+etndard_4m_1;Étendard IV M
 etndard_4m_2;Étendard IV
 super_etendard_97_shop;Super Étendard
-super_etendard_97_0;"Super Étendard
-SEM 4"
+super_etendard_97_0;"Super Étendard Modernisé
+<color=#C0C0C0>standard 4</color>"
 super_etendard_97_1;Super Étendard
 super_etendard_97_2;Super Étendard
 
 // Mirage //
 
-mirage_milan_shop;Milan S 01
-mirage_milan_0;Milan S 01
-mirage_milan_1;Milan S 01
+mirage_milan_shop;Milan S-01
+mirage_milan_0;Milan S-01
+mirage_milan_1;Milan S-01
 mirage_milan_2;Milan
 
-mirage_3c_shop;Mirage IIIC
-mirage_3c_0;Mirage IIIC
-mirage_3c_1;Mirage IIIC
+mirage_3c_shop;Mirage III C
+mirage_3c_0;Mirage III C
+mirage_3c_1;Mirage III C
 mirage_3c_2;Mirage III
-mirage_3e_shop;Mirage IIIE
-mirage_3e_0;Mirage IIIE
-mirage_3e_1;Mirage IIIE
+mirage_3e_shop;Mirage III E
+mirage_3e_0;"Mirage III E
+<color=#C0C0C0>with Cyrano I bis radar</color>"
+mirage_3e_1;Mirage III E
 mirage_3e_2;Mirage III
 
 mirage_5f_shop;Mirage 5F
@@ -510,9 +517,9 @@ mirage_f1c_shop;Mirage F1 C
 mirage_f1c_0;Mirage F1 C
 mirage_f1c_1;Mirage F1
 mirage_f1c_2;Mirage F1
-mirage_f1c_200_shop;Mirage F1 C-200 (EC 4/30)
+mirage_f1c_200_shop;Mirage F1 C-200
 mirage_f1c_200_0;"Mirage F1 C-200
-Escadron de Chasse 4/30 ""Vexin"""
+<color=#E3D452>Escadron de Chasse 4/30 ""Vexin""</color>"
 mirage_f1c_200_1;Mirage F1
 mirage_f1c_200_2;Mirage F1
 mirage_f1ct_shop;Mirage F1 CT
@@ -520,55 +527,63 @@ mirage_f1ct_0;Mirage F1 CT
 mirage_f1ct_1;Mirage F1
 mirage_f1ct_2;Mirage F1
 
-mirage_2000c_s4_shop;Mirage 2000C S4
-mirage_2000c_s4_0;Mirage 2000C S4
-mirage_2000c_s4_1;Mirage 2000C
+mirage_2000c_s4_shop;Mirage 2000 C S4
+mirage_2000c_s4_0;Mirage 2000 C S4
+mirage_2000c_s4_1;Mirage 2000 C
 mirage_2000c_s4_2;Mirage 2000
-mirage_2000c_s5_shop;Mirage 2000C S5
-mirage_2000c_s5_0;Mirage 2000C S5
-mirage_2000c_s5_1;Mirage 2000C
+mirage_2000c_s5_shop;Mirage 2000 C S5
+mirage_2000c_s5_0;"Mirage 2000 C S5
+<color=#C0C0C0>№ 93+</color>"
+mirage_2000c_s5_1;Mirage 2000 C
 mirage_2000c_s5_2;Mirage 2000
 
-mirage_2000_5f_shop;Mirage 2000-5F
-mirage_2000_5f_0;Mirage 2000-5F
+mirage_2000_5f_shop;Mirage 2000-5 Mk. 2
+mirage_2000_5f_0;Mirage 2000-5 Mk. 2
+<color=#B34D4D>with RDY radar</color>
 mirage_2000_5f_1;Mirage 2000-5
 mirage_2000_5f_2;Mirage 2000
 
-mirage_2000d_r1_shop;Mirage 2000D R1
-mirage_2000d_r1_0;"Mirage 2000D R1
-ECLAIR-M"
-mirage_2000d_r1_1;Mirage 2000D
+mirage_2000d_r1_shop;Mirage 2000 D R1
+mirage_2000d_r1_0;"Mirage 2000 D R1
+<color=#C0C0C0>with ECLAIR-M</color>"
+mirage_2000d_r1_1;Mirage 2000 D
 mirage_2000d_r1_2;Mirage 2000
-mirage_2000d_rmv_shop;Mirage 2000D RMV
-mirage_2000d_rmv_0;Mirage 2000D RMV
-mirage_2000d_rmv_1;Mirage 2000D
+mirage_2000d_rmv_shop;Mirage 2000 D RMV
+mirage_2000d_rmv_0;Mirage 2000 D Rénovation Mi-Vie
+mirage_2000d_rmv_1;Mirage 2000 D
 mirage_2000d_rmv_2;Mirage 2000
 
 mirage_4000_shop;Mirage 4000
 mirage_4000_0;"Mirage 4000
-1986"
+<color=#C0C0C0>May 1987 modifications</color>"
 mirage_4000_1;Mirage 4000
 mirage_4000_2;Mirage 4000
 
 // Rafale //
 
-rafale_c_f3_shop;Rafale C F4.1
-rafale_c_f3_0;Rafale C standard F4.1
+rafale_c_f3_shop;Rafale C (F3R)
+rafale_c_f3_0;"Rafale C
+<color=#C0C0C0>standard F3R</color>
+<color=#B34D4D>with India Specific Enhancements</color>"
 rafale_c_f3_1;Rafale C
 rafale_c_f3_2;Rafale
-rafale_m_f3r_shop;Rafale M F3R
-rafale_m_f3r_0;Rafale M standard F3R
+rafale_m_f3r_shop;Rafale M (F3R)
+rafale_m_f3r_0;"Rafale M
+<color=#C0C0C0>standard F3R</color>
+<color=#B34D4D>with India Specific Enhancements</color>"
 rafale_m_f3r_1;Rafale M
 rafale_m_f3r_2;Rafale
 
 // Ouragan //
 
 md_450b_ouragan_shop;Ouragan
-md_450b_ouragan_0;M.D.450 Ouragan
+md_450b_ouragan_0;"Ouragan
+<color=#C0C0C0>Feb 1955 modifications</color>"
 md_450b_ouragan_1;Ouragan
 md_450b_ouragan_2;Ouragan
 md_450b_barougan_shop;Barougan
-md_450b_barougan_0;M.D.450 Barougan
+md_450b_barougan_0;"Barougan
+<color=#C0C0C0>Jul 1954 modifications</color>"
 md_450b_barougan_1;Barougan
 md_450b_barougan_2;Barougan
 
@@ -610,9 +625,9 @@ jaguar_a_iaf_killstreak_shop;Jaguar A
 jaguar_a_iaf_killstreak_0;Jaguar type A
 jaguar_a_iaf_killstreak_1;Jaguar A
 jaguar_a_iaf_killstreak_2;Jaguar
-jaguar_e_shop;Jaguar E (EC 2/7)
+jaguar_e_shop;Jaguar E
 jaguar_e_0;"Jaguar type E
-Escadron de Chasse 2/7 ""Argonne"""
+<color=#E3D452>Escadron de Chasse 2/7 ""Argonne""</color>"
 jaguar_e_1;Jaguar E
 jaguar_e_2;Jaguar
 
@@ -625,6 +640,7 @@ alpha_jet_e_2;Alpha Jet
 
 // Aquilon //
 se_203_shop;Aquilon 203
-se_203_0;Aquilon 203
+se_203_0;"Aquilon 203
+<color=#B34D4D>with Ghost Mk. 103 engine</color>"
 se_203_1;Aquilon 203
 se_203_2;Aquilon

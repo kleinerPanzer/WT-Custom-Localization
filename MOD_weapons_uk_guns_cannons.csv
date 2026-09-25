@@ -303,11 +303,11 @@ weapons/178mm_hedgehog_projectile/short;Projectile, Hedgehog;
 
 // NEW SYSTEM //
 
-weapons/cannonADEN_25;Gun, Aden 25 mm., Aircraft, Mk. 1
+weapons/cannonADEN_25;Gun, Aden, 25 mm., Aircraft, Mk. 1
 weapons/cannonADEN_25/short;Aden
-weapons/cannonADEN;Gun, Aden 30 mm., Aircraft, Mk. 2
+weapons/cannonADEN;Gun, Aden, 30 mm., Aircraft, Mk. 2
 weapons/cannonADEN;Aden Mk. 2
-weapons/cannonADEN_mk4;Gun, Aden 30 mm., Aircraft, Mk. 4
+weapons/cannonADEN_mk4;Gun, Aden, 30 mm., Aircraft, Mk. 4
 weapons/cannonADEN_mk4/short;Aden Mk. 4;
 
 weapons/7_62mm_L3A1_user_machinegun;Machine Gun, Browning, Calibre .30-in, L3A1;
