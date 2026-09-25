@@ -150,13 +150,13 @@ us_m4a2_1944_2;M4
 us_m4a2_76w_sherman_shop;M4A2 (76) W
 us_m4a2_76w_sherman_0;"Tank, Medium, M4A2 (76-mm Gun, Wet) General Sherman
 <color=#C0C0C0>Oct 1944 Fisher production</color>
-<color=#B34D4D>with ""Quick-Fix"" appliqué armour</color>"
+<color=#B34D4D>with 'Quick-Fix' appliqué armour</color>"
 us_m4a2_76w_sherman_1;M4A2 (76) W
 us_m4a2_76w_sherman_2;M4
 us_m4a2_76w_sherman_tutorial_shop;M4A2 (76) W
 us_m4a2_76w_sherman_tutorial_0;"Tank, Medium, M4A2 (76-mm Gun, Wet) General Sherman
 <color=#C0C0C0>Oct 1944 Fisher production</color>
-<color=#B34D4D>with ""Quick-Fix"" appliqué armour</color>"
+<color=#B34D4D>with 'Quick-Fix' appliqué armour</color>"
 us_m4a2_76w_sherman_tutorial_1;M4A2 (76) W
 us_m4a2_76w_sherman_tutorial_2;M4
 
@@ -654,7 +654,7 @@ us_m1128_mgs_2;M1128
 us_m1128_wolfpack_shop;M1128 MGS (3/2CR)
 us_m1128_wolfpack_0;"Mobile Gun System, M1128 Stryker
 <color=#C0C0C0>2010 modifications</color>
-<color=#E3D452>3rd Squadron, 2nd Cavalry Regiment ""Wolfpack""</color>"
+<color=#E3D452>3rd Squadron, 2nd Cavalry Regiment “Wolfpack”</color>"
 us_m1128_wolfpack_1;M1128 MGS
 us_m1128_wolfpack_2;M1128
 

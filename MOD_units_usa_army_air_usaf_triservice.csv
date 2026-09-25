@@ -160,7 +160,7 @@ p-47m-1-re_1;P-47M
 p-47m-1-re_2;P-47
 p-47m-1-re_boxted_shop;P-47M-1
 p-47m-1-re_boxted_0;"P-47M-1-RE Thunderbolt
-<color=#E3D452Witold Łanowski, 61st Fighter Squadron (Attached)</color>"
+<color=#E3D452>Witold Łanowski, 61st Fighter Squadron (Attached)</color>"
 p-47m-1-re_boxted_1;P-47M
 p-47m-1-re_boxted_2;P-47
 p-47n-15_shop;F-47N-15
@@ -297,7 +297,7 @@ f-86f-25_1;F-86F
 f-86f-25_2;F-86
 f-86f-35_shop;F-86F-35
 f-86f-35_0;"F-86F-35-NA Sabre
-<color=#E3D452>48th Fighter-Bomber Wing ""Statue de la Liberté""</color>"
+<color=#E3D452>48th Fighter-Bomber Wing “Statue de la Liberté”</color>"
 f-86f-35_1;F-86F
 f-86f-35_2;F-86
 
@@ -421,7 +421,7 @@ f-4j_1;F-4J
 f-4j_2;F-4
 f-4s_shop;F-4S-33
 f-4s_0;"F-4S-33-MC Phantom II
-<color=#E3D452>Fighter Squadron 301 (VF-301) ""Devil's Disciples""</color>"
+<color=#E3D452>Fighter Squadron 301 (VF-301) “Devil's Disciples”</color>"
 f-4s_1;F-4S
 f-4s_2;F-4
 
@@ -480,7 +480,7 @@ f_15a_shop;F-15A-18 MSIP
 f_15a_0;"F-15A-18-MC Eagle
 <color=#C0C0C0>Multi-Stage Improvement Plan (ANG)</color>
 <color=#C0C0C0>with F100-PW-220E engines</color>
-<color=#B34D4D>and ""turkey feather"" nozzle covers</color>"
+<color=#B34D4D>and 'turkey feather' nozzle covers</color>"
 f_15a_1;F-15A
 f_15a_2;F-15
 f_15c_msip2_shop;F-15C-40 MSIP
@@ -493,7 +493,7 @@ f_15c_msip2_2;F-15
 f_15c_golden_eagle_shop;F-15C-40 (2018)
 f_15c_golden_eagle_0;"F-15C-40-MC Eagle
 <color=#C0C0C0>with Joint Helmet-Mounted Cueing System,</color>
-<color=#C0C0C0>""Golden Eagle""-standard Long-Term Fleet Rewire (TCTO 1F-15-1551),</color>
+<color=#C0C0C0>'Golden Eagle'-standard Long-Term Fleet Rewire (TCTO 1F-15-1551),</color>
 <color=#C0C0C0>AN/APG-63(V)3 Radar Upgrade, Passive Attack Sensor System,</color>
 <color=#C0C0C0>Advanced Display Core Processor II, </color>
 <color=#B34D4D>without Replacement Vertical Situation Display,</color>
@@ -627,7 +627,7 @@ xa_38_2;XA-38
 // ATTACKER NEW SERIES //
 douglas_a_1h_shop;A-1H
 douglas_a_1h_0;"A-1H Skyraider
-<color=#E3D452>Attack Squadron 145 (VA-145) ""Swordsmen""</color>"
+<color=#E3D452>Attack Squadron 145 (VA-145) “Swordsmen”</color>"
 douglas_a_1h_1;A-1H
 douglas_a_1h_2;A-1
 
@@ -644,7 +644,7 @@ a_4e_early_2;A-4
 a_6e_tram_shop;A-6E WCSI
 a_6e_tram_0;"A-6E Intruder
 <color=#C0C0C0>Weapons Control System Improvement</color>
-<color=#E3D452>Attack Squadron 52 (VA-52) ""Night Riders""</color>"
+<color=#E3D452>Attack Squadron 52 (VA-52) “Night Riders”</color>"
 a_6e_tram_1;A-6E
 a_6e_tram_2;A-6
 nt_a_6e_tram_shop;A-6E WCSI
@@ -827,7 +827,7 @@ b_66b_2;B-66
 
 av_8a_shop;AV-8A-2
 av_8a_0;"AV-8A-2 Harrier
-<color=#E3D452>Marine Attack Squadron VMA-513 ""The Flying Nightmares""</color>"
+<color=#E3D452>Marine Attack Squadron VMA-513 “The Flying Nightmares”</color>"
 av_8a_1;AV-8A
 av_8a_2;AV-8
 av_8c_shop;AV-8C

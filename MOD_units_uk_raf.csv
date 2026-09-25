@@ -76,7 +76,7 @@ hurricane_mk1_late_2;Hurricane
 hurricane_mk1_late_ep_shop;Hurricane Mk. I
 hurricane_mk1_late_ep_0;"Hurricane Mk. I
 <color=#C0C0C0>1940 modifications</color>
-<color=#E3D452>No. 800 Naval Air Squadron</color>""
+<color=#E3D452>No. 800 Naval Air Squadron</color>"
 hurricane_mk1_late_ep_1;Hurricane Mk. I
 hurricane_mk1_late_ep_2;Hurricane
 hurricanemkii_shop;Hurricane Mk. IIB (Trop.)
@@ -269,7 +269,7 @@ tempest_mkv_2;Tempest
 tempest_mkv_vikkers_shop;Tempest FB.5 (SN354)
 tempest_mkv_vikkers_0;"Tempest FB. Mk. 5
 <color=#C0C0C0>Batch 4</color>
-<color=#C0C0C0>""Class S"" weapons testbed</color>
+<color=#C0C0C0>“Class S” weapons testbed</color>
 <color=#E3D452>SN354</color>"
 tempest_mkv_vikkers_1;Tempest Mk. 5
 tempest_mkv_vikkers_2;Tempest
@@ -883,7 +883,7 @@ f-4m_fgr2_1;Phantom Mk. 2
 f-4m_fgr2_2;Phantom
 f-4jk_shop;Phantom F.3
 f-4jk_0;"Phantom F. Mk. 3
-<color=#E3D452>No. 74 Squadron ""Tiger Squadron""</color>"
+<color=#E3D452>No. 74 Squadron “Tiger Squadron”</color>"
 f-4jk_1;Phantom Mk. 3
 f-4jk_2;Phantom
 
