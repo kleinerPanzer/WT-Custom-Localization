@@ -359,7 +359,7 @@ ussr_t_80u_yt_cup_2019_0;"Танк Т-80У
 <color=#C0C0C0>1990 model</color>
 <color=#C0C0C0>Swedish trial modifications</color>
 <color=#E3D452>␙ YouTube Cup ␙</color>"
-ussr_t_80u_yt_cup_2019_1;␙ Т-80У
+ussr_t_80u_yt_cup_2019_1;Т-80У
 ussr_t_80u_yt_cup_2019_2;Т-80
 ussr_t_80um2_shop;Т-80У (Дрозд)
 ussr_t_80um2_0;"Танк Т-80У
@@ -378,7 +378,7 @@ ussr_t_80ue1_2;Т-80
 ussr_t_80ue1_sm_shop;◍ Т-80У-Е1
 ussr_t_80ue1_sm_0;"Танк Т-80У-Е1
 <color=#E3D452>◍ Senrai Maidens ◍</color>"
-ussr_t_80ue1_sm_1;◍ Т-80У-Е1
+ussr_t_80ue1_sm_1;Т-80У-Е1
 ussr_t_80ue1_sm_2;MBT
 ussr_t_80uk_shop;Т-80УК
 ussr_t_80uk_0;Танк Т-80УК
@@ -435,7 +435,7 @@ ussr_bt_7_1937_td_shop;⋦ БТ-7
 ussr_bt_7_1937_td_0;"Танк БТ-7
 <color=#C0C0C0>1937 production</color>
 <color=#E3D452>⋦ Тwitch Drop ⋦</color>"
-ussr_bt_7_1937_td_1;⋦ БТ-7
+ussr_bt_7_1937_td_1;БТ-7
 ussr_bt_7_1937_td_2;БТ-7
 ussr_bt_7_m_shop;БТ-7М
 ussr_bt_7_m_0;Танк БТ-7М
@@ -614,7 +614,7 @@ ussr_pzkpfw_III_ausf_J_L42_0;"Средний танк Т-III (c 50-мм коро
 ussr_pzkpfw_III_ausf_J_L42_1;▂ Т-III
 ussr_pzkpfw_III_ausf_J_L42_2;Т-III
 
-ussr_pzkpfw_V_shop;▂ Т-V (8 гв тк)
+ussr_pzkpfw_V_shop;▂ Т-V
 ussr_pzkpfw_V_0;"Тяжелый танк Т-V «Пантера»
 <color=#C0C0C0>Mar 1944 production</color>
 <color=#E3D452>8-й гвардейский танковый корпус</color>"

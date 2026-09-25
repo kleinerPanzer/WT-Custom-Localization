@@ -60,7 +60,7 @@ p-36c_2;P-36
 p-36c_rb_shop;○ P-36C
 p-36c_rb_0;"P-36C Hawk
 <color=#E3D452>○ TheRussianBadger ○</color>"
-p-36c_rb_1;○ P-36C
+p-36c_rb_1;P-36C
 p-36c_rb_2;P-36
 p-36g_shop;P-36G
 p-36g_0;P-36G Hawk
@@ -87,7 +87,7 @@ p-38j_shop;P-38J-15
 p-38j_0;P-38J-15-LO Lightning
 p-38j_1;P-38J
 p-38j_2;P-38
-p-38j_marge_shop;P-38J-15 (9th FS)
+p-38j_marge_shop;P-38J-15
 p-38j_marge_0;"P-38J-15-LO Lightning
 <color=#E3D452>Richard Bong, 9th Fighter Squadron</color>"
 p-38j_marge_1;P-38J
@@ -125,7 +125,7 @@ p-40e_2;P-40
 p-40e_td_shop;⋦ P-40E
 p-40e_td_0;"P-40E-CU Warhawk
 <color=#E3D452>⋦ Twitch Drop ⋦</color>"
-p-40e_td_1;⋦ P-40E
+p-40e_td_1;P-40E
 p-40e_td_2;P-40
 p-40f_10_shop;P-40F-10
 p-40f_10_0;P-40F-10-CU Warhawk
@@ -184,7 +184,7 @@ p-51_mk1_2;P-51
 p-51a_tl_shop;╎ P-51A-1
 p-51a_tl_0;"P-51A-1-NA Mustang
 <color=#E3D452>╎ Thunder League ╎</color>"
-p-51a_tl_1;╎ P-51A
+p-51a_tl_1;P-51A
 p-51a_tl_2;P-51
 p-51c-10-nt_shop;P-51C-10
 p-51c-10-nt_0;P-51C-10-NT Mustang
@@ -429,7 +429,7 @@ f-5a_shop;YF-5A
 f-5a_0;YF-5A-NO
 f-5a_1;YF-5A
 f-5a_2;YF-5
-f-5c_shop;F-5C (4503rd TFS(P))
+f-5c_shop;F-5C
 f-5c_0;"F-5C-NO Freedom Fighter
 <color=#E3D452>4503rd Tactical Fighter Squadron (Provisional)</color>"
 f-5c_1;F-5C
@@ -665,7 +665,7 @@ nt_a_7e_shop;A-7E-4
 nt_a_7e_0;A-7E-4-CV Corsair II
 nt_a_7e_1;A-7E
 nt_a_7e_2;A-7E
-a_7k_shop;A-7K (156th TFG)
+a_7k_shop;A-7K
 a_7k_0;"A-7K-CV Corsair II
 <color=#E3D452>156th Tactical Fighter Group</color>"
 a_7k_1;A-7K

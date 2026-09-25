@@ -2,7 +2,7 @@
 
 // ARMY //
 
-us_m5a1_stuart_canadian_5st_arm_shop;▃ Stuart Mk. VI (5 Cdn Armd Div)
+us_m5a1_stuart_canadian_5st_arm_shop;▃ Stuart Mk. VI
 us_m5a1_stuart_canadian_5st_arm_0;"Tank, Light, Stuart, Mk. VI
 <color=#C0C0C0>Jul 1943 production</color>
 <color=#E3D452>5th Canadian Armoured Division</color>"
@@ -58,7 +58,7 @@ germ_leopard_2a4m_can_2;Leopard 2
 germ_leopard_2a4m_can_sm_shop;◍ Leopard 2 A4M CAN
 germ_leopard_2a4m_can_sm_0;"Tank, Combat, Full-Tracked, Leopard 2 A4M CAN
 <color=#E3D452>◍ Senrai Maidens ◍</color>"
-germ_leopard_2a4m_can_sm_1;◍ Leopard 2 A4M
+germ_leopard_2a4m_can_sm_1;Leopard 2 A4M
 germ_leopard_2a4m_can_sm_2;Leopard 2
 
 uk_adats_m113a3_shop;ADATS M113A2CDN

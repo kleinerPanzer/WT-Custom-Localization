@@ -64,7 +64,7 @@ germ_pzkpfw_II_ausf_C_td_shop;⋦ Pz.Kpfw. II C
 germ_pzkpfw_II_ausf_C_td_0;"Panzerkampfwagen II (2 cm) Ausf. C
 <color=#C0C0C0>Jan 1942 modifications</color>
 <color=#E3D452>⋦ Twitch Drop ⋦</color>"
-germ_pzkpfw_II_ausf_C_td_1;⋦ Pz.Kpfw. II C
+germ_pzkpfw_II_ausf_C_td_1;Pz.Kpfw. II C
 germ_pzkpfw_II_ausf_C_td_2;Pz. II
 germ_pzkpfw_II_ausf_F_shop;Pz.Kpfw. II F
 germ_pzkpfw_II_ausf_F_0;"Panzerkampfwagen II (2 cm) Ausf. F
@@ -109,7 +109,7 @@ germ_pzkpfw_III_ausf_J_td_shop;⋦ Pz.Kpfw. III L
 germ_pzkpfw_III_ausf_J_td_0;"Panzerkampfwagen III (5 cm Kw.K. 39 (L/60)) Ausf. L
 <color=#C0C0C0>Dec 1941 production</color>
 <color=#E3D452>⋦ Twitch Drop ⋦</color>"
-germ_pzkpfw_III_ausf_J_td_1;⋦ Pz.Kpfw. III L
+germ_pzkpfw_III_ausf_J_td_1;Pz.Kpfw. III L
 germ_pzkpfw_III_ausf_J_td_2;Pz. III
 germ_pzkpfw_III_ausf_L_shop;Pz.Kpfw. III L (V.Pz.)
 germ_pzkpfw_III_ausf_L_0;"Panzerkampfwagen III (5 cm Kw.K. 39 (L/60)) Ausf. L
@@ -518,7 +518,7 @@ germ_sdkfz_234_2_2;s.Pz.Sp.Wg.
 germ_sdkfz_234_2_td_shop;⋦ s.Pz.Sp.Wg. (5 cm)
 germ_sdkfz_234_2_td_0;"schwerer Panzerspähwagen (5 cm)
 <color=#E3D452>⋦ Twitch Drop ⋦</color>"
-germ_sdkfz_234_2_td_1;⋦ s.Pz.Sp.Wg. (5 cm)
+germ_sdkfz_234_2_td_1;s.Pz.Sp.Wg. (5 cm)
 germ_sdkfz_234_2_td_2;s.Pz.Sp.Wg.
 germ_sdkfz_234_2_mod_shop;s.Pz.Sp.Wg. (5 cm)
 germ_sdkfz_234_2_mod_0;"schwerer Panzerspähwagen (5 cm)
