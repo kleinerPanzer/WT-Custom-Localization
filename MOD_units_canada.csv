@@ -30,17 +30,17 @@ uk_ram_90mm_aa_2;Ram
 
 us_skink_aa_shop;▃ Skink
 us_skink_aa_0;"Tank, A.A., 20-mm., Quad., Skink
-with Guns, Machine, Polsten, 20-mm., Mk. I"
+<color=#C0C0C0>with Guns, Machine, Polsten, 20-mm., Mk. I</color>"
 us_skink_aa_1;▃ Skink
 us_skink_aa_2;Skink
 us_skink_aa_kit_3rank_shop;▃ Skink
 us_skink_aa_kit_3rank_0;"Tank, A.A., 20-mm., Quad., Skink
-with Guns, Machine, Polsten, 20-mm., Mk. I"
+<color=#C0C0C0>with Guns, Machine, Polsten, 20-mm., Mk. I</color>"
 us_skink_aa_kit_3rank_1;▃ Skink
 us_skink_aa_kit_3rank_2;Skink
 uk_skink_aa_shop;Skink
 uk_skink_aa_0;"Tank, A.A., 20-mm., Quad., Skink
-with Guns, Machine, Polsten, 20-mm., Mk. I"
+<color=#C0C0C0>with Guns, Machine, Polsten, 20-mm., Mk. I</color>"
 uk_skink_aa_1;Skink
 uk_skink_aa_2;Skink
 
@@ -68,8 +68,8 @@ uk_adats_m113a3_2;M113
 
 // RCAF //
 
-spitfiremkiia_ep_shop;Spitfire Mk. IIa
-spitfiremkiia_ep_0;"Spitfire Mk. IIa
+spitfiremkiia_ep_shop;Spitfire Mk. IIA
+spitfiremkiia_ep_0;"Spitfire Mk. IIA
 <color=#E3D452>No. 411 Squadron</color>"
 spitfiremkiia_ep_1;Spitfire Mk. II
 spitfiremkiia_ep_2;Spitfire

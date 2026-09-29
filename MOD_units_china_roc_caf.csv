@@ -1,11 +1,9 @@
 <ID|readonly|noverify>;<NewLanguage>
 
 // SOVIET //
-shop/group/db_3_china_group;☀ DB-3 / SB-3
-shop/group/i-16_china_group;忠-28-甲 / E-16-1
-shop/group/i-15_china_group;E-15 / E-15-3
 
 // I-15 //
+shop/group/i-15_china_group;E-15 / E-15-3
 i-15bis_china_shop;E-15
 i-15bis_china_0;E-15戰鬥機
 i-15bis_china_1;E-15
@@ -16,6 +14,7 @@ i-153_m62_china_1;E-15-3
 i-153_m62_china_2;E-15
 
 // I-16 //
+shop/group/i-16_china_group;忠-28-甲 / E-16-1
 i-16_chung_28_shop;忠-28-甲
 i-16_chung_28_0;忠-28-甲戰鬥機
 i-16_chung_28_1;忠-28-甲
@@ -34,6 +33,7 @@ i-16_type17_china_1;E-16-3
 i-16_type17_china_2;E-16
 
 // SB //
+shop/group/db_3_china_group;☀ DB-3 / SB-3
 sb_2m_103u_china_shop;SB-3
 sb_2m_103u_china_0;SB-3輕轟炸機
 sb_2m_103u_china_1;SB-3

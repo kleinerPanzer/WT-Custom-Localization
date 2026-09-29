@@ -1,8 +1,8 @@
 <ID|readonly|noverify>;<NewLanguage>
 shop/group/f_4e_f_15_iaf_group;F-15A-18  / 2000 סנרוק
 shop/group/f_16d_iaf_group;F-16I  / F-16D-40 
-shop/group/a_4_iaf_group;A-4E (AFC 418-II)  / A-4H 
-shop/group/so_4050_vautour_iaf_group;IIN (C) רוטוו  / IIA רוטוו 
+shop/group/a_4_iaf_group;A-4E (AFC 418)  / A-4H 
+shop/group/so_4050_vautour_iaf_group;N (C) רוטוו  / A רוטוו 
 shop/group/md_460_iaf_group;רעס / B2 רטסימ-רפוס 
 
 b-17g_iaf_shop;B-17G-60 

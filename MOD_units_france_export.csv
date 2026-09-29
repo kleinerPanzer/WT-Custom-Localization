@@ -22,6 +22,7 @@ fr_vab_santal_0;VAB VDAA SANTAL
 fr_vab_santal_1;VAB VDAA SANTAL
 fr_vab_santal_2;VAB
 
+shop/group/fr_mars_hot_group;MARS 15 (TS 90) / AMX 13t–75 mle 51 (HOT)
 fr_mars_15_shop;MARS 15 (TS 90)
 fr_mars_15_0;"MARS 15
 <color=#C0C0C0>avec tourelle TS 90</color>"
@@ -45,6 +46,7 @@ fr_amx_30_super_0;Super AMX 30
 fr_amx_30_super_1;Super AMX 30
 fr_amx_30_super_2;AMX 30
 
+shop/group/fr_amx_32_group;AMX 32 (P1) / AMX 32 (P2)
 fr_amx_32_105_shop;AMX 32 (P1)
 fr_amx_32_105_0;"AMX 32
 <color=#C0C0C0>Prototype 1</color>"

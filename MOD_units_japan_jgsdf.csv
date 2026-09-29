@@ -1,7 +1,7 @@
 <ID|readonly|noverify>;<NewLanguage>
-shop/group/jp_type_60_group;60SP(C) / 60式 (64MAT)
+shop/group/jp_type_60_group;60SP(C) / 60APC (64MAT)
 shop/group/jp_type_87_89_group;87RCV / 89FV
-shop/group/jp_type_61_sta_group;61TK(C) / STA-3
+shop/group/jp_type_61_sta_group;61TK(B) / STA-3
 shop/group/jp_type_74_stb_group;STB-2 / 74TK(C)
 shop/group/jp_type_74_group;74TK(E) / 74TK(F)
 shop/group/jp_type_90_group;90TK / 90TK(B)
@@ -232,7 +232,7 @@ jp_st_b1_2;STB
 
 jp_type_10_prototype_shop;新TK (3号車)
 jp_type_10_prototype_0;"新戦車戦車3号車
-<color=#c0c0c0>Transport configuration</color>"
+<color=#C0C0C0>Transport configuration</color>"
 jp_type_10_prototype_1;新TK (3号車)
 jp_type_10_prototype_2;新TK
 jp_tkx_prot_shop;新TK (3号車)
@@ -256,7 +256,7 @@ uh_1b_japan_1;▅ UH-1B
 uh_1b_japan_2;UH-1
 
 ah_1s_shop;▅ AH-1S (MC) (CN)
-ah_1s_0;"AH-1S (MC) (Cobra-Nite)対戦車ヘリコプター
+ah_1s_0;"AH-1S (MC) (CN)対戦車ヘリコプター
 <color=#E3D452>第4対戦車ヘリコプター隊</color>"
 ah_1s_1;▅ AH-1S
 ah_1s_2;AH-1
@@ -265,7 +265,7 @@ ah_1s_early_0;AH-1S (ECAS)対戦車ヘリコプター
 ah_1s_early_1;▅ AH-1S
 ah_1s_early_2;AH-1
 ah_1s_late_shop;▅ AH-1S (MC) (CN)
-ah_1s_late_0;AH-1S (MC) (Cobra-Nite)対戦車ヘリコプター
+ah_1s_late_0;AH-1S (MC) (CN)対戦車ヘリコプター
 ah_1s_late_1;▅ AH-1S
 ah_1s_late_2;AH-1
 

@@ -1,11 +1,11 @@
 <ID|readonly|noverify>;<NewLanguage>
 
-shop/group/uk_marksman_za_group;LLADGT Demonstrator / Rooikat ZA-35
+shop/group/uk_marksman_za_group;LLADGT Demonstrator / ZA-35
 shop/group/uk_stormer_group;Stormer Air Defence / FV4333
-shop/group/uk_stormer_9a33_group;Stormer Air Defence / Osa-A K
-shop/group/uk_vickers_olifant_group;Mk. 3 MBT / Olifant Mk. 1A
-shop/group/uk_vickers_rooikat_group;Mk. 11 LRPV / Rooikat Mk. 1D
-shop/group/uk_vfm_mttd_group;Mk. 5 BT / MTTD
+shop/group/uk_stormer_9a33_group;Stormer Air Defence / ओसा-ए के
+shop/group/uk_vickers_olifant_group;Mark 3 MBT / Olifant Mk. 1A
+shop/group/uk_vickers_rooikat_group;Mark 11 LRPV / Rooikat Mk. 1D
+shop/group/uk_vfm_mttd_group;VFM5 / MTTD
 
 // VICKERS //
 

@@ -36,6 +36,7 @@ it_palmaria_0;Obice semovente 155/41 Palmaria
 it_palmaria_1;Palmaria
 it_palmaria_2;Palmaria
 
+shop/group/it_of_leo_group;OF 40 Mk1 / ⛨ Leopard 1 A2
 it_of_40_mk_1_shop;OF 40 Mk1
 it_of_40_mk_1_0;Carro armato OF 40 Mk1
 it_of_40_mk_1_1;OF 40 Mk1
@@ -61,6 +62,7 @@ it_oto_r3_t20_fa_0;"R3
 it_oto_r3_t20_fa_1;R3 (T 20 FA-HS)
 it_oto_r3_t20_fa_2;R3
 
+shop/group/it_fiat_group;6616 (T 90) / 6614 (M40A1)
 it_fiat_6614_firos_shop;6614 (FIROS 6)
 it_fiat_6614_firos_0;"Tipo 6614
 <color=#C0C0C0>con sistema di razzi SNIA da 2” FIROS 6</color>"

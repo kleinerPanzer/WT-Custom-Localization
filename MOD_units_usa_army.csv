@@ -1,15 +1,15 @@
 <ID|readonly|noverify>;<NewLanguage>
 shop/group/us_sherman_group;M4A1 (75) / M4 (75) / M4A2 (75)
 shop/group/us_sherman_76w_group;M4A2 (76) W / M4A3 (76) W HVSS
-shop/group/us_kit_3rank_group;Hell on Wheels Bundle
-shop/group/us_t26_t25_group;M4 (90) / T25-2
+shop/group/us_kit_3rank_group;Hell on Wheels
+shop/group/us_t26_t25_group;M4 (105) (T26E3) / T25-2
 shop/group/us_m47_48_group;M47 / M48A1
-shop/group/us_m60_group;M60A1 AOS / M60A1 R/PE
+shop/group/us_m60_group;M60A1 AOS / M60A1 RISE Passive (RA)
 shop/group/us_m6_group;M6A1 / T1E1
 shop/group/us_t26_group;T26E5 / T26E4-1
 shop/group/us_t32_group;T32 / T32E1
 shop/group/us_abrams_group;M1A1 / IPM1
-shop/group/us_abrams_a2_group;M1A2 / M1A2 SEP TUSK
+shop/group/us_abrams_a2_group;M1A2 / M1A2 SEP (TUSK)
 shop/group/us_m36_group;M36 GMC / M36B2 GMC
 shop/group/us_m56_m50_group;M56 / M50
 shop/group/us_m247_mim72_group;M247 / M48A2
@@ -119,11 +119,11 @@ us_m4_sherman_calliope_0;"Tank, Medium, M4 (75-mm Gun) General Sherman
 <color=#C0C0C0>with Launcher, Rocket, Multiple, 4.5-in, T34E1 Calliope</color>"
 us_m4_sherman_calliope_1;M4 (75) (T34E1)
 us_m4_sherman_calliope_2;M4
-us_m4_t26_shop;M4 (105) (90-mm M3)
+us_m4_t26_shop;M4 (105) (T26E3)
 us_m4_t26_0;"Tank, Medium, M4 (105-mm Gun) General Sherman
 <color=#C0C0C0>Jul 1944 Chrysler production</color>
 <color=#C0C0C0>with Tank, Heavy, T26E3 Turret</color>"
-us_m4_t26_1;M4 (105) (90-mm M3)
+us_m4_t26_1;M4 (105) (T26E3)
 us_m4_t26_2;M4
 
 us_m4a1_1942_sherman_shop;M4A1 (75)
@@ -344,6 +344,11 @@ us_m36_shop;M36 GMC
 us_m36_0;Carriage, Motor, 90-mm Gun, M36 General Jackson
 us_m36_1;M36 GMC
 us_m36_2;M36
+shop/group/cn_m36_isu_group;☀ M36 / 122自行火炮
+cn_m36_shop;☀ M36 GMC
+cn_m36_0;Carriage, Motor, 90-mm Gun, M36 General Jackson
+cn_m36_1;☀ M36 GMC
+cn_m36_2;M36
 us_m36b2_shop;M36B2 GMC
 us_m36b2_0;Carriage, Motor, 90-mm Gun, M36B2 General Jackson
 us_m36b2_1;M36B2 GMC
@@ -442,19 +447,22 @@ us_m1a1_abrams_yt_cup_2019_0;"Tank, Combat, Full-Tracked: 120-mm Gun, M1A1 Gener
 us_m1a1_abrams_yt_cup_2019_1;M1A1
 us_m1a1_abrams_yt_cup_2019_2;M1
 us_m1a1_hc_usmc_shop;M1A1 HC
-us_m1a1_hc_usmc_0;"Tank, Combat, Full-Tracked: 120-mm Gun, M1A1, Heavy Common General Abrams
+us_m1a1_hc_usmc_0;"Tank, Combat, Full-Tracked: 120-mm Gun,
+M1A1, Heavy Common General Abrams
 <color=#C0C0C0>with Launcher, Grenade, Smoke: Screening, RP, M257</color>
 <color=#C0C0C0>and Missile Countermeasure Device, AN/VLQ-6 Hardhat</color>"
 us_m1a1_hc_usmc_1;M1A1 HC
 us_m1a1_hc_usmc_2;M1
 us_m1a1_hc_abrams_shop;M1A1 HC
-us_m1a1_hc_abrams_0;"Tank, Combat, Full-Tracked: 120-mm Gun, M1A1, Heavy Common General Abrams
+us_m1a1_hc_abrams_0;"Tank, Combat, Full-Tracked: 120-mm Gun,
+M1A1, Heavy Common General Abrams
 <color=#C0C0C0>with Launcher, Grenade, Smoke: Screening, RP, M257</color>
 <color=#C0C0C0>and Missile Countermeasure Device, AN/VLQ-6 Hardhat</color>"
 us_m1a1_hc_abrams_1;M1A1 HC
 us_m1a1_hc_abrams_2;M1
 us_m1a1_hc_usmc_sm_shop;◍ M1A1 HC
-us_m1a1_hc_usmc_sm_0;"Tank, Combat, Full-Tracked: 120-mm Gun, M1A1, Heavy Common General Abrams
+us_m1a1_hc_usmc_sm_0;"Tank, Combat, Full-Tracked: 120-mm Gun,
+M1A1, Heavy Common General Abrams
 <color=#C0C0C0>with Launcher, Grenade, Smoke: Screening, RP, M257</color>
 <color=#C0C0C0>and Missile Countermeasure Device, AN/VLQ-6 Hardhat</color>
 <color=#E3D452>◍ Senrai Maidens ◍</color>"
@@ -468,14 +476,16 @@ us_m1a2_abrams_0;"Tank, Combat, Full-Tracked: 120-mm Gun, M1A2 General Abrams
 us_m1a2_abrams_1;M1A2
 us_m1a2_abrams_2;M1
 us_m1a2_sep_abrams_shop;M1A2 SEP (TUSK)
-us_m1a2_sep_abrams_0;"Tank, Combat, Full-Tracked: 120-mm Gun, M1A2, System Enhancement Package General Abrams
+us_m1a2_sep_abrams_0;"Tank, Combat, Full-Tracked: 120-mm Gun,
+M1A2, System Enhancement Package General Abrams
 <color=#C0C0C0>Tank Urban Survival Kit</color>
 <color=#C0C0C0>with Commander's Armored Gun Shields,</color>
 <color=#C0C0C0>and</color> <color=#B34D4D>SEPv2 battery box</color>"
 us_m1a2_sep_abrams_1;M1A2 SEP
 us_m1a2_sep_abrams_2;M1
 us_m1a2_sep2_abrams_shop;M1A2 SEPv2 (TUSK 2)
-us_m1a2_sep2_abrams_0;"Tank, Combat, Full-Tracked: 120-mm Gun, M1A2, System Enhancement Package Version 2 General Abrams
+us_m1a2_sep2_abrams_0;"Tank, Combat, Full-Tracked: 120-mm Gun,
+M1A2, System Enhancement Package Version 2 General Abrams
 <color=#C0C0C0>Tank Urban Survival Kit 2 (TUSK 2)</color>
 <color=#C0C0C0>with Armament System: Remotely Operated, M153 CROWS,</color>
 <color=#C0C0C0>Laser Detecting Set, AN/VVR-4,</color>
@@ -484,7 +494,8 @@ us_m1a2_sep2_abrams_0;"Tank, Combat, Full-Tracked: 120-mm Gun, M1A2, System Enha
 us_m1a2_sep2_abrams_1;M1A2 SEPv2
 us_m1a2_sep2_abrams_2;M1
 us_m1a2_sep2_abrams_trophy_shop;M1A2 SEPv2 (Trophy)
-us_m1a2_sep2_abrams_trophy_0;"Tank, Combat, Full Tracked: 120-mm Gun, M1A2, System Enhancement Package Version 2 Mod 3, Tank Urban Survival Kit 2 General Abrams
+us_m1a2_sep2_abrams_trophy_0;"Tank, Combat, Full Tracked: 120-mm Gun,
+M1A2, System Enhancement Package Version 2 Mod 3 General Abrams
 <color=#C0C0C0>with Tiles, Armor, M19 Abrams Reactive Armor Tile,</color>
 <color=#C0C0C0>Tiles, Armor, M32 Abrams Reactive Armor Tile 2,</color>
 <color=#C0C0C0>Armament System: Remotely Operated, M153A1E1 CROWS-LP,</color>
@@ -493,8 +504,9 @@ us_m1a2_sep2_abrams_trophy_0;"Tank, Combat, Full Tracked: 120-mm Gun, M1A2, Syst
 us_m1a2_sep2_abrams_trophy_1;M1A2
 us_m1a2_sep2_abrams_trophy_2;M1
 us_m1a2_sep3_abrams_shop;M1A2 SEPv3
-us_m1a2_sep3_abrams_0;"Tank, Combat, Full Tracked: 120-mm Gun, M1A2, System Enhancement Package Version 3 General Abrams
-<color=#C0C0C0>with Abrams Modification 1 & 2,</color>
+us_m1a2_sep3_abrams_0;"Tank, Combat, Full Tracked: 120-mm Gun,
+M1A2, System Enhancement Package Version 3 General Abrams
+<color=#C0C0C0>Abrams Modification 1 & 2,</color>
 <color=#C0C0C0>Tiles, Armor, M19 Abrams Reactive Armor Tile (ARAT),</color>
 <color=#C0C0C0>and Tiles, Armor, M32 Abrams Reactive Armor Tile 2 (ARAT 2)</color>"
 us_m1a2_sep3_abrams_1;M1A2 SEPv3
@@ -635,11 +647,13 @@ us_m3a3_bradley_2;M3
 // AR-AAV //
 
 us_m551_shop;M551
-us_m551_0;Armored Reconnaissance/Airborne Assault Vehicle, Full-Tracked: 152-mm Gun/Launcher, M551 Sheridan
+us_m551_0;"Armored Reconnaissance/Airborne Assault Vehicle,
+Full-Tracked: 152-mm Gun/Launcher, M551 Sheridan"
 us_m551_1;M551
 us_m551_2;M551
 us_m551_76_shop;M551 (M32)
-us_m551_76_0;"Armored Reconnaissance/Airborne Assault Vehicle, Full-Tracked: 152-mm Gun/Launcher, M551 Sheridan
+us_m551_76_0;"Armored Reconnaissance/Airborne Assault Vehicle,
+Full-Tracked: 152-mm Gun/Launcher, M551 Sheridan
 <color=#C0C0C0>with Gun, 76-mm, M32</color>"
 us_m551_76_1;M551 (M32)
 us_m551_76_2;M551
@@ -743,7 +757,8 @@ us_m728_1;M728 CEV
 us_m728_2;M728
 
 us_t114_shop;T114-5 BAT
-us_t114_0;Command and Reconnaissance Vehicle, T114, Pilot No. 5, Battalion Anti-Tank
+us_t114_0;"Command and Reconnaissance Vehicle, T114,
+Pilot No. 5, Battalion Anti-Tank"
 us_t114_1;T114-5 BAT
 us_t114_2;T114
 
@@ -762,12 +777,12 @@ us_apc_m113_1;M113
 us_apc_m113_2;M113
 
 // HELICOPTER, ATTACK //
-ah_1f_shop;AH-1F
-ah_1f_0;Helicopter, Attack, AH-1F (Cobra-Nite) Cobra
+ah_1f_shop;AH-1F (CN)
+ah_1f_0;Helicopter, Attack, AH-1F (CN) Cobra
 ah_1f_1;AH-1F
 ah_1f_2;AH-1
-ah_1f_event_shop;AH-1F
-ah_1f_event_0;Helicopter, Attack, AH-1F (Cobra-Nite) Cobra
+ah_1f_event_shop;AH-1F (CN)
+ah_1f_event_0;Helicopter, Attack, AH-1F (CN) Cobra
 ah_1f_event_1;AH-1F
 ah_1f_event_2;AH-1
 ah_1g_shop;AH-1G
@@ -813,7 +828,8 @@ ah_64d_0;Helicopter, Attack, AH-64D (701C) Longbow Apache
 ah_64d_1;AH-64D
 ah_64d_2;AH-64
 ah_64e_shop;AH-64E
-ah_64e_0;Helicopter, Attack, AH-64E Apache
+ah_64e_0;"Helicopter, Attack, AH-64E Apache Capability Version 4.5
+<color=#C0C0C0>Lot 1–4</color>"
 ah_64e_1;AH-64E
 ah_64e_2;AH-64
 

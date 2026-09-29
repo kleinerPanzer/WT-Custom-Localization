@@ -2,15 +2,8 @@
 
 // PREWAR ARMY //
 
-shop/group/leo_451_group;LéO 451-BN4 / LéO 451-BN4 (AAV)
-shop/group/potez_group;Potez 630-C3 / Potez 631-C3
-shop/group/d_371_group;D.371-C1 / D.373
-shop/group/f_222_group;F.2222-BN5 / N.C.2233-BN5
-shop/group/ms_405_406_group;M.S.405-C1 / M.S.406-C1
-shop/group/d_500_group;D.500-C1 / D.501-C1
 shop/group/vg_33_group;V.G.33-C1 / D.520-C1
 shop/group/maryland_group;Martin 167-A3 / Bloch 174-A3
-shop/group/h-75_france_group;H75-C1 / H751-C1
 
 // SPAD //
 
@@ -28,6 +21,7 @@ maryland_mk1_france_2;Martin 167
 
 // LeO //
 
+shop/group/leo_451_group;LéO 451-BN4 / LéO 451-BN4 (Sep 1940)
 leo_451_early_shop;LéO 451-BN4
 leo_451_early_0;LéO 451-BN4
 leo_451_early_1;LéO 451-BN4
@@ -35,6 +29,7 @@ leo_451_early_2;LéO 451
 
 // Potez //
 
+shop/group/potez_group;Potez 630-C3 / Potez 631-C3
 potez_630_shop;Potez 630-C3
 potez_630_0;"Potez 630-C3
 <color=#C0C0C0>№ 49+</color>"
@@ -90,6 +85,7 @@ mb_175t_2;Bloch 175
 
 // Moraine-Saulnier //
 
+shop/group/ms_405_406_group;M.S.405-C1 / M.S.406-C1
 ms_405c1_shop;M.S.405-C1
 ms_405c1_0;M.S.405-C1
 ms_405c1_1;M.S.405-C1
@@ -121,6 +117,7 @@ vb_10c1_2;V.B.10
 
 // Farman //
 
+shop/group/f_222_group;F.2222-BN5 / N.C.2233-BN5
 f_222_2_shop;F.2222-BN5
 f_222_2_0;F.2222-BN5
 f_222_2_1;F.2222-BN5
@@ -132,6 +129,7 @@ nc_223_3_2;N.C.2233
 
 // Dewontine //
 
+shop/group/d_371_group;D.371-C1 / D.373
 d_371_shop;D.371-C1
 d_371_0;D.371-C1
 d_371_1;D.371-C1
@@ -146,6 +144,7 @@ d_373_0;D.373
 d_373_1;D.373
 d_373_2;D.373
 
+shop/group/d_500_group;D.500-C1 / D.501-C1
 d_500_shop;D.500-C1
 d_500_0;D.500-C1
 d_500_1;D.500-C1
@@ -190,6 +189,7 @@ db_7_2;DB-7
 
 // Curtiss //
 
+shop/group/h-75_france_group;H75-C1 / H751-C1
 h-75a-1_france_shop;H75-C1
 h-75a-1_france_0;"H75-C1
 <color=#C0C0C0>№ 1–100</color>"
@@ -243,13 +243,6 @@ v_156_f_1;V-156-F
 v_156_f_2;V-156
 
 // LEND-LEASE & POSTWAR //
-
-shop/group/f6f_france_group;⚜ F6F-5 / ⚜ F6F-5N
-shop/group/md_454_group;Mystère IV A / Super Mystère B2
-shop/group/so_4050_vautour_group;Vautour II B / Vautour II A
-shop/group/mirage_3_group;Mirage IIIC / Mirage IIIE
-shop/group/md_452_group;Mystère-05 / Mystère-17
-shop/group/md_450b_group;Ouragan / Barougan
 
 // American //
 
@@ -332,6 +325,7 @@ a-35b_0;A-35B
 a-35b_1;⚜ A-35B
 a-35b_2;A-35
 
+shop/group/f6f_france_group;⚜ F6F-5 / ⚜ F6F-5N
 f6f-5_france_shop;⚜ F6F-5
 f6f-5_france_0;F6F-5
 f6f-5_france_1;⚜ F6F-5
@@ -426,6 +420,7 @@ so_8000_narval_2;S.O.8000
 
 // Vautour //
 
+shop/group/so_4050_vautour_group;Vautour II B / Vautour II A
 so_4050_vautour_2a_shop;Vautour II A
 so_4050_vautour_2a_0;Vautour II A
 so_4050_vautour_2a_1;Vautour II A
@@ -444,6 +439,9 @@ so_4050_vautour_2n_late_1;Vautour II N
 so_4050_vautour_2n_late_2;Vautour
 
 // Mystere //
+
+shop/group/md_452_group;Mystère-05 / Mystère-17
+shop/group/md_454_group;Mystère IV A / Super Mystère B2
 
 md_452_mystere_2a_shop;Mystère-05
 md_452_mystere_2a_0;Mystère-05
@@ -498,6 +496,7 @@ mirage_milan_0;Milan S-01
 mirage_milan_1;Milan S-01
 mirage_milan_2;Milan
 
+shop/group/mirage_3_group;Mirage III C / Mirage III E
 mirage_3c_shop;Mirage III C
 mirage_3c_0;Mirage III C
 mirage_3c_1;Mirage III C
@@ -576,6 +575,7 @@ rafale_m_f3r_2;Rafale
 
 // Ouragan //
 
+shop/group/md_450b_group;Ouragan / Barougan
 md_450b_ouragan_shop;Ouragan
 md_450b_ouragan_0;"Ouragan
 <color=#C0C0C0>Feb 1955 modifications</color>"

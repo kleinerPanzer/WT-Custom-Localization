@@ -1,18 +1,4 @@
 <ID|readonly|noverify>;<NewLanguage>
-shop/group/fr_samp_t_fcs_group;Mamba SAMP/T
-shop/group/fr_mars_hot_group;MARS 15 (TS 90) / AMX 13t (HOT)
-shop/group/fr_amx_sk_group;AMX 10 RC / ⛉ Jpz. Kürassier A2
-shop/group/fr_lorraine_bat_group;Char 40t / Char 25t
-shop/group/fr_amx_30_group;AMX 30 B2 / AMX 30 B2 Brenus
-shop/group/fr_leclerc_group;Leclerc S1 T3 / Leclerc S2 T9
-shop/group/fr_b1_2c_group;B1 bis / 2C
-shop/group/fr_arl_jumbo_group;ARL 44 / ⚜ M4A3E2 (75) W
-shop/group/fr_aml_amx_group;AML 90 / AMX 13t–90
-shop/group/fr_auf_acra_group;Auto-canon de 120 / AMX 10 M
-shop/group/fr_amx_32_group;AMX 32 P1 / AMX 32 P2
-shop/group/fr_lorraine_elc_group;CA 100 / ELC bis
-shop/group/fr_hotchkiss_fcm_group;AMC 34 (APX 1) / H 35 / FCM 36
-shop/group/fr_foch_acra_group;Auto-canon de 120 / AMX 10 M
 
 // WWI //
 
@@ -34,6 +20,9 @@ uk_machinegun_hotchkiss_mle_1914_1;Hotchkiss mle. 14
 uk_machinegun_hotchkiss_mle_1914_2;Hotchkiss mle. 14
 
 // WWII //
+shop/group/fr_hotchkiss_fcm_group;AMC 34 (APX 1) / H 35 / FCM 36
+shop/group/fr_arl_jumbo_group;ARL 44 / ⚜ M4A3E2 (75) W
+shop/group/fr_b1_2c_group;B1 bis / 2C
 
 // INFANTRY //
 
@@ -222,6 +211,13 @@ fr_cckw_353_bofors_1;⚜ CCKW-353 (M1)
 fr_cckw_353_bofors_2;CCKW 353
 
 // POSTWAR //
+shop/group/fr_amx_sk_group;AMX 10 RC / ⛉ JaPzK A2
+shop/group/fr_lorraine_bat_group;Char 40t / Char 25t
+shop/group/fr_amx_30_group;AMX 30 B2 / AMX 30 B2 Brenus
+shop/group/fr_aml_amx_group;AML 90 / AMX 13t–90
+shop/group/fr_foch_acra_group;Auto-canon de 120 / AMX 10 M
+shop/group/fr_auf_acra_group;Auto-canon de 120 / AMX 10 M
+shop/group/fr_lorraine_elc_group;Canon d'assaut de 100 / ELC bis
 
 fr_amx_elc_901_shop;ELC/AMX (TC 901)
 fr_amx_elc_901_0;"Engin léger de combat ELC version AMX avec tourelle-casemate 901
@@ -336,11 +332,12 @@ fr_amx_30_auf_1_1;CN 155 Au F1
 fr_amx_30_auf_1_2;CN 155
 
 
+shop/group/fr_leclerc_group;Leclerc S1 RT5 / Leclerc S2 T9
 fr_msc_shop;MSC
 fr_msc_0;Mulet systéme complet
 fr_msc_1;MSC
 fr_msc_2;MSC
-fr_leclerc_s1_shop;Leclerc S1 RT3
+fr_leclerc_s1_shop;Leclerc S1 RT5
 fr_leclerc_s1_0;"Char Leclerc
 <color=#C0C0C0>série 1 reconversion tranche 5</color>"
 fr_leclerc_s1_1;Leclerc S1
@@ -467,6 +464,7 @@ fr_bat_chat_25t_0;Char de 25 tonnes Batignolles-Châtillon
 fr_bat_chat_25t_1;Char 25t
 fr_bat_chat_25t_2;Char 25t
 
+shop/group/fr_samp_t_fcs_group;Mamba SAMP
 fr_samp_t_launcher_shop;Mamba SAMP (MLT)
 fr_samp_t_launcher_0;"Mamba SAMP
 <color=#C0C0C0>Module de lancement terrestre</color>"

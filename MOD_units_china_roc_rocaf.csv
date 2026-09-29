@@ -67,18 +67,21 @@ f-5a_china_shop;☀ F-5A-25
 f-5a_china_0;F-5A-25-NO自由門士式戰鬥機
 f-5a_china_1;☀ F-5A
 f-5a_china_2;F-5
-f-5e_aidc_shop;☀ F-5E
-f-5e_aidc_0;F-5E老虎II式戰鬥機
+f-5e_aidc_shop;☀ F-5E3
+f-5e_aidc_0;"F-5E3老虎II式戰鬥機
+<color=#E3D452>Configuration C</color>"
 f-5e_aidc_1;☀ F-5E
 f-5e_aidc_2;F-5
 
 // F-16 //
 f_16a_block_20_mlu_shop;☀ F-16A-20
-f_16a_block_20_mlu_0;F-16A-20-CF戰軍式戰鬥機
+f_16a_block_20_mlu_0;"F-16A-20-CF戰軍式戰鬥機
+<color=#E3D452>2007 modifications</color>"
 f_16a_block_20_mlu_1;☀ F-16A
 f_16a_block_20_mlu_2;F-16
 f_16a_block_20_mlu_killstreak_shop;☀ F-16A-20
-f_16a_block_20_mlu_killstreak_0;F-16A-20-CF戰軍式戰鬥機
+f_16a_block_20_mlu_killstreak_0;"F-16A-20-CF戰軍式戰鬥機
+<color=#E3D452>2007 modifications</color>"
 f_16a_block_20_mlu_killstreak_1;☀ F-16A
 f_16a_block_20_mlu_killstreak_2;F-16
 f_16a_block_72v_china_shop;☀ F-16V

@@ -3,17 +3,11 @@
 // GROUND //
 
 shop/group/cn_cm_ptz_group;CM25 / PTZ89
-shop/group/cn_m36_isu_group;☀ M36 / 122自行火炮
 
 cn_m10_shop;☀ M10
 cn_m10_0;M10戰車
 cn_m10_1;☀ M10
 cn_m10_2;M10
-
-cn_m36_shop;☀ M36
-cn_m36_0;Carriage, Motor, 90-mm Gun, M36
-cn_m36_1;☀ M36
-cn_m36_2;M36
 
 cn_m55_shop;☀ M55
 cn_m55_0;Howitzer, Heavy, Self-Propelled, Full Tracked: 8-in, M55
@@ -116,6 +110,7 @@ oh_58d_china_1;☀ OH-58D
 oh_58d_china_2;OH-58
 
 ah_64e_china_shop;☀ AH-64E
-ah_64e_china_0;AH-64E阿帕契攻擊直升機
+ah_64e_china_0;"AH-64E阿帕契攻擊直升機
+<color=#B34D4D>Lot 1–4, Capability Version 4.5</color>"
 ah_64e_china_1;☀ AH-64E
 ah_64e_china_2;AH-64

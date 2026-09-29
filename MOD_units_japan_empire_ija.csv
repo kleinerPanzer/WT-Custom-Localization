@@ -1,5 +1,5 @@
 <ID|readonly|noverify>;<NewLanguage>
-shop/group/jp_chi_to_group;チト (2号車) / チト
+shop/group/jp_chi_to_group;チト (二号車) / チト
 shop/group/jp_ho_ni_group;ホニI / ホニIII
 
 jp_type_89b_i_go_otsu_shop;イ号甲
@@ -57,7 +57,7 @@ jp_type_3_chi_nu_1;チヌ
 jp_type_3_chi_nu_2;チヌ
 jp_type_3_chi_nu_75cm_type_5_shop;チヌ (試製七糎半)
 jp_type_3_chi_nu_75cm_type_5_0;"三式中戦車
-<color=#c0c0c0>with 試製七糎半戦車砲(長)II型</color>"
+<color=#C0C0C0>with 試製七糎半戦車砲(長)II型</color>"
 jp_type_3_chi_nu_75cm_type_5_1;チヌ (試製七糎半)
 jp_type_3_chi_nu_75cm_type_5_2;チヌ
 

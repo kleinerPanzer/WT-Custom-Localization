@@ -1,11 +1,10 @@
 <ID|readonly|noverify>;<NewLanguage>
 
 // SOVIET //
-shop/group/cn_t_34_85_group;特34 (1944) / 特34 (1960)
-shop/group/cn_is_2_group;斯2 / 斯2 (直鼻)
-shop/group/cn_tor_hq_group;␗ 9А331-1 / ADK17发射车
 
 // T-34-85 //
+shop/group/cn_t_34_85_group;特34 (1944) / 特34 (1960)
+
 cn_t_34_85_d_5t_shop;特34 (1944)
 cn_t_34_85_d_5t_0;"特34中型坦克
 <color=#C0C0C0>Aug 1944 УТЗ + Завод №112 production</color>"
@@ -25,6 +24,8 @@ cn_type_58_1;特34
 cn_type_58_2;特34
 
 // IS-2 //
+shop/group/cn_is_2_group;斯2 (1944) / 斯2 (1945)
+
 cn_is_2_1943_shop;斯2 (1944)
 cn_is_2_1943_0;"斯2重型坦克
 <color=#C0C0C0>Feb 1944 production</color>
@@ -69,6 +70,8 @@ cn_su_100_1945_1;100自行火炮
 cn_su_100_1945_2;100自行火炮
 
 // Tor //
+shop/group/cn_tor_hq_group;␗ 9А331-1 / ADK17发射车
+
 cn_tor_m1_shop;␗ 9А331-1
 cn_tor_m1_0;Боевая машина 9А331-1
 cn_tor_m1_1;␗ 9А331-1
@@ -76,22 +79,22 @@ cn_tor_m1_2;9А331
 
 // CHINESE //
 shop/group/cn_type_63_62_group;ZTS63 / ZTQ62
-shop/group/cn_zts_type_group;ZTS63 (1979) / ZBD86
+shop/group/cn_zts_type_group;ZTS63 (1980) / ZBD86
 shop/group/cn_type_59_69_group;ZTZ59 / ZTZ69
 shop/group/cn_ztz_88_group;ZTZ88B / ZTZ88A
 shop/group/cn_ztz_99_group;WZ123改 / ZTZ99
 shop/group/cn_ptl_aft_group;PTL02 / AFT09发射车
-shop/group/cn_76_211_group;211 (四期/A) / ␗ ПТ-76 (1953)
+shop/group/cn_76_211_group;211 (四期/A) / ␗ ПТ-76
 
 // Type 62 //
-ussr_type_62_shop;▂ ZTQ62
-ussr_type_62_0;ZTQ1962式轻型坦克
-ussr_type_62_1;▂ ZTQ62
-ussr_type_62_2;ZTQ62
 cn_type_62_shop;ZTQ62
 cn_type_62_0;ZTQ1962式轻型坦克
 cn_type_62_1;ZTQ62
 cn_type_62_2;ZTQ62
+ussr_type_62_shop;▂ ZTQ62
+ussr_type_62_0;ZTQ1962式轻型坦克
+ussr_type_62_1;▂ ZTQ62
+ussr_type_62_2;ZTQ62
 
 // Type 63 //
 cn_type_63_I_shop;ZTS63
@@ -308,17 +311,3 @@ cn_t_62_shop;␗ Т-62
 cn_t_62_0;Т-62中型坦克
 cn_t_62_1;␗ Т-62
 cn_t_62_2;Т-62
-
-cn_pt_76_shop;␗ ПТ-76 (1953)
-cn_pt_76_0;"Танк ПТ-76
-<color=#C0C0C0>1953 production</color>"
-cn_pt_76_1;␗ ПТ-76
-cn_pt_76_2;ПТ-76
-
-
-shop/group/cn_t_34_m4_group;␗ Т-34 (Sep 1942) / ☀ M4A1 75
-cn_t_34_1942_shop;␗ Т-34 (Sep 1942)
-cn_t_34_1942_0;"Танк Т-34
-<color=#C0C0C0>Sep 1942 UTZ production</color>"
-cn_t_34_1942_1;␗ Т-34
-cn_t_34_1942_2;Т-34

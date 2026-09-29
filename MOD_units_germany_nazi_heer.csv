@@ -1,32 +1,12 @@
 <ID|readonly|noverify>;<NewLanguage>
-shop/group/germ_pzkpfw_38t_group;Pz.Kpfw. 38(t) F / Pz.Kpfw. 38(t) n.A.
 shop/group/germ_sturer_flak_group;Pz.Sfl. für 12,8 cm K. 40 / 8,8 cm Fla.K. 37 Sfl.
 shop/group/germ_dicker_sturer_group;Pz.Sfl. IVa / Pz.Sfl. für 12,8 cm K. 40
 shop/group/germ_flak_m44_group;8,8 cm Fla.K. 37 Sfl. / PzH M 44
-shop/group/germ_waffentrager_group;Nashorn / Steyr Waffenträger
-shop/group/germ_pzkpfw_III_late_group;Pz.Kpfw. III L / Pz.Kpfw. III M
-shop/group/germ_pzkpfw_4_early_group;Pz.Kpfw. IV E (Tp.) / Pz.Kpfw. IV F (Tp.)
-shop/group/germ_pz_4_fg_group;Pz.Kpfw. IV G (f) / Pz.Kpfw. IV G (m)
-shop/group/germ_pz_4_late_group;Pz.Kpfw. IV H / Pz.Kpfw. IV J
-shop/group/germ_pzkpfw_V_a_f_group;Panther A / Panther G / Panther F
-shop/group/germ_flakpanzer_1_group;Pz.Kpfw. I A (2 cm Fla.K. 38) / Flakpanzer 38
-shop/group/germ_flakpanzer_4_group;Ostwind / Wirbelwind
-shop/group/germ_tiger_east_west_group;Two Fronts Bundle
-shop/group/germ_sturmpanzer_221_group;s.I.G. 33B Sfl. / le.Pz.Sp.Wg. (s.Pz.B. 41)
-shop/group/germ_panzerjager_251_group;Panzerjäger I / m.Spw. (7,5 cm K.) D
-shop/group/germ_marder_stug_a_group;Panzerjäger 38 / Sturmgeschütz A
-shop/group/germ_marder_stuh_group;Panzerjäger 38 H / Sturmhaubitze G / Sturmgeschütz F
-shop/group/germ_jagdpanzer_group;Jagdpanzer IV / Jagdpanzer 38
-shop/group/germ_jagdpanther_group;Jagdpanther G1 / KanJPz
-shop/group/germ_panzerjager_tiger_group;Ferdinand / Jagdtiger
-shop/group/germ_prewar_pz_III_group;Pz.Kpfw. III B / Pz.Kpfw. III E
-shop/group/germ_Marder_III_group;Panzerjäger 38 / Panzerjäger 38 H
-shop/group/pzkpfw_iv_late_group;Pz.Kpfw. IV H / Pz.Kpfw. IV J
-shop/group/pzkpfw_iv_fg_group;Pz.Kpfw. IV G (f) / Pz.Kpfw. IV G (m)
-shop/group/germ_pzkpfw_II_early_group;Pz.Kpfw. II C / Pz.Kpfw. II F
-shop/group/germ_pzkpfw_III_group;Pz.Kpfw. III F / Pz.Kpfw. III J (Tp.)
+shop/group/germ_tiger_east_west_group;Two Fronts
 
 // PANZER 35/38 //
+shop/group/germ_pzkpfw_38t_group;Pz.Kpfw. 38(t) F / Pz.Kpfw. 38(t) n.A.
+
 germ_pzkpfw_35t_shop;Pz.Kpfw. 35(t)
 germ_pzkpfw_35t_0;Panzerkampfwagen 35(t)
 germ_pzkpfw_35t_1;Pz.Kpfw. 35(t)
@@ -49,6 +29,8 @@ germ_pzkpfw_38t_Aufklarungspanzer_1;Aufkl.Pzw. 38 (2 cm)
 germ_pzkpfw_38t_Aufklarungspanzer_2;Aufkl.Pzw. 38
 
 // PANZER II //
+shop/group/germ_pzkpfw_II_early_group;Pz.Kpfw. II C / Pz.Kpfw. II F
+
 germ_pzkpfw_II_ausf_C_shop;Pz.Kpfw. II C
 germ_pzkpfw_II_ausf_C_0;"Panzerkampfwagen II (2 cm) Ausf. C
 <color=#C0C0C0>Jan 1942 modifications</color>"
@@ -74,6 +56,10 @@ germ_pzkpfw_II_ausf_F_2;Pz. II
 
 
 // PANZER III //
+shop/group/germ_prewar_pz_III_group;Pz.Kpfw. III B / Pz.Kpfw. III E
+shop/group/germ_pzkpfw_III_group;Pz.Kpfw. III F / Pz.Kpfw. III J (Tp.)
+shop/group/germ_pzkpfw_III_late_group;Pz.Kpfw. III L (V.Pz.) / Pz.Kpfw. III M
+
 germ_pzkpfw_III_ausf_B_shop;Pz.Kpfw. III B
 germ_pzkpfw_III_ausf_B_0;"Panzerkampfwagen III (3,7 cm) Ausf. B"
 germ_pzkpfw_III_ausf_B_1;Pz.Kpfw. III B
@@ -91,7 +77,7 @@ germ_pzkpfw_III_ausf_E_race_2;Pz. III
 germ_pzkpfw_III_ausf_F_shop;Pz.Kpfw. III F
 germ_pzkpfw_III_ausf_F_0;"Panzerkampfwagen III (5 cm) Ausf. F
 <color=#C0C0C0>Z.W. 39 Umbewaffnung</color>
-<color=#C0C0C0>Aug 1940 production</color"
+<color=#C0C0C0>Aug 1940 production</color>"
 germ_pzkpfw_III_ausf_F_1;Pz.Kpfw. III F
 germ_pzkpfw_III_ausf_F_2;Pz. III
 germ_pzkpfw_III_ausf_J_L42_shop;Pz.Kpfw. III J (Tp.)
@@ -125,16 +111,22 @@ germ_pzkpfw_III_ausf_L_tutorial_1;Pz.Kpfw. III L
 germ_pzkpfw_III_ausf_L_tutorial_2;Pz. III
 germ_pzkpfw_III_ausf_M_shop;Pz.Kpfw. III M
 germ_pzkpfw_III_ausf_M_0;"Panzerkampfwagen III (5 cm Kw.K. 39 (L/60)) Ausf. M
-Mai 1943 Umbau"
+<color=#C0C0C0>Oct 1942 production, May 1943 modifications</color>"
 germ_pzkpfw_III_ausf_M_1;Pz.Kpfw. III M
 germ_pzkpfw_III_ausf_M_2;Pz. III
 germ_pzkpfw_III_ausf_N_shop;Pz.Kpfw. III N
 germ_pzkpfw_III_ausf_N_0;"Panzerkampfwagen III (7,5 cm Kw.K. 37 (L/24)) Ausf. N
-<color=#C0C0C0>Oct 1942 production, May 1943 modifications</color>"
+<color=#C0C0C0>May 1943 production</color>"
 germ_pzkpfw_III_ausf_N_1;Pz.Kpfw. III N
 germ_pzkpfw_III_ausf_N_2;Pz. III
 
 // PANZER IV //
+shop/group/germ_pzkpfw_4_early_group;Pz.Kpfw. IV E (Tp.) / Pz.Kpfw. IV F (Tp.)
+shop/group/germ_pz_4_fg_group;Pz.Kpfw. IV G (Mar 1942) / Pz.Kpfw. IV G (Sep 1942)
+shop/group/pzkpfw_iv_fg_group;Pz.Kpfw. IV G (Mar 1942) / Pz.Kpfw. IV G (Sep 1942)
+shop/group/germ_pz_4_late_group;Pz.Kpfw. IV H / Pz.Kpfw. IV J
+shop/group/pzkpfw_iv_late_group;Pz.Kpfw. IV H / Pz.Kpfw. IV J
+
 germ_nbfz_VI_shop;Nb.-Pz.Kpfw. IV
 germ_nbfz_VI_0;"Neubau-Panzerkampfwagen IV (3,7 cm & 7,5 cm)
 <color=#C0C0C0>Nr. 3 bis 5, mit Krupp Turm</color>"
@@ -158,13 +150,13 @@ germ_pzkpfw_IV_ausf_F_0;"Panzerkampfwagen IV (7,5 cm) Ausf. F
 <color=#C0C0C0>Apr 1941 production</color>"
 germ_pzkpfw_IV_ausf_F_1;Pz.Kpfw. IV F
 germ_pzkpfw_IV_ausf_F_2;Pz. IV
-germ_pzkpfw_IV_ausf_F2_shop;Pz.Kpfw. IV G (März 1942)
+germ_pzkpfw_IV_ausf_F2_shop;Pz.Kpfw. IV G (Mar 1942)
 germ_pzkpfw_IV_ausf_F2_0;"Panzerkampfwagen IV (7,5 cm Kw.K. 40 (L/43)) Ausf. G
 <color=#C0C0C0>Tropenausführung</color>
 <color=#C0C0C0>Mar 1942 production</color>"
 germ_pzkpfw_IV_ausf_F2_1;Pz.Kpfw. IV G
 germ_pzkpfw_IV_ausf_F2_2;Pz. IV
-germ_pzkpfw_IV_ausf_G_shop;Pz.Kpfw. IV G (Sept. 1942)
+germ_pzkpfw_IV_ausf_G_shop;Pz.Kpfw. IV G (Sep 1942)
 germ_pzkpfw_IV_ausf_G_0;"Panzerkampfwagen IV (7,5 cm Kw.K. 40 (L/43)) Ausf. G
 <color=#C0C0C0>Sep 1942 production</color>"
 germ_pzkpfw_IV_ausf_G_1;Pz.Kpfw. IV G
@@ -187,6 +179,7 @@ germ_panzerbefelhswagen_IV_ausf_J_2;Pz.Bfw. IV
 
 
 // PANTHER //
+shop/group/germ_pzkpfw_V_a_f_group;Panther A / Panther G / Panther F
 
 germ_vk_3002m_shop;VK 30.02 (M)
 germ_vk_3002m_0;VK 30.02 (M)
@@ -264,9 +257,10 @@ germ_pzkpfw_VI_ausf_h1_tiger_west_0;"Panzerkampfwagen Tiger (8,8 cm) Ausf. E
 <color=#C0C0C0>Mar 1943 production</color>"
 germ_pzkpfw_VI_ausf_h1_tiger_west_1;Tiger I
 germ_pzkpfw_VI_ausf_h1_tiger_west_2;Tiger I
-germ_pzkpfw_VI_ausf_h1_tiger_animal_version_shop;Tiger I (März 1943)
+germ_pzkpfw_VI_ausf_h1_tiger_animal_version_shop;␠ Tiger I (März 1943)
 germ_pzkpfw_VI_ausf_h1_tiger_animal_version_0;"Panzerkampfwagen Tiger (8,8 cm) Ausf. E
-<color=#C0C0C0>Mar 1943 production</color>"
+<color=#C0C0C0>Mar 1943 production</color>
+<color=#E3D452>␠ Crouching Tiger ␠</color>"
 germ_pzkpfw_VI_ausf_h1_tiger_animal_version_1;Tiger I
 germ_pzkpfw_VI_ausf_h1_tiger_animal_version_2;Tiger I
 germ_pzkpfw_VI_ausf_e_tiger_shop;Tiger I (Apr. 1944)
@@ -312,6 +306,10 @@ germ_pzkpfw_Maus_1;Maus
 germ_pzkpfw_Maus_2;Maus
 
 // JAGDPANZER //
+shop/group/germ_panzerjager_tiger_group;Ferdinand / Jagdtiger
+shop/group/germ_jagdpanzer_group;Jagdpanzer IV / Jagdpanzer 38
+shop/group/germ_jagdpanther_group;Jagdpanther G1 / JPz 4-5
+
 germ_jgdpz_38t_shop;Jagdpanzer 38
 germ_jgdpz_38t_0;"Panzerjäger 38
 <color=#C0C0C0>Sep 1944 production</color>"
@@ -357,18 +355,24 @@ germ_panzerjager_tiger_1;Jagdtiger
 germ_panzerjager_tiger_2;Jagdtiger
 
 // PANZERJAGER //
+shop/group/germ_Marder_III_group;Panzerjäger 38 / Panzerjäger 38 H
+shop/group/germ_panzerjager_251_group;Panzerjäger I / m.Spw. (7,5 cm K.) D
+shop/group/germ_marder_stug_a_group;Panzerjäger 38 / Sturmgeschütz A
+shop/group/germ_marder_stuh_group;Panzerjäger 38 H / Sturmhaubitze G / Sturmgeschütz F
+shop/group/germ_waffentrager_group;Nashorn / Steyr Waffenträger
+
 germ_pzkpfw_38t_Marder_III_ausf_H_shop;Panzerjäger 38 H
 germ_pzkpfw_38t_Marder_III_ausf_H_0;Panzerjäger 38 für 7,5 cm Pa.K. 40/3 Ausf. H
 germ_pzkpfw_38t_Marder_III_ausf_H_1;Panzerjäger 38 H
 germ_pzkpfw_38t_Marder_III_ausf_H_2;Panzerjäger 38
 germ_pzkpfw_38t_Marder_III_shop;Panzerjäger 38
 germ_pzkpfw_38t_Marder_III_0;"Panzerjäger 38 für 7,62 cm Pa.K. 36
-<color=#B34D4D>2. Serie with Praga AC engine</color>"
+<color=#C0C0C0>2. Serie</color> <color=#B34D4D>with Praga AC engine</color>"
 germ_pzkpfw_38t_Marder_III_1;Panzerjäger 38
 germ_pzkpfw_38t_Marder_III_2;Panzerjäger 38
 germ_panzerjager_1_shop;Panzerjäger I
 germ_panzerjager_1_0;"4,7 cm Pa.K.(t) (Sfl.) auf Pz.Kpfw. I ohne Turm
-<color=#B34D4D>2. Serie</color>"
+<color=#C0C0C0>2. Serie</color>"
 germ_panzerjager_1_1;Panzerjäger I
 germ_panzerjager_1_2;Panzerjäger I
 germ_pzkpfw_II_ausf_H_shop;Pz.Sfl. Ic
@@ -380,11 +384,6 @@ germ_panzerjager_nashorn_0;"8,8 cm Pa.K. 43/1 (L/71) auf Fahrgestell Pz.Kpfw. II
 <color=#C0C0C0>Feb 1943 production</color>"
 germ_panzerjager_nashorn_1;Nashorn
 germ_panzerjager_nashorn_2;Nashorn
-germ_hummel_shop;Hummel
-germ_hummel_0;"Geschützwagen III/IV für s.F.H. 18/1 (Sf.)
-<color=#C0C0C0>Mar 1943 production</color>"
-germ_hummel_1;Hummel
-germ_hummel_2;Hummel
 germ_pzsfl_IVa_dickermax_shop;Pz.Sfl. IVa
 germ_pzsfl_IVa_dickermax_0;10,5 cm K. Panzerselbstfahrlafette IVa
 germ_pzsfl_IVa_dickermax_1;Pz.Sfl. IVa
@@ -433,6 +432,9 @@ germ_sturmmorser_sturmtiger_event_1;Sturmtiger
 germ_sturmmorser_sturmtiger_event_2;Sturmtiger
 
 // FLAKPANZER //
+shop/group/germ_flakpanzer_1_group;Pz.Kpfw. I A (2 cm Fla.K. 38) / Flakpanzer 38
+shop/group/germ_flakpanzer_4_group;Ostwind / Wirbelwind
+
 germ_flakpanzer_38t_Gepard_shop;Flakpanzer 38
 germ_flakpanzer_38t_Gepard_0;Flakpanzer 38 auf Selbstfahrlafette 38 Ausf. L
 germ_flakpanzer_38t_Gepard_1;Flakpanzer 38
@@ -490,10 +492,18 @@ germ_sdkfz_6_2_flak36_1;Fla.K. 36 Sfl.
 germ_sdkfz_6_2_flak36_2;Fla.K. 36 Sfl.
 
 // ARTILLERIE SFL //
+shop/group/germ_sturmpanzer_221_group;s.I.G. 33B Sfl. / le.Pz.Sp.Wg. (M.G.) (s.Pz.B. 41)
+
 germ_sturmpanzer_II_shop;s.I.G. 33B Sfl.
 germ_sturmpanzer_II_0;15 cm s.I.G. 33B Selbstfahrlafette
 germ_sturmpanzer_II_1;s.I.G. 33B Sfl.
 germ_sturmpanzer_II_2;s.I.G. 33B Sfl.
+
+germ_hummel_shop;Hummel
+germ_hummel_0;"Geschützwagen III/IV für s.F.H. 18/1 (Sf.)
+<color=#C0C0C0>Mar 1943 production</color>"
+germ_hummel_1;Hummel
+germ_hummel_2;Hummel
 
 // PANZERSPAHWAGEN //
 germ_sdkfz_221_s_pz_b_41_shop;le.Pz.Sp.Wg. (M.G.) (s.Pz.B. 41)

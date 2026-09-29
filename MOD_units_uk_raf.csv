@@ -117,7 +117,7 @@ spitfiremkii_0;Spitfire Mk. IIb
 spitfiremkii_1;Spitfire Mk. II
 spitfiremkii_2;Spitfire
 
-shop/group/spitfire_mk5b_group;Spitfire F. Mk. VB (Trop) / Spitfire F. Mk. VB
+shop/group/spitfire_mk5b_group;Spitfire F. Mk. VB (Trop.) / Spitfire F. Mk. VB
 spitfire_mk5b_notrop_shop;Spitfire F. Mk. VB
 spitfire_mk5b_notrop_0;"Spitfire F. Mk. VB
 <color=#C0C0C0>Apr 1941 production, May 1942 modifications</color>"
@@ -135,7 +135,7 @@ spitfire_mk5b_0;"Spitfire F. Mk. VB
 <color=#C0C0C0>Mod No. 411 (Tropical Conversion)</color>"
 spitfire_mk5b_1;Spitfire Mk. V
 spitfire_mk5b_2;Spitfire
-shop/group/spitfire_mkv_group;Spitfire F/ Mk. VB (Trop.) / Spitfire LF. Mk. VC (Trop.)
+shop/group/spitfire_mkv_group;Spitfire F. Mk. VB (Trop.) / Spitfire LF. Mk. VC (Trop.)
 shop/group/spitfire_mk5_group;Spitfire LF. Mk. VC / Spitfire LF. Mk. VC (Trop.)
 shop/group/spitfire_mk5c_group;Spitfire LF. Mk. VC (Trop.) / Spitfire LF. Mk. VC
 spitfire_mk5c_notrop_shop;Spitfire LF. Mk. VC
@@ -258,12 +258,12 @@ typhoon_mk1b_late_2;Typhoon
 shop/group/tempest_mkv_group;Tempest FB.5 / Tempest FB.2
 tempest_mk2_shop;Tempest FB.2
 tempest_mk2_0;"Tempest FB. Mk. 2
-<color=#C0C0C0>1946 Modifications</color>"
+<color=#C0C0C0>1946 modifications</color>"
 tempest_mk2_1;Tempest Mk. 2
 tempest_mk2_2;Tempest
 tempest_mkv_shop;Tempest FB.5
 tempest_mkv_0;"Tempest FB. Mk. 5 (Series 2)
-<color=#C0C0C0>1946 Modifications</color>"
+<color=#C0C0C0>1946 modifications</color>"
 tempest_mkv_1;Tempest Mk. 5
 tempest_mkv_2;Tempest
 tempest_mkv_vikkers_shop;Tempest FB.5 (SN354)
@@ -316,7 +316,7 @@ corsair_fmk2_2;Corsair
 b_48_firecrest_shop;Firecrest
 b_48_firecrest_0;"B48 Firecrest
 <color=#C0C0C0>Prototype No. 1</color>
-<color=#B34D4D>with two internally wing-mounted AN/M3 machine guns</color>"
+<color=#B34D4D>with Machine Guns, Caliber .50: AN/M3, Aircraft, Basic</color>"
 b_48_firecrest_1;Firecrest
 b_48_firecrest_2;Firecrest
 
@@ -346,7 +346,7 @@ wyvern_s4_2;Wyvern
 
 // METEOR //
 shop/group/meteor3_group;Meteor F.3 / Meteor F.3/4 (EE337)
-shop/group/meteor4_group;Meteor F.3/4 (EE360) / Meteor F.4 / Meteor F.8
+shop/group/meteor4_group;Meteor F.4 (1945) / Meteor F.4 (1948) / Meteor F.8
 meteor_fmk3_shop;Meteor F.3
 meteor_fmk3_0;Meteor F. Mk. 3
 meteor_fmk3_1;Meteor Mk. 3
@@ -675,8 +675,9 @@ canberra_bimk6_iaf_killstreak_1;Canberra Mk. 6
 canberra_bimk6_iaf_killstreak_2;Canberra
 
 // BUCCANEER //
-buccaneer_s1_shop;Buccaneer S.1 (No. 736 NAS)
-buccaneer_s1_0;Buccaneer S. Mk. 1 (Fleet Air Arm No. 736 Naval Air Squadron)
+buccaneer_s1_shop;Buccaneer S.1
+buccaneer_s1_0;Buccaneer S. Mk. 1
+<color=#E3D452>No. 736 Naval Air Squadron</color>
 buccaneer_s1_1;Buccaneer Mk. 1
 buccaneer_s1_2;Buccaneer
 buccaneer_s2_shop;Buccaneer S.2A
@@ -716,8 +717,8 @@ beaufighter_mkx_1;Beaufighter Mk. X
 beaufighter_mkx_2;Beaufighter
 
 // MOSQUITO //
-shop/group/mosquito_group;Mosquito FB. Mk. 6 / Mosquito FB. Mk. XVIII / Mosquito F. Mk. II / Sea Mosquito TR.33 (P)
-shop/group/mosquito_group;Mosquito FB. Mk. 6 / Mosquito FB. Mk. XVIII
+shop/group/mosquito_group;Mosquito FB. Mk. VI / Mosquito FB. Mk. XVIII / Mosquito F. Mk. II / Sea Mosquito TR.33 (P)
+shop/group/mosquito_group;Mosquito FB. Mk. VI / Mosquito FB. Mk. XVIII
 mosquito_nf_mk2_shop;Mosquito F. Mk. II
 mosquito_nf_mk2_0;"Mosquito F. Mk. II
 <color=#B34D4D>with Merlin Mk. 25 engines</color>"
@@ -898,6 +899,6 @@ hawk_t1a_0;"Hawk T. Mk. 1A
 hawk_t1a_1;Hawk Mk. 1
 hawk_t1a_2;Hawk
 
-shop/group/brigand_group;Brigade B.1 / Whirlwind Mk. I
+shop/group/brigand_group;Brigand B.1 / Whirlwind Mk. I
 shop/group/lincoln_group;Lincoln B.2 / Shackleton MR.2
 shop/group/sea_hawk_group;Sea Hawk FGA.6 / Sea Venom F.(AW.)20

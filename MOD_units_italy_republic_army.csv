@@ -1,14 +1,9 @@
 <ID|readonly|noverify>;<NewLanguage>
 shop/group/it_samp_t_fcs_group;SAMP/T
-shop/group/it_fiat_group;6616 (T90) / 6614 (M40A1)
-shop/group/it_of_leo_group;OF 40 Mk. 1 / ⛨ Leopard 1 A2
 shop/group/it_centauro_105_group;Centauro / Centauro (ROMOR)
-shop/group/it_ariete_group;Ariete PSO / Ariete WAR
+shop/group/it_ariete_group;Ariete (PSO) / Ariete (WAR)
 shop/group/it_dardo_group;VCC Dardo / Dardo (HITFIST 30)
 shop/group/it_m44_55_group;⛨ 155/23 M44 / ⛨ 203/25 M55
-
-
-
 
 
 it_leopard_1a2_shop;⛨ Leopard 1 A2
@@ -40,16 +35,16 @@ it_vbc_pt2_0;"Veicolo blindato da combattimento Centauro
 it_vbc_pt2_1;VBC Centauro
 it_vbc_pt2_2;VBC Centauro
 
-it_b1_centauro_romor_shop;Centauro (ROMOR)
-it_b1_centauro_romor_0;"Blindato armata Centauro
-<color=#C0C0C0>serie 2, con ERA ROMOR</color>"
-it_b1_centauro_romor_1;Centauro (ROMOR)
-it_b1_centauro_romor_2;Centauro
 it_b1_centauro_shop;Centauro
 it_b1_centauro_0;"Blindato armata Centauro
 <color=#C0C0C0>preserie</color>"
 it_b1_centauro_1;Centauro
 it_b1_centauro_2;Centauro
+it_b1_centauro_romor_shop;Centauro (ROMOR)
+it_b1_centauro_romor_0;"Blindato armata Centauro
+<color=#C0C0C0>serie 2, con ERA ROMOR</color>"
+it_b1_centauro_romor_1;Centauro (ROMOR)
+it_b1_centauro_romor_2;Centauro
 
 it_fiat_cm52_shop;CM 52 (M55)
 it_fiat_cm52_0;"Autocarro medio CM 52 (4x4)

@@ -56,9 +56,9 @@ germ_ls_class_shop;LS 3
 germ_ls_class_0;leichtes Schnellboot LS 3
 germ_ls_class_1;LS 3
 germ_ls_class_2;leichtes Schnellboot
-germ_ls4_class_shop;Esau (LS 4)
-germ_ls4_class_0;leichtes Schnellboot LS 4 Esau
-germ_ls4_class_1;Esau
+germ_ls4_class_shop;LS 4
+germ_ls4_class_0;leichtes Schnellboot LS 4 «Esau»
+germ_ls4_class_1;LS 4
 germ_ls4_class_2;leichtes Schnellboot
 
 germ_vs8_hydrofoil_shop;VS 8

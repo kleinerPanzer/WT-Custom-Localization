@@ -7,7 +7,7 @@ shop/group/uk_challenger_2_group;Challenger 2 (2E) / Challenger 2 (2F) / Challen
 shop/group/uk_challenger_bn_e_group;Challenger 2 BN / Challenger 2E
 shop/group/uk_churchill_group;Churchill III / Churchill IV N.A.75
 shop/group/uk_tortoise_conway_group;Tortoise / Conway
-shop/group/uk_fv510_zt3_group;Warrior ISV / Ratel ZT3 Mk. 3
+shop/group/uk_fv510_zt3_group;Warrior / Ratel ZT3 Mk. 3
 shop/group/uk_kit_3rank_group;Echoes of Overlord
 shop/group/uk_scimitar_fox_group;Scimitar / Fox
 shop/group/uk_crusader_group;Crusader II / Crusader III
@@ -64,6 +64,36 @@ uk_crusader_mk_3_shop;Crusader III
 uk_crusader_mk_3_0;Tank, Cruiser, Mk. VI, Crusader, Mk. III
 uk_crusader_mk_3_1;Crusader III
 uk_crusader_mk_3_2;Crusader
+
+uk_crusader_aa_mk_1_shop;Crusader A.A. I
+uk_crusader_aa_mk_1_0;"Tank, Cruiser, Mk. VI, Crusader, Mk. III, A.A., Mk. I
+uk_crusader_aa_mk_1_1;Crusader A.A. I
+uk_crusader_aa_mk_1_2;Crusader A.A.
+;
+uk_crusader_aa_mk_2_shop;Crusader A.A. II
+uk_crusader_aa_mk_2_0;Tank, Cruiser, Mk. VI, Crusader, Mk. III, A.A., Mk. II
+uk_crusader_aa_mk_2_1;Crusader A.A. II
+uk_crusader_aa_mk_2_2;Crusader A.A.
+;
+uk_crusader_aa_mk_2_tutorial_shop;Crusader A.A. II
+uk_crusader_aa_mk_2_tutorial_0;Tank, Cruiser, Mk. VI, Crusader, Mk. III, A.A., Mk. II
+uk_crusader_aa_mk_2_tutorial_1;Crusader A.A. II
+uk_crusader_aa_mk_2_tutorial_2;Crusader A.A.
+;
+uk_crusader_aa_mk_2_kit_3rank_shop;Crusader A.A. II
+uk_crusader_aa_mk_2_kit_3rank_0;Tank, Cruiser, Mk. VI, Crusader, Mk. III, A.A., Mk. II
+uk_crusader_aa_mk_2_kit_3rank_1;Crusader A.A. II
+uk_crusader_aa_mk_2_kit_3rank_2;Crusader A.A.
+;
+uk_centaur_aa_mk_1_shop;Centaur A.A. I
+uk_centaur_aa_mk_1_0;Tank, Cruiser, Mk. VIII, Centaur, Mk. III, A.A., Mk. I
+uk_centaur_aa_mk_1_1;Centaur A.A. I
+uk_centaur_aa_mk_1_2;Centaur A.A.
+;
+uk_centaur_aa_mk_2_shop;Centaur A.A. II
+uk_centaur_aa_mk_2_0;Tank, Cruiser, Mk. VIII, Centaur, Mk. III, A.A., Mk. II
+uk_centaur_aa_mk_2_1;Centaur A.A. II
+uk_centaur_aa_mk_2_2;Centaur A.A.
 
 uk_a27m_cromwell_1_shop;Cromwell I
 uk_a27m_cromwell_1_0;"Tank, Cruiser, Mk. VIII, Cromwell, Mk. I
@@ -129,7 +159,8 @@ uk_a_22b_mk_3_churchill_1942_0;Tank, Infantry, Mk. IV, Churchill, Mk. III
 uk_a_22b_mk_3_churchill_1942_1;Churchill III
 uk_a_22b_mk_3_churchill_1942_2;Churchill
 uk_churchill_avre_shop;Churchill III A.V.R.E.
-uk_churchill_avre_0;Tank, Infantry, Mk. IV, Churchill, Mk. III, A.V.R.E. fitted with Mortar, Recoiling Spigot, Mk. II
+uk_churchill_avre_0;"Tank, Infantry, Mk. IV, Churchill, Mk. III, A.V.R.E.
+fitted with Mortar, Recoiling Spigot, Mk. II"
 uk_churchill_avre_1;Churchill III A.V.R.E.
 uk_churchill_avre_2;Churchill
 uk_churchill_na75_shop;Churchill IV N.A.75
@@ -428,6 +459,12 @@ uk_t17e2_0;Car, Armoured, Staghound, A.A., Mk. I
 uk_t17e2_1;Staghound A.A. I
 uk_t17e2_2;Staghound
 
+uk_armored_car_mk_2_aa_shop;A.E.C. II (20-mm. A.A.)
+uk_armored_car_mk_2_aa_0;"Car, Armoured, A.E.C., Mk. II
+<color=#C0C0C0>with 20-mm. A.A. Mounting and Turret</color>"
+uk_armored_car_mk_2_aa_1;A.E.C. II (20-mm. A.A.)
+uk_armored_car_mk_2_aa_2;A.E.C.
+
 uk_armored_car_aec_mk_2_shop;A.E.C. II
 uk_armored_car_aec_mk_2_0;Car, Armoured, A.E.C., Mk. II
 uk_armored_car_aec_mk_2_1;A.E.C. II
@@ -450,7 +487,8 @@ uk_fv107_scimitar_0;"Combat Vehicle, Reconnaissance, Full-Tracked, Scimitar
 uk_fv107_scimitar_1;Scimitar
 uk_fv107_scimitar_2;Scimitar
 uk_fv107_scimitar_mk2_shop;Scimitar Mk 2 TES
-uk_fv107_scimitar_mk2_0;Combat Vehicle, Reconnaissance, Full-Tracked, Scimitar Mk 2 Theatre Entry Standard
+uk_fv107_scimitar_mk2_0;"Combat Vehicle, Reconnaissance, Full-Tracked,
+Scimitar Mk 2 Theatre Entry Standard"
 uk_fv107_scimitar_mk2_1;Scimitar Mk 2 TES
 uk_fv107_scimitar_mk2_2;Scimitar
 
@@ -477,10 +515,10 @@ uk_stormer_hvm_1;HVM
 uk_stormer_hvm_2;HVM
 
 // IFV //
-uk_fv510_isv_shop;Warrior ISV
+uk_fv510_isv_shop;Warrior
 uk_fv510_isv_0;"Combat Vehicle, Personnel, Tracked, 30 mm Gun, Warrior
 <color=#C0C0C0>2005 modifications</color>"
-uk_fv510_isv_1;Warrior ISV
+uk_fv510_isv_1;Warrior
 uk_fv510_isv_2;Warrior
 
 uk_ajax_shop;Ajax
@@ -537,7 +575,8 @@ ah_mk1_0;Apache AH. Mk. 1
 ah_mk1_1;Apache Mk.1
 ah_mk1_2;Apache
 ah_64e_britain_shop;Apache AH.2
-ah_64e_britain_0;Apache AH. Mk. 2
+ah_64e_britain_0;"Apache AH. Mk. 2
+<color=#B34D4D>Lot 1–4, Capability Version 4.5</color>"
 ah_64e_britain_1;Apache Mk. 2
 ah_64e_britain_2;Apache
 

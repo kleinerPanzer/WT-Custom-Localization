@@ -1,40 +1,6 @@
 <ID|readonly|noverify>;<NewLanguage>
-shop/group/ussr_buk_m3_fcs_group;9К317М
-shop/group/ussr_t_34_40_41_group;Т-34 (дек. 1940) / Т-34 (май 1941)
-shop/group/ussr_t_34_42_group;Т-34 (сент. 1942) / Т-34 (февр. 1942) Экранами
 shop/group/ussr_kit_3rank_group;In May 1945
 shop/group/ussr_kit_4rank_group;Be Prepared!
-shop/group/ussr_t_54_group;Т-54-1 (1947) / Т-54-2 (1949) / Т-54-3 (1951)
-shop/group/ussr_t_55_group;Т-55А (1969) / Т-62 (1964)
-shop/group/ussr_t_62_group;Т-55АМД-1 / Т-62М-1
-shop/group/ussr_t_72b_group;Т-72Б (1987) / Т-72Б (1989)
-shop/group/ussr_775_157_group;Объ. 775 / 9П157-2
-shop/group/ussr_kv_1_2_group;КВ-1 (ноябрь 1940) / КВ-2  (июль 1940)
-shop/group/ussr_kv_1_85_group;КВ-1 (окт. 1941) (ЗиС-5) / КВ-85
-shop/group/ussr_t_64_group;Т-64А (1971) / Т-64БВ (1987)
-shop/group/ussr_bmp_1_group;БМП-1П / ПТ-85 (Oбъ. 906)
-shop/group/ussr_bmp_2_group;БМП-2Д / Объ. 685
-shop/group/ussr_bmp_3_group;БМП-3 / 2С25
-shop/group/ussr_zis_su_group;ЗиС-30 / СУ-57Б
-shop/group/ussr_su_isu_152_group;СУ-152 / СУ-85 / ИСУ-152 (дек. 1944)
-shop/group/ussr_su_isu_122_group;СУ-85М (ноябрь 1944) / ИСУ-122 (дек. 1944)
-shop/group/ussr_2s_group;2С1 / 2С3М
-shop/group/ussr_isu_su_group;ИСУ-122С (дек. 1944) / СУ-100
-shop/group/ussr_zis_group;ЗиС-12 (94-КМ) / ЗСУ-37
-shop/group/ussr_btr_zis_group;БТР-152А (ЗПТУ-2) / ЗиС-43
-shop/group/ussr_t_34_85_group;Т-34-85 (авг. 1944) / Т-34-85 (март 1945) (СТП-С-53)
-shop/group/ussr_9a33_35_group;9А33БМ3 / 9А35М2
-shop/group/ussr_it_9p149_group;ИТ-1 / 9П149М
-shop/group/ussr_su_object_group;СУ-122 (1954) / Об. 268
-shop/group/ussr_t_64_t_80_group;Т-64БВ (1987) / Т-80Б (1985)
-shop/group/ussr_t_28_t_28e_group;Т-28 1938 / Т-28 1938 Экранами
-shop/group/ussr_su_85_group;СУ-85 / СУ-85М (ноябрь 1944)
-shop/group/kv_1_2_group;КВ-1 (1941) / КВ-2 (июль 1940)
-shop/group/ussr_su_85_85m_group;СУ-85 (1944) / СУ-85М (1944)
-shop/group/ussr_kv_2_85_group;КВ-2 (июль 1940) / КВ-85
-shop/group/isu_122_group;ИСУ-122 (1945) / ИСУ-122С (1945)
-shop/group/ussr_is_2_1944_group;ИС-2 (янв. 1945) (СН) / ИС-2 (янв. 1945) (СН) (3 Бел. Ф)
-ussr_su_85_group;СУ-85 / СУ-85М (ноябрь 1944)
 
 // TANKI //
 ussr_t_10a_shop;Т-10А
@@ -69,6 +35,7 @@ ussr_t_26_4_0;Танк Т-26-4
 ussr_t_26_4_1;Т-26-4
 ussr_t_26_4_2;Т-26
 
+shop/group/ussr_t_28_t_28e_group;Т-28 (1939) / Т-28 (1939) Экранами
 ussr_t_28_1938_shop;Т-28 (1938)
 ussr_t_28_1938_0;"Танк Т-28
 <color=#C0C0C0>1938 production</color>"
@@ -86,6 +53,8 @@ ussr_t_28E_0;"Танк Т-28
 ussr_t_28E_1;Т-28 Экранами
 ussr_t_28E_2;Т-28
 
+shop/group/ussr_t_34_40_41_group;Т-34 (Dec 1940) / Т-34 (Mar 1941)
+shop/group/ussr_t_34_42_group;Т-34 (Sep 1942) / Т-34 (Apr 1942) Экранами
 ussr_t_34_1940_l_11_shop;Т-34 (УП)
 ussr_t_34_1940_l_11_0;"Танк Т-34
 <color=#C0C0C0>Установочная партия</color>"
@@ -122,6 +91,12 @@ ussr_t_34_1942_0;"Танк Т-34
 <color=#C0C0C0>Sep 1942 УТЗ production</color>"
 ussr_t_34_1942_1;Т-34
 ussr_t_34_1942_2;Т-34
+shop/group/cn_t_34_m4_group;␗ Т-34 (Sep 1942) / ☀ M4A1 75
+cn_t_34_1942_shop;␗ Т-34 (Sep 1942)
+cn_t_34_1942_0;"Танк Т-34
+<color=#C0C0C0>Sep 1942 УТЗ production</color>"
+cn_t_34_1942_1;␗ Т-34
+cn_t_34_1942_2;Т-34
 ussr_t_34E_shop;Т-34 (May 1943) Экранами
 ussr_t_34E_0;"Танк Т-34
 <color=#C0C0C0>May 1943 Завод №112 production, с экранами</color>"
@@ -133,6 +108,7 @@ ussr_t_34_57_1943_0;"Танк Т-34
 ussr_t_34_57_1943_1;Т-34 (ЗиС-4)
 ussr_t_34_57_1943_2;Т-34
 
+shop/group/ussr_t_34_85_group;Т-34-85 (Aug 1944) / Т-34-85 (Mar 1945) (СТП-С-53)
 ussr_t_34_85_d_5t_shop;Т-34-85 (Feb 1944)
 ussr_t_34_85_d_5t_0;"Танк Т-34-85
 <color=#C0C0C0>Feb 1944 Завод №112 production</color>"
@@ -161,8 +137,8 @@ ussr_t_34_85E_0;"Танк Т-34-85
 ussr_t_34_85E_1;Т-34-85
 ussr_t_34_85E_2;Т-34
 ussr_t_34_85_stp_s53_shop;Т-34-85 (May 1945) (СТП-С-53)
-ussr_t_34_85_stp_s53_0;Танк Т-34-85
-<color=#C0C0C0>May 1945 Завод №112 production, с СТП-С-53 Таран</color>
+ussr_t_34_85_stp_s53_0;"Танк Т-34-85
+<color=#C0C0C0>May 1945 Завод №112 production, с СТП-С-53 Таран</color>"
 ussr_t_34_85_stp_s53_1;Т-34-85 (СТП-С-53)
 ussr_t_34_85_stp_s53_2;Т-34
 ussr_t_34_100_shop;Т-34-100
@@ -212,6 +188,7 @@ ussr_t_50_for_tutorial_0;"Танк Т-50
 ussr_t_50_for_tutorial_1;Т-50
 ussr_t_50_for_tutorial_2;Т-50
 
+shop/group/ussr_t_54_group;Т-54-1 / Т-54-2 / Т-54-3
 ussr_t_54_1949_shop;Т-54-2
 ussr_t_54_1949_0;"Танк Т-54-2
 <color=#C0C0C0>1949 production</color>"
@@ -228,6 +205,8 @@ ussr_t_54_1951_0;"Танк Т-54-3
 ussr_t_54_1951_1;Т-54
 ussr_t_54_1951_2;Т-54
 
+shop/group/ussr_t_55_group;Т-55А / Т-62
+shop/group/ussr_t_62_group;Т-55АМД-1 / Т-62М-1
 ussr_to_55_shop;ТО-55
 ussr_to_55_0;"Танк ТО-55
 <color=#C0C0C0>1970 production</color>"
@@ -247,7 +226,7 @@ ussr_t_55_am_0;Танк Т-55АМ-1
 ussr_t_55_am_1;Т-55АМ
 ussr_t_55_am_2;Т-55
 
-ussr_t_60_1941_shop;Т-60 (февр. 1942)
+ussr_t_60_1941_shop;Т-60
 ussr_t_60_1941_0;"Танк Т-60
 <color=#C0C0C0>Feb 1942 Завод №37 production</color>"
 ussr_t_60_1941_1;Т-60
@@ -269,6 +248,8 @@ ussr_object_140_0;"Т-64 (Объект 140)
 ussr_object_140_1;Т-64 (Об. 140)
 ussr_object_140_2;Т-64
 
+shop/group/ussr_t_64_group;Т-64А / Т-64БВ
+shop/group/ussr_t_64_t_80_group;Т-64БВ / Т-80Б
 ussr_t_64a_1971_shop;Т-64А
 ussr_t_64a_1971_0;"Танк Т-64А
 <color=#C0C0C0>1971 production</color>"
@@ -292,6 +273,7 @@ ussr_zut_37_0;"Танк Т-70
 ussr_zut_37_1;Т-70 (ЗУТ-37)
 ussr_zut_37_2;Т-70
 
+shop/group/ussr_t_72b_group;Т-72Б (1987) / Т-72Б (1989)
 ussr_t_72a_shop;Т-72А
 ussr_t_72a_0;"Танк Т-72А
 <color=#C0C0C0>1983 modifications</color>"
@@ -447,6 +429,11 @@ ussr_bt_7a_f32_0;"Танк БТ-7 артиллерия
 ussr_bt_7a_f32_1;БТ-7 артиллерия (Ф-32)
 ussr_bt_7a_f32_2;БТ-7
 
+cn_pt_76_shop;␗ ПТ-76
+cn_pt_76_0;"Танк ПТ-76
+<color=#C0C0C0>1953 production</color>"
+cn_pt_76_1;␗ ПТ-76
+cn_pt_76_2;ПТ-76
 ussr_pt_76b_shop;ПТ-76Б
 ussr_pt_76b_0;"Танк ПТ-76Б
 <color=#C0C0C0>1962 production</color>"
@@ -470,6 +457,10 @@ ussr_smk_0;Танк СМК
 ussr_smk_1;СМК
 ussr_smk_2;СМК
 
+shop/group/kv_1_2_group;КВ-1 (Oct 1941) (ЗиС-5) / КВ-2 (Jul 1940)
+shop/group/ussr_kv_1_2_group;КВ-1 (Nov 1940) / КВ-2 (Jul 1940)
+shop/group/ussr_kv_1_85_group;КВ-1 (Oct 1941) (ЗиС-5) / КВ-85
+shop/group/ussr_kv_2_85_group;КВ-2 (Jul 1940) / КВ-85
 ussr_kv_1_L_11_shop;КВ-1 (Nov 1940)
 ussr_kv_1_L_11_0;"Танк КВ-1
 <color=#C0C0C0>Nov 1940 production</color>"
@@ -485,7 +476,7 @@ ussr_kv_1_zis_5_0;"Танк КВ-1
 <color=#C0C0C0>Oct 1941 production, с пушкой ЗиС-5</color>"
 ussr_kv_1_zis_5_1;КВ-1
 ussr_kv_1_zis_5_2;КВ-1
-ussr_kv_1s_shop;КВ-1С (ноябрь 1942)
+ussr_kv_1s_shop;КВ-1С (Oct 1942)
 ussr_kv_1s_0;"Танк КВ-1С
 <color=#C0C0C0>Oct 1942 production</color>"
 ussr_kv_1s_1;КВ-1С
@@ -526,6 +517,7 @@ ussr_kv_122_0;"Танк КВ-122
 ussr_kv_122_1;КВ-122
 ussr_kv_122_2;КВ-122
 
+shop/group/ussr_is_2_1944_group;ИС-2 (Jan 1945) / ИС-2 (Jan 1945)
 ussr_is_1_shop;ИС-1
 ussr_is_1_0;Танк ИС-1
 ussr_is_1_1;ИС-1
@@ -654,6 +646,7 @@ ussr_object_685_0;Объект 685
 ussr_object_685_1;Объ. 685
 ussr_object_685_2;Объ. 685
 
+shop/group/ussr_775_157_group;Объ. 775 / 9П157-2
 ussr_object_775_shop;Объ. 775
 ussr_object_775_0;Объект 775
 ussr_object_775_1;Объ. 775
@@ -693,6 +686,10 @@ ussr_su_76d_0;Самоходная артиллерийская установк
 ussr_su_76d_1;СУ-76Д
 ussr_su_76d_2;СУ-76Д
 
+shop/group/ussr_su_85_group;СУ-85 / СУ-85М
+shop/group/ussr_su_85_85m_group;СУ-85 / СУ-85М
+shop/group/ussr_su_isu_122_group;СУ-85М / ИСУ-122
+ussr_su_85_group;СУ-85 / СУ-85М
 ussr_su_85_1943_shop;СУ-85
 ussr_su_85_1943_0;"Самоходная артиллерийская установка СУ-85
 <color=#C0C0C0>Dec 1943 production</color>"
@@ -740,12 +737,14 @@ ussr_su_122P_0;Самоходная артиллерийская установ�
 ussr_su_122P_1;СУ-122П
 ussr_su_122P_2;СУ-122П
 
+shop/group/ussr_su_object_group;СУ-122 / Об. 268
 ussr_su_122_54_shop;СУ-122
 ussr_su_122_54_0;"Самоходная артиллерийская установка СУ-122
 <color=#C0C0C0>1956 production</color>"
 ussr_su_122_54_1;СУ-122
 ussr_su_122_54_2;СУ-122
 
+shop/group/ussr_su_isu_152_group;СУ-152 / СУ-85 / ИСУ-152
 ussr_su_152_shop;СУ-152
 ussr_su_152_0;"Самоходная артиллерийская установка СУ-152
 <color=#C0C0C0>Mar 1943 production</color>"
@@ -762,19 +761,21 @@ ussr_object_416_0;Самоходная артиллерийская устано
 ussr_object_416_1;СУ-100М (Oбъ. 416)
 ussr_object_416_2;СУ-100М (Oбъ. 416)
 
-ussr_isu_122_shop;ИСУ-122 (дек. 1944)
+shop/group/ussr_isu_su_group;ИСУ-122С / СУ-100
+shop/group/isu_122_group;ИСУ-122 / ИСУ-122С
+ussr_isu_122_shop;ИСУ-122
 ussr_isu_122_0;"Самоходная артиллерийская установка ИСУ-122
 <color=#C0C0C0>Dec 1944 production</color>
 <color=#C0C0C0>УЗТМ hull</color>"
 ussr_isu_122_1;ИСУ-122
 ussr_isu_122_2;ИСУ-122
-ussr_isu_122s_shop;ИСУ-122С (дек. 1944)
+ussr_isu_122s_shop;ИСУ-122С
 ussr_isu_122s_0;"Самоходная артиллерийская установка ИСУ-122С
 <color=#C0C0C0>Dec 1944 production</color>
 <color=#C0C0C0>УЗТМ hull</color>"
 ussr_isu_122s_1;ИСУ-122С
 ussr_isu_122s_2;ИСУ-122
-ussr_isu_152_shop;ИСУ-152 (дек. 1944)
+ussr_isu_152_shop;ИСУ-152
 ussr_isu_152_0;"Самоходная артиллерийская установка ИСУ-152
 <color=#C0C0C0>Dec 1944 production</color>
 <color=#C0C0C0>УЗТМ hull</color>"
@@ -786,6 +787,7 @@ ussr_asu_57_0;Самоходная артиллерийская установк
 ussr_asu_57_1;АСУ-57
 ussr_asu_57_2;АСУ-57
 
+shop/group/ussr_zis_su_group;ЗиС-30 / СУ-57Б
 ussr_zis_30_shop;ЗиС-30
 ussr_zis_30_0;Самоходная установка ЗиС-30
 ussr_zis_30_1;ЗиС-30
@@ -796,6 +798,7 @@ ussr_object_268_0;Oбъект 268
 ussr_object_268_1;Oбъ. 268
 ussr_object_268_2;Oбъ. 268
 
+shop/group/ussr_2s_group;2С1 / 2С3М
 ussr_2s1_shop;2С1
 ussr_2s1_0;122-мм самоходная артиллерийская установка 2С1
 ussr_2s1_1;2С1
@@ -877,6 +880,7 @@ ussr_zis_43_2;ЗиС-43
 
 // BOYEVAYA MASHINA //
 
+shop/group/ussr_9a33_35_group;9А33БМ3 / 9А35М2
 ussr_9a33bm3_shop;9А33БМ3
 ussr_9a33bm3_0;Боевая машина 9А33БМ3
 ussr_9a33bm3_1;9А33БМ3
@@ -887,6 +891,7 @@ ussr_9a35_m2_0;Боевая машина 9А35М2
 ussr_9a35_m2_1;9А35М2
 ussr_9a35_m2_2;9А35
 
+shop/group/ussr_buk_m3_fcs_group;9К317М
 ussr_buk_m3_launcher_shop;9А317М
 ussr_buk_m3_launcher_0;Боевая машина 9А317М
 ussr_buk_m3_launcher_1;9А317М
@@ -936,12 +941,16 @@ ussr_bm_31_12_0;Боевая машина БМ-31-12
 ussr_bm_31_12_1;БМ-31-12
 ussr_bm_31_12_2;БМ-31
 
+shop/group/ussr_it_9p149_group;ИТ-1 / 9П149М
 ussr_it_1_shop;ИТ-1
 ussr_it_1_0;Истребитель танков ИТ-1
 ussr_it_1_1;ИТ-1
 ussr_it_1_2;ИТ-1
 
 // BOYEVAYA MASHINA PEKHOTI //
+shop/group/ussr_bmp_1_group;БМП-1П / ПТ-85 (Oбъ. 906)
+shop/group/ussr_bmp_2_group;БМП-2Д / Объ. 685
+shop/group/ussr_bmp_3_group;БМП-3 / 2С25
 ussr_bmp_1_shop;БМП-1П
 ussr_bmp_1_0;Боевая машина пехоты БМП-1П
 ussr_bmp_1_1;БМП-1П
@@ -1013,6 +1022,7 @@ ussr_btr_zd_0;Бронетранспортёр БТР-ЗД
 ussr_btr_zd_1;БТР-ЗД
 ussr_btr_zd_2;БТР-Д
 
+shop/group/ussr_btr_zis_group;БТР-152А (ЗПТУ-2) / ЗиС-43
 ussr_apc_btr_152_0;БТР-152
 ussr_apc_btr_152_1;БТР-152
 ussr_apc_btr_152_2;БТР-152
@@ -1039,11 +1049,7 @@ ussr_gaz_dshk_0;"Автомобиль ГАЗ ААА
 <color=#C0C0C0>с пулеметом ДШК</color>"
 ussr_gaz_dshk_1;ГАЗ ААА (ДШК)
 ussr_gaz_dshk_2;ГАЗ ААА
-ussr_zis_12_94KM_1945_shop;ЗиС-12 (94-КМ)
-ussr_zis_12_94KM_1945_0;"Автомобиль ЗиС-12
-<color=#C0C0C0>с пушкой 94-КМ</color>"
-ussr_zis_12_94KM_1945_1;ЗиС-12 (94-КМ)
-ussr_zis_12_94KM_1945_2;ЗиС-12
+
 ussr_gaz_4m_shop;ГАЗ ААА (М-4)
 ussr_gaz_4m_0;"Автомобиль ГАЗ ААА
 <color=#C0C0C0>с установкой M-4</color>"
@@ -1062,6 +1068,13 @@ ussr_gaz_mm_72k_without_crew_0;"Автомобиль ГАЗ ММ
 <color=#C0C0C0>с пушкой 72-К</color>"
 ussr_gaz_mm_72k_without_crew_1;ГАЗ ММ (72-К)
 ussr_gaz_mm_72k_without_crew_2;ГАЗ ММ
+
+shop/group/ussr_zis_group;ЗиС-12 (94-КМ) / ЗСУ-37
+ussr_zis_12_94KM_1945_shop;ЗиС-12 (94-КМ)
+ussr_zis_12_94KM_1945_0;"Автомобиль ЗиС-12
+<color=#C0C0C0>с пушкой 94-КМ</color>"
+ussr_zis_12_94KM_1945_1;ЗиС-12 (94-КМ)
+ussr_zis_12_94KM_1945_2;ЗиС-12
 
 // VERTOLETA //
 mi_4av_shop;Ми-4АВ

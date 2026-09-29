@@ -383,6 +383,7 @@ uk_destroyer_daring_class_diana_1;Diana
 uk_destroyer_daring_class_diana_2;Daring-Class
 
 // FRIGATES //
+
 uk_frigate_river_shop;Spey (K 246)
 uk_frigate_river_0;"<color=#C0C0C0>River-Class Frigate</color>
 HMS Spey (K 246)"
@@ -576,8 +577,8 @@ uk_sgb_309_2;SGB
 
 // OTHER //
 uk_isles_class_trawler_shop;Liscomb (T 285)
-uk_isles_class_trawler_0;:<color=#C0C0C0>Isles-Class Trawler</color>
-HMT Liscomb (T 285)
+uk_isles_class_trawler_0;"<color=#C0C0C0>Isles-Class Trawler</color>
+HMT Liscomb (T 285)"
 uk_isles_class_trawler_1;Liscomb
 uk_isles_class_trawler_2;Isles-Class
 

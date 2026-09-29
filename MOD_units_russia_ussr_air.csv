@@ -1,13 +1,11 @@
 <ID|readonly|noverify>;<NewLanguage>
 
 // PRE-1941 //
-shop/group/i-15_group;И-15 SGR-1820 / И-15 М-22 / И-15 М-25А
-shop/group/i-16_group;И-16 тип 10 / И-16 тип 18 / И-16 тип 24
-shop/group/sb_group;СБ 2М-100 / СБ 2М-103
 shop/group/db_3_group;ДБ-3Б / Ил-4
-shop/group/i-153_group;И-15бис / И-153 М-62
 
 // ISTREBITEL' //
+shop/group/i-15_group;И-15 Ф-3 / И-15 М-22 / И-15 М-25А
+shop/group/i-153_group;И-15бис / И-153 М-62
 i-15_1934_shop;И-15 Ф-3
 i-15_1934_0;Самолёт И-15 с мотором Ф-3
 i-15_1934_1;И-15
@@ -44,6 +42,7 @@ i-153p_0;Самолёт И-153П
 i-153p_1;И-153П
 i-153p_2;И-153
 
+shop/group/i-16_group;И-16 тип 10 / И-16 тип 18 / И-16 тип 24
 i-16_type5_shop;И-16 тип 5
 i-16_type5_0;Самолёт И-16 тип 5
 i-16_type5_1;И-16
@@ -136,6 +135,7 @@ tandem_mai_2;Ш-Тандем
 
 // BOMBARDSHIROVIK //
 
+shop/group/sb_group;СБ 2М-100 / СБ 2М-103
 sb_shop;СБ
 sb_0;Самолёт СБ
 sb_1;СБ
@@ -209,41 +209,7 @@ po-2m_2;По-2
 
 
 // POST-1941 //
-shop/group/mig-9_group;МиГ-9 / И-307 «ФФ»
-shop/group/mig-15_group;МиГ-15 / МиГ-15бис
-shop/group/er-2_group;Ер-2 (М-105) (МВ-3) / Ер-2 (М-105Р) (ЛУ-МВ-2Б) / Ер-2 (М-105) (ТАТ-БТ) / Ер-2 (М-105Р)
-shop/group/pe-3_group;Пе-3-1 / Пе-3-2
-shop/group/lagg-3_group;ЛаГГ-3-8 / ЛаГГ-3-11
-shop/group/yak-9up_group;Як-3П / Як-9П
-shop/group/su-2_group;Су-2 (р) / Су-2 (п) / Су-2 (ТСС-1) /Су-2 (М-82)
-shop/group/yak-1_group;Як-1-1 / Як-1-127
-shop/group/yak-9_group;Як-9 / Як-9Б
-shop/group/yak-3_group;Як-3 / Як-9У
-shop/group/yak-9u_group;Як-9У / Як-9УТ
-shop/group/er-2_ach30b_group;Ер-2 (АЧ-30Б) (р) / Ер-2 (АЧ-30Б) (п)
-shop/group/lagg-3_late_group;ЛаГГ-3-35 / ЛаГГ-3-66
-shop/group/pe-2_early_group;Пе-2-1 / Пе-2-35 / Пе-2-83
-shop/group/pe-2_late_group;Пе-2-110 / Пе-2-359
-shop/group/tu-2_group;Ту-2C-10 / Ту-2C-44 / Ту-2C-59
 shop/group/ar_group;Ар-2 / СБ 2М-103У (МВ-3) / СБ 2М-105 / СБ 2М-103У / СБ 2М-103 (МВ-3)
-shop/group/il-2i_group;Ил-2 (авг. 1942) / Ил-2 (апр. 1943) (НC-37)
-shop/group/la_5_group;Ла-5 / Ла-5Ф
-shop/group/yak-9tk_group;Як-9Т / Як-9К
-shop/group/yak-3up_group;Як-3У / Як-9УТ
-shop/group/il_28_group;Ил-28 / Ил-28Ш
-shop/group/la_200_group;200 / Ла-15
-shop/group/su-7_group;Су-7Б / Су-7БКЛ
-shop/group/mig-19_group;МиГ-19ПТ / МиГ-21Ф-13
-shop/group/mig_27_group;МиГ-27М / МиГ-27К
-shop/group/mig-23m_group;МиГ-23М / МиГ-23МЛД
-shop/group/yak-15_group;Як-15 (р) / Як-15 / Як-17
-shop/group/mig-3_group;МиГ-3-15 (БК) / МиГ-3-34
-shop/group/il-10_group;Ил-10 (1944) / Ил-10 (1945)
-shop/group/er-2_late_group;Ер-2 (АЧ-30Б) (р) / Ер-2 (АЧ-30Б) (п)
-shop/group/il-2m_group;Ил-2 (янв. 1943) / Ил-2 (март 1944)
-shop/group/mig-21_group;МиГ-21СМТ / МиГ-21бис
-shop/group/mig_29_group;МиГ-29 / МиГ-29
-shop/group/pe-2_group;Пе-2-1 / Пе-2-31 / Пе-2-83
 
 // LEND-LEASE //
 a_20g_30_ussr_shop;▂ A-20G-25
@@ -342,6 +308,7 @@ be_6_1;Бe-6
 be_6_2;Бe-6
 
 // SUKHOI //
+shop/group/su-2_group;ББ-1 М-88 / Су-2 М-88 / Су-2 М-88 (ТСС-1) / Су-2 М-82
 bb-1_shop;ББ-1 М-88
 bb-1_0;Самолёт ББ-1 с мотором М-88
 bb-1_1;ББ-1 М-88
@@ -373,6 +340,7 @@ su-6_m71_0;Самолёт Су-6 с мотором М-71Ф
 su-6_m71_1;Су-6
 su-6_m71_2;Су-6
 
+shop/group/su-7_group;Су-7Б / Су-7БКЛ
 su-7b_shop;Су-7Б
 su-7b_0;Самолёт Су-7Б
 su-7b_1;Су-7Б
@@ -503,6 +471,7 @@ su_34_2;Су-34
 
 // MIG //
 
+shop/group/mig-3_group;МиГ-3-15 (БК) / МиГ-3-34
 mig-3_shop;МиГ-3
 mig-3_0;Самолёт МиГ-3
 mig-3_1;МиГ-3
@@ -521,6 +490,7 @@ mig_3_series_34_0;Самолёт МиГ-3 серия 34
 mig_3_series_34_1;МиГ-3
 mig_3_series_34_2;МиГ-3
 
+shop/group/mig-9_group;МиГ-9 / И-307 «ФФ»
 mig-9_shop;МиГ-9
 mig-9_0;Самолёт МиГ-9
 mig-9_1;МиГ-9
@@ -530,7 +500,12 @@ mig-9_ussr_0;"Самолёт И-307 «ФФ»
 <color=#B34D4D>с ПТБ и бронестеклом</color>"
 mig-9_ussr_1;И-307 «ФФ»
 mig-9_ussr_2;И-307
+mig-9_late_china_shop;␗ И-307 «ФФ»
+mig-9_late_china_0;И-307 «ФФ» с бронестекло и ПТБ
+mig-9_late_china_1;␗ И-307 «ФФ»
+mig-9_late_china_2;И-307
 
+shop/group/mig-15_group;МиГ-15 / МиГ-15бис
 mig-15_ns23_shop;МиГ-15
 mig-15_ns23_0;"Самолёт МиГ-15
 <color=#C0C0C0>1949 production</color>"
@@ -554,11 +529,13 @@ mig-17_0;Самолёт МиГ-17
 mig-17_1;МиГ-17
 mig-17_2;МиГ-17
 
+shop/group/mig-19_group;МиГ-19ПТ / МиГ-21Ф-13
 mig-19pt_shop;МиГ-19ПТ
 mig-19pt_0;Самолёт МиГ-19ПТ
 mig-19pt_1;МиГ-19ПТ
 mig-19pt_2;МиГ-19
 
+shop/group/mig-21_group;МиГ-21СМТ / МиГ-21бис
 mig-21_f13_shop;МиГ-21Ф-13
 mig-21_f13_0;Самолёт МиГ-21Ф-13
 mig-21_f13_1;МиГ-21Ф
@@ -585,6 +562,7 @@ mig-21_bis_event_0;Самолёт МиГ-21бис
 mig-21_bis_event_1;МиГ-21бис
 mig-21_bis_event_2;МиГ-21
 
+shop/group/mig-23m_group;МиГ-23М / МиГ-23МЛД
 mig_23m_shop;МиГ-23М
 mig_23m_0;Самолёт МиГ-23М
 mig_23m_1;МиГ-23М
@@ -607,6 +585,7 @@ mig_25pd_0;Самолёт МиГ-25ПД
 mig_25pd_1;МиГ-25ПД
 mig_25pd_2;МиГ-25
 
+shop/group/mig_27_group;МиГ-27М / МиГ-27К
 mig_27m_shop;МиГ-27М
 mig_27m_0;Самолёт МиГ-27М
 mig_27m_1;МиГ-27М
@@ -616,6 +595,7 @@ mig_27k_0;Самолёт МиГ-27К
 mig_27k_1;МиГ-27К
 mig_27k_2;МиГ-27
 
+shop/group/mig_29_group;МиГ-29 (9-12А) / МиГ-29 (9-13)
 mig_29_9_12_shop;МиГ-29 (9-12А)
 mig_29_9_12_0;Самолёт МиГ-29 (9-12А)
 mig_29_9_12_1;МиГ-29
@@ -649,6 +629,9 @@ mig_35_1;МиГ-35С
 mig_35_2;МиГ-35
 
 // ILYUSHIN //
+shop/group/il-2i_group;Ил-2 (Aug 1942) / Ил-2 (Apr 1943) (НC-37)
+shop/group/il-2m_group;Ил-2 (Jan 1943) / Ил-2 (Mar 1944)
+
 il_2_1941_shop;Ил-2 (Mar 1941)
 il_2_1941_0;"Самолёт Ил-2
 <color=#C0C0C0>Mar 1941 production</color>"
@@ -698,17 +681,19 @@ il_8_1944_0;"Самолёт Ил-8
 il_8_1944_1;Ил-8
 il_8_1944_2;Ил-8
 
-il-10_shop;Ил-10 (1944)
+shop/group/il-10_group;Ил-10 (e) / Ил-10 (l)
+il-10_shop;Ил-10 (e)
 il-10_0;"Самолёт Ил-10
 <color=#C0C0C0>Самолеты №1890130+ / №6410101-6410801</color>"
 il-10_1;Ил-10
 il-10_2;Ил-10
-il-10_1946_shop;Ил-10 (1945)
+il-10_1946_shop;Ил-10 (l)
 il-10_1946_0;"Самолёт Ил-10
 <color=#C0C0C0>Самолеты №6410801+</color>"
 il-10_1946_1;Ил-10
 il-10_1946_2;Ил-10
 
+shop/group/il_28_group;Ил-28 / Ил-28Ш
 il_28_shop;Ил-28
 il_28_0;Самолёт Ил-28
 il_28_1;Ил-28
@@ -732,6 +717,8 @@ il_28sh_2;Ил-28
 
 // LAVOCHKIN //
 
+shop/group/lagg-3_group;ЛаГГ-3-8 / ЛаГГ-3-11
+shop/group/lagg-3_late_group;ЛаГГ-3-35 / ЛаГГ-3-66
 lagg-3-1_shop;ЛаГГ-3-1
 lagg-3-1_0;Самолёт ЛаГГ-3 серия 1
 lagg-3-1_1;ЛаГГ-3
@@ -769,6 +756,7 @@ lagg-3-66_0;Самолёт ЛаГГ-3 серия 66
 lagg-3-66_1;ЛаГГ-3
 lagg-3-66_2;ЛаГГ-3
 
+shop/group/la_5_group;Ла-5 / Ла-5Ф
 la-5_shop;Ла-5
 la-5_0;Самолёт Ла-5 тип 37 серия 8
 la-5_1;Ла-5
@@ -820,6 +808,7 @@ la_174_0;174
 la_174_1;174
 la_174_2;174
 
+shop/group/la_200_group;200 / Ла-15
 la_200_toriy_shop;200
 la_200_toriy_0;200
 la_200_toriy_1;200
@@ -832,6 +821,7 @@ li-2_1;Ли-2
 li-2_2;Ли-2
 
 // YAKOVLEV //
+shop/group/yak-1_group;Як-1-1 / Як-1-127
 yak-1_early_shop;Як-1-1
 yak-1_early_0;Самолёт Як-1 серия 1
 yak-1_early_1;Як-1
@@ -852,6 +842,9 @@ yak_2_kabb_0;"Самолёт Як-2
 yak_2_kabb_1;Як-2
 yak_2_kabb_2;Як-2
 
+shop/group/yak-3_group;Як-3 / Як-9У
+shop/group/yak-9up_group;Як-3П / Як-9П
+shop/group/yak-3up_group;Як-3У / Як-9УТ
 yak-3_shop;Як-3
 yak-3_0;Самолёт Як-3
 yak-3_1;Як-3
@@ -888,6 +881,9 @@ yak-7b_0;Самолёт Як-7Б
 yak-7b_1;Як-7Б
 yak-7b_2;Як-7
 
+shop/group/yak-9_group;Як-9 / Як-9Б
+shop/group/yak-9tk_group;Як-9Т / Як-9К
+shop/group/yak-9u_group;Як-9У / Як-9УТ
 yak-9_shop;Як-9
 yak-9_0;Самолёт Як-9
 yak-9_1;Як-9
@@ -922,6 +918,7 @@ yak-9p_0;Самолёт Як-9П
 yak-9p_1;Як-9П
 yak-9p_2;Як-9
 
+shop/group/yak-15_group;Як-15 (1946) / Як-15 (1947) / Як-17
 yak-15_early_shop;Як-15 (1946)
 yak-15_early_0;"Самолёт Як-15
 <color=#C0C0C0>1946 production</color>"
@@ -979,6 +976,9 @@ bi_1;БИ
 bi_2;БИ
 
 // PETLYAKOV //
+shop/group/pe-2_group;Пе-2-1 / Пе-2-31 / Пе-2-83
+shop/group/pe-2_early_group;Пе-2-1 / Пе-2-35 / Пе-2-83
+shop/group/pe-2_late_group;Пе-2-110 / Пе-2-359
 pe-2_shop;Пе-2
 pe-2_0;Самолёт Пе-2
 pe-2_1;Пе-2
@@ -1007,7 +1007,12 @@ pe-2-359_shop;Пе-2-359
 pe-2-359_0;Самолёт Пе-2 серия 359
 pe-2-359_1;Пе-2
 pe-2-359_2;Пе-2
+pe-2-359_china_shop;␗ Пе-2-359
+pe-2-359_china_0;Пе-2 серия 359
+pe-2-359_china_1;␗ Пе-2
+pe-2-359_china_2;Пе-2
 
+shop/group/pe-3_group;Пе-3-1 / Пе-3-2
 pe-3_early_shop;Пе-3-1
 pe-3_early_0;Самолёт Пе-3 серия 1
 pe-3_early_1;Пе-3
@@ -1032,6 +1037,7 @@ tu-1_0;Самолёт Ту-1
 tu-1_1;Ту-1
 tu-1_2;Ту-1
 
+shop/group/tu-2_group;Ту-2C-10 / Ту-2C-44 / Ту-2C-59
 tu-2_early_shop;Ту-2
 tu-2_early_0;Самолёт Ту-2
 tu-2_early_1;Ту-2
@@ -1077,6 +1083,9 @@ nt_tu_95m_1;Ту-95М
 nt_tu_95m_2;Ту-95
 
 // YERMOLAEV //
+shop/group/er-2_group;Ер-2 М-105 (МВ-3) / Ер-2 М-105Р (ЛУ-МВ-2Б) / Ер-2 М-105 (ТАТ-БТ) / Ер-2 М-105Р
+shop/group/er-2_ach30b_group;Ер-2 АЧ-30Б (р) / Ер-2 АЧ-30Б (п)
+shop/group/er-2_late_group;Ер-2 АЧ-30Б (р) / Ер-2 АЧ-30Б (п)
 er-2_m105_mv3_shop;Ер-2 М-105 (МВ-3)
 er-2_m105_mv3_0;"Самолёт Ер-2 с мотором М-105
 <color=#C0C0C0>с турелью МВ-3</color>"

@@ -2,20 +2,20 @@
 
 shop/group/ki_61_group;キ44-II丙 / キ61-I乙
 shop/group/ki_67_group;キ67甲 / キ67乙
-shop/group/ki-10_group;キ10-I / キ10-II / キ10-I (第一艦隊) / キ10-II (第77戦隊)
+shop/group/ki-10_group;キ10-I / キ10-II / キ10-I / キ10-II
 shop/group/ki-45_group;キ45改甲 / キ45改丙
 shop/group/ki-49_group;キ49-I / キ49-II甲
 shop/group/ki-45_eraly_group;キ45改丙丁 / キ45改乙
 shop/group/ki_49_1_group;キ49-I / キ49-II甲
-shop/group/ki_49_2_group;キ49-II乙 / キ49-II乙 (後期型)
+shop/group/ki_49_2_group;キ49-II乙 / キ49-II乙 (l)
 shop/group/ki_84_group;キ84-I甲 / キ84-I乙
 shop/group/ki-43_group;キ43-I / キ43-II
 shop/group/ki_44_group;キ44-I / キ61-I甲
-shop/group/ki_61_late_group;キ61-I丁 / キ61-II改
+shop/group/ki_61_late_group;キ61-I丁 / キ61-II改甲
 
-b-17e_japan_shop;▅ B-17E
+b-17e_japan_shop;▅ B-17E (e)
 b-17e_japan_0;"B-17E
-<color=#C0C0C0>with Sperry No. 645705-D</color>"
+<color=#C0C0C0>S/N: 41-2393 – 41-2504</color>"
 b-17e_japan_1;▅ B-17E
 b-17e_japan_2;B-17
 bf-109e-3_japan_shop;▅ Bf 109 E-7
