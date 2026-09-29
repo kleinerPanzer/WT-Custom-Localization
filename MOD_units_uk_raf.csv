@@ -65,17 +65,20 @@ swordfish_mk2_2;Swordfish
 shop/group/hurricane_group;Hurricane Mk. IIB (Trop.) / Hurricane Mk. I
 hurricane_mk1_shop;Hurricane Mk. I
 hurricane_mk1_0;"Hurricane Mk. I
-<color=#C0C0C0>1940 modifications</color>"
+<color=#C0C0C0>1940 modifications</color>
+<color=#C0C0C0>with Merlin Mk. III engine</color>"
 hurricane_mk1_1;Hurricane Mk. I
 hurricane_mk1_2;Hurricane
 hurricane_mk1_late_shop;Hurricane Mk. I
 hurricane_mk1_late_0;"Hurricane Mk. I
-<color=#C0C0C0>1940 modifications</color>"
+<color=#C0C0C0>1940 modifications</color>
+<color=#C0C0C0>with Merlin Mk. III engine</color>"
 hurricane_mk1_late_1;Hurricane Mk. I
 hurricane_mk1_late_2;Hurricane
 hurricane_mk1_late_ep_shop;Hurricane Mk. I
 hurricane_mk1_late_ep_0;"Hurricane Mk. I
 <color=#C0C0C0>1940 modifications</color>
+<color=#C0C0C0>with Merlin Mk. III engine</color>
 <color=#E3D452>No. 800 Naval Air Squadron</color>"
 hurricane_mk1_late_ep_1;Hurricane Mk. I
 hurricane_mk1_late_ep_2;Hurricane
@@ -85,16 +88,19 @@ hurricanemkii_0;"Hurricane Mk. IIB
 hurricanemkii_1;Hurricane Mk. II
 hurricanemkii_2;Hurricane
 hurricane_mk4_shop;Hurricane FB. Mk. IV
-hurricane_mk4_0;Hurricane FB. Mk. IV
+hurricane_mk4_0;"Hurricane FB. Mk. IV
+<color=#C0C0C0>with Merlin Mk. 24 engine</color>"
 hurricane_mk4_1;Hurricane Mk. IV
 hurricane_mk4_2;Hurricane
 
 hurricane_mk1b_shop;Sea Hurricane F. Mk. IB
-hurricane_mk1b_0;Sea Hurricane F. Mk. IB
+hurricane_mk1b_0;"Sea Hurricane F. Mk. IB
+<color=#C0C0C0>with Merlin Mk. III engine</color>"
 hurricane_mk1b_1;Sea Hurricane Mk. I
 hurricane_mk1b_2;Hurricane
 hurricane_mk1c_shop;Sea Hurricane F. Mk. IC
-hurricane_mk1c_0;Sea Hurricane F. Mk. Ic
+hurricane_mk1c_0;"Sea Hurricane F. Mk. IC
+<color=#C0C0C0>with Merlin Mk. III engine</color>"
 hurricane_mk1c_1;Sea Hurricane Mk. I
 hurricane_mk1c_2;Hurricane
 
@@ -221,7 +227,8 @@ spitfire_f24_2;Spitfire
 
 shop/group/seafire_group;Seafire F. Mk. XVII / Seafire FR.47
 seafire_mk3_shop;Seafire LF. Mk. III
-seafire_mk3_0;Seafire LF. Mk. III
+seafire_mk3_0;"Seafire LF. Mk. III
+<color=#C0C0C0>with Merlin Mk. 55M engine</color>"
 seafire_mk3_1;Seafire Mk. III
 seafire_mk3_2;Seafire
 seafire_mk17_shop;Seafire F. Mk. XVII
@@ -229,19 +236,22 @@ seafire_mk17_0;Seafire F. Mk. XVII
 seafire_mk17_1;Seafire Mk. XVII
 seafire_mk17_2;Seafire
 seafire_fr47_shop;Seafire FR.47
-seafire_fr47_0;Seafire FR. Mk. 47
+seafire_fr47_0;"Seafire FR. Mk. 47
+<color=#C0C0C0>with Griffon Mk. 88 engine</color>"
 seafire_fr47_1;Seafire Mk. 47
 seafire_fr47_2;Seafire
 
 // TYPHOON //
 typhoon_mk1a_shop;Typhoon FB. Mk. IA
 typhoon_mk1a_0;"Typhoon FB. Mk. IA
-<color=#C0C0C0>Oct 1942 modifications</color>"
+<color=#C0C0C0>Oct 1942 modifications</color>
+<color=#B34D4D>with Sabre Mk. I engine</color>"
 typhoon_mk1a_1;Typhoon Mk. I
 typhoon_mk1a_2;Typhoon
 typhoon_mk1b_shop;Typhoon FB. Mk. IB (1943)
 typhoon_mk1b_0;"Typhoon FB. Mk. IB
 <color=#C0C0C0>Mar 1943 production</color>
+<color=#B34D4D>with Sabre Mk. I engine</color>
 <color=#C0C0C0>Mod No. 286</color>
 <color=#C0C0C0>with partial Apr 1943 1000 lb bomb trials modifications</color>"
 typhoon_mk1b_1;Typhoon Mk. I
@@ -269,7 +279,7 @@ tempest_mkv_2;Tempest
 tempest_mkv_vikkers_shop;Tempest FB.5 (SN354)
 tempest_mkv_vikkers_0;"Tempest FB. Mk. 5
 <color=#C0C0C0>Batch 4</color>
-<color=#C0C0C0>“Class S” weapons testbed</color>
+<color=#C0C0C0>“Class P” weapons testbed</color>
 <color=#E3D452>SN354</color>"
 tempest_mkv_vikkers_1;Tempest Mk. 5
 tempest_mkv_vikkers_2;Tempest
@@ -687,7 +697,9 @@ buccaneer_s2_1;Buccaneer Mk. 2
 buccaneer_s2_2;Buccaneer
 buccaneer_s2b_shop;Buccaneer S.2B
 buccaneer_s2b_0;"Buccaneer S. Mk. 2B
-<color=#C0C0C0>1983 modifications</color>"
+<color=#C0C0C0>Post Mod No. 1188</color>
+<color=#C0C0C0>Mod Nos. 1750, 1751, 1755, 5345</color>
+<color=#C0C0C0>ASR. 1012 (AUP 1985)</color>"
 buccaneer_s2b_1;Buccaneer Mk. 2
 buccaneer_s2b_2;Buccaneer
 
@@ -875,7 +887,7 @@ sea_hawk_fga6_2;Sea Hawk
 // PHANTOM //
 f-4k_shop;Phantom FG.1
 f-4k_0;"Phantom FG. Mk. 1
-<color=#C0C0C0>Mod. 142</color>"
+<color=#C0C0C0>Mod No. 142</color>"
 f-4k_1;Phantom Mk. 1
 f-4k_2;Phantom
 f-4m_fgr2_shop;Phantom FGR.2

@@ -400,7 +400,8 @@ lancaster_mr7_france_1;⚜ Lancaster Mk. VII
 lancaster_mr7_france_2;Lancaster
 
 seafire_mk3_france_shop;⚜ Seafire LF. Mk. III
-seafire_mk3_france_0;Seafire LF. Mk. III
+seafire_mk3_france_0;"Seafire LF. Mk. III
+<color=#C0C0C0>with Merlin Mk. 55M engine</color>"
 seafire_mk3_france_1;⚜ Seafire Mk. III
 seafire_mk3_france_2;Seafire
 

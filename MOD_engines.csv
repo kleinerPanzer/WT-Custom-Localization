@@ -289,8 +289,8 @@ engine_model/eagle_viii;Eagle Mk. VIII
 engine_model/iii_a;IIIa
 engine_model/bd;Bd
 engine_manufacturer/napier;Napier;
-engine_model/sabre-2a;Sabre Mk. IIA;
-engine_model/sabre-2;Sabre Mk. II;
+engine_model/sabre-2a;Sabre Mk. I;
+engine_model/sabre-2;Sabre Mk. IIB;
 engine_manufacturer/bristol;Bristol;
 engine_model/centaurus-5;Centaurus Mk. V;
 engine_model/orpheus_mk_801;Orpheus Mk. 801;
