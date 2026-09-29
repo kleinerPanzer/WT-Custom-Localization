@@ -111,7 +111,8 @@ germ_pzkpfw_III_ausf_L_tutorial_1;Pz.Kpfw. III L
 germ_pzkpfw_III_ausf_L_tutorial_2;Pz. III
 germ_pzkpfw_III_ausf_M_shop;Pz.Kpfw. III M
 germ_pzkpfw_III_ausf_M_0;"Panzerkampfwagen III (5 cm Kw.K. 39 (L/60)) Ausf. M
-<color=#C0C0C0>Oct 1942 production, May 1943 modifications</color>"
+<color=#C0C0C0>Oct 1942 production</color>
+<color=#C0C0C0>May 1943 modifications</color>"
 germ_pzkpfw_III_ausf_M_1;Pz.Kpfw. III M
 germ_pzkpfw_III_ausf_M_2;Pz. III
 germ_pzkpfw_III_ausf_N_shop;Pz.Kpfw. III N
@@ -135,7 +136,8 @@ germ_nbfz_VI_2;Nb.-Pz. IV
 
 germ_pzkpfw_IV_ausf_C_shop;Pz.Kpfw. IV C
 germ_pzkpfw_IV_ausf_C_0;"Panzerkampfwagen IV (7,5 cm) Ausf. C
-<color=#C0C0C0>Oct 1939 production, Mar 1940 modifications</color>"
+<color=#C0C0C0>Oct 1939 production</color>
+<color=#C0C0C0>Mar 1940 modifications</color>"
 germ_pzkpfw_IV_ausf_C_1;Pz.Kpfw. IV C
 germ_pzkpfw_IV_ausf_C_2;Pz. IV
 germ_pzkpfw_IV_ausf_E_shop;Pz.Kpfw. IV E (Tp.)
@@ -272,18 +274,18 @@ germ_pzkpfw_VI_ausf_e_tiger_2;Tiger I
 // TIGER II //
 germ_pzkpfw_VI_ausf_b_tiger_IIp_shop;Tiger II (Apr. 1944)
 germ_pzkpfw_VI_ausf_b_tiger_IIp_0;"Panzerkampfwagen Tiger (8,8 cm) Ausf. B
-<color=#C0C0C0>Apr 1944 production, mit frühem Turm</color>
+<color=#C0C0C0>Apr 1944 production mit frühem Turm</color>
 <color=#C0C0C0>mit Ersatzkettenglieder</color>"
 germ_pzkpfw_VI_ausf_b_tiger_IIp_1;Tiger II
 germ_pzkpfw_VI_ausf_b_tiger_IIp_2;Tiger II
 germ_pzkpfw_VI_ausf_b_tiger_IIh_shop;Tiger II (Sep. 1944)
 germ_pzkpfw_VI_ausf_b_tiger_IIh_0;"Panzerkampfwagen Tiger (8,8 cm) Ausf. B
-<color=#C0C0C0>Aug 1944 production, mit Serienturm</color>"
+<color=#C0C0C0>Aug 1944 production mit Serienturm</color>"
 germ_pzkpfw_VI_ausf_b_tiger_IIh_1;Tiger II
 germ_pzkpfw_VI_ausf_b_tiger_IIh_2;Tiger II
 germ_pzkpfw_VI_ausf_b_tiger_IIh_sla_shop;Tiger II (Sep. 1944) (Sla. 16)
 germ_pzkpfw_VI_ausf_b_tiger_IIh_sla_0;"Panzerkampfwagen Tiger (8,8 cm) Ausf. B
-<color=#C0C0C0>Aug 1944 production, mit Serienturm</color>
+<color=#C0C0C0>Aug 1944 production mit Serienturm</color>
 <color=#B34D4D>mit SGP Sla.16</color>"
 germ_pzkpfw_VI_ausf_b_tiger_IIh_sla_1;Tiger II
 germ_pzkpfw_VI_ausf_b_tiger_IIh_sla_2;Tiger II
@@ -367,7 +369,8 @@ germ_pzkpfw_38t_Marder_III_ausf_H_1;Panzerjäger 38 H
 germ_pzkpfw_38t_Marder_III_ausf_H_2;Panzerjäger 38
 germ_pzkpfw_38t_Marder_III_shop;Panzerjäger 38
 germ_pzkpfw_38t_Marder_III_0;"Panzerjäger 38 für 7,62 cm Pa.K. 36
-<color=#C0C0C0>2. Serie</color> <color=#B34D4D>with Praga AC engine</color>"
+<color=#C0C0C0>2. Serie</color>
+<color=#B34D4D>with Praga AC engine</color>"
 germ_pzkpfw_38t_Marder_III_1;Panzerjäger 38
 germ_pzkpfw_38t_Marder_III_2;Panzerjäger 38
 germ_panzerjager_1_shop;Panzerjäger I

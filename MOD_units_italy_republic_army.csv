@@ -79,10 +79,11 @@ it_m18_hellcat_0;"Cannone da 76/52 semovente M18
 it_m18_hellcat_1;⛨ 76/52 M18
 it_m18_hellcat_2;M18
 
-it_m3a3_stuart_shop;⛨ Stuart V
-it_m3a3_stuart_0;"Tank, Light, Stuart, Mk. V
-<color=#C0C0C0>Jan 1943 production</color>"
-it_m3a3_stuart_1;⛨ Stuart V
+it_m3a3_stuart_shop;⛨ M3A3
+it_m3a3_stuart_0;"Tank, Light, M3A3 General Stuart
+<color=#C0C0C0>Jan 1943 production</color>
+<color=#B34D4D>with Dischargers, Smoke Generator, 4-in., No. 2, Mk. I</color>"
+it_m3a3_stuart_1;⛨ M3A3
 it_m3a3_stuart_2;M3
 
 it_m24_chaffee_shop;⛨ M24

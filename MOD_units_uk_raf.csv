@@ -108,7 +108,8 @@ hurricane_mk1c_2;Hurricane
 
 spitfire_mk1_shop;Spitfire Mk. IA
 spitfire_mk1_0;"Spitfire Mk. IA
-<color=#C0C0C0>Feb 1939 production, Jun 1940 modifications</color>"
+<color=#C0C0C0>Feb 1939 production</color>
+<color=#C0C0C0>Jun 1940 modifications</color>"
 spitfire_mk1_1;Spitfire Mk. I
 spitfire_mk1_2;Spitfire
 
@@ -126,18 +127,21 @@ spitfiremkii_2;Spitfire
 shop/group/spitfire_mk5b_group;Spitfire F. Mk. VB (Trop.) / Spitfire F. Mk. VB
 spitfire_mk5b_notrop_shop;Spitfire F. Mk. VB
 spitfire_mk5b_notrop_0;"Spitfire F. Mk. VB
-<color=#C0C0C0>Apr 1941 production, May 1942 modifications</color>"
+<color=#C0C0C0>Apr 1941 production</color>
+<color=#C0C0C0>May 1942 modifications</color>"
 spitfire_mk5b_notrop_1;Spitfire Mk. V
 spitfire_mk5b_notrop_2;Spitfire
 spitfire_mk5b_float_shop;Spitfire F. Mk. VB (W3760)
 spitfire_mk5b_float_0;"Spitfire F. Mk. VB
-<color=#C0C0C0>Jul 1941 production, Aug 1943 modifications</color>
+<color=#C0C0C0>Jul 1941 production</color>
+<color=#C0C0C0>Aug 1943 modifications</color>
 <color=#E3D452>W3760</color>"
 spitfire_mk5b_float_1;Spitfire F. Mk. V
 spitfire_mk5b_float_2;Spitfire
 spitfire_mk5b_shop;Spitfire F. Mk. VB (Trop.)
 spitfire_mk5b_0;"Spitfire F. Mk. VB
-<color=#C0C0C0>Dec 1941 production + May 1942 modifications</color>
+<color=#C0C0C0>Dec 1941 production</color>
+<color=#C0C0C0>May 1942 modifications</color>
 <color=#C0C0C0>Mod No. 411 (Tropical Conversion)</color>"
 spitfire_mk5b_1;Spitfire Mk. V
 spitfire_mk5b_2;Spitfire
@@ -167,7 +171,8 @@ spitfire_ix_early_1;Spitfire Mk. IX
 spitfire_ix_early_2;Spitfire
 spitfire_mk9c_4cannons_shop;Spitfire F. Mk. IX
 spitfire_mk9c_4cannons_0;"Spitfire F. Mk. IX
-<color=#C0C0C0>Jun 1942 production,  Jan 1943 modifications</color>
+<color=#C0C0C0>Jun 1942 production</color>
+<color=#C0C0C0>Jan 1943 modifications</color>
 <color=#C0C0C0>Conversion from Spitfire Mk. VC</color>"
 spitfire_mk9c_4cannons_1;Spitfire Mk. IX
 spitfire_mk9c_4cannons_2;Spitfire
@@ -178,12 +183,14 @@ spitfire_ix_plagis_1;Spitfire Mk. IX
 spitfire_ix_plagis_2;Spitfire
 spitfire_ix_shop;Spitfire LF. Mk. IX (e)
 spitfire_ix_0;"Spitfire LF. Mk. IX (e)
-<color=#C0C0C0>Mar 1943 production, Jul 1944 modifications</color>"
+<color=#C0C0C0>Mar 1943 production</color>
+<color=#C0C0C0>Jul 1944 modifications</color>"
 spitfire_ix_1;Spitfire Mk. IX
 spitfire_ix_2;Spitfire
 spitfire_ix_tutorial_shop;Spitfire LF. Mk. IX (e)
 spitfire_ix_tutorial_0;"Spitfire LF. Mk. IX (e)
-<color=#C0C0C0>Mar 1943 production, Jul 1944 modifications</color>"
+<color=#C0C0C0>Mar 1943 production</color>
+<color=#C0C0C0>Jul 1944 modifications</color>"
 spitfire_ix_tutorial_1;Spitfire Mk. IX
 spitfire_ix_tutorial_2;Spitfire
 spitfire_ix_plagis_shop;Spitfire LF. IX
@@ -258,7 +265,8 @@ typhoon_mk1b_1;Typhoon Mk. I
 typhoon_mk1b_2;Typhoon
 typhoon_mk1b_late_shop;Typhoon FB. Mk. IB (1944)
 typhoon_mk1b_late_0;"Typhoon FB. Mk. IB
-<color=#C0C0C0>Nov 1943 production, Apr 1944 modifications</color>
+<color=#C0C0C0>Nov 1943 production</color>
+<color=#C0C0C0>Apr 1944 modifications</color>
 <color=#C0C0C0>Mod No. 286</color>"
 typhoon_mk1b_late_1;Typhoon Mk. I
 typhoon_mk1b_late_2;Typhoon

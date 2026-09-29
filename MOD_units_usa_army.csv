@@ -162,7 +162,7 @@ us_m4a2_76w_sherman_tutorial_2;M4
 
 us_m4a3_105_sherman_shop;M4A3 (105) HVSS
 us_m4a3_105_sherman_0;"Tank, Medium, M4A3 (105-mm Howitzer) General Sherman
-<color=#C0C0C0>Sep 1944 production, with HVSS</color>"
+<color=#C0C0C0>Sep 1944 Chrysler production with HVSS</color>"
 us_m4a3_105_sherman_1;M4A3 (105)
 us_m4a3_105_sherman_2;M4
 us_m4a3e2_sherman_jumbo_shop;M4A3E2
@@ -184,12 +184,12 @@ us_m4a3e2_76w_sherman_jumbo_1;M4A3E2 (M1A1)
 us_m4a3e2_76w_sherman_jumbo_2;M4
 us_m4a3e8_76w_sherman_shop;M4A3 (76) W HVSS
 us_m4a3e8_76w_sherman_0;"Tank, Medium, M4A3 (76-mm Gun, Wet) General Sherman
-<color=#C0C0C0>Dec 1944 Chrysler production, with HVSS</color>"
+<color=#C0C0C0>Dec 1944 Chrysler production with HVSS</color>"
 us_m4a3e8_76w_sherman_1;M4A3 (76) W
 us_m4a3e8_76w_sherman_2;M4
 us_m4a3e8_76w_sherman_kit_3rank_shop;M4A3 (76) W HVSS
 us_m4a3e8_76w_sherman_kit_3rank_0;"Tank, Medium, M4A3 (76-mm Gun, Wet) General Sherman
-<color=#C0C0C0>Dec 1944 Chrysler production, with HVSS</color>"
+<color=#C0C0C0>Dec 1944 Chrysler production with HVSS</color>"
 us_m4a3e8_76w_sherman_kit_3rank_1;M4A3 (76) W
 us_m4a3e8_76w_sherman_kit_3rank_2;M4
 
@@ -540,12 +540,14 @@ us_m60a1_1;M60A1 AOS
 us_m60a1_2;M60
 us_m60a1_rise_passive_era_shop;M60A1 RISE Passive (RA)
 us_m60a1_rise_passive_era_0;"Tank, Combat, Full-Tracked: 105-mm Gun, M60A1 RISE Passive
-<color=#C0C0C0>MWO 9-2300-378-34-2, with Reactive Armor</color>"
+<color=#C0C0C0>MWO 9-2300-378-34-2</color>
+<color=#C0C0C0>with Reactive Armor</color>"
 us_m60a1_rise_passive_era_1;M60A1 RISE
 us_m60a1_rise_passive_era_2;M60
 us_m60a1_rise_mod_shop;M60A1 RISE Passive (RA)
 us_m60a1_rise_mod_0;"Tank, Combat, Full-Tracked: 105-mm Gun, M60A1 RISE Passive
-<color=#C0C0C0>MWO 9-2300-378-34-2, with Reactive Armor</color>"
+<color=#C0C0C0>MWO 9-2300-378-34-2</color>
+<color=#C0C0C0>with Reactive Armor</color>"
 us_m60a1_rise_mod_1;M60A1 RISE
 us_m60a1_rise_mod_2;M60
 us_m60a2_shop;M60A2
@@ -554,7 +556,8 @@ us_m60a2_1;M60A2
 us_m60a2_2;M60
 us_m60a3_tts_shop;M60A3 TTS (RA)
 us_m60a3_tts_0;"Tank, Combat, Full-Tracked: 105-mm Gun, M60A3 Tank Thermal Sight
-<color=#C0C0C0>MWO 9-2300-378-34-2, with Reactive Armor</color>"
+<color=#C0C0C0>MWO 9-2300-378-34-2</color>
+<color=#C0C0C0>with Reactive Armor</color>"
 us_m60a3_tts_1;M60A3 TTS
 us_m60a3_tts_2;M60
 

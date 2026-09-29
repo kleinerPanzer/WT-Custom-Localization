@@ -135,10 +135,11 @@ fr_citroen_kegresse_p4t_2;P7T
 
 // AMERICAN //
 
-fr_m3a3_stuart_shop;⚜ Stuart V
-fr_m3a3_stuart_0;"Tank, Light, Stuart, Mk. V
-<color=#C0C0C0>Jan 1943 production</color>"
-fr_m3a3_stuart_1;⚜ Stuart V
+fr_m3a3_stuart_shop;⚜ M3A3
+fr_m3a3_stuart_0;"Tank, Light, M3A3 General Stuart
+<color=#C0C0C0>Jan 1943 production</color>
+<color=#B34D4D>with Dischargers, Smoke Generator, 4-in., No. 2, Mk. I</color>"
+fr_m3a3_stuart_1;⚜ M3A3
 fr_m3a3_stuart_2;M3
 
 fr_m4a1_sherman_shop;⚜ M4A1
@@ -156,12 +157,12 @@ fr_m4a1_sherman_fl_10_2;M4
 
 fr_m4a3_105_sherman_shop;⚜ M4A3 (105)
 fr_m4a3_105_sherman_0;"Char moyen M4A3 (105) Sherman
-<color=#C0C0C0>Sep 1944 Chrysler production, with HVSS</color>"
+<color=#C0C0C0>Sep 1944 Chrysler production with HVSS</color>"
 fr_m4a3_105_sherman_1;⚜ M4A3 (105)
 fr_m4a3_105_sherman_2;M4
 fr_m4a3e2_sherman_jumbo_shop;⚜ M4A3E2 (75) W
 fr_m4a3e2_sherman_jumbo_0;"Char d'assaut M4A3E2 (75) W Sherman
-<color=#C0C0C0>May 1944 production, with Union Steel turret</color>"
+<color=#C0C0C0>May 1944 production with Union Steel turret</color>"
 fr_m4a3e2_sherman_jumbo_1;⚜ M4A3E2 (75) W
 fr_m4a3e2_sherman_jumbo_2;M4
 
@@ -381,7 +382,7 @@ fr_amx_30_b2_brenus_2;AMX 30
 fr_amx_30_ACRA_shop;AMX 30 (T 142)
 fr_amx_30_ACRA_0;"Char moyen de combat AMX 30
 <color=#C0C0C0>avec tourelle T 142</color>
-<color=#C0C0C0>what-if production model</color>"
+<color=#B34D4D>what-if production model</color>"
 fr_amx_30_ACRA_1;AMX 30 (T 142)
 fr_amx_30_ACRA_2;AMX 30
 

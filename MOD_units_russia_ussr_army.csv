@@ -62,28 +62,28 @@ ussr_t_34_1940_l_11_1;Т-34
 ussr_t_34_1940_l_11_2;Т-34
 ussr_t_34_1941_l_11_shop;Т-34 (Dec 1940)
 ussr_t_34_1941_l_11_0;"Танк Т-34
-<color=#C0C0C0>Dec 1940 ХПЗ production, с катаной башней</color>"
+<color=#C0C0C0>Dec 1940 ХПЗ production с катаной башней</color>"
 ussr_t_34_1941_l_11_1;Т-34
 ussr_t_34_1941_l_11_2;Т-34
 ussr_t_34_1941_shop;Т-34 (Mar 1941)
 ussr_t_34_1941_0;"Танк Т-34
-<color=#C0C0C0>Mar 1941 ХПЗ production, с катаной башней</color>"
+<color=#C0C0C0>Mar 1941 ХПЗ production с катаной башней</color>"
 ussr_t_34_1941_1;Т-34
 ussr_t_34_1941_2;Т-34
 ussr_t_34_1941_cast_turret_shop;Т-34 (Apr 1941)
 ussr_t_34_1941_cast_turret_0;"Танк Т-34
-<color=#C0C0C0>Apr 1941 ХПЗ production, с литой башней</color>
+<color=#C0C0C0>Apr 1941 ХПЗ production с литой башней</color>
 <color=#E3D452>1-я гвардейская танковая бригада</color>"
 ussr_t_34_1941_cast_turret_1;Т-34
 ussr_t_34_1941_cast_turret_2;Т-34
 ussr_t_34_1941_57_shop;Т-34 (Apr 1941) (ЗиС-4)
 ussr_t_34_1941_57_0;"Танк Т-34
-<color=#C0C0C0>Apr 1941 ХПЗ production, с литой башней и пушкой ЗиС-4</color>"
+<color=#C0C0C0>Apr 1941 ХПЗ production с литой башней и пушкой ЗиС-4</color>"
 ussr_t_34_1941_57_1;Т-34 (ЗиС-4)
 ussr_t_34_1941_57_2;Т-34
 ussr_t_34E_STZ_shop;Т-34 (Apr 1942) Экранами
 ussr_t_34E_STZ_0;"Танк Т-34
-<color=#C0C0C0>Apr 1942 СТЗ production, с экранами</color>"
+<color=#C0C0C0>Apr 1942 СТЗ production с экранами</color>"
 ussr_t_34E_STZ_1;Т-34 Экранами
 ussr_t_34E_STZ_2;Т-34
 ussr_t_34_1942_shop;Т-34 (Sep 1942)
@@ -99,12 +99,12 @@ cn_t_34_1942_1;␗ Т-34
 cn_t_34_1942_2;Т-34
 ussr_t_34E_shop;Т-34 (May 1943) Экранами
 ussr_t_34E_0;"Танк Т-34
-<color=#C0C0C0>May 1943 Завод №112 production, с экранами</color>"
+<color=#C0C0C0>May 1943 Завод №112 production с экранами</color>"
 ussr_t_34E_1;Т-34 Экранами
 ussr_t_34E_2;Т-34
 ussr_t_34_57_1943_shop;Т-34 (Sep 1942) (ЗиС-4)
 ussr_t_34_57_1943_0;"Танк Т-34
-<color=#C0C0C0>Sep 1942 УТЗ production, с пушкой ЗиС-4</color>"
+<color=#C0C0C0>Sep 1942 УТЗ production с пушкой ЗиС-4</color>"
 ussr_t_34_57_1943_1;Т-34 (ЗиС-4)
 ussr_t_34_57_1943_2;Т-34
 
@@ -138,7 +138,8 @@ ussr_t_34_85E_1;Т-34-85
 ussr_t_34_85E_2;Т-34
 ussr_t_34_85_stp_s53_shop;Т-34-85 (May 1945) (СТП-С-53)
 ussr_t_34_85_stp_s53_0;"Танк Т-34-85
-<color=#C0C0C0>May 1945 Завод №112 production, с СТП-С-53 Таран</color>"
+<color=#C0C0C0>May 1945 Завод №112 production</color>
+<color=#C0C0C0>с СТП-С-53 Таран</color>"
 ussr_t_34_85_stp_s53_1;Т-34-85 (СТП-С-53)
 ussr_t_34_85_stp_s53_2;Т-34
 ussr_t_34_100_shop;Т-34-100
@@ -468,12 +469,12 @@ ussr_kv_1_L_11_1;КВ-1
 ussr_kv_1_L_11_2;КВ-1
 ussr_kv_1e_shop;КВ-1 (Jul 1941) Экранами
 ussr_kv_1e_0;"Танк КВ-1
-<color=#C0C0C0>Jul 1941 production, с экранами</color>"
+<color=#C0C0C0>Jul 1941 production с экранами</color>"
 ussr_kv_1e_1;КВ-1 Экранами
 ussr_kv_1e_2;КВ-1
 ussr_kv_1_zis_5_shop;КВ-1 (Oct 1941) (ЗиС-5)
 ussr_kv_1_zis_5_0;"Танк КВ-1
-<color=#C0C0C0>Oct 1941 production, с пушкой ЗиС-5</color>"
+<color=#C0C0C0>Oct 1941 production с пушкой ЗиС-5</color>"
 ussr_kv_1_zis_5_1;КВ-1
 ussr_kv_1_zis_5_2;КВ-1
 ussr_kv_1s_shop;КВ-1С (Oct 1942)
@@ -559,7 +560,8 @@ ussr_is_2m_kit_4rank_1;ИС-2М
 ussr_is_2m_kit_4rank_2;ИС-2
 ussr_is_3_shop;ИС-3
 ussr_is_3_0;"Танк ИС-3
-<color=#C0C0C0>1946 production, 1953 modifications</color>"
+<color=#C0C0C0>1946 production</color>
+<color=#C0C0C0>1953 modifications</color>"
 ussr_is_3_1;ИС-3
 ussr_is_3_2;ИС-3
 ussr_is_4m_shop;ИС-4М
@@ -713,7 +715,8 @@ ussr_su_85a_2;СУ-85
 
 ussr_su_100_1945_shop;СУ-100
 ussr_su_100_1945_0;"Самоходная артиллерийская установка СУ-100
-<color=#C0C0C0>Oct 1944 / Jun 1945 production, 1970s modifications</color>"
+<color=#C0C0C0>Oct 1944 / Jun 1945 production</color>
+<color=#C0C0C0>1970s modifications</color>"
 ussr_su_100_1945_1;СУ-100
 ussr_su_100_1945_2;СУ-100
 
