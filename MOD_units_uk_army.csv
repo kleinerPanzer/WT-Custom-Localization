@@ -142,7 +142,7 @@ uk_valentine_mk_1_1;Valentine I
 uk_valentine_mk_1_2;Valentine
 uk_valentine_mk_9_shop;Valentine IX
 uk_valentine_mk_9_0;"Tank, Infantry, Mk. III, Valentine, Mk. IX
-<color=#C0C0C0>with GM Type 6.71S engine</color>"
+<color=#C0C0C0>with GM Type 6.71S</color>"
 uk_valentine_mk_9_1;Valentine IX
 uk_valentine_mk_9_2;Valentine
 uk_valentine_mk_11_shop;Valentine XI
@@ -274,7 +274,7 @@ uk_centurion_mk_1_1;Centurion I
 uk_centurion_mk_1_2;Centurion
 uk_centurion_mk_2_shop;Centurion II
 uk_centurion_mk_2_0;"Tank, Cruiser, Centurion, Mk. II
-<color=#C0C0C0>with F.V.G.C.E., No. 1, Mk. 2 and Meteor Mk. IVA engine</color>"
+<color=#C0C0C0>with F.V.G.C.E., No. 1, Mk. 2 and Meteor Mk. IVA</color>"
 uk_centurion_mk_2_1;Centurion II
 uk_centurion_mk_2_2;Centurion
 uk_centurion_mk_3_shop;Centurion Mk. 3
@@ -289,7 +289,7 @@ uk_centurion_mk_5_avre_era_2;Centurion
 uk_centurion_action_x_shop;CMT Testbed
 uk_centurion_action_x_0;"Centurion Mantletless Turret Testbed
 <color=#C0C0C0>Conversion from Tank, Medium Gun, Centurion, Mk. 7</color>
-<color=#C0C0C0>with turret F.V. 267252 and 20-pr. gun</color>"
+<color=#C0C0C0>with F.V. 267252 turret and 20-pr. gun</color>"
 uk_centurion_action_x_1;CMT Testbed
 uk_centurion_action_x_2;Centurion
 uk_centurion_mk_10_shop;Centurion Mk. 10

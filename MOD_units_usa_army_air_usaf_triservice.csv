@@ -472,7 +472,7 @@ f_14d_vf_11_2;F-14
 f_15a_shop;F-15A-18 MSIP
 f_15a_0;"F-15A-18-MC Eagle
 <color=#C0C0C0>Multi-Stage Improvement Plan (ANG)</color>
-<color=#C0C0C0>with F100-PW-220E engines</color>
+<color=#C0C0C0>with F100-PW-220E</color>
 <color=#B34D4D>and 'turkey feather' nozzle covers</color>"
 f_15a_1;F-15A
 f_15a_2;F-15
@@ -803,7 +803,7 @@ nt_b_52h_2;B-52
 shop/group/b_57_group;▃ Canberra B.2 / B-57B
 b-57_shop;▃ Canberra B.2
 b-57_0;"Canberra B. Mk. 2
-<color=#C0C0C0>with J65-W-5 engines</color>"
+<color=#C0C0C0>with J65-W-5</color>"
 b-57_1;▃ Canberra B.2
 b-57_2;Canberra
 b-57b_shop;B-57B

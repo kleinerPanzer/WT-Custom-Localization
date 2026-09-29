@@ -401,7 +401,7 @@ lancaster_mr7_france_2;Lancaster
 
 seafire_mk3_france_shop;⚜ Seafire LF. Mk. III
 seafire_mk3_france_0;"Seafire LF. Mk. III
-<color=#C0C0C0>with Merlin Mk. 55M engine</color>"
+<color=#C0C0C0>with Merlin Mk. 55M</color>"
 seafire_mk3_france_1;⚜ Seafire Mk. III
 seafire_mk3_france_2;Seafire
 
@@ -504,7 +504,7 @@ mirage_3c_1;Mirage III C
 mirage_3c_2;Mirage III
 mirage_3e_shop;Mirage III E
 mirage_3e_0;"Mirage III E
-<color=#C0C0C0>with Cyrano I bis radar</color>"
+<color=#C0C0C0>with Cyrano I bis</color>"
 mirage_3e_1;Mirage III E
 mirage_3e_2;Mirage III
 
@@ -539,7 +539,7 @@ mirage_2000c_s5_2;Mirage 2000
 
 mirage_2000_5f_shop;Mirage 2000-5 Mk. 2
 mirage_2000_5f_0;Mirage 2000-5 Mk. 2
-<color=#B34D4D>with RDY radar</color>
+<color=#B34D4D>with RDY</color>
 mirage_2000_5f_1;Mirage 2000-5
 mirage_2000_5f_2;Mirage 2000
 
@@ -642,6 +642,6 @@ alpha_jet_e_2;Alpha Jet
 // Aquilon //
 se_203_shop;Aquilon 203
 se_203_0;"Aquilon 203
-<color=#B34D4D>with Ghost Mk. 103 engine</color>"
+<color=#B34D4D>with Ghost Mk. 103</color>"
 se_203_1;Aquilon 203
 se_203_2;Aquilon

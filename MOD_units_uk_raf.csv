@@ -66,19 +66,19 @@ shop/group/hurricane_group;Hurricane Mk. IIB (Trop.) / Hurricane Mk. I
 hurricane_mk1_shop;Hurricane Mk. I
 hurricane_mk1_0;"Hurricane Mk. I
 <color=#C0C0C0>1940 modifications</color>
-<color=#C0C0C0>with Merlin Mk. III engine</color>"
+<color=#C0C0C0>with Merlin Mk. III</color>"
 hurricane_mk1_1;Hurricane Mk. I
 hurricane_mk1_2;Hurricane
 hurricane_mk1_late_shop;Hurricane Mk. I
 hurricane_mk1_late_0;"Hurricane Mk. I
 <color=#C0C0C0>1940 modifications</color>
-<color=#C0C0C0>with Merlin Mk. III engine</color>"
+<color=#C0C0C0>with Merlin Mk. III</color>"
 hurricane_mk1_late_1;Hurricane Mk. I
 hurricane_mk1_late_2;Hurricane
 hurricane_mk1_late_ep_shop;Hurricane Mk. I
 hurricane_mk1_late_ep_0;"Hurricane Mk. I
 <color=#C0C0C0>1940 modifications</color>
-<color=#C0C0C0>with Merlin Mk. III engine</color>
+<color=#C0C0C0>with Merlin Mk. III</color>
 <color=#E3D452>No. 800 Naval Air Squadron</color>"
 hurricane_mk1_late_ep_1;Hurricane Mk. I
 hurricane_mk1_late_ep_2;Hurricane
@@ -89,18 +89,18 @@ hurricanemkii_1;Hurricane Mk. II
 hurricanemkii_2;Hurricane
 hurricane_mk4_shop;Hurricane FB. Mk. IV
 hurricane_mk4_0;"Hurricane FB. Mk. IV
-<color=#C0C0C0>with Merlin Mk. 24 engine</color>"
+<color=#C0C0C0>with Merlin Mk. 24</color>"
 hurricane_mk4_1;Hurricane Mk. IV
 hurricane_mk4_2;Hurricane
 
 hurricane_mk1b_shop;Sea Hurricane F. Mk. IB
 hurricane_mk1b_0;"Sea Hurricane F. Mk. IB
-<color=#C0C0C0>with Merlin Mk. III engine</color>"
+<color=#C0C0C0>with Merlin Mk. III</color>"
 hurricane_mk1b_1;Sea Hurricane Mk. I
 hurricane_mk1b_2;Hurricane
 hurricane_mk1c_shop;Sea Hurricane F. Mk. IC
 hurricane_mk1c_0;"Sea Hurricane F. Mk. IC
-<color=#C0C0C0>with Merlin Mk. III engine</color>"
+<color=#C0C0C0>with Merlin Mk. III</color>"
 hurricane_mk1c_1;Sea Hurricane Mk. I
 hurricane_mk1c_2;Hurricane
 
@@ -109,7 +109,7 @@ hurricane_mk1c_2;Hurricane
 spitfire_mk1_shop;Spitfire Mk. IA
 spitfire_mk1_0;"Spitfire Mk. IA
 <color=#C0C0C0>Feb 1939 production</color>
-<color=#C0C0C0>with Merlin Mk. III engine</color>
+<color=#C0C0C0>with Merlin Mk. III</color>
 <color=#C0C0C0>Jun 1940 modifications</color>"
 spitfire_mk1_1;Spitfire Mk. I
 spitfire_mk1_2;Spitfire
@@ -129,14 +129,14 @@ shop/group/spitfire_mk5b_group;Spitfire F. Mk. VB (Trop.) / Spitfire F. Mk. VB
 spitfire_mk5b_notrop_shop;Spitfire F. Mk. VB
 spitfire_mk5b_notrop_0;"Spitfire F. Mk. VB
 <color=#C0C0C0>Apr 1941 production</color>
-<color=#C0C0C0>with Merlin Mk. 45 engine</color>
+<color=#C0C0C0>with Merlin Mk. 45</color>
 <color=#C0C0C0>May 1942 modifications</color>"
 spitfire_mk5b_notrop_1;Spitfire Mk. V
 spitfire_mk5b_notrop_2;Spitfire
 spitfire_mk5b_float_shop;Spitfire F. Mk. VB (W3760)
 spitfire_mk5b_float_0;"Spitfire F. Mk. VB
 <color=#C0C0C0>Jul 1941 production</color>
-<color=#C0C0C0>with Merlin Mk. 46 engine</color>
+<color=#C0C0C0>with Merlin Mk. 46</color>
 <color=#C0C0C0>Aug 1943 modifications</color>
 <color=#E3D452>W3760</color>"
 spitfire_mk5b_float_1;Spitfire F. Mk. V
@@ -144,7 +144,7 @@ spitfire_mk5b_float_2;Spitfire
 spitfire_mk5b_shop;Spitfire F. Mk. VB (Trop.)
 spitfire_mk5b_0;"Spitfire F. Mk. VB
 <color=#C0C0C0>Dec 1941 production</color>
-<color=#C0C0C0>with Merlin Mk. 45 engine</color>
+<color=#C0C0C0>with Merlin Mk. 45</color>
 <color=#C0C0C0>May 1942 modifications</color>
 <color=#C0C0C0>Mod No. 411 (Tropical Conversion)</color>"
 spitfire_mk5b_1;Spitfire Mk. V
@@ -155,13 +155,13 @@ shop/group/spitfire_mk5c_group;Spitfire LF. Mk. VC (Trop.) / Spitfire LF. Mk. VC
 spitfire_mk5c_notrop_shop;Spitfire LF. Mk. VC
 spitfire_mk5c_notrop_0;"Spitfire LF. Mk. VC
 <color=#C0C0C0>Aug 1942 production</color>
-<color=#C0C0C0>with Merlin Mk. 45M engine</color>"
+<color=#C0C0C0>with Merlin Mk. 45M</color>"
 spitfire_mk5c_notrop_1;Spitfire Mk. V
 spitfire_mk5c_notrop_2;Spitfire
 spitfire_mk5c_shop;Spitfire LF. Mk. VC (Trop.)
 spitfire_mk5c_0;"Spitfire LF. Mk. VC
 <color=#C0C0C0>Aug 1942 production</color>
-<color=#C0C0C0>with Merlin Mk. 45M engine</color>
+<color=#C0C0C0>with Merlin Mk. 45M</color>
 <color=#C0C0C0>Mod No. 411 (Tropical Conversion)</color>"
 spitfire_mk5c_1;Spitfire Mk. V
 spitfire_mk5c_2;Spitfire
@@ -173,13 +173,13 @@ spitfire_mk9b_2;Spitfire
 spitfire_ix_early_shop;Spitfire F. Mk. IX
 spitfire_ix_early_0;"Spitfire F. Mk. IX
 <color=#C0C0C0>Apr 1943 production</color>
-<color=#C0C0C0>with Merlin Mk. 61 engine</color>"
+<color=#C0C0C0>with Merlin Mk. 61</color>"
 spitfire_ix_early_1;Spitfire Mk. IX
 spitfire_ix_early_2;Spitfire
 spitfire_mk9c_4cannons_shop;Spitfire F. Mk. IX
 spitfire_mk9c_4cannons_0;"Spitfire F. Mk. IX
 <color=#C0C0C0>Jun 1942 production</color>
-<color=#C0C0C0>with Merlin Mk. 61 engine</color>
+<color=#C0C0C0>with Merlin Mk. 61</color>
 <color=#C0C0C0>Jan 1943 modifications</color>
 <color=#C0C0C0>Conversion from Spitfire Mk. VC</color>"
 spitfire_mk9c_4cannons_1;Spitfire Mk. IX
@@ -208,13 +208,13 @@ shop/group/spitfire_mk9e_group;Spitfire F. Mk. XIV (e) / Spitfire F. Mk. XVIII (
 
 spitfire_mk14c_shop;Spitfire F. Mk. XIV
 spitfire_mk14c_0;"Spitfire F. Mk. XIV
-<color=#C0C0C0>with Griffon Mk. 65 engine</color>
+<color=#C0C0C0>with Griffon Mk. 65</color>
 <color=#C0C0C0>Feb 1944 modifications</color>"
 spitfire_mk14c_1;Spitfire Mk. XIV
 spitfire_mk14c_2;Spitfire
 spitfire_mk14e_shop;Spitfire F. Mk. XIV (e)
 spitfire_mk14e_0;"Spitfire F. Mk. XIV (e)
-<color=#C0C0C0>with Griffon Mk. 65 engine</color>
+<color=#C0C0C0>with Griffon Mk. 65</color>
 <color=#C0C0C0>Feb 1945 modifications</color>"
 spitfire_mk14e_1;Spitfire Mk. XIV
 spitfire_mk14e_2;Spitfire
@@ -228,7 +228,7 @@ spitfire_xvi_2;Spitfire
 
 spitfire_mk18e_shop;Spitfire F. Mk. XVIII (e)
 spitfire_mk18e_0;"Spitfire F. Mk. XVIII (e)
-<color=#C0C0C0>with Griffon Mk. 65 engine</color>"
+<color=#C0C0C0>with Griffon Mk. 65</color>"
 spitfire_mk18e_1;Spitfire Mk. XVIII
 spitfire_mk18e_2;Spitfire
 
@@ -246,7 +246,7 @@ spitfire_f24_2;Spitfire
 shop/group/seafire_group;Seafire F. Mk. XVII / Seafire FR.47
 seafire_mk3_shop;Seafire LF. Mk. III
 seafire_mk3_0;"Seafire LF. Mk. III
-<color=#C0C0C0>with Merlin Mk. 55M engine</color>"
+<color=#C0C0C0>with Merlin Mk. 55M</color>"
 seafire_mk3_1;Seafire Mk. III
 seafire_mk3_2;Seafire
 seafire_mk17_shop;Seafire F. Mk. XVII
@@ -255,7 +255,7 @@ seafire_mk17_1;Seafire Mk. XVII
 seafire_mk17_2;Seafire
 seafire_fr47_shop;Seafire FR.47
 seafire_fr47_0;"Seafire FR. Mk. 47
-<color=#C0C0C0>with Griffon Mk. 88 engine</color>"
+<color=#C0C0C0>with Griffon Mk. 88</color>"
 seafire_fr47_1;Seafire Mk. 47
 seafire_fr47_2;Seafire
 
@@ -263,13 +263,13 @@ seafire_fr47_2;Seafire
 typhoon_mk1a_shop;Typhoon FB. Mk. IA
 typhoon_mk1a_0;"Typhoon FB. Mk. IA
 <color=#C0C0C0>Oct 1942 modifications</color>
-<color=#B34D4D>with Sabre Mk. I engine</color>"
+<color=#B34D4D>with Sabre Mk. I</color>"
 typhoon_mk1a_1;Typhoon Mk. I
 typhoon_mk1a_2;Typhoon
 typhoon_mk1b_shop;Typhoon FB. Mk. IB (1943)
 typhoon_mk1b_0;"Typhoon FB. Mk. IB
 <color=#C0C0C0>Mar 1943 production</color>
-<color=#B34D4D>with Sabre Mk. I engine</color>
+<color=#B34D4D>with Sabre Mk. I</color>
 <color=#C0C0C0>Mod No. 286</color>
 <color=#C0C0C0>with partial Apr 1943 1000 lb bomb trials modifications</color>"
 typhoon_mk1b_1;Typhoon Mk. I
@@ -277,7 +277,7 @@ typhoon_mk1b_2;Typhoon
 typhoon_mk1b_late_shop;Typhoon FB. Mk. IB (1944)
 typhoon_mk1b_late_0;"Typhoon FB. Mk. IB
 <color=#C0C0C0>Nov 1943 production</color>
-<color=#C0C0C0>with Sabre Mk. IIA engine</color>
+<color=#C0C0C0>with Sabre Mk. IIA</color>
 <color=#C0C0C0>Apr 1944 modifications</color>
 <color=#C0C0C0>Mod No. 286</color>"
 typhoon_mk1b_late_1;Typhoon Mk. I
@@ -294,14 +294,14 @@ tempest_mk2_2;Tempest
 tempest_mkv_shop;Tempest FB.5
 tempest_mkv_0;"Tempest FB. Mk. 5
 <color=#C0C0C0>Series 2</color>
-<color=#C0C0C0>with Sabre Mk. IIB engine</color>
+<color=#C0C0C0>with Sabre Mk. IIB</color>
 <color=#C0C0C0>1946 modifications</color>"
 tempest_mkv_1;Tempest Mk. 5
 tempest_mkv_2;Tempest
 tempest_mkv_vikkers_shop;Tempest FB.5 (SN354)
 tempest_mkv_vikkers_0;"Tempest FB. Mk. 5
 <color=#C0C0C0>Batch 4</color>
-<color=#C0C0C0>with Sabre Mk. IIB engine</color>
+<color=#C0C0C0>with Sabre Mk. IIB</color>
 <color=#C0C0C0>“Class P” weapons testbed</color>
 <color=#E3D452>SN354</color>"
 tempest_mkv_vikkers_1;Tempest Mk. 5
@@ -386,7 +386,7 @@ meteor_fmk3_1;Meteor Mk. 3
 meteor_fmk3_2;Meteor
 meteor_fmk3_navy_shop;Meteor F.3 (EE337)
 meteor_fmk3_navy_0;"Meteor F. Mk. 3
-<color=#C0C0C0>with Derwent Mk. 5 engines, strengthened landing gear,</color>
+<color=#C0C0C0>with Derwent Mk. 5, strengthened landing gear,</color>
 <color=#C0C0C0>and Sea Hornet F. Mk. V type deck arrester hook</color>
 <color=#C0C0C0>for deck landing trials</color>
 <color=#E3D452>EE337</color>"
@@ -513,7 +513,7 @@ jaguar_gr1_shop;Jaguar GR.1
 jaguar_gr1_0;"Jaguar GR. Mk. 1
 <color=#C0C0C0>with ARI 23231/3 LRMTS</color>
 <color=#C0C0C0>Dec 1983 ECM upgrades</color>
-<color=#B34D4D>with CRV7 rockets and Operational Flight Programme 08-09</color>"
+<color=#B34D4D>with CRV7 and Operational Flight Programme 08-09</color>"
 jaguar_gr1_1;Jaguar Mk. 1
 jaguar_gr1_2;Jaguar
 jaguar_gr1a_shop;Jaguar GR.1A
@@ -756,18 +756,18 @@ shop/group/mosquito_group;Mosquito FB. Mk. VI / Mosquito FB. Mk. XVIII / Mosquit
 shop/group/mosquito_group;Mosquito FB. Mk. VI / Mosquito FB. Mk. XVIII
 mosquito_nf_mk2_shop;Mosquito F. Mk. II
 mosquito_nf_mk2_0;"Mosquito F. Mk. II
-<color=#B34D4D>with Merlin Mk. 25 engines</color>"
+<color=#B34D4D>with Merlin Mk. 25</color>"
 mosquito_nf_mk2_1;Mosquito Mk. II
 mosquito_nf_mk2_2;Mosquito
 mosquito_fb_mk6_shop;Mosquito FB. Mk. VI
 mosquito_fb_mk6_0;"Mosquito FB. Mk. VI
 <color=#C0C0C0>Series 2</color>
-<color=#C0C0C0>with Merlin Mk. 25 engines</color>"
+<color=#C0C0C0>with Merlin Mk. 25</color>"
 mosquito_fb_mk6_1;Mosquito Mk. VI
 mosquito_fb_mk6_2;Mosquito
 mosquito_b_mk16_shop;Mosquito B. Mk. XVI
 mosquito_b_mk16_0;"Mosquito B. Mk. XVI
-<color=#C0C0C0>with Merlin Mk. 77 engines</color>"
+<color=#C0C0C0>with Merlin Mk. 77</color>"
 mosquito_b_mk16_1;Mosquito Mk. XVI
 mosquito_b_mk16_2;Mosquito
 mosquito_fb_mk18_shop;Mosquito FB. Mk. XVIII
@@ -811,7 +811,7 @@ fairey_3f_mk3b_2;Fairey III
 // SHACKLETON //
 shackleton_mr_mk_2_shop;Shackleton MR.2
 shackleton_mr_mk_2_0;"Shackleton MR. Mk. 2
-<color=#C0C0C0>with Griffon Mk. 57A engines</color>"
+<color=#C0C0C0>with Griffon Mk. 57A</color>"
 shackleton_mr_mk_2_1;Shackleton Mk. 2
 shackleton_mr_mk_2_2;Shackleton
 

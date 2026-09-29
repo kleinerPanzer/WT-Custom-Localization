@@ -27,12 +27,12 @@ sw_asrad_r_2;M113
 
 sw_landsverk_ush_204_gk_shop;Unimog SH (204GK)
 sw_landsverk_ush_204_gk_0;"Unimog SH Typ 405.110
-<color=#C0C0C0>with Oerlikon 204GK</color>"
+<color=#C0C0C0>with 204GK</color>"
 sw_landsverk_ush_204_gk_1;Unimog SH (204GK)
 sw_landsverk_ush_204_gk_2;Unimog SH
 sw_landsverk_ush_405_shop;Unimog SH (Typ 3Z 8DLa)
 sw_landsverk_ush_405_0;"Unimog SH Typ 405.110
-<color=#C0C0C0>with Oerlikon Typ 3Z 8DLa</color>"
+<color=#C0C0C0>with Typ 3Z 8DLa</color>"
 sw_landsverk_ush_405_1;Unimog SH (Typ 3Z 8DLa)
 sw_landsverk_ush_405_2;Unimog SH
 
@@ -42,12 +42,12 @@ sw_cv_90_mk4_1;CV90 MkIV
 sw_cv_90_mk4_2;CV90
 sw_cv_90105_tml_shop;CV90105 (XC-8)
 sw_cv_90105_tml_0;"Combat Vehicle 90105
-<color=#C0C0C0>with XC-8 105HP turret</color>"
+<color=#C0C0C0>with XC-8 105HP</color>"
 sw_cv_90105_tml_1;CV90105 (XC-8)
 sw_cv_90105_tml_2;CV90
 sw_cv_90105_shop;CV90105 (TML 105)
 sw_cv_90105_0;"Combat Vehicle 90105
-<color=#C0C0C0>with TML 105 turret</color>"
+<color=#C0C0C0>with TML 105</color>"
 sw_cv_90105_1;CV90105 (TML 105)
 sw_cv_90105_2;CV90
 sw_cv_90120_shop;CV90120-T
