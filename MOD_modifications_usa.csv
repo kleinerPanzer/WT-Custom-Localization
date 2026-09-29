@@ -140,8 +140,8 @@ modification/us_gbu_8/desc;Allows installation of GBU-8/B guided bombs.;
 modification/us_gbu_8;GBU-8;
 modification/us_agm_123/desc;Allows installation of AGM-123A missiles.;
 modification/us_agm_123;AGM-123A;
-modification/us_agm_119a/desc;Allows installation of AGM-119A missiles.
-modification/us_agm_119a;AGM-119A
+modification/us_agm_119a/desc;Allows installation of Penguin Mk3 missiles.
+modification/us_agm_119a;Penguin Mk3
 modification/us_gbu_38/desc;Allows installation of GBU-38(V)2/B guided bombs.;
 modification/us_gbu_38;GBU-38;
 modification/us_gbu_38_62/desc;Allows installation of GBU-38(V)2/B and GBU-62(V)1/B JDAM guided bombs.
