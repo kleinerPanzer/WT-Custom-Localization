@@ -8,6 +8,10 @@ weapons/120mm_arjun_mk1_user_cannon;Ordnance, Q.F., 120mm Tk. Gun, Mk III
 120mm_Arjun_PCB;PCB
 120mm_arjun_HESH;HESH
 
+weapons/us_agm_119a_penguin;Penguin Mk3
+weapons/us_agm_119a_penguin/short;Penguin Mk3
+weapons/us_agm_119a_penguin_wo_radar_designation;Penguin Mk3
+weapons/us_agm_119a_penguin_wo_radar_designation/short;Penguin Mk3
 
 weapons/us_100gal_ca_27_drop_tank_r;100 gal Drop Tank
 weapons/us_100gal_ca_27_drop_tank_r/short;Drop Tank
