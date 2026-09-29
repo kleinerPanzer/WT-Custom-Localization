@@ -109,6 +109,7 @@ hurricane_mk1c_2;Hurricane
 spitfire_mk1_shop;Spitfire Mk. IA
 spitfire_mk1_0;"Spitfire Mk. IA
 <color=#C0C0C0>Feb 1939 production</color>
+<color=#C0C0C0>with Merlin Mk. III engine</color>
 <color=#C0C0C0>Jun 1940 modifications</color>"
 spitfire_mk1_1;Spitfire Mk. I
 spitfire_mk1_2;Spitfire
@@ -128,12 +129,14 @@ shop/group/spitfire_mk5b_group;Spitfire F. Mk. VB (Trop.) / Spitfire F. Mk. VB
 spitfire_mk5b_notrop_shop;Spitfire F. Mk. VB
 spitfire_mk5b_notrop_0;"Spitfire F. Mk. VB
 <color=#C0C0C0>Apr 1941 production</color>
+<color=#C0C0C0>with Merlin Mk. 45 engine</color>
 <color=#C0C0C0>May 1942 modifications</color>"
 spitfire_mk5b_notrop_1;Spitfire Mk. V
 spitfire_mk5b_notrop_2;Spitfire
 spitfire_mk5b_float_shop;Spitfire F. Mk. VB (W3760)
 spitfire_mk5b_float_0;"Spitfire F. Mk. VB
 <color=#C0C0C0>Jul 1941 production</color>
+<color=#C0C0C0>with Merlin Mk. 46 engine</color>
 <color=#C0C0C0>Aug 1943 modifications</color>
 <color=#E3D452>W3760</color>"
 spitfire_mk5b_float_1;Spitfire F. Mk. V
@@ -141,6 +144,7 @@ spitfire_mk5b_float_2;Spitfire
 spitfire_mk5b_shop;Spitfire F. Mk. VB (Trop.)
 spitfire_mk5b_0;"Spitfire F. Mk. VB
 <color=#C0C0C0>Dec 1941 production</color>
+<color=#C0C0C0>with Merlin Mk. 45 engine</color>
 <color=#C0C0C0>May 1942 modifications</color>
 <color=#C0C0C0>Mod No. 411 (Tropical Conversion)</color>"
 spitfire_mk5b_1;Spitfire Mk. V
@@ -150,12 +154,14 @@ shop/group/spitfire_mk5_group;Spitfire LF. Mk. VC / Spitfire LF. Mk. VC (Trop.)
 shop/group/spitfire_mk5c_group;Spitfire LF. Mk. VC (Trop.) / Spitfire LF. Mk. VC
 spitfire_mk5c_notrop_shop;Spitfire LF. Mk. VC
 spitfire_mk5c_notrop_0;"Spitfire LF. Mk. VC
-<color=#C0C0C0>Aug 1942 production</color>"
+<color=#C0C0C0>Aug 1942 production</color>
+<color=#C0C0C0>with Merlin Mk. 45M engine</color>"
 spitfire_mk5c_notrop_1;Spitfire Mk. V
 spitfire_mk5c_notrop_2;Spitfire
 spitfire_mk5c_shop;Spitfire LF. Mk. VC (Trop.)
 spitfire_mk5c_0;"Spitfire LF. Mk. VC
 <color=#C0C0C0>Aug 1942 production</color>
+<color=#C0C0C0>with Merlin Mk. 45M engine</color>
 <color=#C0C0C0>Mod No. 411 (Tropical Conversion)</color>"
 spitfire_mk5c_1;Spitfire Mk. V
 spitfire_mk5c_2;Spitfire
@@ -166,12 +172,14 @@ spitfire_mk9b_1;Spitfire Mk. IX
 spitfire_mk9b_2;Spitfire
 spitfire_ix_early_shop;Spitfire F. Mk. IX
 spitfire_ix_early_0;"Spitfire F. Mk. IX
-<color=#C0C0C0>Apr 1943 production</color>"
+<color=#C0C0C0>Apr 1943 production</color>
+<color=#C0C0C0>with Merlin Mk. 61 engine</color>"
 spitfire_ix_early_1;Spitfire Mk. IX
 spitfire_ix_early_2;Spitfire
 spitfire_mk9c_4cannons_shop;Spitfire F. Mk. IX
 spitfire_mk9c_4cannons_0;"Spitfire F. Mk. IX
 <color=#C0C0C0>Jun 1942 production</color>
+<color=#C0C0C0>with Merlin Mk. 61 engine</color>
 <color=#C0C0C0>Jan 1943 modifications</color>
 <color=#C0C0C0>Conversion from Spitfire Mk. VC</color>"
 spitfire_mk9c_4cannons_1;Spitfire Mk. IX
@@ -200,11 +208,13 @@ shop/group/spitfire_mk9e_group;Spitfire F. Mk. XIV (e) / Spitfire F. Mk. XVIII (
 
 spitfire_mk14c_shop;Spitfire F. Mk. XIV
 spitfire_mk14c_0;"Spitfire F. Mk. XIV
+<color=#C0C0C0>with Griffon Mk. 65 engine</color>
 <color=#C0C0C0>Feb 1944 modifications</color>"
 spitfire_mk14c_1;Spitfire Mk. XIV
 spitfire_mk14c_2;Spitfire
 spitfire_mk14e_shop;Spitfire F. Mk. XIV (e)
 spitfire_mk14e_0;"Spitfire F. Mk. XIV (e)
+<color=#C0C0C0>with Griffon Mk. 65 engine</color>
 <color=#C0C0C0>Feb 1945 modifications</color>"
 spitfire_mk14e_1;Spitfire Mk. XIV
 spitfire_mk14e_2;Spitfire
@@ -217,7 +227,8 @@ spitfire_xvi_1;Spitfire Mk. XVI
 spitfire_xvi_2;Spitfire
 
 spitfire_mk18e_shop;Spitfire F. Mk. XVIII (e)
-spitfire_mk18e_0;Spitfire F. Mk. XVIII (e)
+spitfire_mk18e_0;"Spitfire F. Mk. XVIII (e)
+<color=#C0C0C0>with Griffon Mk. 65 engine</color>"
 spitfire_mk18e_1;Spitfire Mk. XVIII
 spitfire_mk18e_2;Spitfire
 
@@ -266,6 +277,7 @@ typhoon_mk1b_2;Typhoon
 typhoon_mk1b_late_shop;Typhoon FB. Mk. IB (1944)
 typhoon_mk1b_late_0;"Typhoon FB. Mk. IB
 <color=#C0C0C0>Nov 1943 production</color>
+<color=#C0C0C0>with Sabre Mk. IIA engine</color>
 <color=#C0C0C0>Apr 1944 modifications</color>
 <color=#C0C0C0>Mod No. 286</color>"
 typhoon_mk1b_late_1;Typhoon Mk. I
@@ -280,13 +292,16 @@ tempest_mk2_0;"Tempest FB. Mk. 2
 tempest_mk2_1;Tempest Mk. 2
 tempest_mk2_2;Tempest
 tempest_mkv_shop;Tempest FB.5
-tempest_mkv_0;"Tempest FB. Mk. 5 (Series 2)
+tempest_mkv_0;"Tempest FB. Mk. 5
+<color=#C0C0C0>Series 2</color>
+<color=#C0C0C0>with Sabre Mk. IIB engine</color>
 <color=#C0C0C0>1946 modifications</color>"
 tempest_mkv_1;Tempest Mk. 5
 tempest_mkv_2;Tempest
 tempest_mkv_vikkers_shop;Tempest FB.5 (SN354)
 tempest_mkv_vikkers_0;"Tempest FB. Mk. 5
 <color=#C0C0C0>Batch 4</color>
+<color=#C0C0C0>with Sabre Mk. IIB engine</color>
 <color=#C0C0C0>“Class P” weapons testbed</color>
 <color=#E3D452>SN354</color>"
 tempest_mkv_vikkers_1;Tempest Mk. 5
