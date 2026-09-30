@@ -744,7 +744,8 @@ us_m56_scorpion_1;M56
 us_m56_scorpion_2;M56
 
 us_hstv_l_shop;HSTV(L)
-us_hstv_l_0;High Survivability Test Vehicle (Lightweight)
+us_hstv_l_0;"High Survivability Test Vehicle (Lightweight)
+<color=#C0C0C0>First test vehicle</color>"
 us_hstv_l_1;HSTV(L)
 us_hstv_l_2;HSTV
 
