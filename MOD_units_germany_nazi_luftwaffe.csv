@@ -505,41 +505,41 @@ hs-129b-3_2;Hs 129
 la-5fn_luftwaffe_shop;▀ La-5FN
 la-5fn_luftwaffe_0;La-5FN typ 41 serie 34
 la-5fn_luftwaffe_1;▀ La-5FN
-la-5fn_luftwaffe__2;La-5
+la-5fn_luftwaffe_2;La-5
 p-47d_16_re_germany_shop;▀ P-47D-16
 p-47d_16_re_germany_0;P-47D-16 RE
 p-47d_16_re_germany_1;▀ P-47D
-p-47d_16_re_germany__2;P-47
+p-47d_16_re_germany_2;P-47
 p-47d_luftwaffe_shop;▀ P-47D
 p-47d_luftwaffe_0;P-47D RE
 p-47d_luftwaffe_1;▀ P-47D
-p-47d_luftwaffe__2;P-47
+p-47d_luftwaffe_2;P-47
 wellington_mk1c_luftwaffe_shop;▀ Wellington Mk. IC
 wellington_mk1c_luftwaffe_0;Wellington Mk. IC
 wellington_mk1c_luftwaffe_1;▀ Wellington Mk. I
-wellington_mk1c_luftwaffe__2;Wellington
+wellington_mk1c_luftwaffe_2;Wellington
 h-75a-2_luftwaffe_shop;▀ Hawk 75A-2
 h-75a-2_luftwaffe_0;Hawk 75A-2
 h-75a-2_luftwaffe_1;▀ Hawk 75A
-h-75a-2_luftwaffe__2;Hawk 75
+h-75a-2_luftwaffe_2;Hawk 75
 h-75a-4_luftwaffe_shop;▀ Hawk 75A-4
 h-75a-4_luftwaffe_0;Hawk 75A-4
 h-75a-4_luftwaffe_1;▀ Hawk 75A
-h-75a-4_luftwaffe__2;Hawk 75
+h-75a-4_luftwaffe_2;Hawk 75
 yak-1b_luftwaffe_shop;▀ Yak-1-127
 yak-1b_luftwaffe_0;Yak-1 Serie 127
 yak-1b_luftwaffe_1;▀ Yak-1
-yak-1b_luftwaffe__2;Yak-1
+yak-1b_luftwaffe_2;Yak-1
 tempest_mkv_luftwaffe_shop;▀ Tempest FB.5
 tempest_mkv_luftwaffe_0;"Tempest FB. Mk. 5
 <color=#C0C0C0>Series 2</color>"
 tempest_mkv_luftwaffe_1;▀ Tempest Mk. 5
-tempest_mkv_luftwaffe__2;Tempest
+tempest_mkv_luftwaffe_2;Tempest
 il_2_1942_luftwaffe_shop;▀ Il-2
 il_2_1942_luftwaffe_0;"Il-2
 <color=#C0C0C0>Aug 1942 production</color>"
 il_2_1942_luftwaffe_1;▀ Il-2
-il_2_1942_luftwaffe__2;Il-2
+il_2_1942_luftwaffe_2;Il-2
 
 // DORNIER //
 shop/group/do_17_group;Do 17 E-1 / Do 17 Z-2

@@ -162,10 +162,10 @@ us_lvt_a1_m24_2;LVT
 
 // Landing Craft (LC) //
 
-us_lcs_l_3_shop;LCS(L)(3)-1
+us_lcs_l_3_shop;LCS(L)(3) 1
 us_lcs_l_3_0;"<color=#C0C0C0>Landing Craft, Support (Large), Mk 3</color>
-USS LCS(L)(3)-1"
-us_lcs_l_3_1;LCS(L)(3)-1
+USS LCS(L)(3) 1"
+us_lcs_l_3_1;LCS(L)(3) 1
 us_lcs_l_3_2;LCS
 
 // Monitor (M) //

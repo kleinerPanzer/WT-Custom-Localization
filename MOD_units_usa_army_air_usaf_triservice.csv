@@ -789,14 +789,16 @@ b_34_2;B-34
 
 b_52h_shop;B-52H-140
 b_52h_0;"B-52H-140-BW Stratofortress
-<color=#C0C0C0>Electro-optical Viewing System, Rivet Ace upgrade programs</color>
-<color=#C0C0C0>with SALT II treaty compliant AN/ALT-32 antenna fairings</color>"
+<color=#C0C0C0>Rivet Ace</color>
+<color=#C0C0C0>with AN/ASQ-151 Electro-optical Viewing System (EVS)</color>
+<color=#C0C0C0>and SALT II treaty compliant AN/ALT-32 antenna fairings</color>"
 b_52h_1;B-52H
 b_52h_2;B-52
 nt_b_52h_shop;B-52H-140
 nt_b_52h_0;"B-52H-140-BW Stratofortress
-<color=#C0C0C0>Electro-optical Viewing System, Rivet Ace upgrade programs</color>
-<color=#C0C0C0>with SALT II treaty compliant AN/ALT-32 antenna fairings</color>"
+<color=#C0C0C0>Rivet Ace</color>
+<color=#C0C0C0>with AN/ASQ-151 Electro-optical Viewing System (EVS)</color>
+<color=#C0C0C0>and SALT II treaty compliant AN/ALT-32 antenna fairings</color>"
 nt_b_52h_1;B-52H
 nt_b_52h_2;B-52
 

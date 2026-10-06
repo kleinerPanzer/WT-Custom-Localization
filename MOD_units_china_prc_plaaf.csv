@@ -135,16 +135,16 @@ j_11b_2;J11
 // J15 //
 j_15t_shop;J15T (WS10B)
 j_15t_0;"J15T型飞机
-<color=#C0C0C0>with WS10B</color>"
+<color=#B34D4D>with WS10B</color>"
 j_15t_1;J15T
 j_15t_2;J15
 
 // J16 //
-j_16_shop;J-16
+j_16_shop;J16
 j_16_0;"J16型飞机
 <color=#C0C0C0>Batch 7+</color>"
-j_16_1;J-16
-j_16_2;J-16
+j_16_1;J16
+j_16_2;J16
 
 // JH7 //
 jh_7_shop;JH7

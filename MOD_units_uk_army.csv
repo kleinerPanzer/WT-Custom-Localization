@@ -274,11 +274,12 @@ uk_centurion_mk_1_1;Centurion I
 uk_centurion_mk_1_2;Centurion
 uk_centurion_mk_2_shop;Centurion II
 uk_centurion_mk_2_0;"Tank, Cruiser, Centurion, Mk. II
-<color=#C0C0C0>with F.V.G.C.E., No. 1, Mk. 2 and Meteor Mk. IVA</color>"
+<color=#C0C0C0>with F.V./G.C.E., No. I, Mk. II and Meteor Mk. IVA</color>"
 uk_centurion_mk_2_1;Centurion II
 uk_centurion_mk_2_2;Centurion
 uk_centurion_mk_3_shop;Centurion Mk. 3
-uk_centurion_mk_3_0;Tank, Medium Gun, Centurion, Mk. 3
+uk_centurion_mk_3_0;"Tank, Medium Gun, Centurion, Mk. 3
+<color=#C0C0C0>with F.V./C.G.E. No. 1, Mk. 3/1</color>"
 uk_centurion_mk_3_1;Centurion Mk. 3
 uk_centurion_mk_3_2;Centurion
 uk_centurion_mk_5_avre_era_shop;Centurion Mk. 5 AVRE
@@ -391,7 +392,8 @@ uk_fv221_caernarvon_1;Caernarvon Mk. 2
 uk_fv221_caernarvon_2;Caernarvon
 
 uk_conqueror_mk_2_shop;Conqueror Mk. 2
-uk_conqueror_mk_2_0;Tank, Heavy Gun, Conqueror, Mk. 2
+uk_conqueror_mk_2_0;"Tank, Heavy Gun, Conqueror, Mk. 2
+<color=#B34D4D>with stabilised gun control equipment</color>"
 uk_conqueror_mk_2_1;Conqueror Mk. 2
 uk_conqueror_mk_2_2;Conqueror
 

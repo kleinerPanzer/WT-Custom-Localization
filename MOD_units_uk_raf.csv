@@ -268,10 +268,12 @@ typhoon_mk1a_1;Typhoon Mk. I
 typhoon_mk1a_2;Typhoon
 typhoon_mk1b_shop;Typhoon FB. Mk. IB (1943)
 typhoon_mk1b_0;"Typhoon FB. Mk. IB
-<color=#C0C0C0>Mar 1943 production</color>
+<color=#C0C0C0>Apr 1943 production</color>
 <color=#B34D4D>with Sabre Mk. I</color>
 <color=#C0C0C0>Mod No. 286</color>
-<color=#C0C0C0>with partial Apr 1943 1000 lb bomb trials modifications</color>"
+<color=#B34D4D>Oct 1943 RP-3 rocket modifications,</color>
+<color=#B34D4D>Apr 1944 1000lb bomb modifications,</color>
+<color=#B34D4D>and Aug 1944 Duplex No. 3 Mk. 1 rocket connectors</color>"
 typhoon_mk1b_1;Typhoon Mk. I
 typhoon_mk1b_2;Typhoon
 typhoon_mk1b_late_shop;Typhoon FB. Mk. IB (1944)
