@@ -77,7 +77,7 @@ wheeled_vehicles/germ_sdKfz_222_1;le.Pz.Sp.Wg. (2 cm)
 wheeled_vehicles/germ_sdKfz_222_2;le.Pz.Sp.Wg.
 wheeled_vehicles/germ_sdKfz_232_0;s.Pz.Sp.Wg. (Fu) (8-rad)
 wheeled_vehicles/germ_sdKfz_232_1;s.Pz.Sp.Wg. (Fu) (8-rad)
-wheeled_vehicles/germ_sdKfz_232_2;s.Pz.Sp.Wg. (Fu)
+wheeled_vehicles/germ_sdKfz_232_2;s.Pz.Sp.Wg.
 wheeled_vehicles/germ_sdKfz_251_0;m.Spw. C
 wheeled_vehicles/germ_sdKfz_251_1;m.Spw. C
 wheeled_vehicles/germ_sdKfz_251_2;m.Spw.
@@ -547,7 +547,7 @@ ships/uss_cv_lexington_0;Lexington (CV-2)
 ships/uss_cv_lexington_1;Lexington
 ships/uss_cv_lexington_2;Lexington-Class
 ships/hms_cargo_ship_0;Assistance (F 173)
-ships/hms_cargo_ship_1;▃ Assistance
+ships/hms_cargo_ship_1;Assistance
 ships/hms_cargo_ship_2;Liberty-Class
 ships/ijn_cargo_ship_0;樫野
 ships/ijn_cargo_ship_1;樫野
@@ -1020,8 +1020,8 @@ tracked_vehicles/jpn_t95_HaGo_2;ハ号
 tracked_vehicles/jpn_t97_ChiHa_0;チハ
 tracked_vehicles/jpn_t97_ChiHa_1;チハ
 tracked_vehicles/jpn_t97_ChiHa_2;チハ
-tracked_vehicles/jpn_t97_Shinhoto_ChiHa_0;チハ改
-tracked_vehicles/jpn_t97_Shinhoto_ChiHa_1;チハ改
+tracked_vehicles/jpn_t97_Shinhoto_ChiHa_0;チハ (一式四十七粍)
+tracked_vehicles/jpn_t97_Shinhoto_ChiHa_1;チハ (一式四十七粍)
 tracked_vehicles/jpn_t97_Shinhoto_ChiHa_2;チハ
 tracked_vehicles/jpn_t97_ChiHa_Med_0;チハ
 tracked_vehicles/jpn_t97_ChiHa_Med_1;チハ

@@ -21,7 +21,16 @@ uk_ac4_thunderbolt_2;Australian Cruiser
 // CW/Modern //
 uk_centurion_mk_5_raac_shop;Centurion Mk. 5/1
 uk_centurion_mk_5_raac_0;"Tank, Medium Gun, Centurion, Mk. 5/1
-<color=#C0C0C0>1968 field modifications</color>"
+<color=#C0C0C0>with late production turret and Type B gun barrel</color>
+<color=#C0C0C0>1968 modifications with pintle mounted Machine Gun,</color>
+<color=#C0C0C0>.30 Caliber, L3A4, additional roof ammunition stowage,</color>
+<color=#C0C0C0>coaxial Machine Gun, .50 Caliber, L6A1 ranging gun, additional</color>
+<color=#C0C0C0>external rear fuel tank, Infra Red night vision</color>
+<color=#C0C0C0>equipment, and turret stowage basket</color>
+<color=#C0C0C0>1969 field modifications with new fenders,</color>
+<color=#C0C0C0>removed smoke grenade dischargers, removed headlamps, and</color>
+<color=#C0C0C0>glacis mounted spare roadwheels</color>
+<color=#B34D4D>with Centurion Mk. 2 rear turret hatch and loaders periscope position</color>"
 uk_centurion_mk_5_raac_1;Centurion Mk. 5
 uk_centurion_mk_5_raac_2;Centurion
 
@@ -52,7 +61,7 @@ uk_m1a2_sep3_abrams_2;M1
 uk_boxer_crv_block2_shop;Boxer CRV (Phase 2)
 uk_boxer_crv_block2_0;"Boxer 8x8 Combat Reconnaissance Vehicle
 <color=#C0C0C0>LAND 400 Phase 2 demonstrator</color>"
-uk_boxer_crv_block2_1;Boxer CRV (Phase 2)
+uk_boxer_crv_block2_1;Boxer CRV
 uk_boxer_crv_block2_2;Boxer
 
 // RAAF //

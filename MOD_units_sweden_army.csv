@@ -65,11 +65,13 @@ sw_strv_74_1;Strv 74 V
 sw_strv_74_2;Strv 74
 
 sw_strv_81_shop;Strv 81
-sw_strv_81_0;Stridsvagn 81
+sw_strv_81_0;"Stridsvagn 81
+<color=#C0C0C0>with F.V./C.G.E. No. I, Mk. 4</color>"
 sw_strv_81_1;Strv 81
 sw_strv_81_2;Strv 81
 sw_strv_81_rb52_shop;Strv 81 (rbs 52)
 sw_strv_81_rb52_0;"Stridsvagn 81
+<color=#C0C0C0>with F.V./C.G.E. No. I, Mk. 4</color>
 <color=#C0C0C0>robotsystem 52 test configuration</color>"
 sw_strv_81_rb52_1;Strv 81 (rbs 52)
 sw_strv_81_rb52_2;Strv 81

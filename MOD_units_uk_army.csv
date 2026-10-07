@@ -279,12 +279,14 @@ uk_centurion_mk_2_1;Centurion II
 uk_centurion_mk_2_2;Centurion
 uk_centurion_mk_3_shop;Centurion Mk. 3
 uk_centurion_mk_3_0;"Tank, Medium Gun, Centurion, Mk. 3
-<color=#C0C0C0>with F.V./C.G.E. No. 1, Mk. 3/1</color>"
+<color=#C0C0C0>with F.V./C.G.E. No. 1, Mk. 3/1</color>
+<color=#B34D4D>with Centurion Mk. 2 rear turret hatch and loaders periscope position</color>"
 uk_centurion_mk_3_1;Centurion Mk. 3
 uk_centurion_mk_3_2;Centurion
 uk_centurion_mk_5_avre_era_shop;Centurion Mk. 5 AVRE
 uk_centurion_mk_5_avre_era_0;"Tank, Assault Vehicle, Royal Engineers,
-165 mm Gun, Centurion, Mk. 5"
+165 mm Gun, Centurion, Mk. 5
+<color=#B34D4D>with Centurion Mk. 2 rear turret hatch and loaders periscope position</color>"
 uk_centurion_mk_5_avre_era_1;Centurion Mk.5 AVRE
 uk_centurion_mk_5_avre_era_2;Centurion
 uk_centurion_action_x_shop;CMT Testbed
@@ -387,7 +389,8 @@ uk_challenger_2_megatron_sm_2;Challenger 2
 // HEAVY GUN //
 
 uk_fv221_caernarvon_shop;Caernarvon Mk. 2
-uk_fv221_caernarvon_0;Tank, Medium Gun, Caernarvon, Mk. 2
+uk_fv221_caernarvon_0;"Tank, Medium Gun, Caernarvon, Mk. 2
+<color=#B34D4D>with Centurion Mk. 2 rear turret hatch</color>"
 uk_fv221_caernarvon_1;Caernarvon Mk. 2
 uk_fv221_caernarvon_2;Caernarvon
 
