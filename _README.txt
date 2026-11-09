@@ -52,3 +52,18 @@ and Bengali scripts to display correctly. If not installed, no text will be rend
     When prompted to replace the "localization.blk" file, select "Yes".
 
     8 - In order to see the custom localization in effect, either change your language in the settings or reboot the game.
+
+========================================
+========== LOCALIZATION UPDATE =========
+========================================
+
+    1 - Paste the updated files directly into the "lang" folder and overwrite all existing files.
+
+    2 - Restart the game or change the game language to see the update take effect.
+
+========================================
+=========== BROKEN TEXT KEYS ===========
+========================================
+
+    1 - If upon startup, several UI elements show their text keys instead of the intended text, this can be resolved by changing the game language, or
+        by deleting the "lang" folder and re-installing the mod.
