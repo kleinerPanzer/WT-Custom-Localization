@@ -419,12 +419,14 @@ f-4s_1;F-4S
 f-4s_2;F-4
 
 f-5a_shop;YF-5A
-f-5a_0;YF-5A-NO
+f-5a_0;"YF-5A-NO
+<color=#B34D4D>with  Countermeasures Dispensing System, AN/ALE-40</color>"
 f-5a_1;YF-5A
 f-5a_2;YF-5
 f-5c_shop;F-5C
 f-5c_0;"F-5C-NO Freedom Fighter
-<color=#E3D452>4503rd Tactical Fighter Squadron (Provisional)</color>"
+<color=#E3D452>4503rd Tactical Fighter Squadron (Provisional)</color>
+<color=#B34D4D>with  Countermeasures Dispensing System, AN/ALE-40</color>"
 f-5c_1;F-5C
 f-5c_2;F-5
 f-5e_shop;F-5E
@@ -630,7 +632,9 @@ douglas_a_1h_2;A-1
 
 shop/group/a_4b_group;A-4B / AF-1E
 a_4b_shop;A-4B
-a_4b_0;A-4B Skyhawk
+a_4b_0;"A-4B Skyhawk
+<color=#C0C0C0>ASC 200</color>
+<color=#B34D4D>without AN/APN-141 radar altimeter antennas</color>"
 a_4b_1;A-4B
 a_4b_2;A-4
 a_4e_early_shop;A-4E

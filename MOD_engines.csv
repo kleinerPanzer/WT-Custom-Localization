@@ -502,8 +502,8 @@ engine_model/1650-1;V-1650-1;
 engine_manufacturer/honeywell;Honeywell;
 engine_model/agt_1500;AGT1500;
 engine_manufacturer/perkins;Perkins;
-engine_model/cv12_6a;CV12-6A;
-engine_model/cv12_9a;CV12-9A;
+engine_model/cv12_6a;CV 12 TCA 1200, No. 3, Mk. 6A;
+engine_model/cv12_9a;CV 12 TCA 1200, No. 3, Mk. 9A;
 engine_model/di_16;DI16
 engine_manufacturer/mtu;MTU;
 engine_model/mb_838_ca_m500;MB 873 Ka-501;

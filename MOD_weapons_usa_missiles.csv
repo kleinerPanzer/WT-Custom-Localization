@@ -52,15 +52,15 @@ weapons/us_aim7p_sparrow_fa_18_default;Guided Missile, Intercept-Aerial, AIM-7P 
 weapons/us_aim7p_sparrow_fa_18_default/short;AIM-7P
 
 // M-9 //
-weapons/us_aim9b_sidewinder;Guided Missile, Intercept-Aerial, AIM-9B Sidewinder;
-weapons/us_aim9b_sidewinder/short;AIM-9B;
-weapons/us_aim9b_sidewinder_default;Guided Missile, Intercept-Aerial, AIM-9B Sidewinder;
-weapons/us_aim9b_sidewinder_default/short;AIM-9B;
-weapons/us_aim9b_sidewinder_default_group;Guided Missile, Intercept-Aerial, AIM-9B Sidewinder;
-weapons/us_aim9b_sidewinder_default_group/short;AIM-9B;
-weapons/us_aim9b_sidewinder_cwp;Guided Missile, Intercept-Aerial, AIM-9B Sidewinder;
-weapons/us_aim9b_sidewinder_cwp/short;AIM-9B;
-us_aim9b_sidewinder;Guided Missile, Intercept-Aerial, AIM-9B Sidewinder;
+weapons/us_aim9b_sidewinder;Guided Missile, Intercept-Aerial, AIM-9B-2 Sidewinder;
+weapons/us_aim9b_sidewinder/short;AIM-9B-2;
+weapons/us_aim9b_sidewinder_default;Guided Missile, Intercept-Aerial, AIM-9B-2 Sidewinder;
+weapons/us_aim9b_sidewinder_default/short;AIM-9B-2;
+weapons/us_aim9b_sidewinder_default_group;Guided Missile, Intercept-Aerial, AIM-9B-2 Sidewinder;
+weapons/us_aim9b_sidewinder_default_group/short;AIM-9B-2;
+weapons/us_aim9b_sidewinder_cwp;Guided Missile, Intercept-Aerial, AIM-9B-2 Sidewinder;
+weapons/us_aim9b_sidewinder_cwp/short;AIM-9B-2;
+us_aim9b_sidewinder;Guided Missile, Intercept-Aerial, AIM-9B-2 Sidewinder;
 
 weapons/us_aim9b_fgw_2_sidewinder;Luft-Luft-Rakete AIM-9B/FGW Mod. 2 Sidewinder;
 weapons/us_aim9b_fgw_2_sidewinder/short;AIM-9B/FGW.2;
@@ -83,11 +83,11 @@ weapons/us_aim9d_sidewinder_cwp;Guided Missile, Intercept-Aerial, AIM-9D Sidewin
 weapons/us_aim9d_sidewinder_cwp/short;AIM-9D;
 us_aim9d_sidewinder;Guided Missile, Intercept-Aerial, AIM-9D Sidewinder;
 
-weapons/us_aim9e_sidewinder;Guided Missile, Intercept-Aerial, AIM-9E Sidewinder;
-weapons/us_aim9e_sidewinder/short;AIM-9E;
-weapons/us_aim9e_sidewinder_default;Guided Missile, Intercept-Aerial, AIM-9E Sidewinder;
-weapons/us_aim9e_sidewinder_default/short;AIM-9E;
-us_aim9e_sidewinder;Guided Missile, Intercept-Aerial, AIM-9E Sidewinder;
+weapons/us_aim9e_sidewinder;Guided Missile, Intercept-Aerial, AIM-9E-2 Sidewinder;
+weapons/us_aim9e_sidewinder/short;AIM-9E-2;
+weapons/us_aim9e_sidewinder_default;Guided Missile, Intercept-Aerial, AIM-9E-2 Sidewinder;
+weapons/us_aim9e_sidewinder_default/short;AIM-9E-2;
+us_aim9e_sidewinder;Guided Missile, Intercept-Aerial, AIM-9E-2 Sidewinder;
 
 weapons/us_aim9g_sidewinder;Guided Missile, Intercept-Aerial, AIM-9G Sidewinder;
 weapons/us_aim9g_sidewinder/short;AIM-9G;
@@ -99,11 +99,11 @@ weapons/us_aim9h_sidewinder;Guided Missile, Intercept-Aerial, AIM-9H Sidewinder;
 weapons/us_aim9h_sidewinder/short;AIM-9H;
 us_aim9h_sidewinder;Guided Missile, Intercept-Aerial, AIM-9H Sidewinder;
 
-weapons/us_aim9j_sidewinder;Guided Missile, Intercept-Aerial, AIM-9J Sidewinder;
-weapons/us_aim9j_sidewinder/short;AIM-9J;
-weapons/us_aim9j_sidewinder_default;Guided Missile, Intercept-Aerial, AIM-9J Sidewinder;
-weapons/us_aim9j_sidewinder_default/short;AIM-9J;
-us_aim9j_sidewinder;Guided Missile, Intercept-Aerial, AIM-9J Sidewinder;
+weapons/us_aim9j_sidewinder;Guided Missile, Intercept-Aerial, AIM-9J-2 Sidewinder;
+weapons/us_aim9j_sidewinder/short;AIM-9J-2;
+weapons/us_aim9j_sidewinder_default;Guided Missile, Intercept-Aerial, AIM-9J-2 Sidewinder;
+weapons/us_aim9j_sidewinder_default/short;AIM-9J-2;
+us_aim9j_sidewinder;Guided Missile, Intercept-Aerial, AIM-9J-2 Sidewinder;
 
 weapons/us_aim9l_sidewinder;Guided Missile, Intercept-Aerial, AIM-9L Sidewinder;
 weapons/us_aim9l_sidewinder/short;AIM-9L;
@@ -145,14 +145,14 @@ weapons/swd_rb74m_default/short;AIM-9M;
 weapons/swd_rb74m_bol_pod;Guided Missile, Intercept-Aerial, AIM-9M-4 Sidewinder;
 weapons/swd_rb74m_bol_pod/short;AIM-9M;
 
-weapons/us_aim9n_sidewinder;Guided Missile, Intercept-Aerial, AIM-9N Sidewinder
-weapons/us_aim9n_sidewinder/short;AIM-9N
+weapons/us_aim9n_sidewinder;Guided Missile, Intercept-Aerial, AIM-9N-2 Sidewinder
+weapons/us_aim9n_sidewinder/short;AIM-9N-2
 
-weapons/us_aim9p_sidewinder;Guided Missile, Intercept-Aerial, AIM-9P-1 Sidewinder;
-weapons/us_aim9p_sidewinder/short;AIM-9P-1;
-weapons/us_aim9p_sidewinder_default;Guided Missile, Intercept-Aerial, AIM-9P-1 Sidewinder;
-weapons/us_aim9p_sidewinder_default/short;AIM-9P-1;
-us_aim9p_sidewinder;Guided Missile, Intercept-Aerial, AIM-9P-1 Sidewinder;
+weapons/us_aim9p_sidewinder;Guided Missile, Intercept-Aerial, AIM-9P-2 Sidewinder;
+weapons/us_aim9p_sidewinder/short;AIM-9P-2;
+weapons/us_aim9p_sidewinder_default;Guided Missile, Intercept-Aerial, AIM-9P-2 Sidewinder;
+weapons/us_aim9p_sidewinder_default/short;AIM-9P-2;
+us_aim9p_sidewinder;Guided Missile, Intercept-Aerial, AIM-9P-2 Sidewinder;
 weapons/us_aim9p4_sidewinder;Guided Missile, Intercept-Aerial, AIM-9P-4 Sidewinder;
 weapons/us_aim9p4_sidewinder/short;AIM-9P-4;
 weapons/us_aim9p4_sidewinder_default;Guided Missile, Intercept-Aerial, AIM-9P-4 Sidewinder;
@@ -188,6 +188,10 @@ weapons/rocket_rim_24_a_naval_rocket_launcher;RIM-24 Launcher;
 weapons/rocket_rim_24_a_naval_rocket_launcher/short;RIM-24;
 rim_24;RIM-24A
 rim_24b;RIM-24B
+
+// M-26//
+weapons/us_aim_26b;Guided Missile, Intercept-Aerial, AIM-26B Falcon
+weapons/us_aim_26b/short;AIM-26B
 
 // M-45 //
 weapons/us_agm_45a_1;Guided Missile, Surface Attack, AGM-45A-1 Shrike

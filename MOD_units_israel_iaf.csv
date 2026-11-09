@@ -62,16 +62,19 @@ p-51d-20-na_iaf_2;P-51
 a_4e_late_iaf_shop;A-4E (AFC-482) 
 a_4e_late_iaf_0;"קוהייקס A-4E
 <color=#C0C0C0>AFC 482</color>
+<color=#C0C0C0>with Canons de 30 mm DEFA 552</color>
 <color=#E3D452>140 תסייט</color>"
 a_4e_late_iaf_1;A-4E 
 a_4e_late_iaf_2;A-4
 a_4e_early_iaf_shop;A-4E (AFC 418) 
 a_4e_early_iaf_0;"קוהייקס A-4E
-<color=#C0C0C0>AFC 418</color>"
+<color=#C0C0C0>AFC 418</color>
+<color=#C0C0C0>with Canons de 30 mm DEFA 552</color>"
 a_4e_early_iaf_1;A-4E 
 a_4e_early_iaf_2;A-4
 a_4h_shop;A-4H 
-a_4h_0; קוהייקס A-4H
+a_4h_0;"קוהייקס A-4H
+<color=#C0C0C0>with Canons de 30 mm DEFA 552</color>"
 a_4h_1;A-4H 
 a_4h_2;A-4
 a_4n_shop;A-4N 
@@ -109,7 +112,8 @@ md_454_mystere_4a_iaf_1;IVA רטסימ 
 md_454_mystere_4a_iaf_2;רטסימ
 
 md_460_sambad_shop;B2 רטסימ-רפוס 
-md_460_sambad_0;B2 רטסימ-רפוס M.D.460
+md_460_sambad_0;"B2 רטסימ-רפוס M.D.460
+<color=#C0C0C0>Nov 1958 production with Israeli specifications</color>"
 md_460_sambad_1;B2 רטסימ-רפוס 
 md_460_sambad_2;רטסימ-רפוס
 md_460_saar_shop;רעס

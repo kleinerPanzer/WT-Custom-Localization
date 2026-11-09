@@ -10,6 +10,8 @@ weapons/us_750lb_m117_cone_45_japan;340kg普通爆弾 M117;
 weapons/us_750lb_m117_cone_45_japan/short;340kg M117;
 weapons/jp_750lb_m117_gcs_1;340kg普通爆弾 M117 (91式爆弾用誘導装置);
 weapons/jp_750lb_m117_gcs_1/short;340kg M117 (GCS-1);
+weapons/jp_500lb_mk82_gcs_1;Bomb, Low-Drag, Mk 82 Mod 1 (91式爆弾用誘導装置);
+weapons/jp_500lb_mk82_gcs_1/short;Mk 82 Mod 1 (GCS-1);
 
 weapons/jp_i_aaq2_targeting_pod;外装型FLIR装置J/AAQ-2
 weapons/jp_i_aaq2_targeting_pod/short;J/AAQ-2
