@@ -13,24 +13,27 @@ uk_ac1_sentinel_0;Tank, Cruiser, Australian, Mk. I
 uk_ac1_sentinel_1;Australian Cruiser Mk. I
 uk_ac1_sentinel_2;Australian Cruiser
 
-uk_ac4_thunderbolt_shop;Australian Cruiser Mk. IV
-uk_ac4_thunderbolt_0;Tank, Cruiser, Australian, Mk. IV
+uk_ac4_thunderbolt_shop;Australian Cruiser Mk. III (17-pr.
+uk_ac4_thunderbolt_0;"Australian Cruiser Tank Mk. III
+<color=#C0C0C0>Pilot No. 2</color>
+<color=#B34D4D>with Ordnance, Q.F., 17-pr., Mk. II (Aust.)</color>"
 uk_ac4_thunderbolt_1;Australian Cruiser Mk. IV
 uk_ac4_thunderbolt_2;Australian Cruiser
 
 // CW/Modern //
 uk_centurion_mk_5_raac_shop;Centurion Mk. 5/1
 uk_centurion_mk_5_raac_0;"Tank, Medium Gun, Centurion, Mk. 5/1
-<color=#C0C0C0>with late production turret and Type B gun barrel</color>
+<color=#C0C0C0>with late production turret and 20-pr. B-Type gun barrel</color>
 <color=#C0C0C0>1968 modifications with pintle mounted Machine Gun,</color>
-<color=#C0C0C0>.30 Caliber, L3A4, additional roof ammunition stowage,</color>
-<color=#C0C0C0>coaxial Machine Gun, .50 Caliber, L6A1 ranging gun, additional</color>
-<color=#C0C0C0>external rear fuel tank, Infra Red night vision</color>
-<color=#C0C0C0>equipment, and turret stowage basket</color>
-<color=#C0C0C0>1969 field modifications with new fenders,</color>
+<color=#C0C0C0>.30 Caliber, L3A4 + additional roof ammunition stowage,</color>
+<color=#C0C0C0>coaxially mounted Machine Gun, .50 Caliber, L6A1 ranging gun,</color>
+<color=#C0C0C0>additional external rear fuel tank</color>
+<color=#C0C0C0>and Infra Red night vision equipment + turret stowage basket</color>
+<color=#C0C0C0>1969 field modifications with replaced fenders,</color>
 <color=#C0C0C0>removed smoke grenade dischargers, removed headlamps, and</color>
 <color=#C0C0C0>glacis mounted spare roadwheels</color>
-<color=#B34D4D>with Centurion Mk. 2 rear turret hatch and loaders periscope position</color>"
+<color=#B34D4D>with Centurion Mk. 2 rear turret hatch</color>
+<color=#B34D4D>and loaders periscope position</color>"
 uk_centurion_mk_5_raac_1;Centurion Mk. 5
 uk_centurion_mk_5_raac_2;Centurion
 

@@ -17,7 +17,7 @@ weapons/gunBrowning50_raf_turret/short;AN/M2
 
 weapons/gunVikkersE;Gun, Machine, Vickers, .303-inch, Mk. V
 weapons/gunVikkersE/short;Vickers Mk. V
-weapons/7_7mm_Vikkers_user_machinegun;Gun, Machine, Vickers, .303-inch, Mk. VII
+weapons/7_7mm_Vikkers_user_machinegun;Gun, Machine, Vickers, .303-inch, Mk. VII / XXI
 weapons/gunVikkersK;Gun, Machine, Vickers G.O., .303-inch, No. 1, Mk. I
 weapons/gunVikkersK/short;Vickers G.O. Mk. I
 weapons/gunVikkersK_turret;Gun, Machine, Vickers G.O., .303-inch, No. 1, Mk. I
@@ -331,7 +331,6 @@ weapons/30mm_L21A1_RARDEN_user_cannon;Ordnance, 30-mm Gun, L21A1 (RARDEN);
 
 
 weapons/105mm_L7_user_cannon;Ordnance, QF, 105-mm, Tk, L7A1;
-weapons/105mm_L7_Shot_user_cannon;Ordnance, QF, 105-mm, Tk, L7A1;
 weapons/105mm_L7_Mk_3_user_cannon;Ordnance, QF, 105-mm, Tk, L7A1;
 105mm_l28a1;APDS-T, L28A1;
 105mm_l52a1;APDS-T, L52A1
@@ -341,7 +340,7 @@ weapons/120mm_QQF_Tk_L1A1_user_cannon;Ordnance, QF, 120-mm, Tk, L1A1;
 120mm_l1tk;HESH-T, L1TK;
 120mm_l1g;APDS-T, L1G;
 
-weapons/120mm_OBL_Tk_L11_user_cannon;Ordnance, BL, 120-mm, Tk, L11A5;
+weapons/120mm_OBL_Tk_L11_user_cannon;Ordnance, BL, 120-mm, Tk, L11A1 / L11A5;
 weapons/120mm_L11A5_user_cannon;Ordnance, BL, 120-mm, Tk, L11A5;
 weapons/120mm_L11A5_Mk3_user_cannon;Ordnance, BL, 120-mm, Tk, L11A5;
 weapons/120mm_L11A5_Mk3_Vickers_user_cannon;Ordnance, BL, 120-mm, Tk, L11A5;

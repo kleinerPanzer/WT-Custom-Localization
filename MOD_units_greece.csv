@@ -35,7 +35,9 @@ f_4e_aup_greece_1;◐ F-4E
 f_4e_aup_greece_2;F-4
 
 f_102a_greece_shop;◐ F-102A-65
-f_102a_greece_0;Αεροσκάφος F-102A-65 Delta Dagger
+f_102a_greece_0;"Αεροσκάφος F-102A-65 Delta Dagger
+<color=#C0C0C0>1960 modifications</color>
+<color=#B34D4D>with AIM-4 Falcon capability</color>"
 f_102a_greece_1;◐ F-102A-65
 f_102a_greece_2;F-102
 

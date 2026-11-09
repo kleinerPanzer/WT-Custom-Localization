@@ -27,7 +27,8 @@ uk_ystervark_spaa_1;Ystervark
 uk_ystervark_spaa_2;Ystervark
 
 uk_g6_spg_shop;G6-45
-uk_g6_spg_0;G6-45 Renoster Self-Propelled Howitzer
+uk_g6_spg_0;"G6-45 Renoster Self-Propelled Howitzer
+<color=#C0C0C0>with external equipment bushguards</color>"
 uk_g6_spg_1;G6-45
 uk_g6_spg_2;G6-45
 
@@ -35,9 +36,9 @@ uk_ratel_20_shop;Ratel 20 Mk. 3
 uk_ratel_20_0;Infantry Combat Vehicle, Ratel 20 Mk. 3
 uk_ratel_20_1;Ratel 20 Mk. 3
 uk_ratel_20_2;Ratel
-uk_ratel_zt3_shop;Ratel ZT3 Mk. 3
-uk_ratel_zt3_0;Fire Support Vehicle, Ratel ZT3 Mk. 3
-uk_ratel_zt3_1;Ratel ZT3 Mk. 3
+uk_ratel_zt3_shop;Ratel ZT3A2 Mk. 3
+uk_ratel_zt3_0;Fire Support Vehicle, Ratel ZT3A2 Mk. 3
+uk_ratel_zt3_1;Ratel ZT3A2 Mk. 3
 uk_ratel_zt3_2;Ratel
 uk_ratel_90_shop;Ratel 90 Mk. 3
 uk_ratel_90_0;Fire Support Vehicle, Ratel 90 Mk. 3
@@ -76,7 +77,7 @@ uk_rooikat_za_35_1;ZA-35
 uk_rooikat_za_35_2;ZA-35
 
 uk_badger_shop;Badger
-uk_badger_0;"Infantry Combat Vehicle, Badger
+uk_badger_0;"Infantry Combat Vehicle, Badger, Fire Support Variant
 <color=#C0C0C0>2018 modifications</color>"
 uk_badger_1;Badger
 uk_badger_2;Badger

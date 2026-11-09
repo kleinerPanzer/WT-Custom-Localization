@@ -309,9 +309,9 @@ f-100d_0;"F-100D-66-NA Super Sabre
 f-100d_1;F-100D
 f-100d_2;F-100
 
-f_101c_shop;F-101C
-f_101c_0;F-101C Voodoo
-f_101c_1;F-101C
+f_101c_shop;F-101A-20
+f_101c_0;F-101A-20-MC Voodoo
+f_101c_1;F-101A
 f_101c_2;F-101
 
 shop/group/f-104_group;F-104A-20 / F-104C-10
@@ -340,7 +340,8 @@ f-105d_japan_killstreak_2;F-105
 f_102a_late_shop;F-102A-95
 f_102a_late_0;"F-102A-95-CO Delta Dagger
 <color=#C0C0C0>Project Big Eight</color>
-<color=#C0C0C0>1972 modifications</color>"
+<color=#C0C0C0>1972 modifications</color>
+<color=#B34D4D>with AIM-4 Falcon capability</color>"
 f_102a_late_1;F-102A
 f_102a_late_2;F-102
 

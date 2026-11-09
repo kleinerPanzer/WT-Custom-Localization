@@ -280,13 +280,15 @@ uk_centurion_mk_2_2;Centurion
 uk_centurion_mk_3_shop;Centurion Mk. 3
 uk_centurion_mk_3_0;"Tank, Medium Gun, Centurion, Mk. 3
 <color=#C0C0C0>with F.V./C.G.E. No. 1, Mk. 3/1</color>
-<color=#B34D4D>with Centurion Mk. 2 rear turret hatch and loaders periscope position</color>"
+<color=#B34D4D>with Centurion Mk. 2 rear turret hatch</color>
+<color=#B34D4D>and loaders periscope position</color>"
 uk_centurion_mk_3_1;Centurion Mk. 3
 uk_centurion_mk_3_2;Centurion
 uk_centurion_mk_5_avre_era_shop;Centurion Mk. 5 AVRE
 uk_centurion_mk_5_avre_era_0;"Tank, Assault Vehicle, Royal Engineers,
 165 mm Gun, Centurion, Mk. 5
-<color=#B34D4D>with Centurion Mk. 2 rear turret hatch and loaders periscope position</color>"
+<color=#B34D4D>with Centurion Mk. 2 rear turret hatch</color>
+<color=#B34D4D>and loaders periscope position</color>"
 uk_centurion_mk_5_avre_era_1;Centurion Mk.5 AVRE
 uk_centurion_mk_5_avre_era_2;Centurion
 uk_centurion_action_x_shop;CMT Testbed

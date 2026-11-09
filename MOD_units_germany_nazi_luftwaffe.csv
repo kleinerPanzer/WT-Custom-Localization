@@ -57,6 +57,11 @@ bf-109e-3-ace_shop;Bf 109 E-3
 bf-109e-3-ace_0;Bf 109 E-3
 bf-109e-3-ace_1;Bf 109 E
 bf-109e-3-ace_2;Bf 109
+bf-109e-3_tl_shop;⋦ Bf 109 E-3
+bf-109e-3_tl_0;"Bf 109 E-3
+<color=#E3D452>⋦ Twitch Drop ⋦</color>"
+bf-109e-3_tl_1;Bf 109 E
+bf-109e-3_tl_2;Bf 109
 bf-109e-4_shop;Bf 109 E-4
 bf-109e-4_0;Bf 109 E-4
 bf-109e-4_1;Bf 109 E
@@ -306,6 +311,12 @@ fw-190f-8_0;Fw 190 F-8
 fw-190f-8_1;Fw 190 F
 fw-190f-8_2;Fw 190
 
+fw_190a_8_mistel_shop;"Mistel 2 (Leitflugzeug)"
+fw_190a_8_mistel_0;"Mistel 2 (Ju 88 G-1 – Fw 190 A-8)
+Fw 190 A-8 als Leitflugzeug"
+fw_190a_8_mistel_1;Mistel 2 (Leitflugzeug)
+fw_190a_8_mistel_2;Mistel 2
+
 shop/group/ta-152_group;Ta 152 H-1 / Ta 152 C-3
 ta-152c_shop;Ta 152 C-3
 ta-152c_0;Ta 152 C-3
@@ -468,6 +479,14 @@ ju-88c-6_shop;Ju 88 C-6
 ju-88c-6_0;Ju 88 C-6
 ju-88c-6_1;Ju 88 C
 ju-88c-6_2;Ju 88
+
+ju_88g_1_mistel_shop;Mistel 2 (Sprengstoffträger)
+ju_88g_1_mistel_0;"Mistel 2 (Ju 88 G-1 – Fw 190 A-8)
+Ju 88 G-1 als Sprengstoffträger"
+ju_88g_1_mistel_1;Mistel 2 (Sprengstoffträger)
+ju_88g_1_mistel_2;Mistel 2
+weapons/de_ju_88g_1_mistel;Mistel 2 (Sprengstoffträger)
+weapons/de_ju_88g_1_mistel/short;Mistel
 
 ju-188a-2_shop;Ju 188 A-2
 ju-188a-2_0;Ju 188 A-2

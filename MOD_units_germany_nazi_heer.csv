@@ -332,6 +332,7 @@ germ_jgdpz_IV_L48_0;"Panzerjäger IV (7,5 cm Pa.K. 39 L/48) Ausf. F
 <color=#C0C0C0>Jan 1944 production</color>"
 germ_jgdpz_IV_L48_1;Jagdpanzer IV
 germ_jgdpz_IV_L48_2;Jagdpanzer IV
+
 germ_panzerjager_panther_shop;Jagdpanther G1
 germ_panzerjager_panther_0;"Panzerjäger Panther (8,8 cm) Ausf. G1
 <color=#C0C0C0>Sep 1944 production</color>"
@@ -342,6 +343,12 @@ germ_panzerbefelhswagen_jagdpanther_0;"Befehlswagen Panzerjäger Panther (8,8 cm
 <color=#C0C0C0>Jul 1944 production</color>"
 germ_panzerbefelhswagen_jagdpanther_1;Bfw. Jagdpanther
 germ_panzerbefelhswagen_jagdpanther_2;Bfw. Jagdpanther
+germ_panzerjager_panther_g2_shop;Jagdpanther G2
+germ_panzerjager_panther_g2_0;"Panzerjäger Panther (8,8 cm) Ausf. G2
+<color=#C0C0C0>Jan 1945 production</color"
+germ_panzerjager_panther_g2_1;Jagdpanther
+germ_panzerjager_panther_g2_2;Jagdpanther
+
 germ_panzerjager_tiger_P_elefant_shop;Elefant
 germ_panzerjager_tiger_P_elefant_0;"Panzerjäger Tiger (P) (8,8 cm Pa.K. 43/2 (L/71))"
 germ_panzerjager_tiger_P_elefant_1;Elefant

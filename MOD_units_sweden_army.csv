@@ -55,7 +55,8 @@ sw_strv_m42_eh_0;Stridsvagn m/42 EH
 sw_strv_m42_eh_1;Strv m/42 EH
 sw_strv_m42_eh_2;Strv m/42
 sw_strv_m42_delat_torn_shop;Strv m/42 DT
-sw_strv_m42_delat_torn_0;Stridsvagn m/42 DT
+sw_strv_m42_delat_torn_0;"Stridsvagn m/42 DT
+<color=#B34D4D>fictional conversion from strv m/42 EM</color>"
 sw_strv_m42_delat_torn_1;Strv m/42 DT
 sw_strv_m42_delat_torn_2;Strv m/42
 
@@ -66,18 +67,25 @@ sw_strv_74_2;Strv 74
 
 sw_strv_81_shop;Strv 81
 sw_strv_81_0;"Stridsvagn 81
-<color=#C0C0C0>with F.V./C.G.E. No. I, Mk. 4</color>"
+<color=#C0C0C0>with F.V./C.G.E. No. 1, Mk. 4</color>
+<color=#B34D4D>with Centurion Mk. 2 rear turret hatch</color>
+<color=#B34D4D>and loaders periscope position</color>"
 sw_strv_81_1;Strv 81
 sw_strv_81_2;Strv 81
 sw_strv_81_rb52_shop;Strv 81 (rbs 52)
 sw_strv_81_rb52_0;"Stridsvagn 81
-<color=#C0C0C0>with F.V./C.G.E. No. I, Mk. 4</color>
-<color=#C0C0C0>robotsystem 52 test configuration</color>"
+<color=#C0C0C0>with F.V./C.G.E. No. 1, Mk. 4</color>
+<color=#C0C0C0>robotsystem 52 test configuration</color>
+<color=#B34D4D>with Centurion Mk. 2 rear turret hatch</color>
+<color=#B34D4D>and loaders periscope position</color>"
 sw_strv_81_rb52_1;Strv 81 (rbs 52)
 sw_strv_81_rb52_2;Strv 81
 uk_centurion_mk_3_ss11_shop;▄ Strv 81 (rbs 52)
 uk_centurion_mk_3_ss11_0;"Stridsvagn 81
-<color=#C0C0C0>robotsystem 52 test configuration</color>"
+<color=#C0C0C0>with F.V./C.G.E. No. 1, Mk. 4</color>
+<color=#C0C0C0>robotsystem 52 test configuration</color>
+<color=#B34D4D>with Centurion Mk. 2 rear turret hatch</color>
+<color=#B34D4D>and loaders periscope position</color>"
 uk_centurion_mk_3_ss11_1;▄ Strv 81 (rbs 52)
 uk_centurion_mk_3_ss11_2;Strv 81
 
