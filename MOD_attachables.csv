@@ -230,11 +230,11 @@ attachables/vgt_palm_banana_e;Banana Leaves (Type C);
 attachables/vgt_palm_banana_d;Banana Leaves (Type D);
 attachables/vgt_straw_bales_a;Straw (Type A);
 attachables/vgt_straw_bales_b;Straw (Type B);
-attachables/decor_flashing_light;Rotating emergency light;
+attachables/decor_flashing_light;Rotating Emergency Light;
 attachables/sign_stand_shoot;Stop, shoot! sign;
-attachables/decor_training_mine;Training mine;
-attachables/vespiary;Hornet's nest;
-attachables/sailing_catamaran;Sailing catamaran;
+attachables/decor_training_mine;Training Mine;
+attachables/vespiary;Hornet's Nest;
+attachables/sailing_catamaran;Sailing Catamaran;
 attachables/helmet_shin_kazama;Shin Kazama's Helmet;
 attachables/helmet_kim_aba;Kim Aba's Helmet;
 attachables/helmet_kitri;Kitri Parvaneh's Helmet;
@@ -255,15 +255,15 @@ attachables/decor_guard_post;Guard Post;
 attachables/decor_crown;Crown;
 attachables/scepter;Royal Scepter;
 attachables/trb_seal;Bajur;
-attachables/decor_heraldic_shield;Heraldic shield;
-attachables/decor_pelta_shield;Pelta shield;
+attachables/decor_heraldic_shield;Heraldic Shield;
+attachables/decor_pelta_shield;Pelta Shield;
 attachables/football_tank_cup;Trophy: Best Striker 2023;
 attachables/decor_black_quadrocopter;Quadcopter;
 attachables/exs_pilot_helmet;Tactical Helmet;
 attachables/decor_shako;Shako;
-attachables/decor_cavalryman_statue;Cavalry statue;
-attachables/decor_dakimakura_anime_usa;Stars and Stripes dakimakura;
-attachables/decor_dakimakura_anime_ussr;Motherland Maiden dakimakura;
+attachables/decor_cavalryman_statue;Cavalry Statue;
+attachables/decor_dakimakura_anime_usa;Stars and Stripes Dakimakura;
+attachables/decor_dakimakura_anime_ussr;Motherland Maiden Dakimakura;
 attachables/decor_puzzle_lock;Puzzle Door Lock;
 attachables/decor_puzzle_lock/desc;A puzzle door lock from Atomic Heart.;
 attachables/decor_shved;Swede axe;
@@ -274,13 +274,13 @@ attachables/decor_eagle_head;Eagle of Valor;
 attachables/decor_eagle_head/desc;An eagle head decoration from Atomic Heart.;
 attachables/decor_bagpack;ILBE Rucksack;
 attachables/decor_bagpack/desc;
-attachables/decor_themis_drone;Crawler-type drone;
+attachables/decor_themis_drone;Tracked Drone;
 attachables/decor_bmx;BMX Bicycle;
 attachables/jet_ski;Jet Ski;
-attachables/decor_molotov_box;Molotov cocktail;
+attachables/decor_molotov_box;Molotov Cocktail;
 attachables/waka_boat;Waka;
-attachables/decor_lifeboat_carley_float;Carley float;
-attachables/decor_emergency_buoy;Emergency buoy;
+attachables/decor_lifeboat_carley_float;Carley Float;
+attachables/decor_emergency_buoy;Emergency Buoy;
 attachables/death_valley_sign;Death Valley sign;
 attachables/decor_club_night_battles;Club Night Battles sign;
 attachables/decor_christmas_board;New Year sign;
@@ -297,7 +297,7 @@ attachables/decor_goalkeeper_cup;Golden Sheridan 2024;
 attachables/decor_wheel_spike_md;Spikes;
 attachables/decor_metal_flame_md;Iron Flame;
 attachables/travel_gramophone;Gramophone;
-attachables/decor_auction;Acutioneer's gavel;
+attachables/decor_auction;Acutioneer's Gavel;
 attachables/pisang;Banana;
 attachables/seikat_pisang;Bunch of Bananas;
 attachables/decor_mantelet;Mantelet;
@@ -320,19 +320,19 @@ attachables/decor_reddit_500k/desc;In honor of half a million subscribers on WT 
 attachables/decor_dakimakura_anime_elsa;Dakimakura "Elsa"
 attachables/decor_dakimakura_anime_kate;Dakimakura "Kate"
 attachables/decor_dakimakura_anime_maria;Dakimakura "Maria"
-attachables/decor_christmas_gnome_deer;Garden gnome deer
+attachables/decor_christmas_gnome_deer;Garden Gnome Deer
 attachables/decor_disco_sphere;Christmas Disco Ball
 attachables/decor_christmas_dodge;Christmas Pickup Truck
-attachables/decor_christmas_backpack;Christmas backpack
-attachables/decor_firework;Firework mortar
+attachables/decor_christmas_backpack;Christmas Backpack
+attachables/decor_firework;Firework Mortar
 attachables/decor_firework/desc;Launches fireworks when destroying enemy vehicles
-attachables/decor_christmas_gazebo;Christmas gazebo
+attachables/decor_christmas_gazebo;Christmas Gazebo
 attachables/decor_blunderbuss;Blunderbuss
 attachables/decor_pistol;Pistol
-attachables/decor_paintball_mask;Paintball helmet
-attachables/decor_paintball_marker;Paintball marker
-attachables/decor_fire_horse;Horse figurine
-attachables/decor_cheer_heybox_guai;Cheer fors
+attachables/decor_paintball_mask;Paintball Helmet
+attachables/decor_paintball_marker;Paintball Marker
+attachables/decor_fire_horse;Horse Figurine
+attachables/decor_cheer_heybox_guai;Cheer Fors
 attachables/decor_tank_match_cup;Tank of the Match
 attachables/decor_kopis_sword;Kopis
 attachables/decor_corinthian_helmet;Corinthian Helmet
@@ -343,9 +343,9 @@ attachables/decor_dakimakura_anime_usagi_a;Dakimakura "Usagi"
 attachables/decor_dakimakura_anime_usagi_b;Dakimakura "Usagi on the Beach"
 attachables/decor_trb_seal_paper_box;Badger's Sekrit Documents
 attachables/decor_shamshir;Shamshir
-attachables/decor_military_raft;Homemade raft
-attachables/decor_mortar_hammer;Homemade sledgehammer
-attachables/decor_era_kontakt_1;Reactive armour
+attachables/decor_military_raft;Homemade Raft
+attachables/decor_mortar_hammer;Homemade Sledgehammer
+attachables/decor_era_kontakt_1;Контакт-1
 attachables/type98_shin_gunto_ten;Ten of Swords
 attachables/type98_shin_gunto_ten/desc;To celebrate the 10th anniversary of the launch of War Thunder in Japan on DMM GAMES, this 3D decoration for ground vehicles features a military sword imbued with the spirit of the samurai, symbolizing mutual support.
 attachables/decor_fox_girl;Tadano Kitsune
