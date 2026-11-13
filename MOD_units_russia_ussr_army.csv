@@ -615,7 +615,7 @@ ussr_pzkpfw_III_ausf_J_L42_1;▂ Т-III
 ussr_pzkpfw_III_ausf_J_L42_2;Т-III
 
 ussr_pzkpfw_V_shop;▂ Т-V
-ussr_pzkpfw_V_0;"Тяжелый танк Т-V «Пантера»
+ussr_pzkpfw_V_0;"Тяжёлый танк Т-V «Пантера»
 <color=#C0C0C0>Mar 1944 production</color>
 <color=#E3D452>8-й гвардейский танковый корпус</color>"
 ussr_pzkpfw_V_1;▂ Т-V
@@ -1055,7 +1055,7 @@ ussr_ba_11_2;БА-11
 // AVTOMOBILI //
 ussr_gaz_dshk_shop;ГАЗ ААА (ДШК)
 ussr_gaz_dshk_0;"Автомобиль ГАЗ ААА
-<color=#C0C0C0>с пулеметом ДШК</color>"
+<color=#C0C0C0>с пулемётом ДШК</color>"
 ussr_gaz_dshk_1;ГАЗ ААА (ДШК)
 ussr_gaz_dshk_2;ГАЗ ААА
 
