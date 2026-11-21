@@ -62,7 +62,7 @@ modification/atgm_spike_nlos/desc;Allows installation of {unlockWeapons} missile
 modification/atgm_spike_nlos_mitl/desc;Allows installation of {unlockWeapons} missiles.
 modification/atgm_spike_nlos_mitl;Spike NLOS
 
-modification/is_delilah/desc;Allows the installation of (EO) דלילה guided missiles.
+modification/is_delilah/desc;Allows installation of (EO) דלילה guided missiles.
 modification/is_delilah;(EO) דלילה
-modification/is_delilah_ir/desc;Allows the installation of (IR) דלילה guided missiles.
+modification/is_delilah_ir/desc;Allows installation of (IR) דלילה guided missiles.
 modification/is_delilah_ir;(IR) דלילה

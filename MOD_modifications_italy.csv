@@ -63,5 +63,5 @@ modification/it_pdlct_s_pod;CLDP;
 
 // TORPEDOES //
 modification/s79a_tbc;TBC-79;
-modification/s79a_tbc/desc;Allows installation of {unlockWeapons} torpedo.;
+modification/s79a_tbc/desc;Allows installation of {unlockWeapons} torpedoes.;
 

@@ -5,7 +5,7 @@ modification/fr_75kg;75 kg;
 modification/fr_150kg/desc;Allows installation of {unlockWeapons} bombs.;
 modification/fr_150kg;150 kg;
 modification/fr_40cm_1926;1926DA;
-modification/fr_40cm_1926/desc;Allows installation of {unlockWeapons} torpedo.;
+modification/fr_40cm_1926/desc;Allows installation of {unlockWeapons} torpedoes.;
 modification/fr_750lb_m117;M117;
 modification/fr_750lb_m117/desc;Allows installation of {unlockWeapons} bombs.;
 modification/fr_bgl400/desc;Allows installation of {unlockWeapons} bombs.;
@@ -87,13 +87,13 @@ modification/nord_as_20/desc;Allows installation of {unlockWeapons} missiles.;
 modification/nord_as_30;AS 30;
 modification/nord_as_30/desc;Allows installation of {unlockWeapons} missiles.;
 modification/fr_mirage_f1c_cc_420_gunpod;CC-420;
-modification/fr_mirage_f1c_cc_420_gunpod/desc;Allows installation of CC-420 gun pods.;
+modification/fr_mirage_f1c_cc_420_gunpod/desc;Allows installation of {unlockWeapons} cannons in CC-420 gun pods.;
 modification/fr_cc630_gun_pod;CC-630;
-modification/fr_cc630_gun_pod/desc;Allows installation of CC-630 gun pods.;
+modification/fr_cc630_gun_pod/desc;Allows installation of {unlockWeapons} cannons in CC-630 gun pods.;
 modification/fr_cc422_gun_pod;CC-422
-modification/fr_cc422_gun_pod/desc;Allows installation of CC-422 gun pods.
+modification/fr_cc422_gun_pod/desc;Allows installation of {unlockWeapons} cannons in CC-422 gun pods.
 modification/mb_175_lbt_130;LBT 130;
-modification/mb_175_lbt_130/desc;Allows installation of {unlockWeapons} torpedo.;
+modification/mb_175_lbt_130/desc;Allows installation of {unlockWeapons} torpedoes.;
 modification/fr_50kg_type_61c/desc;Allows installation of {unlockWeapons} bombs.;
 modification/fr_50kg_type_61c;Type 61C;
 modification/sa_ss11/desc;Allows installation of {unlockWeapons} missiles.;
@@ -132,10 +132,10 @@ modification/tiger_hot3/desc;Allows installation of {unlockWeapons} missiles.;
 modification/tiger_hot3;HOT-3;
 modification/tiger_tel12/desc;Allows installation of {unlockWeapons} rockets.;
 modification/tiger_tel12;TELSON 12;
-modification/tiger_hmp400_lcc;FN HMP400 LCC;
-modification/tiger_hmp400_lcc/desc;Allows installation of gun pods FN HMP400 LCC.;
-modification/tiger_rmp_lc;FN RMP LC;
-modification/tiger_rmp_lc/desc;Allows installation of gun pods FN RMP LC.;
+modification/tiger_hmp400_lcc;HMP400 LCC;
+modification/tiger_hmp400_lcc/desc;Allows installation of {unlockWeapons} machine guns in HMP400 LCC gun pods.;
+modification/tiger_rmp_lc;RMP LC;
+modification/tiger_rmp_lc/desc;Allows installation of {unlockWeapons} machine guns in RMP LC gun pods.;
 modification/fr_pgm_tv/desc;Allows installation of {unlockWeapons} bombs.
 modification/fr_pgm_tv;PGM 500/2 / 2000/2
 modification/fr_pgm_ir/desc;Allows installation of {unlockWeapons} bombs.

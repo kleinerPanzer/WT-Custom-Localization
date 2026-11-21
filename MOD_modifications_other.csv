@@ -87,16 +87,16 @@ modification/tr_fz49/desc;Allows installation of {unlockWeapons} rockets in HL-1
 modification/tr_fz49;HL-19-70;
 
 // BELGIUM //
-modification/fr_fz275/desc;Allows the installation of {unlockWeapons} rockets.
+modification/fr_fz275/desc;Allows installation of {unlockWeapons} rockets.
 modification/fr_fz275;FZ275 LGR
-modification/fn_hmp400_lcc;FN HMP400 LCC / LTC;
-modification/fn_hmp400_lcc/desc;Allows installation of FN HMP400 LCC and LTC gun pods.;
-modification/fn_hmp400;FN HMP400 LCC;
-modification/fn_hmp400/desc;Allows installation of FN HMP400 LCC gun pods.;
-modification/fn_rmp_lc;FN RMP LC / LTC;
-modification/fn_rmp_lc/desc;Allows installation of FN RMP LC and LTC gun pods.;
-modification/fn_rmp;FN RMP LC;
-modification/fn_rmp/desc;Allows installation of FN RMP LC gun pods.;
+modification/fn_hmp400_lcc;HMP400 LCC / LTC;
+modification/fn_hmp400_lcc/desc;Allows installation of {unlockWeapons} machine guns in HMP400 LCC and LTC gun pods.;
+modification/fn_hmp400;HMP400 LCC;
+modification/fn_hmp400/desc;Allows installation of {unlockWeapons} machine guns in HMP400 LCC gun pods.;
+modification/fn_rmp_lc;RMP LC / LTC;
+modification/fn_rmp_lc/desc;Allows installation of {unlockWeapons} machine guns in RMP LC and LTC gun pods.;
+modification/fn_rmp;RMP LC;
+modification/fn_rmp/desc;Allows installation of {unlockWeapons} machine guns in RMP LC gun pods.;
 
 // INDIA //
 
