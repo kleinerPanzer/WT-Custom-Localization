@@ -44,6 +44,7 @@ loading_bg/login_layer_atomic_thunder_twins_01;Atomic Heart — МиГ-15
 loading_bg/login_layer_atomic_thunder_twins_02;Atomic Heart — War Machines
 loading_bg/login_layer_avre;Centurion Mk. 5 AVRE
 loading_bg/login_layer_aw_159;Wildcat HMA.2
+loading_bg/login_layer_aw_249_pre_serie;AH-249A
 loading_bg/login_layer_b1;PBY-5
 loading_bg/login_layer_b1_bis;B1 bis
 loading_bg/login_layer_battlecruiser_alaska;Alaska (CB 1)
@@ -58,6 +59,7 @@ loading_bg/login_layer_black_night;Challenger 2 BN
 loading_bg/login_layer_bmp3;БМП-3
 loading_bg/login_layer_bmpt_72;БМПТ-72 & БМПТ
 loading_bg/login_layer_bo_105;PAH 1
+loading_bg/login_layer_btr_90_2004;БТР-90
 loading_bg/login_layer_c1;F-86A-5
 loading_bg/login_layer_call_of_the_dragon;Объ. 292
 loading_bg/login_layer_centurion_mk2;Centurion II
@@ -81,6 +83,7 @@ loading_bg/login_layer_f20;F-20A
 loading_bg/login_layer_f2s19m1_msta_s;2С19М1
 loading_bg/login_layer_f_117;F-117A OCIP II
 loading_bg/login_layer_f_14a;F-14A-135
+loading_bg/login_layer_f_15ex;F-15EX
 loading_bg/login_layer_f_4_marathon;Operation S.U.M.M.E.R. — 2018
 loading_bg/login_layer_f_4_phantom;F-4C-25
 loading_bg/login_layer_f_4f_lws_lv;◄ F-4F KWS-LV
@@ -92,7 +95,7 @@ loading_bg/login_layer_fire_and_forget;Update "Tusk Force" — Attack Helicopter
 loading_bg/login_layer_fokker_g1a;G.I Mercury
 loading_bg/login_layer_football;Tank Football
 loading_bg/login_layer_football_event_2025;Tank Football — What a Kick!
-loading_bg/login_layer_forrestal;Forrestal (CVA 59) &  A-4B
+loading_bg/login_layer_forrestal;Forrestal (CV 59) &  A-4B
 loading_bg/login_layer_football_event_2026;Tank Football — Team Dragons
 loading_bg/login_layer_fr_1_73;Update 1.73 "Vive la France" — French Air Forces
 loading_bg/login_layer_fr_amx;AMX 40 (P02)
@@ -100,6 +103,8 @@ loading_bg/login_layer_g1;キ84-I乙
 loading_bg/login_layer_g5_e;Q5
 loading_bg/login_layer_g6_rhino;G6-45
 loading_bg/login_layer_germ_battlecruiser_mackensen;Mackensen
+loading_bg/login_layer_germ_leopard_2a8;Leopard 2 A8
+loading_bg/login_layer_germ_panzerjager_panther_g2;Jagdpanther G2
 loading_bg/login_layer_h1;P-47D-28 (Escuadrón 201)
 loading_bg/login_layer_harrier_gr1;Harrier GR.1
 loading_bg/login_layer_hawk_200;Hawk 200
@@ -166,6 +171,7 @@ loading_bg/login_layer_oplot_t;ถ.หลัก 57
 loading_bg/login_layer_p1;Ho 229 V3
 loading_bg/login_layer_p51_1_71;Update 1.71 "New E.R.A." — P-51H-10 & XA-38
 loading_bg/login_layer_panhard_ebr_1963;EBR 90 F1
+loading_bg/login_layer_patria_bmp_3;AMV (БМП-3)
 loading_bg/login_layer_pgz_625_fb10;CS/SA5
 loading_bg/login_layer_pt_76_57;ПТ-76Б (БМ-57)
 loading_bg/login_layer_pucara;IA 58A
@@ -234,6 +240,7 @@ loading_bg/login_layer_wt_10_years;War Thunder — 10th Anniversary
 loading_bg/login_layer_wt_11_years_dark;War Thunder — 11th Anniversary
 loading_bg/login_layer_wt_11_years_fire;War Thunder — 11th Anniversary
 loading_bg/login_layer_wt_12_years;War Thunder — 12th Anniversary
+loading_bg/login_layer_wt_14_years;War Thunder — 14th Anniversary
 loading_bg/login_layer_wt_6_years;War Thunder — 6th Anniversary
 loading_bg/login_layer_wz_141;141 (一期)
 loading_bg/login_layer_x1;ИС-6 (Oбъ. 252)

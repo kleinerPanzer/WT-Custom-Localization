@@ -78,3 +78,5 @@ weapons/uk_4000lb_hc_mk1_bomb;Bomb, HC, 4000 lb, Mk. I;
 weapons/uk_4000lb_hc_mk1_bomb/short;4000 lb Mk. I;
 weapons/uk_4000lb_gp_mk1_mk2_bomb;Bomb, HC, 4000 lb, Mk. II;
 weapons/uk_4000lb_gp_mk1_mk2_bomb/short;4000 lb Mk. II;
+weapons/uk_600lb_bl755;Bomb, Cluster, 600 lb., BL755
+weapons/uk_600lb_bl755/short;BL755

@@ -12,6 +12,7 @@ sensors/jp_ops_1_radar;OPS-1;
 sensors/jp_ops_14_radar;OPS-14;
 sensors/jp_ops_16_radar;OPS-16;
 sensors/jp_ops_2_radar;OPS-2;
+sensors/jp_type_12;三式一号電波探信儀二型 (12号電探)
 sensors/jp_type_13;三式一号電波探信儀三型 (13号電探);
 sensors/jp_type_21;二式二号電波探信儀一型 (21号電探);
 sensors/jp_type_22;仮称二号電波探信儀二型 (22号電探)

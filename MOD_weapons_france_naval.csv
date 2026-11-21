@@ -18,6 +18,8 @@ weapons/fr_550mm_l3_torpedo/short;L3;
 
 weapons/depth_charge_fr_guiraud_100;Guiraud 100 kg;
 weapons/depth_charge_fr_guiraud_100/short;Guiraud 100 kg;
+weapons/depth_charge_fr_guiraud_200;Guiraud 200 kg
+weapons/depth_charge_fr_guiraud_200/short;Guiraud 200 kg
 
 weapons/fr_mine_b4m;B4M;
 weapons/fr_mine_b4m/short;B4M;

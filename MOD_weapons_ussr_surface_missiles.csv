@@ -33,6 +33,8 @@ weapons/170mm_57E6M_launcher_user_cannon;Пусковая установка 95�
 weapons/170mm_57E6M_launcher_user_cannon/short;ПУ 95Я6М;
 170mm_57e6m;ЗУР 57Э6М
 170mm_tkb_1055;ТКБ-1055
+weapons/170mm_tkb_1055_container;ТКБ-1055
+weapons/170mm_tkb_1055_container/short;ТКБ-1055
 
 weapons/170mm_57E6/short;ЗУР 95Я6;
 
@@ -210,3 +212,7 @@ weapons/V_759/short;В-759
 
 // Tokcha //
 650mm_9m79;УР 9М79
+
+// Iskander //
+920mm_9m723;ОТР 9М723К
+500mm_9m729;ОТКР 9М729

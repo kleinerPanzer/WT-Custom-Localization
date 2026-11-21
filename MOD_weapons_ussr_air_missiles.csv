@@ -70,6 +70,8 @@ weapons/su_kh_38mte/short;УР «В-П» Х-38МТЭ
 
 weapons/su_lmur;Лёгкая многоцелевая управляемая ракета Х-39
 weapons/su_lmur/short;ЛМУР Х-39
+weapons/su_lmur_wo_mitl;Лёгкая многоцелевая управляемая ракета Х-39
+weapons/su_lmur_wo_mitl/short;ЛМУР Х-39
 
 weapons/su_kh_58u_a_band;Управляемая ракета «воздух-поверхность» Х-58У (ПРГС-58М)
 weapons/su_kh_58u_a_band/short;УР «В-П» Х-58У (ПРГС-58М)
@@ -202,3 +204,12 @@ weapons/su_rvv_sd;Air-to-Air Missile RVV-SD
 weapons/su_rvv_sd/short;RVV-SD
 weapons/su_rvv_sd_default;Air-to-Air Missile RVV-SD
 weapons/su_rvv_sd_default/short;RVV-SD
+
+weapons/su_r_98mr;Управляемая ракета «воздух-воздух» Р-98МР
+weapons/su_r_98mr/short;Р-98МР
+weapons/su_r_98mr_default;Управляемая ракета «воздух-воздух» Р-98МР
+weapons/su_r_98mr_default/short;Р-98МР
+weapons/su_r_98mt;Управляемая ракета «воздух-воздух» Р-98МТ
+weapons/su_r_98mt/short;Р-98МТ
+weapons/su_r_98mt_default;Управляемая ракета «воздух-воздух» Р-98МТ
+weapons/su_r_98mt_default/short;Р-98МТ

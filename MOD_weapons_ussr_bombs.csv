@@ -143,6 +143,8 @@ weapons/su_ofab100m/short;OФАБ-100М
 
 weapons/su_fab250_270;250-кг авиационная бомба OФАБ-250-270;
 weapons/su_fab250_270/short;OФАБ-250-270;
+weapons/su_fab_250tseka;250-кг авиационная бомба ФАБ-250цк
+weapons/su_fab_250tseka/short;ФАБ-250цк
 weapons/su_ofab_250_270;250-кг авиационная бомба OФАБ-250-270
 weapons/su_ofab_250_270/short;OФАБ-250-270
 weapons/su_ofab250;250-кг авиационная бомба OФАБ-250св;
@@ -186,3 +188,8 @@ weapons/su_rn_28_nt;Ядерная бомба РН-28
 weapons/su_rn_28_nt/short;РН-28
 weapons/su_rn_40;Ядерная бомба РН-40
 weapons/su_rn_40/short;РН-40
+
+weapons/su_rbk_500_ao_2_5rtm;500-кг разовая бомбовая кассета РБК-500АО-2,5РТМ
+weapons/su_rbk_500_ao_2_5rtm/short;РБК-500АО-2,5РТМ
+weapons/su_rbk_500_ptab;500-кг разовая бомбовая кассета РБК-500ПТАБ-1
+weapons/su_rbk_500_ptab/short;РБК-500ПТАБ-1

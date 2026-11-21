@@ -196,6 +196,11 @@ a_129_d_shop;AH-129D
 a_129_d_0;Elicottero da esplorazione e scorta, AH-129D Mangusta
 a_129_d_1;AH-129D
 a_129_d_2;AH-129
+aw_249_pre_serie_shop;AH-249A
+aw_249_pre_serie_0;"Elicottero da Esplorazione e Scorta, AH-249A Fenice
+<color=#C0C0C0>Configurazione Initial Operational Capability</color>"
+aw_249_pre_serie_1;AH-249A
+aw_249_pre_serie_2;AH-249
 
 ab_205a_1_shop;UH-205A
 ab_205a_1_0;Elicottero da sostegno al combattimento, UH-205A

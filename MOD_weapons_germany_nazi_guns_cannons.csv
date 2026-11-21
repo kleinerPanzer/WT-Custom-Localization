@@ -269,6 +269,12 @@ weapons/380mm_45_skl_45_naval_user_cannon;38 cm Schnellladekanone L/45;
 weapons/52mm_55_skl55_naval_user_cannon;5,2 cm Schnellladekanone L/55;
 weapons/128mm_45_skc_41_naval_user_cannon;12,8 cm Schnellladekanone C/41;
 weapons/128mm_45_skc_41_naval_user_cannon/short;12,8 cm Schnellladekanone C/41;
+weapons/406mm_52_skc_34_naval_user_cannon;41 cm Schnellladekanone C/34
+weapons/germ_406mm_skc34;41 cm Schnellladekanone C/34
+406mm_psgr_l_44_ap;Pz.Gr. L/4,4
+406mm_spgr_l_48_bzd;Spr.Gr. L/4,8 Bd.Z.
+406mm_spgr_l_48;Spr.Gr. L/4,8 Kz.
+
 
 128mm_sprgr;Sprenggranate;
 128mm_pzrg_39_43;Panzergranate;

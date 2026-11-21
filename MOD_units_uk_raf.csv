@@ -361,6 +361,12 @@ firebrand_tf4_0;Firebrand TF. Mk. IV
 firebrand_tf4_1;Firebrand Mk. IV
 firebrand_tf4_2;Firebrand
 
+// FULMAR //
+fulmar_mk2_shop;Fulmar Mk. II
+fulmar_mk2_0;Fulmar Mk. II
+fulmar_mk2_1;Fulmar Mk. II
+fulmar_mk2_2;Fulmar
+
 // FIREFLY //
 shop/group/firefly_group;Firefly F.1 / Firefly FR.5
 firefly_mk1_shop;Firefly F.1

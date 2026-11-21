@@ -8,6 +8,7 @@ counterMeasures/l_166;СОЭП Л-166 «Липа»
 counterMeasures/l_166_c1;СОЭП Л-166 «Липа»
 counterMeasures/l_370;БКО Л-370-5 «Витебск»
 counterMeasures/l_370v28_5l;БКО Л-370В28-5Л
+counterMeasures/l_370v52;БКО Л-370В52
 counterMeasures/lsz_8vn;КО ЛСЗ-8ВН;
 
 sensors/su_1rl144_search;РЛС 1РЛ144М1;
@@ -27,6 +28,7 @@ sensors/su_3r95;РЛС 3Р95
 sensors/su_4r_90_yatagan;РЛС 4Р90 «Ятаган»;
 sensors/su_55zh6;РЛС 55Ж6 «Небо»
 sensors/su_5n63s;РЛС 5Н63С
+sensors/su_5n63s_search_and_track;РЛС 5Н63С
 sensors/su_5n64s;РЛС 5Н64С
 sensors/su_9k_330_search;Search Radar;
 sensors/su_9k_330_track;Tracking Radar;
@@ -39,7 +41,9 @@ sensors/su_9s18m1;РЛС 9С18М1
 sensors/su_9s18m3;Search Radar;
 sensors/su_9s18m3_ai;Search Radar;
 sensors/su_9s35;РЛС 9С35
+sensors/su_9s35_search_and_track;РЛС 9С35
 sensors/su_9s35m1;РЛС 9С35М1
+sensors/su_9s35m1_search_and_track;РЛС 9С35М1
 sensors/su_9s86;АОЗ 9С86;
 sensors/su_bmp_auto_target_tracker;TV Tracker;
 sensors/su_cd-30;РЛС ЦД-30;
@@ -94,10 +98,12 @@ sensors/su_redan_2;РЛС «Редан-2»;
 sensors/su_redan;РЛС «Редан-1»;
 sensors/su_rif;РЛС «Риф»;
 sensors/su_rn_01_arbalet;РЛС РН01 «Арбалет»;
+sensors/su_arbalet_mlws;РЛС РН01 «Арбалет»
 sensors/su_rp-1_search;РЛС РП-1 «Изумруд»;
 sensors/su_rp-1_track;РЛС РП-1 «Изумруд»;
 sensors/su_rp-5_search;РЛС РП-5 «Изумруд»;
 sensors/su_rp-5_track;РЛС РП-5 «Изумруд»;
+sensors/su_rp_26m;РЛС РП-26М
 sensors/su_sapphire_21;РЛС РП-21 «Сапфир-21»;
 sensors/su_sapphire_23;РЛС РП-23 «Сапфир-23»;
 sensors/su_sapphire_23e;РЛС РП-23Э «Сапфир-23Э»;

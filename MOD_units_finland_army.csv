@@ -138,3 +138,10 @@ sw_patria_amv_ctcv_105_0;"Advanced Modular Vehicle Heavy Weapons Platform
 <color=#C0C0C0>with CT-CV 105HP</color>"
 sw_patria_amv_ctcv_105_1;AMV HWP (CT-CV)
 sw_patria_amv_ctcv_105_2;AMV
+
+sw_patria_bmp_3_shop;AMV (БМП-3)
+sw_patria_bmp_3_0;"Advanced Modular Vehicle
+<color=#C0C0C0>with БМП-3 turret with Namut thermal imager</color>
+<color=#C0C0C0>IDEX 2011 technology demonstrator</color>"
+sw_patria_bmp_3_1;AMV (БМП-3)
+sw_patria_bmp_3_2;Light tank

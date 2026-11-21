@@ -385,8 +385,8 @@ maw_countermeasures_launcher_chaff_large/name;Countermeasures
 countermeasures_launcher_chaff_large_add_pod/name;Countermeasures
 modification/chaff_pods;Chaff Dispensers;
 modification/chaff_pods/desc;Allows use of chaff dispensers.;
-modification/saab_f35_alq_162	Chaff
-modification/saab_f35_alq_162/desc	Allows the installation of additional block with Chaff
+modification/saab_f35_alq_162;Chaff
+modification/saab_f35_alq_162/desc;Allows the installation of additional block with Chaff
 modification/spread_change;%s to weapon spread at 500 m distance;
 modification/overheat_change;%s to mean time between failures;
 modification/overheadCooldown_change;%s to cooling time for arcade afterburning;
@@ -800,6 +800,8 @@ modification/MAW_system_heli_false_thermal_targets/desc;Missile approach warning
 modification/MAW_system_heli_false_thermal_targets;MAW;
 modification/MAW_system_heli_false_thermal_targets_large/desc;Missile approach warning system. Allows automatic deployment of flares.;
 modification/MAW_system_heli_false_thermal_targets_large;MAW;
+modification/MAW_system_heli_false_thermal_targets_large_dircm/desc;Missile approach warning system. Allows automatic deployment of flares. Directional infrared countermeasure system.
+modification/MAW_system_heli_false_thermal_targets_large_dircm;MAW/DIRCM
 modification/PIDS_false_thermal_targets/desc;Missile approach warning system. Allows automatic deployment of flares.;
 modification/PIDS_false_thermal_targets;MAW;
 modification/boz_false_thermal_targets/desc;Missile approach warning system, allowing false heat target shoot off.
@@ -997,6 +999,8 @@ modification/anti_radiation_missile_type_b/desc;Allows installation of {unlockWe
 modification/anti_radiation_missile_type_b;ARM
 modification/anti_radiation_missile_type_c/desc;Allows installation of {unlockWeapons}
 modification/anti_radiation_missile_type_c;ARM
+modification/ship_sonar;Sonar
+modification/ship_sonar/desc;Sonar allows for detection of submarines
 CLIPPED_LANG_KEEP_IT_ALWAYS_FIRST;
 
 

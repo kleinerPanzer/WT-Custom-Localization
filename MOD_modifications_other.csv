@@ -16,6 +16,8 @@ modification/type_r80_sura/desc;Allows installation of {unlockWeapons} rockets.;
 modification/8_cm_flz_rakete;8 cm Flz.-Rakete;
 modification/8_cm_flz_rakete/desc;Allows installation of {unlockWeapons} rockets.;
 
+modification/sws_flz_lwf_63_90/desc;Allows installation of {unlockWeapons} missiles.
+modification/sws_flz_lwf_63_90;Flz.Lwf. LL 63/90
 modification/sws_flz_lwf_63_80;Flz.Lwf. LL 63/80;
 modification/sws_flz_lwf_63_80/desc;Allows installation of {unlockWeapons} missiles.;
 modification/sws_flz_lwf_63_75;Flz.Lwf. LL 63/75
@@ -85,8 +87,8 @@ modification/tr_fz49/desc;Allows installation of {unlockWeapons} rockets in HL-1
 modification/tr_fz49;HL-19-70;
 
 // BELGIUM //
-modification/fr_fz275/desc	Allows the installation of {unlockWeapons} rockets.
-modification/fr_fz275	FZ275 LGR
+modification/fr_fz275/desc;Allows the installation of {unlockWeapons} rockets.
+modification/fr_fz275;FZ275 LGR
 modification/fn_hmp400_lcc;FN HMP400 LCC / LTC;
 modification/fn_hmp400_lcc/desc;Allows installation of FN HMP400 LCC and LTC gun pods.;
 modification/fn_hmp400;FN HMP400 LCC;
@@ -103,7 +105,7 @@ modification/in_nasser_240/desc;Allows installation of {unlockWeapons} rockets.
 modification/t_90s_twmp;TWMP;
 modification/t_90s_twmp/desc;Allows installation of Track-Width Mine Plough.;
 modification/mig_21_bison_r_77e/desc;Allows installation of {unlockWeapons} missiles.;
-modification/mig_21_bison_r_77e;Р-77Э;
+modification/mig_21_bison_r_77e;РVV-AE;
 
 // SOUTH AFRICA //
 

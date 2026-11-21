@@ -2,6 +2,7 @@
 counterMeasures/an_alq_144;Infrared Countermeasures System, AN/ALQ-144
 sensors/an_aps_54;Tail Warning Radar System, AN/APS-54
 counterMeasures/an_vlq_8;Infrared Countermeasures System, AN/VLQ-6
+counterMeasures/circm_b_kit;Common Infrared Countermeasures
 sensors/jp_an_apg_66j;Radar Set, AN/APG-66J
 sensors/jp_awg_11;Radar Set, AN/AWG-11;
 sensors/jp_awg_12;Radar Set, AN/AWG-12;
@@ -87,6 +88,7 @@ sensors/us_an_apg_76_an_asx_1;Radar Set, AN/APG-76;
 sensors/us_an_apg_78;Radar Set, AN/APG-78;
 sensors/us_an_apg_78_v6;Radar Set, AN/APG-78(V)6;
 sensors/us_an_apg_79;Radar Set, AN/APG-79;
+sensors/us_an_apg_82_v_1;Radar Set, AN/APG-82(V)1
 sensors/us_an_apg_83;Radar Set, AN/APG-83
 sensors/us_an_apq_65;Radar Set, AN/APQ-65;
 sensors/us_an_apq_100;Radar Set, AN/APQ-100;
@@ -135,6 +137,7 @@ sensors/us_an_avs-2;Night Vision Imaging System, AN/AVS-2;
 sensors/us_an_awg_9_tiseo;Radar Set, AN/AWG-9;
 sensors/us_an_mpq_50;Radar Set, AN/MPQ-50
 sensors/us_an_mpq_53;Radar Set, AN/MPQ-53
+sensors/us_an_mpq_53_search_and_track;Radar Set, AN/MPQ-53
 sensors/us_an_mpq_61;Radar Set, AN/MPQ-61
 sensors/us_an_mpq_64;Radar Set, AN/MPQ-64;
 sensors/us_an_awg_9;Radar Set, AN/AWG-9;
@@ -158,6 +161,7 @@ sensors/us_an_sps_52;Radar Set, AN/SPS-52;
 sensors/us_an_sps_6;Radar Set, AN/SPS-6;
 sensors/us_an_sps_72;Radar Set, AN/SPS-72;
 sensors/us_an_sps_8a;Radar Set, AN/SPS-8A;
+sensors/us_an_spy_1_ai;Radar Set, AN/SPY-1D(V)
 sensors/us_tps_59;Radar Set, AN/TPS-59
 sensors/us_an_vps_2;Radar Set, AN/VPS-2;
 sensors/us_chaparral_track;IRST;
@@ -180,6 +184,7 @@ sensors/us_mk28_radar;Fire-Control Set, Mk 28;
 sensors/us_mk3_radar;Fire-Control Set, Mk 3;
 sensors/us_mk34_radar;Fire-Control Set, Mk 34;
 sensors/us_mk8_radar;Fire-Control Set, Mk 8;
+sensors/us_mk_95_ai;Fire-Control Set, Mk 95
 sensors/us_nasarr;F-15A NASARR;
 sensors/us_phalanx_search;Search Radar;
 sensors/us_phalanx_track;Tracking Radar;
@@ -196,3 +201,6 @@ sensors/us_sp2_radar;Radar Set, SP-2;
 sensors/us_sr6_radar;Radar Set, SR-6;
 sensors/us_harm_a_esm;ESM
 sensors/us_harm_c_esm;ESM
+sensors/us_epawss;Eagle Passive Active Warning Survivability System
+sensors/us_sonar_qc_passive;QC
+sensors/us_sonar_qc;QC

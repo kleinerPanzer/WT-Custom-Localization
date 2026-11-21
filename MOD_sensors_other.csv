@@ -30,3 +30,6 @@ counterMeasures/varta;Варта
 sensors/hydrophone;Hydrophone
 
 counterMeasures/strategic_bomber_ecm;ECM
+
+sensors/fr_prtl_search;Search Radar
+sensors/fr_prtl_track;Tracking Radar

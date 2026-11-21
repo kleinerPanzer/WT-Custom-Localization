@@ -87,6 +87,9 @@ modification/g8n_1500/desc;Allows installation of {unlockWeapons} bombs.;
 modification/jp_750lb_jm117;M117;
 modification/jp_750lb_jm117/desc;Allows installation of {unlockWeapons} bombs.;
 
+modification/jp_gcs_1/desc;Allows installation of {unlockWeapons} bombs.
+modification/jp_gcs_1;GCS-1
+
 // ROCKETS //
 
 modification/jp_rocket_type3_9kg;三式一番二八号爆弾一型;

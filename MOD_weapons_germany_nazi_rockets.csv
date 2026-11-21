@@ -24,3 +24,6 @@ weapons/de_wgr41/short;W.Gr. 41
 weapons/380mm_RW_61_user_cannon;38 cm Raketenwerfer 61 (L/5,4);
 380mm_sprgr4581;Raketen-Sprengranate 4581;
 weapons/380mm_sprgr4581/short;R.Spr.Gr. 4581;
+
+weapons/de_ju_88g_1_mistel;Mistel 2 (Ju 88 G-1 - Fw 190 A-8) | Ju 88 G-1 als Sprengstoffträger
+weapons/de_ju_88g_1_mistel/short;Mistel 2

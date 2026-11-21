@@ -16,6 +16,8 @@ modification/is_360_50_gp/desc;Allows installation of {unlockWeapons} bombs.
 modification/is_500_50_gp;500/50 GP;
 modification/is_500_50_gp/desc;Allows installation of {unlockWeapons} bombs.
 
+modification/il_spice/desc;Allows installation of {unlockWeapons} bombs.
+modification/il_spice;SPICE
 modification/il_spice_250/desc;Allows installation of {unlockWeapons} bombs.
 modification/il_spice_250;SPICE 250
 modification/il_spice_250_1000/desc;Allows installation of {unlockWeapons} bombs.
@@ -51,8 +53,16 @@ modification/atgm_spike_x2/desc;Allows installation of {unlockWeapons} missiles.
 modification/atgm_spike_x2;Spike ER;
 modification/atgm_spike_x4/desc;Allows installation of {unlockWeapons} missiles.;
 modification/atgm_spike_x4;Spike ER;
+modification/atgm_spike_x4_mitl/desc;Allows installation of {unlockWeapons} missiles.;
+modification/atgm_spike_x4_mitl;Spike ER
 
-modification/is_delilah/desc	Allows the installation of (EO) דלילה guided missiles.
-modification/is_delilah	(EO) דלילה
-modification/is_delilah_ir/desc	Allows the installation of (IR) דלילה guided missiles.
-modification/is_delilah_ir	(IR) דלילה
+
+modification/atgm_spike_nlos;Spike NLOS
+modification/atgm_spike_nlos/desc;Allows installation of {unlockWeapons} missiles.
+modification/atgm_spike_nlos_mitl/desc;Allows installation of {unlockWeapons} missiles.
+modification/atgm_spike_nlos_mitl;Spike NLOS
+
+modification/is_delilah/desc;Allows the installation of (EO) דלילה guided missiles.
+modification/is_delilah;(EO) דלילה
+modification/is_delilah_ir/desc;Allows the installation of (IR) דלילה guided missiles.
+modification/is_delilah_ir;(IR) דלילה

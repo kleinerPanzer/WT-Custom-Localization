@@ -301,6 +301,9 @@ weapons/130mm_45_model_1932_naval_user_cannon/short;130 mm mle 1932
 130mm_oea1934_he_tf;OEA mle 1934 (TF)
 130mm_opf1933_sap;OPF mle 1933
 
+weapons/130mm_45_model_1935_naval_user_cannon;Canon de 130 mm modèle 1935
+weapons/130mm_45_model_1935_naval_user_cannon/short;130 mm mle 1935
+
 weapons/138mm_40_model_1923_naval_user_cannon;Canon de 138 mm modèle 1923
 weapons/138mm_40_model_1923_naval_user_cannon/short;138 mm mle 1923
 weapons/138mm_40_model_1927_naval_user_cannon;Canon de 138 mm modèle 1927;

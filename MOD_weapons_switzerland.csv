@@ -27,6 +27,8 @@ weapons/30mm_HSS_831A_user_cannon;30 mm HSS 831A;
 weapons/30mm_HSS_831L_Turm_user_cannon;30 mm HSS 831L;
 weapons/sws_oerlikon_oe82;8 cm Flugzeug-Rakete Oerlikon;
 weapons/sws_oerlikon_oe82/short; 8 cm Flz.Rak.;
+weapons/sws_flz_lwf_63_90;Flugzeug-Lenkwaffe Luft-Luft 63/90;
+weapons/sws_flz_lwf_63_90/short;Flz.Lwf. LL 63/90
 weapons/sws_flz_lwf_63_75;Flugzeug-Lenkwaffe Luft-Luft 63/75;
 weapons/sws_flz_lwf_63_75/short;Flz.Lwf. LL 63/75
 weapons/sws_flz_lwf_63_80;Flugzeug-Lenkwaffe Luft-Luft 63/80;

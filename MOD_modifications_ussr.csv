@@ -186,6 +186,8 @@ modification/su_mercury_pod/desc;Allows installation of Меркурий targeti
 modification/su_mercury_pod;НТПС Меркурий;
 modification/t_220/desc;Allows installation of T 220 targeting pod.
 modification/t_220;T 220
+modification/su_hod_pod/desc;Allows installation of Ход targeting pod.
+modification/su_hod_pod;Ход
 modification/der4_47bmt;Дер-4-47БМТ;
 modification/der4_47bmt/desc;Allows installation of 1 torpedo.;
 modification/bmp_1p_turret_improvement;БМП-1П;
@@ -406,6 +408,8 @@ modification/ka_9K121/desc;Allows installation of 9М127 missiles.;
 modification/ka_9K121;9К121;
 modification/su_lmur/desc;Allows installation of Х-39 missiles.
 modification/su_lmur;Х-39
+modification/su_lmur_mitl/desc;Allows installation of Х-39 missiles.
+modification/su_lmur_mitl;Х-39
 modification/der-19p;Дер-19П;
 modification/der-19p/desc;Allows installation of up to 500 kg of bombs.;
 modification/der-20p;Дер-20П;
@@ -464,3 +468,7 @@ modification/su_s25l;С-25ЛД
 modification/su_s25l/desc;Allows installation of {unlockWeapons}
 modification/su_arm/desc;Allows installation of {unlockWeapons}
 modification/su_arm;ARM
+modification/su_r_98mr/desc;Allows the installation of Р-98МР air-to-air missiles.
+modification/su_r_98mr;Р-98МР
+modification/su_r_98mt/desc;Allows the installation of Р-98МТ air-to-air missiles.
+modification/su_r_98mt;Р-98МТ 

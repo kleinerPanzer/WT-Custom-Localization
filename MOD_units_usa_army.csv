@@ -51,6 +51,11 @@ us_m3a1_stuart_usmc_0;"Tank, Light, M3A1 General Stuart
 <color=#E3D452>United States Marine Corps</color>"
 us_m3a1_stuart_usmc_1;M3A1
 us_m3a1_stuart_usmc_2;M3
+us_m3a1_stuart_nvidia_shop;⋦ M3A1
+us_m3a1_stuart_nvidia_0;"Tank, Light, M3A1 General Stuart
+<color=#E3D452>⋦ Nvidia ⋦</color>"
+us_m3a1_stuart_nvidia_1;M3A1
+us_m3a1_stuart_nvidia_2;M3
 
 us_m5a1_stuart_shop;M5A1
 us_m5a1_stuart_0;"Tank, Light, M5A1 General Stuart
@@ -865,6 +870,10 @@ h_34_shop;CH-34A
 h_34_0;Helicopter, Cargo Transport, CH-34A Chocktaw
 h_34_1;CH-34A
 h_34_2;CH-34
+h_34_killstreak_shop;CH-34A
+h_34_killstreak_0;Helicopter, Cargo Transport, CH-34A Chocktaw
+h_34_killstreak_1;CH-34A
+h_34_killstreak_2;CH-34
 
 oh_58d_shop;OH-58D
 oh_58d_0;Helicopter, Observation, OH-58D Kiowa Warrior

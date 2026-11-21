@@ -1,0 +1,21 @@
+<ID|readonly|noverify>;<NewLanguage>
+
+weapons/130mm_70_hpj45_naval_user_cannon;H/PJ45型单管130毫米舰炮
+130mm_cn_he_vt;HE (VT)
+weapons/30mm_hpj11_naval_user_cannon;H/PJ11型11管30毫米舰炮
+
+weapons/rocket_hhq10_naval_rocket_launcher;H/AJK10舰对空导弹发射器
+weapons/rocket_hhq10_naval_rocket_launcher/short;H/AJK10
+cn_hhq_10;H/AJK10
+weapons/cn_hhq_10;H/AJK10舰对空导弹
+weapons/cn_hhq_10/short;H/AJK10
+weapons/rocket_hhq9_vls_naval_rocket_launcher;HT-1型舰载通用垂直发射系统
+weapons/rocket_hhq9_vls_naval_rocket_launcher/short;HT-1
+cn_hhq_9;H/AJK9
+weapons/cn_hhq_9;H/AJK9舰对空导弹
+weapons/cn_hhq_9/short;H/AJK9
+weapons/rocket_hhq16_vls_naval_rocket_launcher;H/AJK16舰载垂直发射系统
+weapons/rocket_hhq16_vls_naval_rocket_launcher/short;H/AJK16
+cn_hhq_16;H/AJK16
+weapons/cn_hhq_16;H/AJK16舰对空导弹
+weapons/cn_hhq_16/short;H/AJK16

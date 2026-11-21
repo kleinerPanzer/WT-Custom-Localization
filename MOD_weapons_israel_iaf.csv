@@ -21,6 +21,8 @@ weapons/il_500_50_kg_gp/short;500/50 GP;
 weapons/il_gatr;Guided Advanced Tactical Rocket;
 weapons/il_gatr/short;GATR;
 
+weapons/spike_er_wo_mitl;Spike ER
+weapons/spike_er_wo_mitl/short;Spike ER
 weapons/spike_er;Spike ER;
 weapons/spike_er/short;Spike ER;
 weapons/spike_er_default;Spike ER
@@ -31,6 +33,8 @@ weapons/spike_nlos_saraph_targeting_pod;Targeting Pod
 weapons/spike_nlos_saraph_targeting_pod/short;Targeting Pod
 weapons/spike_nlos_targeting_pod_aw_159;Targeting Pod
 weapons/spike_nlos_targeting_pod_aw_159/short;Targeting Pod
+weapons/spike_nlos_wo_mitl;Spike NLOS
+weapons/spike_nlos_wo_mitl/short;Spike NLOS
 weapons/spike_nlos;Spike NLOS
 weapons/spike_nlos/short;Spike NLOS
 weapons/spike_nlos_default;Spike NLOS

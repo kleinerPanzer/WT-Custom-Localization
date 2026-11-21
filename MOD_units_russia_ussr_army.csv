@@ -424,10 +424,10 @@ ussr_bt_7_m_shop;БТ-7М
 ussr_bt_7_m_0;Танк БТ-7М
 ussr_bt_7_m_1;БТ-7М
 ussr_bt_7_m_2;БТ-7
-ussr_bt_7_m_816_shop;⋦ БТ-7М
+ussr_bt_7_m_816_shop;◆ БТ-7М
 ussr_bt_7_m_816_0;Танк БТ-7М
 <color=#E3D452>25-й танковый корпус</color>
-<color=#E3D452>⋦ Тwitch Drop ⋦</color>"
+<color=#E3D452>◆ WTCS ◆</color>"
 ussr_bt_7_m_816_1;БТ-7М
 ussr_bt_7_m_816_2;БТ-7
 ussr_bt_7a_f32_shop;БТ-7 артиллерия (Ф-32)
@@ -1026,6 +1026,12 @@ ussr_btr_82at_0;Бронетранспортёр БТР-82АТ
 ussr_btr_82at_1;БТР-82АТ
 ussr_btr_82at_2;БТР-82
 
+ussr_btr_90_2004_shop;БТР-90
+ussr_btr_90_2004_0;"Бронетранспортёр БТР-90
+<color=#C0C0C0>с БО Бережок</color>"
+ussr_btr_90_2004_1;БТР-90
+ussr_btr_90_2004_2;БТР-90
+
 ussr_btr_zd_shop;БТР-ЗД
 ussr_btr_zd_0;Бронетранспортёр БТР-ЗД
 ussr_btr_zd_1;БТР-ЗД
@@ -1087,75 +1093,79 @@ ussr_zis_12_94KM_1945_2;ЗиС-12
 
 // VERTOLETA //
 mi_4av_shop;Ми-4АВ
-mi_4av_0;Вертолет Ми-4АВ
+mi_4av_0;Вертолёт Ми-4АВ
 mi_4av_1;Ми-4АВ
 mi_4av_2;Ми-4
+mi_4av_killstreak_shop;Ми-4АВ
+mi_4av_killstreak_0;Вертолёт Ми-4АВ
+mi_4av_killstreak_1;Ми-4АВ
+mi_4av_killstreak_2;Ми-4
 
 mi_8tv_shop;Ми-8ТВ
-mi_8tv_0;Вертолет Ми-8ТВ
+mi_8tv_0;Вертолёт Ми-8ТВ
 mi_8tv_1;Ми-8ТВ
 mi_8tv_2;Ми-8
 mi_8amtsh_shop;Ми-8АМТШ
-mi_8amtsh_0;Вертолет Ми-8АМТШ
+mi_8amtsh_0;Вертолёт Ми-8АМТШ
 mi_8amtsh_1;Ми-8АМТШ
 mi_8amtsh_2;Ми-8
 mi_8amtsh_vn_shop;Ми-8АМТШ-BН
-mi_8amtsh_vn_0;Вертолет Ми-8АМТШ-BН
+mi_8amtsh_vn_0;Вертолёт Ми-8АМТШ-BН
 mi_8amtsh_vn_1;Ми-8АМТШ
 mi_8amtsh_vn_2;Ми-8
 
 mi_24a_shop;Ми-24A
-mi_24a_0;"Вертолет Ми-24A
+mi_24a_0;"Вертолёт Ми-24A
 <color=#C0C0C0>1971 modifications</color>"
 mi_24a_1;Ми-24A
 mi_24a_2;Ми-24
 mi_24v_shop;Ми-24В
-mi_24v_0;Вертолет Ми-24В
+mi_24v_0;Вертолёт Ми-24В
 mi_24v_1;Ми-24В
 mi_24v_2;Ми-24
 mi_24p_shop;Ми-24П
-mi_24p_0;Вертолет Ми-24П
+mi_24p_0;Вертолёт Ми-24П
 mi_24p_1;Ми-24П
 mi_24p_2;Ми-24
 
 mi_28n_shop;Ми-28Н
-mi_28n_0;Вертолет Ми-28Н
+mi_28n_0;Вертолёт Ми-28Н
 mi_28n_1;Ми-28Н
 mi_28n_2;Ми-28
 mi_28n_killstreak_shop;Ми-28Н
-mi_28n_killstreak_0;Вертолет Ми-28Н
+mi_28n_killstreak_0;Вертолёт Ми-28Н
 mi_28n_killstreak_1;Ми-28Н
 mi_28n_killstreak_2;Ми-28
 mi_28nm_shop;Ми-28НМ
-mi_28nm_0;Вертолет Ми-28НМ
+mi_28nm_0;Вертолёт Ми-28НМ
 mi_28nm_1;Ми-28НМ
 mi_28nm_2;Ми-28
 
 mi_35m_shop;Ми-35М
-mi_35m_0;Вертолет Ми-35М
+mi_35m_0;Вертолёт Ми-35М
 mi_35m_1;Ми-35М
 mi_35m_2;Ми-35
 mi_35m_killstreak_shop;Ми-35М
-mi_35m_killstreak_0;Вертолет Ми-35М
+mi_35m_killstreak_0;Вертолёт Ми-35М
 mi_35m_killstreak_1;Ми-35М
 mi_35m_killstreak_2;Ми-35
 mi_35p_shop;Ми-35П
-mi_35p_0;Вертолет Ми-35П Феникс
+mi_35p_0;Вертолёт Ми-35П Феникс
 mi_35p_1;Ми-35П
 mi_35p_2;Ми-35
 
 ka_29_shop;Ка-29
-ka_29_0;Вертолет Ка-29
+ka_29_0;Вертолёт Ка-29
 ka_29_1;Ка-29
 ka_29_2;Ка-29
 
 ka_50_shop;Ка-50
-ka_50_0;Вертолет Ка-50
+ka_50_0;Вертолёт Ка-50
 ka_50_1;Ка-50
 ka_50_2;Ка-50
 
 ka_52_shop;Ка-52
-ka_52_0;Вертолет Ка-52
+ka_52_0;Вертолёт Ка-52
 ka_52_1;Ка-52
 ka_52_2;Ка-52
 

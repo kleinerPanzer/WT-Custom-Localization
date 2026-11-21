@@ -1216,12 +1216,21 @@ ussr_ai_sam_radar_9s18m1_2;9С18
 us_ai_mlrs_m270_0;Launcher, Rocket, Armored Vehicle Mounted, M270
 us_ai_mlrs_m270_1;M270
 us_ai_mlrs_m270_2;M270
+us_ai_mlrs_atacms_m270_0;Launcher, Rocket, Armored Vehicle Mounted, M270
+us_ai_mlrs_atacms_m270_1;M270
+us_ai_mlrs_atacms_m270_2;M270
 ussr_ai_mlrs_9a52_2_smerch_0;Боевая машина 9А52-2
 ussr_ai_mlrs_9a52_2_smerch_1;9А52-2
 ussr_ai_mlrs_9a52_2_smerch_2;9А52
 ussr_ai_tbm_9k79_tochka_0;Самоходная пусковая установка 9П129
 ussr_ai_tbm_9k79_tochka_1;9П129
 ussr_ai_tbm_9k79_tochka_2;9П129
+ussr_ai_tbm_9k720_m_iskander_0;9П78-1
+ussr_ai_tbm_9k720_m_iskander_1;9П78
+ussr_ai_tbm_9k720_m_iskander_2;9П78
+ussr_ai_tbm_9k720_k_iskander_0;9П78-1
+ussr_ai_tbm_9k720_k_iskander_1;9П78
+ussr_ai_tbm_9k720_k_iskander_2;9П78
 us_ai_tbm_m752_lance_0;Launcher, Guided Missile, Carrier Mounted, M752
 us_ai_tbm_m752_lance_1;M752
 us_ai_tbm_m752_lance;M752

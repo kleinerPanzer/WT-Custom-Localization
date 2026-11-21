@@ -10,10 +10,15 @@ shop/group/sw_eldenhet_nomads_group;EldE 98 / NOMADS
 
 
 // PANSARBIL //
-sw_pbil_m40_shop;Pbil m/40
+sw_pv_m39_shop;Pb m/39
+sw_pv_m39_0;"Pansarbil m/39
+<color=#C0C0C0>med lynxen torn</color>"
+sw_pv_m39_1;Pb m/39
+sw_pv_m39_2;Pb m/39
+sw_pbil_m40_shop;Pb m/40
 sw_pbil_m40_0;Pansarbil m/40
-sw_pbil_m40_1;Pbil m/40
-sw_pbil_m40_2;Pbil m/40
+sw_pbil_m40_1;Pb m/40
+sw_pbil_m40_2;Pb m/40
 
 // STRIDSVAGN //
 sw_strv_m31_shop;Strv m/31

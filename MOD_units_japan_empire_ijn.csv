@@ -357,6 +357,14 @@ jp_cruiser_isuzu_0;"<color=#C0C0C0>利根型重巡洋艦</color>
 jp_cruiser_isuzu_1;五十鈴
 jp_cruiser_isuzu_2;長良型
 
+// TAKAO //
+jp_cruiser_takao_shop;高雄
+jp_cruiser_takao_0;"<color=#C0C0C0>高雄型重巡洋艦</color>
+高雄
+<color=#C0C0C0>1944 refit</color>"
+jp_cruiser_takao_1;高雄
+jp_cruiser_takao_2;高雄型
+
 // JUNYO SENKAN //
 // TSUKUBA //
 jp_armoredcruiser_ikoma_shop;生

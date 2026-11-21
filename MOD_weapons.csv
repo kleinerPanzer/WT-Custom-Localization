@@ -36,6 +36,7 @@ rocket/warhead/aphe;SAPHE;
 rocket/warhead/ap;AP;
 rocket/warhead/smoke;Smoke;
 rocket/warhead/multidart;Flechette;
+rocket/warhead/cluster;Cluster
 missile/seekerRange;Weapon Lock range;
 missile/seekerRange/rearAspect;Weapon Lock range in rear-aspect;
 missile/seekerRange/allAspect;Weapon Lock range in in all-aspect;
@@ -69,6 +70,12 @@ missile/guidance/beamRiding;Beam-Riding;
 missile/guidance/PRH;PRH
 missile/guidance/PRH+IOG;PRH+IOG
 missile/guidance/PRH+IOG+GNSS;PRH+IOG+GNSS
+missile/guidance/ir+MITL;IR+MITL
+missile/guidance/ir+IOG+MITL;IR+INS+MITL
+missile/guidance/ir+IOG+GNSS+MITL;IR+INS+GNSS+MITL
+missile/guidance/tv+MITL;TV+MITL
+missile/guidance/tv+IOG+MITL;TV+INS+MITL
+missile/guidance/tv+IOG+GNSS+MITL;TV+INS+GNSS+MITL
 missile/aiming/beamRiding;Beam-Riding;
 missile/aiming/semiautomatic;SACLOS;
 missile/aiming/manual;MCLOS;
@@ -655,6 +662,7 @@ explosiveType/dd;DD;
 explosiveType/mmn;MMn;
 explosiveType/rdx;RDX;
 explosiveType/cyclonite;Cyclonite
+explosiveType/cyclotol_70_30;Cyclotol
 explosiveType/rdx_aluminium;RDX/Al;
 explosiveType/h761;H 761;
 explosiveType/ha_41;Ha-41;
@@ -695,6 +703,7 @@ explosiveType/aerea_64057;Aerea 64057;
 explosiveType/trinalite;Trinalite
 explosiveType/pentolite;Pentolite;
 explosiveType/detonite;Detonite;
+explosiveType/detonite_tnt;Detonite and TNT
 explosiveType/comp_b;Composition B;
 explosiveType/pax_48;PAX-48
 explosiveType/comp_b_mod;Modified Composition B;
@@ -719,6 +728,10 @@ explosiveType/pbxn_5;PBXN-5;
 explosiveType/pbxn_4;PBXN-4;
 explosiveType/pbxn_3;PBXN-3;
 explosiveType/pbxn_9;PBXN-9
+explosiveType/pbxn_10;PBXN-10
+explosiveType/pbxih_18;PBXIH-18
+explosiveType/pbxw_11;PBXW-11
+explosiveType/dpx_6;DPX-104
 explosiveType/liEx_S13df;Liquid Explosive;
 explosiveType/ph_salz;EDNA;
 explosiveType/hexal;Hexal;

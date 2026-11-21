@@ -16,7 +16,18 @@ LCM 65
 fr_lcm_monitor_1;LCM 65
 fr_lcm_monitor_2;LCM Monitor
 
+fr_l990_monitor_shop;L 990
+fr_l990_monitor_0;Chalands de type Oberwinter, Monitor léger, L 990
+fr_l990_monitor_1;L 990
+fr_l990_monitor_2;Monitor léger
+
 // VEDETTES //
+// COTIERE //
+fr_vc1_shop;VC 1 (P 751)
+fr_vc1_0;Vedette de surveillance côtière, VC 1 (P 751)
+fr_vc1_1;VC 1
+fr_vc1_2;Vedette de surveillance côtière
+
 // LANCE TORPILLES //
 fr_vlt1_shop;VLT 1
 fr_vlt1_0;Vedette lance torpille No. 1
@@ -170,6 +181,14 @@ fr_elan_class_commandant_domine_1;Commandant Dominé
 fr_elan_class_commandant_domine_2;Classe Élan
 
 // TORPILLEURS //
+// CLASSE LE HARDI //
+fr_destroyer_le_hardi_class_le_hardi_shop;Le Hardi (T 102)
+fr_destroyer_le_hardi_class_le_hardi_0;"<color=#C0C0C0>Torpilleur d'escadre de la classe Le Hardi</color>
+Le Hardi (T 102)
+<color=#C0C0C0>1941 refit</color>"
+fr_destroyer_le_hardi_class_le_hardi_1;Le Hardi
+fr_destroyer_le_hardi_class_le_hardi_2;Classe Le Hardi
+
 // CLASSE BOURRASQUE //
 fr_destroyer_bourrasque_class_bourrasque_shop;Bourrasque (T 41)
 fr_destroyer_bourrasque_class_bourrasque_0;"<color=#C0C0C0>Torpilleur d'escadre de la classe Bourrasque</color>

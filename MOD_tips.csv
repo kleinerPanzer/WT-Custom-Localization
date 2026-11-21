@@ -118,8 +118,11 @@ loading/ship/tip6;You can select targets for secondary weapons {{ID_SHIP_SELECT_
 loading/ship/tip7;You can select targets for anti-aircraft weapons {{ID_SHIP_SELECT_TARGET_AI_MGUN}}.;
 loading/ship/tip8;In the menu, you can turn the tracking system on or off for falling shells with a calibre equal to or greater than 100 mm.;
 loading/ship/newbie/tip9;You can turn on automatic repair for breaches and flood prevention {{ID_REPAIR_BREACHES}}.;
+loading/ship/newbie/tip9_gamepad;You can turn on automatic repair for breaches and flood prevention {{ID_SHIP_KILLSTREAK_WHEEL_MENU}}.
 loading/ship/newbie/tip10;You can turn on automatic damage repair {{ID_SHIP_ACTION_BAR_ITEM_11}}.;
+loading/ship/newbie/tip10_gamepad;You can turn on automatic damage repair {{ID_SHIP_KILLSTREAK_WHEEL_MENU}}.
 loading/ship/newbie/tip11;You can turn on automatic fire extinguishing {{ID_SHIP_ACTION_BAR_ITEM_6}}.;
+loading/ship/newbie/tip11_gamepad;You can turn on automatic fire extinguishing {{ID_SHIP_KILLSTREAK_WHEEL_MENU}}.
 loading/ship/newbie/tip12;If repairs, extinguishing fires, and bailing water are done simultaneously, they take far more time than each of them does alone.;
 loading/ship/tip13;In the control menu, you can assign keys to manually control direction and range of fire.;
 loading/ship/tip14;In the control menu, you can assign a key to fire a ranging shot from a main calibre gun or turret.;

@@ -1,29 +1,31 @@
 <ID|readonly|noverify>;<NewLanguage>
 
 // PLAAF Airborne Systems //
-sensors/cn_jl_10a;JL-10A雷达;
-sensors/cn_jl_10ag;JL-10AG雷达
-sensors/cn_jl_7a;JL-7A雷达;
-sensors/cn_klj_7;KLJ-7A雷达;
-sensors/cn_klj_10a;KLJ-10A雷达;
+sensors/cn_jl_7a;JL-7A单脉冲火控雷达;
+sensors/cn_jl_10a;JL-10A载脉冲多普勒火控雷达;
+sensors/cn_jl_10ag;JL-10AG载脉冲多普勒火控雷达
+sensors/cn_klj_7;KLJ-7机载载脉冲多普勒火控雷达;
+sensors/cn_klj_10a;KLJ-10A机载有源相控阵火控雷达;
 sensors/cn_klj_j16;Fire-Control Radar;
 
-sensors/cn_type_1473;1473型(K/LKK73)雷达;
-sensors/cn_type_1492;1492型(K/LKK92)雷达;
-sensors/cn_type_1493_pd;1493型(K/LKK93)雷达;
+sensors/cn_type_1473;1473型(K/LKK73)载脉冲多普勒火控雷达;
+sensors/cn_type_1492;1492型(K/LKK92)载脉冲多普勒火控雷达;
+sensors/cn_type_1493_pd;1493型(K/LKK93)载脉冲多普勒火控雷达;
 
-sensors/cn_type_208a;208A型(SL-5A)雷达;
-sensors/cn_type_280;208型(SL-5)雷达;
+sensors/cn_type_208a;208A型(SL-5A)单脉冲火控雷达;
+sensors/cn_type_280;208型(SL-5)单脉冲火控雷达;
 
-sensors/cn_type_930_4;930-4型雷达告警接收器
-sensors/cn_type_930;930型雷达告警接收器
+sensors/cn_type_930_4;930-4型机载雷达告警设备
+sensors/cn_type_930;930型机载雷达告警设备
 
-sensors/cn_kj8602a;KJ8602A雷达告警接收器;
-sensors/cn_kj_8602;KJ8602雷达告警接收器;
+sensors/cn_kj8602a;KJ8602A机载雷达告警设备
+sensors/cn_kj_8602;KJ8602机载雷达告警设备
 
 sensors/cn_krkz2200;RWR;
+sensors/cn_krkz2200_j_15t;RWR
+sensors/cn_j_16_mlws;MLWS;
 
-sensors/cn_s740;S740导弹预警系统;
+sensors/cn_s740;S740机载导弹逼近红外预告警设备
 
 sensors/cn_rwr_esm;ESM;
 
@@ -35,9 +37,11 @@ sensors/cn_helicopter_z_late_rwr;RWR
 sensors/cn_rn_01_ii;Search Radar;
 counterMeasures/cn_z_10me;DIRCM;
 sensors/cn_z10_fcr;Search Radar;
+sensors/cn_z_10_mlws;MLWS;
+counterMeasures/ldircm_z_10me;LDIRCM
 
 // PLAGF Ground Systems //
-sensors/cn_clc_1_search;CLC1低空监视雷达;
+sensors/cn_clc_1_search;CLC1短程低空搜索雷达;
 
 sensors/cn_hq_11_search;Search Radar;
 sensors/cn_hq_11_search_ai;Search Radar;
@@ -51,6 +55,13 @@ sensors/cn_pgz_09_track;Tracking Radar;
 counterMeasures/jd_3_left;JD-3
 counterMeasures/jd_3_right;JD-3
 
+sensors/su_wa316ld;Search Radar
+sensors/su_wg_319;Tracking Radar
+
+// PLAN Naval Systems //
+
+sensors/cn_hljp_345_ai;H/LJP345火控雷达
+
 // ROC Ground Systems //
 sensors/cn_antelope_ads_track;Tracking Radar
 
@@ -62,7 +73,7 @@ sensors/cn_pgz_625_track;Tracking Radar;
 
 sensors/cn_rw_30;RW-30 Radar Warning Receiver;
 
-sensors/cn_se_2_mlws;SE-2机载导弹逼近告警设备;
+sensors/cn_se_2_mlws;SE-2机载导弹逼近告警设备
 
 sensors/cn_fk_2000_search;Search Radar
 sensors/cn_fk_2000_track;Tracking Radar

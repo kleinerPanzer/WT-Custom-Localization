@@ -11,7 +11,8 @@ weapons/su_t_220_targeting_pod;T 220
 weapons/su_t_220_targeting_pod/short;T 220
 weapons/su_apk_9;АПК-9
 weapons/su_apk_9/short;АПК-9
-
+weapons/su_hod_pod;Ход
+weapons/su_hod_pod/short;Ход
 
 weapons/su_phantasmagoria_a;Л-080 Фантасмагория-А
 weapons/su_phantasmagoria_a/short;Л-080

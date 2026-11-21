@@ -22,8 +22,11 @@ weapons/it_533mm_si250_tipo_a_torpedo/short;Si 250/533,4 A;
 weapons/it_533mm_si270_tipo_l_torpedo;Si 270/533,4X6,84 Tipo L;
 weapons/it_533mm_si270_tipo_l_torpedo/short;Si 270/533,4 L;
 
-weapons/it_324mm_a224_torpedo;324 mm A224 Torpedo;
+weapons/it_324mm_a224_torpedo;324 mm A224;
 weapons/it_324mm_a224_torpedo/short;A224;
+
+weapons/it_533mm_a184_torpedo;533 mm A184
+weapons/it_533mm_a184_torpedo/short;A184
 
 weapons/it_whitehead_a110_450_torpedo;450 mm Whitehead A 110/450;
 weapons/it_whitehead_a110_450_torpedo/short;A 110/450;

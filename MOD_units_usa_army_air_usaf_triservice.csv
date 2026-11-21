@@ -502,6 +502,11 @@ f_15e_0;"F-15E-43-MC Strike Eagle
 <color=#C0C0C0>with Joint Helmet-Mounted Cueing System</color>"
 f_15e_1;F-15E
 f_15e_2;F-15
+f_15ex_shop;F-15EX
+f_15ex_0;"F-15EX Eagle II
+<color=#C0C0C0>Lot 1A</color>"
+f_15ex_1;F-15EX
+f_15ex_2;F-15
 
 shop/group/f_16_group;F-16A-10 / F-16A-15 ADF
 f_16a_block_10_shop;F-16A-10
@@ -566,6 +571,10 @@ fa_18c_late_shop;F/A-18C-48
 fa_18c_late_0;F/A-18C-48-MC Hornet
 fa_18c_late_1;F/A-18C
 fa_18c_late_2;F/A-18
+fa_18d_late_shop;F/A-18D-52
+fa_18d_late_0;F/A-18D-52-MC Hornet
+fa_18d_late_1;F/A-18D
+fa_18d_late_2;F/A-18
 fa_18e_block_2_shop;F/A-18E-2
 fa_18e_block_2_0;"F/A-18E-2-MC Super Hornet
 <color=#C0C0C0>Lot 30</color>"

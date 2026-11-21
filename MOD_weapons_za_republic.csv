@@ -9,6 +9,8 @@ weapons/90mm_GT_2_user_cannon;90 mm GT2;
 weapons/105mm_GT3_user_cannon;105 mm GT3;
 weapons/105mm_GT3_TTD_user_cannon;105 mm GT3;
 weapons/105mm_GT3B_user_cannon;105 mm GT3B;
+105mm_fs_mk1;FS Mk. 1
+105mm_fs_mk3;FS Mk. 3
 
 weapons/76mm_GT_4_user_cannon;76,2 mm GT4;
 76mm_gt4_he;HE;

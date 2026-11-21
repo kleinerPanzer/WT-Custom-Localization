@@ -23,8 +23,10 @@ weapons/cn_type90_he;90毫米1型航空火箭杀伤爆破弹;
 weapons/cn_type90_he/short;90-1型 (杀伤);
 weapons/cn_type90_heat;90毫米1型航空火箭破甲弹;
 weapons/cn_type90_heat/short;90-1型 (破甲);
-weapons/cn_type130_ap;130毫米2型航空火箭杀伤爆破弹;
-weapons/cn_type130_ap/short;130-2型;
+weapons/cn_type130_he;130毫米1A型航空火箭杀伤爆破弹
+weapons/cn_type130_he/short;130-1A型;
+weapons/cn_type130_ap;130毫米1型航空火箭杀伤爆破弹;
+weapons/cn_type130_ap/short;130-1型;
 
 weapons/cn_gp_100_2;100公斤2型航空爆破炸弹;
 weapons/cn_gp_100_2/short;100-2型;
@@ -40,6 +42,8 @@ weapons/cn_gp_250_3;250公斤3型航空爆破炸弹;
 weapons/cn_gp_250_3/short;250-3型;
 weapons/cn_gp_250_3_default;250公斤3型航空爆破炸弹;
 weapons/cn_gp_250_3_default/short;250-3型;
+weapons/cn_250_3_cluster/short;250-3型 (反坦克子母)
+weapons/cn_250_3_cluster;250公斤3型航空反坦克子母炸弹
 weapons/cn_gp_250_4;250公斤4型航空爆破炸弹;
 weapons/cn_gp_250_4/short;250-4型;
 weapons/cn_gp_500_2;500公斤2型航空爆破炸弹;
@@ -141,6 +145,8 @@ weapons/cn_pl12a_default/short;PL-12AE
 
 weapons/cn_cm_102;CM-102 Anti-Radiation Missile Weapon System
 weapons/cn_cm_102/short;CM-102
+weapons/cn_cm_502kg_he_wo_mitl;CM-502KG Light-Weight Short-Range Air-to-Surface Missile
+weapons/cn_cm_502kg_he_wo_mitl/short;CM-502KG
 weapons/cn_cm_502kg_he;CM-502KG Light-Weight Short-Range Air-to-Surface Missile;CM-502KG轻型近程空面导弹
 weapons/cn_cm_502kg_he/short;CM-502KG
 weapons/cn_cm_502kg_he_rail;CM-502KG Light-Weight Short-Range Air-to-Surface Missile;CM-502KG轻型近程空面导弹
@@ -224,6 +230,10 @@ weapons/cn_760l_f_6c_drop_tank_l;760升亚音速副油箱
 weapons/cn_760l_f_6c_drop_tank_l/short;副油箱
 weapons/cn_760l_f_6c_drop_tank_r;760升亚音速副油箱
 weapons/cn_760l_f_6c_drop_tank_r/short;副油箱
+weapons/cn_760l_q_5d_drop_tank_l;760升亚音速副油箱
+weapons/cn_760l_q_5d_drop_tank_l/short;副油箱
+weapons/cn_760l_q_5d_drop_tank_r;760升亚音速副油箱
+weapons/cn_760l_q_5d_drop_tank_r/short;副油箱
 
 weapons/f_6c_pakistan_fuse_tank;Conformal Fuel Tank
 weapons/f_6c_pakistan_fuse_tank/short;CFT

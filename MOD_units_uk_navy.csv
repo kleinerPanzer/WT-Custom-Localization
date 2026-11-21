@@ -53,6 +53,13 @@ HMS Centurion (22)"
 uk_battleship_centurion_1;Centurion
 uk_battleship_centurion_2;King George V-Class
 
+uk_battleship_duke_of_york_shop;Duke of York (17)
+uk_battleship_duke_of_york_0;"<color=#C0C0C0>King George V-Class Battleship</color>
+HMS Duke of York (17)
+<color=#C0C0C0>1943 refit</color>"
+uk_battleship_duke_of_york_1;Duke of York
+uk_battleship_duke_of_york_2;King George V-Class
+
 uk_battleship_iron_duke_shop;Iron Duke (18)
 uk_battleship_iron_duke_0;"<color=#C0C0C0>Iron Duke-Class Battleship</color>
 HMS Iron Duke (18)
@@ -185,6 +192,13 @@ uk_cruiser_york_1;York
 uk_cruiser_york_2;York-Class
 
 // LIGHT CRUISERS //
+
+uk_cruiser_danae_class_shop;Danae (D 44)
+uk_cruiser_danae_class_0;"<color=#C0C0C0>Danae-Class Light Cruiser</color>
+HMS Danae (D 44)
+<color=#C0C0C0>1944 refit</color>"
+uk_cruiser_danae_class_1;Danae
+uk_cruiser_danae_class_2;Danae-Class
 
 uk_cruiser_enterprise_d52_shop;Enterprise (D 52)
 uk_cruiser_enterprise_d52_0;"<color=#C0C0C0>Emerald-Class Light Cruiser</color>

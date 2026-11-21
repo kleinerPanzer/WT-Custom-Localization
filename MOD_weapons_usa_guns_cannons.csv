@@ -2,6 +2,7 @@
 
 // M-Series //
 // CAL 30 //
+weapons/7_62mm_m1919_browning;Browning Machine Gun, Caliber .30, M1919A4
 weapons/7_62mm_M1919A4_user_machinegun;Browning Machine Gun, Caliber .30, M1919A4;
 weapons/7_62mm_M1919A4E1_user_machinegun;Browning Machine Gun, Caliber .30, M1919A4E1;
 
@@ -82,6 +83,9 @@ weapons/cannonM61A1_pgu_28_f15;Gun, 20-mm, Automatic: M61A1;
 weapons/cannonM61A1_pgu_28_f15/short;M61A1
 weapons/cannonM61A2;Gun, 20-mm, Automatic: M61A2
 weapons/cannonM61A2/short;M61A2
+
+weapons/20mm_m61_phalanx_block1b_naval_user_cannon;Gun, Automatic, 20-mm, M61A1 OGP
+weapons/20mm_m61_phalanx_block1b_naval_user_cannon/short;M61A1 OGP
 
 weapons/20mm_M168_user_cannon;Gun, 20-mm, Automatic: M168;
 20mm_m52a1;API-T, M52A1;
@@ -184,6 +188,7 @@ weapons/75mm_M2_user_cannon;Gun, 75-mm, M2;
 weapons/75mm_m3_user_cannon;Gun, 75-mm, M3;
 weapons/75mm_m3_open_turret_user_cannon;Gun, 75-mm, M3;
 weapons/75mm_QQF_MkV_NA75_user_cannon;Gun, 75-mm, M3;
+weapons/75mm_40_m3_naval_user_cannon;Gun, 75-mm, M3
 weapons/cannonM4_75mm;Gun, 75-mm, M4;
 weapons/cannonM4_75mm/short;M4;
 weapons/cannonM5;Gun, 75-mm, M5;

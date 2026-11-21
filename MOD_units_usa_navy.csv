@@ -213,6 +213,13 @@ us_sc_497_2;SC 497 Class
 
 // Patrol Gunboat (PG) //
 
+us_erie_class_shop;Erie (PG 50)
+us_erie_class_0;"<color=#C0C0C0>PG 50 Class Gunboat</color>
+USS Erie (PG 50)
+<color=#C0C0C0>1942 refit</color>"
+us_erie_class_1;Erie
+us_erie_class_2;PG 50 Class
+
 us_flagstaff_pgh1_shop;Flagstaff (PGH 1)
 us_flagstaff_pgh1_0;"<color=#C0C0C0>Experimental PGH 1 Class Hydrofoil Gunboat</color>
 USS Flagstaff (PGH 1)
@@ -256,6 +263,12 @@ us_frigate_tacoma_sub_event_0;"<color=#C0C0C0>PF 3 Class Frigate</color>
 USS Hoquiam (PF 5)"
 us_frigate_tacoma_sub_event_1;Hoquiam
 us_frigate_tacoma_sub_event_2;PF 3 Class
+
+us_frigate_oliver_hazard_perry_shop Oliver Hazard Perry (FFG 7)
+us_frigate_oliver_hazard_perry_0;"<color=#C0C0C0>FFG 7 Class Guided MissileFrigate</color>
+USS Oliver Hazard Perry (FFG 7)"
+us_frigate_oliver_hazard_perry_1;Oliver Hazard Perry
+us_frigate_oliver_hazard_perry_2;FFG 7 Class
 
 // Destroyer Escort (DE) //
 
@@ -418,6 +431,14 @@ us_destroyer_cf_adams_class_cf_adams_2;DDG 2 Class
 us_destroyer_cf_adams_class_cf_adams_ec_0;Charles F. Adams (DDG 2)
 us_destroyer_cf_adams_class_cf_adams_ec_1;Charles F. Adams
 us_destroyer_cf_adams_class_cf_adams_ec_2;DDG 2 Class
+
+// Arleigh Burke //
+
+us_destroyer_halsey_shop;Halsey (DDG 97)
+us_destroyer_halsey_0;"<color=#C0C0C0>DDG 51 Class Guided Missile Destroyer</color>
+USS Halsey (DDG 97)"
+us_destroyer_halsey_1;Halsey
+us_destroyer_halsey_2;DDG 51 Class
 
 // Destroyer Leader (DL) //
 
@@ -735,6 +756,30 @@ USS Forrestal (CV 59)
 <color=#C0C0C0>1975 refit</color>"
 us_aircraftcarrier_forrestal_ai_1;Forrestal
 us_aircraftcarrier_forrestal_ai_2;CV 59 Class
+
+// Nimitz //
+
+us_aircraftcarrier_nimitz_shop;Nimitz (CVN 68)
+us_aircraftcarrier_nimitz_0;"<color=#C0C0C0>CVN 68 Class Multi-Purpose Nuclear Aircraft Carrier</color>
+USS Nimitz (CVN 68)"
+us_aircraftcarrier_nimitz_1;Nimitz
+us_aircraftcarrier_nimitz_2;CVN 68 Class
+us_aircraftcarrier_nimitz_ai_shop;Nimitz (CVN 68)
+us_aircraftcarrier_nimitz_ai_0;"<color=#C0C0C0>CVN 68 Class Multi-Purpose Nuclear Aircraft Carrier</color>
+USS Nimitz (CVN 68)"
+us_aircraftcarrier_nimitz_ai_1;Nimitz
+us_aircraftcarrier_nimitz_ai_2;CVN 68 Class
+
+// us_aircraftcarrier_gerald_ford_shop;Gerald R. Ford (CVN 78)
+us_aircraftcarrier_gerald_ford_0;"<color=#C0C0C0>CVN 78 Class Multi-Purpose Nuclear Aircraft Carrier</color>
+USS Gerald R. Ford (CVN 78)"
+us_aircraftcarrier_gerald_ford_1;Gerald R. Ford
+us_aircraftcarrier_gerald_ford_2;CVN 78 Class
+us_aircraftcarrier_gerald_ford_ai_shop;Gerald R. Ford (CVN 78)
+us_aircraftcarrier_gerald_ford_ai_0;"<color=#C0C0C0>CVN 78 Class Multi-Purpose Nuclear Aircraft Carrier</color>
+USS Gerald R. Ford (CVN 78)"
+us_aircraftcarrier_gerald_ford_ai_1;Gerald R. Ford
+us_aircraftcarrier_gerald_ford_ai_2;CVN 78 Class
 
 // Other //
 us_cargo_ship_liberty_shop;John W. Brown

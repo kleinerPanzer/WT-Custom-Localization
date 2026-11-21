@@ -35,5 +35,7 @@ sensors/de_sgr_108;SGR 108;
 // Export & Other Systems
 
 aps/amap_ads;AMAP-ADS
-aps/muss;MUSS;
-counterMeasures/muss;MUSS;
+aps/muss;Multifuctional Self-Protection System;
+counterMeasures/muss;Multifuctional Self-Protection System;
+counterMeasures/muss_mjh;Multifuctional Self-Protection System
+sensors/muss_msh;Multifuctional Self-Protection System

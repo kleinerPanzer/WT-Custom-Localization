@@ -280,6 +280,12 @@ weapons/us_agm_65l/short;AGM-65L;
 // M-66 //
 rim_66c;RIM-66C;
 
+weapons/rocket_rim66m_sm2_block3b_vls_naval_rocket_launcher;Vertical Launch System, Mk 41 Mod 2
+weapons/rocket_rim66m_sm2_block3b_vls_naval_rocket_launcher/short;Mk 41 Mod 2
+us_rim_66m_sm_2;RIM-66M
+weapons/us_rim_66m_sm_2;Guided Missile, Intercept-Aerial, RIM-66M Standard (SM-2MR Block IIIB)
+weapons/us_rim_66m_sm_2/short;RIM-66M
+
 // M-71 //
 
 weapons/us_127mm_TOW;Guided Missile, Surface Attack, BGM-71C ITOW;
@@ -386,6 +392,15 @@ weapons/us_hellfire_agm_114_k_default/short;AGM-114K;
 weapons/us_hellfire_agm_114_k_ucav_default;Guided Missile, Surface Attack, AGM-114K Hellfire II;
 weapons/us_hellfire_agm_114_k_ucav_default/short;AGM-114K;
 
+// M-116 //
+weapons/rocket_rim116c_ram_naval_rocket_launcher;Guided Missile Launching System, Mk 49 Mod 0
+weapons/rocket_rim116c_ram_naval_rocket_launcher/short;Mk 49 Mod 0
+us_rim_116c;RIM-116C
+weapons/us_rim_116c;Guided Missile, Intercept-Aerial, RIM-116C Rolling Airframe Missile
+weapons/us_rim_116c/short;RIM-116C
+weapons/us_rim_116b;Guided Missile, Intercept-Aerial, RIM-116B Rolling Airframe Missile
+weapons/us_rim_116b/short;RIM-116B
+
 // M-120 //
 weapons/us_aim_120a;Guided Missile, Intercept-Aerial, AIM-120A Advanced Medium Range Air-to-Air Missile;
 weapons/us_aim_120a/short;AIM-120A;
@@ -436,6 +451,10 @@ weapons/us_2000lb_agm_130a_12/short;AGM-130A-12;
 weapons/rocket_ugm133_trident2_launcher;UGM-133 Launcher;
 weapons/rocket_ugm133_trident2_launcher/short;UGM-133;
 
+// M-140 //
+610mm_mgm_140;MIM-140A (M39 Block I)
+
+
 // M-146 //
 152mm_mim146;MIM-146A;
 weapons/152mm_mim146/short;MIM-146A;
@@ -448,10 +467,24 @@ weapons/152mm_MIM146;MIM-146 Launcher;
 weapons/us_agm_154a1_jsow;Guided Missile, Surface Attack, AGM-154A1 Joint Standoff Weapon
 weapons/us_agm_154a1_jsow/short;AGM-154A1
 
+// M-162 //
+weapons/rocket_rim162_essm_block2_naval_rocket_launcher;Guided Missile Launching System, Mk 29 Mod 0
+weapons/rocket_rim162_essm_block2_naval_rocket_launcher/short;Mk 29 Mod 0
+us_rim_162_essm_block2;RIM-162H
+weapons/us_rim_162_essm_block2;Guided Missile, Intercept-Aerial, RIM-162H Enhanced SeaSparrow Missile Block 2
+weapons/us_rim_162_essm_block2/short;RIM-162H
+
 // M-166 //
 weapons/162mm_MGM166_launcher_user_cannon;MGM-166 Launcher;
 162mm_losat;MGM-166A LOSAT;
 weapons/162mm_losat/short;MGM-166A;
+
+// M-174 //
+weapons/rocket_rim174_sm6_vls_naval_rocket_launcher;Vertical Launch System, Mk 41 Mod 2
+weapons/rocket_rim174_sm6_vls_naval_rocket_launcher/short;Mk 41 Mod 2
+us_rim_174_sm_6;RIM-174A
+weapons/us_rim_174_sm_6;Guided Missile, Intercept-Aerial, RIM-174A Standard ERAM (SM-6)
+weapons/us_rim_174_sm_6/short;RIM-174A
 
 // M-179//
 weapons/us_agm_179_mr_ir;Guided Missile, Surface Attack, AGM-179 JAGM-MR (IR)

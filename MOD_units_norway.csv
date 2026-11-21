@@ -41,6 +41,10 @@ sw_leopard_1a5no_shop;◢ Leopard 1 A5 NO2
 sw_leopard_1a5no_0;Stridsvogn, Helbelte, Leopard 1 A5 NO2
 sw_leopard_1a5no_1;◢ Leopard 1 A5
 sw_leopard_1a5no_2;Leopard 1
+sw_leopard_2a8no_shop;◢ Leopard 2 A8 NO
+sw_leopard_2a8no_0;Stridsvogn, Helbelte, Leopard 2 A8 NO
+sw_leopard_2a8no_1;◢ Leopard 2 A8
+sw_leopard_2a8no_2;Leopard 2
 
 shop/group/us_nasams_fcs_group;NASAMS III
 shop/group/sw_nasams_fcs_group;NASAMS III
@@ -63,6 +67,7 @@ us_nasams_fcs_0;"Truck, Utility: Heavy Variant, 4x4, M1097A2
 <color=#C0C0C0>M116A1 with Radar Set, AN/MPQ-64 Sentinel</color>"
 us_nasams_fcs_1;M1097A2 (AN/MPQ-64)
 us_nasams_fcs_2;M1097
+
 
 sw_nomads_shop;NOMADS
 sw_nomads_0;National Manoeuvre Air Defence System

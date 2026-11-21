@@ -61,6 +61,10 @@ weapons/76mm_62_oto_melara_compact_naval_user_cannon;Cannone OTO-Melara da 76/62
 76mm_he_mom_vt;HE-MOM VT;
 76mm_sapom_sap;SAP-OM SAP;
 76mm_oto_apfsds;APFSDS;
+weapons/127mm_54_oto_melara_compact_naval_user_cannon;Cannone OTO-Melara 127/54 C
+127mm_54_it_mk42_mod0_common;SP Mk 42 Mod 0
+127mm_54_it_hc_mk41_mod0;HC Mk 41 Mod 0
+127mm_54_it_vt_hc_mk41;HC-VT Mk 41 Mod 0
 
 weapons/90mm_90_50_M3A1_user_cannon;Cannone da 90/50 M3A1;
 

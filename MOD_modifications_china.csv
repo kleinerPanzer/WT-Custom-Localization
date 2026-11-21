@@ -78,6 +78,8 @@ modification/cn_ba_11;Blue Arrow 11A
 
 modification/cn_cm_502kg/desc;Allows installation of {unlockWeapons} missiles.
 modification/cn_cm_502kg;CM-502KG
+modification/cn_cm_502kg_mitl/desc;Allows installation of {unlockWeapons} missiles.
+modification/cn_cm_502kg_mitl;CM-502KG
 
 modification/mig_19_pl2/desc;Allows installation of {unlockWeapons} missiles on PF2 launchers.
 modification/mig_19_pl2;PF2

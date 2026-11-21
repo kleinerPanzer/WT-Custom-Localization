@@ -236,8 +236,8 @@ modification/f-82_gunpod;NAGP Mk 1 Mod 0;
 modification/f-82_gunpod/desc;Allows installation of 1 x NAGP Mk 1 Mod 0 gun pod.;
 modification/dgp-1_gunpod;DGP-1;
 modification/dgp-1_gunpod/desc;Allows installation of 2 x DGP-1 gun pods.;
-modification/a_26_gunpod	Wing Guns
-modification/a_26_gunpod/desc	Allows the installation of additional Caliber .50 AN/M2 machine guns under the wings.
+modification/a_26_gunpod;Wing Guns
+modification/a_26_gunpod/desc;Allows the installation of additional Caliber .50 AN/M2 machine guns under the wings.
 modification/b-29_sbc;SBC-40;
 modification/b-29_sbc/desc;Allows installation of additional 500 lb bombs.;
 modification/b-29_mbc;MBC-12;
@@ -342,6 +342,8 @@ modification/us_aim_4g/desc;Allows installation of AIM-4G air-to-air missiles.
 modification/us_aim_4g;AIM-4G
 modification/us_aim_4f/desc;Allows installation of AIM-4F air-to-air missiles.
 modification/us_aim_4f;AIM-4F
+modification/us_aim_26b/desc;Allows the installation of AIM-26B air-to-air missiles.
+modification/us_aim_26b;AIM-26B
 modification/us_aim_9b/desc;Allows installation of AIM-9B air-to-air missiles.;
 modification/us_aim_9b;AIM-9B;
 modification/us_aim_9b_fgw_2/desc;Allows installation of AIM-9B/FGW Mod. 2 air-to-air missiles.;
@@ -483,7 +485,7 @@ modification/anti_radiation_missile_agm_122;AGM-122A
 modification/us_agm_65/desc;Allows installation of {unlockWeapons}
 modification/us_agm_65;AGM-65
 modification/us_agm_84d/desc;Allows installation of {unlockWeapons}
-modification/us_agm_84d;AGM-84D
+modification/us_agm_84d;AGM-84
 modification/us_agm_114b/desc;Allows installation of {unlockWeapons}
 modification/us_agm_114b;AGM-114B
 modification/us_agm_114k/desc;Allows installation of {unlockWeapons}

@@ -82,6 +82,8 @@ weapons/us_500lbs;Bomb, General Purpose: 500-lb, AN/M64A1;
 weapons/us_500lbs/short;AN/M64A1;
 weapons/us_500lb_anm64a1;Bomb, General Purpose: 500-lb, AN/M64A1;
 weapons/us_500lb_anm64a1/short;AN/M64A1;
+weapons/us_500lb_anm64a1_default;Bomb, General Purpose: 500-lb, AN/M64A1;
+weapons/us_500lb_anm64a1_default/short;AN/M64A1;
 weapons/us_500lb_anm64a1_rod;Bomb, General Purpose: 500-lb, AN/M64A1;
 weapons/us_500lb_anm64a1_rod/short;AN/M64A1;
 
@@ -179,3 +181,10 @@ weapons/us_500_lb_blu_23b/short;BLU-23/B;
 
 weapons/us_blu27b;Bomb, Fire: 750-lb, BLU-27/B;
 weapons/us_blu27b/short;BLU-27/B;
+
+// CBU //
+weapons/us_cbu_58b;Bomb, Cluster, CBU-58/B
+weapons/us_cbu_58b/short;CBU-58/B
+
+weapons/us_cbu_87b;Bomb, Cluster, CBU-87/B Combined Effects Munition
+weapons/us_cbu_87b/short;CBU-87/B

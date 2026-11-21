@@ -3,6 +3,8 @@
 // GROUND //
 
 shop/group/cn_cm_ptz_group;CM25 / PTZ89
+shop/group/cn_cm_zbd_group;CM34 / ZBD04
+
 
 cn_m10_shop;☀ M10
 cn_m10_0;M10戰車

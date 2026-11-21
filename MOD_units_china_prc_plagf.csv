@@ -189,6 +189,10 @@ cn_type_86_1;ZBD86
 cn_type_86_2;ZBD86
 
 // Type 04 //
+cn_zbd_04_shop;ZBD04
+cn_zbd_04_0;ZBD04式履带步兵战车
+cn_zbd_04_1;ZBD04
+cn_zbd_04_2;ZBD04
 cn_zbd_04a_shop;ZBD04A
 cn_zbd_04a_0;ZBD2004A式履带步兵战车
 cn_zbd_04a_1;ZBD04A

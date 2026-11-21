@@ -13,25 +13,31 @@ uk_garford_putilov_event_1;Путилов-Гарфорд;
 uk_garford_putilov_event_2;Путилов-Гарфорд;
 
 ussr_destroyer_kerch_shop;Керчь
-ussr_destroyer_kerch_0;"<color=#C0C0C0>Эскадренный миноносец тип «Фидониси»</color>
+ussr_destroyer_kerch_0;"<color=#C0C0C0>Эскадренный миноносец типа «Фидониси»</color>
 Керчь"
 ussr_destroyer_kerch_1;Керчь
 ussr_destroyer_kerch_2;Тип «Фидониси»
 
 ussr_battlecruiser_izmail_shop;Измаил
-ussr_battlecruiser_izmail_0;"<color=#C0C0C0>Линейный крейсер тип «Измаил»</color>
+ussr_battlecruiser_izmail_0;"<color=#C0C0C0>Линейный крейсер типа «Измаил»</color>
 Измаил"
 ussr_battlecruiser_izmail_1;Измаил
 ussr_battlecruiser_izmail_2;Тип «Измаил»
 
 ussr_battleship_imperatritsa_mariya_shop;Императрица Мария
-ussr_battleship_imperatritsa_mariya_0;"<color=#C0C0C0>Линейный корабль тип «Императрица Мария»</color>
+ussr_battleship_imperatritsa_mariya_0;"<color=#C0C0C0>Линейный корабль типа «Императрица Мария»</color>
 Императрица Мария"
 ussr_battleship_imperatritsa_mariya_1;Императрица Мария
 ussr_battleship_imperatritsa_mariya_2;Тип «Императрица Мария»
 
+ussr_battleship_imperator_nikolai_pervyi_shop;Император Николай I
+ussr_battleship_imperator_nikolai_pervyi_0;"<color=#C0C0C0>Броненосец типа «Императрица Мария»</color>
+Император Николай I"
+ussr_battleship_imperator_nikolai_pervyi_1;Император Николай I
+ussr_battleship_imperator_nikolai_pervyi_2;Тип «Императрица Мария»
+
 ussr_battleship_poltava_shop;Полтава
-ussr_battleship_poltava_0;"<color=#C0C0C0>Линейный корабль тип «Севастополь»</color>
+ussr_battleship_poltava_0;"<color=#C0C0C0>Линейный корабль типа «Севастополь»</color>
 Полтава
 <color=#C0C0C0>1917 refit</color>"
 ussr_battleship_poltava_1;Полтава

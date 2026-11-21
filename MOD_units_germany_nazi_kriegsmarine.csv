@@ -358,6 +358,12 @@ germ_battleship_bismarck_0;"Schlachtschiff Bismarck
 germ_battleship_bismarck_1;Bismarck
 germ_battleship_bismarck_2;Bismarck-type
 
+germ_battleship_pr_h39_shop;H
+germ_battleship_pr_h39_0;"Schalchtshiff H
+<color=#C0C0C0>1939 design</color>"
+germ_battleship_pr_h39_1;H
+germ_battleship_pr_h39_2;Schalchtshiff H
+
 // U-BOOTE //
 germ_sub_type_7_shop;U 995
 germ_sub_type_7_0;"<color=#C0C0C0>Unterseeboot Typ VII C/41</color>

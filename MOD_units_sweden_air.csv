@@ -216,6 +216,11 @@ saab_ja37di_f21_0;"Flygplan JA 37Di Viggen
 saab_ja37di_f21_1;JA 37Di
 saab_ja37di_f21_2;JA 37
 
+saab_jas39_pre_serie_shop;JAS 39 (55)
+saab_jas39_pre_serie_0;"JAS 39 (55) Gripen
+<color=#C0C0C0>Apr 1998 weapons test</color> <color=#B34D4D>with Cobra Helmet Mounted Sight</color>"
+saab_jas39_pre_serie_1;JAS 39
+saab_jas39_pre_serie_2;JAS 39
 saab_jas39a_shop;JAS 39A
 saab_jas39a_0;"Flygplan JAS 39A Gripen
 <color=#C0C0C0>2008 modifications</color>"
