@@ -226,3 +226,5 @@ modification/tiger_atgw3/desc;Allows installation of {unlockWeapons} missiles.
 modification/tiger_atgw3;PARS 3 LR;
 modification/tiger_trigat_lr/desc;Allows installation of {unlockWeapons} missiles.
 modification/tiger_trigat_lr;TRIGAT-LR
+modification/de_x4_ruhrstahl/desc;Allows installation of {unlockWeapons} missiles.
+modification/de_x4_ruhrstahl;E.T.C. 70 A-1

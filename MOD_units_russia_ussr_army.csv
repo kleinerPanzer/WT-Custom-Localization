@@ -425,7 +425,7 @@ ussr_bt_7_m_0;Танк БТ-7М
 ussr_bt_7_m_1;БТ-7М
 ussr_bt_7_m_2;БТ-7
 ussr_bt_7_m_816_shop;◆ БТ-7М
-ussr_bt_7_m_816_0;Танк БТ-7М
+ussr_bt_7_m_816_0;"Танк БТ-7М
 <color=#E3D452>25-й танковый корпус</color>
 <color=#E3D452>◆ WTCS ◆</color>"
 ussr_bt_7_m_816_1;БТ-7М
@@ -524,7 +524,7 @@ ussr_kv_122_0;"Танк КВ-122
 ussr_kv_122_1;КВ-122
 ussr_kv_122_2;КВ-122
 
-shop/group/ussr_is_2_1944_group;ИС-2 (Jan 1945) / ИС-2 (Jan 1945)
+shop/group/ussr_is_2_1944_group;"ИС-2 (Jan 1945) / ИС-2 (Jan 1945)"
 ussr_is_1_shop;ИС-1
 ussr_is_1_0;Танк ИС-1
 ussr_is_1_1;ИС-1
